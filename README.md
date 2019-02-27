@@ -6,12 +6,12 @@ The code in this repository is intended for use in the [Inscriptions of Israel /
 
 0. Clone or download the repository.
 1. Enter the project directory with `cd iip-word-lists`
-2. Create a virtual environment with the appropriate dependencies by 
-   running `virtualenv -p python3 environment`. If you do not have 
+2. Create a virtual environment with the appropriate dependencies by
+   running `virtualenv -p python3 environment`. If you do not have
    virtualenv installed, install it using your system's package manager,
    or with pip by running `pip install virtualenv`.
 3. Activate the virtual environment by running `source environment/bin/activate`
-   (The virtual environment must be active whenever you run the python 
+   (The virtual environment must be active whenever you run the python
    code or rebuild the site. If it is active, you should see `(environment)`
    before the prompt in your terminal.)
 4. Install the necessary dependencies by running `pip install -r requirements.txt`
@@ -20,7 +20,7 @@ The code in this repository is intended for use in the [Inscriptions of Israel /
 ### To run the site locally
 
 0. Enter the docs directory with `cd docs`
-1. Start an http server by running `python -m SimpleHTTPServer 8000` 
+1. Start an http server by running: `python -m SimpleHTTPServer 8000` or in Python3: `python -m http.server 8000`
 2. Open `localhost:8000` in your web browser
 
 (You can view the files without running the server, but some links will
@@ -52,7 +52,7 @@ not work.)
 
 ### Lemmatization
 
-A word's *lemma* is its "basic" form as it might appear in a dictionary. For instance, the lemma of "rethinking" is "think." The process of getting a lemma from a word is called "lemmatization." Lemmatization allows this project to recognize different strings as instances of the same word, which is very useful for learning about the usage and distributions of specific words. 
+A word's *lemma* is its "basic" form as it might appear in a dictionary. For instance, the lemma of "rethinking" is "think." The process of getting a lemma from a word is called "lemmatization." Lemmatization allows this project to recognize different strings as instances of the same word, which is very useful for learning about the usage and distributions of specific words.
 
 Lemmatization is currently done only for Latin and Greek, as provided by [CLTK](https://cltk.org).
 
@@ -66,14 +66,14 @@ This project uses several libraries and toolkits.
 
 ## Problems Encountered
 
-* Line breaks following certain tags indicate the start of a new word. 
+* Line breaks following certain tags indicate the start of a new word.
   These are currently listed in the global variable `include_trailing_linebreak`.
   However, this is not comprehensive. A complete list based on the epidoc
   spec should be added.
 * How should gaps be handled?
 * Graffiti: some transcriptions, such as masa09390.xml, are of graffiti
   and do not contain complete words but just jumbles of characters.
-  Currently these are added to the word list as if they were words, 
+  Currently these are added to the word list as if they were words,
   leading to some strange results. However, if we ignored all files
   marked as containing graffiti, we could potentially lose some words.
 * Should `<num>` elements always indicate the start of a new word?
