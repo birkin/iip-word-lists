@@ -10,6 +10,9 @@ if [ -z "$DOCS" ]; then
 fi
 echo "Using data in $DOCS."
 
+# Procedure for generating the appropriate arguments and running the python script
+# -- worldlist.py -- which parses the xml, generates plain text, and lemmatizes
+# It is not clear to me why this is a procedure, because it is called only once below
 run_script() {
 	source environment/bin/activate;
 	cd $DOCS;
@@ -26,7 +29,8 @@ run_script() {
 	cd ..;
 }
 
-for word in $*; do 
+# Parse command-line arguments
+for word in $*; do
 	if [ "$word" == "--help" ] || [ "$word" == "-h" ]; then
 		printf "Usage:\n
 		-h, --help            Print this message.
@@ -43,9 +47,11 @@ for word in $*; do
 	elif [ "$word" == "--new-system" ] || [ "$word" == "-ns" ]; then
 		new_system=1;
 	fi
-	
+
 done
 
+# Delete all of the old files,
+# including those generated programmatically and downloaded from the repo
 echo "Removing old site...";
 if [ -d $DOCS ]; then
 	cd $DOCS;
@@ -57,15 +63,19 @@ if [ -d $DOCS ]; then
 fi
 mkdir $DOCS
 
+say "updating texts" # Robot voice output so I can do other things while this runs
+
 if [ $update == 1 ]; then
 	echo "Updating texts...";
 	mkdir temp;
 	cd temp;
-	wget $(echo "https://github.com/Brown-University-Library/iip-texts/\
-	archive/master.zip" | sed -e 's:\t::g');
+	wget "https://github.com/Brown-University-Library/iip-texts/archive/master.zip";
+	# wget $(echo "https://github.com/Brown-University-Library/iip-texts/\
+	# archive/master.zip" | sed -e 's:\t::g');
 	unzip master.zip;
 	mkdir ../$DOCS/texts;
 	cp -r iip-texts-master/epidoc-files/ ../$DOCS/texts/xml;
+	# read -p "Press [Enter] key to continue..."
 	cd ..;
 	rm -rf temp;
 	cd $DOCS/texts/xml;
@@ -80,7 +90,9 @@ else
 	mv texts $DOCS;
 fi
 
+say "running lemmatizer" # Robot voice output so I can do other things while this runs
 run_script;
+say "lemmatizer complete"
 
 cp src/web/wordlist.css $DOCS/;
 cp src/web/style.css $DOCS/;

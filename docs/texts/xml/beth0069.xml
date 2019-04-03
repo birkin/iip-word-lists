@@ -2,7 +2,8 @@
 <?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng"?>
 <TEI xmlns:xi="http://www.w3.org/2001/XInclude"
      xmlns="http://www.tei-c.org/ns/1.0"
-     xml:id="beth0069" n="iip">
+     xml:id="beth0069"
+     n="iip">
    <teiHeader>
       <fileDesc><!-- ********** <titleStmt> ********** -->
          <titleStmt>
@@ -31,7 +32,7 @@
                <msContents>
                   <textLang mainLang="grc" otherLangs="he"/>
                   <msItem class="#funerary" ana="#jewish">
-                     <p>Galilee. Beth Shearim. 200 CE to 300 CE. Red painted next to arcosolium. Funerary.</p>
+                     <p>Galilee. Beth Shearim, 200 CE to 300 CE. Arcosolium. Funerary.</p>
                   </msItem>
                </msContents>
                <!-- ********* <physDesc> ********* -->
@@ -43,7 +44,7 @@
                               <height>23</height>
                               <width>38</width>
                            </dimensions>
-                           <p>Next to arcosolium.</p>
+                           <p>Red painted, next to arcosolium.</p>
                         </support>
                         <condition ana="#complete.intact">
                            <p/>
@@ -51,7 +52,7 @@
                      </supportDesc>
                      <!-- ********* <layoutDesc> ********* -->
                      <layoutDesc>
-                        <layout columns="0" writtenLines="4">
+                        <layout columns="1" writtenLines="4">
                            <p/>
                         </layout>
                      </layoutDesc>
@@ -59,7 +60,11 @@
                   <!-- ********* <handDesc> ********* -->
                   <handDesc>
                      <handNote ana="#painted">
-                        <dimensions type="letter" extent="height" unit="cm" atLeast="3" atMost="6"/>/>
+                        <dimensions type="letter"
+                                    extent="height"
+                                    unit="cm"
+                                    atLeast="3"
+                                    atMost="6"/>/&gt;
                      </handNote>
                   </handDesc>
                   <!-- ********* <decoDesc> ********* -->
@@ -73,7 +78,9 @@
                <!-- ********* <history> ********* -->
                <history>
                   <origin>
-                     <date notBefore="0200" notAfter="0300">200 CE to 300 CE</date>
+                     <date period="http://n2t.net/ark:/99152/p0m63njtmv8"
+                           notBefore="0200"
+                           notAfter="0300">200 CE to 300 CE</date>
                      <placeName>
                         <region>Galilee</region>
                         <settlement ref="http://pleiades.stoa.org/places/678063">Beth Shearim</settlement>
@@ -107,6 +114,10 @@
          <change when="2016-12-02" who="persons.xml#Elli_Mylonas">Normalized objectDesc/@ana</change>
          <change when="2016-12-08" who="persons.xml#Elli_Mylonas">Added long object descriptions as support/p notes.</change>
          <change when="2016-12-14" who="persons.xml#Elli_Mylonas">Adding Pleiades IDs to origin/placenames</change>
+         <change when="2019-01-14" who="Gaia Lembi">Corrected multiple unclear</change>
+         <change when="2019-01-29" who="persons.xml#Elli_Mylonas">
+                adding period attribute to date element, with Periodo value.
+            </change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
@@ -124,17 +135,9 @@
               xml:id="beth0069.transcription"
               corresp="#beth0069.translation">
             <p>Εὐμύρι<lb/> Ἀνανία<lb/>
-               <unclear>Ἰ</unclear>
-               <unclear>ο</unclear>
-               <unclear>ύ</unclear>
-               <unclear>δ</unclear>
-               <unclear>α</unclear>
-               <unclear>ς</unclear>
+               <unclear>Ἰούδας</unclear>
                <lb/>
-               <foreign xml:lang="heb">
-					שלום
-					</foreign>
-				.</p>
+               <foreign xml:lang="heb"> שלום </foreign> .</p>
          </div>
          <div type="translation"
               ana="#b2"

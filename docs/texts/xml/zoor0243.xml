@@ -2,7 +2,8 @@
 <?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng"?>
 <TEI xmlns:xi="http://www.w3.org/2001/XInclude"
      xmlns="http://www.tei-c.org/ns/1.0"
-     xml:id="zoor0243" n="iip">
+     xml:id="zoor0243"
+     n="iip">
    <teiHeader>
       <fileDesc><!-- *********** <tleStmt> ********** -->
          <titleStmt>
@@ -25,20 +26,20 @@
          <sourceDesc>
             <msDesc>
                <msIdentifier>
-                  <idno>zoor0243</idno>
+                  <idno>Zoor 0243</idno>
                </msIdentifier>
                <!-- ********* <msContents> ********* -->
                <msContents>
                   <textLang mainLang="grc"/>
                   <msItem class="#funerary.epitaph" ana="#christian">
-                     <p>Negev. Zoora. August 19th-September 17th, 485 CE. Reddish sandstone tombstone. Epitaph.</p>
+                     <p>Negev. Zoora. August 19th-September 17th, 485 CE. Tombstone. Epitaph.</p>
                   </msItem>
                </msContents>
                <!-- ********* <physDesc> ********* -->
                <physDesc><!-- ********* <objectDesc> ********* -->
                   <objectDesc ana="#tombstone">
-                     <supportDesc>
-                        <support>
+                     <supportDesc ana="stone.other">
+                        <support><p>Reddish sandstone </p>
                            <dimensions type="surface" unit="cm">
                               <height>33</height>
                               <width>20</width>
@@ -59,7 +60,11 @@
                   <!-- ********* <handDesc> ********* -->
                   <handDesc>
                      <handNote ana="#engraved">
-                        <dimensions type="letter" extent="height"  unit="cm" atLeast="1" atMost="2.3"/>
+                        <dimensions type="letter"
+                                    extent="height"
+                                    unit="cm"
+                                    atLeast="1"
+                                    atMost="2.3"/>
                      </handNote>
                   </handDesc>
                   <!-- ********* <decoDesc> ********* -->
@@ -73,15 +78,16 @@
                <!-- ********* <history> ********* -->
                <history>
                   <origin>
-                     <date notBefore="0485" notAfter="0485">August 19th - September 17th, 485 CE</date>
+                     <date period="http://n2t.net/ark:/99152/p0m63njjcn4"
+                           notBefore="0485"
+                           notAfter="0485">August 19th - September 17th, 485 CE</date>
                      <placeName>
                         <region>Negev</region>
                         <settlement ref="http://pleiades.stoa.org/places/697768">Zoora</settlement>
                         <geogName type="site">An Naq</geogName>
-                        <geogFeat type="locus">cemetery</geogFeat>
+                        <geogFeat type="locus">Cemetery</geogFeat>
                      </placeName>
-                     <p>Negev.
-                            Zoora. Found by local inhabitants in the northwest corner of the Bronze
+                     <p>Found by local inhabitants in the northwest corner of the Bronze
                             Age, Byzantine and Islamic cemetery in the An Naq neighborhood south of
                             the Wadi al-Hasa, probably in secondary use in later graves.</p>
                   </origin>
@@ -106,6 +112,10 @@
       <revisionDesc>
          <change when="2012-02-27" who="persons.xml#Andrew_Tobolowsky">Creation</change>
          <change when="2016-12-14" who="persons.xml#Elli_Mylonas">Adding Pleiades IDs to origin/placenames</change>
+         <change when="2019-01-29" who="persons.xml#Elli_Mylonas">
+                adding period attribute to date element, with Periodo value.
+            </change>
+         <change when="2019-02-11" who="Gaia Lembi">Edited metadata and corrected encoding</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
@@ -124,49 +134,49 @@
               corresp="#zoor0243.translation">
             <p>
                <choice>
-                  <sic>
-                     <supplied reason="undefined">Μ</supplied>νημῖον</sic>
-                  <corr>Μνημεῖον</corr>
+                  <orig>
+                     <supplied reason="undefined">Μ</supplied>νημῖον</orig>
+                  <reg>Μνημεῖον</reg>
                </choice> Σίλθα<lb/>
                <supplied reason="undefined">Κ</supplied>
                <unclear>λ</unclear>αυδίου, <choice>
-                  <sic>ἀπα<lb/>
-                     <supplied reason="undefined">θα</supplied>νούσης</sic>
-                  <corr>ἀποθανούσης</corr>
+                  <orig>ἀπα<lb break="no"/>
+                     <supplied reason="undefined">θα</supplied>νούσης</orig>
+                  <reg>ἀποθανούσης</reg>
                </choice> μετὰ<lb/>
                <supplied reason="undefined">κα</supplied>
                <unclear>λ</unclear>οῦ ὀνόματος<lb/>
-               <choice>
+               <expan>
                   <abbr>
                      <supplied reason="undefined">κ</supplied>
                   </abbr>
-                  <expan>καὶ</expan>
-               </choice>
+                  <ex>αὶ</ex>
+               </expan>
                <unclear>κ</unclear>αλῆς πίστεως<lb/>
                <supplied reason="undefined">ἐτ</supplied>
                <unclear>ῶ</unclear>ν ξʹ, έν <choice>
-                  <sic>ἔτι</sic>
-                  <corr>ἔτει</corr>
+                  <orig>ἔτι</orig>
+                  <reg>ἔτει</reg>
                </choice> τπʹ,<lb/>
                <supplied reason="undefined">μην</supplied>ὶ <choice>
-                  <sic>Γαρπιέου</sic>
-                  <corr>Γορπιαίου</corr>
+                  <orig>Γαρπιέου</orig>
+                  <reg>Γορπιαίου</reg>
                </choice>
                <lb/>
                <gap reason="illegible" quantity="2" unit="character"/>
                <unclear>ἡ</unclear>μέρᾳ δʹ.<lb/>
                <choice>
-                  <sic>
+                  <orig>
                      <supplied reason="undefined">Θάρ</supplied>
-                     <unclear>σ</unclear>ι</sic>
-                  <corr>Θάρσει</corr>
+                     <unclear>σ</unclear>ι</orig>
+                  <reg>Θάρσει</reg>
                </choice>, <choice>
-                  <sic>οὐδὶς</sic>
-                  <corr>οὐδείς</corr>
+                  <orig>οὐδὶς</orig>
+                  <reg>οὐδείς</reg>
                </choice>
                <lb/>
                <supplied reason="undefined">ἀθά</supplied>
-               <unclear>ν</unclear>ατος. +</p>
+               <unclear>ν</unclear>ατος. <g type="cross">+</g></p>
          </div>
          <div type="translation"
               ana="#b1"

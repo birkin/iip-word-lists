@@ -11,7 +11,7 @@ def remove_namespace(tagtext):
 					ns_stripped = True
 				if ns_stripped:
 					modified_tagtext += character
-				
+
 	return modified_tagtext
 
 def word_list_to_str_list(word_list):

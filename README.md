@@ -20,7 +20,7 @@ The code in this repository is intended for use in the [Inscriptions of Israel /
 ### To run the site locally
 
 0. Enter the docs directory with `cd docs`
-1. Start an http server by running: `python -m SimpleHTTPServer 8000` or in Python3: `python -m http.server 8000`
+1. Start an http server by running: `python -m SimpleHTTPServer 8000` or in Python3: `python3 -m http.server 8000`
 2. Open `localhost:8000` in your web browser
 
 (You can view the files without running the server, but some links will

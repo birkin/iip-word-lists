@@ -1,2 +1,2 @@
-IMP CAESAR VESPASIAN AUG IMP T C SAR VESP AUG L AUG PR PR LEG X FR imperator Caesar Vespasianus augustus imperator Titus Caesar Vespasianus augustus lucius augustus praeficio praetorius legio X Fretensis 
+IMP CAESAR VESPASIAN AUG IMP T C SAR VESP AUG L AUG PR PR LEG X FR Imperator Caesar Vespasianus Augustus Imperator Titus Caesar Vespasianus Augustus Lucius Augustus Praefectus Praetorio Legio X Fretensis 
 

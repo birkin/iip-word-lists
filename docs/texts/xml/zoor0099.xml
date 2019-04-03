@@ -2,7 +2,8 @@
 <?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng"?>
 <TEI xmlns:xi="http://www.w3.org/2001/XInclude"
      xmlns="http://www.tei-c.org/ns/1.0"
-     xml:id="zoor0099" n="iip">
+     xml:id="zoor0099"
+     n="iip">
    <teiHeader>
       <fileDesc><!-- *********** <tleStmt> ********** -->
          <titleStmt>
@@ -63,7 +64,11 @@
                   <!-- ********* <handDesc> ********* -->
                   <handDesc>
                      <handNote ana="#engraved">
-                        <dimensions type="letter" extent="height"  unit="cm" atLeast="0.5" atMost="1.5"/>
+                        <dimensions type="letter"
+                                    extent="height"
+                                    unit="cm"
+                                    atLeast="0.5"
+                                    atMost="1.5"/>
                      </handNote>
                   </handDesc>
                   <!-- ********* <decoDesc> ********* -->
@@ -77,12 +82,14 @@
                <!-- ********* <history> ********* -->
                <history>
                   <origin>
-                     <date notBefore="0411" notAfter="0411">December 17, 411 CE</date>
+                     <date period="http://n2t.net/ark:/99152/p0m63njjcn4"
+                           notBefore="0411"
+                           notAfter="0411">December 17, 411 CE</date>
                      <placeName>
                         <region>Negev</region>
                         <settlement ref="http://pleiades.stoa.org/places/697768">Zoora</settlement>
                         <geogName type="site">An Naq</geogName>
-                        <geogFeat type="locus">cemetery</geogFeat>
+                        <geogFeat type="locus">Cemetery</geogFeat>
                      </placeName>
                      <p>Found by local inhabitants in the northwest corner of the Bronze Age,
                         Byzantine and Islamic cemetery in the An Naq neighborhood south of the Wadi
@@ -110,6 +117,9 @@
          <change when="2011-10-20" who="persons.xml#Kerry_Sonia">Creation</change>
          <change when="2016-12-14" who="persons.xml#Elli_Mylonas">Adding Pleiades IDs to origin/placenames</change>
          <change when="2017-06-28" who="Gaia Lembi">Edited metadata; corrected encoding</change>
+         <change when="2019-01-29" who="persons.xml#Elli_Mylonas">
+                adding period attribute to date element, with Periodo value.
+            </change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
@@ -126,28 +136,33 @@
               subtype="transcription"
               xml:id="zoor0099.transcription"
               corresp="#zoor0099.translation">
-            <p><g type="sun-disc"></g><lb/>
+            <p>
+               <g type="sun-disc"/>
+               <lb/>
                <choice>
-                  <sic>Μνημῖον</sic>
-                  <corr>Μνημεῖον</corr>
+                  <orig>Μνημῖον</orig>
+                  <reg>Μνημεῖον</reg>
                </choice> Σεούδα <choice>
-                  <sic>Θ<unclear>α</unclear>
+                  <orig>Θ<unclear>α</unclear>
                      <lb break="no"/>
                      <unclear>δδέου</unclear>
-                  </sic>
-                  <corr>Θαδδαίου</corr>
+                  </orig>
+                  <reg>Θαδδαίου</reg>
                </choice>, παυσαμένη
                         μ<unclear>ε</unclear>
                <lb break="no"/>τὰ καλοῦ <choice>
-                  <sic>ἀ<unclear>ν</unclear>όμα<supplied reason="lost">τος</supplied>
-                  </sic>
-                  <corr>ὀνόματος</corr>
+                  <orig>ἀ<unclear>ν</unclear>όμα<supplied reason="lost">τος</supplied>
+                  </orig>
+                  <reg>ὀνόματος</reg>
                </choice>
                <lb/> καὶ καλῆς
                         πίστ<unclear>ε</unclear>
                <supplied reason="lost">ως</supplied>
                <lb/> ἐτῶν μʹ,<lb/>
-               ἔτου<unclear>ς</unclear> τςʹ, <expan><abbr>μη</abbr><ex>νὸς</ex></expan>
+               ἔτου<unclear>ς</unclear> τςʹ, <expan>
+                  <abbr>μη</abbr>
+                  <ex>νὸς</ex>
+               </expan>
                <lb/>
                <unclear>Αὐδονέ</unclear>ου αʹ,<lb/>
                <expan>
@@ -156,17 +171,21 @@
                   </abbr>
                   <expan>έρᾳ</expan>
                </expan>
-               <expan><abbr>Κ</abbr><ex>υρίο</ex><abbr>υ</abbr></expan> βʹ.<lb/>
+               <expan>
+                  <abbr>Κ</abbr>
+                  <ex>υρίο</ex>
+                  <abbr>υ</abbr>
+               </expan> βʹ.<lb/>
                <choice>
-                  <sic>
+                  <orig>
                      <unclear>Θάρσι</unclear>
-                  </sic>
-                  <corr>Θάρσει</corr>
+                  </orig>
+                  <reg>Θάρσει</reg>
                </choice>, <unclear>Σεού</unclear>δα,
                         <choice>
-                  <sic>ο<unclear>ὐ</unclear>δ<unclear>ὶς</unclear>
-                  </sic>
-                  <corr>ουδεὶς</corr>
+                  <orig>ο<unclear>ὐ</unclear>δ<unclear>ὶς</unclear>
+                  </orig>
+                  <reg>ουδεὶς</reg>
                </choice>
                <lb/>
                <supplied reason="lost">ἀθάνα</supplied>τος.</p>

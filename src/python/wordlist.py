@@ -21,6 +21,7 @@ from cltk.stem.latin.j_v import JVReplacer
 from nltk.corpus import stopwords
 from cltk.tag.pos import POSTag
 from cltk.stem.latin.stem import Stemmer
+from cltk.utils.file_operations import open_pickle
 from repl import *
 from wordlist_constants import *
 from wordlist_output import *
@@ -33,6 +34,11 @@ from wordlist_commands import *
 from wordlist_builder import *
 from wordlist_getter import *
 from wordlist_pos_standardization import *
+
+# New backoff lemmatizer - CC 19/3/15
+from cltk.utils.file_operations import open_pickle
+from cltk.lemmatize.latin.backoff import BackoffLatinLemmatizer
+from cltk.tokenize.word import WordTokenizer
 
 def print_usage():
 	print("wordlist.py [file1] [file2] ... \n"
@@ -51,13 +57,33 @@ def flatten_list(word_list):
 def remove_digits(some_string):
 	return ''.join([i for i in some_string if not i.isdigit()])
 
-la_corpus_importer = CorpusImporter('latin')
-la_corpus_importer.import_corpus('latin_text_latin_library')
-la_corpus_importer.import_corpus('latin_models_cltk')
-la_lemmatizer = LemmaReplacer('latin')
+# Latin Lemmatizer (OLD)
+# la_corpus_importer = CorpusImporter('latin')
+# la_corpus_importer.import_corpus('latin_text_latin_library')
+# la_corpus_importer.import_corpus('latin_models_cltk')
+# la_lemmatizer = LemmaReplacer('latin')
+
+
+# Latin Lemmatizer (NEW with backoff)
+# Set up training sentences
+rel_path = os.path.join('/Users/christiancasey/cltk_data/latin/model/latin_models_cltk/lemmata/backoff')
+path = os.path.expanduser(rel_path)
+# Check for presence of latin_pos_lemmatized_sents
+file = 'latin_pos_lemmatized_sents.pickle'
+latin_pos_lemmatized_sents_path = os.path.join(path, file)
+if os.path.isfile(latin_pos_lemmatized_sents_path):
+    latin_pos_lemmatized_sents = open_pickle(latin_pos_lemmatized_sents_path)
+else:
+    latin_pos_lemmatized_sents = []
+    print('The file %s is not available in cltk_data' % file)
+la_lemmatizer = BackoffLatinLemmatizer(latin_pos_lemmatized_sents)
+
+# Greek Lemmatizer
 grc_corpus_importer = CorpusImporter('greek')
 grc_corpus_importer.import_corpus('greek_models_cltk')
 grc_lemmatizer = LemmaReplacer('greek')
+
+
 def lemmatize(word_list, copy):
 	for word in word_list:
 		if copy:
@@ -65,7 +91,10 @@ def lemmatize(word_list, copy):
 			return
 		if word.language in LATIN_CODES:
 			word.lemmatization = \
-			    remove_digits(la_lemmatizer.lemmatize(word.text)[0])
+			    remove_digits(la_lemmatizer.lemmatize([word.text])[0][1])
+				# [] are needed to turn the string into a list.
+				# Otherwise the lemmatizer splits up individual characters and produces garbage.
+				# The [0][1] is needed because this new lemmatizer outputs a tuple
 		elif word.language in GREEK_CODES:
 			word.lemmatization = \
 			    remove_digits(grc_lemmatizer.lemmatize(word.text)[0])
@@ -93,7 +122,12 @@ def print_word_info(word_string, word_dict):
 
 def get_words_from_file(path, file_dict, new_system):
 	with open(path, "r") as path_file:
-		file_string = path_file.read().replace("...", " ").encode("utf-8")
+		file_string = path_file.read().replace("...", " ")#.encode("utf-8")
+
+	# Cludge to fix the problem with abbreviations being split into two words
+	file_string = re.sub(r"\n(\s+)\<\/abbr\>", "</abbr>", file_string)#.decode('utf-8'))
+	file_string = file_string.encode('utf-8')
+
 	root = etree.fromstring(file_string)
 	words = []
 	nsmap = {'tei': "http://www.tei-c.org/ns/1.0"}
@@ -101,17 +135,17 @@ def get_words_from_file(path, file_dict, new_system):
 	textLang = root.find('.//' + TEI_NS + 'textLang')
 	textRegion = root.find('.//' + TEI_NS + 'region')
 	if textRegion != None:
-		file_dict[path] = iip_file(path, textRegion.text)	
+		file_dict[path] = iip_file(path, textRegion.text)
 	mainLang = ""
 	other_langs = ""
 	if (textLang != None):
 		mainLang = textLang.attrib['mainLang']
 		other_langs = textLang.get("otherLangs")
 	#if other_langs != "":
-		
+
 	for edition in (
-		root.findall(".//tei:div[@type='edition']", namespaces=nsmap) 
-		+ root.findall(".//tei:div[@type='translation']", 
+		root.findall(".//tei:div[@type='edition']", namespaces=nsmap)
+		+ root.findall(".//tei:div[@type='translation']",
 		               namespaces=nsmap)
 	):
 		if mainLang.strip() == "":
@@ -148,9 +182,9 @@ def get_words_from_file(path, file_dict, new_system):
 				))
 				if other_langs != "" and other_langs != None:
 					if not "-transl" in mainLang and not "arc" in mainLang:
-						#print(path + " has other_langs")
+						print(path + " has other_langs")
 						new_words[-1].lang = get_lang_by_alphabet(new_words[-1])
-						#print("lang: " + new_words[-1].lang)
+						print("lang: " + new_words[-1].lang)
 				new_words[-1].internal_elements = e.internal_elements
 				new_words[-1].alternatives = e.alternatives
 				new_words[-1].preceding = e.preceding
@@ -161,10 +195,10 @@ def get_words_from_file(path, file_dict, new_system):
 							new_words[-1].pos = standardize_pos(tagged_word[1])
 			#endloop
 		else:
-			new_words = [iip_word_occurrence(edition_type, 
+			new_words = [iip_word_occurrence(edition_type,
 			             mainLang, "", path, textRegion.text, [])]
-			add_element_to_word_list(edition, new_words, edition, 
-			                         mainLang, path, textRegion.text, 
+			add_element_to_word_list(edition, new_words, edition,
+			                         mainLang, path, textRegion.text,
 			                         [])
 		#endif
 		words += new_words
@@ -175,7 +209,7 @@ def get_words_from_file(path, file_dict, new_system):
 		for pattern in IGNORE:
 			word.text = word.text.replace(pattern, "")
 		if (word.text.strip() == ""):
-			null_words.append(word)	
+			null_words.append(word)
 		if word.language.strip() == "":
 			word.language = "unk"
 	words = [x for x in words if x not in null_words]
@@ -184,14 +218,23 @@ def get_words_from_file(path, file_dict, new_system):
 
 ad = AlphabetDetector()
 def get_lang_by_alphabet(word):
-	print("Setting lang by alphabet for " + word.text)
+	strLang = "" # Put return value in string for debugging output
 	# This doesn't work for aramaic
-	if ad.is_greek(word.text): return "grc"
-	if ad.is_latin(word.text): return "la"
-	if ad.is_hebrew(word.text): return "heb"
+	# /\ It doesn't work ever, Aramaic demonstrates why (script != language)
+	if ad.is_greek(word.text): strLang = "grc"
+	if ad.is_latin(word.text): strLang = "lat"
+	if ad.is_hebrew(word.text): strLang = "heb"
+
+	print("Setting lang by alphabet (" + strLang + ") for " + word.text )
+	if strLang == "lat": strLang = "la" # Quick hack to keep lang codes same length in output above
+	return strLang
 
 if __name__ == '__main__':
-	parser = argparse.ArgumentParser(description="""Produce word list 
+	system('clear')
+	for i in range(100):
+		print('\n')
+	
+	parser = argparse.ArgumentParser(description="""Produce word list
 	                                                from files.""")
 	args = add_arguments(parser).parse_args()
 	new_system = True
@@ -199,17 +242,17 @@ if __name__ == '__main__':
 		new_system = False
 
 	# Extract words from each file
-	
-	# Contains the iip_word_occurrence objects 
-	occurrences = []  
-	
+
+	# Contains the iip_word_occurrence objects
+	occurrences = []
+
 	# Contains the iip_word objects
 	word_dict = defaultdict(lambda: defaultdict(lambda: iip_word()))
-	
+
 	# Maps file names to iip_file objects
-	file_dict = {} 
+	file_dict = {}
 	languages = set()
-	
+
 	plaintextdir = "flat"
 	plaintext_lemmatize = True
 	if args.nolemma != None:
@@ -236,9 +279,9 @@ if __name__ == '__main__':
 				sys.stderr.write("Cannot read " + file + "\n")
 	#endloop
 
-	# If this is too slow, it should be changed to be parameters for 
-	# get_words_from_file so as to avoid iterating over the entire 
-	# list.	
+	# If this is too slow, it should be changed to be parameters for
+	# get_words_from_file so as to avoid iterating over the entire
+	# list.
 	filtered_words = []
 	stop_words = set(stopwords.words('english'))
 	for word in occurrences:
@@ -248,20 +291,20 @@ if __name__ == '__main__':
 		if args.nodiplomatic:
 			if word.edition_type == "diplomatic":
 				add = False
-		if (args.engstops and word.text in stop_words 
+		if (args.engstops and word.text in stop_words
 		and "transl" in word.language):
 			add = False
 		if add:
 			filtered_words.append(word)
 		word.xml_context = ""
-		
+
 		delayed_prepend = []
 		delayed_postpend =[]
 		for i in range(0, len(word.text)):
 			for e in word.internal_elements:
 				if not isinstance(e.tag, str):
 					continue
-				if (word.internal_elements[e].start_index == i 
+				if (word.internal_elements[e].start_index == i
 				and word.internal_elements[e].end_index == i):
 					word.xml_context += "<" + e.tag + "/>"
 				else:
@@ -292,12 +335,12 @@ if __name__ == '__main__':
 				start_tag += " " + attribute + "="
 				start_tag += '"' + e.attrib[attribute] + '"'
 			start_tag += ">"
-			word.xml_context = (start_tag + word.xml_context 
+			word.xml_context = (start_tag + word.xml_context
 			                    + "</" + tag + ">")
 		word.xml_context = word.xml_context.replace(XML_NS, "")\
 			.replace(TEI_NS,"")
 	#endloop (occurences)
-		
+
 	if args.nodiplomatic or args.engstops:
 		occurrences = filtered_words
 
@@ -306,7 +349,7 @@ if __name__ == '__main__':
 	translated_occurrence_count = 0
 	for word in occurrences:
 		lang_count[word.language] += 1
-		
+
 		# Add occurrences to dictionary
 		word_languages = [word.language]
 		if "transl" in word.language:
@@ -362,15 +405,15 @@ if __name__ == '__main__':
 				sort_order.append("edition_type")
 			else:
 				print("Invalid sort criterion: '" + e + "'")
-	
+
 	sort_order.reverse()
 	for field in sort_order:
-		occurrences = sorted(occurrences, key=lambda word: 
+		occurrences = sorted(occurrences, key=lambda word:
 			                        word.__dict__[field])
 
 	# Print each extracted word on a new line
 	if not args.silent:
-		for word in occurrences:		
+		for word in occurrences:
 			word.print()
 
 	# Output words to files

@@ -104,7 +104,9 @@
                             <rs/>
                         </summary>
                         <origin>
-                     <date notBefore="-0037" notAfter="-0004">37-4 BCE</date>
+                     <date period="http://n2t.net/ark:/99152/p0m63njw2xp"
+                           notBefore="-0037"
+                           notAfter="-0004">37-4 BCE</date>
                      <placeName>
                                 <region>Judaea</region>
                                 <settlement ref="http://pleiades.stoa.org/places/687968">Masada</settlement>
@@ -145,6 +147,9 @@
         <revisionDesc>
             <change when="2016-02-11" who="William Lu">Initial Entry</change>
         <change when="2016-12-14" who="persons.xml#Elli_Mylonas">Adding Pleiades IDs to origin/placenames</change>
+         <change when="2019-01-29" who="persons.xml#Elli_Mylonas">
+                adding period attribute to date element, with Periodo value.
+            </change>
       </revisionDesc>
     </teiHeader>
     <!--  *************************************  <facsimile>  *********************************
@@ -181,27 +186,31 @@
             </p>
             </div>
             <div type="edition" subtype="transcription" ana="b1">
-                <p>Garum<lb/>
-               <g ref="symbol"/>
+                <p>
+               <foreign xml:lang="lat">Garum</foreign>
                <lb/>
-               <unclear>Δ</unclear>
-               <gap reason="lost" unit="character" extent="unknown"/>
-               <lb/>
-               <expan>
-                  <abbr>βασιλέω</abbr>
-                  <ex>ς</ex>
-               </expan> 
-               <gap reason="illegible" unit="character" quantity="1"/>
-               <gap reason="lost" unit="character" extent="unknown"/>
-               <lb/>
-               <gap reason="illegible" unit="character" extent="unknown"/>ρ<gap reason="illegible" unit="character" quantity="1"/>ο<gap reason="lost" unit="character" extent="unknown"/>
-               <lb/>
-               <expan>
-                  <abbr>A</abbr>
-                  <ex>mphorae</ex>
-               </expan>
-               <gap reason="lost" unit="character" extent="unknown"/>
-            </p>
+                    <g ref="symbol"/>
+                    <lb/>
+                    <unclear>Δ</unclear>
+                    <gap reason="lost" unit="character" extent="unknown"/>
+                    <lb/>
+                    <expan>
+                        <abbr>βασιλέω</abbr>
+                        <ex>ς</ex>
+                    </expan>
+                    <gap reason="illegible" unit="character" quantity="1"/>
+                    <gap reason="lost" unit="character" extent="unknown"/>
+                    <lb/>
+                    <gap reason="illegible" unit="character" extent="unknown"/>ρ<gap reason="illegible" unit="character" quantity="1"/>ο<gap reason="lost" unit="character" extent="unknown"/>
+                    <lb/>
+                    <foreign xml:lang="lat">
+                  <expan>
+                            <abbr>A</abbr>
+                            <ex>mphorae</ex>
+                        </expan>
+               </foreign>
+                    <gap reason="lost" unit="character" extent="unknown"/>
+                </p>
             </div>
             <div type="translation" ana="b1">
                 <p/>

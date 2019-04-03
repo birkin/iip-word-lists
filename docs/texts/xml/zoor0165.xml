@@ -2,7 +2,8 @@
 <?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng"?>
 <TEI xmlns:xi="http://www.w3.org/2001/XInclude"
      xmlns="http://www.tei-c.org/ns/1.0"
-     xml:id="zoor0165" n="iip">
+     xml:id="zoor0165"
+     n="iip">
    <teiHeader>
       <fileDesc><!-- *********** <tleStmt> ********** -->
          <titleStmt>
@@ -64,7 +65,11 @@
                   <!-- ********* <handDesc> ********* -->
                   <handDesc>
                      <handNote ana="#engraved">
-                        <dimensions type="letter" extent="height"  unit="cm" atLeast="1" atMost="1.8"/>
+                        <dimensions type="letter"
+                                    extent="height"
+                                    unit="cm"
+                                    atLeast="1"
+                                    atMost="1.8"/>
                      </handNote>
                   </handDesc>
                   <!-- ********* <decoDesc> ********* -->
@@ -82,12 +87,14 @@
                <!-- ********* <history> ********* -->
                <history>
                   <origin>
-                     <date notBefore="0440" notAfter="0440">August 24, 440 CE</date>
+                     <date period="http://n2t.net/ark:/99152/p0m63njjcn4"
+                           notBefore="0440"
+                           notAfter="0440">August 24, 440 CE</date>
                      <placeName>
                         <region>Negev</region>
                         <settlement ref="http://pleiades.stoa.org/places/697768">Zoora</settlement>
                         <geogName type="site">An Naq</geogName>
-                        <geogFeat type="locus">cemetery</geogFeat>
+                        <geogFeat type="locus">Cemetery</geogFeat>
                      </placeName>
                      <p>Found by local inhabitants in the northwest corner of the Bronze Age,
                         Byzantine and Islamic cemetery in the An Naq neighborhood south of the Wadi
@@ -115,6 +122,10 @@
          <change when="2012-01-05" who="persons.xml#Kerry_Sonia">Creation</change>
          <change when="2016-12-14" who="persons.xml#Elli_Mylonas">Adding Pleiades IDs to origin/placenames</change>
          <change when="2017-06-28" who="Gaia Lembi">Edited metadata; corrected encoding</change>
+         <change when="2019-01-29" who="persons.xml#Elli_Mylonas">
+                adding period attribute to date element, with Periodo value.
+            </change>
+         <change when="2019-02-11" who="Gaia Lembi">Edited metadata and corrected encoding</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
@@ -131,42 +142,47 @@
               subtype="transcription"
               xml:id="zoor0165.transcription"
               corresp="#zoor0165.translation">
-            <p><g type="cross">+</g>
+            <p>
+               <g type="cross">+</g>
                <choice>
-                  <sic>Μνημῖον</sic>
-                  <corr>Μνημεῖον</corr>
+                  <orig>Μνημῖον</orig>
+                  <reg>Μνημεῖον</reg>
                </choice>
                <lb/>
                <choice>
-                  <sic>Ἐπιφονία</sic>
-                  <corr>Ἐπιφανίας</corr>
+                  <orig>Ἐπιφονία</orig>
+                  <reg>Ἐπιφανίας</reg>
                </choice>
                <lb/> Εὐσεβίου, ἀπο<lb break="no"/>θανοῦσα <surplus>ι</surplus> μ<unclear>ε</unclear>
                <lb break="no"/>τὰ καλοῦ <choice>
-                  <sic>ὀνά<lb break="no"/>ματος</sic>
-                  <corr>ὀνόματος</corr>
+                  <orig>ὀνά<lb break="no"/>ματος</orig>
+                  <reg>ὀνόματος</reg>
                </choice> ἐτῶν<lb/> ι<unclear>ζ</unclear>ʹ, ἐν <choice>
-                  <sic>μενὶ</sic>
-                  <corr>μηνὶ</corr>
+                  <orig>μενὶ</orig>
+                  <reg>μηνὶ</reg>
                </choice>
                <lb/>
                <choice>
-                  <sic>
-                     <expan><abbr>Γαρπ</abbr><ex>ιαίῳ</ex></expan>
-                  </sic>
-                  <corr>Γορπιαίῳ</corr>
+                  <orig>
+                     <expan>
+                        <abbr>Γαρπ</abbr>
+                        <ex>ιαίῳ</ex>
+                     </expan>
+                  </orig>
+                  <reg>Γορπιαίῳ</reg>
                </choice> ςʹ, ἐν<lb/>
                <expan>
                   <abbr>
                      <supplied reason="lost">ἔτ</supplied>
-                  </abbr><am>ϛ</am>
+                  </abbr>
+                  <am>ϛ</am>
                   <ex>ει</ex>
                </expan> τλεʹ, <expan>
                   <abbr>
                      <hi rend="ligature">
                         <unclear>ἡ</unclear>μ</hi>
                   </abbr>
-                  <expan>έρᾳ</expan>
+                  <ex>έρᾳ</ex>
                </expan> ζʹ.</p>
          </div>
          <div type="translation"

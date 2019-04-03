@@ -2,7 +2,8 @@
 <?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng"?>
 <TEI xmlns:xi="http://www.w3.org/2001/XInclude"
      xmlns="http://www.tei-c.org/ns/1.0"
-     xml:id="beth0023" n="iip">
+     xml:id="beth0023"
+     n="iip">
    <teiHeader>
       <fileDesc><!-- ********** <titleStmt> ********** -->
          <titleStmt>
@@ -50,7 +51,7 @@
                      </supportDesc>
                      <!-- ********* <layoutDesc> ********* -->
                      <layoutDesc>
-                        <layout columns="0" writtenLines="5">
+                        <layout columns="1" writtenLines="5">
                            <p/>
                         </layout>
                      </layoutDesc>
@@ -58,7 +59,11 @@
                   <!-- ********* <handDesc> ********* -->
                   <handDesc>
                      <handNote ana="#painted">
-                        <dimensions type="letter" extent="height" unit="cm" atLeast="5" atMost="8"/>/>
+                        <dimensions type="letter"
+                                    extent="height"
+                                    unit="cm"
+                                    atLeast="5"
+                                    atMost="8"/>/&gt;
                      </handNote>
                   </handDesc>
                   <!-- ********* <decoDesc> ********* -->
@@ -72,7 +77,7 @@
                <!-- ********* <history> ********* -->
                <history>
                   <origin>
-                     <date notBefore="0250" notAfter="0350">250 CE to 350 CE</date>
+                     <date period="Talmudic" notBefore="0250" notAfter="0350">250 CE to 350 CE</date>
                      <placeName>
                         <region>Galilee</region>
                         <settlement ref="http://pleiades.stoa.org/places/678063">Beth Shearim</settlement>
@@ -103,6 +108,11 @@
          <change when="2005-07-13" who="persons.xml#Jordan_Rosenblum">Revision</change>
          <change when="2006-06-13" who="persons.xml#Jordan_Rosenblum">Revision</change>
          <change when="2016-12-14" who="persons.xml#Elli_Mylonas">Adding Pleiades IDs to origin/placenames</change>
+         <change when="2019-01-29" who="persons.xml#Elli_Mylonas">
+                adding period attribute to date element, with Periodo value.
+            </change>
+         <change when="2019-02-13" who="Gaia Lembi">Corrected encoding (multiple unclear in a
+            row)</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
@@ -118,9 +128,7 @@
               subtype="transcription"
               xml:id="beth0023.transcription"
               corresp="#beth0023.translation">
-            <p>Ἰωσὴφ βαρ Μο<unclear>κ</unclear>
-               <unclear>ι</unclear>
-               <unclear>μ</unclear>
+            <p>Ἰωσὴφ <foreign xml:lang="arc-Grek">βαρ</foreign> Μο<unclear>κιμ</unclear>
                <lb/>
 	Εἰσάκιος<lb/> υἱὼ<lb/> αὑτο<lb break="no"/>ῦ </p>
          </div>

@@ -1,15 +1,15 @@
 DEFAULT_OUTPUT_NAME = "wordlist"
-DEBUG = True 
+DEBUG = True
 TEI_NS = "{http://www.tei-c.org/ns/1.0}"
 XML_NS = "{http://www.w3.org/XML/1998/namespace}"
-IGNORE = ['⎜', '{', '}', '|', '(', '?', ')', ',', ';', '.', ':', 
-           '"', "'", "<", ">", "+", "[", "]", "_", "#", "*", '~', 
+IGNORE = ['⎜', '{', '}', '|', '(', '?', ')', ',', ';', '.', ':',
+           '"', "'", "<", ">", "+", "[", "]", "_", "#", "*", '~',
            '´', '=', '·', '‧', '⋅', '•', '∙', '/']
 WORD_TERMINATING = ["\\", "/"]
 INCLUDE_TRAILING_LINEBREAK = [TEI_NS + "persName", TEI_NS + "abbr",
-                              TEI_NS + "choice", TEI_NS +
-                              "supplied", TEI_NS + "num", TEI_NS + 
-                              "div", TEI_NS + "unclear", TEI_NS + "placeName"]
+                              TEI_NS + "choice", TEI_NS + "supplied",
+							  TEI_NS + "num", TEI_NS + "div",
+							  TEI_NS + "unclear", TEI_NS + "placeName"]
 
 NO_SPAN_WORDS = [TEI_NS + "expan", TEI_NS + "num"]
 
@@ -102,7 +102,7 @@ INDEX_PAGE_HTML = """
 			<!-- <h1></h1> -->
 			<ul id='words'>
 				<noscript id="wordList">
-				
+
 				</noscript>
 			</ul>
 			<script>

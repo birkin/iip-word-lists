@@ -2,7 +2,8 @@
 <?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng"?>
 <TEI xmlns:xi="http://www.w3.org/2001/XInclude"
      xmlns="http://www.tei-c.org/ns/1.0"
-     xml:id="zoor0197" n="iip">
+     xml:id="zoor0197"
+     n="iip">
    <teiHeader>
       <fileDesc><!-- *********** <tleStmt> ********** -->
          <titleStmt>
@@ -25,20 +26,20 @@
          <sourceDesc>
             <msDesc>
                <msIdentifier>
-                  <idno>zoor0197</idno>
+                  <idno>Zoor 0197</idno>
                </msIdentifier>
                <!-- ********* <msContents> ********* -->
                <msContents>
                   <textLang mainLang="grc"/>
                   <msItem class="#funerary.epitaph" ana="#christian">
-                     <p>Negev. Zoora. January 25, 454 CE. White sandstone tombstone. Epitaph.</p>
+                     <p>Negev. Zoora. January 25, 454 CE. Tombstone. Epitaph.</p>
                   </msItem>
                </msContents>
                <!-- ********* <physDesc> ********* -->
                <physDesc><!-- ********* <objectDesc> ********* -->
                   <objectDesc ana="#tombstone">
-                     <supportDesc>
-                        <support>
+                     <supportDesc ana="stone.other">
+                        <support><p>White sandstone</p>
                            <dimensions type="surface" unit="cm">
                               <height>41.5</height>
                               <width>26</width>
@@ -59,7 +60,11 @@
                   <!-- ********* <handDesc> ********* -->
                   <handDesc>
                      <handNote ana="#engraved">
-                        <dimensions type="letter" extent="height"  unit="cm" atLeast="0.1" atMost="2.3"/>
+                        <dimensions type="letter"
+                                    extent="height"
+                                    unit="cm"
+                                    atLeast="0.1"
+                                    atMost="2.3"/>
                      </handNote>
                   </handDesc>
                   <!-- ********* <decoDesc> ********* -->
@@ -77,15 +82,16 @@
                <!-- ********* <history> ********* -->
                <history>
                   <origin>
-                     <date notBefore="0454" notAfter="0454">January 25, 454 CE</date>
+                     <date period="http://n2t.net/ark:/99152/p0m63njjcn4"
+                           notBefore="0454"
+                           notAfter="0454">January 25, 454 CE</date>
                      <placeName>
                         <region>Negev</region>
                         <settlement ref="http://pleiades.stoa.org/places/697768">Zoora</settlement>
                         <geogName type="site">An Naq</geogName>
                         <geogFeat type="locus">cemetery</geogFeat>
                      </placeName>
-                     <p>Negev.
-                            Zoora. Found by local inhabitants in the northwest corner of the Bronze
+                     <p>Found by local inhabitants in the northwest corner of the Bronze
                             Age, Byzantine and Islamic cemetery in the An Naq neighborhood south of
                             the Wadi al-Hasa, probably in secondary use in later graves.</p>
                   </origin>
@@ -110,6 +116,10 @@
       <revisionDesc>
          <change when="2012-01-20" who="persons.xml#Kerry_Sonia">Creation</change>
          <change when="2016-12-14" who="persons.xml#Elli_Mylonas">Adding Pleiades IDs to origin/placenames</change>
+         <change when="2019-01-29" who="persons.xml#Elli_Mylonas">
+                adding period attribute to date element, with Periodo value.
+            </change>
+         <change when="2019-02-11" who="Gaia Lembi">Edited metadata and corrected encoding</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
@@ -127,27 +137,31 @@
               xml:id="zoor0197.transcription"
               corresp="#zoor0197.translation">
             <p>
-               <unclear>Εἷ</unclear>ς <expan><abbr>Θ</abbr><ex>εὸ</ex><abbr>ς</abbr></expan> ὁ βοηθῶν.<lb/>
+               <unclear>Εἷ</unclear>ς <expan>
+                  <abbr>Θ</abbr>
+                  <ex>εὸ</ex>
+                  <abbr>ς</abbr>
+               </expan> ὁ βοηθῶν.<lb/>
                <choice>
-                  <sic>Μνημῖον</sic>
-                  <corr>Μνημεῖον</corr>
-               </choice> Δου<lb/>σαρίου λιβλαρίου,<lb/>
+                  <orig>Μνημῖον</orig>
+                  <reg>Μνημεῖον</reg>
+               </choice> Δου<lb break="no"/>σαρίου λιβλαρίου,<lb/>
                     ἀποθανόντος<lb/> ἐτῶν νςʹ μετὰ<lb/> καλοῦ ὀνόμα<lb/>τος ἐν <choice>
-                  <sic>ἔτι</sic>
-                  <corr>ἔτει</corr>
-               </choice> τμηʹ,<lb/> ἐν μηνὶ Περιτί<lb/>ου ιʹ, ἡμέρᾳ <choice>
+                  <orig>ἔτι</orig>
+                  <reg>ἔτει</reg>
+               </choice> τμηʹ,<lb/> ἐν μηνὶ Περιτί<lb break="no"/>ου ιʹ, ἡμέρᾳ <expan>
                   <abbr>Κ<supplied reason="undefined">υ</supplied>
                   </abbr>
-                  <expan>Κυρίου</expan>
-               </choice>
+                  <ex>ρίου</ex>
+               </expan>
                <lb/> ζʹ. <choice>
-                  <sic>Θάρσι</sic>
-                  <corr>Θάρσει</corr>
+                  <orig>Θάρσι</orig>
+                  <reg>Θάρσει</reg>
                </choice>,<lb/>
                <choice>
-                  <sic>
-                     <unclear>ο</unclear>ὐδὶς</sic>
-                  <corr>οὐδεὶς</corr>
+                  <orig>
+                     <unclear>ο</unclear>ὐδὶς</orig>
+                  <reg>οὐδεὶς</reg>
                </choice>
                <lb/> ἀθάνατος.</p>
          </div>
