@@ -9,6 +9,7 @@ import argparse
 import copy
 import cltk
 from kwic import *
+from os import system
 
 from alphabet_detector import *
 
@@ -233,7 +234,7 @@ if __name__ == '__main__':
 	system('clear')
 	for i in range(100):
 		print('\n')
-	
+
 	parser = argparse.ArgumentParser(description="""Produce word list
 	                                                from files.""")
 	args = add_arguments(parser).parse_args()
