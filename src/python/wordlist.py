@@ -122,12 +122,20 @@ def print_word_info(word_string, word_dict):
 		print("")
 
 def get_words_from_file(path, file_dict, new_system):
+	print(path)
 	with open(path, "r") as path_file:
 		file_string = path_file.read().replace("...", " ")#.encode("utf-8")
 
 	# Cludge to fix the problem with abbreviations being split into two words
-	file_string = re.sub(r"\n(\s+)\<\/abbr\>", "</abbr>", file_string)#.decode('utf-8'))
+	# file_string = re.sub(r"\<(\/*)(ex|abbr)\>\n(\s+)", "<$1$2>", file_string)
+	file_string = re.sub(r"\<\/ex\>\n(\s*)\<abbr\>", "</ex><abbr>", file_string)
+	file_string = re.sub(r"\n(\s+)\<\/abbr\>", "</abbr>", file_string)
+	file_string = re.sub(r"\n(\s*)\<lb break=\"no\"\/\>(\s+)", "<lb break=\"no\"/> ", file_string)
 	file_string = file_string.encode('utf-8')
+	# print(file_string)
+
+	tagLat = POSTag('latin')
+	tagGrk = POSTag('greek')
 
 	root = etree.fromstring(file_string)
 	words = []
@@ -161,17 +169,27 @@ def get_words_from_file(path, file_dict, new_system):
 		if new_system:
 			retrieved_words = get_words_from_element(edition)
 			combined_words = ""
-			for e in retrieved_words:
-				combined_words += e.text + " "
 			tagged_words = None
-			if mainLang in LATIN_CODES:
-				tagger = POSTag('latin')
-				tagged_words = tagger.tag_crf(combined_words)
-			elif mainLang in  GREEK_CODES:
-				tagger = POSTag('greek')
-				tagged_words = tagger.tag_crf(combined_words)
-			if "-transl" in mainLang:
-				tagged_words = nltk.pos_tag(nltk.word_tokenize(combined_words))
+			# for e in retrieved_words:
+			# 	combined_words += e.text + " "
+			# 	strLang = get_lang_by_alphabet(e)
+			# 	if strLang in GREEK_CODES:
+			# 		tagger = POSTag('greek')
+			# 	else:
+			# 		tagger = POSTag('latin')
+			#
+			# 	tagged_words = tagger.tag_crf(e.text+" ")
+			# 	print(tagged_words)
+			#
+			# tagged_words = None
+			# if mainLang in LATIN_CODES:
+			# 	tagger = POSTag('latin')
+			# 	tagged_words = tagger.tag_crf(combined_words)
+			# elif mainLang in  GREEK_CODES:
+			# 	tagger = POSTag('greek')
+			# 	tagged_words = tagger.tag_crf(combined_words)
+			# if "-transl" in mainLang:
+			# 	tagged_words = nltk.pos_tag(nltk.word_tokenize(combined_words))
 			for e in retrieved_words:
 				new_words.append(iip_word_occurrence(
 					edition_type,
@@ -183,13 +201,26 @@ def get_words_from_file(path, file_dict, new_system):
 				))
 				if other_langs != "" and other_langs != None:
 					if not "-transl" in mainLang and not "arc" in mainLang:
-						print(path + " has other_langs")
+						# print(path + " has other_langs")
 						new_words[-1].lang = get_lang_by_alphabet(new_words[-1])
-						print("lang: " + new_words[-1].lang)
+						# print("lang: " + new_words[-1].lang)
 				new_words[-1].internal_elements = e.internal_elements
 				new_words[-1].alternatives = e.alternatives
 				new_words[-1].preceding = e.preceding
 				new_words[-1].following = e.following
+
+				strLang = get_lang_by_alphabet(e)
+				if strLang in LATIN_CODES:
+					tagger = tagLat
+				elif strLang in GREEK_CODES:
+					tagger = tagGrk
+				else:
+					tagger = tagLat
+				tagged_words = tagger.tag_crf(e.text+" ")
+
+				if "-transl" in mainLang:
+					tagged_words = nltk.pos_tag(nltk.word_tokenize(e.text+" "))
+
 				if tagged_words != None:
 					for tagged_word in tagged_words:
 						if tagged_word[0] == e.text:
@@ -226,7 +257,7 @@ def get_lang_by_alphabet(word):
 	if ad.is_latin(word.text): strLang = "lat"
 	if ad.is_hebrew(word.text): strLang = "heb"
 
-	print("Setting lang by alphabet (" + strLang + ") for " + word.text )
+	# print("Setting lang by alphabet (" + strLang + ") for " + word.text )
 	if strLang == "lat": strLang = "la" # Quick hack to keep lang codes same length in output above
 	return strLang
 
@@ -274,6 +305,7 @@ if __name__ == '__main__':
 				                              .replace(".xml", ""), False)
 			occurrences += new_words
 		except Exception as exception:
+			# raise excep-tion
 			if args.fileexception:
 				raise exception
 			else:
