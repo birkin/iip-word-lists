@@ -84,6 +84,11 @@ grc_corpus_importer = CorpusImporter('greek')
 grc_corpus_importer.import_corpus('greek_models_cltk')
 grc_lemmatizer = LemmaReplacer('greek')
 
+# Initialize lemmatizers once outside of the loop,
+# then select based on langauge inside the loop -- get_words_from_file()
+tagLat = POSTag('latin')
+tagGrk = POSTag('greek')
+
 
 def lemmatize(word_list, copy):
 	for word in word_list:
@@ -123,6 +128,7 @@ def print_word_info(word_string, word_dict):
 
 def get_words_from_file(path, file_dict, new_system):
 	print(path)
+	# system("say 'get words from file function'")
 	with open(path, "r") as path_file:
 		file_string = path_file.read().replace("...", " ")#.encode("utf-8")
 
@@ -133,9 +139,6 @@ def get_words_from_file(path, file_dict, new_system):
 	file_string = re.sub(r"\n(\s*)\<lb break=\"no\"\/\>(\s+)", "<lb break=\"no\"/> ", file_string)
 	file_string = file_string.encode('utf-8')
 	# print(file_string)
-
-	tagLat = POSTag('latin')
-	tagGrk = POSTag('greek')
 
 	root = etree.fromstring(file_string)
 	words = []
@@ -191,25 +194,29 @@ def get_words_from_file(path, file_dict, new_system):
 			# if "-transl" in mainLang:
 			# 	tagged_words = nltk.pos_tag(nltk.word_tokenize(combined_words))
 			for e in retrieved_words:
+				strLang = mainLang
+				if other_langs != "" and other_langs != None:
+					if not "-transl" in mainLang and not "arc" in mainLang:
+						# print(path + " has other_langs")
+						# print("Lang: " + new_words[-1].lang + " \t Language: " + new_words[-1].language)
+						strLang = get_lang_by_alphabet(e)
+						# print("lang: " + new_words[-1].lang)
+
 				new_words.append(iip_word_occurrence(
 					edition_type,
-					mainLang,
+					strLang,
 					e.text,
 					path,
 					textRegion.text,
 					e.surrounding_elements
 				))
-				if other_langs != "" and other_langs != None:
-					if not "-transl" in mainLang and not "arc" in mainLang:
-						# print(path + " has other_langs")
-						new_words[-1].lang = get_lang_by_alphabet(new_words[-1])
-						# print("lang: " + new_words[-1].lang)
+
 				new_words[-1].internal_elements = e.internal_elements
 				new_words[-1].alternatives = e.alternatives
 				new_words[-1].preceding = e.preceding
 				new_words[-1].following = e.following
+				# new_words[-1].language = strLang
 
-				strLang = get_lang_by_alphabet(e)
 				if strLang in LATIN_CODES:
 					tagger = tagLat
 				elif strLang in GREEK_CODES:
@@ -265,6 +272,7 @@ if __name__ == '__main__':
 	system('clear')
 	for i in range(100):
 		print('\n')
+	os.system("say 'word list main function'")
 
 	parser = argparse.ArgumentParser(description="""Produce word list
 	                                                from files.""")

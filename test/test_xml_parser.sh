@@ -49,6 +49,7 @@ for word in $*; do
 		new_system=1;
 	else
 		file_name="$word";
+		file_name=$(echo $file_name | cut -d'.' -f 1);
 	fi
 
 done
