@@ -96,7 +96,8 @@ say "lemmatizer complete"
 
 cp src/web/wordlist.css $DOCS/;
 cp src/web/style.css $DOCS/;
-cp src/web/index_search.js $DOCS/;
+# cp src/web/index_search.js $DOCS/;
+cp index_search.js $DOCS/;
 cp src/web/doubletree.html $DOCS/;
 cp -r src/web/doubletreejs $DOCS/;
 cp src/web/levenshtein.min.js $DOCS/;
