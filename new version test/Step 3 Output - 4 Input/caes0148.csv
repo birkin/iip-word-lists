@@ -1,0 +1,292 @@
+,Unnamed: 0,Text,Word Number,Line Start,Line End,Normalized,Language,Number,POS Tagger Word,Part of Speech,Part of Speech (Secondary Info),POS Tagger Lemma,Lemmatizer Lemma
+0,0,caes0148.xml,1,1,2,valetinae,la,0,valetinae,ADJ,,valetinae,"<words>
+<unknown xml:lang=""lat"">valetinae</unknown>
+</words>
+"
+1,1,caes0148.xml,2,2,2,coniugi,la,0,coniugi,V,IND,coniugi,"<words>
+<word>
+<form xml:lang=""lat"">coniugi</form>
+<entry>
+<dict>
+<hdwd xml:lang=""lat"">conjugium</hdwd>
+<pofs order=""3"">noun</pofs>
+<decl>2nd</decl>
+<gend>neuter</gend>
+</dict>
+<infl>
+<term xml:lang=""lat""><stem>conjug</stem><suff>i_</suff></term>
+<pofs order=""3"">noun</pofs>
+<decl>2nd</decl>
+<case order=""7"">nominative</case>
+<gend>neuter</gend>
+<num>plural</num>
+<stemtype>ius_i</stemtype>
+</infl>
+<infl>
+<term xml:lang=""lat""><stem>conjug</stem><suff>i_</suff></term>
+<pofs order=""3"">noun</pofs>
+<decl>2nd</decl>
+<case order=""6"">genitive</case>
+<gend>neuter</gend>
+<num>singular</num>
+<stemtype>ius_i</stemtype>
+</infl>
+</entry>
+<entry>
+<dict>
+<hdwd xml:lang=""lat"">conjunx</hdwd>
+<pofs order=""3"">noun</pofs>
+<decl>3rd</decl>
+<gend>masculine/feminine</gend>
+</dict>
+<infl>
+<term xml:lang=""lat""><stem>conju</stem><suff>gi_</suff></term>
+<pofs order=""3"">noun</pofs>
+<decl>3rd</decl>
+<case order=""5"">dative</case>
+<gend>masculine</gend>
+<num>singular</num>
+<stemtype>x_gis</stemtype>
+</infl>
+<infl>
+<term xml:lang=""lat""><stem>conju</stem><suff>gi_</suff></term>
+<pofs order=""3"">noun</pofs>
+<decl>3rd</decl>
+<case order=""5"">dative</case>
+<gend>feminine</gend>
+<num>singular</num>
+<stemtype>x_gis</stemtype>
+</infl>
+</entry>
+</word>
+</words>
+"
+2,2,caes0148.xml,3,2,2,optimae,la,0,optimae,ADJ,,optimae,"<words>
+<word>
+<form xml:lang=""lat"">optimae</form>
+<entry>
+<dict>
+<hdwd xml:lang=""lat"">bonus</hdwd>
+<pofs order=""2"">adjective</pofs>
+<decl>1st &amp; 2nd</decl>
+</dict>
+<infl>
+<term xml:lang=""lat""><stem>optim</stem><suff>ae</suff></term>
+<pofs order=""2"">adjective</pofs>
+<decl>1st &amp; 2nd</decl>
+<case order=""7"">nominative</case>
+<gend>feminine</gend>
+<num>plural</num>
+<stemtype>us_a_um</stemtype>
+<morph>irreg_superl</morph>
+</infl>
+<infl>
+<term xml:lang=""lat""><stem>optim</stem><suff>ae</suff></term>
+<pofs order=""2"">adjective</pofs>
+<decl>1st &amp; 2nd</decl>
+<case order=""1"">vocative</case>
+<gend>feminine</gend>
+<num>plural</num>
+<stemtype>us_a_um</stemtype>
+<morph>irreg_superl</morph>
+</infl>
+<infl>
+<term xml:lang=""lat""><stem>optim</stem><suff>ae</suff></term>
+<pofs order=""2"">adjective</pofs>
+<decl>1st &amp; 2nd</decl>
+<case order=""5"">dative</case>
+<gend>feminine</gend>
+<num>singular</num>
+<stemtype>us_a_um</stemtype>
+<morph>irreg_superl</morph>
+</infl>
+<infl>
+<term xml:lang=""lat""><stem>optim</stem><suff>ae</suff></term>
+<pofs order=""2"">adjective</pofs>
+<decl>1st &amp; 2nd</decl>
+<case order=""6"">genitive</case>
+<gend>feminine</gend>
+<num>singular</num>
+<stemtype>us_a_um</stemtype>
+<morph>irreg_superl</morph>
+</infl>
+</entry>
+</word>
+</words>
+"
+3,3,caes0148.xml,4,3,3,iulius,la,0,iulius,ADJ,,iulius,"<words>
+<unknown xml:lang=""lat"">iulius</unknown>
+</words>
+"
+4,4,caes0148.xml,5,3,4,tiberianus,la,0,tiberianus,N,nom,tiberianus,"<words>
+<unknown xml:lang=""lat"">tiberianus</unknown>
+</words>
+"
+5,5,caes0148.xml,6,4,4,centurio,la,0,centurio,N,nom,centurio,"<words>
+<word>
+<form xml:lang=""lat"">centurio</form>
+<entry>
+<dict>
+<hdwd xml:lang=""lat"">centurio#1</hdwd>
+<pofs order=""1"">verb</pofs>
+</dict>
+<infl>
+<term xml:lang=""lat""><stem>centuri</stem><suff>o_</suff></term>
+<pofs order=""1"">verb</pofs>
+<mood>indicative</mood>
+<num>singular</num>
+<pers>1st</pers>
+<tense>present</tense>
+<voice>active</voice>
+<stemtype>conj1</stemtype>
+<derivtype>are_vb</derivtype>
+</infl>
+</entry>
+<entry>
+<dict>
+<hdwd xml:lang=""lat"">centurio#2</hdwd>
+<pofs order=""3"">noun</pofs>
+<decl>3rd</decl>
+<gend>masculine</gend>
+</dict>
+<infl>
+<term xml:lang=""lat""><stem>centuri</stem><suff>o_</suff></term>
+<pofs order=""3"">noun</pofs>
+<decl>3rd</decl>
+<case order=""7"">nominative</case>
+<gend>masculine</gend>
+<num>singular</num>
+<stemtype>o_oLnis</stemtype>
+</infl>
+<infl>
+<term xml:lang=""lat""><stem>centuri</stem><suff>o_</suff></term>
+<pofs order=""3"">noun</pofs>
+<decl>3rd</decl>
+<case order=""1"">vocative</case>
+<gend>masculine</gend>
+<num>singular</num>
+<stemtype>o_oLnis</stemtype>
+</infl>
+</entry>
+</word>
+</words>
+"
+6,6,caes0148.xml,7,4,4,legionis,la,0,legionis,N,gen,legio,"<words>
+<word>
+<form xml:lang=""lat"">legionis</form>
+<entry>
+<dict>
+<hdwd xml:lang=""lat"">legio</hdwd>
+<pofs order=""3"">noun</pofs>
+<decl>3rd</decl>
+<gend>feminine</gend>
+</dict>
+<infl>
+<term xml:lang=""lat""><stem>legi</stem><suff>o_nis</suff></term>
+<pofs order=""3"">noun</pofs>
+<decl>3rd</decl>
+<case order=""6"">genitive</case>
+<gend>feminine</gend>
+<num>singular</num>
+<stemtype>o_oLnis</stemtype>
+</infl>
+</entry>
+</word>
+</words>
+"
+7,7,caes0148.xml,8,4,4,x,la,0,x,V,IND,x,"<words>
+<unknown xml:lang=""lat"">x</unknown>
+</words>
+"
+8,8,caes0148.xml,9,4,4,fretensis,la,0,fretensis,ADJ,,fretensis,"<words>
+<unknown xml:lang=""lat"">fretensis</unknown>
+</words>
+"
+9,9,caes0148.xml,10,5,5,maritus,la,0,maritus,ADJ,,maritus,"<words>
+<word>
+<form xml:lang=""lat"">maritus</form>
+<entry>
+<dict>
+<hdwd xml:lang=""lat"">maritus</hdwd>
+<pofs order=""3"">noun</pofs>
+<decl>2nd</decl>
+<gend>masculine</gend>
+</dict>
+<infl>
+<term xml:lang=""lat""><stem>mari_t</stem><suff>us</suff></term>
+<pofs order=""3"">noun</pofs>
+<decl>2nd</decl>
+<case order=""7"">nominative</case>
+<gend>masculine</gend>
+<num>singular</num>
+<stemtype>us_i</stemtype>
+</infl>
+</entry>
+<entry>
+<dict>
+<hdwd xml:lang=""lat"">maritus#1</hdwd>
+<pofs order=""2"">adjective</pofs>
+<decl>1st &amp; 2nd</decl>
+</dict>
+<infl>
+<term xml:lang=""lat""><stem>mari_t</stem><suff>us</suff></term>
+<pofs order=""2"">adjective</pofs>
+<decl>1st &amp; 2nd</decl>
+<case order=""7"">nominative</case>
+<gend>masculine</gend>
+<num>singular</num>
+<stemtype>us_a_um</stemtype>
+</infl>
+</entry>
+</word>
+</words>
+"
+10,10,caes0148.xml,11,5,5,et,la,0,et,CC,,et,"<words>
+<word>
+<form xml:lang=""lat"">et</form>
+<entry>
+<dict>
+<hdwd xml:lang=""lat"">et</hdwd>
+<pofs order=""0"">conjunction</pofs>
+</dict>
+<infl>
+<term xml:lang=""lat""><stem>et</stem></term>
+<pofs order=""0"">conjunction</pofs>
+<stemtype>conj</stemtype>
+<morph>indeclform</morph>
+</infl>
+</entry>
+</word>
+</words>
+"
+11,11,caes0148.xml,12,5,5,iulius,la,0,iulius,ADJ,,iulius,"<words>
+<unknown xml:lang=""lat"">iulius</unknown>
+</words>
+"
+12,12,caes0148.xml,13,5,6,iulianus,la,0,iulianus,ADJ,,iulianus,"<words>
+<unknown xml:lang=""lat"">iulianus</unknown>
+</words>
+"
+13,13,caes0148.xml,14,6,6,filius,la,0,filius,N,nom,filius,"<words>
+<word>
+<form xml:lang=""lat"">filius</form>
+<entry>
+<dict>
+<hdwd xml:lang=""lat"">filius</hdwd>
+<pofs order=""3"">noun</pofs>
+<decl>2nd</decl>
+<gend>masculine</gend>
+</dict>
+<infl>
+<term xml:lang=""lat""><stem>fi_l</stem><suff>ius</suff></term>
+<pofs order=""3"">noun</pofs>
+<decl>2nd</decl>
+<case order=""7"">nominative</case>
+<gend>masculine</gend>
+<num>singular</num>
+<stemtype>ius_i</stemtype>
+</infl>
+</entry>
+</word>
+</words>
+"

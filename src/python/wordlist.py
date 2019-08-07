@@ -77,7 +77,13 @@ if os.path.isfile(latin_pos_lemmatized_sents_path):
 else:
     latin_pos_lemmatized_sents = []
     print('The file %s is not available in cltk_data' % file)
-la_lemmatizer = BackoffLatinLemmatizer(latin_pos_lemmatized_sents)
+
+lemmatizer = None #LemmaReplacer('latin')
+try:
+	la_lemmatizer = BackoffLatinLemmatizer(latin_pos_lemmatized_sents)
+except:
+	print('Latin lemmatizer not found')
+
 
 # Greek Lemmatizer
 grc_corpus_importer = CorpusImporter('greek')
@@ -128,16 +134,23 @@ def print_word_info(word_string, word_dict):
 
 def get_words_from_file(path, file_dict, new_system):
 	print(path)
-	# system("say 'get words from file function'")
 	with open(path, "r") as path_file:
 		file_string = path_file.read().replace("...", " ")#.encode("utf-8")
 
-	# Cludge to fix the problem with abbreviations being split into two words
+	# Cludge to fix numerous problems with parsing in the quickest way possible
+	#  - abbreviations being split into two words
+	#  - lb tags with newlines around them split words, when they shouldn't
+	#  - lb tag causes the character after the end of the tag to be deleted
+	# 		- problem in get_words_from_element in wordlist_getter.py
+
 	# file_string = re.sub(r"\<(\/*)(ex|abbr)\>\n(\s+)", "<$1$2>", file_string)
 	file_string = re.sub(r"\<\/ex\>\n(\s*)\<abbr\>", "</ex><abbr>", file_string)
 	file_string = re.sub(r"\n(\s+)\<\/abbr\>", "</abbr>", file_string)
 	file_string = re.sub(r"\n(\s*)\<lb break=\"no\"\/\>(\s+)", "<lb break=\"no\"/> ", file_string)
+	file_string = re.sub(r"\<lb break=\"no\"\/\>", "<lb break=\"no\"/> ", file_string)
+	file_string = re.sub(r"\<lb break=\"no\"\/\>(\s+)", "<lb break=\"no\"/> ", file_string)
 	file_string = file_string.encode('utf-8')
+	# file_string = file_string.lower()
 	# print(file_string)
 
 	root = etree.fromstring(file_string)
@@ -245,6 +258,7 @@ def get_words_from_file(path, file_dict, new_system):
 	null_words = []
 	for word in words:
 		word.text = str(word.text)
+		word.text = word.text.lower()
 		for pattern in IGNORE:
 			word.text = word.text.replace(pattern, "")
 		if (word.text.strip() == ""):
@@ -471,4 +485,6 @@ if __name__ == '__main__':
 		main_repl = repl_instance()
 		main_repl.add_repl_command(word_info_command(word_dict))
 		main_repl.run_repl()
+	if args.google_sheets:
+		word_list_to_sheets(occurrences)
 	sys.exit(0)

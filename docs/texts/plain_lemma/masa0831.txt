@@ -1,2 +1,2 @@
-CNOST C Nostius 
+cnost -que nostius 
 

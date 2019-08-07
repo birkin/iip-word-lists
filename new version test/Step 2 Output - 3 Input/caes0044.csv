@@ -1,0 +1,8 @@
+,Text,Word Number,Line Start,Line End,Normalized,Language,Number,POS Tagger Word,Part of Speech,Part of Speech (Secondary Info),POS Tagger Lemma
+0,caes0044.xml,1,1,1,co,la,0,co,V,IND,co
+1,caes0044.xml,2,1,1,primae,la,0,primae,ADJ,NUM,unus
+2,caes0044.xml,3,1,1,flaviae,la,0,flaviae,ADJ,,flaviae
+3,caes0044.xml,4,1,1,augustae,la,0,augustae,N,dat,Augusta
+4,caes0044.xml,5,2,2,patra,la,0,patra,V,IMP,patro
+5,caes0044.xml,6,2,2,mater,la,0,mater,N,nom,mater
+6,caes0044.xml,7,2,2,eius,la,0,eius,DET,,is

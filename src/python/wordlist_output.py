@@ -6,6 +6,11 @@ from sugar import *
 from wordlist_concordances import *
 from create_xml import create
 
+import re
+import pickle
+import gspread
+from oauth2client.service_account import ServiceAccountCredentials
+
 def add_to_html_list(element, some_list):
 	for e in some_list:
 		element.append(create("li", e))
@@ -165,6 +170,111 @@ def word_list_to_html(word_dict, languages, output_name=DEFAULT_OUTPUT_NAME):
 	index_file = open(output_name + "/index.html", "w")
 	index_file.write("<!DOCTYPE HTML>\n" + etree.tostring(root).decode("utf-8"))
 	index_file.close()
+
+def word_list_to_sheets(full_list):
+	# Creates a Google Sheet with all wordlist data for manual review
+
+	print("\n\n\nWORD LIST TO SHEETS\n")
+
+	# Hardcoded headings and language/code values
+	vTitles = ["Lemma", "Variation", "File", "Correct?", "Error?", "Correction", "Extra"]
+	dLanguages = {'la':'Latin', 'grc':'Greek', 'heb':'Hebrew', 'arc':'Aramaic'}
+
+	# use creds to create a client to interact with the Google Drive API
+	scope = ['https://spreadsheets.google.com/feeds',
+	         'https://www.googleapis.com/auth/drive']
+
+	strClientSecrets = "iip-wordlist-fb372d3696e5"
+	creds = ServiceAccountCredentials.from_json_keyfile_name("../src/python/"+strClientSecrets+'.json', scope)
+
+	client = gspread.authorize(creds)
+
+	# Find a workbook by name and open the first sheet
+	# Make sure you use the right name here.
+	strSheet = "API Test"
+	sheet = client.open(strSheet)
+	# print(strSheet)
+
+	# Load the words marked correct and avoid adding them again
+	strCorrectFile = 'correct.pickle'
+	vCorrect = []
+	if os.path.isfile(strCorrectFile):
+		with open(strCorrectFile, 'rb') as f:
+			vCorrect = pickle.load(f)
+	# Loop through any existing sheets and populate vCorrect with entries marked as correct
+	for strKey in dLanguages:
+		try:
+			ws = sheet.worksheet(dLanguages[strKey])
+
+			# Add all correct values to vCorrect and skip them when adding to the worksheet
+			mWS = ws.get_all_values()
+			for row in mWS:
+				if row[3] == 'TRUE':
+					vCorrect.append(row[1])
+			# Save the list of correct entries
+		except:
+			print('Unable to open sheet: '+dLanguages[strKey])
+
+	# Save the correct values
+	with open(strCorrectFile, 'wb') as f:
+		pickle.dump(vCorrect, f)
+
+	# print(vCorrect)
+
+	vWorksheets = {}
+	for strKey in dLanguages:
+		vWorksheets[dLanguages[strKey]] = []
+	for word in full_list:
+		if "transcription" in word.edition_type.lower():
+			# Use the language abbrev to get name of worksheet
+			word.language = word.language.replace('lat','la') # Cludge to make Latin code match
+
+			# Skip the word if it's not one of the language codes
+			if not word.language in dLanguages:
+				continue
+
+			# Try to get a valid language string and skip it otherwise
+			try:
+				strLanguage = dLanguages[word.language]
+			except:
+				print('No valid language string for: '+word.language)
+				continue
+
+			strFilename = re.search(r"([\w\d]+)\.xml",word.file_name).group(0) # Get the xml file without path
+			# vWorksheets[dLanguages[word.language]].append([word.lemmatization, word.text, strFilename])
+			if not word.text in vCorrect:
+				vWorksheets[dLanguages[word.language]].append(word.lemmatization)
+				vWorksheets[dLanguages[word.language]].append(word.text)
+				vWorksheets[dLanguages[word.language]].append(strFilename)
+
+
+	for strKey in dLanguages:
+
+		strLanguage = dLanguages[strKey]
+
+		try:
+			ws = sheet.worksheet(strLanguage)
+		except:
+			ws = sheet.add_worksheet(strLanguage,1,len(vTitles))
+
+		ws.clear()
+		ws.insert_row(vTitles,1)
+		print(len(vWorksheets[strLanguage]))
+		nRows = round(len(vWorksheets[strLanguage])/3)  # 3 columns, need # rows
+		ws.resize(nRows+1)
+
+		# Prevents out of range error below when creating cell lists
+		if nRows < 1:
+			continue
+
+		cell_list = ws.range('A2:C'+str(nRows+1))
+
+		i = 0
+		for cell in cell_list:
+			cell.value = vWorksheets[strLanguage][i]
+			i+=1
+		ws.update_cells(cell_list)
+
 
 def occurrence_list_to_csv(full_list, output_name=DEFAULT_OUTPUT_NAME + "_occurrences", langfiles=False):
 	files = {}

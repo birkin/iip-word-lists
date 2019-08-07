@@ -1,0 +1,43 @@
+,Unnamed: 0,Text,Word Number,Line Start,Line End,Normalized,Language,Number,POS Tagger Word,Part of Speech,Part of Speech (Secondary Info),POS Tagger Lemma,Lemmatizer Lemma
+0,0,caes0033.xml,1,1,1,tronio,la,0,tronio,ADJ,,tronio,"<words>
+<unknown xml:lang=""lat"">tronio</unknown>
+</words>
+"
+1,1,caes0033.xml,2,1,1,no,la,0,no,V,IND,no,"<words>
+<word>
+<form xml:lang=""lat"">no</form>
+<entry>
+<dict>
+<hdwd xml:lang=""lat"">no#1</hdwd>
+<pofs order=""1"">verb</pofs>
+</dict>
+<infl>
+<term xml:lang=""lat""><stem>n</stem><suff>o_</suff></term>
+<pofs order=""1"">verb</pofs>
+<mood>indicative</mood>
+<num>singular</num>
+<pers>1st</pers>
+<tense>present</tense>
+<voice>active</voice>
+<stemtype>conj1</stemtype>
+</infl>
+</entry>
+</word>
+</words>
+"
+2,2,caes0033.xml,3,2,2,ovinciae,la,0,ovinciae,ADJ,,ovinciae,"<words>
+<unknown xml:lang=""lat"">ovinciae</unknown>
+</words>
+"
+3,3,caes0033.xml,4,2,2,syriae,la,0,syriae,N,dat,Syria,"<words>
+<unknown xml:lang=""lat"">syriae</unknown>
+</words>
+"
+4,4,caes0033.xml,5,2,2,p,la,0,p,ABBR,,p.,"<words>
+<unknown xml:lang=""lat"">p</unknown>
+</words>
+"
+5,5,caes0033.xml,6,2,2,aestinae,la,0,aestinae,ADJ,,aestinae,"<words>
+<unknown xml:lang=""lat"">aestinae</unknown>
+</words>
+"

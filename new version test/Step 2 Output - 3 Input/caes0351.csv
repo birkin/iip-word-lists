@@ -1,0 +1,4 @@
+,Text,Word Number,Line Start,Line End,Normalized,Language,Number,POS Tagger Word,Part of Speech,Part of Speech (Secondary Info),POS Tagger Lemma
+0,caes0351.xml,1,1,1,syriae,la,0,syriae,N,nom,Syria
+1,caes0351.xml,2,1,1,pa,la,0,pa,V,IND,pa
+2,caes0351.xml,3,1,1,palaestinae,la,0,palaestinae,ADJ,,palaestinae

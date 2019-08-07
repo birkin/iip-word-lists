@@ -1,2 +1,2 @@
-BALYTN 1 barley 1 wheat 2 
+balytn 1 barley 1 wheat 2 
 

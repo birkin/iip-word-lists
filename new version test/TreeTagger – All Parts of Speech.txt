@@ -1,0 +1,6 @@
+vTreeTaggerPOSLabels = {
+'ADJ':	''
+'CC':	''
+'N':	''
+'V':	''
+}

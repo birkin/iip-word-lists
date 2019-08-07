@@ -1,0 +1,204 @@
+,Unnamed: 0,Text,Word Number,Line Start,Line End,Normalized,Language,Number,POS Tagger Word,Part of Speech,Part of Speech (Secondary Info),POS Tagger Lemma,Lemmatizer Lemma
+0,0,caes0053.xml,1,1,1,imperatore,la,0,imperatore,N,abl,imperator,"<words>
+<word>
+<form xml:lang=""lat"">imperatore</form>
+<entry>
+<dict>
+<hdwd xml:lang=""lat"">imperator</hdwd>
+<pofs order=""3"">noun</pofs>
+<decl>3rd</decl>
+<gend>masculine</gend>
+</dict>
+<infl>
+<term xml:lang=""lat""><stem>impera_t</stem><suff>o_re</suff></term>
+<pofs order=""3"">noun</pofs>
+<decl>3rd</decl>
+<case order=""3"">ablative</case>
+<gend>masculine</gend>
+<num>singular</num>
+<stemtype>or_oLris</stemtype>
+</infl>
+<infl>
+<term xml:lang=""lat""><stem>impera_t</stem><suff>o^re</suff></term>
+<pofs order=""3"">noun</pofs>
+<decl>3rd</decl>
+<case order=""3"">ablative</case>
+<gend>masculine</gend>
+<num>singular</num>
+<stemtype>or_oris</stemtype>
+</infl>
+</entry>
+</word>
+</words>
+"
+1,1,caes0053.xml,2,1,1,traia,la,0,traia,N,nom,traia,"<words>
+<unknown xml:lang=""lat"">traia</unknown>
+</words>
+"
+2,2,caes0053.xml,3,1,1,no,la,0,no,V,IND,no,"<words>
+<word>
+<form xml:lang=""lat"">no</form>
+<entry>
+<dict>
+<hdwd xml:lang=""lat"">no#1</hdwd>
+<pofs order=""1"">verb</pofs>
+</dict>
+<infl>
+<term xml:lang=""lat""><stem>n</stem><suff>o_</suff></term>
+<pofs order=""1"">verb</pofs>
+<mood>indicative</mood>
+<num>singular</num>
+<pers>1st</pers>
+<tense>present</tense>
+<voice>active</voice>
+<stemtype>conj1</stemtype>
+</infl>
+</entry>
+</word>
+</words>
+"
+3,3,caes0053.xml,4,2,2,hadr,la,0,hadr,N,nom,hadr,"<words>
+<unknown xml:lang=""lat"">hadr</unknown>
+</words>
+"
+4,4,caes0053.xml,5,2,2,iano,la,0,iano,V,IND,iano,"<words>
+<unknown xml:lang=""lat"">iano</unknown>
+</words>
+"
+5,5,caes0053.xml,6,3,3,vexillatio,la,0,vexillatio,N,nom,vexillatio,"<words>
+<word>
+<form xml:lang=""lat"">vexillatio</form>
+<entry>
+<dict>
+<hdwd xml:lang=""lat"">vexillatio</hdwd>
+<pofs order=""3"">noun</pofs>
+<decl>3rd</decl>
+<gend>feminine</gend>
+</dict>
+<infl>
+<term xml:lang=""lat""><stem>vexilla_ti</stem><suff>o_</suff></term>
+<pofs order=""3"">noun</pofs>
+<decl>3rd</decl>
+<case order=""7"">nominative</case>
+<gend>feminine</gend>
+<num>singular</num>
+<stemtype>o_oLnis</stemtype>
+</infl>
+<infl>
+<term xml:lang=""lat""><stem>vexilla_ti</stem><suff>o_</suff></term>
+<pofs order=""3"">noun</pofs>
+<decl>3rd</decl>
+<case order=""1"">vocative</case>
+<gend>feminine</gend>
+<num>singular</num>
+<stemtype>o_oLnis</stemtype>
+</infl>
+</entry>
+</word>
+</words>
+"
+6,6,caes0053.xml,7,3,3,legionis,la,0,legionis,N,gen,legio,"<words>
+<word>
+<form xml:lang=""lat"">legionis</form>
+<entry>
+<dict>
+<hdwd xml:lang=""lat"">legio</hdwd>
+<pofs order=""3"">noun</pofs>
+<decl>3rd</decl>
+<gend>feminine</gend>
+</dict>
+<infl>
+<term xml:lang=""lat""><stem>legi</stem><suff>o_nis</suff></term>
+<pofs order=""3"">noun</pofs>
+<decl>3rd</decl>
+<case order=""6"">genitive</case>
+<gend>feminine</gend>
+<num>singular</num>
+<stemtype>o_oLnis</stemtype>
+</infl>
+</entry>
+</word>
+</words>
+"
+7,7,caes0053.xml,8,4,4,x,la,0,x,V,PTC,x,"<words>
+<unknown xml:lang=""lat"">x</unknown>
+</words>
+"
+8,8,caes0053.xml,9,4,4,retensis,la,0,retensis,V,PTC,retensis,"<words>
+<word>
+<form xml:lang=""lat"">retensis</form>
+<entry>
+<dict>
+<hdwd xml:lang=""lat"">re-tendo</hdwd>
+<pofs order=""1"">verb</pofs>
+</dict>
+<infl>
+<term xml:lang=""lat""><stem>re:tens</stem><suff>i_s</suff></term>
+<pofs order=""0"">verb participle</pofs>
+<case order=""3"">ablative</case>
+<gend>neuter</gend>
+<mood>participle</mood>
+<num>plural</num>
+<tense>perfect</tense>
+<voice>passive</voice>
+<stemtype>pp4</stemtype>
+</infl>
+<infl>
+<term xml:lang=""lat""><stem>re:tens</stem><suff>i_s</suff></term>
+<pofs order=""0"">verb participle</pofs>
+<case order=""3"">ablative</case>
+<gend>feminine</gend>
+<mood>participle</mood>
+<num>plural</num>
+<tense>perfect</tense>
+<voice>passive</voice>
+<stemtype>pp4</stemtype>
+</infl>
+<infl>
+<term xml:lang=""lat""><stem>re:tens</stem><suff>i_s</suff></term>
+<pofs order=""0"">verb participle</pofs>
+<case order=""3"">ablative</case>
+<gend>masculine</gend>
+<mood>participle</mood>
+<num>plural</num>
+<tense>perfect</tense>
+<voice>passive</voice>
+<stemtype>pp4</stemtype>
+</infl>
+<infl>
+<term xml:lang=""lat""><stem>re:tens</stem><suff>i_s</suff></term>
+<pofs order=""0"">verb participle</pofs>
+<case order=""5"">dative</case>
+<gend>neuter</gend>
+<mood>participle</mood>
+<num>plural</num>
+<tense>perfect</tense>
+<voice>passive</voice>
+<stemtype>pp4</stemtype>
+</infl>
+<infl>
+<term xml:lang=""lat""><stem>re:tens</stem><suff>i_s</suff></term>
+<pofs order=""0"">verb participle</pofs>
+<case order=""5"">dative</case>
+<gend>feminine</gend>
+<mood>participle</mood>
+<num>plural</num>
+<tense>perfect</tense>
+<voice>passive</voice>
+<stemtype>pp4</stemtype>
+</infl>
+<infl>
+<term xml:lang=""lat""><stem>re:tens</stem><suff>i_s</suff></term>
+<pofs order=""0"">verb participle</pofs>
+<case order=""5"">dative</case>
+<gend>masculine</gend>
+<mood>participle</mood>
+<num>plural</num>
+<tense>perfect</tense>
+<voice>passive</voice>
+<stemtype>pp4</stemtype>
+</infl>
+</entry>
+</word>
+</words>
+"

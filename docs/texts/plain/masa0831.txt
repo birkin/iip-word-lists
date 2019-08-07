@@ -1,2 +1,2 @@
-CNOST C Nostius 
+cnost c nostius 
 

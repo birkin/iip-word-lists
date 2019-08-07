@@ -1,0 +1,11 @@
+,Text,Word Number,Line Start,Line End,Normalized,Language,Number,POS Tagger Word,Part of Speech,Part of Speech (Secondary Info),POS Tagger Lemma
+0,caes0027.xml,1,1,1,ugusto,la,0,ugusto,V,IND,ugusto
+1,caes0027.xml,2,1,1,pon,la,0,pon,V,GED,pon
+2,caes0027.xml,3,1,1,ifici,la,0,ifici,ADJ,,ifici
+3,caes0027.xml,4,2,2,suli,la,0,suli,V,IND,suli
+4,caes0027.xml,5,2,2,vii,la,0,vii,ADJ,NUM,SEPTEM
+5,caes0027.xml,6,2,2,cen,la,0,cen,V,IND,cen
+6,caes0027.xml,7,3,3,i,la,0,i,ADJ,NUM,i
+7,caes0027.xml,8,3,3,tribunicia,la,0,tribunicia,ADJ,abl,tribunicius
+8,caes0027.xml,9,3,3,potestate,la,0,potestate,N,abl,potestas
+9,caes0027.xml,10,3,3,v,la,0,v,ADJ,NUM,v

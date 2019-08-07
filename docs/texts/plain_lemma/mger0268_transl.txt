@@ -1,2 +1,2 @@
-from GN 
+from gn 
 

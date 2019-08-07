@@ -1,0 +1,23 @@
+,Unnamed: 0,Text,Word Number,Line Start,Line End,Normalized,Language,Number,POS Tagger Word,Part of Speech,Part of Speech (Secondary Info),POS Tagger Lemma,Lemmatizer Lemma
+0,0,caes0354.xml,1,2,2,invic,la,0,invic,V,IMP,invic,"<words>
+<unknown xml:lang=""lat"">invic</unknown>
+</words>
+"
+1,1,caes0354.xml,2,3,3,et,la,0,et,CC,,et,"<words>
+<word>
+<form xml:lang=""lat"">et</form>
+<entry>
+<dict>
+<hdwd xml:lang=""lat"">et</hdwd>
+<pofs order=""0"">conjunction</pofs>
+</dict>
+<infl>
+<term xml:lang=""lat""><stem>et</stem></term>
+<pofs order=""0"">conjunction</pofs>
+<stemtype>conj</stemtype>
+<morph>indeclform</morph>
+</infl>
+</entry>
+</word>
+</words>
+"

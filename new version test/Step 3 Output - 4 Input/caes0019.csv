@@ -1,0 +1,71 @@
+,Unnamed: 0,Text,Word Number,Line Start,Line End,Normalized,Language,Number,POS Tagger Word,Part of Speech,Part of Speech (Secondary Info),POS Tagger Lemma,Lemmatizer Lemma
+0,0,caes0019.xml,1,6,6,que,la,0,que,CC,,que,"<words>
+<unknown xml:lang=""lat"">que</unknown>
+</words>
+"
+1,1,caes0019.xml,2,6,6,eius,la,0,eius,DET,,is,"<words>
+<word>
+<form xml:lang=""lat"">eius</form>
+<entry>
+<dict>
+<hdwd xml:lang=""lat"">is</hdwd>
+<pofs order=""5"">pronoun</pofs>
+</dict>
+<infl>
+<term xml:lang=""lat""><stem>eius</stem></term>
+<pofs order=""5"">pronoun</pofs>
+<case order=""6"">genitive</case>
+<gend>masculine</gend>
+<num>singular</num>
+<stemtype>pron3</stemtype>
+<morph>indeclform</morph>
+</infl>
+<infl>
+<term xml:lang=""lat""><stem>eius</stem></term>
+<pofs order=""5"">pronoun</pofs>
+<case order=""6"">genitive</case>
+<gend>feminine</gend>
+<num>singular</num>
+<stemtype>pron3</stemtype>
+<morph>indeclform</morph>
+</infl>
+<infl>
+<term xml:lang=""lat""><stem>eius</stem></term>
+<pofs order=""5"">pronoun</pofs>
+<case order=""6"">genitive</case>
+<gend>neuter</gend>
+<num>singular</num>
+<stemtype>pron3</stemtype>
+<morph>indeclform</morph>
+</infl>
+<infl>
+<term xml:lang=""lat""><stem>ejus</stem></term>
+<pofs order=""5"">pronoun</pofs>
+<case order=""6"">genitive</case>
+<gend>masculine</gend>
+<num>singular</num>
+<stemtype>pron3</stemtype>
+<morph>indeclform</morph>
+</infl>
+<infl>
+<term xml:lang=""lat""><stem>ejus</stem></term>
+<pofs order=""5"">pronoun</pofs>
+<case order=""6"">genitive</case>
+<gend>feminine</gend>
+<num>singular</num>
+<stemtype>pron3</stemtype>
+<morph>indeclform</morph>
+</infl>
+<infl>
+<term xml:lang=""lat""><stem>ejus</stem></term>
+<pofs order=""5"">pronoun</pofs>
+<case order=""6"">genitive</case>
+<gend>neuter</gend>
+<num>singular</num>
+<stemtype>pron3</stemtype>
+<morph>indeclform</morph>
+</infl>
+</entry>
+</word>
+</words>
+"

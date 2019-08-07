@@ -1,0 +1,141 @@
+,Unnamed: 0,Text,Word Number,Line Start,Line End,Normalized,Language,Number,POS Tagger Word,Part of Speech,Part of Speech (Secondary Info),POS Tagger Lemma,Lemmatizer Lemma
+0,0,masa0826.xml,1,1,1,garum,la,0,garum,N,nom,garum,"<words>
+<word>
+<form xml:lang=""lat"">garum</form>
+<entry>
+<dict>
+<hdwd xml:lang=""lat"">garum</hdwd>
+<pofs order=""3"">noun</pofs>
+<decl>2nd</decl>
+<gend>neuter</gend>
+</dict>
+<infl>
+<term xml:lang=""lat""><stem>gar</stem><suff>u_m</suff></term>
+<pofs order=""3"">noun</pofs>
+<decl>2nd</decl>
+<case order=""6"">genitive</case>
+<gend>neuter</gend>
+<num>plural</num>
+<stemtype>us_i</stemtype>
+<morph>poetic</morph>
+</infl>
+<infl>
+<term xml:lang=""lat""><stem>gar</stem><suff>um</suff></term>
+<pofs order=""3"">noun</pofs>
+<decl>2nd</decl>
+<case order=""7"">nominative</case>
+<gend>neuter</gend>
+<num>singular</num>
+<stemtype>us_i</stemtype>
+</infl>
+<infl>
+<term xml:lang=""lat""><stem>gar</stem><suff>um</suff></term>
+<pofs order=""3"">noun</pofs>
+<decl>2nd</decl>
+<case order=""1"">vocative</case>
+<gend>neuter</gend>
+<num>singular</num>
+<stemtype>us_i</stemtype>
+</infl>
+<infl>
+<term xml:lang=""lat""><stem>gar</stem><suff>um</suff></term>
+<pofs order=""3"">noun</pofs>
+<decl>2nd</decl>
+<case order=""4"">accusative</case>
+<gend>neuter</gend>
+<num>singular</num>
+<stemtype>us_i</stemtype>
+</infl>
+</entry>
+<entry>
+<dict>
+<hdwd xml:lang=""lat"">garus</hdwd>
+<pofs order=""3"">noun</pofs>
+<decl>2nd</decl>
+<gend>masculine</gend>
+</dict>
+<infl>
+<term xml:lang=""lat""><stem>gar</stem><suff>u_m</suff></term>
+<pofs order=""3"">noun</pofs>
+<decl>2nd</decl>
+<case order=""6"">genitive</case>
+<gend>masculine</gend>
+<num>plural</num>
+<stemtype>us_i</stemtype>
+<morph>poetic</morph>
+</infl>
+<infl>
+<term xml:lang=""lat""><stem>gar</stem><suff>um</suff></term>
+<pofs order=""3"">noun</pofs>
+<decl>2nd</decl>
+<case order=""4"">accusative</case>
+<gend>masculine</gend>
+<num>singular</num>
+<stemtype>us_i</stemtype>
+</infl>
+</entry>
+</word>
+</words>
+"
+1,1,masa0826.xml,2,3,3,δ,la,0,?,SENT,,?,"<words>
+<unknown xml:lang=""lat"">δ</unknown>
+</words>
+"
+2,2,masa0826.xml,3,4,4,βασιλέως,la,0,????????,N,voc,????????,"<words>
+<unknown xml:lang=""lat"">βασιλέως</unknown>
+</words>
+"
+3,3,masa0826.xml,4,5,5,ρο,la,0,??,ADJ,,??,"<words>
+<unknown xml:lang=""lat"">ρο</unknown>
+</words>
+"
+4,4,masa0826.xml,5,6,6,amphorae,la,0,amphorae,N,nom,amphora,"<words>
+<word>
+<form xml:lang=""lat"">amphorae</form>
+<entry>
+<dict>
+<hdwd xml:lang=""lat"">amphora</hdwd>
+<pofs order=""3"">noun</pofs>
+<decl>1st</decl>
+<gend>feminine</gend>
+</dict>
+<infl>
+<term xml:lang=""lat""><stem>amphor</stem><suff>ae</suff></term>
+<pofs order=""3"">noun</pofs>
+<decl>1st</decl>
+<case order=""7"">nominative</case>
+<gend>feminine</gend>
+<num>plural</num>
+<stemtype>a_ae</stemtype>
+</infl>
+<infl>
+<term xml:lang=""lat""><stem>amphor</stem><suff>ae</suff></term>
+<pofs order=""3"">noun</pofs>
+<decl>1st</decl>
+<case order=""1"">vocative</case>
+<gend>feminine</gend>
+<num>plural</num>
+<stemtype>a_ae</stemtype>
+</infl>
+<infl>
+<term xml:lang=""lat""><stem>amphor</stem><suff>ae</suff></term>
+<pofs order=""3"">noun</pofs>
+<decl>1st</decl>
+<case order=""5"">dative</case>
+<gend>feminine</gend>
+<num>singular</num>
+<stemtype>a_ae</stemtype>
+</infl>
+<infl>
+<term xml:lang=""lat""><stem>amphor</stem><suff>ae</suff></term>
+<pofs order=""3"">noun</pofs>
+<decl>1st</decl>
+<case order=""6"">genitive</case>
+<gend>feminine</gend>
+<num>singular</num>
+<stemtype>a_ae</stemtype>
+</infl>
+</entry>
+</word>
+</words>
+"

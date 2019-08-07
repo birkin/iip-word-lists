@@ -1,0 +1,9 @@
+,Unnamed: 0,Text,Word Number,Line Start,Line End,Normalized,Language,Number,POS Tagger Word,Part of Speech,Part of Speech (Secondary Info),POS Tagger Lemma,Lemmatizer Lemma
+0,0,caes0349.xml,1,1,1,x,la,0,x,V,IND,x,"<words>
+<unknown xml:lang=""lat"">x</unknown>
+</words>
+"
+1,1,caes0349.xml,2,1,1,fretensis,la,0,fretensis,ADJ,,fretensis,"<words>
+<unknown xml:lang=""lat"">fretensis</unknown>
+</words>
+"

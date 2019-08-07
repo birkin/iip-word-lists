@@ -1,0 +1,8 @@
+,Text,Word Number,Line Start,Line End,Normalized,Language,Number,POS Tagger Word,Part of Speech,Part of Speech (Secondary Info),POS Tagger Lemma
+0,caes0106.xml,1,5,5,vero,la,0,vero,ADV,,vero|verus
+1,caes0106.xml,2,6,6,maximo,la,0,maximo,ADJ,SUP,magnus|maximus
+2,caes0106.xml,3,7,7,issimo,la,0,issimo,ADJ,,issimo
+3,caes0106.xml,4,8,8,aes,la,0,aes,N,nom,aes
+4,caes0106.xml,5,9,9,il,la,0,il,ADJ,,il
+5,caes0106.xml,6,10,10,augusti,la,0,augusti,ADJ,,Augustus
+6,caes0106.xml,7,10,10,nostri,la,0,nostri,POSS,,noster

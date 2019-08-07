@@ -1,0 +1,4 @@
+,Text,Word Number,Line Start,Line End,Normalized,Language,Number,POS Tagger Word,Part of Speech,Part of Speech (Secondary Info),POS Tagger Lemma
+0,masa0853.xml,1,1,1,legio,la,0,legio,N,nom,legio
+1,masa0853.xml,2,1,1,au,la,0,au,INT,,au
+2,masa0853.xml,3,1,1,fretensis,la,0,fretensis,ADJ,,fretensis

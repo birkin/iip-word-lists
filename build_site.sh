@@ -1,7 +1,10 @@
 #!/usr/bin/env bash
 
-update=1;
+update=1;		# should be update=1 and then set to zero with -nu tag, but I've hacked it temporarily to save trouble for testing
+debug=0;		# This flag causes this script to delete most of the input files in order to speed up testing
 exceptions=0;
+silent=0;
+google_sheets=0;
 use_existing=0;
 #new_system=0;
 
@@ -18,14 +21,24 @@ run_script() {
 	cd $DOCS;
 	exceptions_flag=""
 	new_system_flag=""
+	silent_flag=""
+	google_sheets_flag=""
 	if [ $exceptions == 1 ]; then
 		exceptions_flag="--fileexception"
+	fi
+	if [ $silent == 1 ]; then
+		silent_flag="--silent"
+	fi
+	if [ $google_sheets == 1 ]; then
+		google_sheets_flag="--google_sheets"
 	fi
 	#if [ $new_system == 1 ]; then
 	#	new_system_flag="--new_system"
 	#fi
+	# python3 -i ../src/python/wordlist.py texts/xml/* --nodiplomatic --html_general\
+	#  --plaintext --flat texts/plain $google_sheets_flag $exceptions_flag $new_system_flag $silent_flag;
 	../src/python/wordlist.py texts/xml/* --nodiplomatic --html_general\
-	--plaintext --flat texts/plain $exceptions_flag $new_system_flag;
+	 --plaintext --flat texts/plain $google_sheets_flag $exceptions_flag $new_system_flag $silent_flag;
 	cd ..;
 }
 
@@ -42,26 +55,35 @@ for word in $*; do
 		exit;
 	elif [ "$word" == "--no-update" ] || [ "$word" == "-nu" ]; then
 		update=0;
+	elif [ "$word" == "--silent" ] || [ "$word" == "-s" ]; then
+		silent=1;
+	elif [ "$word" == "--google_sheets" ] || [ "$word" == "-gs" ]; then
+		google_sheets=1;
 	elif [ "$word" == "--exceptions" ] || [ "$word" == "-e" ]; then
 		exceptions=1;
 	elif [ "$word" == "--new-system" ] || [ "$word" == "-ns" ]; then
 		new_system=1;
+	elif [ "$word" == "--debug" ] || [ "$word" == "-d" ]; then
+		debug=1;
 	fi
 
 done
 
 # Delete all of the old files,
 # including those generated programmatically and downloaded from the repo
-echo "Removing old site...";
-if [ -d $DOCS ]; then
-	cd $DOCS;
-	if [ $update == 0 ]; then
-		mv texts ..;
+
+if [ $update == 1 ]; then
+	echo "Removing old site...";
+	if [ -d $DOCS ]; then
+		cd $DOCS;
+		if [ $update == 0 ]; then
+			mv texts ..;
+		fi
+		cd ..;
+		rm -rf $DOCS
 	fi
-	cd ..;
-	rm -rf $DOCS
+	mkdir $DOCS
 fi
-mkdir $DOCS
 
 say "updating texts" # Robot voice output so I can do other things while this runs
 
@@ -87,7 +109,18 @@ if [ $update == 1 ]; then
 	fi
 	cd ../../..;
 else
-	mv texts $DOCS;
+	# mv texts $DOCS;	# c - Why is this here????????
+	echo ...
+fi
+
+pwd
+# Delete a bunch of the files to speed up testing
+if [ $debug == 1 ]; then
+	echo "Delete a bunch of the text files to speed up testing."
+	for i in {1..7}
+	do
+		rm $DOCS/texts/xml/*$i*.xml
+	done
 fi
 
 say "running lemmatizer" # Robot voice output so I can do other things while this runs
@@ -105,5 +138,8 @@ cp src/web/wordinfo.css $DOCS/;
 cp src/web/wordInfo.js $DOCS/;
 cp res/doubletree.svg $DOCS/;
 
-cat $DOCS/texts/plain/* > $DOCS/combined.txt
+# cat $DOCS/texts/plain/* > $DOCS/combined.txt # Rewritten below to avoid "arg list too long" error
+# All this does is combine all of the texts into one text file so that the doubletree can be generated from them
+# It is complicated because it has to be
+find $DOCS/texts/plain -name "*.txt" -exec cat '{}' ';' > $DOCS/combined.txt
 ./src/python/per_line.py $DOCS/combined.txt $DOCS/doubletree-data.txt

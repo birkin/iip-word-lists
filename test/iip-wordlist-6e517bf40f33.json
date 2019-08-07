@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "iip-wordlist",
+  "private_key_id": "6e517bf40f3386da87858a2a95a4a88b3b4c5740",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQClyY+lGrAkWvdd\nwKhTlBbKaa/le8HuD/KgMnZStjMZmyrg5ySVbM85Rew9EZj1s+y6hQSqysoyQmzk\nEJZ2dq5U1YMiG15Ufv2MR5UehqjZ8tYmDl8zvVHg/iX8QxpWqi2pbA11TgOt9C8+\nNxi/tsS/y/DZgzzWth+x1qxIcwlEFdIuEdoYK4qpESRKiXpfQyKKGz/pGErI/rAw\n5VjmZSxcKJq3akOqhOUvqQ6Ps/9roU6ZSlI7RzrmeKK5v50kfR7PJUFCd2ly7WF0\niQVkC/p0/uy4GLyyGWxf7h5BqpXcZml7kdtrCOR43dj8kWIHvYKX4E2TVRoaVgLv\nOL8ZenCHAgMBAAECggEAOtLlRnJNPGEQczH4J8ucOI6+bCD4wvTipEezZw6h2/yL\n/sfU2bYFYu917ocvbEK+hMHM0aLpkmKyS0u9b2QV4CDwCeqHElkKsrr1ZKLoB4kb\nxd4ElpGem0PiC3ttvYFdeUdPESews4i4OI2JGQELF3iPyUXBEPgHD+05LO2wRHkc\nvoznNPOiApTSq+/W8t3p6fQ7AzRcN45oM8KNCs8xPg5NlxAd3sh97JExNEC8o4TV\nMF8z4TT1m/ovwyz8MQIfOQrtIOrw2k65NFIBZ4EUWEKRpByhsx8xKh1lVUknzHWo\nL3mm8wqoRqj/ucdCA79tkGQI4X/Ru2+CHlpUnPIgEQKBgQDi0FDuwwyf3rqqPrf2\nnN9z8mV9fOAfgPOnQTg8fLCwBkbz+j1psohIo8I8IG8RTYSztWaa0G7aBLXtuo8O\nwMgBDot4UQEeBdUUUBBJ+Wwe2+QZjUxcjeU96VtQqqn2kuRpVAw39nQXG9lWttsX\nfwnWxLL79VilJaIiQIiJGTSakQKBgQC7Hurk5M7ISRfFiy65dZ0MHF+egZshdOuZ\n4VFMHIG0pldGwfTVF7/gp1LzSrmnwAt6ZQQyL7CLR1JcsFs3yVhzOww4/AexvIe8\nOrDvwlbvaoxbdTHe16GabnbvI1i0frF4YLR+eUUb/3FZ/3w4b1qhtw2e4lQTYSO8\nJ92yBV91lwKBgBqrV/jbIm7h550BBuyOgY/GnrxkpI3PwdaWyqACIVxxQIKLmBEH\nlxLDfqFHRwgHz2S6HbhybbZg+2talluru1i0dx3MmI8JLIbY6zFnjJkMTgPbI3F2\nlc/z0nLnvlhp6UWhRlaGOhxFgAa8NYLLw0JnmowZyzSP+kKAyA0m05KhAoGAFixl\nvVX3wvgWXwxNLyDmyUabdhb5oQ9P095FWfWO0S9c7D+TmaTE0gRB6h6SvXQeaBSM\nWL4Z94cuFVm4lXXAi3cVzbLf3onus7louiCXWKuRkkzi6fs3ZStt4IyZuFnDAfbD\nrLEGJXkxn26M88sOPFeKv6cmO12pdGRs+ul0FGUCgYEAvxNWw8MVTnTZZ0eJS6Ph\n5ZtLXfsu7I3d18wxgrbX5ouYrtRaN6yxFwYHusr22nCoyD4t1G6DZQoeA6Ltb/nS\nMv68lkn3P9uwZWOrZmt1Ifz1lb+uMJCV8H6DfWMKBi3FJWGzHdL/5Hp0CXQ5JZgS\nJTVyiCF1Ib7pbal5sg77NLY=\n-----END PRIVATE KEY-----\n",
+  "client_email": "wordlist-editor@iip-wordlist.iam.gserviceaccount.com",
+  "client_id": "113251502599913711371",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/wordlist-editor%40iip-wordlist.iam.gserviceaccount.com"
+}

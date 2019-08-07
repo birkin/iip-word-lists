@@ -1,0 +1,13 @@
+,Unnamed: 0,Text,Word Number,Line Start,Line End,Normalized,Language,Number,POS Tagger Word,Part of Speech,Part of Speech (Secondary Info),POS Tagger Lemma,Lemmatizer Lemma
+0,0,masa0836.xml,1,1,1,cb,la,0,cb,FW,,cb,"<words>
+<unknown xml:lang=""lat"">cb</unknown>
+</words>
+"
+1,1,masa0836.xml,2,1,1,co,la,0,co,V,IND,co,"<words>
+<unknown xml:lang=""lat"">co</unknown>
+</words>
+"
+2,2,masa0836.xml,3,2,2,l,la,0,l,ABBR,,l.,"<words>
+<unknown xml:lang=""lat"">l</unknown>
+</words>
+"

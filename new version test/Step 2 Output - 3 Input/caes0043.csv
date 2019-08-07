@@ -1,0 +1,7 @@
+,Text,Word Number,Line Start,Line End,Normalized,Language,Number,POS Tagger Word,Part of Speech,Part of Speech (Secondary Info),POS Tagger Lemma
+0,caes0043.xml,1,1,1,s,la,0,s,V,IND,s
+1,caes0043.xml,2,1,1,tiberiéum,la,0,tiberiéum,N,gen,tiberiéum
+2,caes0043.xml,3,2,2,ntius,la,0,ntius,ADJ,,ntius
+3,caes0043.xml,4,2,2,pilatus,la,0,pilatus,V,PTC,pilo
+4,caes0043.xml,5,3,3,ectus,la,0,ectus,N,acc,ectus
+5,caes0043.xml,6,3,3,iudae,la,0,iudae,N,gen,Iudas

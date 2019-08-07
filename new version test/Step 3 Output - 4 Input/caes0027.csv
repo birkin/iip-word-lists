@@ -1,0 +1,141 @@
+,Unnamed: 0,Text,Word Number,Line Start,Line End,Normalized,Language,Number,POS Tagger Word,Part of Speech,Part of Speech (Secondary Info),POS Tagger Lemma,Lemmatizer Lemma
+0,0,caes0027.xml,1,1,1,ugusto,la,0,ugusto,V,IND,ugusto,"<words>
+<unknown xml:lang=""lat"">ugusto</unknown>
+</words>
+"
+1,1,caes0027.xml,2,1,1,pon,la,0,pon,V,GED,pon,"<words>
+<unknown xml:lang=""lat"">pon</unknown>
+</words>
+"
+2,2,caes0027.xml,3,1,1,ifici,la,0,ifici,ADJ,,ifici,"<words>
+<unknown xml:lang=""lat"">ifici</unknown>
+</words>
+"
+3,3,caes0027.xml,4,2,2,suli,la,0,suli,V,IND,suli,"<words>
+<unknown xml:lang=""lat"">suli</unknown>
+</words>
+"
+4,4,caes0027.xml,5,2,2,vii,la,0,vii,ADJ,NUM,SEPTEM,"<words>
+<unknown xml:lang=""lat"">vii</unknown>
+</words>
+"
+5,5,caes0027.xml,6,2,2,cen,la,0,cen,V,IND,cen,"<words>
+<unknown xml:lang=""lat"">cen</unknown>
+</words>
+"
+6,6,caes0027.xml,7,3,3,i,la,0,i,ADJ,NUM,i,"<words>
+<word>
+<form xml:lang=""lat"">i</form>
+<entry>
+<dict>
+<hdwd xml:lang=""lat"">eo#1</hdwd>
+<pofs order=""1"">verb</pofs>
+</dict>
+<infl>
+<term xml:lang=""lat""><stem>i_</stem></term>
+<pofs order=""1"">verb</pofs>
+<mood>imperative</mood>
+<num>singular</num>
+<pers>2nd</pers>
+<tense>present</tense>
+<voice>active</voice>
+<stemtype>irreg_pp1</stemtype>
+</infl>
+</entry>
+</word>
+</words>
+"
+7,7,caes0027.xml,8,3,3,tribunicia,la,0,tribunicia,ADJ,abl,tribunicius,"<words>
+<word>
+<form xml:lang=""lat"">tribunicia</form>
+<entry>
+<dict>
+<hdwd xml:lang=""lat"">tribunicius</hdwd>
+<pofs order=""2"">adjective</pofs>
+<decl>1st &amp; 2nd</decl>
+</dict>
+<infl>
+<term xml:lang=""lat""><stem>tribu_ni_c</stem><suff>ia</suff></term>
+<pofs order=""2"">adjective</pofs>
+<decl>1st &amp; 2nd</decl>
+<case order=""7"">nominative</case>
+<gend>neuter</gend>
+<num>plural</num>
+<stemtype>ius_ia_ium</stemtype>
+</infl>
+<infl>
+<term xml:lang=""lat""><stem>tribu_ni_c</stem><suff>ia</suff></term>
+<pofs order=""2"">adjective</pofs>
+<decl>1st &amp; 2nd</decl>
+<case order=""1"">vocative</case>
+<gend>neuter</gend>
+<num>plural</num>
+<stemtype>ius_ia_ium</stemtype>
+</infl>
+<infl>
+<term xml:lang=""lat""><stem>tribu_ni_c</stem><suff>ia</suff></term>
+<pofs order=""2"">adjective</pofs>
+<decl>1st &amp; 2nd</decl>
+<case order=""4"">accusative</case>
+<gend>neuter</gend>
+<num>plural</num>
+<stemtype>ius_ia_ium</stemtype>
+</infl>
+<infl>
+<term xml:lang=""lat""><stem>tribu_ni_c</stem><suff>ia_</suff></term>
+<pofs order=""2"">adjective</pofs>
+<decl>1st &amp; 2nd</decl>
+<case order=""3"">ablative</case>
+<gend>feminine</gend>
+<num>singular</num>
+<stemtype>ius_ia_ium</stemtype>
+</infl>
+<infl>
+<term xml:lang=""lat""><stem>tribu_ni_c</stem><suff>ia</suff></term>
+<pofs order=""2"">adjective</pofs>
+<decl>1st &amp; 2nd</decl>
+<case order=""7"">nominative</case>
+<gend>feminine</gend>
+<num>singular</num>
+<stemtype>ius_ia_ium</stemtype>
+</infl>
+<infl>
+<term xml:lang=""lat""><stem>tribu_ni_c</stem><suff>ia</suff></term>
+<pofs order=""2"">adjective</pofs>
+<decl>1st &amp; 2nd</decl>
+<case order=""1"">vocative</case>
+<gend>feminine</gend>
+<num>singular</num>
+<stemtype>ius_ia_ium</stemtype>
+</infl>
+</entry>
+</word>
+</words>
+"
+8,8,caes0027.xml,9,3,3,potestate,la,0,potestate,N,abl,potestas,"<words>
+<word>
+<form xml:lang=""lat"">potestate</form>
+<entry>
+<dict>
+<hdwd xml:lang=""lat"">potestas</hdwd>
+<pofs order=""3"">noun</pofs>
+<decl>3rd</decl>
+<gend>feminine</gend>
+</dict>
+<infl>
+<term xml:lang=""lat""><stem>potes</stem><suff>ta_te</suff></term>
+<pofs order=""3"">noun</pofs>
+<decl>3rd</decl>
+<case order=""3"">ablative</case>
+<gend>feminine</gend>
+<num>singular</num>
+<stemtype>tas_tatis</stemtype>
+</infl>
+</entry>
+</word>
+</words>
+"
+9,9,caes0027.xml,10,3,3,v,la,0,v,ADJ,NUM,v,"<words>
+<unknown xml:lang=""lat"">v</unknown>
+</words>
+"

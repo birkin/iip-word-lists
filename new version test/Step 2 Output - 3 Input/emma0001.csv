@@ -1,0 +1,22 @@
+,Text,Word Number,Line Start,Line End,Normalized,Language,Number,POS Tagger Word,Part of Speech,Part of Speech (Secondary Info),POS Tagger Lemma
+0,emma0001.xml,1,1,1,publius,la,0,publius,N,nom,Publius
+1,emma0001.xml,2,1,1,oppi,la,0,oppi,N,gen,oppi
+2,emma0001.xml,3,2,2,camilia,la,0,camilia,N,acc,camilia
+3,emma0001.xml,4,3,3,cio,la,0,cio,V,IND,cio
+4,emma0001.xml,5,3,3,ravenna,la,0,ravenna,N,nom,Ravenna
+5,emma0001.xml,6,4,4,miles,la,0,miles,N,nom,miles
+6,emma0001.xml,7,4,4,legionis,la,0,legionis,N,gen,legio
+7,emma0001.xml,8,4,4,v,la,0,v,ADJ,NUM,v
+8,emma0001.xml,9,5,5,macedonicae,la,0,macedonicae,ADJ,,Macedonicus
+9,emma0001.xml,10,5,5,optio,la,0,optio,N,nom,optio
+10,emma0001.xml,11,6,6,vixit,la,0,vixit,V,IND,vivo
+11,emma0001.xml,12,6,6,annos,la,0,annos,N,acc,annus
+12,emma0001.xml,13,7,7,xxx,la,0,xxx,ADJ,NUM,XXX
+13,emma0001.xml,14,7,7,militavit,la,0,militavit,V,IND,milito
+14,emma0001.xml,15,8,8,annos,la,0,annos,N,acc,annus
+15,emma0001.xml,16,8,8,viiii,la,0,viiii,N,gen,viiii
+16,emma0001.xml,17,9,9,hic,la,0,hic,DIMOS,,hic
+17,emma0001.xml,18,9,9,situs,la,0,situs,V,PTC,sino
+18,emma0001.xml,19,9,9,est,la,0,est,ESSE,IND,sum
+19,emma0001.xml,20,10,10,heres,la,0,heres,N,nom,heres
+20,emma0001.xml,21,10,10,fecit,la,0,fecit,V,IND,facio

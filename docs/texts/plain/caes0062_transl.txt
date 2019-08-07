@@ -1,2 +1,2 @@
-Height 32 feet width 20 feet 
+height 32 feet width 20 feet 
 

@@ -1,0 +1,10 @@
+,Text,Word Number,Line Start,Line End,Normalized,Language,Number,POS Tagger Word,Part of Speech,Part of Speech (Secondary Info),POS Tagger Lemma
+0,caes0035.xml,1,1,1,raciae,la,0,raciae,ADJ,,raciae
+1,caes0035.xml,2,1,1,legato,la,0,legato,N,dat,legatum|legatus
+2,caes0035.xml,3,1,1,augusti,la,0,augusti,ADJ,,Augustus
+3,caes0035.xml,4,1,1,l,la,0,l,ABBR,,l.
+4,caes0035.xml,5,2,2,egionis,la,0,egionis,N,nom,egionis
+5,caes0035.xml,6,2,2,iii,la,0,iii,ADJ,NUM,III
+6,caes0035.xml,7,2,2,cyrenaicae,la,0,cyrenaicae,ADJ,,cyrenaicae
+7,caes0035.xml,8,2,2,c,la,0,c,ENCL,,c
+8,caes0035.xml,9,2,2,ori,la,0,ori,V,INF,oro

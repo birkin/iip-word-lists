@@ -1,0 +1,15 @@
+,Text,Word Number,Line Start,Line End,Normalized,Language,Number,POS Tagger Word,Part of Speech,Part of Speech (Secondary Info),POS Tagger Lemma
+0,caes0148.xml,1,1,2,valetinae,la,0,valetinae,ADJ,,valetinae
+1,caes0148.xml,2,2,2,coniugi,la,0,coniugi,V,IND,coniugi
+2,caes0148.xml,3,2,2,optimae,la,0,optimae,ADJ,,optimae
+3,caes0148.xml,4,3,3,iulius,la,0,iulius,ADJ,,iulius
+4,caes0148.xml,5,3,4,tiberianus,la,0,tiberianus,N,nom,tiberianus
+5,caes0148.xml,6,4,4,centurio,la,0,centurio,N,nom,centurio
+6,caes0148.xml,7,4,4,legionis,la,0,legionis,N,gen,legio
+7,caes0148.xml,8,4,4,x,la,0,x,V,IND,x
+8,caes0148.xml,9,4,4,fretensis,la,0,fretensis,ADJ,,fretensis
+9,caes0148.xml,10,5,5,maritus,la,0,maritus,ADJ,,maritus
+10,caes0148.xml,11,5,5,et,la,0,et,CC,,et
+11,caes0148.xml,12,5,5,iulius,la,0,iulius,ADJ,,iulius
+12,caes0148.xml,13,5,6,iulianus,la,0,iulianus,ADJ,,iulianus
+13,caes0148.xml,14,6,6,filius,la,0,filius,N,nom,filius

@@ -4,6 +4,8 @@ cd ..
 
 update=1;
 exceptions=0;
+silent=0;
+google_sheets=0;
 use_existing=0;
 file_name="abil0001";
 
@@ -16,15 +18,24 @@ echo "Using data in $DOCS."
 # It is not clear to me why this is a procedure, because it is called only once below
 run_script() {
 	source environment/bin/activate;
+	# pip install oauth2client
 	cd $DOCS;
 	exceptions_flag=""
 	new_system_flag=""
+	silent_flag=""
+	google_sheets_flag=""
 	if [ $exceptions == 1 ]; then
 		exceptions_flag="--fileexception"
 	fi
+	if [ $silent == 1 ]; then
+		silent_flag="--silent"
+	fi
+	if [ $google_sheets == 1 ]; then
+		google_sheets_flag="--google_sheets"
+	fi
 
-	../src/python/wordlist.py texts/xml/$file_name.xml --nodiplomatic --html_general\
-	--plaintext --flat texts/plain $exceptions_flag $new_system_flag;
+	python3 ../src/python/wordlist.py texts/xml/$file_name.xml --nodiplomatic --html_general\
+	--csv $google_sheets_flag --plaintext --flat texts/plain $exceptions_flag $new_system_flag $silent_flag;
 	cd ..;
 
 	echo $file_name;
@@ -43,6 +54,10 @@ for word in $*; do
 		exit;
 	elif [ "$word" == "--no-update" ] || [ "$word" == "-nu" ]; then
 		update=0;
+	elif [ "$word" == "--silent" ] || [ "$word" == "-s" ]; then
+		silent=1;
+	elif [ "$word" == "--google_sheets" ] || [ "$word" == "-gs" ]; then
+		google_sheets=1;
 	elif [ "$word" == "--exceptions" ] || [ "$word" == "-e" ]; then
 		exceptions=1;
 	elif [ "$word" == "--new-system" ] || [ "$word" == "-ns" ]; then

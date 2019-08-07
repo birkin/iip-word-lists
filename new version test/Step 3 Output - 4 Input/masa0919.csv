@@ -1,0 +1,19 @@
+,Unnamed: 0,Text,Word Number,Line Start,Line End,Normalized,Language,Number,POS Tagger Word,Part of Speech,Part of Speech (Secondary Info),POS Tagger Lemma,Lemmatizer Lemma
+0,0,masa0919.xml,1,1,1,tat,la,0,tat,V,IND,tat,"<words>
+<word>
+<form xml:lang=""lat"">tat</form>
+<entry>
+<dict>
+<hdwd xml:lang=""lat"">tat</hdwd>
+<pofs order=""0"">exclamation</pofs>
+</dict>
+<infl>
+<term xml:lang=""lat""><stem>tat</stem></term>
+<pofs order=""0"">exclamation</pofs>
+<stemtype>exclam</stemtype>
+<morph>indeclform</morph>
+</infl>
+</entry>
+</word>
+</words>
+"

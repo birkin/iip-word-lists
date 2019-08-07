@@ -1,0 +1,59 @@
+,Unnamed: 0,Text,Word Number,Line Start,Line End,Normalized,Language,Number,POS Tagger Word,Part of Speech,Part of Speech (Secondary Info),POS Tagger Lemma,Lemmatizer Lemma
+0,0,caes0034.xml,1,1,1,egionis,la,0,egionis,N,nom,egionis,"<words>
+<unknown xml:lang=""lat"">egionis</unknown>
+</words>
+"
+1,1,caes0034.xml,2,2,2,ro,la,0,ro,V,IND,ro,"<words>
+<word>
+<form xml:lang=""lat"">ro</form>
+<entry>
+<dict>
+<hdwd xml:lang=""lat"">rus</hdwd>
+<pofs order=""2"">adjective</pofs>
+<decl>1st &amp; 2nd</decl>
+</dict>
+<infl>
+<term xml:lang=""lat""><stem>r</stem><suff>o_</suff></term>
+<pofs order=""2"">adjective</pofs>
+<decl>1st &amp; 2nd</decl>
+<case order=""3"">ablative</case>
+<gend>masculine</gend>
+<num>singular</num>
+<stemtype>us_a_um</stemtype>
+</infl>
+<infl>
+<term xml:lang=""lat""><stem>r</stem><suff>o_</suff></term>
+<pofs order=""2"">adjective</pofs>
+<decl>1st &amp; 2nd</decl>
+<case order=""5"">dative</case>
+<gend>masculine</gend>
+<num>singular</num>
+<stemtype>us_a_um</stemtype>
+</infl>
+</entry>
+</word>
+</words>
+"
+2,2,caes0034.xml,3,2,2,praetore,la,0,praetore,N,abl,praetor,"<words>
+<word>
+<form xml:lang=""lat"">praetore</form>
+<entry>
+<dict>
+<hdwd xml:lang=""lat"">praetor</hdwd>
+<pofs order=""3"">noun</pofs>
+<decl>3rd</decl>
+<gend>masculine</gend>
+</dict>
+<infl>
+<term xml:lang=""lat""><stem>praet</stem><suff>o_re</suff></term>
+<pofs order=""3"">noun</pofs>
+<decl>3rd</decl>
+<case order=""3"">ablative</case>
+<gend>masculine</gend>
+<num>singular</num>
+<stemtype>or_oLris</stemtype>
+</infl>
+</entry>
+</word>
+</words>
+"

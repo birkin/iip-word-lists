@@ -1,0 +1,46 @@
+,Unnamed: 0,Text,Word Number,Line Start,Line End,Normalized,Language,Number,POS Tagger Word,Part of Speech,Part of Speech (Secondary Info),POS Tagger Lemma,Lemmatizer Lemma
+0,0,jeru0306.xml,1,1,1,domine,la,0,domine,N,voc,dominus,"<words>
+<word>
+<form xml:lang=""lat"">domine</form>
+<entry>
+<dict>
+<hdwd xml:lang=""lat"">dominus</hdwd>
+<pofs order=""3"">noun</pofs>
+<decl>2nd</decl>
+<gend>masculine</gend>
+</dict>
+<infl>
+<term xml:lang=""lat""><stem>domin</stem><suff>e</suff></term>
+<pofs order=""3"">noun</pofs>
+<decl>2nd</decl>
+<case order=""1"">vocative</case>
+<gend>masculine</gend>
+<num>singular</num>
+<stemtype>us_i</stemtype>
+</infl>
+</entry>
+</word>
+</words>
+"
+1,1,jeru0306.xml,2,1,1,ivimus,la,0,ivimus,V,IND,eo,"<words>
+<word>
+<form xml:lang=""lat"">ivimus</form>
+<entry>
+<dict>
+<hdwd xml:lang=""lat"">eo#1</hdwd>
+<pofs order=""1"">verb</pofs>
+</dict>
+<infl>
+<term xml:lang=""lat""><stem>i_v</stem><suff>imus</suff></term>
+<pofs order=""1"">verb</pofs>
+<mood>indicative</mood>
+<num>plural</num>
+<pers>1st</pers>
+<tense>perfect</tense>
+<voice>active</voice>
+<stemtype>perfstem</stemtype>
+</infl>
+</entry>
+</word>
+</words>
+"

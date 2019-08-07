@@ -1,0 +1,4 @@
+,Text,Word Number,Line Start,Line End,Normalized,Language,Number,POS Tagger Word,Part of Speech,Part of Speech (Secondary Info),POS Tagger Lemma
+0,caes0034.xml,1,1,1,egionis,la,0,egionis,N,nom,egionis
+1,caes0034.xml,2,2,2,ro,la,0,ro,V,IND,ro
+2,caes0034.xml,3,2,2,praetore,la,0,praetore,N,abl,praetor

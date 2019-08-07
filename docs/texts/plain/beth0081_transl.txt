@@ -1,2 +1,2 @@
-from Beka the physician 
+from beka the physician 
 

@@ -1,0 +1,31 @@
+,Unnamed: 0,Text,Word Number,Line Start,Line End,Normalized,Language,Number,POS Tagger Word,Part of Speech,Part of Speech (Secondary Info),POS Tagger Lemma,Lemmatizer Lemma
+0,0,masa0827.xml,1,1,1,aso,la,0,aso,V,IND,aso,"<words>
+<unknown xml:lang=""lat"">aso</unknown>
+</words>
+"
+1,1,masa0827.xml,2,2,2,l,la,0,l,ABBR,,l.,"<words>
+<unknown xml:lang=""lat"">l</unknown>
+</words>
+"
+2,2,masa0827.xml,3,2,2,e,la,0,e,PREP,,e,"<words>
+<word>
+<form xml:lang=""lat"">e</form>
+<entry>
+<dict>
+<hdwd xml:lang=""lat"">ex</hdwd>
+<pofs order=""6"">preposition</pofs>
+</dict>
+<infl>
+<term xml:lang=""lat""><stem>e_</stem></term>
+<pofs order=""6"">preposition</pofs>
+<stemtype>prep</stemtype>
+<morph>indeclform</morph>
+</infl>
+</entry>
+</word>
+</words>
+"
+3,3,masa0827.xml,4,2,2,g,la,0,g,V,GED,g,"<words>
+<unknown xml:lang=""lat"">g</unknown>
+</words>
+"

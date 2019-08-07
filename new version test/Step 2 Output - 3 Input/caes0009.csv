@@ -1,0 +1,27 @@
+,Text,Word Number,Line Start,Line End,Normalized,Language,Number,POS Tagger Word,Part of Speech,Part of Speech (Secondary Info),POS Tagger Lemma
+0,caes0009.xml,1,1,1,felicissimo,la,0,felicissimo,ADJ,,felicissimo
+1,caes0009.xml,2,1,1,ac,la,0,ac,CC,,ac
+2,caes0009.xml,3,1,1,providentissimo,la,0,providentissimo,ADJ,,providentissimo
+3,caes0009.xml,4,2,2,victoriosissimoque,la,0,victoriosissimoque,N,dat,victoriosissimoque
+4,caes0009.xml,5,2,2,principi,la,0,principi,N,dat,princeps
+5,caes0009.xml,6,3,3,domino,la,0,domino,N,dat,dominus
+6,caes0009.xml,7,3,3,nostro,la,0,nostro,POSS,,noster
+7,caes0009.xml,8,3,3,marco,la,0,marco,N,abl,Marcus
+8,caes0009.xml,9,3,3,aurelio,la,0,aurelio,V,IND,aurelio
+9,caes0009.xml,10,3,3,valeriano,la,0,valeriano,ADJ,,valeriano
+10,caes0009.xml,11,4,4,maximiano,la,0,maximiano,N,abl,maximiano
+11,caes0009.xml,12,4,4,pio,la,0,pio,ADJ,abl,pius
+12,caes0009.xml,13,4,4,felici,la,0,felici,ADJ,abl,felix
+13,caes0009.xml,14,4,4,invicto,la,0,invicto,ADJ,abl,invictus
+14,caes0009.xml,15,4,4,augusto,la,0,augusto,N,abl,Augustus
+15,caes0009.xml,16,5,5,arbaeus,la,0,arbaeus,N,gen,arbaeus
+16,caes0009.xml,17,5,5,africanus,la,0,africanus,ADJ,,Africanus
+17,caes0009.xml,18,5,5,vir,la,0,vir,N,nom,vir
+18,caes0009.xml,19,5,5,perfectissimus,la,0,perfectissimus,ADJ,SUP,perfectus
+19,caes0009.xml,20,6,6,praeses,la,0,praeses,N,nom,praeses
+20,caes0009.xml,21,6,6,provinciae,la,0,provinciae,N,gen,provincia
+21,caes0009.xml,22,6,6,palaestinae,la,0,palaestinae,ADJ,,palaestinae
+22,caes0009.xml,23,6,7,tranquil,la,0,tranquil,ADJ,,tranquil
+23,caes0009.xml,24,7,7,litati,la,0,litati,V,PTC,lito
+24,caes0009.xml,25,7,7,eius,la,0,eius,DET,,is
+25,caes0009.xml,26,7,7,dicatissimus,la,0,dicatissimus,V,SUB,dicatissimus

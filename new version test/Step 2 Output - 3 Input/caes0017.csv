@@ -1,0 +1,24 @@
+,Text,Word Number,Line Start,Line End,Normalized,Language,Number,POS Tagger Word,Part of Speech,Part of Speech (Secondary Info),POS Tagger Lemma
+0,caes0017.xml,1,1,1,consultissimo,la,0,consultissimo,ADJ,,consultissimo
+1,caes0017.xml,2,2,2,iuvtut,la,0,iuvtut,ADJ,,iuvtut
+2,caes0017.xml,3,2,2,principi,la,0,principi,N,dat,princeps
+3,caes0017.xml,4,3,3,flavio,la,0,flavio,ADJ,,flavio
+4,caes0017.xml,5,3,3,valerio,la,0,valerio,ADJ,abl,Valerius
+5,caes0017.xml,6,3,3,constantio,la,0,constantio,N,abl,constantio
+6,caes0017.xml,7,4,4,pio,la,0,pio,ADJ,abl,pius
+7,caes0017.xml,8,4,4,felici,la,0,felici,ADJ,abl,felix
+8,caes0017.xml,9,4,4,invicto,la,0,invicto,ADJ,abl,invictus
+9,caes0017.xml,10,4,4,nobilissimo,la,0,nobilissimo,ADJ,,nobilissimo
+10,caes0017.xml,11,4,4,caesari,la,0,caesari,N,dat,Caesar
+11,caes0017.xml,12,5,5,aufidius,la,0,aufidius,ADJ,,aufidius
+12,caes0017.xml,13,5,5,priscus,la,0,priscus,ADJ,,priscus
+13,caes0017.xml,14,5,5,vir,la,0,vir,N,nom,vir
+14,caes0017.xml,15,5,5,perfectissimus,la,0,perfectissimus,ADJ,SUP,perfectus
+15,caes0017.xml,16,5,5,praeses,la,0,praeses,N,nom,praeses
+16,caes0017.xml,17,5,5,provinciae,la,0,provinciae,N,gen,provincia
+17,caes0017.xml,18,6,6,palaestinae,la,0,palaestinae,ADJ,,palaestinae
+18,caes0017.xml,19,6,6,devotus,la,0,devotus,V,PTC,devoveo
+19,caes0017.xml,20,6,6,numini,la,0,numini,N,dat,numen
+20,caes0017.xml,21,6,6,maiestati,la,0,maiestati,N,dat,maiestas
+21,caes0017.xml,22,6,6,que,la,0,que,CC,,que
+22,caes0017.xml,23,6,6,eorum,la,0,eorum,DET,,is
