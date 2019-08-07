@@ -1,5 +1,6 @@
 ,Unnamed: 0,Text,Word Number,Line Start,Line End,Normalized,Language,Number,POS Tagger Word,Part of Speech,Part of Speech (Secondary Info),POS Tagger Lemma,Lemmatizer Lemma
-0,0,akko0016.xml,1,1,1,ὶ,grc,0,,,,,
-1,1,akko0016.xml,2,1,2,αιδή,grc,0,,,,,
-2,2,akko0016.xml,3,3,3,ίν,grc,0,,,,,
-3,3,akko0016.xml,4,3,3,ου,grc,0,,,,,
+0,0,akko0016.xml,1,1,1,ἐπὶ,grc,0,,,,,
+1,1,akko0016.xml,2,1,2,θεαιδή,grc,0,,,,,
+2,2,akko0016.xml,3,2,2,του,grc,0,,,,,
+3,3,akko0016.xml,4,3,3,ίν,grc,0,,,,,
+4,4,akko0016.xml,5,3,3,ου,grc,0,,,,,

@@ -31,7 +31,7 @@
 </word>
 </words>
 "
-1,1,caes0052.xml,2,1,1,caesar,la,0,caesar,N,nom,Caesar,"<words>
+1,1,caes0052.xml,2,1,1,caesar,la,0,caesar,N,nom,caesar,"<words>
 <unknown xml:lang=""lat"">caesar</unknown>
 </words>
 "
@@ -39,11 +39,11 @@
 <unknown xml:lang=""lat"">traianus</unknown>
 </words>
 "
-3,3,caes0052.xml,4,3,3,hadrianus,la,0,hadrianus,ADJ,,Hadrianus,"<words>
+3,3,caes0052.xml,4,3,3,hadrianus,la,0,hadrianus,ADJ,,hadrianus,"<words>
 <unknown xml:lang=""lat"">hadrianus</unknown>
 </words>
 "
-4,4,caes0052.xml,5,4,4,augustus,la,0,augustus,N,nom,Augustus,"<words>
+4,4,caes0052.xml,5,4,4,augustus,la,0,augustus,N,nom,augustus,"<words>
 <word>
 <form xml:lang=""lat"">augustus</form>
 <entry>
@@ -105,9 +105,9 @@
 </word>
 </words>
 "
-7,7,caes0052.xml,8,5,5,vexillatio,la,0,vexillatio,N,abl,vexillatio,"<words>
+7,7,caes0052.xml,8,5,5,vexillationem,la,0,vexillationem,N,acc,vexillationem,"<words>
 <word>
-<form xml:lang=""lat"">vexillatio</form>
+<form xml:lang=""lat"">vexillationem</form>
 <entry>
 <dict>
 <hdwd xml:lang=""lat"">vexillatio</hdwd>
@@ -116,19 +116,10 @@
 <gend>feminine</gend>
 </dict>
 <infl>
-<term xml:lang=""lat""><stem>vexilla_ti</stem><suff>o_</suff></term>
+<term xml:lang=""lat""><stem>vexilla_ti</stem><suff>o_nem</suff></term>
 <pofs order=""3"">noun</pofs>
 <decl>3rd</decl>
-<case order=""7"">nominative</case>
-<gend>feminine</gend>
-<num>singular</num>
-<stemtype>o_oLnis</stemtype>
-</infl>
-<infl>
-<term xml:lang=""lat""><stem>vexilla_ti</stem><suff>o_</suff></term>
-<pofs order=""3"">noun</pofs>
-<decl>3rd</decl>
-<case order=""1"">vocative</case>
+<case order=""4"">accusative</case>
 <gend>feminine</gend>
 <num>singular</num>
 <stemtype>o_oLnis</stemtype>

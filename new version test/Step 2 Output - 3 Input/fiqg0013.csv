@@ -1,5 +1,6 @@
 ,Text,Word Number,Line Start,Line End,Normalized,Language,Number,POS Tagger Word,Part of Speech,Part of Speech (Secondary Info),POS Tagger Lemma
 0,fiqg0013.xml,1,2,2,οὐήρο,grc,0,,,,
-1,fiqg0013.xml,2,3,3,ἐτ,grc,0,,,,
-2,fiqg0013.xml,3,3,3,ῶν,grc,0,,,,
-3,fiqg0013.xml,4,4,4,ο,grc,0,,,,
+1,fiqg0013.xml,2,2,2,υ,grc,0,,,,
+2,fiqg0013.xml,3,3,3,ἐτ,grc,0,,,,
+3,fiqg0013.xml,4,3,3,ῶν,grc,0,,,,
+4,fiqg0013.xml,5,4,4,ο,grc,0,,,,

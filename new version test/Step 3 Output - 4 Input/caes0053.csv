@@ -65,7 +65,73 @@
 <unknown xml:lang=""lat"">iano</unknown>
 </words>
 "
-5,5,caes0053.xml,6,3,3,vexillatio,la,0,vexillatio,N,nom,vexillatio,"<words>
+5,5,caes0053.xml,6,2,2,augusto,la,0,augusto,ADJ,abl,augustus|augustus,"<words>
+<word>
+<form xml:lang=""lat"">augusto</form>
+<entry>
+<dict>
+<hdwd xml:lang=""lat"">augusto</hdwd>
+<pofs order=""1"">verb</pofs>
+</dict>
+<infl>
+<term xml:lang=""lat""><stem>august</stem><suff>o_</suff></term>
+<pofs order=""1"">verb</pofs>
+<mood>indicative</mood>
+<num>singular</num>
+<pers>1st</pers>
+<tense>present</tense>
+<voice>active</voice>
+<stemtype>conj1</stemtype>
+<derivtype>are_vb</derivtype>
+</infl>
+</entry>
+<entry>
+<dict>
+<hdwd xml:lang=""lat"">augustus#1</hdwd>
+<pofs order=""2"">adjective</pofs>
+<decl>1st &amp; 2nd</decl>
+</dict>
+<infl>
+<term xml:lang=""lat""><stem>august</stem><suff>o_</suff></term>
+<pofs order=""2"">adjective</pofs>
+<decl>1st &amp; 2nd</decl>
+<case order=""3"">ablative</case>
+<gend>neuter</gend>
+<num>singular</num>
+<stemtype>us_a_um</stemtype>
+</infl>
+<infl>
+<term xml:lang=""lat""><stem>august</stem><suff>o_</suff></term>
+<pofs order=""2"">adjective</pofs>
+<decl>1st &amp; 2nd</decl>
+<case order=""3"">ablative</case>
+<gend>masculine</gend>
+<num>singular</num>
+<stemtype>us_a_um</stemtype>
+</infl>
+<infl>
+<term xml:lang=""lat""><stem>august</stem><suff>o_</suff></term>
+<pofs order=""2"">adjective</pofs>
+<decl>1st &amp; 2nd</decl>
+<case order=""5"">dative</case>
+<gend>neuter</gend>
+<num>singular</num>
+<stemtype>us_a_um</stemtype>
+</infl>
+<infl>
+<term xml:lang=""lat""><stem>august</stem><suff>o_</suff></term>
+<pofs order=""2"">adjective</pofs>
+<decl>1st &amp; 2nd</decl>
+<case order=""5"">dative</case>
+<gend>masculine</gend>
+<num>singular</num>
+<stemtype>us_a_um</stemtype>
+</infl>
+</entry>
+</word>
+</words>
+"
+6,6,caes0053.xml,7,3,3,vexillatio,la,0,vexillatio,N,nom,vexillatio,"<words>
 <word>
 <form xml:lang=""lat"">vexillatio</form>
 <entry>
@@ -97,7 +163,7 @@
 </word>
 </words>
 "
-6,6,caes0053.xml,7,3,3,legionis,la,0,legionis,N,gen,legio,"<words>
+7,7,caes0053.xml,8,3,3,legionis,la,0,legionis,N,gen,legio,"<words>
 <word>
 <form xml:lang=""lat"">legionis</form>
 <entry>
@@ -120,85 +186,11 @@
 </word>
 </words>
 "
-7,7,caes0053.xml,8,4,4,x,la,0,x,V,PTC,x,"<words>
+8,8,caes0053.xml,9,4,4,x,la,0,x,V,IND,x,"<words>
 <unknown xml:lang=""lat"">x</unknown>
 </words>
 "
-8,8,caes0053.xml,9,4,4,retensis,la,0,retensis,V,PTC,retensis,"<words>
-<word>
-<form xml:lang=""lat"">retensis</form>
-<entry>
-<dict>
-<hdwd xml:lang=""lat"">re-tendo</hdwd>
-<pofs order=""1"">verb</pofs>
-</dict>
-<infl>
-<term xml:lang=""lat""><stem>re:tens</stem><suff>i_s</suff></term>
-<pofs order=""0"">verb participle</pofs>
-<case order=""3"">ablative</case>
-<gend>neuter</gend>
-<mood>participle</mood>
-<num>plural</num>
-<tense>perfect</tense>
-<voice>passive</voice>
-<stemtype>pp4</stemtype>
-</infl>
-<infl>
-<term xml:lang=""lat""><stem>re:tens</stem><suff>i_s</suff></term>
-<pofs order=""0"">verb participle</pofs>
-<case order=""3"">ablative</case>
-<gend>feminine</gend>
-<mood>participle</mood>
-<num>plural</num>
-<tense>perfect</tense>
-<voice>passive</voice>
-<stemtype>pp4</stemtype>
-</infl>
-<infl>
-<term xml:lang=""lat""><stem>re:tens</stem><suff>i_s</suff></term>
-<pofs order=""0"">verb participle</pofs>
-<case order=""3"">ablative</case>
-<gend>masculine</gend>
-<mood>participle</mood>
-<num>plural</num>
-<tense>perfect</tense>
-<voice>passive</voice>
-<stemtype>pp4</stemtype>
-</infl>
-<infl>
-<term xml:lang=""lat""><stem>re:tens</stem><suff>i_s</suff></term>
-<pofs order=""0"">verb participle</pofs>
-<case order=""5"">dative</case>
-<gend>neuter</gend>
-<mood>participle</mood>
-<num>plural</num>
-<tense>perfect</tense>
-<voice>passive</voice>
-<stemtype>pp4</stemtype>
-</infl>
-<infl>
-<term xml:lang=""lat""><stem>re:tens</stem><suff>i_s</suff></term>
-<pofs order=""0"">verb participle</pofs>
-<case order=""5"">dative</case>
-<gend>feminine</gend>
-<mood>participle</mood>
-<num>plural</num>
-<tense>perfect</tense>
-<voice>passive</voice>
-<stemtype>pp4</stemtype>
-</infl>
-<infl>
-<term xml:lang=""lat""><stem>re:tens</stem><suff>i_s</suff></term>
-<pofs order=""0"">verb participle</pofs>
-<case order=""5"">dative</case>
-<gend>masculine</gend>
-<mood>participle</mood>
-<num>plural</num>
-<tense>perfect</tense>
-<voice>passive</voice>
-<stemtype>pp4</stemtype>
-</infl>
-</entry>
-</word>
+9,9,caes0053.xml,10,4,4,fretensis,la,0,fretensis,ADJ,,fretensis,"<words>
+<unknown xml:lang=""lat"">fretensis</unknown>
 </words>
 "

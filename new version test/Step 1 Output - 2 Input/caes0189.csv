@@ -1,6 +1,8 @@
 Text,Word Number,Line Start,Line End,Normalized,Language,Number
 caes0189.xml,1,1,1,μνήμα,grc,0
 caes0189.xml,2,1,1,λήα,grc,0
-caes0189.xml,3,2,2,ς,grc,0
-caes0189.xml,4,2,3,θυγατρὸ,grc,0
-caes0189.xml,5,3,3,ιαμῖν,grc,0
+caes0189.xml,3,2,2,τῆ,grc,0
+caes0189.xml,4,2,2,ς,grc,0
+caes0189.xml,5,2,3,θυγατρὸ,grc,0
+caes0189.xml,6,3,3,ς,grc,0
+caes0189.xml,7,3,3,βενιαμῖν,grc,0

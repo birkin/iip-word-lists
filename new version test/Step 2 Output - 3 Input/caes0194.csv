@@ -1,6 +1,6 @@
 ,Text,Word Number,Line Start,Line End,Normalized,Language,Number,POS Tagger Word,Part of Speech,Part of Speech (Secondary Info),POS Tagger Lemma
 0,caes0194.xml,1,1,1,θήκη,grc,0,,,,
-1,caes0194.xml,2,1,1,σαμ­,grc,0,,,,
+1,caes0194.xml,2,1,2,σαμ,grc,0,,,,
 2,caes0194.xml,3,2,2,ουείλου,grc,0,,,,
 3,caes0194.xml,4,3,3,ἑζικία,grc,0,,,,
 4,caes0194.xml,5,3,3,α,grc,0,,,,

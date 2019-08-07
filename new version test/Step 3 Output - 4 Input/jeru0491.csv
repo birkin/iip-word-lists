@@ -49,15 +49,15 @@
 </word>
 </words>
 "
-1,1,jeru0491.xml,2,1,1,caesar,la,0,caesar,N,nom,Caesar,"<words>
+1,1,jeru0491.xml,2,1,1,caesar,la,0,caesar,N,nom,caesar,"<words>
 <unknown xml:lang=""lat"">caesar</unknown>
 </words>
 "
-2,2,jeru0491.xml,3,2,2,vespasian,la,0,vespasian,N,acc,vespasian,"<words>
-<unknown xml:lang=""lat"">vespasian</unknown>
+2,2,jeru0491.xml,3,2,2,vespasianus,la,0,vespasianus,N,nom,vespasianus,"<words>
+<unknown xml:lang=""lat"">vespasianus</unknown>
 </words>
 "
-3,3,jeru0491.xml,4,3,3,augustus,la,0,augustus,ADJ,,Augustus,"<words>
+3,3,jeru0491.xml,4,3,3,augustus,la,0,augustus,ADJ,,augustus,"<words>
 <word>
 <form xml:lang=""lat"">augustus</form>
 <entry>
@@ -129,19 +129,19 @@
 </word>
 </words>
 "
-5,5,jeru0491.xml,6,3,3,titus,la,0,titus,N,nom,Titus,"<words>
+5,5,jeru0491.xml,6,3,3,titus,la,0,titus,N,nom,titus,"<words>
 <unknown xml:lang=""lat"">titus</unknown>
 </words>
 "
-6,6,jeru0491.xml,7,3,3,csar,la,0,csar,V,IND,csar,"<words>
-<unknown xml:lang=""lat"">csar</unknown>
+6,6,jeru0491.xml,7,3,3,caesar,la,0,caesar,N,nom,caesar,"<words>
+<unknown xml:lang=""lat"">caesar</unknown>
 </words>
 "
-7,7,jeru0491.xml,8,4,4,vespasianus,la,0,vespasianus,N,nom,Vespasianus,"<words>
+7,7,jeru0491.xml,8,4,4,vespasianus,la,0,vespasianus,N,nom,vespasianus,"<words>
 <unknown xml:lang=""lat"">vespasianus</unknown>
 </words>
 "
-8,8,jeru0491.xml,9,4,4,augustus,la,0,augustus,ADJ,,Augustus,"<words>
+8,8,jeru0491.xml,9,4,4,augustus,la,0,augustus,ADJ,,augustus,"<words>
 <word>
 <form xml:lang=""lat"">augustus</form>
 <entry>
@@ -163,7 +163,7 @@
 </word>
 </words>
 "
-9,9,jeru0491.xml,10,5,5,lucius,la,0,lucius,N,nom,Lucius|lucius,"<words>
+9,9,jeru0491.xml,10,5,5,lucius,la,0,lucius,N,nom,lucius|lucius,"<words>
 <word>
 <form xml:lang=""lat"">lucius</form>
 <entry>
@@ -186,7 +186,7 @@
 </word>
 </words>
 "
-10,10,jeru0491.xml,11,6,6,augustus,la,0,augustus,ADJ,,Augustus,"<words>
+10,10,jeru0491.xml,11,6,6,augustus,la,0,augustus,ADJ,,augustus,"<words>
 <word>
 <form xml:lang=""lat"">augustus</form>
 <entry>

@@ -1,3 +1,6 @@
 ,Text,Word Number,Line Start,Line End,Normalized,Language,Number,POS Tagger Word,Part of Speech,Part of Speech (Secondary Info),POS Tagger Lemma
-0,caes0019.xml,1,6,6,que,la,0,que,CC,,que
-1,caes0019.xml,2,6,6,eius,la,0,eius,DET,,is
+0,caes0019.xml,1,6,6,devotus,la,0,devotus,V,PTC,devoveo
+1,caes0019.xml,2,6,6,numini,la,0,numini,N,dat,numen
+2,caes0019.xml,3,6,6,maiestati,la,0,maiestati,N,dat,maiestas
+3,caes0019.xml,4,6,6,que,la,0,que,CC,,que
+4,caes0019.xml,5,6,6,eius,la,0,eius,DET,,is

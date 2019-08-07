@@ -1,4 +1,9 @@
 ,Text,Word Number,Line Start,Line End,Normalized,Language,Number,POS Tagger Word,Part of Speech,Part of Speech (Secondary Info),POS Tagger Lemma
-0,elus0066.xml,1,1,1,ὶ,grc,0,,,,
-1,elus0066.xml,2,1,1,τὸ,grc,0,,,,
-2,elus0066.xml,3,1,1,πλήρ,grc,0,,,,
+0,elus0066.xml,1,1,1,τοῦ,grc,0,,,,
+1,elus0066.xml,2,1,1,κυρίου,grc,0,,,,
+2,elus0066.xml,3,1,1,ἡ,grc,0,,,,
+3,elus0066.xml,4,1,1,γῆ,grc,0,,,,
+4,elus0066.xml,5,1,1,καὶ,grc,0,,,,
+5,elus0066.xml,6,1,1,τὸ,grc,0,,,,
+6,elus0066.xml,7,1,1,πλήρωμα,grc,0,,,,
+7,elus0066.xml,8,1,1,αὐτῆς,grc,0,,,,

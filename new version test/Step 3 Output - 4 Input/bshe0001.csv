@@ -1,11 +1,11 @@
 ,Unnamed: 0,Text,Word Number,Line Start,Line End,Normalized,Language,Number,POS Tagger Word,Part of Speech,Part of Speech (Secondary Info),POS Tagger Lemma,Lemmatizer Lemma
 0,0,bshe0001.xml,1,1,1,+,grc,0,,,,,
-1,1,bshe0001.xml,2,1,1,θεóδωρος,grc,0,,,,,
+1,1,bshe0001.xml,2,1,1,θεόδωρος,grc,0,,,,,
 2,2,bshe0001.xml,3,1,1,ὁ,grc,0,,,,,
 3,3,bshe0001.xml,4,1,1,ποιμὴν,grc,0,,,,,
 4,4,bshe0001.xml,5,2,2,λουτρὰ,grc,0,,,,,
 5,5,bshe0001.xml,6,2,2,καινουργῶν,grc,0,,,,,
-6,6,bshe0001.xml,7,2,2,νέμε,grc,0,,,,,
+6,6,bshe0001.xml,7,2,2,νέμει,grc,0,,,,,
 7,7,bshe0001.xml,8,3,3,τοῖς,grc,0,,,,,
 8,8,bshe0001.xml,9,3,3,τὴν,grc,0,,,,,
 9,9,bshe0001.xml,10,3,3,ἄκραν,grc,0,,,,,

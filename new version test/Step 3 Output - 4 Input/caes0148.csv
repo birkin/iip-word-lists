@@ -1,6 +1,6 @@
 ,Unnamed: 0,Text,Word Number,Line Start,Line End,Normalized,Language,Number,POS Tagger Word,Part of Speech,Part of Speech (Secondary Info),POS Tagger Lemma,Lemmatizer Lemma
-0,0,caes0148.xml,1,1,2,valetinae,la,0,valetinae,ADJ,,valetinae,"<words>
-<unknown xml:lang=""lat"">valetinae</unknown>
+0,0,caes0148.xml,1,1,2,valentinae,la,0,valentinae,ADJ,,valentinae,"<words>
+<unknown xml:lang=""lat"">valentinae</unknown>
 </words>
 "
 1,1,caes0148.xml,2,2,2,coniugi,la,0,coniugi,V,IND,coniugi,"<words>

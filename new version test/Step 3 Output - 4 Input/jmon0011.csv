@@ -1,11 +1,11 @@
 ,Unnamed: 0,Text,Word Number,Line Start,Line End,Normalized,Language,Number,POS Tagger Word,Part of Speech,Part of Speech (Secondary Info),POS Tagger Lemma,Lemmatizer Lemma
 0,0,jmon0011.xml,1,1,1,דכיר,arc,0,,,,,
 1,1,jmon0011.xml,2,1,1,זירו,arc,0,,,,,
-2,2,jmon0011.xml,3,2,2,כפלא,arc,0,,,,,
+2,2,jmon0011.xml,3,2,2,אכפלא,arc,0,,,,,
 3,3,jmon0011.xml,4,2,2,בר,arc,0,,,,,
 4,4,jmon0011.xml,5,2,2,בריאו,arc,0,,,,,
 5,5,jmon0011.xml,6,2,2,בר,arc,0,,,,,
-6,6,jmon0011.xml,7,3,3,ו,arc,0,,,,,
+6,6,jmon0011.xml,7,3,3,שלמו,arc,0,,,,,
 7,7,jmon0011.xml,8,3,3,בטב,arc,0,,,,,
 8,8,jmon0011.xml,9,3,3,של,arc,0,,,,,
 9,9,jmon0011.xml,10,3,3,ם,arc,0,,,,,

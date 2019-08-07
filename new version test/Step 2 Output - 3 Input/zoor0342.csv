@@ -1,7 +1,7 @@
 ,Text,Word Number,Line Start,Line End,Normalized,Language,Number,POS Tagger Word,Part of Speech,Part of Speech (Secondary Info),POS Tagger Lemma
 0,zoor0342.xml,1,2,2,ἐτῶν,grc,0,,,,
 1,zoor0342.xml,2,2,2,ει,grc,0,,,,
-2,zoor0342.xml,3,3,3,μ,grc,0,,,,
+2,zoor0342.xml,3,3,3,μηνὸς,grc,0,,,,
 3,zoor0342.xml,4,3,3,δαισίου,grc,0,,,,
 4,zoor0342.xml,5,3,3,ιγ,grc,0,,,,
 5,zoor0342.xml,6,4,4,ἐν,grc,0,,,,

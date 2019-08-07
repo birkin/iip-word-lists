@@ -1,9 +1,7 @@
 Text,Word Number,Line Start,Line End,Normalized,Language,Number
-caes0265.xml,1,1,1,η,grc,0
+caes0265.xml,1,1,1,θήκη,grc,0
 caes0265.xml,2,1,1,λ,grc,0
 caes0265.xml,3,2,2,καὶ,grc,0
-caes0265.xml,4,2,2,μα­,grc,0
-caes0265.xml,5,3,3,νας,grc,0
-caes0265.xml,6,3,3,ἀ,grc,0
-caes0265.xml,7,3,3,­,grc,0
-caes0265.xml,8,4,4,φῶν,grc,0
+caes0265.xml,4,2,3,μαρίνας,grc,0
+caes0265.xml,5,3,3,ἀ,grc,0
+caes0265.xml,6,3,4,δελφῶν,grc,0

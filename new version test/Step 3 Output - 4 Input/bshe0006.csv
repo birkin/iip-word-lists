@@ -238,15 +238,15 @@
 </word>
 </words>
 "
-5,5,bshe0006.xml,6,2,2,esari,la,0,esari,N,dat,esari,"<words>
-<unknown xml:lang=""lat"">esari</unknown>
+5,5,bshe0006.xml,6,2,2,caesari,la,0,caesari,N,dat,caesar,"<words>
+<unknown xml:lang=""lat"">caesari</unknown>
 </words>
 "
 6,6,bshe0006.xml,7,2,2,galerio,la,0,galerio,ADJ,,galerio,"<words>
 <unknown xml:lang=""lat"">galerio</unknown>
 </words>
 "
-7,7,bshe0006.xml,8,2,2,valerio,la,0,valerio,ADJ,abl,Valerius,"<words>
+7,7,bshe0006.xml,8,2,2,valerio,la,0,valerio,ADJ,abl,valerius,"<words>
 <unknown xml:lang=""lat"">valerio</unknown>
 </words>
 "
@@ -455,7 +455,7 @@
 </word>
 </words>
 "
-13,13,bshe0006.xml,14,4,4,augusto,la,0,augusto,N,abl,Augustus,"<words>
+13,13,bshe0006.xml,14,4,4,augusto,la,0,augusto,N,abl,augustus,"<words>
 <word>
 <form xml:lang=""lat"">augusto</form>
 <entry>
@@ -521,12 +521,12 @@
 </word>
 </words>
 "
-14,14,bshe0006.xml,15,4,4,valerius,la,0,valerius,ADJ,,Valerius,"<words>
+14,14,bshe0006.xml,15,4,4,valerius,la,0,valerius,ADJ,,valerius,"<words>
 <unknown xml:lang=""lat"">valerius</unknown>
 </words>
 "
-15,15,bshe0006.xml,16,4,5,fermiianus,la,0,fermiianus,ADJ,,fermiianus,"<words>
-<unknown xml:lang=""lat"">fermiianus</unknown>
+15,15,bshe0006.xml,16,4,5,fermilianus,la,0,fermilianus,ADJ,,fermilianus,"<words>
+<unknown xml:lang=""lat"">fermilianus</unknown>
 </words>
 "
 16,16,bshe0006.xml,17,5,5,praeses,la,0,praeses,N,nom,praeses,"<words>
@@ -583,7 +583,7 @@
 </word>
 </words>
 "
-18,18,bshe0006.xml,19,6,6,suriae,la,0,suriae,N,gen,Suria,"<words>
+18,18,bshe0006.xml,19,6,6,suriae,la,0,suriae,N,gen,suria,"<words>
 <unknown xml:lang=""lat"">suriae</unknown>
 </words>
 "
@@ -799,8 +799,8 @@
 <unknown xml:lang=""lat"">καὶ</unknown>
 </words>
 "
-32,32,bshe0006.xml,33,10,10,εὐγιον,la,0,??????,ADJ,,??????,"<words>
-<unknown xml:lang=""lat"">εὐγιον</unknown>
+32,32,bshe0006.xml,33,10,10,εὐγένιον,la,0,????????,ADJ,,????????,"<words>
+<unknown xml:lang=""lat"">εὐγένιον</unknown>
 </words>
 "
 33,33,bshe0006.xml,34,11,11,στρατηγοὺς,la,0,??????????,ADJ,,??????????,"<words>

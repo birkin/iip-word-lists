@@ -1,3 +1,4 @@
 ,Text,Word Number,Line Start,Line End,Normalized,Language,Number,POS Tagger Word,Part of Speech,Part of Speech (Secondary Info),POS Tagger Lemma
 0,mger0186.xml,1,1,1,א,arc,0,,,,
-1,mger0186.xml,2,2,2,טב,arc,0,,,,
+1,mger0186.xml,2,2,2,לדכרנ,arc,0,,,,
+2,mger0186.xml,3,2,2,טב,arc,0,,,,

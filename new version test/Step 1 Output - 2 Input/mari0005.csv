@@ -1,11 +1,13 @@
 Text,Word Number,Line Start,Line End,Normalized,Language,Number
-mari0005.xml,1,2,2,ὑπὲρ,grc,0
-mari0005.xml,2,2,2,σω,grc,0
-mari0005.xml,3,3,3,τηρίας,grc,0
-mari0005.xml,4,4,4,κομόδου,grc,0
-mari0005.xml,5,5,5,τοῦ,grc,0
-mari0005.xml,6,5,5,κυρίου,grc,0
-mari0005.xml,7,6,6,θεῷ,grc,0
-mari0005.xml,8,6,6,ἡλι,grc,0
-mari0005.xml,9,7,7,οπολεῃ,grc,0
-mari0005.xml,10,8,8,ἑλκ,grc,0
+mari0005.xml,1,1,1,ἀγαθῇ,grc,0
+mari0005.xml,2,1,1,τύχῃ,grc,0
+mari0005.xml,3,2,2,ὑπὲρ,grc,0
+mari0005.xml,4,2,2,σω,grc,0
+mari0005.xml,5,3,3,τηρίας,grc,0
+mari0005.xml,6,4,4,κομόδου,grc,0
+mari0005.xml,7,5,5,τοῦ,grc,0
+mari0005.xml,8,5,5,κυρίου,grc,0
+mari0005.xml,9,6,6,θεῷ,grc,0
+mari0005.xml,10,6,6,ἡλι,grc,0
+mari0005.xml,11,7,7,οπολείτῃ,grc,0
+mari0005.xml,12,8,8,ἑλκίας,grc,0

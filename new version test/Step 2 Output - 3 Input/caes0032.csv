@@ -1,12 +1,12 @@
 ,Text,Word Number,Line Start,Line End,Normalized,Language,Number,POS Tagger Word,Part of Speech,Part of Speech (Secondary Info),POS Tagger Lemma
-0,caes0032.xml,1,1,1,prnciae,la,0,prnciae,ADJ,,prnciae
-1,caes0032.xml,2,1,1,sy,la,0,sy,N,nom,sy
+0,caes0032.xml,1,1,1,provinciae,la,0,provinciae,N,nom,provincia
+1,caes0032.xml,2,1,1,sy,la,0,sy,ADJ,,sy
 2,caes0032.xml,3,1,1,riae,la,0,riae,V,IND,riae
 3,caes0032.xml,4,2,2,palaestinae,la,0,palaestinae,ADJ,,palaestinae
-4,caes0032.xml,5,2,2,iulia,la,0,iulia,ADJ,,iulia
-5,caes0032.xml,6,3,3,iulii,la,0,iulii,N,gen,Iulius
-6,caes0032.xml,7,3,3,agrippae,la,0,agrippae,N,nom,Agrippa
-7,caes0032.xml,8,4,4,rimi,la,0,rimi,ADJ,,rimi
+4,caes0032.xml,5,2,2,iulia,la,0,iulia,N,acc,iulia
+5,caes0032.xml,6,3,3,iulii,la,0,iulii,N,gen,iulius
+6,caes0032.xml,7,3,3,agrippae,la,0,agrippae,N,gen,agrippa
+7,caes0032.xml,8,4,4,primi,la,0,primi,ADJ,NUM,unus
 8,caes0032.xml,9,4,4,pili,la,0,pili,N,gen,pilum|pilus
 9,caes0032.xml,10,4,4,filia,la,0,filia,N,nom,filia
 10,caes0032.xml,11,4,4,procula,la,0,procula,ADJ,,procula

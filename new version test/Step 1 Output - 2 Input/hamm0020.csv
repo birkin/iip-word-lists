@@ -1,10 +1,12 @@
 Text,Word Number,Line Start,Line End,Normalized,Language,Number
 hamm0020.xml,1,1,1,ἐν,grc,0
 hamm0020.xml,2,1,1,τῷ,grc,0
-hamm0020.xml,3,1,1,ἁγ,grc,0
+hamm0020.xml,3,1,1,ἁγίῳ,grc,0
 hamm0020.xml,4,2,2,τόπῳ,grc,0
-hamm0020.xml,5,2,2,μνή,grc,0
+hamm0020.xml,5,2,2,μνήσθωσιν,grc,0
 hamm0020.xml,6,3,3,εὐθυμία,grc,0
 hamm0020.xml,7,3,3,καὶ,grc,0
-hamm0020.xml,8,4,4,ἐπιθάνιος,grc,0
-hamm0020.xml,9,4,4,ἔγραψ,grc,0
+hamm0020.xml,8,3,3,-,grc,0
+hamm0020.xml,9,3,3,-,grc,0
+hamm0020.xml,10,4,4,ἐπιθάνιος,grc,0
+hamm0020.xml,11,4,4,ἔγραψε,grc,0

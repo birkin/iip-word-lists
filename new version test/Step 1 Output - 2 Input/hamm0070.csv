@@ -1,5 +1,8 @@
 Text,Word Number,Line Start,Line End,Normalized,Language,Number
-hamm0070.xml,1,1,1,σηνβίῳ,grc,0
-hamm0070.xml,2,2,2,ὶ,grc,0
-hamm0070.xml,3,2,2,ἀνίναν,grc,0
-hamm0070.xml,4,3,3,χαριστίας,grc,0
+hamm0070.xml,1,1,1,ἅμα,grc,0
+hamm0070.xml,2,1,1,τῇ,grc,0
+hamm0070.xml,3,1,1,σηνβίῳ,grc,0
+hamm0070.xml,4,2,2,καὶ,grc,0
+hamm0070.xml,5,2,2,ἀνίναν,grc,0
+hamm0070.xml,6,3,3,ὑπὲρ,grc,0
+hamm0070.xml,7,3,3,εὐχαριστίας,grc,0

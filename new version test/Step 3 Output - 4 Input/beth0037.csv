@@ -1,4 +1,5 @@
 ,Unnamed: 0,Text,Word Number,Line Start,Line End,Normalized,Language,Number,POS Tagger Word,Part of Speech,Part of Speech (Secondary Info),POS Tagger Lemma,Lemmatizer Lemma
-0,0,beth0037.xml,1,1,1,μεἱὸ,grc,0,,,,,
-1,1,beth0037.xml,2,2,2,ὧδε,grc,0,,,,,
-2,2,beth0037.xml,3,3,3,κ,grc,0,,,,,
+0,0,beth0037.xml,1,1,1,μεναὴ,grc,0,,,,,
+1,1,beth0037.xml,2,1,1,υἱὸς,grc,0,,,,,
+2,2,beth0037.xml,3,2,2,ὧδε,grc,0,,,,,
+3,3,beth0037.xml,4,3,3,κῖτε,grc,0,,,,,

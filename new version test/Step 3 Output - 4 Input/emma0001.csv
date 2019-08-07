@@ -1,17 +1,40 @@
 ,Unnamed: 0,Text,Word Number,Line Start,Line End,Normalized,Language,Number,POS Tagger Word,Part of Speech,Part of Speech (Secondary Info),POS Tagger Lemma,Lemmatizer Lemma
-0,0,emma0001.xml,1,1,1,publius,la,0,publius,N,nom,Publius,"<words>
+0,0,emma0001.xml,1,1,1,publius,la,0,publius,N,nom,publius,"<words>
 <unknown xml:lang=""lat"">publius</unknown>
 </words>
 "
-1,1,emma0001.xml,2,1,1,oppi,la,0,oppi,N,gen,oppi,"<words>
-<unknown xml:lang=""lat"">oppi</unknown>
+1,1,emma0001.xml,2,1,1,oppius,la,0,oppius,ADJ,,oppius,"<words>
+<unknown xml:lang=""lat"">oppius</unknown>
 </words>
 "
-2,2,emma0001.xml,3,2,2,camilia,la,0,camilia,N,acc,camilia,"<words>
+2,2,emma0001.xml,3,1,1,filius,la,0,filius,N,nom,filius,"<words>
+<word>
+<form xml:lang=""lat"">filius</form>
+<entry>
+<dict>
+<hdwd xml:lang=""lat"">filius</hdwd>
+<pofs order=""3"">noun</pofs>
+<decl>2nd</decl>
+<gend>masculine</gend>
+</dict>
+<infl>
+<term xml:lang=""lat""><stem>fi_l</stem><suff>ius</suff></term>
+<pofs order=""3"">noun</pofs>
+<decl>2nd</decl>
+<case order=""7"">nominative</case>
+<gend>masculine</gend>
+<num>singular</num>
+<stemtype>ius_i</stemtype>
+</infl>
+</entry>
+</word>
+</words>
+"
+3,3,emma0001.xml,4,2,2,camilia,la,0,camilia,N,acc,camilia,"<words>
 <unknown xml:lang=""lat"">camilia</unknown>
 </words>
 "
-3,3,emma0001.xml,4,3,3,cio,la,0,cio,V,IND,cio,"<words>
+4,4,emma0001.xml,5,3,3,cio,la,0,cio,V,IND,cio,"<words>
 <word>
 <form xml:lang=""lat"">cio</form>
 <entry>
@@ -43,11 +66,11 @@
 </word>
 </words>
 "
-4,4,emma0001.xml,5,3,3,ravenna,la,0,ravenna,N,nom,Ravenna,"<words>
+5,5,emma0001.xml,6,3,3,ravenna,la,0,ravenna,N,nom,ravenna,"<words>
 <unknown xml:lang=""lat"">ravenna</unknown>
 </words>
 "
-5,5,emma0001.xml,6,4,4,miles,la,0,miles,N,nom,miles,"<words>
+6,6,emma0001.xml,7,4,4,miles,la,0,miles,N,nom,miles,"<words>
 <word>
 <form xml:lang=""lat"">miles</form>
 <entry>
@@ -103,7 +126,7 @@
 </word>
 </words>
 "
-6,6,emma0001.xml,7,4,4,legionis,la,0,legionis,N,gen,legio,"<words>
+7,7,emma0001.xml,8,4,4,legionis,la,0,legionis,N,gen,legio,"<words>
 <word>
 <form xml:lang=""lat"">legionis</form>
 <entry>
@@ -126,15 +149,15 @@
 </word>
 </words>
 "
-7,7,emma0001.xml,8,4,4,v,la,0,v,ADJ,NUM,v,"<words>
+8,8,emma0001.xml,9,4,4,v,la,0,v,ADJ,NUM,v,"<words>
 <unknown xml:lang=""lat"">v</unknown>
 </words>
 "
-8,8,emma0001.xml,9,5,5,macedonicae,la,0,macedonicae,ADJ,,Macedonicus,"<words>
+9,9,emma0001.xml,10,5,5,macedonicae,la,0,macedonicae,ADJ,,macedonicus,"<words>
 <unknown xml:lang=""lat"">macedonicae</unknown>
 </words>
 "
-9,9,emma0001.xml,10,5,5,optio,la,0,optio,N,nom,optio,"<words>
+10,10,emma0001.xml,11,5,5,optio,la,0,optio,N,nom,optio,"<words>
 <word>
 <form xml:lang=""lat"">optio</form>
 <entry>
@@ -192,7 +215,7 @@
 </word>
 </words>
 "
-10,10,emma0001.xml,11,6,6,vixit,la,0,vixit,V,IND,vivo,"<words>
+11,11,emma0001.xml,12,6,6,vixit,la,0,vixit,V,IND,vivo,"<words>
 <word>
 <form xml:lang=""lat"">vixit</form>
 <entry>
@@ -214,7 +237,7 @@
 </word>
 </words>
 "
-11,11,emma0001.xml,12,6,6,annos,la,0,annos,N,acc,annus,"<words>
+12,12,emma0001.xml,13,6,6,annos,la,0,annos,N,acc,annus,"<words>
 <word>
 <form xml:lang=""lat"">annos</form>
 <entry>
@@ -237,11 +260,11 @@
 </word>
 </words>
 "
-12,12,emma0001.xml,13,7,7,xxx,la,0,xxx,ADJ,NUM,XXX,"<words>
+13,13,emma0001.xml,14,7,7,xxx,la,0,xxx,ADJ,NUM,xxx,"<words>
 <unknown xml:lang=""lat"">xxx</unknown>
 </words>
 "
-13,13,emma0001.xml,14,7,7,militavit,la,0,militavit,V,IND,milito,"<words>
+14,14,emma0001.xml,15,7,7,militavit,la,0,militavit,V,IND,milito,"<words>
 <word>
 <form xml:lang=""lat"">militavit</form>
 <entry>
@@ -264,7 +287,7 @@
 </word>
 </words>
 "
-14,14,emma0001.xml,15,8,8,annos,la,0,annos,N,acc,annus,"<words>
+15,15,emma0001.xml,16,8,8,annos,la,0,annos,N,acc,annus,"<words>
 <word>
 <form xml:lang=""lat"">annos</form>
 <entry>
@@ -287,11 +310,11 @@
 </word>
 </words>
 "
-15,15,emma0001.xml,16,8,8,viiii,la,0,viiii,N,gen,viiii,"<words>
+16,16,emma0001.xml,17,8,8,viiii,la,0,viiii,N,gen,viiii,"<words>
 <unknown xml:lang=""lat"">viiii</unknown>
 </words>
 "
-16,16,emma0001.xml,17,9,9,hic,la,0,hic,DIMOS,,hic,"<words>
+17,17,emma0001.xml,18,9,9,hic,la,0,hic,DIMOS,,hic,"<words>
 <word>
 <form xml:lang=""lat"">hic</form>
 <entry>
@@ -312,7 +335,7 @@
 </word>
 </words>
 "
-17,17,emma0001.xml,18,9,9,situs,la,0,situs,V,PTC,sino,"<words>
+18,18,emma0001.xml,19,9,9,situs,la,0,situs,V,PTC,sino,"<words>
 <word>
 <form xml:lang=""lat"">situs</form>
 <entry>
@@ -335,7 +358,7 @@
 </word>
 </words>
 "
-18,18,emma0001.xml,19,9,9,est,la,0,est,ESSE,IND,sum,"<words>
+19,19,emma0001.xml,20,9,9,est,la,0,est,ESSE,IND,sum,"<words>
 <word>
 <form xml:lang=""lat"">est</form>
 <entry>
@@ -373,7 +396,7 @@
 </word>
 </words>
 "
-19,19,emma0001.xml,20,10,10,heres,la,0,heres,N,nom,heres,"<words>
+20,20,emma0001.xml,21,10,10,heres,la,0,heres,N,nom,heres,"<words>
 <word>
 <form xml:lang=""lat"">heres</form>
 <entry>
@@ -405,7 +428,7 @@
 </word>
 </words>
 "
-20,20,emma0001.xml,21,10,10,fecit,la,0,fecit,V,IND,facio,"<words>
+21,21,emma0001.xml,22,10,10,fecit,la,0,fecit,V,IND,facio,"<words>
 <word>
 <form xml:lang=""lat"">fecit</form>
 <entry>

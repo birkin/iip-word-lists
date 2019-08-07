@@ -49,7 +49,7 @@
 </word>
 </words>
 "
-1,1,caes0054.xml,2,1,1,caesar,la,0,caesar,N,nom,Caesar,"<words>
+1,1,caes0054.xml,2,1,1,caesar,la,0,caesar,N,nom,caesar,"<words>
 <unknown xml:lang=""lat"">caesar</unknown>
 </words>
 "
@@ -65,7 +65,7 @@
 <unknown xml:lang=""lat"">ianus</unknown>
 </words>
 "
-5,5,caes0054.xml,6,2,2,augustus,la,0,augustus,ADJ,,Augustus,"<words>
+5,5,caes0054.xml,6,2,2,augustus,la,0,augustus,ADJ,,augustus,"<words>
 <word>
 <form xml:lang=""lat"">augustus</form>
 <entry>

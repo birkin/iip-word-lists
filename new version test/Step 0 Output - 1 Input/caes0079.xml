@@ -49,7 +49,7 @@
                            <p/>
                         </condition>
                      </supportDesc>
-                     <!-- ********* <layoutDesc> ********* -->
+                     <!-- ********* <layoutDesc> *********   -->
                      <layoutDesc>
                         <layout columns="0" writtenLines="0">
                            <p/>
@@ -133,7 +133,7 @@
                   </abbr>
                   <expan>ἀρχισυνάγωγος</expan>
                </choice>
-               <lb/>καὶ φροντιστὴς<lb/>ὑὸς Ἰούτου ἐποί­<lb/>ησε τὴν ψηφο­<lb/>θεσίαν τοῦ τρι­<lb/>κλίνου τῷ ἰδίῳ. 
+               <lb/>καὶ φροντιστὴς<lb/>ὑὸς Ἰούτου ἐποί<lb break="no"/>ησε τὴν ψηφο<lb break="no"/>θεσίαν τοῦ τρι<lb break="no"/>κλίνου τῷ ἰδίῳ. 
 		  </p>
          </div>
          <div type="translation"
@@ -222,4 +222,4 @@
          </div>
       </back>
    </text>
-</TEI>
+</TEI>   

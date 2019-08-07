@@ -56,8 +56,8 @@
 </word>
 </words>
 "
-1,1,caes0006.xml,2,1,1,sari,la,0,sari,V,IMP,sario,"<words>
-<unknown xml:lang=""lat"">sari</unknown>
+1,1,caes0006.xml,2,1,1,caesari,la,0,caesari,N,dat,caesar,"<words>
+<unknown xml:lang=""lat"">caesari</unknown>
 </words>
 "
 2,2,caes0006.xml,3,1,1,caio,la,0,caio,V,IND,caio,"<words>
@@ -83,15 +83,149 @@
 </word>
 </words>
 "
-3,3,caes0006.xml,4,1,1,valerio,la,0,valerio,ADJ,abl,Valerius,"<words>
+3,3,caes0006.xml,4,1,1,valerio,la,0,valerio,ADJ,abl,valerius,"<words>
 <unknown xml:lang=""lat"">valerio</unknown>
 </words>
 "
-4,4,caes0006.xml,5,2,2,dcletiano,la,0,dcletiano,N,abl,dcletiano,"<words>
-<unknown xml:lang=""lat"">dcletiano</unknown>
+4,4,caes0006.xml,5,2,2,diocletiano,la,0,diocletiano,N,abl,diocletianus,"<words>
+<unknown xml:lang=""lat"">diocletiano</unknown>
 </words>
 "
-5,5,caes0006.xml,6,3,3,invicto,la,0,invicto,ADJ,abl,invictus,"<words>
+5,5,caes0006.xml,6,3,3,pio,la,0,pio,ADJ,abl,pius,"<words>
+<word>
+<form xml:lang=""lat"">pio</form>
+<entry>
+<dict>
+<hdwd xml:lang=""lat"">pio</hdwd>
+<pofs order=""1"">verb</pofs>
+</dict>
+<infl>
+<term xml:lang=""lat""><stem>pi</stem><suff>o_</suff></term>
+<pofs order=""1"">verb</pofs>
+<mood>indicative</mood>
+<num>singular</num>
+<pers>1st</pers>
+<tense>present</tense>
+<voice>active</voice>
+<stemtype>conj1</stemtype>
+<derivtype>are_vb</derivtype>
+</infl>
+</entry>
+<entry>
+<dict>
+<hdwd xml:lang=""lat"">pius</hdwd>
+<pofs order=""2"">adjective</pofs>
+<decl>1st &amp; 2nd</decl>
+</dict>
+<infl>
+<term xml:lang=""lat""><stem>pi</stem><suff>o_</suff></term>
+<pofs order=""2"">adjective</pofs>
+<decl>1st &amp; 2nd</decl>
+<case order=""3"">ablative</case>
+<gend>neuter</gend>
+<num>singular</num>
+<stemtype>us_a_um</stemtype>
+</infl>
+<infl>
+<term xml:lang=""lat""><stem>pi</stem><suff>o_</suff></term>
+<pofs order=""2"">adjective</pofs>
+<decl>1st &amp; 2nd</decl>
+<case order=""3"">ablative</case>
+<gend>masculine</gend>
+<num>singular</num>
+<stemtype>us_a_um</stemtype>
+</infl>
+<infl>
+<term xml:lang=""lat""><stem>pi</stem><suff>o_</suff></term>
+<pofs order=""2"">adjective</pofs>
+<decl>1st &amp; 2nd</decl>
+<case order=""5"">dative</case>
+<gend>neuter</gend>
+<num>singular</num>
+<stemtype>us_a_um</stemtype>
+</infl>
+<infl>
+<term xml:lang=""lat""><stem>pi</stem><suff>o_</suff></term>
+<pofs order=""2"">adjective</pofs>
+<decl>1st &amp; 2nd</decl>
+<case order=""5"">dative</case>
+<gend>masculine</gend>
+<num>singular</num>
+<stemtype>us_a_um</stemtype>
+</infl>
+</entry>
+</word>
+</words>
+"
+6,6,caes0006.xml,7,3,3,felici,la,0,felici,ADJ,abl,felix,"<words>
+<word>
+<form xml:lang=""lat"">felici</form>
+<entry>
+<dict>
+<hdwd xml:lang=""lat"">felix#1</hdwd>
+<pofs order=""2"">adjective</pofs>
+<decl>3rd</decl>
+</dict>
+<infl>
+<term xml:lang=""lat""><stem>fe_lici</stem></term>
+<pofs order=""2"">adjective</pofs>
+<decl>3rd</decl>
+<case order=""3"">ablative</case>
+<gend>masculine</gend>
+<num>singular</num>
+<stemtype>ix_adj</stemtype>
+<morph>indeclform</morph>
+</infl>
+<infl>
+<term xml:lang=""lat""><stem>fe_lici</stem></term>
+<pofs order=""2"">adjective</pofs>
+<decl>3rd</decl>
+<case order=""3"">ablative</case>
+<gend>feminine</gend>
+<num>singular</num>
+<stemtype>ix_adj</stemtype>
+<morph>indeclform</morph>
+</infl>
+<infl>
+<term xml:lang=""lat""><stem>fe_lici</stem></term>
+<pofs order=""2"">adjective</pofs>
+<decl>3rd</decl>
+<case order=""3"">ablative</case>
+<gend>neuter</gend>
+<num>singular</num>
+<stemtype>ix_adj</stemtype>
+<morph>indeclform</morph>
+</infl>
+<infl>
+<term xml:lang=""lat""><stem>fe_l</stem><suff>i_ci_</suff></term>
+<pofs order=""2"">adjective</pofs>
+<decl>3rd</decl>
+<case order=""5"">dative</case>
+<num>singular</num>
+<stemtype>ix_adj</stemtype>
+</infl>
+</entry>
+<entry>
+<dict>
+<hdwd xml:lang=""lat"">filix</hdwd>
+<pofs order=""3"">noun</pofs>
+<decl>3rd</decl>
+<gend>feminine</gend>
+</dict>
+<infl>
+<term xml:lang=""lat""><stem>fel</stem><suff>ici_</suff></term>
+<pofs order=""3"">noun</pofs>
+<decl>3rd</decl>
+<case order=""5"">dative</case>
+<gend>feminine</gend>
+<num>singular</num>
+<stemtype>ix_icis</stemtype>
+</infl>
+</entry>
+</word>
+</words>
+"
+7,7,caes0006.xml,8,3,3,invicto,la,0,invicto,ADJ,abl,invictus,"<words>
 <word>
 <form xml:lang=""lat"">invicto</form>
 <entry>
@@ -140,7 +274,7 @@
 </word>
 </words>
 "
-6,6,caes0006.xml,7,3,3,augusto,la,0,augusto,N,abl,Augustus,"<words>
+8,8,caes0006.xml,9,3,3,augusto,la,0,augusto,N,abl,augustus,"<words>
 <word>
 <form xml:lang=""lat"">augusto</form>
 <entry>
@@ -206,7 +340,7 @@
 </word>
 </words>
 "
-7,7,caes0006.xml,8,4,4,clemens,la,0,clemens,ADJ,,clemens,"<words>
+9,9,caes0006.xml,10,4,4,clemens,la,0,clemens,ADJ,,clemens,"<words>
 <word>
 <form xml:lang=""lat"">clemens</form>
 <entry>
@@ -282,7 +416,7 @@
 </word>
 </words>
 "
-8,8,caes0006.xml,9,4,4,vir,la,0,vir,N,nom,vir,"<words>
+10,10,caes0006.xml,11,4,4,vir,la,0,vir,N,nom,vir,"<words>
 <word>
 <form xml:lang=""lat"">vir</form>
 <entry>
@@ -314,7 +448,7 @@
 </word>
 </words>
 "
-9,9,caes0006.xml,10,4,4,perfectissimus,la,0,perfectissimus,ADJ,SUP,perfectus,"<words>
+11,11,caes0006.xml,12,4,4,perfectissimus,la,0,perfectissimus,ADJ,SUP,perfectus,"<words>
 <word>
 <form xml:lang=""lat"">perfectissimus</form>
 <entry>
@@ -345,7 +479,7 @@
 </word>
 </words>
 "
-10,10,caes0006.xml,11,5,5,procurator,la,0,procurator,N,nom,procurator,"<words>
+12,12,caes0006.xml,13,5,5,procurator,la,0,procurator,N,nom,procurator,"<words>
 <word>
 <form xml:lang=""lat"">procurator</form>
 <entry>
@@ -377,7 +511,7 @@
 </word>
 </words>
 "
-11,11,caes0006.xml,12,5,5,devotus,la,0,devotus,V,PTC,devoveo,"<words>
+13,13,caes0006.xml,14,5,5,devotus,la,0,devotus,V,PTC,devoveo,"<words>
 <word>
 <form xml:lang=""lat"">devotus</form>
 <entry>
@@ -400,7 +534,7 @@
 </word>
 </words>
 "
-12,12,caes0006.xml,13,5,5,numini,la,0,numini,N,dat,numen,"<words>
+14,14,caes0006.xml,15,5,5,numini,la,0,numini,N,dat,numen,"<words>
 <word>
 <form xml:lang=""lat"">numini</form>
 <entry>
@@ -423,7 +557,7 @@
 </word>
 </words>
 "
-13,13,caes0006.xml,14,5,5,maiestati,la,0,maiestati,N,dat,maiestas,"<words>
+15,15,caes0006.xml,16,5,5,maiestati,la,0,maiestati,N,dat,maiestas,"<words>
 <word>
 <form xml:lang=""lat"">maiestati</form>
 <entry>
@@ -446,11 +580,11 @@
 </word>
 </words>
 "
-14,14,caes0006.xml,15,5,5,que,la,0,que,CC,,que,"<words>
+16,16,caes0006.xml,17,5,5,que,la,0,que,CC,,que,"<words>
 <unknown xml:lang=""lat"">que</unknown>
 </words>
 "
-15,15,caes0006.xml,16,5,5,eius,la,0,eius,DET,,is,"<words>
+17,17,caes0006.xml,18,5,5,eius,la,0,eius,DET,,is,"<words>
 <word>
 <form xml:lang=""lat"">eius</form>
 <entry>

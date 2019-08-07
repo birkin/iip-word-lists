@@ -1,7 +1,7 @@
 ,Text,Word Number,Line Start,Line End,Normalized,Language,Number,POS Tagger Word,Part of Speech,Part of Speech (Secondary Info),POS Tagger Lemma
 0,khzi0001.xml,1,1,1,κυνωρὸς,arc,0,,,,
 1,khzi0001.xml,2,1,1,διο,arc,0,,,,
-2,khzi0001.xml,3,2,2,δόου,arc,0,,,,
+2,khzi0001.xml,3,2,2,δότου,arc,0,,,,
 3,khzi0001.xml,4,2,2,πρω,arc,0,,,,
 4,khzi0001.xml,5,3,3,τοπολείτη,arc,0,,,,
 5,khzi0001.xml,6,4,4,ς,arc,0,,,,
@@ -9,4 +9,5 @@
 7,khzi0001.xml,8,5,5,בר,arc,0,,,,
 8,khzi0001.xml,9,5,5,דוטוס,arc,0,,,,
 9,khzi0001.xml,10,5,5,רש,arc,0,,,,
-10,khzi0001.xml,11,5,5,רים,arc,0,,,,
+10,khzi0001.xml,11,5,5,מ,arc,0,,,,
+11,khzi0001.xml,12,5,5,רים,arc,0,,,,

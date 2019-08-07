@@ -1,5 +1,5 @@
 ,Unnamed: 0,Text,Word Number,Line Start,Line End,Normalized,Language,Number,POS Tagger Word,Part of Speech,Part of Speech (Secondary Info),POS Tagger Lemma,Lemmatizer Lemma
-0,0,caes0003.xml,1,1,1,marcum,la,0,marcum,N,acc,Marcus|marca,"<words>
+0,0,caes0003.xml,1,1,1,marcum,la,0,marcum,N,acc,marcus|marca,"<words>
 <word>
 <form xml:lang=""lat"">marcum</form>
 <entry>
@@ -36,7 +36,7 @@
 <unknown xml:lang=""lat"">flavium</unknown>
 </words>
 "
-2,2,caes0003.xml,3,1,1,agrippam,la,0,agrippam,N,acc,Agrippa,"<words>
+2,2,caes0003.xml,3,1,1,agrippam,la,0,agrippam,N,acc,agrippa,"<words>
 <unknown xml:lang=""lat"">agrippam</unknown>
 </words>
 "
@@ -147,7 +147,7 @@
 <unknown xml:lang=""lat"">flaviae</unknown>
 </words>
 "
-9,9,caes0003.xml,10,3,3,augustae,la,0,augustae,N,gen,Augusta,"<words>
+9,9,caes0003.xml,10,3,3,augustae,la,0,augustae,N,gen,augusta,"<words>
 <word>
 <form xml:lang=""lat"">augustae</form>
 <entry>

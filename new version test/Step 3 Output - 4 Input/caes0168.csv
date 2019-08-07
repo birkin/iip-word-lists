@@ -1,8 +1,5 @@
 ,Unnamed: 0,Text,Word Number,Line Start,Line End,Normalized,Language,Number,POS Tagger Word,Part of Speech,Part of Speech (Secondary Info),POS Tagger Lemma,Lemmatizer Lemma
 0,0,caes0168.xml,1,1,1,θήκη,grc,0,,,,,
-1,1,caes0168.xml,2,1,1,λεο­,grc,0,,,,,
-2,2,caes0168.xml,3,2,2,ντήου,grc,0,,,,,
-3,3,caes0168.xml,4,2,2,σησ­,grc,0,,,,,
-4,4,caes0168.xml,5,3,3,ηνίου,grc,0,,,,,
-5,5,caes0168.xml,6,3,3,κατ­,grc,0,,,,,
-6,6,caes0168.xml,7,4,4,ωλά,grc,0,,,,,
+1,1,caes0168.xml,2,1,2,λεοντήου,grc,0,,,,,
+2,2,caes0168.xml,3,2,3,σησηνίου,grc,0,,,,,
+3,3,caes0168.xml,4,3,4,κατωλά,grc,0,,,,,

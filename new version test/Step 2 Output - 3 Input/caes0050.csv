@@ -1,2 +1,4 @@
 ,Text,Word Number,Line Start,Line End,Normalized,Language,Number,POS Tagger Word,Part of Speech,Part of Speech (Secondary Info),POS Tagger Lemma
-0,caes0050.xml,1,1,1,etensis,la,0,etensis,N,voc,etensis
+0,caes0050.xml,1,1,1,legionis,la,0,legionis,N,gen,legio
+1,caes0050.xml,2,1,1,x,la,0,x,V,IND,x
+2,caes0050.xml,3,1,1,fretensis,la,0,fretensis,ADJ,,fretensis

@@ -1,5 +1,6 @@
 ,Unnamed: 0,Text,Word Number,Line Start,Line End,Normalized,Language,Number,POS Tagger Word,Part of Speech,Part of Speech (Secondary Info),POS Tagger Lemma,Lemmatizer Lemma
-0,0,beth0024.xml,1,1,1,ηνοβία,grc,0,,,,,
+0,0,beth0024.xml,1,1,1,ζηνοβία,grc,0,,,,,
 1,1,beth0024.xml,2,2,2,θυγάτηρ,grc,0,,,,,
-2,2,beth0024.xml,3,3,3,οτίμας,grc,0,,,,,
-3,3,beth0024.xml,4,4,4,θα,grc,0,,,,,
+2,2,beth0024.xml,3,3,3,θεοτίμας,grc,0,,,,,
+3,3,beth0024.xml,4,4,4,ἔνθα,grc,0,,,,,
+4,4,beth0024.xml,5,5,5,κῖτε,grc,0,,,,,

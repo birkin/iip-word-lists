@@ -1,6 +1,52 @@
 ,Unnamed: 0,Text,Word Number,Line Start,Line End,Normalized,Language,Number,POS Tagger Word,Part of Speech,Part of Speech (Secondary Info),POS Tagger Lemma,Lemmatizer Lemma
-0,0,caes0044.xml,1,1,1,co,la,0,co,V,IND,co,"<words>
-<unknown xml:lang=""lat"">co</unknown>
+0,0,caes0044.xml,1,1,1,coloniae,la,0,coloniae,N,nom,colonia,"<words>
+<word>
+<form xml:lang=""lat"">coloniae</form>
+<entry>
+<dict>
+<hdwd xml:lang=""lat"">colonia#1</hdwd>
+<pofs order=""3"">noun</pofs>
+<decl>1st</decl>
+<gend>feminine</gend>
+</dict>
+<infl>
+<term xml:lang=""lat""><stem>colo_ni</stem><suff>ae</suff></term>
+<pofs order=""3"">noun</pofs>
+<decl>1st</decl>
+<case order=""7"">nominative</case>
+<gend>feminine</gend>
+<num>plural</num>
+<stemtype>a_ae</stemtype>
+</infl>
+<infl>
+<term xml:lang=""lat""><stem>colo_ni</stem><suff>ae</suff></term>
+<pofs order=""3"">noun</pofs>
+<decl>1st</decl>
+<case order=""1"">vocative</case>
+<gend>feminine</gend>
+<num>plural</num>
+<stemtype>a_ae</stemtype>
+</infl>
+<infl>
+<term xml:lang=""lat""><stem>colo_ni</stem><suff>ae</suff></term>
+<pofs order=""3"">noun</pofs>
+<decl>1st</decl>
+<case order=""5"">dative</case>
+<gend>feminine</gend>
+<num>singular</num>
+<stemtype>a_ae</stemtype>
+</infl>
+<infl>
+<term xml:lang=""lat""><stem>colo_ni</stem><suff>ae</suff></term>
+<pofs order=""3"">noun</pofs>
+<decl>1st</decl>
+<case order=""6"">genitive</case>
+<gend>feminine</gend>
+<num>singular</num>
+<stemtype>a_ae</stemtype>
+</infl>
+</entry>
+</word>
 </words>
 "
 1,1,caes0044.xml,2,1,1,primae,la,0,primae,ADJ,NUM,unus,"<words>
@@ -56,7 +102,7 @@
 <unknown xml:lang=""lat"">flaviae</unknown>
 </words>
 "
-3,3,caes0044.xml,4,1,1,augustae,la,0,augustae,N,dat,Augusta,"<words>
+3,3,caes0044.xml,4,1,1,augustae,la,0,augustae,N,nom,augusta,"<words>
 <word>
 <form xml:lang=""lat"">augustae</form>
 <entry>
@@ -105,30 +151,65 @@
 </word>
 </words>
 "
-4,4,caes0044.xml,5,2,2,patra,la,0,patra,V,IMP,patro,"<words>
+4,4,caes0044.xml,5,1,1,caesareae,la,0,caesareae,ADJ,,caesareae,"<words>
+<unknown xml:lang=""lat"">caesareae</unknown>
+</words>
+"
+5,5,caes0044.xml,6,1,1,ex,la,0,ex,PREP,,ex,"<words>
 <word>
-<form xml:lang=""lat"">patra</form>
+<form xml:lang=""lat"">ex</form>
 <entry>
 <dict>
-<hdwd xml:lang=""lat"">patro</hdwd>
-<pofs order=""1"">verb</pofs>
+<hdwd xml:lang=""lat"">ex</hdwd>
+<pofs order=""6"">preposition</pofs>
 </dict>
 <infl>
-<term xml:lang=""lat""><stem>pa_tr</stem><suff>a_</suff></term>
-<pofs order=""1"">verb</pofs>
-<mood>imperative</mood>
-<num>singular</num>
-<pers>2nd</pers>
-<tense>present</tense>
-<voice>active</voice>
-<stemtype>conj1</stemtype>
-<derivtype>are_vb</derivtype>
+<term xml:lang=""lat""><stem>ex</stem></term>
+<pofs order=""6"">preposition</pofs>
+<stemtype>prep</stemtype>
+<morph>indeclform</morph>
 </infl>
 </entry>
 </word>
 </words>
 "
-5,5,caes0044.xml,6,2,2,mater,la,0,mater,N,nom,mater,"<words>
+6,6,caes0044.xml,7,1,1,testamento,la,0,testamento,N,abl,testamentum,"<words>
+<word>
+<form xml:lang=""lat"">testamento</form>
+<entry>
+<dict>
+<hdwd xml:lang=""lat"">testamentum</hdwd>
+<pofs order=""3"">noun</pofs>
+<decl>2nd</decl>
+<gend>neuter</gend>
+</dict>
+<infl>
+<term xml:lang=""lat""><stem>testa_ment</stem><suff>o_</suff></term>
+<pofs order=""3"">noun</pofs>
+<decl>2nd</decl>
+<case order=""3"">ablative</case>
+<gend>neuter</gend>
+<num>singular</num>
+<stemtype>us_i</stemtype>
+</infl>
+<infl>
+<term xml:lang=""lat""><stem>testa_ment</stem><suff>o_</suff></term>
+<pofs order=""3"">noun</pofs>
+<decl>2nd</decl>
+<case order=""5"">dative</case>
+<gend>neuter</gend>
+<num>singular</num>
+<stemtype>us_i</stemtype>
+</infl>
+</entry>
+</word>
+</words>
+"
+7,7,caes0044.xml,8,2,2,cleopatra,la,0,cleopatra,N,abl,cleopatra,"<words>
+<unknown xml:lang=""lat"">cleopatra</unknown>
+</words>
+"
+8,8,caes0044.xml,9,2,2,mater,la,0,mater,N,nom,mater,"<words>
 <word>
 <form xml:lang=""lat"">mater</form>
 <entry>
@@ -160,7 +241,7 @@
 </word>
 </words>
 "
-6,6,caes0044.xml,7,2,2,eius,la,0,eius,DET,,is,"<words>
+9,9,caes0044.xml,10,2,2,eius,la,0,eius,DET,,is,"<words>
 <word>
 <form xml:lang=""lat"">eius</form>
 <entry>
@@ -221,6 +302,126 @@
 <num>singular</num>
 <stemtype>pron3</stemtype>
 <morph>indeclform</morph>
+</infl>
+</entry>
+</word>
+</words>
+"
+10,10,caes0044.xml,11,2,2,es,la,0,es,ESSE,IND,sum,"<words>
+<word>
+<form xml:lang=""lat"">es</form>
+<entry>
+<dict>
+<hdwd xml:lang=""lat"">edo#1</hdwd>
+<pofs order=""1"">verb</pofs>
+</dict>
+<infl>
+<term xml:lang=""lat""><stem>e_s</stem></term>
+<pofs order=""1"">verb</pofs>
+<mood>imperative</mood>
+<num>singular</num>
+<pers>2nd</pers>
+<tense>present</tense>
+<voice>active</voice>
+<stemtype>irreg_pp1</stemtype>
+</infl>
+<infl>
+<term xml:lang=""lat""><stem>e_s</stem></term>
+<pofs order=""1"">verb</pofs>
+<mood>indicative</mood>
+<num>singular</num>
+<pers>2nd</pers>
+<tense>present</tense>
+<voice>active</voice>
+<stemtype>irreg_pp1</stemtype>
+</infl>
+</entry>
+<entry>
+<dict>
+<hdwd xml:lang=""lat"">sum#1</hdwd>
+<pofs order=""1"">verb</pofs>
+</dict>
+<infl>
+<term xml:lang=""lat""><stem>es</stem></term>
+<pofs order=""1"">verb</pofs>
+<mood>imperative</mood>
+<num>singular</num>
+<pers>2nd</pers>
+<tense>present</tense>
+<voice>active</voice>
+<stemtype>irreg_pp1</stemtype>
+</infl>
+<infl>
+<term xml:lang=""lat""><stem>es</stem></term>
+<pofs order=""1"">verb</pofs>
+<mood>indicative</mood>
+<num>singular</num>
+<pers>2nd</pers>
+<tense>present</tense>
+<voice>active</voice>
+<stemtype>irreg_pp1</stemtype>
+</infl>
+</entry>
+</word>
+</words>
+"
+11,11,caes0044.xml,12,2,2,facere,la,0,facere,V,INF,facio,"<words>
+<word>
+<form xml:lang=""lat"">facere</form>
+<entry>
+<dict>
+<hdwd xml:lang=""lat"">facio</hdwd>
+<pofs order=""1"">verb</pofs>
+</dict>
+<infl>
+<term xml:lang=""lat""><stem>fac</stem><suff>ere</suff></term>
+<pofs order=""1"">verb</pofs>
+<mood>imperative</mood>
+<num>singular</num>
+<pers>2nd</pers>
+<tense>present</tense>
+<voice>passive</voice>
+<stemtype>conj3_io</stemtype>
+</infl>
+<infl>
+<term xml:lang=""lat""><stem>fac</stem><suff>ere</suff></term>
+<pofs order=""1"">verb</pofs>
+<mood>indicative</mood>
+<num>singular</num>
+<pers>2nd</pers>
+<tense>present</tense>
+<voice>passive</voice>
+<stemtype>conj3_io</stemtype>
+</infl>
+<infl>
+<term xml:lang=""lat""><stem>fac</stem><suff>ere</suff></term>
+<pofs order=""1"">verb</pofs>
+<mood>infinitive</mood>
+<tense>present</tense>
+<voice>active</voice>
+<stemtype>conj3_io</stemtype>
+</infl>
+</entry>
+</word>
+</words>
+"
+12,12,caes0044.xml,13,2,2,iussit,la,0,iussit,V,IND,iubeo|jubeo,"<words>
+<word>
+<form xml:lang=""lat"">iussit</form>
+<entry>
+<dict>
+<hdwd xml:lang=""lat"">jubeo</hdwd>
+<pofs order=""1"">verb</pofs>
+</dict>
+<infl>
+<term xml:lang=""lat""><stem>juss</stem><suff>it</suff></term>
+<pofs order=""1"">verb</pofs>
+<mood>indicative</mood>
+<num>singular</num>
+<pers>3rd</pers>
+<tense>perfect</tense>
+<voice>active</voice>
+<stemtype>perfstem</stemtype>
 </infl>
 </entry>
 </word>

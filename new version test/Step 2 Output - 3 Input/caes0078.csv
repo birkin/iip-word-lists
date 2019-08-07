@@ -1,6 +1,10 @@
 ,Text,Word Number,Line Start,Line End,Normalized,Language,Number,POS Tagger Word,Part of Speech,Part of Speech (Secondary Info),POS Tagger Lemma
 0,caes0078.xml,1,1,1,ἰοῦλις,grc,0,,,,
 1,caes0078.xml,2,2,2,εὐξάμ,grc,0,,,,
-2,caes0078.xml,3,3,3,ν,grc,0,,,,
-3,caes0078.xml,4,4,4,ί,grc,0,,,,
-4,caes0078.xml,5,5,5,δ,grc,0,,,,
+2,caes0078.xml,3,2,2,ε,grc,0,,,,
+3,caes0078.xml,4,3,3,νος,grc,0,,,,
+4,caes0078.xml,5,3,3,ἐπο,grc,0,,,,
+5,caes0078.xml,6,4,4,ίησε,grc,0,,,,
+6,caes0078.xml,7,4,4,πό,grc,0,,,,
+7,caes0078.xml,8,5,5,δ,grc,0,,,,
+8,caes0078.xml,9,5,5,ας,grc,0,,,,

@@ -1,7 +1,5 @@
 Text,Word Number,Line Start,Line End,Normalized,Language,Number
-caes0324.xml,1,1,1,­,grc,0
-caes0324.xml,2,2,2,ρίας,grc,0
-caes0324.xml,3,2,2,­,grc,0
-caes0324.xml,4,3,3,ώρου,grc,0
-caes0324.xml,5,3,3,­,grc,0
-caes0324.xml,6,4,4,κνυς,grc,0
+caes0324.xml,1,2,2,ρίας,grc,0
+caes0324.xml,2,3,3,ώρου,grc,0
+caes0324.xml,3,3,3,σὺν,grc,0
+caes0324.xml,4,3,4,τέκνυς,grc,0

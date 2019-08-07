@@ -7,7 +7,25 @@
 <unknown xml:lang=""lat"">iulian</unknown>
 </words>
 "
-2,2,caes0011.xml,3,2,2,viro,la,0,viro,N,dat,vir|virum|virus,"<words>
+2,2,caes0011.xml,3,1,1,o,la,0,o,INT,,o,"<words>
+<word>
+<form xml:lang=""lat"">o</form>
+<entry>
+<dict>
+<hdwd xml:lang=""lat"">o</hdwd>
+<pofs order=""0"">exclamation</pofs>
+</dict>
+<infl>
+<term xml:lang=""lat""><stem>o_</stem></term>
+<pofs order=""0"">exclamation</pofs>
+<stemtype>exclam</stemtype>
+<morph>indeclform</morph>
+</infl>
+</entry>
+</word>
+</words>
+"
+3,3,caes0011.xml,4,2,2,viro,la,0,viro,N,dat,vir|virum|virus,"<words>
 <word>
 <form xml:lang=""lat"">viro</form>
 <entry>
@@ -85,7 +103,7 @@
 </word>
 </words>
 "
-3,3,caes0011.xml,4,2,2,egregio,la,0,egregio,ADJ,,egregius,"<words>
+4,4,caes0011.xml,5,2,2,egregio,la,0,egregio,ADJ,,egregius,"<words>
 <word>
 <form xml:lang=""lat"">egregio</form>
 <entry>
@@ -160,7 +178,7 @@
 </word>
 </words>
 "
-4,4,caes0011.xml,5,2,2,procuratori,la,0,procuratori,N,dat,procurator,"<words>
+5,5,caes0011.xml,6,2,2,procuratori,la,0,procuratori,N,dat,procurator,"<words>
 <word>
 <form xml:lang=""lat"">procuratori</form>
 <entry>
@@ -208,7 +226,7 @@
 </word>
 </words>
 "
-5,5,caes0011.xml,6,2,2,augusti,la,0,augusti,ADJ,,Augustus,"<words>
+6,6,caes0011.xml,7,2,2,augusti,la,0,augusti,ADJ,,augustus,"<words>
 <word>
 <form xml:lang=""lat"">augusti</form>
 <entry>
@@ -257,7 +275,7 @@
 </word>
 </words>
 "
-6,6,caes0011.xml,7,2,2,nostri,la,0,nostri,POSS,,noster,"<words>
+7,7,caes0011.xml,8,2,2,nostri,la,0,nostri,POSS,,noster,"<words>
 <word>
 <form xml:lang=""lat"">nostri</form>
 <entry>
@@ -330,23 +348,23 @@
 </word>
 </words>
 "
-7,7,caes0011.xml,8,3,3,patr,la,0,patr,N,voc,patr,"<words>
+8,8,caes0011.xml,9,3,3,patr,la,0,patr,N,voc,patr,"<words>
 <unknown xml:lang=""lat"">patr</unknown>
 </words>
 "
-8,8,caes0011.xml,9,3,3,ono,la,0,ono,N,voc,ono,"<words>
+9,9,caes0011.xml,10,3,3,ono,la,0,ono,N,voc,ono,"<words>
 <unknown xml:lang=""lat"">ono</unknown>
 </words>
 "
-9,9,caes0011.xml,10,3,3,metr,la,0,metr,N,voc,metr,"<words>
+10,10,caes0011.xml,11,3,3,metr,la,0,metr,N,voc,metr,"<words>
 <unknown xml:lang=""lat"">metr</unknown>
 </words>
 "
-10,10,caes0011.xml,11,3,3,opolis,la,0,opolis,V,IND,opolis,"<words>
+11,11,caes0011.xml,12,3,3,opolis,la,0,opolis,V,IND,opolis,"<words>
 <unknown xml:lang=""lat"">opolis</unknown>
 </words>
 "
-11,11,caes0011.xml,12,3,3,ex,la,0,ex,PREP,,ex,"<words>
+12,12,caes0011.xml,13,3,3,ex,la,0,ex,PREP,,ex,"<words>
 <word>
 <form xml:lang=""lat"">ex</form>
 <entry>
@@ -364,7 +382,7 @@
 </word>
 </words>
 "
-12,12,caes0011.xml,13,3,3,decreto,la,0,decreto,N,abl,decretum,"<words>
+13,13,caes0011.xml,14,3,3,decreto,la,0,decreto,N,abl,decretum,"<words>
 <word>
 <form xml:lang=""lat"">decreto</form>
 <entry>
@@ -446,7 +464,7 @@
 </word>
 </words>
 "
-13,13,caes0011.xml,14,3,3,decurionum,la,0,decurionum,N,acc,decurio|decurionus,"<words>
+14,14,caes0011.xml,15,3,3,decurionum,la,0,decurionum,N,acc,decurio|decurionus,"<words>
 <word>
 <form xml:lang=""lat"">decurionum</form>
 <entry>

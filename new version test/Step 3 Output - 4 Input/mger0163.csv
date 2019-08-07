@@ -1,5 +1,7 @@
 ,Unnamed: 0,Text,Word Number,Line Start,Line End,Normalized,Language,Number,POS Tagger Word,Part of Speech,Part of Speech (Secondary Info),POS Tagger Lemma,Lemmatizer Lemma
 0,0,mger0163.xml,1,2,2,למ,arc,0,,,,,
 1,1,mger0163.xml,2,3,3,ועל,arc,0,,,,,
-2,2,mger0163.xml,3,3,3,אנ,arc,0,,,,,
+2,2,mger0163.xml,3,3,3,אנתתה,arc,0,,,,,
 3,3,mger0163.xml,4,4,4,לדרכר,arc,0,,,,,
+4,4,mger0163.xml,5,4,4,נ,arc,0,,,,,
+5,5,mger0163.xml,6,4,4,טב,arc,0,,,,,

@@ -7,7 +7,29 @@
 <unknown xml:lang=""lat"">caustr</unknown>
 </words>
 "
-2,2,masa0948.xml,3,2,2,suri,la,0,suri,ADJ,,Surus,"<words>
+2,2,masa0948.xml,3,1,1,i,la,0,i,ADJ,NUM,i,"<words>
+<word>
+<form xml:lang=""lat"">i</form>
+<entry>
+<dict>
+<hdwd xml:lang=""lat"">eo#1</hdwd>
+<pofs order=""1"">verb</pofs>
+</dict>
+<infl>
+<term xml:lang=""lat""><stem>i_</stem></term>
+<pofs order=""1"">verb</pofs>
+<mood>imperative</mood>
+<num>singular</num>
+<pers>2nd</pers>
+<tense>present</tense>
+<voice>active</voice>
+<stemtype>irreg_pp1</stemtype>
+</infl>
+</entry>
+</word>
+</words>
+"
+3,3,masa0948.xml,4,2,2,suri,la,0,suri,ADJ,,surus,"<words>
 <word>
 <form xml:lang=""lat"">suri</form>
 <entry>

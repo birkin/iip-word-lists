@@ -1,6 +1,6 @@
 Text,Word Number,Line Start,Line End,Normalized,Language,Number
 zoor0377.xml,1,2,2,μνημεῖον,grc,0
-zoor0377.xml,2,2,3,λέφυ,grc,0
+zoor0377.xml,2,2,3,ὀλέφου,grc,0
 zoor0377.xml,3,3,3,κρήσκεντος,grc,0
 zoor0377.xml,4,3,4,ἀποθανόντος,grc,0
 zoor0377.xml,5,5,5,μετὰ,grc,0
@@ -15,11 +15,12 @@ zoor0377.xml,13,8,8,ἐν,grc,0
 zoor0377.xml,14,9,9,ἔτει,grc,0
 zoor0377.xml,15,9,9,τλθ,grc,0
 zoor0377.xml,16,9,9,μηνὸς,grc,0
-zoor0377.xml,17,10,10,κα,grc,0
-zoor0377.xml,18,10,10,ἡμέρᾳ,grc,0
-zoor0377.xml,19,11,11,κυρίο,grc,0
-zoor0377.xml,20,11,11,υ,grc,0
-zoor0377.xml,21,11,11,δ,grc,0
-zoor0377.xml,22,12,12,θάσι,grc,0
-zoor0377.xml,23,12,12,οὑδεὶς,grc,0
-zoor0377.xml,24,12,13,ἀθάνατος,grc,0
+zoor0377.xml,17,10,10,λώου,grc,0
+zoor0377.xml,18,10,10,κα,grc,0
+zoor0377.xml,19,10,10,ἡμέρᾳ,grc,0
+zoor0377.xml,20,11,11,κυρίο,grc,0
+zoor0377.xml,21,11,11,υ,grc,0
+zoor0377.xml,22,11,11,δ,grc,0
+zoor0377.xml,23,12,12,θάρσι,grc,0
+zoor0377.xml,24,12,12,οὑδεὶς,grc,0
+zoor0377.xml,25,12,13,ἀθάνατος,grc,0

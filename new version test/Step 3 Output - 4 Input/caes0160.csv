@@ -117,11 +117,65 @@
 </word>
 </words>
 "
-2,2,caes0160.xml,3,2,2,rhodo,la,0,rhodo,N,abl,rhodo,"<words>
-<unknown xml:lang=""lat"">rhodo</unknown>
+2,2,caes0160.xml,3,2,2,rhodope,la,0,rhodope,N,loc,rhodope,"<words>
+<unknown xml:lang=""lat"">rhodope</unknown>
 </words>
 "
-3,3,caes0160.xml,4,3,3,coniug,la,0,coniug,N,nom,coniug,"<words>
-<unknown xml:lang=""lat"">coniug</unknown>
+3,3,caes0160.xml,4,3,3,coniugi,la,0,coniugi,V,IND,coniugi,"<words>
+<word>
+<form xml:lang=""lat"">coniugi</form>
+<entry>
+<dict>
+<hdwd xml:lang=""lat"">conjugium</hdwd>
+<pofs order=""3"">noun</pofs>
+<decl>2nd</decl>
+<gend>neuter</gend>
+</dict>
+<infl>
+<term xml:lang=""lat""><stem>conjug</stem><suff>i_</suff></term>
+<pofs order=""3"">noun</pofs>
+<decl>2nd</decl>
+<case order=""7"">nominative</case>
+<gend>neuter</gend>
+<num>plural</num>
+<stemtype>ius_i</stemtype>
+</infl>
+<infl>
+<term xml:lang=""lat""><stem>conjug</stem><suff>i_</suff></term>
+<pofs order=""3"">noun</pofs>
+<decl>2nd</decl>
+<case order=""6"">genitive</case>
+<gend>neuter</gend>
+<num>singular</num>
+<stemtype>ius_i</stemtype>
+</infl>
+</entry>
+<entry>
+<dict>
+<hdwd xml:lang=""lat"">conjunx</hdwd>
+<pofs order=""3"">noun</pofs>
+<decl>3rd</decl>
+<gend>masculine/feminine</gend>
+</dict>
+<infl>
+<term xml:lang=""lat""><stem>conju</stem><suff>gi_</suff></term>
+<pofs order=""3"">noun</pofs>
+<decl>3rd</decl>
+<case order=""5"">dative</case>
+<gend>masculine</gend>
+<num>singular</num>
+<stemtype>x_gis</stemtype>
+</infl>
+<infl>
+<term xml:lang=""lat""><stem>conju</stem><suff>gi_</suff></term>
+<pofs order=""3"">noun</pofs>
+<decl>3rd</decl>
+<case order=""5"">dative</case>
+<gend>feminine</gend>
+<num>singular</num>
+<stemtype>x_gis</stemtype>
+</infl>
+</entry>
+</word>
 </words>
 "

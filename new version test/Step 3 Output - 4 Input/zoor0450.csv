@@ -1,6 +1,8 @@
 ,Unnamed: 0,Text,Word Number,Line Start,Line End,Normalized,Language,Number,POS Tagger Word,Part of Speech,Part of Speech (Secondary Info),POS Tagger Lemma,Lemmatizer Lemma
-0,0,zoor0450.xml,1,1,1,ית,arc,0,,,,,
+0,0,zoor0450.xml,1,1,1,יתניח,arc,0,,,,,
 1,1,zoor0450.xml,2,6,6,יומין,arc,0,,,,,
 2,2,zoor0450.xml,3,7,7,ובירח,arc,0,,,,,
 3,3,zoor0450.xml,4,8,8,שנין,arc,0,,,,,
-4,4,zoor0450.xml,5,9,9,מקד,arc,0,,,,,
+4,4,zoor0450.xml,5,8,8,לחרבן,arc,0,,,,,
+5,5,zoor0450.xml,6,8,8,בית,arc,0,,,,,
+6,6,zoor0450.xml,7,9,9,מקדשה,arc,0,,,,,

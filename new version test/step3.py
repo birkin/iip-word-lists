@@ -11,7 +11,6 @@ Created on Mon Jun 10 16:55:01 2019
 import os
 import glob
 import pandas
-import treetaggerwrapper
 
 # Local dependencies
 from argument_parser import *
@@ -41,6 +40,7 @@ bClearFolder = False
 vFilenames = ParseArguments()
 if vFilenames is None:
 	vTextFullPaths = glob.glob(strPathIn + os.sep + '*.csv')
+	vTextFullPaths.sort()
 	bClearFolder = True
 else:
 	vTextFullPaths = [strPathIn + os.sep + strFilename for strFilename in vFilenames]
@@ -62,6 +62,9 @@ for strTextFullPath in vTextFullPaths:
 	# Extract the filename for the current text
 	# Use the OS specific directory separator to split path and take the last element
 	strTextFilename = strTextFullPath.split(os.sep)[-1]
+	
+	# Running output, because this one is crazy slow
+	print("Processing text: %s" % strTextFilename)
 	
 	# Load the text data from a csv file
 	try:
@@ -91,15 +94,9 @@ for strTextFullPath in vTextFullPaths:
 			print("Unsupported or invalid language code: %s" % strLanguage)
 			continue
 
-		# Placeholder for processed POS Tagger output
+		# Placeholder for processed Lemmatizer output
 		# This creates a new dictionary with column names as keys and empty lists as values
 		vLemmatizerData = {key: [] for key in vNewColumns}
-		
-		
-
-#		# Join the words into a sentence to send to the Lemmatizer
-#		str = u' '.join(dfIn.loc[(dfIn['Language'] == strLanguage)]['Normalized'])
-#		vPOSTaggerOutput = vLanguageCodes[strLanguage].tag_text(str)
 		
 		dfOut = dfOut.sort_values(['Word Number'])
 		vWords = dfOut.loc[(dfOut['Language'] == strLanguage)]['Normalized']
@@ -107,26 +104,6 @@ for strTextFullPath in vTextFullPaths:
 		for strWord in vWords:
 			strLemma = Lemmatize(strWord, strLanguage)
 			vLemmatizerData['Lemmatizer Lemma'].append(strLemma)
-
-#		# Process POS Tagger output
-#		# NB This process is dependent on the choice of POS Tagger
-#		# E.g. TreeTagger for Latin produces: 'input_word\tPOS:pos_2\tlemma\n', ...
-#		for strPOSTaggerOutput in vPOSTaggerOutput:
-#			vTags = strPOSTaggerOutput.split('\t')
-#
-#			# First, add the word output by POS Tagger, which should be identical to the input
-#			# Use this later to ensure that the original input ('Normalized') and POS Tagger's output version are identical
-#			vPOSTaggerData['POS Tagger Word'].append(vTags[0])
-#
-#			# Split the part of speech tag into it's two parts, when there is a colon
-#			# Save both parts. If there is not a second part, save an empty string
-#			#  e.g. 'N:acc' -> 'N' and 'acc', 'ADJ' -> 'ADJ' and ''
-#			vPOS = vTags[1].split(':')
-#			vPOSTaggerData['Part of Speech'].append(vPOS[0])
-#			if len(vPOS) > 1:
-#				vPOSTaggerData['Part of Speech (Secondary Info)'].append(vPOS[1])
-#			else:
-#				vPOSTaggerData['Part of Speech (Secondary Info)'].append('')
 
 		# Add the POS Tagger data to the proper columns in the output
 		for strNewColumn in vNewColumns:

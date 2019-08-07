@@ -46,6 +46,7 @@ bClearFolder = False
 vFilenames = ParseArguments()
 if vFilenames is None:
 	vTextFullPaths = glob.glob(strPathIn + os.sep + '*.csv')
+	vTextFullPaths.sort()
 	bClearFolder = True
 else:
 	vTextFullPaths = [strPathIn + os.sep + strFilename for strFilename in vFilenames]
@@ -79,6 +80,7 @@ for strTextFullPath in vTextFullPaths:
 
 	# Create copy of input for output variable
 	dfOut = dfIn
+
 
 	# Add new columns to output dataframe
 	for strNewColumn in vNewColumns:
@@ -150,7 +152,7 @@ for strTextFullPath in vTextFullPaths:
 		dfAll = dfAll.append(dfOut)
 
 
-#%%
+#%% Combined output, mainly for debugging
 
 vPartsOfSpeech = list(set(vPartsOfSpeech))
 vPartsOfSpeech.sort()
@@ -159,5 +161,4 @@ f.write("vTreeTaggerPOSLabels = {\n'" + "':\t''\n'".join(vPartsOfSpeech) + "':\t
 f.close()
 
 dfAll.to_csv('Step 2 Output.csv')
-
 

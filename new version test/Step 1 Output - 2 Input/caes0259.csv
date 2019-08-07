@@ -1,9 +1,10 @@
 Text,Word Number,Line Start,Line End,Normalized,Language,Number
 caes0259.xml,1,1,1,θήκη,grc,0
 caes0259.xml,2,1,1,μανλ,grc,0
-caes0259.xml,3,2,2,κὲ,grc,0
-caes0259.xml,4,2,2,φροντίνας,grc,0
-caes0259.xml,5,3,3,κὲ,grc,0
-caes0259.xml,6,3,3,γρηγορίου,grc,0
-caes0259.xml,7,3,3,κὲ,grc,0
-caes0259.xml,8,4,4,φαυστίνας,grc,0
+caes0259.xml,3,1,1,ίου,grc,0
+caes0259.xml,4,2,2,κὲ,grc,0
+caes0259.xml,5,2,2,φροντίνας,grc,0
+caes0259.xml,6,3,3,κὲ,grc,0
+caes0259.xml,7,3,3,γρηγορίου,grc,0
+caes0259.xml,8,3,3,κὲ,grc,0
+caes0259.xml,9,4,4,φαυστίνας,grc,0

@@ -1,5 +1,6 @@
 ,Unnamed: 0,Text,Word Number,Line Start,Line End,Normalized,Language,Number,POS Tagger Word,Part of Speech,Part of Speech (Secondary Info),POS Tagger Lemma,Lemmatizer Lemma
 0,0,bshe0134.xml,1,2,2,ἐπὶ,grc,0,,,,,
-1,1,bshe0134.xml,2,2,2,ἀριστεδα,grc,0,,,,,
+1,1,bshe0134.xml,2,2,2,ἀριστείδα,grc,0,,,,,
 2,2,bshe0134.xml,3,3,3,ὑακιν,grc,0,,,,,
 3,3,bshe0134.xml,4,3,3,θ,grc,0,,,,,
+4,4,bshe0134.xml,5,3,3,ίου,grc,0,,,,,

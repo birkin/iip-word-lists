@@ -204,7 +204,7 @@
 <unknown xml:lang=""lat"">galerio</unknown>
 </words>
 "
-6,6,caes0014.xml,7,3,3,valerio,la,0,valerio,ADJ,abl,Valerius,"<words>
+6,6,caes0014.xml,7,3,3,valerio,la,0,valerio,ADJ,abl,valerius,"<words>
 <unknown xml:lang=""lat"">valerio</unknown>
 </words>
 "
@@ -448,7 +448,7 @@
 </word>
 </words>
 "
-12,12,caes0014.xml,13,4,4,caesari,la,0,caesari,N,dat,Caesar,"<words>
+12,12,caes0014.xml,13,4,4,caesari,la,0,caesari,N,dat,caesar,"<words>
 <unknown xml:lang=""lat"">caesari</unknown>
 </words>
 "

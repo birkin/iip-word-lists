@@ -31,7 +31,7 @@
 </word>
 </words>
 "
-1,1,caes0047.xml,2,2,2,caesare,la,0,caesare,N,abl,Caesar,"<words>
+1,1,caes0047.xml,2,2,2,caesare,la,0,caesare,N,abl,caesar,"<words>
 <unknown xml:lang=""lat"">caesare</unknown>
 </words>
 "
@@ -39,11 +39,11 @@
 <unknown xml:lang=""lat"">traiano</unknown>
 </words>
 "
-3,3,caes0047.xml,4,2,2,hadriano,la,0,hadriano,N,abl,Hadrianus,"<words>
+3,3,caes0047.xml,4,2,2,hadriano,la,0,hadriano,N,abl,hadrianus,"<words>
 <unknown xml:lang=""lat"">hadriano</unknown>
 </words>
 "
-4,4,caes0047.xml,5,3,3,augusto,la,0,augusto,ADJ,abl,Augustus|augustus,"<words>
+4,4,caes0047.xml,5,3,3,augusto,la,0,augusto,ADJ,abl,augustus|augustus,"<words>
 <word>
 <form xml:lang=""lat"">augusto</form>
 <entry>

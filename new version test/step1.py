@@ -14,6 +14,8 @@ import os
 import glob
 import pandas
 import re
+from lxml import etree
+from io import StringIO, BytesIO
 #import treetaggerwrapper
 
 # Local dependencies
@@ -31,6 +33,7 @@ bClearFolder = False
 vFilenames = ParseArguments()
 if vFilenames is None:
 	vTextFullPaths = glob.glob(strPathIn + os.sep + '*.xml')
+	vTextFullPaths.sort()
 	bClearFolder = True
 else:
 	vTextFullPaths = [strPathIn + os.sep + strFilename for strFilename in vFilenames]
@@ -59,9 +62,6 @@ vAllowedLangs = [ 'arc', 'grc', 'he', 'la' ]
 for strTextFullPath in vTextFullPaths:
 	# Extract the filename for the current text
 	# Use the OS specific directory separator to split path and take the last element
-		
-	from lxml import etree
-	from io import StringIO, BytesIO
 	strTextFilename = strTextFullPath.split(os.sep)[-1]
 	
 			
@@ -87,8 +87,8 @@ for strTextFullPath in vTextFullPaths:
 		continue
 	
 	# Find cases where language code is wrong
-	if not strMainLanguage in vAllowedLangs:
-		print("Error, invalid language (%s) in %s" %(strMainLanguage, strTextFilename) )
+	if strMainLanguage not in vAllowedLangs:
+		print("Error, invalid language (%s) in %s" % (strMainLanguage, strTextFilename))
 		continue
 		
 	
@@ -123,20 +123,16 @@ for strTextFullPath in vTextFullPaths:
 	strXMLText = etree.tostring(x[0], encoding = "unicode")
 	
 
-#	print("\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n")
-#	
-#	print(strXMLText)
-#	print("\n\n")
-	
-	
-	
+	# The following lines parse the XML to extract the text
+	# and format it so that it can be used for later steps.
+	# 
 	# Word break character: § (alt 6)
 	# Line break character: ¶ (alt 7)
 	# Alternate character:  ª (alt 9)
 	
 	# TEMP - Fix mistakes in XML that should be fixed manually	
 	strXMLText = re.sub(r"⎜", "|", strXMLText)
-	strXMLText = re.sub(r"[\(\)\'‘ʾʹ̒'̔ˊ´’]", "", strXMLText)
+	strXMLText = re.sub(r"[\(\)\'‘ʾʹ̒'̔ˊ´’\?\*]", "", strXMLText)
 	
 	
 	# Delete all newlines
@@ -154,7 +150,7 @@ for strTextFullPath in vTextFullPaths:
 	
 	# Keep stuff as is without worrying about the markup
 	strXMLText = re.sub(r"<supplied>(.*?)</supplied>", r"\1", strXMLText)
-	strXMLText = re.sub(r"<supplied (([^>]+|\s)*?)>(.*?)</supplied>", r"\3", strXMLText)				#####
+	strXMLText = re.sub(r"<supplied (([^>]+|\s)*?)>(.*?)</supplied>", r"\3", strXMLText)
 	strXMLText = re.sub(r"</supplied>", r"", strXMLText)
 	strXMLText = re.sub(r"<unclear([^>]*?)>(.*?)</unclear>", r"\2", strXMLText)
 	strXMLText = re.sub(r"<hi ([^>]*?)>(.*?)</hi>", r"\2", strXMLText)
@@ -245,10 +241,6 @@ for strTextFullPath in vTextFullPaths:
 	
 	strTextsAll = strTextsAll + strTextFilename + ":\n" + strXMLText + "\n\n"
 	
-#	print(strXMLText)
-	
-	
-#	continue
 	
 #%%
 
@@ -393,13 +385,12 @@ f.close()
 f = open('Extra Characters.txt', 'w')
 f.write(strExtraCharacters)
 f.close()
-	
+
+
+# WIP Stuff
 
 vFoobarred.sort()
 vNoLang.sort()
-
-
-#%%
 
 vLangs = list(set(vLangs))
 

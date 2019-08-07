@@ -1,10 +1,10 @@
 ,Text,Word Number,Line Start,Line End,Normalized,Language,Number,POS Tagger Word,Part of Speech,Part of Speech (Secondary Info),POS Tagger Lemma
 0,caes0054.xml,1,1,1,imperator,la,0,imperator,N,voc,imperator
-1,caes0054.xml,2,1,1,caesar,la,0,caesar,N,nom,Caesar
+1,caes0054.xml,2,1,1,caesar,la,0,caesar,N,nom,caesar
 2,caes0054.xml,3,2,2,traianus,la,0,traianus,ADJ,,traianus
 3,caes0054.xml,4,2,2,hadr,la,0,hadr,N,nom,hadr
 4,caes0054.xml,5,2,2,ianus,la,0,ianus,ADJ,,ianus
-5,caes0054.xml,6,2,2,augustus,la,0,augustus,ADJ,,Augustus
+5,caes0054.xml,6,2,2,augustus,la,0,augustus,ADJ,,augustus
 6,caes0054.xml,7,3,3,per,la,0,per,PREP,,per
 7,caes0054.xml,8,3,3,vexillationem,la,0,vexillationem,N,acc,vexillationem
 8,caes0054.xml,9,4,4,legionis,la,0,legionis,N,gen,legio

@@ -1,2 +1,4 @@
 ,Unnamed: 0,Text,Word Number,Line Start,Line End,Normalized,Language,Number,POS Tagger Word,Part of Speech,Part of Speech (Secondary Info),POS Tagger Lemma,Lemmatizer Lemma
-0,0,masa0781.xml,1,1,1,παρ,grc,0,,,,,
+0,0,masa0781.xml,1,1,1,παρὰ,grc,0,,,,,
+1,1,masa0781.xml,2,1,1,τοῦ,grc,0,,,,,
+2,2,masa0781.xml,3,1,1,δεῖνος,grc,0,,,,,

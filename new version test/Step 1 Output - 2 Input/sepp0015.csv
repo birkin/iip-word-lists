@@ -1,6 +1,11 @@
 Text,Word Number,Line Start,Line End,Normalized,Language,Number
 sepp0015.xml,1,1,1,μ,grc,0
 sepp0015.xml,2,2,2,ἐ­orε,grc,0
-sepp0015.xml,3,3,3,ξά­,grc,0
-sepp0015.xml,4,3,3,ξά­,grc,0
-sepp0015.xml,5,4,4,ῷ,grc,0
+sepp0015.xml,3,3,3,ποίησεν,grc,0
+sepp0015.xml,4,3,3,εὑξά­,grc,0
+sepp0015.xml,5,3,3,ου,grc,0
+sepp0015.xml,6,3,3,ἐποίησεν,grc,0
+sepp0015.xml,7,3,4,εὐξά,grc,0
+sepp0015.xml,8,4,4,μενος,grc,0
+sepp0015.xml,9,4,4,εὐλογία,grc,0
+sepp0015.xml,10,4,4,αὐτῷ,grc,0

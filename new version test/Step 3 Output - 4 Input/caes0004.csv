@@ -1,5 +1,5 @@
 ,Unnamed: 0,Text,Word Number,Line Start,Line End,Normalized,Language,Number,POS Tagger Word,Part of Speech,Part of Speech (Secondary Info),POS Tagger Lemma,Lemmatizer Lemma
-0,0,caes0004.xml,1,1,1,lucio,la,0,lucio,N,abl,Lucius|lucius,"<words>
+0,0,caes0004.xml,1,1,1,lucio,la,0,lucio,N,abl,lucius|lucius,"<words>
 <word>
 <form xml:lang=""lat"">lucio</form>
 <entry>
@@ -31,7 +31,7 @@
 </word>
 </words>
 "
-1,1,caes0004.xml,2,1,1,valerio,la,0,valerio,N,abl,Valerius,"<words>
+1,1,caes0004.xml,2,1,1,valerio,la,0,valerio,N,abl,valerius,"<words>
 <unknown xml:lang=""lat"">valerio</unknown>
 </words>
 "
@@ -39,7 +39,7 @@
 <unknown xml:lang=""lat"">valeriano</unknown>
 </words>
 "
-3,3,caes0004.xml,4,2,2,syriae,la,0,syriae,N,nom,Syria,"<words>
+3,3,caes0004.xml,4,2,2,syriae,la,0,syriae,N,nom,syria,"<words>
 <unknown xml:lang=""lat"">syriae</unknown>
 </words>
 "
@@ -514,9 +514,9 @@
 </word>
 </words>
 "
-13,13,caes0004.xml,14,5,5,felicis,la,0,felicis,ADJ,,felix,"<words>
+13,13,caes0004.xml,14,5,5,felicissimae,la,0,felicissimae,ADJ,,felicissimae,"<words>
 <word>
-<form xml:lang=""lat"">felicis</form>
+<form xml:lang=""lat"">felicissimae</form>
 <entry>
 <dict>
 <hdwd xml:lang=""lat"">felix#1</hdwd>
@@ -524,35 +524,73 @@
 <decl>3rd</decl>
 </dict>
 <infl>
-<term xml:lang=""lat""><stem>fe_l</stem><suff>i_cis</suff></term>
+<term xml:lang=""lat""><stem>fe_l</stem><suff>i_cissimae</suff></term>
 <pofs order=""2"">adjective</pofs>
 <decl>3rd</decl>
-<case order=""6"">genitive</case>
+<case order=""7"">nominative</case>
+<gend>feminine</gend>
+<comp>superlative</comp>
+<num>plural</num>
+<stemtype>ix_adj</stemtype>
+</infl>
+<infl>
+<term xml:lang=""lat""><stem>fe_l</stem><suff>i_cissimae</suff></term>
+<pofs order=""2"">adjective</pofs>
+<decl>3rd</decl>
+<case order=""1"">vocative</case>
+<gend>feminine</gend>
+<comp>superlative</comp>
+<num>plural</num>
+<stemtype>ix_adj</stemtype>
+</infl>
+<infl>
+<term xml:lang=""lat""><stem>fe_l</stem><suff>i_cissimae</suff></term>
+<pofs order=""2"">adjective</pofs>
+<decl>3rd</decl>
+<case order=""5"">dative</case>
+<gend>feminine</gend>
+<comp>superlative</comp>
 <num>singular</num>
 <stemtype>ix_adj</stemtype>
 </infl>
-</entry>
-<entry>
-<dict>
-<hdwd xml:lang=""lat"">filix</hdwd>
-<pofs order=""3"">noun</pofs>
-<decl>3rd</decl>
-<gend>feminine</gend>
-</dict>
 <infl>
-<term xml:lang=""lat""><stem>fel</stem><suff>icis</suff></term>
-<pofs order=""3"">noun</pofs>
+<term xml:lang=""lat""><stem>fe_l</stem><suff>i_cissimae</suff></term>
+<pofs order=""2"">adjective</pofs>
 <decl>3rd</decl>
 <case order=""6"">genitive</case>
 <gend>feminine</gend>
+<comp>superlative</comp>
 <num>singular</num>
-<stemtype>ix_icis</stemtype>
+<stemtype>ix_adj</stemtype>
 </infl>
 </entry>
 </word>
 </words>
 "
-14,14,caes0004.xml,15,6,6,urbicae,la,0,urbicae,ADJ,,urbicae,"<words>
+14,14,caes0004.xml,15,5,5,expeditionis,la,0,expeditionis,N,gen,expeditio,"<words>
+<word>
+<form xml:lang=""lat"">expeditionis</form>
+<entry>
+<dict>
+<hdwd xml:lang=""lat"">expeditio</hdwd>
+<pofs order=""3"">noun</pofs>
+<decl>3rd</decl>
+<gend>feminine</gend>
+</dict>
+<infl>
+<term xml:lang=""lat""><stem>expedi_ti</stem><suff>o_nis</suff></term>
+<pofs order=""3"">noun</pofs>
+<decl>3rd</decl>
+<case order=""6"">genitive</case>
+<gend>feminine</gend>
+<num>singular</num>
+<stemtype>o_oLnis</stemtype>
+</infl>
+</entry>
+</word>
+</words>
+"
+15,15,caes0004.xml,16,6,6,urbicae,la,0,urbicae,ADJ,,urbicae,"<words>
 <word>
 <form xml:lang=""lat"">urbicae</form>
 <entry>
@@ -601,7 +639,7 @@
 </word>
 </words>
 "
-15,15,caes0004.xml,16,6,6,itemque,la,0,itemque,ADJ,,itemque,"<words>
+16,16,caes0004.xml,17,6,6,itemque,la,0,itemque,ADJ,,itemque,"<words>
 <word>
 <form xml:lang=""lat"">itemque</form>
 <entry>
@@ -653,11 +691,11 @@
 </word>
 </words>
 "
-16,16,caes0004.xml,17,6,6,asiana,la,0,asiana,ADJ,,Asianus,"<words>
+17,17,caes0004.xml,18,6,6,asiana,la,0,asiana,ADJ,,asianus,"<words>
 <unknown xml:lang=""lat"">asiana</unknown>
 </words>
 "
-17,17,caes0004.xml,18,7,7,hostes,la,0,hostes,N,nom,hostis,"<words>
+18,18,caes0004.xml,19,7,7,hostes,la,0,hostes,N,nom,hostis,"<words>
 <word>
 <form xml:lang=""lat"">hostes</form>
 <entry>
@@ -725,7 +763,7 @@
 </word>
 </words>
 "
-18,18,caes0004.xml,19,7,7,publicos,la,0,publicos,ADJ,,publicus,"<words>
+19,19,caes0004.xml,20,7,7,publicos,la,0,publicos,ADJ,,publicus,"<words>
 <word>
 <form xml:lang=""lat"">publicos</form>
 <entry>
@@ -756,15 +794,15 @@
 </word>
 </words>
 "
-19,19,caes0004.xml,20,7,7,pr,la,0,pr,ADV,,pr,"<words>
+20,20,caes0004.xml,21,7,7,pr,la,0,pr,ADV,,pr,"<words>
 <unknown xml:lang=""lat"">pr</unknown>
 </words>
 "
-20,20,caes0004.xml,21,7,7,osito,la,0,osito,V,PTC,osito,"<words>
+21,21,caes0004.xml,22,7,7,osito,la,0,osito,V,PTC,osito,"<words>
 <unknown xml:lang=""lat"">osito</unknown>
 </words>
 "
-21,21,caes0004.xml,22,8,8,peregrinarum,la,0,peregrinarum,ADJ,,peregrinus,"<words>
+22,22,caes0004.xml,23,8,8,peregrinarum,la,0,peregrinarum,ADJ,,peregrinus,"<words>
 <word>
 <form xml:lang=""lat"">peregrinarum</form>
 <entry>
@@ -803,11 +841,11 @@
 </word>
 </words>
 "
-22,22,caes0004.xml,23,8,8,adv,la,0,adv,ADJ,,adv,"<words>
+23,23,caes0004.xml,24,8,8,adv,la,0,adv,ADJ,,adv,"<words>
 <unknown xml:lang=""lat"">adv</unknown>
 </words>
 "
-23,23,caes0004.xml,24,9,9,procuratori,la,0,procuratori,N,dat,procurator,"<words>
+24,24,caes0004.xml,25,9,9,procuratori,la,0,procuratori,N,dat,procurator,"<words>
 <word>
 <form xml:lang=""lat"">procuratori</form>
 <entry>
@@ -855,7 +893,7 @@
 </word>
 </words>
 "
-24,24,caes0004.xml,25,9,9,cypri,la,0,cypri,ADJ,,cyprus,"<words>
+25,25,caes0004.xml,26,9,9,cypri,la,0,cypri,ADJ,,cyprus,"<words>
 <word>
 <form xml:lang=""lat"">cypri</form>
 <entry>
@@ -896,7 +934,7 @@
 </word>
 </words>
 "
-25,25,caes0004.xml,26,9,9,praefecto,la,0,praefecto,N,dat,praefectus,"<words>
+26,26,caes0004.xml,27,9,9,praefecto,la,0,praefecto,N,dat,praefectus,"<words>
 <word>
 <form xml:lang=""lat"">praefecto</form>
 <entry>
@@ -1021,15 +1059,15 @@
 </word>
 </words>
 "
-26,26,caes0004.xml,27,9,9,al,la,0,al,V,IND,al,"<words>
+27,27,caes0004.xml,28,9,9,al,la,0,al,V,IND,al,"<words>
 <unknown xml:lang=""lat"">al</unknown>
 </words>
 "
-27,27,caes0004.xml,28,10,10,campagonum,la,0,campagonum,N,gen,campagonum,"<words>
+28,28,caes0004.xml,29,10,10,campagonum,la,0,campagonum,N,gen,campagonum,"<words>
 <unknown xml:lang=""lat"">campagonum</unknown>
 </words>
 "
-28,28,caes0004.xml,29,10,10,in,la,0,in,PREP,,in,"<words>
+29,29,caes0004.xml,30,10,10,in,la,0,in,PREP,,in,"<words>
 <word>
 <form xml:lang=""lat"">in</form>
 <entry>
@@ -1047,11 +1085,11 @@
 </word>
 </words>
 "
-29,29,caes0004.xml,30,10,10,dac,la,0,dac,V,IMP,dac,"<words>
+30,30,caes0004.xml,31,10,10,dac,la,0,dac,V,IMP,dac,"<words>
 <unknown xml:lang=""lat"">dac</unknown>
 </words>
 "
-30,30,caes0004.xml,31,11,11,miliariae,la,0,miliariae,ADJ,,miliarius,"<words>
+31,31,caes0004.xml,32,11,11,miliariae,la,0,miliariae,ADJ,,miliarius,"<words>
 <word>
 <form xml:lang=""lat"">miliariae</form>
 <entry>
@@ -1143,15 +1181,15 @@
 </word>
 </words>
 "
-31,31,caes0004.xml,32,11,11,hemese,la,0,hemese,N,dat,hemese,"<words>
+32,32,caes0004.xml,33,11,11,hemese,la,0,hemese,N,dat,hemese,"<words>
 <unknown xml:lang=""lat"">hemese</unknown>
 </words>
 "
-32,32,caes0004.xml,33,12,12,pannonia,la,0,pannonia,ADJ,,pannonia,"<words>
+33,33,caes0004.xml,34,12,12,pannonia,la,0,pannonia,ADJ,,pannonia,"<words>
 <unknown xml:lang=""lat"">pannonia</unknown>
 </words>
 "
-33,33,caes0004.xml,34,12,12,praefecto,la,0,praefecto,N,dat,praefectus,"<words>
+34,34,caes0004.xml,35,12,12,praefecto,la,0,praefecto,N,dat,praefectus,"<words>
 <word>
 <form xml:lang=""lat"">praefecto</form>
 <entry>
@@ -1276,11 +1314,11 @@
 </word>
 </words>
 "
-34,34,caes0004.xml,35,12,12,co,la,0,co,V,IND,co,"<words>
+35,35,caes0004.xml,36,12,12,co,la,0,co,V,IND,co,"<words>
 <unknown xml:lang=""lat"">co</unknown>
 </words>
 "
-35,35,caes0004.xml,36,12,12,hortis,la,0,hortis,N,abl,hortus,"<words>
+36,36,caes0004.xml,37,12,12,hortis,la,0,hortis,N,abl,hortus,"<words>
 <word>
 <form xml:lang=""lat"">hortis</form>
 <entry>
@@ -1312,19 +1350,19 @@
 </word>
 </words>
 "
-36,36,caes0004.xml,37,13,13,pannonia,la,0,pannonia,N,nom,pannonia,"<words>
+37,37,caes0004.xml,38,13,13,pannonia,la,0,pannonia,N,nom,pannonia,"<words>
 <unknown xml:lang=""lat"">pannonia</unknown>
 </words>
 "
-37,37,caes0004.xml,38,14,14,mevius,la,0,mevius,ADJ,,mevius,"<words>
+38,38,caes0004.xml,39,14,14,mevius,la,0,mevius,ADJ,,mevius,"<words>
 <unknown xml:lang=""lat"">mevius</unknown>
 </words>
 "
-38,38,caes0004.xml,39,14,14,romanus,la,0,romanus,ADJ,,romanus,"<words>
+39,39,caes0004.xml,40,14,14,romanus,la,0,romanus,ADJ,,romanus,"<words>
 <unknown xml:lang=""lat"">romanus</unknown>
 </words>
 "
-39,39,caes0004.xml,40,14,14,centurio,la,0,centurio,N,nom,centurio,"<words>
+40,40,caes0004.xml,41,14,14,centurio,la,0,centurio,N,nom,centurio,"<words>
 <word>
 <form xml:lang=""lat"">centurio</form>
 <entry>
@@ -1373,7 +1411,7 @@
 </word>
 </words>
 "
-40,40,caes0004.xml,41,15,15,fidelis,la,0,fidelis,ADJ,,fidelis,"<words>
+41,41,caes0004.xml,42,15,15,fidelis,la,0,fidelis,ADJ,,fidelis,"<words>
 <word>
 <form xml:lang=""lat"">fidelis</form>
 <entry>
@@ -1494,7 +1532,7 @@
 </word>
 </words>
 "
-41,41,caes0004.xml,42,15,15,constantis,la,0,constantis,ADJ,,constans,"<words>
+42,42,caes0004.xml,43,15,15,constantis,la,0,constantis,ADJ,,constans,"<words>
 <word>
 <form xml:lang=""lat"">constantis</form>
 <entry>
@@ -1556,11 +1594,11 @@
 </word>
 </words>
 "
-42,42,caes0004.xml,43,15,15,antoninianae,la,0,antoninianae,ADJ,,antoninianae,"<words>
+43,43,caes0004.xml,44,15,15,antoninianae,la,0,antoninianae,ADJ,,antoninianae,"<words>
 <unknown xml:lang=""lat"">antoninianae</unknown>
 </words>
 "
-43,43,caes0004.xml,44,16,16,eius,la,0,eius,DET,,is,"<words>
+44,44,caes0004.xml,45,16,16,eius,la,0,eius,DET,,is,"<words>
 <word>
 <form xml:lang=""lat"">eius</form>
 <entry>
@@ -1626,7 +1664,7 @@
 </word>
 </words>
 "
-44,44,caes0004.xml,45,16,16,viro,la,0,viro,N,dat,vir|virum|virus,"<words>
+45,45,caes0004.xml,46,16,16,viro,la,0,viro,N,dat,vir|virum|virus,"<words>
 <word>
 <form xml:lang=""lat"">viro</form>
 <entry>
@@ -1704,7 +1742,7 @@
 </word>
 </words>
 "
-45,45,caes0004.xml,46,16,16,i,la,0,i,ADJ,NUM,i,"<words>
+46,46,caes0004.xml,47,16,16,i,la,0,i,ADJ,NUM,i,"<words>
 <word>
 <form xml:lang=""lat"">i</form>
 <entry>
@@ -1726,7 +1764,7 @@
 </word>
 </words>
 "
-46,46,caes0004.xml,47,17,17,bili,la,0,bili,N,abl,bilis,"<words>
+47,47,caes0004.xml,48,17,17,bili,la,0,bili,N,abl,bilis,"<words>
 <word>
 <form xml:lang=""lat"">bili</form>
 <entry>

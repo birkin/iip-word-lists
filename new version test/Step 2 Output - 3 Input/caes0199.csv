@@ -1,5 +1,7 @@
 ,Text,Word Number,Line Start,Line End,Normalized,Language,Number,POS Tagger Word,Part of Speech,Part of Speech (Secondary Info),POS Tagger Lemma
-0,caes0199.xml,1,2,2,διαφ­,grc,0,,,,
-1,caes0199.xml,2,3,3,οῦ,grc,0,,,,
-2,caes0199.xml,3,3,3,σι,grc,0,,,,
-3,caes0199.xml,4,4,4,+,grc,0,,,,
+0,caes0199.xml,1,1,1,μεμόριον,grc,0,,,,
+1,caes0199.xml,2,2,2,διαφέρον,grc,0,,,,
+2,caes0199.xml,3,2,3,τ,grc,0,,,,
+3,caes0199.xml,4,3,3,οῦ,grc,0,,,,
+4,caes0199.xml,5,3,3,σι,grc,0,,,,
+5,caes0199.xml,6,4,4,+,grc,0,,,,

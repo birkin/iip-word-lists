@@ -301,7 +301,7 @@
 </word>
 </words>
 "
-7,7,caes0009.xml,8,3,3,marco,la,0,marco,N,abl,Marcus,"<words>
+7,7,caes0009.xml,8,3,3,marco,la,0,marco,N,abl,marcus,"<words>
 <word>
 <form xml:lang=""lat"">marco</form>
 <entry>
@@ -528,7 +528,7 @@
 </word>
 </words>
 "
-14,14,caes0009.xml,15,4,4,augusto,la,0,augusto,N,abl,Augustus,"<words>
+14,14,caes0009.xml,15,4,4,augusto,la,0,augusto,N,abl,augustus,"<words>
 <word>
 <form xml:lang=""lat"">augusto</form>
 <entry>
@@ -598,7 +598,7 @@
 <unknown xml:lang=""lat"">arbaeus</unknown>
 </words>
 "
-16,16,caes0009.xml,17,5,5,africanus,la,0,africanus,ADJ,,Africanus,"<words>
+16,16,caes0009.xml,17,5,5,africanus,la,0,africanus,ADJ,,africanus,"<words>
 <unknown xml:lang=""lat"">africanus</unknown>
 </words>
 "

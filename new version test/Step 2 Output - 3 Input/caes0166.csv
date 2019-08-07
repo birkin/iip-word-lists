@@ -1,9 +1,8 @@
 ,Text,Word Number,Line Start,Line End,Normalized,Language,Number,POS Tagger Word,Part of Speech,Part of Speech (Secondary Info),POS Tagger Lemma
 0,caes0166.xml,1,1,1,τώπος,grc,0,,,,
 1,caes0166.xml,2,2,2,ἰσιδώρου,grc,0,,,,
-2,caes0166.xml,3,3,3,θεωδώρ­,grc,0,,,,
+2,caes0166.xml,3,3,4,θεωδώρ,grc,0,,,,
 3,caes0166.xml,4,4,4,ου,grc,0,,,,
 4,caes0166.xml,5,4,4,ἰάκω,grc,0,,,,
-5,caes0166.xml,6,4,4,δώ­,grc,0,,,,
-6,caes0166.xml,7,5,5,θη,grc,0,,,,
-7,caes0166.xml,8,5,5,ἁζάνα,grc,0,,,,
+5,caes0166.xml,6,4,5,δώθη,grc,0,,,,
+6,caes0166.xml,7,5,5,ἁζάνα,grc,0,,,,

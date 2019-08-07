@@ -1,8 +1,14 @@
 ,Text,Word Number,Line Start,Line End,Normalized,Language,Number,POS Tagger Word,Part of Speech,Part of Speech (Secondary Info),POS Tagger Lemma
-0,caes0044.xml,1,1,1,co,la,0,co,V,IND,co
+0,caes0044.xml,1,1,1,coloniae,la,0,coloniae,N,nom,colonia
 1,caes0044.xml,2,1,1,primae,la,0,primae,ADJ,NUM,unus
 2,caes0044.xml,3,1,1,flaviae,la,0,flaviae,ADJ,,flaviae
-3,caes0044.xml,4,1,1,augustae,la,0,augustae,N,dat,Augusta
-4,caes0044.xml,5,2,2,patra,la,0,patra,V,IMP,patro
-5,caes0044.xml,6,2,2,mater,la,0,mater,N,nom,mater
-6,caes0044.xml,7,2,2,eius,la,0,eius,DET,,is
+3,caes0044.xml,4,1,1,augustae,la,0,augustae,N,nom,augusta
+4,caes0044.xml,5,1,1,caesareae,la,0,caesareae,ADJ,,caesareae
+5,caes0044.xml,6,1,1,ex,la,0,ex,PREP,,ex
+6,caes0044.xml,7,1,1,testamento,la,0,testamento,N,abl,testamentum
+7,caes0044.xml,8,2,2,cleopatra,la,0,cleopatra,N,abl,cleopatra
+8,caes0044.xml,9,2,2,mater,la,0,mater,N,nom,mater
+9,caes0044.xml,10,2,2,eius,la,0,eius,DET,,is
+10,caes0044.xml,11,2,2,es,la,0,es,ESSE,IND,sum
+11,caes0044.xml,12,2,2,facere,la,0,facere,V,INF,facio
+12,caes0044.xml,13,2,2,iussit,la,0,iussit,V,IND,iubeo|jubeo

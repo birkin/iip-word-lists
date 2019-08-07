@@ -1,9 +1,9 @@
 ,Unnamed: 0,Text,Word Number,Line Start,Line End,Normalized,Language,Number,POS Tagger Word,Part of Speech,Part of Speech (Secondary Info),POS Tagger Lemma,Lemmatizer Lemma
-0,0,caes0021.xml,1,1,1,tiberio,la,0,tiberio,N,abl,Tiberius,"<words>
+0,0,caes0021.xml,1,1,1,tiberio,la,0,tiberio,N,abl,tiberius,"<words>
 <unknown xml:lang=""lat"">tiberio</unknown>
 </words>
 "
-1,1,caes0021.xml,2,1,1,claudio,la,0,claudio,N,abl,Claudius,"<words>
+1,1,caes0021.xml,2,1,1,claudio,la,0,claudio,N,abl,claudius,"<words>
 <unknown xml:lang=""lat"">claudio</unknown>
 </words>
 "
@@ -141,8 +141,8 @@
 </word>
 </words>
 "
-3,3,caes0021.xml,4,2,2,le,la,0,le,V,IND,le,"<words>
-<unknown xml:lang=""lat"">le</unknown>
+3,3,caes0021.xml,4,2,2,leg,la,0,leg,ABBR,,leg.,"<words>
+<unknown xml:lang=""lat"">leg</unknown>
 </words>
 "
 4,4,caes0021.xml,5,2,2,ionis,la,0,ionis,ADJ,,ionis,"<words>

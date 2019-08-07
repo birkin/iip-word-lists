@@ -65,7 +65,7 @@
 </word>
 </words>
 "
-1,1,caes0013.xml,2,2,2,augusto,la,0,augusto,ADJ,abl,Augustus|augustus,"<words>
+1,1,caes0013.xml,2,2,2,augusto,la,0,augusto,ADJ,abl,augustus|augustus,"<words>
 <word>
 <form xml:lang=""lat"">augusto</form>
 <entry>
@@ -380,11 +380,15 @@
 </word>
 </words>
 "
-8,8,caes0013.xml,9,5,5,assenianus,la,0,assenianus,ADJ,,assenianus,"<words>
+8,8,caes0013.xml,9,5,5,p,la,0,p,ABBR,,p.,"<words>
+<unknown xml:lang=""lat"">p</unknown>
+</words>
+"
+9,9,caes0013.xml,10,5,5,assenianus,la,0,assenianus,ADJ,,assenianus,"<words>
 <unknown xml:lang=""lat"">assenianus</unknown>
 </words>
 "
-9,9,caes0013.xml,10,6,6,vir,la,0,vir,N,nom,vir,"<words>
+10,10,caes0013.xml,11,6,6,vir,la,0,vir,N,nom,vir,"<words>
 <word>
 <form xml:lang=""lat"">vir</form>
 <entry>
@@ -416,7 +420,7 @@
 </word>
 </words>
 "
-10,10,caes0013.xml,11,6,6,clarissimus,la,0,clarissimus,V,IND,clarissimus,"<words>
+11,11,caes0013.xml,12,6,6,clarissimus,la,0,clarissimus,V,IND,clarissimus,"<words>
 <word>
 <form xml:lang=""lat"">clarissimus</form>
 <entry>
@@ -449,11 +453,11 @@
 </word>
 </words>
 "
-11,11,caes0013.xml,12,6,6,praeses,la,0,praeses,N,nom,praeses,"<words>
+12,12,caes0013.xml,13,6,6,praeses,la,0,praeses,N,nom,praeses,"<words>
 <unknown xml:lang=""lat"">praeses</unknown>
 </words>
 "
-12,12,caes0013.xml,13,6,6,provinciae,la,0,provinciae,N,gen,provincia,"<words>
+13,13,caes0013.xml,14,6,6,provinciae,la,0,provinciae,N,gen,provincia,"<words>
 <word>
 <form xml:lang=""lat"">provinciae</form>
 <entry>
@@ -503,19 +507,19 @@
 </word>
 </words>
 "
-13,13,caes0013.xml,14,6,6,syr,la,0,syr,N,nom,syr,"<words>
+14,14,caes0013.xml,15,6,6,syr,la,0,syr,N,nom,syr,"<words>
 <unknown xml:lang=""lat"">syr</unknown>
 </words>
 "
-14,14,caes0013.xml,15,6,6,iae,la,0,iae,V,IND,iae,"<words>
+15,15,caes0013.xml,16,6,6,iae,la,0,iae,V,IND,iae,"<words>
 <unknown xml:lang=""lat"">iae</unknown>
 </words>
 "
-15,15,caes0013.xml,16,7,7,palaestinae,la,0,palaestinae,ADJ,,palaestinae,"<words>
+16,16,caes0013.xml,17,7,7,palaestinae,la,0,palaestinae,ADJ,,palaestinae,"<words>
 <unknown xml:lang=""lat"">palaestinae</unknown>
 </words>
 "
-16,16,caes0013.xml,17,7,7,devotus,la,0,devotus,V,PTC,devoveo,"<words>
+17,17,caes0013.xml,18,7,7,devotus,la,0,devotus,V,PTC,devoveo,"<words>
 <word>
 <form xml:lang=""lat"">devotus</form>
 <entry>
@@ -538,7 +542,7 @@
 </word>
 </words>
 "
-17,17,caes0013.xml,18,7,7,numini,la,0,numini,N,dat,numen,"<words>
+18,18,caes0013.xml,19,7,7,numini,la,0,numini,N,dat,numen,"<words>
 <word>
 <form xml:lang=""lat"">numini</form>
 <entry>
@@ -561,7 +565,7 @@
 </word>
 </words>
 "
-18,18,caes0013.xml,19,7,7,maiestati,la,0,maiestati,N,dat,maiestas,"<words>
+19,19,caes0013.xml,20,7,7,maiestati,la,0,maiestati,N,dat,maiestas,"<words>
 <word>
 <form xml:lang=""lat"">maiestati</form>
 <entry>
@@ -584,11 +588,11 @@
 </word>
 </words>
 "
-19,19,caes0013.xml,20,7,7,qu,la,0,qu,N,dat,qu,"<words>
+20,20,caes0013.xml,21,7,7,qu,la,0,qu,N,dat,qu,"<words>
 <unknown xml:lang=""lat"">qu</unknown>
 </words>
 "
-20,20,caes0013.xml,21,7,7,e,la,0,e,PREP,,e,"<words>
+21,21,caes0013.xml,22,7,7,e,la,0,e,PREP,,e,"<words>
 <word>
 <form xml:lang=""lat"">e</form>
 <entry>
@@ -606,7 +610,7 @@
 </word>
 </words>
 "
-21,21,caes0013.xml,22,7,7,eius,la,0,eius,DET,,is,"<words>
+22,22,caes0013.xml,23,7,7,eius,la,0,eius,DET,,is,"<words>
 <word>
 <form xml:lang=""lat"">eius</form>
 <entry>

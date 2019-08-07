@@ -1,5 +1,6 @@
 ,Text,Word Number,Line Start,Line End,Normalized,Language,Number,POS Tagger Word,Part of Speech,Part of Speech (Secondary Info),POS Tagger Lemma
-0,carm0019.xml,1,2,2,ωρο,grc,0,,,,
-1,carm0019.xml,2,3,3,ς,grc,0,,,,
-2,carm0019.xml,3,3,3,κλη,grc,0,,,,
-3,carm0019.xml,4,4,4,ματήου,grc,0,,,,
+0,carm0019.xml,1,1,1,θεόδ,grc,0,,,,
+1,carm0019.xml,2,2,2,ωρο,grc,0,,,,
+2,carm0019.xml,3,3,3,ς,grc,0,,,,
+3,carm0019.xml,4,3,3,κλη,grc,0,,,,
+4,carm0019.xml,5,4,4,ματήου,grc,0,,,,

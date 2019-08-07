@@ -1,6 +1,7 @@
 Text,Word Number,Line Start,Line End,Normalized,Language,Number
 jaff0012.xml,1,1,1,θήκη,grc,0
 jaff0012.xml,2,1,1,ἰωσ,grc,0
-jaff0012.xml,3,2,2,κὲ,grc,0
-jaff0012.xml,4,2,3,δανιηλου,grc,0
-jaff0012.xml,5,4,4,שלום,grc,0
+jaff0012.xml,3,1,1,η,grc,0
+jaff0012.xml,4,2,2,κὲ,grc,0
+jaff0012.xml,5,2,3,δανιηλου,grc,0
+jaff0012.xml,6,4,4,שלום,grc,0

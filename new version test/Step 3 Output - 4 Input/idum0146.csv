@@ -1,6 +1,6 @@
 ,Unnamed: 0,Text,Word Number,Line Start,Line End,Normalized,Language,Number,POS Tagger Word,Part of Speech,Part of Speech (Secondary Info),POS Tagger Lemma,Lemmatizer Lemma
 0,0,idum0146.xml,1,1,1,נמרו,arc,0,,,,,
-1,1,idum0146.xml,2,1,1,ללעדא,arc,0,,,,,
+1,1,idum0146.xml,2,1,1,ללעדאל,arc,0,,,,,
 2,2,idum0146.xml,3,2,2,מן,arc,0,,,,,
 3,3,idum0146.xml,4,2,2,בני,arc,0,,,,,
 4,4,idum0146.xml,5,2,2,עלבעל,arc,0,,,,,
@@ -10,4 +10,5 @@
 8,8,idum0146.xml,9,4,4,ב,arc,0,,,,,
 9,9,idum0146.xml,10,4,4,9,arc,0,,,,,
 10,10,idum0146.xml,11,5,5,לכסלו,arc,0,,,,,
-11,11,idum0146.xml,12,5,5,נת,arc,0,,,,,
+11,11,idum0146.xml,12,5,5,שנת,arc,0,,,,,
+12,12,idum0146.xml,13,5,5,43,arc,0,,,,,

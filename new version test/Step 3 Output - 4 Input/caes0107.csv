@@ -56,11 +56,11 @@
 </word>
 </words>
 "
-1,1,caes0107.xml,2,1,1,caesari,la,0,caesari,N,dat,Caesar,"<words>
+1,1,caes0107.xml,2,1,1,caesari,la,0,caesari,N,dat,caesar,"<words>
 <unknown xml:lang=""lat"">caesari</unknown>
 </words>
 "
-2,2,caes0107.xml,3,2,2,marco,la,0,marco,N,dat,Marcus,"<words>
+2,2,caes0107.xml,3,2,2,marco,la,0,marco,N,dat,marcus,"<words>
 <word>
 <form xml:lang=""lat"">marco</form>
 <entry>
@@ -92,7 +92,7 @@
 </word>
 </words>
 "
-3,3,caes0107.xml,4,2,2,antonio,la,0,antonio,ADJ,,Antonius,"<words>
+3,3,caes0107.xml,4,2,2,antonio,la,0,antonio,ADJ,,antonius,"<words>
 <unknown xml:lang=""lat"">antonio</unknown>
 </words>
 "
@@ -132,7 +132,7 @@
 </word>
 </words>
 "
-6,6,caes0107.xml,7,4,4,augusti,la,0,augusti,ADJ,,Augustus,"<words>
+6,6,caes0107.xml,7,4,4,augusti,la,0,augusti,ADJ,,augustus,"<words>
 <word>
 <form xml:lang=""lat"">augusti</form>
 <entry>
@@ -181,7 +181,7 @@
 </word>
 </words>
 "
-7,7,caes0107.xml,8,5,5,semproniano,la,0,semproniano,ADJ,abl,Sempronianus,"<words>
+7,7,caes0107.xml,8,5,5,semproniano,la,0,semproniano,ADJ,abl,sempronianus,"<words>
 <unknown xml:lang=""lat"">semproniano</unknown>
 </words>
 "
@@ -189,7 +189,7 @@
 <unknown xml:lang=""lat"">romano</unknown>
 </words>
 "
-9,9,caes0107.xml,10,7,7,africano,la,0,africano,ADJ,abl,Africanus,"<words>
+9,9,caes0107.xml,10,7,7,africano,la,0,africano,ADJ,abl,africanus,"<words>
 <unknown xml:lang=""lat"">africano</unknown>
 </words>
 "
@@ -327,7 +327,7 @@
 </word>
 </words>
 "
-12,12,caes0107.xml,13,8,8,augusto,la,0,augusto,ADJ,,Augustus|augustus,"<words>
+12,12,caes0107.xml,13,8,8,augusto,la,0,augusto,ADJ,,augustus|augustus,"<words>
 <word>
 <form xml:lang=""lat"">augusto</form>
 <entry>

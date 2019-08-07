@@ -133,7 +133,7 @@
 </word>
 </words>
 "
-1,1,caes0020.xml,2,2,2,augusti,la,0,augusti,N,nom,Augustus,"<words>
+1,1,caes0020.xml,2,2,2,augusti,la,0,augusti,N,nom,augustus,"<words>
 <word>
 <form xml:lang=""lat"">augusti</form>
 <entry>
@@ -291,16 +291,16 @@
 </word>
 </words>
 "
-5,5,caes0020.xml,6,3,3,sy,la,0,sy,ADJ,,sy,"<words>
-<unknown xml:lang=""lat"">sy</unknown>
+5,5,caes0020.xml,6,3,3,syr,la,0,syr,N,nom,syr,"<words>
+<unknown xml:lang=""lat"">syr</unknown>
 </words>
 "
 6,6,caes0020.xml,7,3,3,iae,la,0,iae,V,IND,iae,"<words>
 <unknown xml:lang=""lat"">iae</unknown>
 </words>
 "
-7,7,caes0020.xml,8,4,4,alastinae,la,0,alastinae,ADJ,,alastinae,"<words>
-<unknown xml:lang=""lat"">alastinae</unknown>
+7,7,caes0020.xml,8,4,4,palaestinae,la,0,palaestinae,ADJ,,palaestinae,"<words>
+<unknown xml:lang=""lat"">palaestinae</unknown>
 </words>
 "
 8,8,caes0020.xml,9,6,6,victorinus,la,0,victorinus,N,nom,victorinus,"<words>

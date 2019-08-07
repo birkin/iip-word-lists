@@ -1,5 +1,5 @@
 ,Unnamed: 0,Text,Word Number,Line Start,Line End,Normalized,Language,Number,POS Tagger Word,Part of Speech,Part of Speech (Secondary Info),POS Tagger Lemma,Lemmatizer Lemma
-0,0,caes0002.xml,1,1,1,tito,la,0,tito,N,abl,Titus,"<words>
+0,0,caes0002.xml,1,1,1,tito,la,0,tito,N,abl,titus,"<words>
 <unknown xml:lang=""lat"">tito</unknown>
 </words>
 "
@@ -7,7 +7,7 @@
 <unknown xml:lang=""lat"">flavio</unknown>
 </words>
 "
-2,2,caes0002.xml,3,1,1,augusti,la,0,augusti,ADJ,,Augustus,"<words>
+2,2,caes0002.xml,3,1,1,augusti,la,0,augusti,ADJ,,augustus,"<words>
 <word>
 <form xml:lang=""lat"">augusti</form>
 <entry>

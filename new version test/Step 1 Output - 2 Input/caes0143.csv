@@ -1,5 +1,9 @@
 Text,Word Number,Line Start,Line End,Normalized,Language,Number
 caes0143.xml,1,1,1,ἐξουσιάζιν,grc,0
 caes0143.xml,2,1,1,π,grc,0
-caes0143.xml,3,2,2,ἀπογενησ,grc,0
-caes0143.xml,4,3,3,ἐνγὺ,grc,0
+caes0143.xml,3,1,1,ᾶσι,grc,0
+caes0143.xml,4,1,1,τοῖς,grc,0
+caes0143.xml,5,2,2,ἀπογενησ,grc,0
+caes0143.xml,6,2,2,ομένοις,grc,0
+caes0143.xml,7,3,3,ἐνγὺς,grc,0
+caes0143.xml,8,3,3,τεθῆναι,grc,0

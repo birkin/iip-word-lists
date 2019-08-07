@@ -1,9 +1,9 @@
 ,Unnamed: 0,Text,Word Number,Line Start,Line End,Normalized,Language,Number,POS Tagger Word,Part of Speech,Part of Speech (Secondary Info),POS Tagger Lemma,Lemmatizer Lemma
-0,0,idum0059.xml,1,1,1,דיד/רו,arc,0,,,,,
-1,1,idum0059.xml,2,2,2,ני,arc,0,,,,,
+0,0,idum0059.xml,1,1,1,עדיד/רו,arc,0,,,,,
+1,1,idum0059.xml,2,2,2,לבני,arc,0,,,,,
 2,2,idum0059.xml,3,2,2,גורו,arc,0,,,,,
 3,3,idum0059.xml,4,2,2,חביה,arc,0,,,,,
-4,4,idum0059.xml,5,3,3,ביה,arc,0,,,,,
+4,4,idum0059.xml,5,3,3,חביה,arc,0,,,,,
 5,5,idum0059.xml,6,3,3,עשר,arc,0,,,,,
 6,6,idum0059.xml,7,3,3,וחדה,arc,0,,,,,
 7,7,idum0059.xml,8,4,4,ב,arc,0,,,,,

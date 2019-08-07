@@ -1,31 +1,336 @@
 ,Unnamed: 0,Text,Word Number,Line Start,Line End,Normalized,Language,Number,POS Tagger Word,Part of Speech,Part of Speech (Secondary Info),POS Tagger Lemma,Lemmatizer Lemma
-0,0,caes0034.xml,1,1,1,egionis,la,0,egionis,N,nom,egionis,"<words>
-<unknown xml:lang=""lat"">egionis</unknown>
-</words>
-"
-1,1,caes0034.xml,2,2,2,ro,la,0,ro,V,IND,ro,"<words>
+0,0,caes0034.xml,1,1,1,legato,la,0,legato,N,dat,legatum|legatus,"<words>
 <word>
-<form xml:lang=""lat"">ro</form>
+<form xml:lang=""lat"">legato</form>
 <entry>
 <dict>
-<hdwd xml:lang=""lat"">rus</hdwd>
+<hdwd xml:lang=""lat"">legatum</hdwd>
+<pofs order=""3"">noun</pofs>
+<decl>2nd</decl>
+<gend>neuter</gend>
+</dict>
+<infl>
+<term xml:lang=""lat""><stem>le_ga_t</stem><suff>o_</suff></term>
+<pofs order=""3"">noun</pofs>
+<decl>2nd</decl>
+<case order=""3"">ablative</case>
+<gend>neuter</gend>
+<num>singular</num>
+<stemtype>us_i</stemtype>
+</infl>
+<infl>
+<term xml:lang=""lat""><stem>le_ga_t</stem><suff>o_</suff></term>
+<pofs order=""3"">noun</pofs>
+<decl>2nd</decl>
+<case order=""5"">dative</case>
+<gend>neuter</gend>
+<num>singular</num>
+<stemtype>us_i</stemtype>
+</infl>
+</entry>
+<entry>
+<dict>
+<hdwd xml:lang=""lat"">legatus</hdwd>
+<pofs order=""3"">noun</pofs>
+<decl>2nd</decl>
+<gend>masculine</gend>
+</dict>
+<infl>
+<term xml:lang=""lat""><stem>le_ga_t</stem><suff>o_</suff></term>
+<pofs order=""3"">noun</pofs>
+<decl>2nd</decl>
+<case order=""3"">ablative</case>
+<gend>masculine</gend>
+<num>singular</num>
+<stemtype>us_i</stemtype>
+</infl>
+<infl>
+<term xml:lang=""lat""><stem>le_ga_t</stem><suff>o_</suff></term>
+<pofs order=""3"">noun</pofs>
+<decl>2nd</decl>
+<case order=""5"">dative</case>
+<gend>masculine</gend>
+<num>singular</num>
+<stemtype>us_i</stemtype>
+</infl>
+</entry>
+<entry>
+<dict>
+<hdwd xml:lang=""lat"">lego#1</hdwd>
+<pofs order=""1"">verb</pofs>
+</dict>
+<infl>
+<term xml:lang=""lat""><stem>le_g</stem><suff>a_to_</suff></term>
+<pofs order=""1"">verb</pofs>
+<mood>imperative</mood>
+<num>singular</num>
+<pers>3rd</pers>
+<tense>future</tense>
+<voice>active</voice>
+<stemtype>conj1</stemtype>
+<derivtype>are_vb</derivtype>
+</infl>
+<infl>
+<term xml:lang=""lat""><stem>le_g</stem><suff>a_to_</suff></term>
+<pofs order=""1"">verb</pofs>
+<mood>imperative</mood>
+<num>singular</num>
+<pers>2nd</pers>
+<tense>future</tense>
+<voice>active</voice>
+<stemtype>conj1</stemtype>
+<derivtype>are_vb</derivtype>
+</infl>
+<infl>
+<term xml:lang=""lat""><stem>le_ga_t</stem><suff>o_</suff></term>
+<pofs order=""0"">verb participle</pofs>
+<case order=""3"">ablative</case>
+<gend>neuter</gend>
+<mood>participle</mood>
+<num>singular</num>
+<tense>perfect</tense>
+<voice>passive</voice>
+<stemtype>pp4</stemtype>
+<derivtype>are_vb</derivtype>
+</infl>
+<infl>
+<term xml:lang=""lat""><stem>le_ga_t</stem><suff>o_</suff></term>
+<pofs order=""0"">verb participle</pofs>
+<case order=""3"">ablative</case>
+<gend>masculine</gend>
+<mood>participle</mood>
+<num>singular</num>
+<tense>perfect</tense>
+<voice>passive</voice>
+<stemtype>pp4</stemtype>
+<derivtype>are_vb</derivtype>
+</infl>
+<infl>
+<term xml:lang=""lat""><stem>le_ga_t</stem><suff>o_</suff></term>
+<pofs order=""0"">verb participle</pofs>
+<case order=""5"">dative</case>
+<gend>neuter</gend>
+<mood>participle</mood>
+<num>singular</num>
+<tense>perfect</tense>
+<voice>passive</voice>
+<stemtype>pp4</stemtype>
+<derivtype>are_vb</derivtype>
+</infl>
+<infl>
+<term xml:lang=""lat""><stem>le_ga_t</stem><suff>o_</suff></term>
+<pofs order=""0"">verb participle</pofs>
+<case order=""5"">dative</case>
+<gend>masculine</gend>
+<mood>participle</mood>
+<num>singular</num>
+<tense>perfect</tense>
+<voice>passive</voice>
+<stemtype>pp4</stemtype>
+<derivtype>are_vb</derivtype>
+</infl>
+</entry>
+</word>
+</words>
+"
+1,1,caes0034.xml,2,1,1,legionis,la,0,legionis,N,gen,legio,"<words>
+<word>
+<form xml:lang=""lat"">legionis</form>
+<entry>
+<dict>
+<hdwd xml:lang=""lat"">legio</hdwd>
+<pofs order=""3"">noun</pofs>
+<decl>3rd</decl>
+<gend>feminine</gend>
+</dict>
+<infl>
+<term xml:lang=""lat""><stem>legi</stem><suff>o_nis</suff></term>
+<pofs order=""3"">noun</pofs>
+<decl>3rd</decl>
+<case order=""6"">genitive</case>
+<gend>feminine</gend>
+<num>singular</num>
+<stemtype>o_oLnis</stemtype>
+</infl>
+</entry>
+</word>
+</words>
+"
+2,2,caes0034.xml,3,2,2,legato,la,0,legato,N,dat,legatum|legatus,"<words>
+<word>
+<form xml:lang=""lat"">legato</form>
+<entry>
+<dict>
+<hdwd xml:lang=""lat"">legatum</hdwd>
+<pofs order=""3"">noun</pofs>
+<decl>2nd</decl>
+<gend>neuter</gend>
+</dict>
+<infl>
+<term xml:lang=""lat""><stem>le_ga_t</stem><suff>o_</suff></term>
+<pofs order=""3"">noun</pofs>
+<decl>2nd</decl>
+<case order=""3"">ablative</case>
+<gend>neuter</gend>
+<num>singular</num>
+<stemtype>us_i</stemtype>
+</infl>
+<infl>
+<term xml:lang=""lat""><stem>le_ga_t</stem><suff>o_</suff></term>
+<pofs order=""3"">noun</pofs>
+<decl>2nd</decl>
+<case order=""5"">dative</case>
+<gend>neuter</gend>
+<num>singular</num>
+<stemtype>us_i</stemtype>
+</infl>
+</entry>
+<entry>
+<dict>
+<hdwd xml:lang=""lat"">legatus</hdwd>
+<pofs order=""3"">noun</pofs>
+<decl>2nd</decl>
+<gend>masculine</gend>
+</dict>
+<infl>
+<term xml:lang=""lat""><stem>le_ga_t</stem><suff>o_</suff></term>
+<pofs order=""3"">noun</pofs>
+<decl>2nd</decl>
+<case order=""3"">ablative</case>
+<gend>masculine</gend>
+<num>singular</num>
+<stemtype>us_i</stemtype>
+</infl>
+<infl>
+<term xml:lang=""lat""><stem>le_ga_t</stem><suff>o_</suff></term>
+<pofs order=""3"">noun</pofs>
+<decl>2nd</decl>
+<case order=""5"">dative</case>
+<gend>masculine</gend>
+<num>singular</num>
+<stemtype>us_i</stemtype>
+</infl>
+</entry>
+<entry>
+<dict>
+<hdwd xml:lang=""lat"">lego#1</hdwd>
+<pofs order=""1"">verb</pofs>
+</dict>
+<infl>
+<term xml:lang=""lat""><stem>le_g</stem><suff>a_to_</suff></term>
+<pofs order=""1"">verb</pofs>
+<mood>imperative</mood>
+<num>singular</num>
+<pers>3rd</pers>
+<tense>future</tense>
+<voice>active</voice>
+<stemtype>conj1</stemtype>
+<derivtype>are_vb</derivtype>
+</infl>
+<infl>
+<term xml:lang=""lat""><stem>le_g</stem><suff>a_to_</suff></term>
+<pofs order=""1"">verb</pofs>
+<mood>imperative</mood>
+<num>singular</num>
+<pers>2nd</pers>
+<tense>future</tense>
+<voice>active</voice>
+<stemtype>conj1</stemtype>
+<derivtype>are_vb</derivtype>
+</infl>
+<infl>
+<term xml:lang=""lat""><stem>le_ga_t</stem><suff>o_</suff></term>
+<pofs order=""0"">verb participle</pofs>
+<case order=""3"">ablative</case>
+<gend>neuter</gend>
+<mood>participle</mood>
+<num>singular</num>
+<tense>perfect</tense>
+<voice>passive</voice>
+<stemtype>pp4</stemtype>
+<derivtype>are_vb</derivtype>
+</infl>
+<infl>
+<term xml:lang=""lat""><stem>le_ga_t</stem><suff>o_</suff></term>
+<pofs order=""0"">verb participle</pofs>
+<case order=""3"">ablative</case>
+<gend>masculine</gend>
+<mood>participle</mood>
+<num>singular</num>
+<tense>perfect</tense>
+<voice>passive</voice>
+<stemtype>pp4</stemtype>
+<derivtype>are_vb</derivtype>
+</infl>
+<infl>
+<term xml:lang=""lat""><stem>le_ga_t</stem><suff>o_</suff></term>
+<pofs order=""0"">verb participle</pofs>
+<case order=""5"">dative</case>
+<gend>neuter</gend>
+<mood>participle</mood>
+<num>singular</num>
+<tense>perfect</tense>
+<voice>passive</voice>
+<stemtype>pp4</stemtype>
+<derivtype>are_vb</derivtype>
+</infl>
+<infl>
+<term xml:lang=""lat""><stem>le_ga_t</stem><suff>o_</suff></term>
+<pofs order=""0"">verb participle</pofs>
+<case order=""5"">dative</case>
+<gend>masculine</gend>
+<mood>participle</mood>
+<num>singular</num>
+<tense>perfect</tense>
+<voice>passive</voice>
+<stemtype>pp4</stemtype>
+<derivtype>are_vb</derivtype>
+</infl>
+</entry>
+</word>
+</words>
+"
+3,3,caes0034.xml,4,2,2,augusti,la,0,augusti,ADJ,,augustus,"<words>
+<word>
+<form xml:lang=""lat"">augusti</form>
+<entry>
+<dict>
+<hdwd xml:lang=""lat"">augustus#1</hdwd>
 <pofs order=""2"">adjective</pofs>
 <decl>1st &amp; 2nd</decl>
 </dict>
 <infl>
-<term xml:lang=""lat""><stem>r</stem><suff>o_</suff></term>
+<term xml:lang=""lat""><stem>august</stem><suff>i_</suff></term>
 <pofs order=""2"">adjective</pofs>
 <decl>1st &amp; 2nd</decl>
-<case order=""3"">ablative</case>
+<case order=""7"">nominative</case>
 <gend>masculine</gend>
+<num>plural</num>
+<stemtype>us_a_um</stemtype>
+</infl>
+<infl>
+<term xml:lang=""lat""><stem>august</stem><suff>i_</suff></term>
+<pofs order=""2"">adjective</pofs>
+<decl>1st &amp; 2nd</decl>
+<case order=""1"">vocative</case>
+<gend>masculine</gend>
+<num>plural</num>
+<stemtype>us_a_um</stemtype>
+</infl>
+<infl>
+<term xml:lang=""lat""><stem>august</stem><suff>i_</suff></term>
+<pofs order=""2"">adjective</pofs>
+<decl>1st &amp; 2nd</decl>
+<case order=""6"">genitive</case>
+<gend>neuter</gend>
 <num>singular</num>
 <stemtype>us_a_um</stemtype>
 </infl>
 <infl>
-<term xml:lang=""lat""><stem>r</stem><suff>o_</suff></term>
+<term xml:lang=""lat""><stem>august</stem><suff>i_</suff></term>
 <pofs order=""2"">adjective</pofs>
 <decl>1st &amp; 2nd</decl>
-<case order=""5"">dative</case>
+<case order=""6"">genitive</case>
 <gend>masculine</gend>
 <num>singular</num>
 <stemtype>us_a_um</stemtype>
@@ -34,7 +339,43 @@
 </word>
 </words>
 "
-2,2,caes0034.xml,3,2,2,praetore,la,0,praetore,N,abl,praetor,"<words>
+4,4,caes0034.xml,5,2,2,pro,la,0,pro,PREP,,pro,"<words>
+<word>
+<form xml:lang=""lat"">pro</form>
+<entry>
+<dict>
+<hdwd xml:lang=""lat"">pro#1</hdwd>
+<pofs order=""7"">adverb</pofs>
+</dict>
+<infl>
+<term xml:lang=""lat""><stem>pro_</stem></term>
+<pofs order=""7"">adverb</pofs>
+<stemtype>adverb</stemtype>
+<morph>indeclform</morph>
+</infl>
+<infl>
+<term xml:lang=""lat""><stem>pro_</stem></term>
+<pofs order=""6"">preposition</pofs>
+<stemtype>prep</stemtype>
+<morph>indeclform</morph>
+</infl>
+</entry>
+<entry>
+<dict>
+<hdwd xml:lang=""lat"">pro#2</hdwd>
+<pofs order=""0"">exclamation</pofs>
+</dict>
+<infl>
+<term xml:lang=""lat""><stem>pro_</stem></term>
+<pofs order=""0"">exclamation</pofs>
+<stemtype>exclam</stemtype>
+<morph>indeclform</morph>
+</infl>
+</entry>
+</word>
+</words>
+"
+5,5,caes0034.xml,6,2,2,praetore,la,0,praetore,N,abl,praetor,"<words>
 <word>
 <form xml:lang=""lat"">praetore</form>
 <entry>

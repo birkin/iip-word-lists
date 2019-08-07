@@ -49,7 +49,7 @@
 </word>
 </words>
 "
-1,1,caes0051.xml,2,1,1,caesar,la,0,caesar,N,nom,Caesar,"<words>
+1,1,caes0051.xml,2,1,1,caesar,la,0,caesar,N,nom,caesar,"<words>
 <unknown xml:lang=""lat"">caesar</unknown>
 </words>
 "
@@ -57,11 +57,11 @@
 <unknown xml:lang=""lat"">traianus</unknown>
 </words>
 "
-3,3,caes0051.xml,4,3,3,hadrianus,la,0,hadrianus,ADJ,,Hadrianus,"<words>
+3,3,caes0051.xml,4,3,3,hadrianus,la,0,hadrianus,ADJ,,hadrianus,"<words>
 <unknown xml:lang=""lat"">hadrianus</unknown>
 </words>
 "
-4,4,caes0051.xml,5,4,4,augustus,la,0,augustus,N,nom,Augustus,"<words>
+4,4,caes0051.xml,5,4,4,augustus,la,0,augustus,N,nom,augustus,"<words>
 <word>
 <form xml:lang=""lat"">augustus</form>
 <entry>

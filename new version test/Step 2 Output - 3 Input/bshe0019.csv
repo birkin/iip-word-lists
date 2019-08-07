@@ -1,7 +1,7 @@
 ,Text,Word Number,Line Start,Line End,Normalized,Language,Number,POS Tagger Word,Part of Speech,Part of Speech (Secondary Info),POS Tagger Lemma
 0,bshe0019.xml,1,1,1,προσφορὰ,grc,0,,,,
 1,bshe0019.xml,2,1,1,ὑπὲρ,grc,0,,,,
-2,bshe0019.xml,3,1,1,ήμης,grc,0,,,,
+2,bshe0019.xml,3,1,1,μνήμης,grc,0,,,,
 3,bshe0019.xml,4,1,1,καὶ,grc,0,,,,
 4,bshe0019.xml,5,1,1,τελε,grc,0,,,,
 5,bshe0019.xml,6,1,1,ίας,grc,0,,,,
@@ -31,5 +31,7 @@
 29,bshe0019.xml,30,7,7,εὐλογιμένου,grc,0,,,,
 30,bshe0019.xml,31,8,8,αὐτῶν,grc,0,,,,
 31,bshe0019.xml,32,8,8,οἴκου,grc,0,,,,
-32,bshe0019.xml,33,8,8,εὐχων,grc,0,,,,
-33,bshe0019.xml,34,8,8,ἀμήν,grc,0,,,,
+32,bshe0019.xml,33,8,8,εὐχαῖς,grc,0,,,,
+33,bshe0019.xml,34,8,8,τῶν,grc,0,,,,
+34,bshe0019.xml,35,8,8,ἁγίων,grc,0,,,,
+35,bshe0019.xml,36,8,8,ἀμήν,grc,0,,,,

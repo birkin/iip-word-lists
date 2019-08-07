@@ -1,7 +1,7 @@
 ,Unnamed: 0,Text,Word Number,Line Start,Line End,Normalized,Language,Number,POS Tagger Word,Part of Speech,Part of Speech (Secondary Info),POS Tagger Lemma,Lemmatizer Lemma
-0,0,beth0181.xml,1,2,2,ἱερεὺ,grc,0,,,,,
-1,1,beth0181.xml,2,3,3,αβὶ,grc,0,,,,,
-2,2,beth0181.xml,3,3,3,ἱερών,grc,0,,,,,
+0,0,beth0181.xml,1,2,2,ἱερεὺς,grc,0,,,,,
+1,1,beth0181.xml,2,3,3,ῥαβὶ,grc,0,,,,,
+2,2,beth0181.xml,3,3,3,ἱερώνυμος,grc,0,,,,,
 3,3,beth0181.xml,4,4,4,ὧδε,grc,0,,,,,
 4,4,beth0181.xml,5,4,4,κῖτε,grc,0,,,,,
 5,5,beth0181.xml,6,4,4,ἐς,grc,0,,,,,

@@ -1,8 +1,12 @@
 Text,Word Number,Line Start,Line End,Normalized,Language,Number
-mger0388.xml,1,2,2,הכהן,arc,0
-mger0388.xml,2,2,2,ב,arc,0
-mger0388.xml,3,3,3,עליו,arc,0
-mger0388.xml,4,3,3,ועל,arc,0
-mger0388.xml,5,3,3,אשתו,arc,0
-mger0388.xml,6,3,3,פ,arc,0
-mger0388.xml,7,3,3,ניו,arc,0
+mger0388.xml,1,2,2,אשר,arc,0
+mger0388.xml,2,2,2,הקריב,arc,0
+mger0388.xml,3,2,2,הכהן,arc,0
+mger0388.xml,4,2,2,ב,arc,0
+mger0388.xml,5,2,2,נ,arc,0
+mger0388.xml,6,3,3,עליו,arc,0
+mger0388.xml,7,3,3,ועל,arc,0
+mger0388.xml,8,3,3,אשתו,arc,0
+mger0388.xml,9,3,3,פ,arc,0
+mger0388.xml,10,3,3,ועל,arc,0
+mger0388.xml,11,3,3,בניו,arc,0

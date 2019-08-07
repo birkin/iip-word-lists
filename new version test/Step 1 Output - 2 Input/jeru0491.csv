@@ -1,11 +1,11 @@
 Text,Word Number,Line Start,Line End,Normalized,Language,Number
 jeru0491.xml,1,1,1,imperator,la,0
 jeru0491.xml,2,1,1,caesar,la,0
-jeru0491.xml,3,2,2,vespasian,la,0
+jeru0491.xml,3,2,2,vespasianus,la,0
 jeru0491.xml,4,3,3,augustus,la,0
 jeru0491.xml,5,3,3,imperator,la,0
 jeru0491.xml,6,3,3,titus,la,0
-jeru0491.xml,7,3,3,csar,la,0
+jeru0491.xml,7,3,3,caesar,la,0
 jeru0491.xml,8,4,4,vespasianus,la,0
 jeru0491.xml,9,4,4,augustus,la,0
 jeru0491.xml,10,5,5,lucius,la,0

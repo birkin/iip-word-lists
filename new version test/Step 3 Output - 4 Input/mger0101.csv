@@ -1,3 +1,4 @@
 ,Unnamed: 0,Text,Word Number,Line Start,Line End,Normalized,Language,Number,POS Tagger Word,Part of Speech,Part of Speech (Secondary Info),POS Tagger Lemma,Lemmatizer Lemma
-0,0,mger0101.xml,1,1,1,י,arc,0,,,,,
+0,0,mger0101.xml,1,1,1,זי,arc,0,,,,,
 1,1,mger0101.xml,2,1,1,הק,arc,0,,,,,
+2,2,mger0101.xml,3,1,1,רב,arc,0,,,,,

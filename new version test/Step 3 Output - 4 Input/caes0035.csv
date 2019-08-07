@@ -1,6 +1,6 @@
 ,Unnamed: 0,Text,Word Number,Line Start,Line End,Normalized,Language,Number,POS Tagger Word,Part of Speech,Part of Speech (Secondary Info),POS Tagger Lemma,Lemmatizer Lemma
-0,0,caes0035.xml,1,1,1,raciae,la,0,raciae,ADJ,,raciae,"<words>
-<unknown xml:lang=""lat"">raciae</unknown>
+0,0,caes0035.xml,1,1,1,thraciae,la,0,thraciae,ADJ,,thracius,"<words>
+<unknown xml:lang=""lat"">thraciae</unknown>
 </words>
 "
 1,1,caes0035.xml,2,1,1,legato,la,0,legato,N,dat,legatum|legatus,"<words>
@@ -137,7 +137,7 @@
 </word>
 </words>
 "
-2,2,caes0035.xml,3,1,1,augusti,la,0,augusti,ADJ,,Augustus,"<words>
+2,2,caes0035.xml,3,1,1,augusti,la,0,augusti,ADJ,,augustus,"<words>
 <word>
 <form xml:lang=""lat"">augusti</form>
 <entry>
@@ -190,11 +190,30 @@
 <unknown xml:lang=""lat"">l</unknown>
 </words>
 "
-4,4,caes0035.xml,5,2,2,egionis,la,0,egionis,N,nom,egionis,"<words>
-<unknown xml:lang=""lat"">egionis</unknown>
+4,4,caes0035.xml,5,2,2,legionis,la,0,legionis,N,gen,legio,"<words>
+<word>
+<form xml:lang=""lat"">legionis</form>
+<entry>
+<dict>
+<hdwd xml:lang=""lat"">legio</hdwd>
+<pofs order=""3"">noun</pofs>
+<decl>3rd</decl>
+<gend>feminine</gend>
+</dict>
+<infl>
+<term xml:lang=""lat""><stem>legi</stem><suff>o_nis</suff></term>
+<pofs order=""3"">noun</pofs>
+<decl>3rd</decl>
+<case order=""6"">genitive</case>
+<gend>feminine</gend>
+<num>singular</num>
+<stemtype>o_oLnis</stemtype>
+</infl>
+</entry>
+</word>
 </words>
 "
-5,5,caes0035.xml,6,2,2,iii,la,0,iii,ADJ,NUM,III,"<words>
+5,5,caes0035.xml,6,2,2,iii,la,0,iii,ADJ,NUM,iii,"<words>
 <unknown xml:lang=""lat"">iii</unknown>
 </words>
 "
@@ -202,11 +221,30 @@
 <unknown xml:lang=""lat"">cyrenaicae</unknown>
 </words>
 "
-7,7,caes0035.xml,8,2,2,c,la,0,c,ENCL,,c,"<words>
-<unknown xml:lang=""lat"">c</unknown>
+7,7,caes0035.xml,8,2,2,curat,la,0,curat,V,IND,curo,"<words>
+<word>
+<form xml:lang=""lat"">curat</form>
+<entry>
+<dict>
+<hdwd xml:lang=""lat"">curo</hdwd>
+<pofs order=""1"">verb</pofs>
+</dict>
+<infl>
+<term xml:lang=""lat""><stem>cu_r</stem><suff>at</suff></term>
+<pofs order=""1"">verb</pofs>
+<mood>indicative</mood>
+<num>singular</num>
+<pers>3rd</pers>
+<tense>present</tense>
+<voice>active</voice>
+<stemtype>conj1</stemtype>
+<derivtype>are_vb</derivtype>
+</infl>
+</entry>
+</word>
 </words>
 "
-8,8,caes0035.xml,9,2,2,ori,la,0,ori,V,INF,oro,"<words>
+8,8,caes0035.xml,9,2,2,ori,la,0,ori,N,dat,os,"<words>
 <word>
 <form xml:lang=""lat"">ori</form>
 <entry>
@@ -256,6 +294,56 @@
 <num>singular</num>
 <stemtype>irreg_nom3</stemtype>
 <morph>indeclform</morph>
+</infl>
+</entry>
+</word>
+</words>
+"
+9,9,caes0035.xml,10,2,2,viae,la,0,viae,N,gen,via,"<words>
+<word>
+<form xml:lang=""lat"">viae</form>
+<entry>
+<dict>
+<hdwd xml:lang=""lat"">via</hdwd>
+<pofs order=""3"">noun</pofs>
+<decl>1st</decl>
+<gend>feminine</gend>
+</dict>
+<infl>
+<term xml:lang=""lat""><stem>vi</stem><suff>ae</suff></term>
+<pofs order=""3"">noun</pofs>
+<decl>1st</decl>
+<case order=""7"">nominative</case>
+<gend>feminine</gend>
+<num>plural</num>
+<stemtype>a_ae</stemtype>
+</infl>
+<infl>
+<term xml:lang=""lat""><stem>vi</stem><suff>ae</suff></term>
+<pofs order=""3"">noun</pofs>
+<decl>1st</decl>
+<case order=""1"">vocative</case>
+<gend>feminine</gend>
+<num>plural</num>
+<stemtype>a_ae</stemtype>
+</infl>
+<infl>
+<term xml:lang=""lat""><stem>vi</stem><suff>ae</suff></term>
+<pofs order=""3"">noun</pofs>
+<decl>1st</decl>
+<case order=""5"">dative</case>
+<gend>feminine</gend>
+<num>singular</num>
+<stemtype>a_ae</stemtype>
+</infl>
+<infl>
+<term xml:lang=""lat""><stem>vi</stem><suff>ae</suff></term>
+<pofs order=""3"">noun</pofs>
+<decl>1st</decl>
+<case order=""6"">genitive</case>
+<gend>feminine</gend>
+<num>singular</num>
+<stemtype>a_ae</stemtype>
 </infl>
 </entry>
 </word>

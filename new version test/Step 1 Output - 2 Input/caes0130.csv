@@ -1,15 +1,13 @@
 Text,Word Number,Line Start,Line End,Normalized,Language,Number
 caes0130.xml,1,1,1,+,grc,0
 caes0130.xml,2,1,1,ἀπὸ,grc,0
-caes0130.xml,3,1,1,καρ­,grc,0
-caes0130.xml,4,2,2,ποῦ,grc,0
-caes0130.xml,5,2,2,σίτου,grc,0
-caes0130.xml,6,3,3,καὶ,grc,0
-caes0130.xml,7,3,3,οἴνου,grc,0
-caes0130.xml,8,3,3,καὶ,grc,0
-caes0130.xml,9,4,4,ἐλέου,grc,0
-caes0130.xml,10,4,4,αὐτῶν,grc,0
-caes0130.xml,11,5,5,ἐπληθύν­,grc,0
-caes0130.xml,12,6,6,θησαν,grc,0
-caes0130.xml,13,6,6,+,grc,0
-caes0130.xml,14,7,7,+,grc,0
+caes0130.xml,3,1,2,καρποῦ,grc,0
+caes0130.xml,4,2,2,σίτου,grc,0
+caes0130.xml,5,3,3,καὶ,grc,0
+caes0130.xml,6,3,3,οἴνου,grc,0
+caes0130.xml,7,3,3,καὶ,grc,0
+caes0130.xml,8,4,4,ἐλέου,grc,0
+caes0130.xml,9,4,4,αὐτῶν,grc,0
+caes0130.xml,10,5,6,ἐπληθύνθησαν,grc,0
+caes0130.xml,11,6,6,+,grc,0
+caes0130.xml,12,7,7,+,grc,0

@@ -1,14 +1,10 @@
 Text,Word Number,Line Start,Line End,Normalized,Language,Number
 caes0172.xml,1,1,1,μηνόιων,grc,0
-caes0172.xml,2,2,2,διαφέρο­,grc,0
-caes0172.xml,3,3,3,τα,grc,0
-caes0172.xml,4,3,3,κύρᾳ,grc,0
-caes0172.xml,5,4,4,σεβήρᾳ,grc,0
-caes0172.xml,6,4,4,κὰ,grc,0
-caes0172.xml,7,5,5,τῶ,grc,0
-caes0172.xml,8,5,5,αυοὐτῆ­,grc,0
-caes0172.xml,9,6,6,μηκέρω­,grc,0
-caes0172.xml,10,7,7,ν,grc,0
-caes0172.xml,11,7,7,καὶ,grc,0
-caes0172.xml,12,7,7,εἰσ­,grc,0
-caes0172.xml,13,8,8,ίσα,grc,0
+caes0172.xml,2,2,3,διαφέροτα,grc,0
+caes0172.xml,3,3,3,κύρᾳ,grc,0
+caes0172.xml,4,4,4,σεβήρᾳ,grc,0
+caes0172.xml,5,4,4,κὰ,grc,0
+caes0172.xml,6,5,5,τῶ,grc,0
+caes0172.xml,7,5,7,αυοὐτῆμηκέρων,grc,0
+caes0172.xml,8,7,7,καὶ,grc,0
+caes0172.xml,9,7,8,εἰσίσα,grc,0

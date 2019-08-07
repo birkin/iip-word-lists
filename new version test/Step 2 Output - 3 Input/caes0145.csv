@@ -1,6 +1,6 @@
 ,Text,Word Number,Line Start,Line End,Normalized,Language,Number,POS Tagger Word,Part of Speech,Part of Speech (Secondary Info),POS Tagger Lemma
-0,caes0145.xml,1,1,1,tiberio,la,0,tiberio,N,abl,Tiberius
-1,caes0145.xml,2,1,1,claudio,la,0,claudio,N,abl,Claudius
+0,caes0145.xml,1,1,1,tiberio,la,0,tiberio,N,abl,tiberius
+1,caes0145.xml,2,1,1,claudio,la,0,claudio,N,abl,claudius
 2,caes0145.xml,3,1,1,italico,la,0,italico,ADJ,abl,italicus
 3,caes0145.xml,4,1,1,primo,la,0,primo,ADV,,primo
 4,caes0145.xml,5,1,1,pilo,la,0,pilo,V,IND,pilo

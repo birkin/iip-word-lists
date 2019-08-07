@@ -114,7 +114,7 @@
                         <geogFeat type="locus">Found about 70 m. beyond the south-eastern corner of
                            the ancient city wall of Scythopolis.</geogFeat>
                      </placeName>
-                     <!-- check about place vs placeName, also about geographical coordinates if specific enough 
+                     <!-- check about place vs placeName, also   about geographical coordinates if specific enough 
                             was  <place region="Negev" city="Zoora" site="An Naq" locus="cemetery"> -->
                      <p/>
                   </origin>
@@ -178,16 +178,10 @@
                     ΙΝΔsΖΕΤΟΥΣX̅ΚΒ </p>
          </div>
          <div type="edition" subtype="transcription" ana="b1">
-            <p>+ Θεóδωρος ὁ ποιμὴν <lb/>λουτρὰ καινουργῶν νέμε<supplied reason="undefined">ι</supplied>
+            <p>+ Θεόδωρος ὁ ποιμὴν <lb/>λουτρὰ καινουργῶν νέμε<supplied reason="undefined">ι</supplied>
                <lb/>τοῖς τὴν ἄκραν νοσοῦσι τῆς <lb/>λώβης νόσον + <lb/>ἐν
-                            <expan>
-                  <abbr>χρ</abbr>
-                  <ex>όνοις</ex>
-               </expan>
-               <expan>
-                  <abbr>ἰνδ</abbr>
-                  <ex>ικτιῶνος</ex>
-               </expan> ζ΄ <lb/>ἔτους χκβ΄</p>
+                <expan><abbr>χρ</abbr><ex>όνοις</ex></expan>
+               <expan><abbr>ἰνδ</abbr><ex>ικτιῶνος</ex></expan> ζ΄ <lb/>ἔτους χκβ΄</p>
          </div>
          <div type="translation" ana="b1">
             <p>Theodore the shepherd / allots, renewing them, the baths / to those sick with the
@@ -211,4 +205,4 @@
          </div>
       </back>
    </text>
-</TEI>
+</TEI>   

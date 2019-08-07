@@ -25,16 +25,62 @@
 </word>
 </words>
 "
-2,2,caes0033.xml,3,2,2,ovinciae,la,0,ovinciae,ADJ,,ovinciae,"<words>
-<unknown xml:lang=""lat"">ovinciae</unknown>
+2,2,caes0033.xml,3,2,2,provinciae,la,0,provinciae,N,dat,provincia,"<words>
+<word>
+<form xml:lang=""lat"">provinciae</form>
+<entry>
+<dict>
+<hdwd xml:lang=""lat"">provincia</hdwd>
+<pofs order=""3"">noun</pofs>
+<decl>1st</decl>
+<gend>feminine</gend>
+</dict>
+<infl>
+<term xml:lang=""lat""><stem>pro_vinci</stem><suff>ae</suff></term>
+<pofs order=""3"">noun</pofs>
+<decl>1st</decl>
+<case order=""7"">nominative</case>
+<gend>feminine</gend>
+<num>plural</num>
+<stemtype>a_ae</stemtype>
+</infl>
+<infl>
+<term xml:lang=""lat""><stem>pro_vinci</stem><suff>ae</suff></term>
+<pofs order=""3"">noun</pofs>
+<decl>1st</decl>
+<case order=""1"">vocative</case>
+<gend>feminine</gend>
+<num>plural</num>
+<stemtype>a_ae</stemtype>
+</infl>
+<infl>
+<term xml:lang=""lat""><stem>pro_vinci</stem><suff>ae</suff></term>
+<pofs order=""3"">noun</pofs>
+<decl>1st</decl>
+<case order=""5"">dative</case>
+<gend>feminine</gend>
+<num>singular</num>
+<stemtype>a_ae</stemtype>
+</infl>
+<infl>
+<term xml:lang=""lat""><stem>pro_vinci</stem><suff>ae</suff></term>
+<pofs order=""3"">noun</pofs>
+<decl>1st</decl>
+<case order=""6"">genitive</case>
+<gend>feminine</gend>
+<num>singular</num>
+<stemtype>a_ae</stemtype>
+</infl>
+</entry>
+</word>
 </words>
 "
-3,3,caes0033.xml,4,2,2,syriae,la,0,syriae,N,dat,Syria,"<words>
+3,3,caes0033.xml,4,2,2,syriae,la,0,syriae,N,gen,syria,"<words>
 <unknown xml:lang=""lat"">syriae</unknown>
 </words>
 "
-4,4,caes0033.xml,5,2,2,p,la,0,p,ABBR,,p.,"<words>
-<unknown xml:lang=""lat"">p</unknown>
+4,4,caes0033.xml,5,2,2,pal,la,0,pal,N,acc,pal,"<words>
+<unknown xml:lang=""lat"">pal</unknown>
 </words>
 "
 5,5,caes0033.xml,6,2,2,aestinae,la,0,aestinae,ADJ,,aestinae,"<words>

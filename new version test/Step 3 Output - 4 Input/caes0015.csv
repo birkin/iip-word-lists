@@ -65,7 +65,7 @@
 </word>
 </words>
 "
-1,1,caes0015.xml,2,1,1,seio,la,0,seio,ADJ,abl,Seius,"<words>
+1,1,caes0015.xml,2,1,1,seio,la,0,seio,ADJ,abl,seius,"<words>
 <unknown xml:lang=""lat"">seio</unknown>
 </words>
 "
@@ -292,7 +292,7 @@
 </word>
 </words>
 "
-7,7,caes0015.xml,8,2,2,augusti,la,0,augusti,ADJ,,Augustus,"<words>
+7,7,caes0015.xml,8,2,2,augusti,la,0,augusti,ADJ,,augustus,"<words>
 <word>
 <form xml:lang=""lat"">augusti</form>
 <entry>
@@ -450,7 +450,7 @@
 </word>
 </words>
 "
-11,11,caes0015.xml,12,3,3,syriae,la,0,syriae,N,nom,Syria,"<words>
+11,11,caes0015.xml,12,3,3,syriae,la,0,syriae,N,nom,syria,"<words>
 <unknown xml:lang=""lat"">syriae</unknown>
 </words>
 "
@@ -547,7 +547,7 @@
 </word>
 </words>
 "
-15,15,caes0015.xml,16,5,5,cornelii,la,0,cornelii,N,gen,Cornelius,"<words>
+15,15,caes0015.xml,16,5,5,cornelii,la,0,cornelii,N,gen,cornelius,"<words>
 <unknown xml:lang=""lat"">cornelii</unknown>
 </words>
 "

@@ -1,3 +1,4 @@
 ,Text,Word Number,Line Start,Line End,Normalized,Language,Number,POS Tagger Word,Part of Speech,Part of Speech (Secondary Info),POS Tagger Lemma
 0,caes0311.xml,1,1,1,συμώ,grc,0,,,,
-1,caes0311.xml,2,2,2,σκω,grc,0,,,,
+1,caes0311.xml,2,1,1,νου,grc,0,,,,
+2,caes0311.xml,3,2,2,σκω,grc,0,,,,

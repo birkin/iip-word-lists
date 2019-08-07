@@ -1,20 +1,20 @@
 ,Text,Word Number,Line Start,Line End,Normalized,Language,Number,POS Tagger Word,Part of Speech,Part of Speech (Secondary Info),POS Tagger Lemma
 0,caes0015.xml,1,1,1,decimo,la,0,decimo,ADJ,NUM,decem
-1,caes0015.xml,2,1,1,seio,la,0,seio,ADJ,abl,Seius
+1,caes0015.xml,2,1,1,seio,la,0,seio,ADJ,abl,seius
 2,caes0015.xml,3,1,1,decimi,la,0,decimi,ADJ,NUM,decem
 3,caes0015.xml,4,1,1,filio,la,0,filio,N,dat,filius
 4,caes0015.xml,5,1,1,quirina,la,0,quirina,ADJ,,quirina
 5,caes0015.xml,6,1,1,senecae,la,0,senecae,ADJ,,senecae
 6,caes0015.xml,7,2,2,legato,la,0,legato,N,dat,legatum|legatus
-7,caes0015.xml,8,2,2,augusti,la,0,augusti,ADJ,,Augustus
+7,caes0015.xml,8,2,2,augusti,la,0,augusti,ADJ,,augustus
 8,caes0015.xml,9,2,2,pro,la,0,pro,PREP,,pro
 9,caes0015.xml,10,2,2,praetore,la,0,praetore,N,abl,praetor
 10,caes0015.xml,11,2,2,provinciae,la,0,provinciae,N,gen,provincia
-11,caes0015.xml,12,3,3,syriae,la,0,syriae,N,nom,Syria
+11,caes0015.xml,12,3,3,syriae,la,0,syriae,N,nom,syria
 12,caes0015.xml,13,3,3,palaestinae,la,0,palaestinae,ADJ,,palaestinae
 13,caes0015.xml,14,4,4,mandatu,la,0,mandatu,V,SUP,-
 14,caes0015.xml,15,5,5,sexti,la,0,sexti,ADJ,NUM,sex
-15,caes0015.xml,16,5,5,cornelii,la,0,cornelii,N,gen,Cornelius
+15,caes0015.xml,16,5,5,cornelii,la,0,cornelii,N,gen,cornelius
 16,caes0015.xml,17,5,5,quirina,la,0,quirina,ADJ,,quirina
 17,caes0015.xml,18,6,6,taurini,la,0,taurini,ADJ,,taurinus
 18,caes0015.xml,19,6,6,duum,la,0,duum,ADJ,NUM,duo

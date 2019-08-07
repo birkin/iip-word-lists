@@ -1,3 +1,5 @@
 ,Text,Word Number,Line Start,Line End,Normalized,Language,Number,POS Tagger Word,Part of Speech,Part of Speech (Secondary Info),POS Tagger Lemma
-0,khis0090.xml,1,1,1,ἰδίω,grc,0,,,,
-1,khis0090.xml,2,2,2,μαρρ,grc,0,,,,
+0,khis0090.xml,1,1,1,ἐκ,grc,0,,,,
+1,khis0090.xml,2,1,1,τῶν,grc,0,,,,
+2,khis0090.xml,3,1,1,ἰδίων,grc,0,,,,
+3,khis0090.xml,4,2,2,μαρρ,grc,0,,,,

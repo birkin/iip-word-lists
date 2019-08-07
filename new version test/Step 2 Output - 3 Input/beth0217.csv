@@ -1,4 +1,5 @@
 ,Text,Word Number,Line Start,Line End,Normalized,Language,Number,POS Tagger Word,Part of Speech,Part of Speech (Secondary Info),POS Tagger Lemma
-0,beth0217.xml,1,1,1,κεῖτ,grc,0,,,,
-1,beth0217.xml,2,2,2,ος,grc,0,,,,
-2,beth0217.xml,3,2,2,π,grc,0,,,,
+0,beth0217.xml,1,1,1,ἐνθάδε,grc,0,,,,
+1,beth0217.xml,2,1,1,κεῖται,grc,0,,,,
+2,beth0217.xml,3,2,2,ος,grc,0,,,,
+3,beth0217.xml,4,2,2,π,grc,0,,,,

@@ -1,3 +1,6 @@
 Text,Word Number,Line Start,Line End,Normalized,Language,Number
-mger0015.xml,1,1,1,שמרינ,arc,0
-mger0015.xml,2,2,2,ובנוהי,arc,0
+mger0015.xml,1,1,1,<supplied,arc,0
+mger0015.xml,2,1,1,reason=lost>זי,arc,0
+mger0015.xml,3,1,1,הקרבמנ,arc,0
+mger0015.xml,4,1,1,שמרינ,arc,0
+mger0015.xml,5,2,2,ובנוהי,arc,0

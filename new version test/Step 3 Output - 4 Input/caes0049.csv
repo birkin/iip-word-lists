@@ -31,7 +31,7 @@
 </word>
 </words>
 "
-1,1,caes0049.xml,2,1,1,caesare,la,0,caesare,N,abl,Caesar,"<words>
+1,1,caes0049.xml,2,1,1,caesare,la,0,caesare,N,abl,caesar,"<words>
 <unknown xml:lang=""lat"">caesare</unknown>
 </words>
 "
@@ -39,12 +39,74 @@
 <unknown xml:lang=""lat"">traiano</unknown>
 </words>
 "
-3,3,caes0049.xml,4,2,2,hadriano,la,0,hadriano,N,abl,Hadrianus,"<words>
+3,3,caes0049.xml,4,2,2,hadriano,la,0,hadriano,N,abl,hadrianus,"<words>
 <unknown xml:lang=""lat"">hadriano</unknown>
 </words>
 "
-4,4,caes0049.xml,5,2,2,ugusto,la,0,ugusto,V,IND,ugusto,"<words>
-<unknown xml:lang=""lat"">ugusto</unknown>
+4,4,caes0049.xml,5,2,2,augusto,la,0,augusto,ADJ,abl,augustus|augustus,"<words>
+<word>
+<form xml:lang=""lat"">augusto</form>
+<entry>
+<dict>
+<hdwd xml:lang=""lat"">augusto</hdwd>
+<pofs order=""1"">verb</pofs>
+</dict>
+<infl>
+<term xml:lang=""lat""><stem>august</stem><suff>o_</suff></term>
+<pofs order=""1"">verb</pofs>
+<mood>indicative</mood>
+<num>singular</num>
+<pers>1st</pers>
+<tense>present</tense>
+<voice>active</voice>
+<stemtype>conj1</stemtype>
+<derivtype>are_vb</derivtype>
+</infl>
+</entry>
+<entry>
+<dict>
+<hdwd xml:lang=""lat"">augustus#1</hdwd>
+<pofs order=""2"">adjective</pofs>
+<decl>1st &amp; 2nd</decl>
+</dict>
+<infl>
+<term xml:lang=""lat""><stem>august</stem><suff>o_</suff></term>
+<pofs order=""2"">adjective</pofs>
+<decl>1st &amp; 2nd</decl>
+<case order=""3"">ablative</case>
+<gend>neuter</gend>
+<num>singular</num>
+<stemtype>us_a_um</stemtype>
+</infl>
+<infl>
+<term xml:lang=""lat""><stem>august</stem><suff>o_</suff></term>
+<pofs order=""2"">adjective</pofs>
+<decl>1st &amp; 2nd</decl>
+<case order=""3"">ablative</case>
+<gend>masculine</gend>
+<num>singular</num>
+<stemtype>us_a_um</stemtype>
+</infl>
+<infl>
+<term xml:lang=""lat""><stem>august</stem><suff>o_</suff></term>
+<pofs order=""2"">adjective</pofs>
+<decl>1st &amp; 2nd</decl>
+<case order=""5"">dative</case>
+<gend>neuter</gend>
+<num>singular</num>
+<stemtype>us_a_um</stemtype>
+</infl>
+<infl>
+<term xml:lang=""lat""><stem>august</stem><suff>o_</suff></term>
+<pofs order=""2"">adjective</pofs>
+<decl>1st &amp; 2nd</decl>
+<case order=""5"">dative</case>
+<gend>masculine</gend>
+<num>singular</num>
+<stemtype>us_a_um</stemtype>
+</infl>
+</entry>
+</word>
 </words>
 "
 5,5,caes0049.xml,6,3,3,vexillatio,la,0,vexillatio,N,nom,vexillatio,"<words>

@@ -1,5 +1,8 @@
 Text,Word Number,Line Start,Line End,Normalized,Language,Number
-beth0207.xml,1,1,2,μουήλο,grc,0
-beth0207.xml,2,2,3,γερμα,grc,0
-beth0207.xml,3,3,4,ενι,grc,0
-beth0207.xml,4,4,4,οῦ,grc,0
+beth0207.xml,1,1,2,σαμουήλο,grc,0
+beth0207.xml,2,2,2,υ,grc,0
+beth0207.xml,3,2,2,υἱοῦ,grc,0
+beth0207.xml,4,2,3,γερμα,grc,0
+beth0207.xml,5,3,3,νοῦ,grc,0
+beth0207.xml,6,3,4,πενι,grc,0
+beth0207.xml,7,4,4,χροῦ,grc,0
