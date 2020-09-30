@@ -126,7 +126,7 @@ Setup for step3:
 
 ## Running the scripts
 
-To run the scripts, just calling "python [filename]" should be sufficient - running "python [filename] --help" also gives a list of commands
+To run the scripts, just calling "python [filename]" should be sufficient - running "python [filename] --help" also gives a list of commands.
 As of now, the process is incomplete.
 The workflow described here may need to be modified before it is complete, so no script yet exists to run the entire project at once.
 When each step is complete, it is a simple matter to create a shell script that runs all steps in sequence, or runs each step with a file to update and then runs the final step, etc.
