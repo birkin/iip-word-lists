@@ -1,0 +1,8 @@
+Text,Lemma,Language,Edition Type,XML Context,File
+to, to, la, transcription, <p><gap reason="lost" extent="unknown" unit="character"><gap reason="illegible" quantity="4" unit="character"><lb><orig><gap reason="lost" extent="unknown" unit="character">to</gap></orig></lb></gap></gap></p>, /Users/mrhee/iip-word-lists/docs/texts/xml/caes0019.xml
+raes, raes, la, transcription, <p><gap reason="lost" quantity="1" unit="line"><lb><orig><gap reason="lost" extent="unknown" unit="character">raes</gap></orig></lb></gap></p>, /Users/mrhee/iip-word-lists/docs/texts/xml/caes0019.xml
+devotus, de_-voveo, la, transcription, <p><gap reason="lost" quantity="1" unit="line"><lb><gap reason="lost" extent="unknown" unit="character"><supplied reason="lost"><expan><abbr>d</abbr><ex>evotus</ex></expan></supplied></gap></lb></gap></p>, /Users/mrhee/iip-word-lists/docs/texts/xml/caes0019.xml
+numini, numen, la, transcription, <p><supplied reason="lost"><expan><expan><abbr>n</abbr><ex>umini</ex></expan></expan></supplied></p>, /Users/mrhee/iip-word-lists/docs/texts/xml/caes0019.xml
+maiestati, maiestas, la, transcription, <p><supplied reason="lost"><expan><expan><abbr>m</abbr><ex>aiestati</ex></expan></expan></supplied></p>, /Users/mrhee/iip-word-lists/docs/texts/xml/caes0019.xml
+que, que, la, transcription, <p><supplied reason="lost"><expan><expan><abbr>q</abbr><ex>ue</ex></expan></expan></supplied></p>, /Users/mrhee/iip-word-lists/docs/texts/xml/caes0019.xml
+eius, is, la, transcription, <p><expan><expan><abbr>e</abbr><ex>ius</ex></expan></expan></p>, /Users/mrhee/iip-word-lists/docs/texts/xml/caes0019.xml

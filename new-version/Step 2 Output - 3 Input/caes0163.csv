@@ -1,0 +1,4 @@
+,Text,Word Number,Line Start,Line End,Normalized,Language,Number,POS Tagger Word,Part of Speech,Part of Speech (Secondary Info),POS Tagger Lemma
+0,caes0163.xml,1,1,1,bene,la,0,bene,ADV,,bene
+1,caes0163.xml,2,1,1,merenti,la,0,merenti,V,PTC,mereo
+2,caes0163.xml,3,2,2,fecit,la,0,fecit,V,IND,facio

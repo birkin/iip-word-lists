@@ -1,0 +1,12 @@
+,Text,Word Number,Line Start,Line End,Normalized,Language,Number,POS Tagger Word,Part of Speech,Part of Speech (Secondary Info),POS Tagger Lemma
+0,caes0002.xml,1,1,1,tito,la,0,tito,N,abl,titus
+1,caes0002.xml,2,1,1,flavio,la,0,flavio,V,IND,flavio
+2,caes0002.xml,3,1,1,augusti,la,0,augusti,ADJ,,augustus
+3,caes0002.xml,4,1,1,liberto,la,0,liberto,N,abl,libertus
+4,caes0002.xml,5,2,2,honoris,la,0,honoris,N,gen,honor|honos
+5,caes0002.xml,6,2,2,callisto,la,0,callisto,V,IND,callisto
+6,caes0002.xml,7,2,2,causa,la,0,causa,N,nom,causa
+7,caes0002.xml,8,3,3,caius,la,0,caius,ADJ,,caius
+8,caes0002.xml,9,3,3,aurunculeius,la,0,aurunculeius,ADJ,,aurunculeius
+9,caes0002.xml,10,3,3,amico,la,0,amico,N,dat,amicus
+10,caes0002.xml,11,3,3,suo,la,0,suo,POSS,,suus

@@ -1,9 +1,0 @@
-,Unnamed: 0,Text,Word Number,Line Start,Line End,Normalized,Language,Number,POS Tagger Word,Part of Speech,Part of Speech (Secondary Info),POS Tagger Lemma,Lemmatizer Lemma
-0,0,masa0825.xml,1,1,1,cop,la,0,cop,N,nom,cop,"<words>
-<unknown xml:lang=""lat"">cop</unknown>
-</words>
-"
-1,1,masa0825.xml,2,2,2,cumana,la,0,cumana,ADJ,,cumana,"<words>
-<unknown xml:lang=""lat"">cumana</unknown>
-</words>
-"

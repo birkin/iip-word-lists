@@ -1,8 +1,0 @@
-,Text,Word Number,Line Start,Line End,Normalized,Language,Number,POS Tagger Word,Part of Speech,Part of Speech (Secondary Info),POS Tagger Lemma
-0,masa0828.xml,1,1,1,coebal,la,0,coebal,N,voc,coebal
-1,masa0828.xml,2,1,1,p,la,0,p,ABBR,,p.
-2,masa0828.xml,3,1,1,r,la,0,r,ADJ,,r.
-3,masa0828.xml,4,1,1,au,la,0,au,INT,,au
-4,masa0828.xml,5,2,2,ali,la,0,ali,ADJ,,alius
-5,masa0828.xml,6,2,2,gra,la,0,gra,V,IND,gra
-6,masa0828.xml,7,3,3,l,la,0,l,ABBR,,l.

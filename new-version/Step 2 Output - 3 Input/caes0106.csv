@@ -1,0 +1,21 @@
+,Text,Word Number,Line Start,Line End,Normalized,Language,Number,POS Tagger Word,Part of Speech,Part of Speech (Secondary Info),POS Tagger Lemma
+0,caes0106.xml,1,1,1,imperatori,la,0,imperatori,N,dat,imperator
+1,caes0106.xml,2,1,1,caesari,la,0,caesari,N,dat,caesar
+2,caes0106.xml,3,1,1,caio,la,0,caio,V,IND,caio
+3,caes0106.xml,4,2,2,iulio,la,0,iulio,V,IND,iulio
+4,caes0106.xml,5,2,2,vero,la,0,vero,ADV,,vero|verus
+5,caes0106.xml,6,3,3,maximino,la,0,maximino,V,IND,maximino
+6,caes0106.xml,7,3,3,pio,la,0,pio,N,abl,pius
+7,caes0106.xml,8,3,3,felici,la,0,felici,ADJ,abl,felix
+8,caes0106.xml,9,4,4,augusto,la,0,augusto,N,abl,augustus
+9,caes0106.xml,10,4,4,nostro,la,0,nostro,POSS,,noster
+10,caes0106.xml,11,4,4,et,la,0,et,CC,,et
+11,caes0106.xml,12,5,5,gaio,la,0,gaio,N,abl,gaius
+12,caes0106.xml,13,5,5,iulio,la,0,iulio,V,IND,iulio
+13,caes0106.xml,14,5,5,vero,la,0,vero,ADV,,vero|verus
+14,caes0106.xml,15,6,6,maximo,la,0,maximo,ADJ,SUP,magnus|maximus
+15,caes0106.xml,16,7,7,nobilissimo,la,0,nobilissimo,ADJ,SUP,nobilissimo
+16,caes0106.xml,17,8,8,caesari,la,0,caesari,N,dat,caesar
+17,caes0106.xml,18,9,9,filio,la,0,filio,N,dat,filius
+18,caes0106.xml,19,10,10,augusti,la,0,augusti,ADJ,,augustus
+19,caes0106.xml,20,10,10,nostri,la,0,nostri,POSS,,noster

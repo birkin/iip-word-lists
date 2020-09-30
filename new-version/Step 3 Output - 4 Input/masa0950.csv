@@ -1,0 +1,13 @@
+,Unnamed: 0,Text,Word Number,Line Start,Line End,Normalized,Language,Number,POS Tagger Word,Part of Speech,Part of Speech (Secondary Info),POS Tagger Lemma,Lemmatizer Lemma
+0,0,masa0950.xml,1,1,1,m,la,0,m,ABBR,,m.,"<words>
+<unknown xml:lang=""lat"">m</unknown>
+</words>
+"
+1,1,masa0950.xml,2,1,1,octavii,la,0,octavii,ADJ,NUM,octavii,"<words>
+<unknown xml:lang=""lat"">octavii</unknown>
+</words>
+"
+2,2,masa0950.xml,3,2,2,eudemi,la,0,eudemi,V,IND,eudemi,"<words>
+<unknown xml:lang=""lat"">eudemi</unknown>
+</words>
+"

@@ -11,6 +11,7 @@ import cltk
 from kwic import *
 from os import system
 
+
 from alphabet_detector import *
 
 from collections import OrderedDict
@@ -67,7 +68,7 @@ def remove_digits(some_string):
 
 # Latin Lemmatizer (NEW with backoff)
 # Set up training sentences
-rel_path = os.path.join('/Users/christiancasey/cltk_data/latin/model/latin_models_cltk/lemmata/backoff')
+rel_path = os.path.join('/Users/mrhee/cltk_data/latin/model/latin_models_cltk/lemmata/backoff/')
 path = os.path.expanduser(rel_path)
 # Check for presence of latin_pos_lemmatized_sents
 file = 'latin_pos_lemmatized_sents.pickle'
@@ -83,6 +84,10 @@ try:
 	la_lemmatizer = BackoffLatinLemmatizer(latin_pos_lemmatized_sents)
 except:
 	print('Latin lemmatizer not found')
+
+
+latin_corpus_importer = CorpusImporter('latin')
+latin_corpus_importer.import_corpus('latin_models_cltk')
 
 
 # Greek Lemmatizer
@@ -229,7 +234,6 @@ def get_words_from_file(path, file_dict, new_system):
 				new_words[-1].preceding = e.preceding
 				new_words[-1].following = e.following
 				# new_words[-1].language = strLang
-
 				if strLang in LATIN_CODES:
 					tagger = tagLat
 				elif strLang in GREEK_CODES:
@@ -331,6 +335,7 @@ if __name__ == '__main__':
 			if args.fileexception:
 				raise exception
 			else:
+				print(exception)
 				sys.stderr.write("Cannot read " + file + "\n")
 	#endloop
 

@@ -1,0 +1,31 @@
+,Unnamed: 0,Text,Word Number,Line Start,Line End,Normalized,Language,Number,POS Tagger Word,Part of Speech,Part of Speech (Secondary Info),POS Tagger Lemma,Lemmatizer Lemma
+0,0,caes0046.xml,1,3,3,a,la,0,a,PREP,,a,"<words>
+<word>
+<form xml:lang=""lat"">a</form>
+<entry>
+<dict>
+<hdwd xml:lang=""lat"">a</hdwd>
+<pofs order=""0"">exclamation</pofs>
+</dict>
+<infl>
+<term xml:lang=""lat""><stem>a_</stem></term>
+<pofs order=""0"">exclamation</pofs>
+<stemtype>exclam</stemtype>
+<morph>indeclform</morph>
+</infl>
+</entry>
+<entry>
+<dict>
+<hdwd xml:lang=""lat"">ab</hdwd>
+<pofs order=""6"">preposition</pofs>
+</dict>
+<infl>
+<term xml:lang=""lat""><stem>a</stem></term>
+<pofs order=""6"">preposition</pofs>
+<stemtype>prep</stemtype>
+<morph>indeclform</morph>
+</infl>
+</entry>
+</word>
+</words>
+"

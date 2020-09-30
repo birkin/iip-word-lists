@@ -1,0 +1,23 @@
+,Text,Word Number,Line Start,Line End,Normalized,Language,Number,POS Tagger Word,Part of Speech,Part of Speech (Secondary Info),POS Tagger Lemma
+0,caes0018.xml,1,1,1,caio,la,0,caio,V,IND,caio
+1,caes0018.xml,2,1,1,iulio,la,0,iulio,V,IND,iulio
+2,caes0018.xml,3,2,2,titiano,la,0,titiano,ADJ,,titiano
+3,caes0018.xml,4,3,3,legato,la,0,legato,N,dat,legatum|legatus
+4,caes0018.xml,5,3,3,aug,la,0,aug,ADJ,,aug.
+5,caes0018.xml,6,3,3,usti,la,0,usti,V,PTC,uro
+6,caes0018.xml,7,3,3,pro,la,0,pro,PREP,,pro
+7,caes0018.xml,8,3,3,praetore,la,0,praetore,N,abl,praetor
+8,caes0018.xml,9,4,4,syriae,la,0,syriae,N,gen,syria
+9,caes0018.xml,10,4,4,pa,la,0,pa,V,PTC,pa
+10,caes0018.xml,11,4,4,laest,la,0,laest,V,IND,laest
+11,caes0018.xml,12,4,4,inae,la,0,inae,V,IND,inae
+12,caes0018.xml,13,5,5,marcus,la,0,marcus,N,nom,marcus
+13,caes0018.xml,14,5,5,flavius,la,0,flavius,ADJ,,flavius
+14,caes0018.xml,15,5,5,quirina,la,0,quirina,ADJ,,quirina
+15,caes0018.xml,16,6,6,legionis,la,0,legionis,N,gen,legio
+16,caes0018.xml,17,6,6,x,la,0,x,V,IND,x
+17,caes0018.xml,18,6,6,fretensis,la,0,fretensis,ADJ,,fretensis
+18,caes0018.xml,19,8,8,optimo,la,0,optimo,ADJ,SUP,bonus
+19,caes0018.xml,20,8,8,et,la,0,et,CC,,et
+20,caes0018.xml,21,8,8,mer,la,0,mer,V,SUB,mer
+21,caes0018.xml,22,8,8,enti,la,0,enti,N,dat,ens

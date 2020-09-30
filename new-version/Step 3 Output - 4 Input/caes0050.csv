@@ -1,0 +1,32 @@
+,Unnamed: 0,Text,Word Number,Line Start,Line End,Normalized,Language,Number,POS Tagger Word,Part of Speech,Part of Speech (Secondary Info),POS Tagger Lemma,Lemmatizer Lemma
+0,0,caes0050.xml,1,1,1,legionis,la,0,legionis,N,gen,legio,"<words>
+<word>
+<form xml:lang=""lat"">legionis</form>
+<entry>
+<dict>
+<hdwd xml:lang=""lat"">legio</hdwd>
+<pofs order=""3"">noun</pofs>
+<decl>3rd</decl>
+<gend>feminine</gend>
+</dict>
+<infl>
+<term xml:lang=""lat""><stem>legi</stem><suff>o_nis</suff></term>
+<pofs order=""3"">noun</pofs>
+<decl>3rd</decl>
+<case order=""6"">genitive</case>
+<gend>feminine</gend>
+<num>singular</num>
+<stemtype>o_oLnis</stemtype>
+</infl>
+</entry>
+</word>
+</words>
+"
+1,1,caes0050.xml,2,1,1,x,la,0,x,V,IND,x,"<words>
+<unknown xml:lang=""lat"">x</unknown>
+</words>
+"
+2,2,caes0050.xml,3,1,1,fretensis,la,0,fretensis,ADJ,,fretensis,"<words>
+<unknown xml:lang=""lat"">fretensis</unknown>
+</words>
+"

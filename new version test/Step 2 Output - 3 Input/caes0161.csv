@@ -1,5 +1,0 @@
-,Text,Word Number,Line Start,Line End,Normalized,Language,Number,POS Tagger Word,Part of Speech,Part of Speech (Secondary Info),POS Tagger Lemma
-0,caes0161.xml,1,1,1,titiae,la,0,titiae,ADJ,,titius
-1,caes0161.xml,2,1,1,c,la,0,c,ENCL,,c
-2,caes0161.xml,3,2,2,ae,la,0,ae,V,IND,ae
-3,caes0161.xml,4,2,2,uxori,la,0,uxori,N,dat,uxor

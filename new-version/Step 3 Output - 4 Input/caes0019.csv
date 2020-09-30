@@ -1,0 +1,140 @@
+,Unnamed: 0,Text,Word Number,Line Start,Line End,Normalized,Language,Number,POS Tagger Word,Part of Speech,Part of Speech (Secondary Info),POS Tagger Lemma,Lemmatizer Lemma
+0,0,caes0019.xml,1,6,6,devotus,la,0,devotus,V,PTC,devoveo,"<words>
+<word>
+<form xml:lang=""lat"">devotus</form>
+<entry>
+<dict>
+<hdwd xml:lang=""lat"">de_-voveo</hdwd>
+<pofs order=""1"">verb</pofs>
+</dict>
+<infl>
+<term xml:lang=""lat""><stem>de_:vo_t</stem><suff>us</suff></term>
+<pofs order=""0"">verb participle</pofs>
+<case order=""7"">nominative</case>
+<gend>masculine</gend>
+<mood>participle</mood>
+<num>singular</num>
+<tense>perfect</tense>
+<voice>passive</voice>
+<stemtype>pp4</stemtype>
+</infl>
+</entry>
+</word>
+</words>
+"
+1,1,caes0019.xml,2,6,6,numini,la,0,numini,N,dat,numen,"<words>
+<word>
+<form xml:lang=""lat"">numini</form>
+<entry>
+<dict>
+<hdwd xml:lang=""lat"">numen</hdwd>
+<pofs order=""3"">noun</pofs>
+<decl>3rd</decl>
+<gend>neuter</gend>
+</dict>
+<infl>
+<term xml:lang=""lat""><stem>nu_</stem><suff>mi^ni_</suff></term>
+<pofs order=""3"">noun</pofs>
+<decl>3rd</decl>
+<case order=""5"">dative</case>
+<gend>neuter</gend>
+<num>singular</num>
+<stemtype>men_minis</stemtype>
+</infl>
+</entry>
+</word>
+</words>
+"
+2,2,caes0019.xml,3,6,6,maiestati,la,0,maiestati,N,dat,maiestas,"<words>
+<word>
+<form xml:lang=""lat"">maiestati</form>
+<entry>
+<dict>
+<hdwd xml:lang=""lat"">majestas</hdwd>
+<pofs order=""3"">noun</pofs>
+<decl>3rd</decl>
+<gend>feminine</gend>
+</dict>
+<infl>
+<term xml:lang=""lat""><stem>ma_jes</stem><suff>ta_ti_</suff></term>
+<pofs order=""3"">noun</pofs>
+<decl>3rd</decl>
+<case order=""5"">dative</case>
+<gend>feminine</gend>
+<num>singular</num>
+<stemtype>tas_tatis</stemtype>
+</infl>
+</entry>
+</word>
+</words>
+"
+3,3,caes0019.xml,4,6,6,que,la,0,que,CC,,que,"<words>
+<unknown xml:lang=""lat"">que</unknown>
+</words>
+"
+4,4,caes0019.xml,5,6,6,eius,la,0,eius,DET,,is,"<words>
+<word>
+<form xml:lang=""lat"">eius</form>
+<entry>
+<dict>
+<hdwd xml:lang=""lat"">is</hdwd>
+<pofs order=""5"">pronoun</pofs>
+</dict>
+<infl>
+<term xml:lang=""lat""><stem>eius</stem></term>
+<pofs order=""5"">pronoun</pofs>
+<case order=""6"">genitive</case>
+<gend>masculine</gend>
+<num>singular</num>
+<stemtype>pron3</stemtype>
+<morph>indeclform</morph>
+</infl>
+<infl>
+<term xml:lang=""lat""><stem>eius</stem></term>
+<pofs order=""5"">pronoun</pofs>
+<case order=""6"">genitive</case>
+<gend>feminine</gend>
+<num>singular</num>
+<stemtype>pron3</stemtype>
+<morph>indeclform</morph>
+</infl>
+<infl>
+<term xml:lang=""lat""><stem>eius</stem></term>
+<pofs order=""5"">pronoun</pofs>
+<case order=""6"">genitive</case>
+<gend>neuter</gend>
+<num>singular</num>
+<stemtype>pron3</stemtype>
+<morph>indeclform</morph>
+</infl>
+<infl>
+<term xml:lang=""lat""><stem>ejus</stem></term>
+<pofs order=""5"">pronoun</pofs>
+<case order=""6"">genitive</case>
+<gend>masculine</gend>
+<num>singular</num>
+<stemtype>pron3</stemtype>
+<morph>indeclform</morph>
+</infl>
+<infl>
+<term xml:lang=""lat""><stem>ejus</stem></term>
+<pofs order=""5"">pronoun</pofs>
+<case order=""6"">genitive</case>
+<gend>feminine</gend>
+<num>singular</num>
+<stemtype>pron3</stemtype>
+<morph>indeclform</morph>
+</infl>
+<infl>
+<term xml:lang=""lat""><stem>ejus</stem></term>
+<pofs order=""5"">pronoun</pofs>
+<case order=""6"">genitive</case>
+<gend>neuter</gend>
+<num>singular</num>
+<stemtype>pron3</stemtype>
+<morph>indeclform</morph>
+</infl>
+</entry>
+</word>
+</words>
+"

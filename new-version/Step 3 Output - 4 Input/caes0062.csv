@@ -1,0 +1,471 @@
+,Unnamed: 0,Text,Word Number,Line Start,Line End,Normalized,Language,Number,POS Tagger Word,Part of Speech,Part of Speech (Secondary Info),POS Tagger Lemma,Lemmatizer Lemma
+0,0,caes0062.xml,1,1,1,cdo,la,0,cdo,N,dat,cdo,"<words>
+<unknown xml:lang=""lat"">cdo</unknown>
+</words>
+"
+1,1,caes0062.xml,2,1,1,pedes,la,0,pedes,N,acc,pes,"<words>
+<word>
+<form xml:lang=""lat"">pedes</form>
+<entry>
+<dict>
+<hdwd xml:lang=""lat"">pedes</hdwd>
+<pofs order=""3"">noun</pofs>
+<decl>3rd</decl>
+<gend>masculine</gend>
+</dict>
+<infl>
+<term xml:lang=""lat""><stem>ped</stem><suff>es</suff></term>
+<pofs order=""3"">noun</pofs>
+<decl>3rd</decl>
+<case order=""7"">nominative</case>
+<gend>masculine</gend>
+<num>singular</num>
+<stemtype>es_itis</stemtype>
+</infl>
+</entry>
+<entry>
+<dict>
+<hdwd xml:lang=""lat"">pedis</hdwd>
+<pofs order=""3"">noun</pofs>
+<decl>3rd</decl>
+<gend>masculine/feminine</gend>
+</dict>
+<infl>
+<term xml:lang=""lat""><stem>ped</stem><suff>e_s</suff></term>
+<pofs order=""3"">noun</pofs>
+<decl>3rd</decl>
+<case order=""4"">accusative</case>
+<gend>masculine</gend>
+<num>plural</num>
+<stemtype>is_is</stemtype>
+</infl>
+<infl>
+<term xml:lang=""lat""><stem>ped</stem><suff>e_s</suff></term>
+<pofs order=""3"">noun</pofs>
+<decl>3rd</decl>
+<case order=""4"">accusative</case>
+<gend>feminine</gend>
+<num>plural</num>
+<stemtype>is_is</stemtype>
+</infl>
+<infl>
+<term xml:lang=""lat""><stem>ped</stem><suff>e_s</suff></term>
+<pofs order=""3"">noun</pofs>
+<decl>3rd</decl>
+<case order=""7"">nominative</case>
+<gend>masculine</gend>
+<num>plural</num>
+<stemtype>is_is</stemtype>
+</infl>
+<infl>
+<term xml:lang=""lat""><stem>ped</stem><suff>e_s</suff></term>
+<pofs order=""3"">noun</pofs>
+<decl>3rd</decl>
+<case order=""7"">nominative</case>
+<gend>feminine</gend>
+<num>plural</num>
+<stemtype>is_is</stemtype>
+</infl>
+<infl>
+<term xml:lang=""lat""><stem>ped</stem><suff>e_s</suff></term>
+<pofs order=""3"">noun</pofs>
+<decl>3rd</decl>
+<case order=""1"">vocative</case>
+<gend>masculine</gend>
+<num>plural</num>
+<stemtype>is_is</stemtype>
+</infl>
+<infl>
+<term xml:lang=""lat""><stem>ped</stem><suff>e_s</suff></term>
+<pofs order=""3"">noun</pofs>
+<decl>3rd</decl>
+<case order=""1"">vocative</case>
+<gend>feminine</gend>
+<num>plural</num>
+<stemtype>is_is</stemtype>
+</infl>
+</entry>
+<entry>
+<dict>
+<hdwd xml:lang=""lat"">pedo#1</hdwd>
+<pofs order=""1"">verb</pofs>
+</dict>
+<infl>
+<term xml:lang=""lat""><stem>ped</stem><suff>e_s</suff></term>
+<pofs order=""1"">verb</pofs>
+<mood>subjunctive</mood>
+<num>singular</num>
+<pers>2nd</pers>
+<tense>present</tense>
+<voice>active</voice>
+<stemtype>conj1</stemtype>
+<derivtype>are_vb</derivtype>
+</infl>
+</entry>
+<entry>
+<dict>
+<hdwd xml:lang=""lat"">pedo#2</hdwd>
+<pofs order=""1"">verb</pofs>
+</dict>
+<infl>
+<term xml:lang=""lat""><stem>pe_d</stem><suff>e_s</suff></term>
+<pofs order=""1"">verb</pofs>
+<mood>indicative</mood>
+<num>singular</num>
+<pers>2nd</pers>
+<tense>future</tense>
+<voice>active</voice>
+<stemtype>conj3</stemtype>
+</infl>
+</entry>
+<entry>
+<dict>
+<hdwd xml:lang=""lat"">pes</hdwd>
+<pofs order=""3"">noun</pofs>
+<decl>3rd</decl>
+<gend>masculine</gend>
+</dict>
+<infl>
+<term xml:lang=""lat""><stem>pede_s</stem></term>
+<pofs order=""3"">noun</pofs>
+<decl>3rd</decl>
+<case order=""4"">accusative</case>
+<gend>masculine</gend>
+<num>plural</num>
+<stemtype>irreg_nom3</stemtype>
+<morph>indeclform</morph>
+</infl>
+<infl>
+<term xml:lang=""lat""><stem>pede_s</stem></term>
+<pofs order=""3"">noun</pofs>
+<decl>3rd</decl>
+<case order=""7"">nominative</case>
+<gend>masculine</gend>
+<num>plural</num>
+<stemtype>irreg_nom3</stemtype>
+<morph>indeclform</morph>
+</infl>
+<infl>
+<term xml:lang=""lat""><stem>pede_s</stem></term>
+<pofs order=""3"">noun</pofs>
+<decl>3rd</decl>
+<case order=""1"">vocative</case>
+<gend>masculine</gend>
+<num>plural</num>
+<stemtype>irreg_nom3</stemtype>
+<morph>indeclform</morph>
+</infl>
+</entry>
+</word>
+</words>
+"
+2,2,caes0062.xml,3,1,1,xxxii,la,0,xxxii,N,gen,xxxii,"<words>
+<unknown xml:lang=""lat"">xxxii</unknown>
+</words>
+"
+3,3,caes0062.xml,4,2,2,lati,la,0,lati,ADJ,,latus,"<words>
+<word>
+<form xml:lang=""lat"">lati</form>
+<entry>
+<dict>
+<hdwd xml:lang=""lat"">fero</hdwd>
+<pofs order=""1"">verb</pofs>
+</dict>
+<infl>
+<term xml:lang=""lat""><stem>lat</stem><suff>i_</suff></term>
+<pofs order=""0"">verb participle</pofs>
+<case order=""7"">nominative</case>
+<gend>masculine</gend>
+<mood>participle</mood>
+<num>plural</num>
+<tense>perfect</tense>
+<voice>passive</voice>
+<stemtype>pp4</stemtype>
+</infl>
+<infl>
+<term xml:lang=""lat""><stem>lat</stem><suff>i_</suff></term>
+<pofs order=""0"">verb participle</pofs>
+<case order=""1"">vocative</case>
+<gend>masculine</gend>
+<mood>participle</mood>
+<num>plural</num>
+<tense>perfect</tense>
+<voice>passive</voice>
+<stemtype>pp4</stemtype>
+</infl>
+<infl>
+<term xml:lang=""lat""><stem>lat</stem><suff>i_</suff></term>
+<pofs order=""0"">verb participle</pofs>
+<case order=""6"">genitive</case>
+<gend>neuter</gend>
+<mood>participle</mood>
+<num>singular</num>
+<tense>perfect</tense>
+<voice>passive</voice>
+<stemtype>pp4</stemtype>
+</infl>
+<infl>
+<term xml:lang=""lat""><stem>lat</stem><suff>i_</suff></term>
+<pofs order=""0"">verb participle</pofs>
+<case order=""6"">genitive</case>
+<gend>masculine</gend>
+<mood>participle</mood>
+<num>singular</num>
+<tense>perfect</tense>
+<voice>passive</voice>
+<stemtype>pp4</stemtype>
+</infl>
+</entry>
+<entry>
+<dict>
+<hdwd xml:lang=""lat"">latus#1</hdwd>
+<pofs order=""2"">adjective</pofs>
+<decl>1st &amp; 2nd</decl>
+</dict>
+<infl>
+<term xml:lang=""lat""><stem>la_t</stem><suff>i_</suff></term>
+<pofs order=""2"">adjective</pofs>
+<decl>1st &amp; 2nd</decl>
+<case order=""7"">nominative</case>
+<gend>masculine</gend>
+<num>plural</num>
+<stemtype>us_a_um</stemtype>
+</infl>
+<infl>
+<term xml:lang=""lat""><stem>la_t</stem><suff>i_</suff></term>
+<pofs order=""2"">adjective</pofs>
+<decl>1st &amp; 2nd</decl>
+<case order=""1"">vocative</case>
+<gend>masculine</gend>
+<num>plural</num>
+<stemtype>us_a_um</stemtype>
+</infl>
+<infl>
+<term xml:lang=""lat""><stem>la_t</stem><suff>i_</suff></term>
+<pofs order=""2"">adjective</pofs>
+<decl>1st &amp; 2nd</decl>
+<case order=""6"">genitive</case>
+<gend>neuter</gend>
+<num>singular</num>
+<stemtype>us_a_um</stemtype>
+</infl>
+<infl>
+<term xml:lang=""lat""><stem>la_t</stem><suff>i_</suff></term>
+<pofs order=""2"">adjective</pofs>
+<decl>1st &amp; 2nd</decl>
+<case order=""6"">genitive</case>
+<gend>masculine</gend>
+<num>singular</num>
+<stemtype>us_a_um</stemtype>
+</infl>
+</entry>
+<entry>
+<dict>
+<hdwd xml:lang=""lat"">latus#3</hdwd>
+<pofs order=""2"">adjective</pofs>
+<decl>1st &amp; 2nd</decl>
+</dict>
+<infl>
+<term xml:lang=""lat""><stem>la_t</stem><suff>i_</suff></term>
+<pofs order=""2"">adjective</pofs>
+<decl>1st &amp; 2nd</decl>
+<case order=""7"">nominative</case>
+<gend>masculine</gend>
+<num>plural</num>
+<stemtype>us_a_um</stemtype>
+</infl>
+<infl>
+<term xml:lang=""lat""><stem>la_t</stem><suff>i_</suff></term>
+<pofs order=""2"">adjective</pofs>
+<decl>1st &amp; 2nd</decl>
+<case order=""1"">vocative</case>
+<gend>masculine</gend>
+<num>plural</num>
+<stemtype>us_a_um</stemtype>
+</infl>
+<infl>
+<term xml:lang=""lat""><stem>la_t</stem><suff>i_</suff></term>
+<pofs order=""2"">adjective</pofs>
+<decl>1st &amp; 2nd</decl>
+<case order=""6"">genitive</case>
+<gend>neuter</gend>
+<num>singular</num>
+<stemtype>us_a_um</stemtype>
+</infl>
+<infl>
+<term xml:lang=""lat""><stem>la_t</stem><suff>i_</suff></term>
+<pofs order=""2"">adjective</pofs>
+<decl>1st &amp; 2nd</decl>
+<case order=""6"">genitive</case>
+<gend>masculine</gend>
+<num>singular</num>
+<stemtype>us_a_um</stemtype>
+</infl>
+</entry>
+</word>
+</words>
+"
+4,4,caes0062.xml,5,2,2,tudo,la,0,tudo,V,IND,tudo,"<words>
+<unknown xml:lang=""lat"">tudo</unknown>
+</words>
+"
+5,5,caes0062.xml,6,2,2,pedes,la,0,pedes,N,acc,pes,"<words>
+<word>
+<form xml:lang=""lat"">pedes</form>
+<entry>
+<dict>
+<hdwd xml:lang=""lat"">pedes</hdwd>
+<pofs order=""3"">noun</pofs>
+<decl>3rd</decl>
+<gend>masculine</gend>
+</dict>
+<infl>
+<term xml:lang=""lat""><stem>ped</stem><suff>es</suff></term>
+<pofs order=""3"">noun</pofs>
+<decl>3rd</decl>
+<case order=""7"">nominative</case>
+<gend>masculine</gend>
+<num>singular</num>
+<stemtype>es_itis</stemtype>
+</infl>
+</entry>
+<entry>
+<dict>
+<hdwd xml:lang=""lat"">pedis</hdwd>
+<pofs order=""3"">noun</pofs>
+<decl>3rd</decl>
+<gend>masculine/feminine</gend>
+</dict>
+<infl>
+<term xml:lang=""lat""><stem>ped</stem><suff>e_s</suff></term>
+<pofs order=""3"">noun</pofs>
+<decl>3rd</decl>
+<case order=""4"">accusative</case>
+<gend>masculine</gend>
+<num>plural</num>
+<stemtype>is_is</stemtype>
+</infl>
+<infl>
+<term xml:lang=""lat""><stem>ped</stem><suff>e_s</suff></term>
+<pofs order=""3"">noun</pofs>
+<decl>3rd</decl>
+<case order=""4"">accusative</case>
+<gend>feminine</gend>
+<num>plural</num>
+<stemtype>is_is</stemtype>
+</infl>
+<infl>
+<term xml:lang=""lat""><stem>ped</stem><suff>e_s</suff></term>
+<pofs order=""3"">noun</pofs>
+<decl>3rd</decl>
+<case order=""7"">nominative</case>
+<gend>masculine</gend>
+<num>plural</num>
+<stemtype>is_is</stemtype>
+</infl>
+<infl>
+<term xml:lang=""lat""><stem>ped</stem><suff>e_s</suff></term>
+<pofs order=""3"">noun</pofs>
+<decl>3rd</decl>
+<case order=""7"">nominative</case>
+<gend>feminine</gend>
+<num>plural</num>
+<stemtype>is_is</stemtype>
+</infl>
+<infl>
+<term xml:lang=""lat""><stem>ped</stem><suff>e_s</suff></term>
+<pofs order=""3"">noun</pofs>
+<decl>3rd</decl>
+<case order=""1"">vocative</case>
+<gend>masculine</gend>
+<num>plural</num>
+<stemtype>is_is</stemtype>
+</infl>
+<infl>
+<term xml:lang=""lat""><stem>ped</stem><suff>e_s</suff></term>
+<pofs order=""3"">noun</pofs>
+<decl>3rd</decl>
+<case order=""1"">vocative</case>
+<gend>feminine</gend>
+<num>plural</num>
+<stemtype>is_is</stemtype>
+</infl>
+</entry>
+<entry>
+<dict>
+<hdwd xml:lang=""lat"">pedo#1</hdwd>
+<pofs order=""1"">verb</pofs>
+</dict>
+<infl>
+<term xml:lang=""lat""><stem>ped</stem><suff>e_s</suff></term>
+<pofs order=""1"">verb</pofs>
+<mood>subjunctive</mood>
+<num>singular</num>
+<pers>2nd</pers>
+<tense>present</tense>
+<voice>active</voice>
+<stemtype>conj1</stemtype>
+<derivtype>are_vb</derivtype>
+</infl>
+</entry>
+<entry>
+<dict>
+<hdwd xml:lang=""lat"">pedo#2</hdwd>
+<pofs order=""1"">verb</pofs>
+</dict>
+<infl>
+<term xml:lang=""lat""><stem>pe_d</stem><suff>e_s</suff></term>
+<pofs order=""1"">verb</pofs>
+<mood>indicative</mood>
+<num>singular</num>
+<pers>2nd</pers>
+<tense>future</tense>
+<voice>active</voice>
+<stemtype>conj3</stemtype>
+</infl>
+</entry>
+<entry>
+<dict>
+<hdwd xml:lang=""lat"">pes</hdwd>
+<pofs order=""3"">noun</pofs>
+<decl>3rd</decl>
+<gend>masculine</gend>
+</dict>
+<infl>
+<term xml:lang=""lat""><stem>pede_s</stem></term>
+<pofs order=""3"">noun</pofs>
+<decl>3rd</decl>
+<case order=""4"">accusative</case>
+<gend>masculine</gend>
+<num>plural</num>
+<stemtype>irreg_nom3</stemtype>
+<morph>indeclform</morph>
+</infl>
+<infl>
+<term xml:lang=""lat""><stem>pede_s</stem></term>
+<pofs order=""3"">noun</pofs>
+<decl>3rd</decl>
+<case order=""7"">nominative</case>
+<gend>masculine</gend>
+<num>plural</num>
+<stemtype>irreg_nom3</stemtype>
+<morph>indeclform</morph>
+</infl>
+<infl>
+<term xml:lang=""lat""><stem>pede_s</stem></term>
+<pofs order=""3"">noun</pofs>
+<decl>3rd</decl>
+<case order=""1"">vocative</case>
+<gend>masculine</gend>
+<num>plural</num>
+<stemtype>irreg_nom3</stemtype>
+<morph>indeclform</morph>
+</infl>
+</entry>
+</word>
+</words>
+"
+6,6,caes0062.xml,7,2,2,xx,la,0,xx,N,nom,xx,"<words>
+<unknown xml:lang=""lat"">xx</unknown>
+</words>
+"

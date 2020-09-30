@@ -1,0 +1,93 @@
+,Unnamed: 0,Text,Word Number,Line Start,Line End,Normalized,Language,Number,POS Tagger Word,Part of Speech,Part of Speech (Secondary Info),POS Tagger Lemma,Lemmatizer Lemma
+0,0,masa0830.xml,1,1,1,campestris,la,0,campestris,ADJ,,campester|campestris,"<words>
+<word>
+<form xml:lang=""lat"">campestris</form>
+<entry>
+<dict>
+<hdwd xml:lang=""lat"">campester</hdwd>
+<pofs order=""2"">adjective</pofs>
+<decl>3rd</decl>
+</dict>
+<infl>
+<term xml:lang=""lat""><stem>campest</stem><suff>ri_s</suff></term>
+<pofs order=""2"">adjective</pofs>
+<decl>3rd</decl>
+<case order=""4"">accusative</case>
+<gend>masculine</gend>
+<num>plural</num>
+<stemtype>er_ris_re</stemtype>
+</infl>
+<infl>
+<term xml:lang=""lat""><stem>campest</stem><suff>ri_s</suff></term>
+<pofs order=""2"">adjective</pofs>
+<decl>3rd</decl>
+<case order=""4"">accusative</case>
+<gend>feminine</gend>
+<num>plural</num>
+<stemtype>er_ris_re</stemtype>
+</infl>
+<infl>
+<term xml:lang=""lat""><stem>campest</stem><suff>ris</suff></term>
+<pofs order=""2"">adjective</pofs>
+<decl>3rd</decl>
+<case order=""6"">genitive</case>
+<gend>masculine</gend>
+<num>singular</num>
+<stemtype>er_ris_re</stemtype>
+</infl>
+<infl>
+<term xml:lang=""lat""><stem>campest</stem><suff>ris</suff></term>
+<pofs order=""2"">adjective</pofs>
+<decl>3rd</decl>
+<case order=""6"">genitive</case>
+<gend>feminine</gend>
+<num>singular</num>
+<stemtype>er_ris_re</stemtype>
+</infl>
+<infl>
+<term xml:lang=""lat""><stem>campest</stem><suff>ris</suff></term>
+<pofs order=""2"">adjective</pofs>
+<decl>3rd</decl>
+<case order=""6"">genitive</case>
+<gend>neuter</gend>
+<num>singular</num>
+<stemtype>er_ris_re</stemtype>
+</infl>
+</entry>
+<entry>
+<dict>
+<hdwd xml:lang=""lat"">campestre</hdwd>
+<pofs order=""3"">noun</pofs>
+<decl>3rd</decl>
+<gend>neuter</gend>
+</dict>
+<infl>
+<term xml:lang=""lat""><stem>campestr</stem><suff>is</suff></term>
+<pofs order=""3"">noun</pofs>
+<decl>3rd</decl>
+<case order=""6"">genitive</case>
+<gend>neuter</gend>
+<num>singular</num>
+<stemtype>is_is</stemtype>
+</infl>
+</entry>
+<entry>
+<dict>
+<hdwd xml:lang=""lat"">campestres</hdwd>
+<pofs order=""3"">noun</pofs>
+<decl>3rd</decl>
+<gend>masculine</gend>
+</dict>
+<infl>
+<term xml:lang=""lat""><stem>campestr</stem><suff>i_s</suff></term>
+<pofs order=""3"">noun</pofs>
+<decl>3rd</decl>
+<case order=""4"">accusative</case>
+<gend>masculine</gend>
+<num>plural</num>
+<stemtype>is_is</stemtype>
+</infl>
+</entry>
+</word>
+</words>
+"

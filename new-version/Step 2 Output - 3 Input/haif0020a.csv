@@ -1,0 +1,6 @@
+,Text,Word Number,Line Start,Line End,Normalized,Language,Number,POS Tagger Word,Part of Speech,Part of Speech (Secondary Info),POS Tagger Lemma
+0,haif0020a.xml,1,1,1,caius,la,0,caius,ADJ,,caius
+1,haif0020a.xml,2,1,1,votum,la,0,votum,N,nom,votum
+2,haif0020a.xml,3,2,2,hestia,la,0,hestia,ADJ,,hestia
+3,haif0020a.xml,4,3,3,mitia,la,0,mitia,ADJ,,mitis
+4,haif0020a.xml,5,4,4,omnia,la,0,omnia,ADJ,,omnis

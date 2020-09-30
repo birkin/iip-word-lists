@@ -1,7 +1,0 @@
-,Text,Word Number,Line Start,Line End,Normalized,Language,Number,POS Tagger Word,Part of Speech,Part of Speech (Secondary Info),POS Tagger Lemma
-0,caes0034.xml,1,1,1,legato,la,0,legato,N,dat,legatum|legatus
-1,caes0034.xml,2,1,1,legionis,la,0,legionis,N,gen,legio
-2,caes0034.xml,3,2,2,legato,la,0,legato,N,dat,legatum|legatus
-3,caes0034.xml,4,2,2,augusti,la,0,augusti,ADJ,,augustus
-4,caes0034.xml,5,2,2,pro,la,0,pro,PREP,,pro
-5,caes0034.xml,6,2,2,praetore,la,0,praetore,N,abl,praetor

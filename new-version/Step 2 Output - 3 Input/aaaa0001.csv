@@ -1,0 +1,11 @@
+,Text,Word Number,Line Start,Line End,Normalized,Language,Number,POS Tagger Word,Part of Speech,Part of Speech (Secondary Info),POS Tagger Lemma
+0,aaaa0001.xml,1,1,1,nunc,la,0,nunc,ADV,,nunc
+1,aaaa0001.xml,2,1,1,scio,la,0,scio,V,IND,scio
+2,aaaa0001.xml,3,1,1,quid,la,0,quid,PRON,,quis
+3,aaaa0001.xml,4,1,1,sit,la,0,sit,ESSE,SUB,sum
+4,aaaa0001.xml,5,1,1,amor,la,0,amor,N,nom,amor
+5,aaaa0001.xml,6,1,1,puer,la,0,puer,N,nom,puer
+6,aaaa0001.xml,7,1,1,devotus,la,0,devotus,V,PTC,devoveo
+7,aaaa0001.xml,8,1,1,ad,la,0,ad,PREP,,ad
+8,aaaa0001.xml,9,1,1,matrem,la,0,matrem,N,acc,mater
+9,aaaa0001.xml,10,1,1,suam,la,0,suam,POSS,,suus

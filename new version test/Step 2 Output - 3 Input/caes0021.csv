@@ -1,6 +1,0 @@
-,Text,Word Number,Line Start,Line End,Normalized,Language,Number,POS Tagger Word,Part of Speech,Part of Speech (Secondary Info),POS Tagger Lemma
-0,caes0021.xml,1,1,1,tiberio,la,0,tiberio,N,abl,tiberius
-1,caes0021.xml,2,1,1,claudio,la,0,claudio,N,abl,claudius
-2,caes0021.xml,3,2,2,legato,la,0,legato,V,PTC,lego
-3,caes0021.xml,4,2,2,leg,la,0,leg,ABBR,,leg.
-4,caes0021.xml,5,2,2,ionis,la,0,ionis,ADJ,,ionis

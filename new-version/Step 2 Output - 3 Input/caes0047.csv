@@ -1,0 +1,11 @@
+,Text,Word Number,Line Start,Line End,Normalized,Language,Number,POS Tagger Word,Part of Speech,Part of Speech (Secondary Info),POS Tagger Lemma
+0,caes0047.xml,1,1,1,imperatore,la,0,imperatore,N,abl,imperator
+1,caes0047.xml,2,2,2,caesare,la,0,caesare,N,abl,caesar
+2,caes0047.xml,3,2,2,traiano,la,0,traiano,ADJ,abl,traiano
+3,caes0047.xml,4,2,2,hadriano,la,0,hadriano,N,abl,hadrianus
+4,caes0047.xml,5,3,3,augusto,la,0,augusto,ADJ,abl,augustus|augustus
+5,caes0047.xml,6,3,3,vexillatio,la,0,vexillatio,N,nom,vexillatio
+6,caes0047.xml,7,3,3,legionis,la,0,legionis,N,gen,legio
+7,caes0047.xml,8,3,3,ii,la,0,ii,DET,,is
+8,caes0047.xml,9,4,4,traianae,la,0,traianae,ADJ,,traianae
+9,caes0047.xml,10,4,4,fortis,la,0,fortis,ADJ,,fortis

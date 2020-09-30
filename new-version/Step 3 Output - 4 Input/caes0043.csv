@@ -1,0 +1,135 @@
+,Unnamed: 0,Text,Word Number,Line Start,Line End,Normalized,Language,Number,POS Tagger Word,Part of Speech,Part of Speech (Secondary Info),POS Tagger Lemma,Lemmatizer Lemma
+0,0,caes0043.xml,1,1,1,s,la,0,s,V,IND,s,"<words>
+<unknown xml:lang=""lat"">s</unknown>
+</words>
+"
+1,1,caes0043.xml,2,1,1,tiberiéum,la,0,tiberiéum,N,gen,tiberiéum,"<words>
+<unknown xml:lang=""lat"">tiberiéum</unknown>
+</words>
+"
+2,2,caes0043.xml,3,2,2,po,la,0,po,V,IND,po,"<words>
+<unknown xml:lang=""lat"">po</unknown>
+</words>
+"
+3,3,caes0043.xml,4,2,2,ntius,la,0,ntius,ADJ,,ntius,"<words>
+<unknown xml:lang=""lat"">ntius</unknown>
+</words>
+"
+4,4,caes0043.xml,5,2,2,pilatus,la,0,pilatus,ADJ,,pilatus,"<words>
+<word>
+<form xml:lang=""lat"">pilatus</form>
+<entry>
+<dict>
+<hdwd xml:lang=""lat"">pilatus#2</hdwd>
+<pofs order=""2"">adjective</pofs>
+<decl>1st &amp; 2nd</decl>
+</dict>
+<infl>
+<term xml:lang=""lat""><stem>pi_la_t</stem><suff>us</suff></term>
+<pofs order=""2"">adjective</pofs>
+<decl>1st &amp; 2nd</decl>
+<case order=""7"">nominative</case>
+<gend>masculine</gend>
+<num>singular</num>
+<stemtype>us_a_um</stemtype>
+</infl>
+</entry>
+<entry>
+<dict>
+<hdwd xml:lang=""lat"">pilo#1</hdwd>
+<pofs order=""1"">verb</pofs>
+</dict>
+<infl>
+<term xml:lang=""lat""><stem>pi_la_t</stem><suff>us</suff></term>
+<pofs order=""0"">verb participle</pofs>
+<case order=""7"">nominative</case>
+<gend>masculine</gend>
+<mood>participle</mood>
+<num>singular</num>
+<tense>perfect</tense>
+<voice>passive</voice>
+<stemtype>pp4</stemtype>
+<derivtype>are_vb</derivtype>
+</infl>
+</entry>
+<entry>
+<dict>
+<hdwd xml:lang=""lat"">pilo#2</hdwd>
+<pofs order=""1"">verb</pofs>
+</dict>
+<infl>
+<term xml:lang=""lat""><stem>pila_t</stem><suff>us</suff></term>
+<pofs order=""0"">verb participle</pofs>
+<case order=""7"">nominative</case>
+<gend>masculine</gend>
+<mood>participle</mood>
+<num>singular</num>
+<tense>perfect</tense>
+<voice>passive</voice>
+<stemtype>pp4</stemtype>
+<derivtype>are_vb</derivtype>
+</infl>
+</entry>
+</word>
+</words>
+"
+5,5,caes0043.xml,6,3,3,praefectus,la,0,praefectus,N,nom,praefectus,"<words>
+<word>
+<form xml:lang=""lat"">praefectus</form>
+<entry>
+<dict>
+<hdwd xml:lang=""lat"">praefectus</hdwd>
+<pofs order=""3"">noun</pofs>
+<decl>2nd</decl>
+<gend>masculine</gend>
+</dict>
+<infl>
+<term xml:lang=""lat""><stem>praefect</stem><suff>us</suff></term>
+<pofs order=""3"">noun</pofs>
+<decl>2nd</decl>
+<case order=""7"">nominative</case>
+<gend>masculine</gend>
+<num>singular</num>
+<stemtype>us_i</stemtype>
+</infl>
+</entry>
+<entry>
+<dict>
+<hdwd xml:lang=""lat"">praefectus#1</hdwd>
+<pofs order=""2"">adjective</pofs>
+<decl>1st &amp; 2nd</decl>
+</dict>
+<infl>
+<term xml:lang=""lat""><stem>praefect</stem><suff>us</suff></term>
+<pofs order=""2"">adjective</pofs>
+<decl>1st &amp; 2nd</decl>
+<case order=""7"">nominative</case>
+<gend>masculine</gend>
+<num>singular</num>
+<stemtype>us_a_um</stemtype>
+</infl>
+</entry>
+<entry>
+<dict>
+<hdwd xml:lang=""lat"">praeficio</hdwd>
+<pofs order=""1"">verb</pofs>
+</dict>
+<infl>
+<term xml:lang=""lat""><stem>praefect</stem><suff>us</suff></term>
+<pofs order=""0"">verb participle</pofs>
+<case order=""7"">nominative</case>
+<gend>masculine</gend>
+<mood>participle</mood>
+<num>singular</num>
+<tense>perfect</tense>
+<voice>passive</voice>
+<stemtype>pp4</stemtype>
+</infl>
+</entry>
+</word>
+</words>
+"
+6,6,caes0043.xml,7,3,3,iudaeae,la,0,iudaeae,N,gen,iudaea,"<words>
+<unknown xml:lang=""lat"">iudaeae</unknown>
+</words>
+"

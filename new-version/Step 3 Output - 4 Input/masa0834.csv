@@ -1,0 +1,48 @@
+,Unnamed: 0,Text,Word Number,Line Start,Line End,Normalized,Language,Number,POS Tagger Word,Part of Speech,Part of Speech (Secondary Info),POS Tagger Lemma,Lemmatizer Lemma
+0,0,masa0834.xml,1,1,1,servus,la,0,servus,N,nom,servus,"<words>
+<word>
+<form xml:lang=""lat"">servus</form>
+<entry>
+<dict>
+<hdwd xml:lang=""lat"">servus#1</hdwd>
+<pofs order=""2"">adjective</pofs>
+<decl>1st &amp; 2nd</decl>
+</dict>
+<infl>
+<term xml:lang=""lat""><stem>serv</stem><suff>us</suff></term>
+<pofs order=""2"">adjective</pofs>
+<decl>1st &amp; 2nd</decl>
+<case order=""7"">nominative</case>
+<gend>masculine</gend>
+<num>singular</num>
+<stemtype>us_a_um</stemtype>
+</infl>
+</entry>
+<entry>
+<dict>
+<hdwd xml:lang=""lat"">servus#2</hdwd>
+<pofs order=""3"">noun</pofs>
+<decl>2nd</decl>
+<gend>masculine</gend>
+</dict>
+<infl>
+<term xml:lang=""lat""><stem>serv</stem><suff>us</suff></term>
+<pofs order=""3"">noun</pofs>
+<decl>2nd</decl>
+<case order=""7"">nominative</case>
+<gend>masculine</gend>
+<num>singular</num>
+<stemtype>us_i</stemtype>
+</infl>
+</entry>
+</word>
+</words>
+"
+1,1,masa0834.xml,2,1,1,cir,la,0,cir,N,nom,cir,"<words>
+<unknown xml:lang=""lat"">cir</unknown>
+</words>
+"
+2,2,masa0834.xml,3,2,2,lxxv,la,0,lxxv,ADJ,,lxxv,"<words>
+<unknown xml:lang=""lat"">lxxv</unknown>
+</words>
+"

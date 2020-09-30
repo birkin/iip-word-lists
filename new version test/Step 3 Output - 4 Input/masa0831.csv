@@ -1,9 +1,0 @@
-,Unnamed: 0,Text,Word Number,Line Start,Line End,Normalized,Language,Number,POS Tagger Word,Part of Speech,Part of Speech (Secondary Info),POS Tagger Lemma,Lemmatizer Lemma
-0,0,masa0831.xml,1,1,1,c,la,0,c,ABBR,,c.,"<words>
-<unknown xml:lang=""lat"">c</unknown>
-</words>
-"
-1,1,masa0831.xml,2,1,1,nostius,la,0,nostius,V,IND,nostius,"<words>
-<unknown xml:lang=""lat"">nostius</unknown>
-</words>
-"

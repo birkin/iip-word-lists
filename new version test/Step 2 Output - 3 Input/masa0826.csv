@@ -1,6 +1,0 @@
-,Text,Word Number,Line Start,Line End,Normalized,Language,Number,POS Tagger Word,Part of Speech,Part of Speech (Secondary Info),POS Tagger Lemma
-0,masa0826.xml,1,1,1,garum,la,0,garum,N,nom,garum
-1,masa0826.xml,2,3,3,δ,la,0,?,SENT,,?
-2,masa0826.xml,3,4,4,βασιλέως,la,0,????????,N,voc,????????
-3,masa0826.xml,4,5,5,ρο,la,0,??,ADJ,,??
-4,masa0826.xml,5,6,6,amphorae,la,0,amphorae,N,nom,amphora

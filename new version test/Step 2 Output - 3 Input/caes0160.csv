@@ -1,5 +1,0 @@
-,Text,Word Number,Line Start,Line End,Normalized,Language,Number,POS Tagger Word,Part of Speech,Part of Speech (Secondary Info),POS Tagger Lemma
-0,caes0160.xml,1,1,1,dis,la,0,dis,ADJ,,deus
-1,caes0160.xml,2,1,1,manibus,la,0,manibus,N,abl,manis|manus
-2,caes0160.xml,3,2,2,rhodope,la,0,rhodope,N,loc,rhodope
-3,caes0160.xml,4,3,3,coniugi,la,0,coniugi,V,IND,coniugi

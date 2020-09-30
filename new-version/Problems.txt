@@ -1,0 +1,41 @@
+# Problems in Texts
+
+## June 24, 2019
+
+* Greek numbers marked using punctuation rather than the <num> tag
+	e.g. ,εχκθδ’ in caes0109.xml => <num value="5629 1/4">εχκθδ</num> (or something like that)
+	
+* A great many texts have: <p xml:lang="heb">. I believe that this refers to the script? The texts themselves are sometimes in Aramaic (e.g. idum0023.xml). 
+	My solution is to ignore this for now.
+
+* ·C· is not expanded properly in masa0831.xml.
+	Similar in masa0829, masa0828, masa0835, masa0836.
+	
+* We should probably decide on one dot? We have examples of:
+	interpunct, hyphenation point, sdot, bullet, and bullet operator
+	(·, ‧, ⋅, •, ∙)
+	Right now I'm treating them all as word breaks, which seems to be correct for now. As much joy as this brings me, it has the potential to cause problems down the road. I recommend: [‧·⋅•∙] -> ·
+
+* ó in place of ό in bshe001.xml (accented Latin o vs. accented Greek ο) :D
+
+* é in caes0043.xml
+
+* | (and also ⎜) for <lb> (e.g. fiqg0004)
+
+* _ (repeated) for blank line in beth0242
+
+* _F_F_F (for 𐤉𐤉𐤉) in evro0011
+
+* νου ῀ Θεσμο φο ρ ίου in mare0008
+
+* So many random ticks (unjoined accents, breathings, etc.): ‘  ʾ  ʹ  ̒  '  ̔     ˊ  ´  ’
+
+* beth0073 is gibberish but will be treated as a word. There are probably others like this.
+
+* beth0069 what mean "<<<<<<< Local Changes" and ">>>>>>> External Changes"?
+
+* Extra characters that probably shouldn't be in there: \ _ ʾ " ̔ ˊ & $ ‘ 𐅹 * ´ ̒ ­ # | ʹ ͂ ' ? ̢ ’
+I'm going to ignore them for now.
+
+
+

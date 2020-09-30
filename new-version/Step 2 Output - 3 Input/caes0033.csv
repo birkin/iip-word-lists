@@ -1,0 +1,7 @@
+,Text,Word Number,Line Start,Line End,Normalized,Language,Number,POS Tagger Word,Part of Speech,Part of Speech (Secondary Info),POS Tagger Lemma
+0,caes0033.xml,1,1,1,tronio,la,0,tronio,ADJ,,tronio
+1,caes0033.xml,2,1,1,no,la,0,no,V,IND,no
+2,caes0033.xml,3,2,2,provinciae,la,0,provinciae,N,dat,provincia
+3,caes0033.xml,4,2,2,syriae,la,0,syriae,N,gen,syria
+4,caes0033.xml,5,2,2,pal,la,0,pal,N,acc,pal
+5,caes0033.xml,6,2,2,aestinae,la,0,aestinae,ADJ,,aestinae

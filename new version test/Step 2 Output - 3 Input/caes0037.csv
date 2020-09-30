@@ -1,9 +1,0 @@
-,Text,Word Number,Line Start,Line End,Normalized,Language,Number,POS Tagger Word,Part of Speech,Part of Speech (Secondary Info),POS Tagger Lemma
-0,caes0037.xml,1,1,1,cus,la,0,cus,V,IND,cus
-1,caes0037.xml,2,1,1,optimo,la,0,optimo,ADJ,SUP,bonus
-2,caes0037.xml,3,1,1,viro,la,0,viro,N,dat,vir|virum|virus
-3,caes0037.xml,4,1,1,sua,la,0,sua,POSS,,suus
-4,caes0037.xml,5,1,1,de,la,0,de,PREP,,de
-5,caes0037.xml,6,1,1,suo,la,0,suo,POSS,,suus
-6,caes0037.xml,7,1,1,dono,la,0,dono,N,abl,donum
-7,caes0037.xml,8,1,1,dedit,la,0,dedit,V,IND,dedo|do

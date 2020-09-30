@@ -1,9 +1,0 @@
-,Unnamed: 0,Text,Word Number,Line Start,Line End,Normalized,Language,Number,POS Tagger Word,Part of Speech,Part of Speech (Secondary Info),POS Tagger Lemma,Lemmatizer Lemma
-0,0,caes0036.xml,1,2,2,syriae,la,0,syriae,N,nom,syria,"<words>
-<unknown xml:lang=""lat"">syriae</unknown>
-</words>
-"
-1,1,caes0036.xml,2,2,2,palaestinae,la,0,palaestinae,ADJ,,palaestinae,"<words>
-<unknown xml:lang=""lat"">palaestinae</unknown>
-</words>
-"
