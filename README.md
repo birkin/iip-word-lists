@@ -39,7 +39,7 @@ not work.)
     * `plain` contains plain text representations of the inscriptions
     * `plain_lemma` contains the same as above, but using lemmas of each word instead of the actual text as it appeared in the inscription.
   * each language has its own directory containing its data in html format.
-  * `doubletreejs` contains code for the [DoubleTreeJS](http://www.sfs.uni-tuebingen.de/~cculy/software/DoubleTreeJS/index.html) visualization library.
+  * `doubletreejs` contains code for the [DoubleTreeJS](http://linguistics.chrisculy.net/lx/software/DoubleTreeJS/index.html) visualization library.
 * `src` contains the list creation script and the html and css templates for the site.
   * `python` contains the python scripts for processing the data
     * `wordlist.py` is the python script that generates word lists. The basic usage is `./wordlist.py <epidoc files to process>`. By default, the list will be printed to the terminal, other output formats can be specified with flags. Run `./wordlist.py --help` for information on usage.
