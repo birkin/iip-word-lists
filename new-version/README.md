@@ -116,16 +116,17 @@ However, this step is relatively quick, since it is only consolidating data that
   4. [Docker](https://www.docker.com) (for Morpheus-Perseids)
 
 Setup for step 2:
-1. download the TreeTagger, as well as a latin library and the python tree tagger wrapper.
+1. download the TreeTagger, as well as a latin library.
 2. create bin, cmd, and lib directories in the same folder,and check the tree-tagger-latin file for what should be in each folder
 3. in line 23 of step2.py, when specifying the TAGDIR variable to the treetagger, set it to the directory where the bin,cmd, and lib directories are located
 
 Setup for step3:
-1. download PerseusDL/morpheus, Morpheus-Perseids, and Docker from the links above
+1. download PerseusDL/morpheus, Morpheus-Perseids, from the links above
 2. when compiling PerseusDL/morpheus, follow instructions here https://github.com/PerseusDL/morpheus/issues/16 if running make produces an error
 
 ## Running the scripts
 
+To run the scripts, just calling "python [filename]" should be sufficient - running "python [filename] --help" also gives a list of commands
 As of now, the process is incomplete.
 The workflow described here may need to be modified before it is complete, so no script yet exists to run the entire project at once.
 When each step is complete, it is a simple matter to create a shell script that runs all steps in sequence, or runs each step with a file to update and then runs the final step, etc.
