@@ -116,7 +116,7 @@ However, this step is relatively quick, since it is only consolidating data that
   4. [Docker](https://www.docker.com) (for Morpheus-Perseids)
 
 Setup for step 2:
-1. download the TreeTagger, as well as a latin library.
+1. if not already included in the repository or you are working with a different operating system, download the TreeTagger, as well as a latin library.
 2. create bin, cmd, and lib directories in the same folder,and check the tree-tagger-latin file for what should be in each folder
 3. in line 23 of step2.py, when specifying the TAGDIR variable to the treetagger, set it to the directory where the bin,cmd, and lib directories are located
 
