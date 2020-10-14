@@ -122,11 +122,13 @@ Setup for step 2:
 
 Setup for step3:
 1. download PerseusDL/morpheus, Morpheus-Perseids, from the links above
-2. when compiling PerseusDL/morpheus, follow instructions here https://github.com/PerseusDL/morpheus/issues/16 if running make produces an error
+2. for both, follow the links in the readme to compile
+3. when compiling PerseusDL/morpheus, follow instructions here https://github.com/PerseusDL/morpheus/issues/16 if running make produces an error
 
 ## Running the scripts
 
 To run the scripts, just calling "python [filename]" should be sufficient - running "python [filename] --help" also gives a list of commands.
+To change/specify where each step should take its input and output, change strPathIn and strPathOut variable at the beginning of each file.
 As of now, the process is incomplete.
 The workflow described here may need to be modified before it is complete, so no script yet exists to run the entire project at once.
 When each step is complete, it is a simple matter to create a shell script that runs all steps in sequence, or runs each step with a file to update and then runs the final step, etc.
