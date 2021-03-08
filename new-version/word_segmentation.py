@@ -54,7 +54,7 @@ for strTextFullPath in vTextFullPaths:
 
 	# Current parser options clean up redundant namespace declarations and remove patches of whitespace
 	# For more info, see "Parser Options" in: https://lxml.de/parsing.html
-	parser = etree.XMLParser(ns_clean=True, remove_blank_text=True)
+	parser = etree.XMLParser(ns_clean=True, remove_blank_text=False)
 	xmlText = etree.parse(strTextFullPath, parser)
 
 	nsmap = {'tei': "http://www.tei-c.org/ns/1.0"}
@@ -105,9 +105,10 @@ for strTextFullPath in vTextFullPaths:
 
 	words = []
 	edition = copy.deepcopy(x[0])
-	x[0].clear()
+	edition.clear()
+
 	# iterate through both text and element nodes of the <p> element
-	for node in edition.xpath("child::node()"):
+	for node in x[0].xpath("child::node()"):
 
 		# Strategies for segmenting words:
 		if type(node) == etree._ElementUnicodeResult:
@@ -119,14 +120,46 @@ for strTextFullPath in vTextFullPaths:
 			# Add word child elems
 			for word in words:
 				if len(word):
-					word_elem = etree.SubElement(x[0], 'w')
+					word_elem = etree.SubElement(edition, 'w')
 					word_elem.text = word
+					word_elem.tail = " "
 		else:
-			etree.SubElement(x[0], node.tag)
+			node_copy = copy.deepcopy(node)
+
+			if node.tag == '{http://www.tei-c.org/ns/1.0}lb':
+				edition.insert(0, node_copy)
+			elif node.tag == '{http://www.tei-c.org/ns/1.0}expan':
+				# turn it into a word by throwing away all the tags
+				# or could turn it into two words
+
+				# or could ignore and surround it with w
+				edition.insert(0, node_copy)
+
+			elif node.tag == '{http://www.tei-c.org/ns/1.0}choice':
+				# or could ignore and surround it with w
+				edition.insert(0, node_copy)
+
+			elif node.tag == '{http://www.tei-c.org/ns/1.0}abbr':
+				# or could ignore and surround it with w
+				edition.insert(0, node_copy)
+
+			else:
+				edition.insert(0, node_copy)
 
 
+	body = xmlText.find(".//tei:body", namespaces=nsmap)
+	transcription_segmented = etree.SubElement(body, 'div')
+	transcription_segmented.attrib['subtype'] = "transcription_segmented"
+	transcription_segmented.append(edition)
 
-	xmlData = etree.tostring(xmlText, pretty_print=True)
+
+	# Skip it if the text has no textual content,
+	if len(x) < 1:
+		# print('Error in ' + strTextFilename)
+		vFoobarred.append(strTextFilename)
+		continue
+
+	xmlData = etree.tostring(xmlText, pretty_print=False, xml_declaration=True)
 	file = open(strPathOut + os.sep + strTextFilename, "wb")
 	file.write(xmlData)
 

@@ -2,7 +2,7 @@
 <?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng"?>
 <TEI xmlns:xi="http://www.w3.org/2001/XInclude"
      xmlns="http://www.tei-c.org/ns/1.0"
-     xml:id="caes0024"
+     xml:id="anna0003"
      n="iip">
    <teiHeader>
       <fileDesc><!-- ********** <titleStmt> ********** -->
@@ -19,29 +19,31 @@
                   <p>ERROR-could not find publication information which should appear in this space.</p>
                </xi:fallback>
             </xi:include>
-            <idno type="IIP">caes0024</idno>
-            <!--Caes 0024-->
+            <idno type="IIP">anna0003</idno>
+            <!-- Anna 0003 -->
          </publicationStmt>
          <!-- ********* <sourceDesc> ********* -->
          <sourceDesc>
             <msDesc>
                <msIdentifier>
-                  <idno>Caes 0024</idno>
+                  <idno>Anna 0003</idno>
                </msIdentifier>
                <!-- ********* <msContents> ********* -->
                <msContents>
-                  <textLang mainLang="la"/>
-                  <msItem ana="#other_religion" class="#dedicatory">
-                     <p>Caesarea, Date unknown. Column. Dedicatory.</p>
+                  <textLang mainLang="he"/>
+                  <msItem class="#funerary" ana="#jewish">
+                     <p>Wadi an-Nar, Date unknown. Ornamented ossuary in hypogeum. Funerary.</p>
                   </msItem>
                </msContents>
                <!-- ********* <physDesc> ********* -->
                <physDesc><!-- ********* <objectDesc> ********* -->
-                  <objectDesc ana="#column">
+                  <objectDesc ana="#ossuary">
                      <supportDesc>
                         <support>
                            <dimensions type="surface" unit="cm">
-                              <height/>
+                              <height>37</height>
+                              <width atLeast="67" atMost="80"/>
+                              <depth atLeast="28" atMost="29"/>
                            </dimensions>
                         </support>
                         <condition>
@@ -50,14 +52,16 @@
                      </supportDesc>
                      <!-- ********* <layoutDesc> ********* -->
                      <layoutDesc>
-                        <layout columns="1" writtenLines="1">
+                        <layout columns="0" writtenLines="0">
                            <p/>
                         </layout>
                      </layoutDesc>
                   </objectDesc>
                   <!-- ********* <handDesc> ********* -->
                   <handDesc>
-                     <handNote ana="#engraved"/>
+                     <handNote ana="#engraved">
+                        <dimensions type="letter" extent="height" unit="cm" quantity="2"/>
+                     </handNote>
                   </handDesc>
                   <!-- ********* <decoDesc> ********* -->
                   <decoDesc>
@@ -72,13 +76,18 @@
                   <origin>
                      <date period="Unknown">Date Unknown</date>
                      <placeName>
-                        <region>Coastal Plain</region>
-                        <settlement ref="http://pleiades.stoa.org/places/678401">Caesarea</settlement>
-                        <geogName type="site"/>
+                        <region>Judaea</region>
+                        <settlement>Wadi an-Nar<geo>31.666944,35.448333</geo></settlement>
+                        <geogName type="site">Qata</geogName>
+                        <geogFeat type="locus">hypogeum</geogFeat>
                      </placeName>
+                     <p>Judaea. Caves at Wadi-an
+                            Nar. It is situated approximately half an hour to the east before
+                            reaching Bi'r Ayyub, on the right hand side of the Wadi at a spot called
+                            Qata.</p>
                   </origin>
                   <provenance>
-                     <placeName> Unknown </placeName>
+                     <placeName/>
                      <date/>
                   </provenance>
                </history>
@@ -96,12 +105,10 @@
       <profileDesc/>
       <!-- ********* <revisionDesc> ********* -->
       <revisionDesc>
-         <change when="2002-07-29" who="persons.xml#Elizabeth_Bienz"> Creation </change>
-         <change when="2004-06-03" who="persons.xml#Jordan_Rosenblum"> Revision </change>
-         <change when="2004-06-09" who="persons.xml#Jordan_Rosenblum"> Revision </change>
+         <change when="2009-04-14" who="persons.xml#Rachel_Wexler">Creation</change>
          <change when="2016-12-02" who="persons.xml#Elli_Mylonas">Normalized objectDesc/@ana</change>
-         <change when="2016-12-14" who="persons.xml#Elli_Mylonas">Adding Pleiades IDs to origin/placenames</change>
-         <change when="2018-10-05" who="Gaia Lembi">Edited metadata</change>
+         <change when="2016-12-14" who="persons.xml#Elli_Mylonas">Adding geo element with lat long coordinates to settlement
+         </change>
          <change when="2019-01-29" who="persons.xml#Elli_Mylonas">
                 adding period attribute to date element, with Periodo value.
             </change>
@@ -117,48 +124,37 @@
       <body>
          <div type="edition"
               ana="#b1"
+              xml:lang="heb"
               subtype="transcription"
-              xml:id="caes0024.transcription">
-            <p>Flavia Augusta Caesarea</p>
+              xml:id="anna0003.transcription"
+              corresp="#anna0003.translation">
+            <p>ש<unclear>ב</unclear>י בן יהוסף</p>
          </div>
          <div type="translation"
-              xml:id="caes0024.translation"
-              corresp="#caes0024.transcription">
-            <p>
-               <name>
-                  <persName xml:lang="la "
-                            ref="persons.xml#caes0024p01"
-                            nymRef="names.xml#caes0024n01">Flavia </persName>
-                  <persName xml:lang="la "
-                            ref="persons.xml#caes0024p02"
-                            nymRef="names.xml#caes0024n02">Augusta </persName>
-                  <persName xml:lang="la "
-                            ref="persons.xml#caes0024p03"
-                            nymRef="names.xml#caes0024n03">Caesarea </persName>
-               </name>
-            </p>
+              ana="#b1"
+              xml:id="anna0003.translation"
+              corresp="#anna0003.transcription">
+            <p>Shobai son of Yehosef</p>
          </div>
       </body>
       <back>
          <div type="commentary">
-            <p>Fragmentary column. Gorbach reported that it carried the title of the city.</p>
+            <p>The inscribed area is 11 cm long and the height of the letters is about 2 cm. The
+          inscription is on one line on a narrow side of the ossuary. The second letter of the first
+          name in the inscription is not absolutely clear. The ב could be read as מ, which would
+          give the name of Shammai, or שמאי (which is the Talmudic spelling of the name). However,
+          the author is inclined to consider this letter as ב. The cave was discovered during the
+          excavations on Ophel Hill in 1928 by J.W. Crowfoot on behalf of the Palestine Exploration
+          Fund.</p>
          </div>
          <div type="bibliography">
             <listBibl>
                <bibl xml:id="b1">
-                  <ptr type="biblItem" target="IIP-068.xml"/>
-                  <biblScope unit="insc">24</biblScope>
-               </bibl>
-               <bibl xml:id="b2">
-                  <ptr type="biblItem" target="IIP-235.xml"/>
-                  <biblScope unit="page">49</biblScope>
-               </bibl>
-               <bibl xml:id="b3">
-                  <ptr type="biblItem" target="IIP-294.xml"/>
-                  <biblScope unit="page">83</biblScope>
+                  <ptr type="biblItem" target="IIP-151.xml"/>
+                  <biblScope unit="page">26</biblScope>
                </bibl>
             </listBibl>
          </div>
       </back>
    </text>
-</TEI>
+</TEI>   
