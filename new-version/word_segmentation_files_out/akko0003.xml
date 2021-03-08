@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='ASCII'?>
+<?xml version='1.0' encoding='utf-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="akko0003" n="iip">
     <teiHeader>
         <fileDesc>
@@ -125,7 +125,7 @@
                 <p/>
             </div>
             <div type="edition" subtype="transcription" ana="b1">
-                <p>&#7960;&#960;&#8054; &#928;&#945;&#965;<lb break="no"/>&#963;&#945;&#957;&#8055;&#945;</p>
+                <p>Ἐπὶ Παυ<lb break="no"/>σανία</p>
             </div>
             <div type="translation" ana="b1">
                 <p/>
@@ -133,7 +133,7 @@
             <div type="commentary" ana="b1">
                 <p/>
             </div>
-        <div subtype="transcription_segmented"><p><lb break="no"/>&#963;&#945;&#957;&#8055;&#945;<w>&#7960;&#960;&#8054;</w> <w>&#928;&#945;&#965;</w> <w>&#963;&#945;&#957;&#8055;&#945;</w> </p></div></body>
+        <div subtype="transcription_segmented"><p><lb break="no"/>σανία<w>Ἐπὶ</w> <w>Παυ</w> <w>σανία</w> </p></div></body>
         <back>
             <div type="bibliography">
                 <listBibl>

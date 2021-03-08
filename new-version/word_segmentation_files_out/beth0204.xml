@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='ASCII'?>
+<?xml version='1.0' encoding='utf-8'?>
 <?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng"?><TEI xmlns:xi="http://www.w3.org/2001/XInclude" xmlns="http://www.tei-c.org/ns/1.0" xml:id="beth0204" n="iip">
    <teiHeader>
       <fileDesc><!-- ********** <titleStmt> ********** -->
@@ -117,7 +117,7 @@
    <text>
       <body>
          <div type="edition" ana="#b7" xml:lang="grc" subtype="transcription" xml:id="beth0204.transcription" corresp="#beth0204.translation">
-            <p>&#7992;&#945;&#954;&#8060;&#962; &#922;&#945;&#953;&#963;&#945;&#961;&#949;&#8058;&#962;<lb/> &#7936;&#961;&#967;&#953;&#963;&#965;&#957;&#8049;&#947;&#969;<lb break="no"/> &#947;&#959;&#962;, &#928;&#945;&#957;&#966;&#965;&#955;&#8055;<lb break="no"/> &#945;&#962; <foreign xml:lang="heb"> &#1513;&#1500;&#1493;&#1501; </foreign>
+            <p>Ἰακὼς Καισαρεὺς<lb/> ἀρχισυνάγω<lb break="no"/> γος, Πανφυλί<lb break="no"/> ας <foreign xml:lang="heb"> שלום </foreign>
             </p>
          </div>
          <div type="translation" ana="#b7" xml:id="beth0204.translation" corresp="#beth0204.transcription">
@@ -127,8 +127,8 @@
                </rs>, the <rs type="religTitle" ana="interpretations.xml#archisynagogos">head of the
                   synagogue</rs>, of <placeName>Pamphylia</placeName>. <rs type="formula" ana="interpretations.xml#shalom">Shalom</rs>.</p>
          </div>
-      <div subtype="transcription_segmented"><p><foreign xml:lang="heb"> &#1513;&#1500;&#1493;&#1501; </foreign>
-            <lb break="no"/> &#945;&#962; <lb break="no"/> &#947;&#959;&#962;, &#928;&#945;&#957;&#966;&#965;&#955;&#8055;<lb/> &#7936;&#961;&#967;&#953;&#963;&#965;&#957;&#8049;&#947;&#969;<w>&#7992;&#945;&#954;&#8060;&#962;</w> <w>&#922;&#945;&#953;&#963;&#945;&#961;&#949;&#8058;&#962;</w> <w>&#7936;&#961;&#967;&#953;&#963;&#965;&#957;&#8049;&#947;&#969;</w> <w>&#947;&#959;&#962;,</w> <w>&#928;&#945;&#957;&#966;&#965;&#955;&#8055;</w> <w>&#945;&#962;</w> </p></div></body>
+      <div subtype="transcription_segmented"><p><foreign xml:lang="heb"> שלום </foreign>
+            <lb break="no"/> ας <lb break="no"/> γος, Πανφυλί<lb/> ἀρχισυνάγω<w>Ἰακὼς</w> <w>Καισαρεὺς</w> <w>ἀρχισυνάγω</w> <w>γος,</w> <w>Πανφυλί</w> <w>ας</w> </p></div></body>
       <back>
          <div type="bibliography">
             <listBibl>

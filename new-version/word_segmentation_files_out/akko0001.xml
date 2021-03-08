@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='ASCII'?>
+<?xml version='1.0' encoding='utf-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="akko0001" n="iip">
     <teiHeader>
         <fileDesc>
@@ -125,15 +125,15 @@
                 <p/>
             </div>
             <div type="edition" subtype="transcription" ana="b1">
-                <p>&#916;&#945;&#956;&#959;&#954;&#961;&#8049;&#964;&#951;&#962;</p>
+                <p>Δαμοκράτης</p>
             </div>
             <div type="translation" ana="b1">
                 <p/>
             </div>
             <div type="commentary" ana="b1">
-                <p>As the editor notes, the preposition &#7952;&#960;&#8055; is missing.</p>
+                <p>As the editor notes, the preposition ἐπί is missing.</p>
             </div>
-        <div subtype="transcription_segmented"><p><w>&#916;&#945;&#956;&#959;&#954;&#961;&#8049;&#964;&#951;&#962;</w> </p></div></body>
+        <div subtype="transcription_segmented"><p><w>Δαμοκράτης</w> </p></div></body>
         <back>
             <div type="bibliography">
                 <listBibl>

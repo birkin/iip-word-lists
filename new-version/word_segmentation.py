@@ -159,7 +159,7 @@ for strTextFullPath in vTextFullPaths:
 		vFoobarred.append(strTextFilename)
 		continue
 
-	xmlData = etree.tostring(xmlText, pretty_print=False, xml_declaration=True)
+	xmlData = etree.tostring(xmlText, encoding='utf-8', pretty_print=False, xml_declaration=True)
 	file = open(strPathOut + os.sep + strTextFilename, "wb")
 	file.write(xmlData)
 

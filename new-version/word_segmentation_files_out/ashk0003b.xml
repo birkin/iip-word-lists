@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='ASCII'?>
+<?xml version='1.0' encoding='utf-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="ashk0003b" n="iip">
     <teiHeader>
         <fileDesc>
@@ -132,7 +132,7 @@
         <body>
             <div type="edition" subtype="diplomatic" ana="b1">
                 <p>IMPERATO<lb/>RIBUSCAESARI<lb/>BUSFRATRIBUS<lb/>GAIOVALERIO<lb/>DIOCLETIANO<lb/>ETMAUR<lb/>VALERIO<lb/>MAXIMIANO<lb/>PP
-                    FF INUI<lb/>CTISAUGG<lb/>&#913;&#928;&#927; &#913;&#931;&#922;<lb/>&#924;&#921; &#915;</p>
+                    FF INUI<lb/>CTISAUGG<lb/>ΑΠΟ ΑΣΚ<lb/>ΜΙ Γ</p>
             </div>
             <div type="edition" subtype="transcription" ana="b1">
                 <p>Imperatori<lb break="no"/>bus Caesari<lb break="no"/>bus fratribus<lb/>Gaio
@@ -151,12 +151,12 @@
                     <expan><abbr>Aug</abbr><ex>ustis</ex>
                </expan>
                <lb/>
-               <foreign xml:lang="grc">&#7936;&#960;&#8056;
-                                <expan><abbr>&#7944;&#963;&#954;</abbr><ex>&#8049;&#955;&#969;&#957;&#959;&#962;</ex></expan>
+               <foreign xml:lang="grc">ἀπὸ
+                                <expan><abbr>Ἀσκ</abbr><ex>άλωνος</ex></expan>
                </foreign>
                <lb/>
                <foreign xml:lang="grc">
-                  <expan><abbr>&#956;&#8055;</abbr><ex>&#955;&#953;&#945;</ex></expan> <num value="3">&#947;</num>
+                  <expan><abbr>μί</abbr><ex>λια</ex></expan> <num value="3">γ</num>
                </foreign>
             </p>
             </div>
@@ -169,11 +169,11 @@
                 <p/>
             </div>
         <div subtype="transcription_segmented"><p><foreign xml:lang="grc">
-                  <expan><abbr>&#956;&#8055;</abbr><ex>&#955;&#953;&#945;</ex></expan> <num value="3">&#947;</num>
+                  <expan><abbr>μί</abbr><ex>λια</ex></expan> <num value="3">γ</num>
                </foreign>
             <lb/>
-               <foreign xml:lang="grc">&#7936;&#960;&#8056;
-                                <expan><abbr>&#7944;&#963;&#954;</abbr><ex>&#8049;&#955;&#969;&#957;&#959;&#962;</ex></expan>
+               <foreign xml:lang="grc">ἀπὸ
+                                <expan><abbr>Ἀσκ</abbr><ex>άλωνος</ex></expan>
                </foreign>
                <lb/>
                <expan><abbr>Aug</abbr><ex>ustis</ex>

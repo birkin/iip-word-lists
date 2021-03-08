@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='ASCII'?>
+<?xml version='1.0' encoding='utf-8'?>
 <?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng"?><TEI xmlns:xi="http://www.w3.org/2001/XInclude" xmlns="http://www.tei-c.org/ns/1.0" xml:id="abil0001" n="iip">
    <teiHeader>
       <fileDesc><!-- ********** <titleStmt> (birkin edit-test) ********** -->
@@ -115,32 +115,32 @@
    <text>
       <body>
          <div type="edition" ana="#b1" xml:lang="heb" subtype="transcription" xml:id="abil0001.diplomatic" corresp="#abil0001.translation">
-            <p>&#1491;&#1499;&#1497;&#1512; &#1500;<supplied reason="undefined">&#1496;</supplied>
+            <p>דכיר ל<supplied reason="undefined">ט</supplied>
                <gap reason="lost" unit="character" extent="unknown"/>
-               <supplied reason="undefined">&#1489;</supplied>&#1512;<gap reason="lost" unit="character" extent="unknown"/>
-               <supplied reason="undefined">&#1498;</supplied>
+               <supplied reason="undefined">ב</supplied>ר<gap reason="lost" unit="character" extent="unknown"/>
+               <supplied reason="undefined">ך</supplied>
                <lb/>
                <gap reason="lost" unit="character" extent="unknown"/>
-               <unclear>&#1505;&#1491;</unclear>&#1512;&#1497;&#1497; &#1491;&#1492;&#1499;&#1492;<lb/>
-               <supplied reason="lost">&#1491;</supplied>&#1488;&#1514;&#1495;&#1494;&#1511;<lb/>
-               <supplied reason="lost">&#1489;</supplied>&#1491;&#1497;&#1503; &#1514;&#1512;&#1506;&#1492;<lb/> &#1513;&#1500;&#1493;&#1501;</p>
+               <unclear>סד</unclear>ריי דהכה<lb/>
+               <supplied reason="lost">ד</supplied>אתחזק<lb/>
+               <supplied reason="lost">ב</supplied>דין תרעה<lb/> שלום</p>
          </div>
          <div type="translation" ana="#b1" xml:id="abil0001.translation" corresp="#abil0001.diplomatic">
             <p>Remember for good Baruch [?] of Alexandria [?] who here gave and made this gate.
                     Amen, peace.</p>
          </div>
-      <div subtype="transcription_segmented"><p><lb/> &#1513;&#1500;&#1493;&#1501;<supplied reason="lost">&#1489;</supplied>&#1491;&#1497;&#1503; &#1514;&#1512;&#1506;&#1492;<lb/>
-               <supplied reason="lost">&#1491;</supplied>&#1488;&#1514;&#1495;&#1494;&#1511;<lb/>
-               <unclear>&#1505;&#1491;</unclear>&#1512;&#1497;&#1497; &#1491;&#1492;&#1499;&#1492;<gap reason="lost" unit="character" extent="unknown"/>
+      <div subtype="transcription_segmented"><p><lb/> שלום<supplied reason="lost">ב</supplied>דין תרעה<lb/>
+               <supplied reason="lost">ד</supplied>אתחזק<lb/>
+               <unclear>סד</unclear>ריי דהכה<gap reason="lost" unit="character" extent="unknown"/>
                <lb/>
-               <supplied reason="undefined">&#1498;</supplied>
+               <supplied reason="undefined">ך</supplied>
                <gap reason="lost" unit="character" extent="unknown"/>
-               <supplied reason="undefined">&#1489;</supplied>&#1512;<gap reason="lost" unit="character" extent="unknown"/>
-               <supplied reason="undefined">&#1496;</supplied>
-               <w>&#1491;&#1499;&#1497;&#1512;</w> <w>&#1500;</w> <w>&#1512;</w> <w>&#1512;&#1497;&#1497;</w> <w>&#1491;&#1492;&#1499;&#1492;</w> <w>&#1488;&#1514;&#1495;&#1494;&#1511;</w> <w>&#1491;&#1497;&#1503;</w> <w>&#1514;&#1512;&#1506;&#1492;</w> <w>&#1513;&#1500;&#1493;&#1501;</w> </p></div></body>
+               <supplied reason="undefined">ב</supplied>ר<gap reason="lost" unit="character" extent="unknown"/>
+               <supplied reason="undefined">ט</supplied>
+               <w>דכיר</w> <w>ל</w> <w>ר</w> <w>ריי</w> <w>דהכה</w> <w>אתחזק</w> <w>דין</w> <w>תרעה</w> <w>שלום</w> </p></div></body>
       <back>
          <div type="commentary">
-            <p>The inscription was engraved on a cross-bar stone and discovered in a narrow street facing the church, which is located in the southern part of the village. The inscription and surrounding figures were found on the part of the stone that faces the street. There is a fracture at the top of the stone, which makes the beginning of the inscription difficult to read and required Barslavsky to fill in the blanks. The first line includes a well-known phrase which Barslavsky could easily recognize as "&#1491;&#1499;&#1497;&#1512; &#1500;&#1496;&#1489;" even though the &#1496; and the &#1489; were destroyed completely.</p>
+            <p>The inscription was engraved on a cross-bar stone and discovered in a narrow street facing the church, which is located in the southern part of the village. The inscription and surrounding figures were found on the part of the stone that faces the street. There is a fracture at the top of the stone, which makes the beginning of the inscription difficult to read and required Barslavsky to fill in the blanks. The first line includes a well-known phrase which Barslavsky could easily recognize as "דכיר לטב" even though the ט and the ב were destroyed completely.</p>
          </div>
          <div type="bibliography">
             <listBibl>
