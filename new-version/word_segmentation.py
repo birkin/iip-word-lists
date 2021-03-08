@@ -109,6 +109,7 @@ for strTextFullPath in vTextFullPaths:
 
 	# iterate through both text and element nodes of the <p> element
 	for node in x[0].xpath("child::node()"):
+		print(node)
 
 		# Strategies for segmenting words:
 		if type(node) == etree._ElementUnicodeResult:
@@ -127,24 +128,31 @@ for strTextFullPath in vTextFullPaths:
 			node_copy = copy.deepcopy(node)
 
 			if node.tag == '{http://www.tei-c.org/ns/1.0}lb':
-				edition.insert(0, node_copy)
+				# edition.insert(0, node_copy)
+				print(node.tail)
+				pass
+
 			elif node.tag == '{http://www.tei-c.org/ns/1.0}expan':
 				# turn it into a word by throwing away all the tags
 				# or could turn it into two words
 
 				# or could ignore and surround it with w
-				edition.insert(0, node_copy)
+				# edition.insert(0, node_copy)
+				pass
 
 			elif node.tag == '{http://www.tei-c.org/ns/1.0}choice':
 				# or could ignore and surround it with w
-				edition.insert(0, node_copy)
+				# edition.insert(0, node_copy)
+				pass
 
 			elif node.tag == '{http://www.tei-c.org/ns/1.0}abbr':
 				# or could ignore and surround it with w
-				edition.insert(0, node_copy)
+				# edition.insert(0, node_copy)
+				pass
 
 			else:
-				edition.insert(0, node_copy)
+				# edition.insert(0, node_copy)
+				pass
 
 
 	body = xmlText.find(".//tei:body", namespaces=nsmap)

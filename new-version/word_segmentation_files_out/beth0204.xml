@@ -127,8 +127,7 @@
                </rs>, the <rs type="religTitle" ana="interpretations.xml#archisynagogos">head of the
                   synagogue</rs>, of <placeName>Pamphylia</placeName>. <rs type="formula" ana="interpretations.xml#shalom">Shalom</rs>.</p>
          </div>
-      <div subtype="transcription_segmented"><p><foreign xml:lang="heb"> שלום </foreign>
-            <lb break="no"/> ας <lb break="no"/> γος, Πανφυλί<lb/> ἀρχισυνάγω<w>Ἰακὼς</w> <w>Καισαρεὺς</w> <w>ἀρχισυνάγω</w> <w>γος,</w> <w>Πανφυλί</w> <w>ας</w> </p></div></body>
+      <div subtype="transcription_segmented"><p><w>Ἰακὼς</w> <w>Καισαρεὺς</w> <w>ἀρχισυνάγω</w> <w>γος,</w> <w>Πανφυλί</w> <w>ας</w> </p></div></body>
       <back>
          <div type="bibliography">
             <listBibl>

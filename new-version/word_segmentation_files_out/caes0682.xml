@@ -139,9 +139,7 @@
                 <p>Photograph is of a reproduction make to look like an inscription rather than a
                     mosaic.</p>
             </div>
-        <div subtype="transcription_segmented"><p><expan><abbr>custodiar</abbr><ex>um</ex></expan>
-                <lb/><lb/>offici<expan><abbr>adiutorib</abbr><ex>us</ex></expan>
-                    <lb/><lb/>Spes bona <w>Spes</w> <w>bona</w> <w>offici</w> </p></div></body>
+        <div subtype="transcription_segmented"><p><w>Spes</w> <w>bona</w> <w>offici</w> </p></div></body>
         <back>
             <div type="bibliography">
                 <listBibl>

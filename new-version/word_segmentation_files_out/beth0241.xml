@@ -129,15 +129,7 @@
          <div type="translation" ana="#b1" xml:id="beth0241.translation" corresp="#beth0241.transcription">
             <p>The <rs type="title" ana="interpretations.xml#lady">lady </rs> Sh..l.l. <rs type="formula" ana="interpretations.xml#shalom">Peace</rs>.</p>
          </div>
-      <div subtype="transcription_segmented"><p><lb/> 
-					שלום
-				<gap reason="illegible" quantity="1" unit="character"/>
-					ל
-					<gap reason="illegible" quantity="2" unit="character"/>
-					ל
-               <lb/>
-					ש
-               <w>קירה</w> <w>ש</w> <w>ל</w> <w>ל</w> <w>שלום</w> </p></div></body>
+      <div subtype="transcription_segmented"><p><w>קירה</w> <w>ש</w> <w>ל</w> <w>ל</w> <w>שלום</w> </p></div></body>
       <back>
          <div type="bibliography">
             <listBibl>

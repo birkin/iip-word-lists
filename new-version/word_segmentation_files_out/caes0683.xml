@@ -133,11 +133,7 @@
             <div type="commentary">
                 <p/>
             </div>
-        <div subtype="transcription_segmented"><p><lb/>felicia<lb/>omnia
-                    <supplied reason="lost">m</supplied>
-                    <lb break="no"/>entarioru<supplied reason="lost">m</supplied>
-                    <lb/>Genio fru<supplied reason="lost">o</supplied>
-                    <w>Sanct</w> <w>Genio</w> <w>fru</w> <w>entarioru</w> <w>omnia</w> <w>felicia</w> </p></div></body>
+        <div subtype="transcription_segmented"><p><w>Sanct</w> <w>Genio</w> <w>fru</w> <w>entarioru</w> <w>omnia</w> <w>felicia</w> </p></div></body>
         <back>
             <div type="bibliography">
                 <listBibl>

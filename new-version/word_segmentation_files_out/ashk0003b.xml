@@ -168,30 +168,7 @@
             <div type="commentary" ana="b1">
                 <p/>
             </div>
-        <div subtype="transcription_segmented"><p><foreign xml:lang="grc">
-                  <expan><abbr>μί</abbr><ex>λια</ex></expan> <num value="3">γ</num>
-               </foreign>
-            <lb/>
-               <foreign xml:lang="grc">ἀπὸ
-                                <expan><abbr>Ἀσκ</abbr><ex>άλωνος</ex></expan>
-               </foreign>
-               <lb/>
-               <expan><abbr>Aug</abbr><ex>ustis</ex>
-               </expan>
-               <lb break="no"/>ctis
-                    <expan><abbr>f</abbr><ex>elicibus</ex>
-               </expan> invi<expan>
-                  <abbr>p</abbr><ex>iis</ex>
-               </expan>
-                    <lb/>
-               <lb/>Maximiano<lb/>Valerio<expan>
-                  <abbr>Aur</abbr><ex>elio</ex>
-               </expan>
-               <expan>
-                  <abbr>M</abbr><ex>arco</ex>
-               </expan>
-                    <lb/>et <lb/>Diocletiano<lb/>Gaio
-                    Valerio<lb break="no"/>bus fratribus<lb break="no"/>bus Caesari<w>Imperatori</w> <w>bus</w> <w>Caesari</w> <w>bus</w> <w>fratribus</w> <w>Gaio
+        <div subtype="transcription_segmented"><p><w>Imperatori</w> <w>bus</w> <w>Caesari</w> <w>bus</w> <w>fratribus</w> <w>Gaio
 </w> <w>Valerio</w> <w>Diocletiano</w> <w>et</w> <w>Valerio</w> <w>Maximiano</w> <w>invi</w> <w>ctis</w> </p></div></body>
         <back>
             <div type="bibliography">
