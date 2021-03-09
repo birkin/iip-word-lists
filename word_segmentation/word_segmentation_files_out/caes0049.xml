@@ -171,7 +171,19 @@
                   <persName xml:lang="la " ref="persons.xml#caes0049p03" nymRef="names.xml#caes0049n03">Augustus </persName>
                </name>.</p>
          </div>
-      <div subtype="transcription_segmented"><p><w>VI</w> <w>.</w> </p></div></body>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="w0">Imperatore</w>
+<w xml:id="w1">Caesare</w>
+<w xml:id="w2">Traiano</w>
+<w xml:id="w3">Hadriano</w>
+<w xml:id="w4">Augusto</w>
+<w xml:id="w5">vexillatio</w>
+<w xml:id="w6">legionis</w>
+<w xml:id="w7">VI</w>
+<w xml:id="w8">Ferratae</w>
+<w xml:id="w9">.</w>
+</p>
+</div>
+</body>
       <back>
          <div type="commentary">
             <p/>

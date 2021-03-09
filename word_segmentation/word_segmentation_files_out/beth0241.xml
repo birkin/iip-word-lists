@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng"?><TEI xmlns:xi="http://www.w3.org/2001/XInclude" xmlns="http://www.tei-c.org/ns/1.0" xml:id="beth0245" n="iip">
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng"?><TEI xmlns:xi="http://www.w3.org/2001/XInclude" xmlns="http://www.tei-c.org/ns/1.0" xml:id="beth0241" n="iip">
    <teiHeader>
       <fileDesc><!-- ********** <titleStmt> ********** -->
          <titleStmt>
@@ -15,29 +15,29 @@
                   <p>ERROR-could not find publication information which should appear in this space.</p>
                </xi:fallback>
             </xi:include>
-            <idno type="IIP">beth0245</idno>
-            <!--Beth 0245-->
+            <idno type="IIP">beth0241</idno>
+            <!--Beth 0241-->
          </publicationStmt>
          <!-- ********* <sourceDesc> ********* -->
          <sourceDesc>
             <msDesc>
                <msIdentifier>
-                  <idno>beth0245</idno>
+                  <idno>beth0241</idno>
                </msIdentifier>
                <!-- ********* <msContents> ********* -->
                <msContents>
                   <textLang mainLang="he"/>
                   <msItem class="#funerary" ana="#jewish">
-                     <p>Galilee. Beth Shearim. 200 CE to 400 CE. Red painted sarcophagus. Funerary.</p>
+                     <p>Galilee. Beth Shearim. 200 CE to 400 CE. Red painted door jamb. Funerary.</p>
                   </msItem>
                </msContents>
                <!-- ********* <physDesc> ********* -->
                <physDesc><!-- ********* <objectDesc> ********* -->
-                  <objectDesc ana="#sarcophagus">
+                  <objectDesc ana="#door">
                      <supportDesc>
                         <support>
                            <dimensions type="surface" unit="cm">
-                              <height>95</height>
+                              <width>25</width>
                            </dimensions>
                         </support>
                         <condition>
@@ -54,7 +54,7 @@
                   <!-- ********* <handDesc> ********* -->
                   <handDesc>
                      <handNote ana="#painted">
-                        <dimensions type="letter" extent="height" unit="cm" atLeast="6" atMost="10"/>
+                        <dimensions type="letter" extent="height" unit="cm" atLeast="5" atMost="6.5"/>
                      </handNote>
                   </handDesc>
                   <!-- ********* <decoDesc> ********* -->
@@ -97,9 +97,8 @@
       <revisionDesc>
          <change when="1996-10-18" who="persons.xml#MLS">Creation</change>
          <change when="2005-08-25" who="persons.xml#Jordan_Rosenblum">Revision</change>
-         <change when="2008-03-26" who="persons.xml#Anna_Schnur-Fishman">Hebrew text change</change>
+         <change when="2008-03-27" who="persons.xml#Anna_Schnur-Fishman">Hebrew text change</change>
          <change when="2016-12-01" who="persons.xml#Elli_Mylonas">Changed graphic element to facsimile and kept existing url</change>
-         <change when="2016-12-02" who="persons.xml#Elli_Mylonas">Normalized objectDesc/@ana</change>
          <change when="2016-12-14" who="persons.xml#Elli_Mylonas">Adding Pleiades IDs to origin/placenames</change>
          <change when="2019-01-29" who="persons.xml#Elli_Mylonas">
                 adding period attribute to date element, with Periodo value.
@@ -110,28 +109,40 @@
    <facsimile>
       <surface>
          <desc/>
-         <graphic url="BS0245.etch.gif"/>
+         <graphic url="BS0241.etch.gif"/>
       </surface>
    </facsimile>
    <text>
       <body>
-         <div type="edition" ana="#b1" xml:lang="heb" subtype="transcription" xml:id="beth0245.transcription" corresp="#beth0245.translation">
-            <p>זו ארונו של רבי יושוע ה
-				<gap reason="lost" unit="character" extent="unknown"/>
-            </p>
+         <div type="edition" ana="#b1" xml:lang="heb" subtype="transcription" xml:id="beth0241.transcription" corresp="#beth0241.translation">
+            <p>קירה
+					<lb/>
+					ש
+               <gap reason="illegible" quantity="2" unit="character"/>
+					ל
+               <gap reason="illegible" quantity="1" unit="character"/>
+					ל
+					<lb/> 
+					שלום
+				</p>
          </div>
-         <div type="translation" ana="#b1" xml:id="beth0245.translation" corresp="#beth0245.transcription">
-            <p>This is the <rs type="object" ana="interpretations.xml#sarcaphagus">sarcophagus </rs> of <rs type="religTitle" ana="interpretations.xml#rabbi">Rabbi </rs>
-               <persName xml:lang="hbo " ref="persons.xml#beth0245p01">Joshua </persName>
-				the...</p>
+         <div type="translation" ana="#b1" xml:id="beth0241.translation" corresp="#beth0241.transcription">
+            <p>The <rs type="title" ana="interpretations.xml#lady">lady </rs> Sh..l.l. <rs type="formula" ana="interpretations.xml#shalom">Peace</rs>.</p>
          </div>
-      <div subtype="transcription_segmented"><p><w>זו</w> <w>ארונו</w> <w>של</w> <w>רבי</w> <w>יושוע</w> <w>ה</w> </p></div></body>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="w0">קירה</w>
+<w xml:id="w1">ש</w>
+<w xml:id="w2">ל</w>
+<w xml:id="w3">ל</w>
+<w xml:id="w4">שלום</w>
+</p>
+</div>
+</body>
       <back>
          <div type="bibliography">
             <listBibl>
                <bibl xml:id="b1">
                   <ptr type="biblItem" target="IIP-006.xml"/>
-                  <biblScope unit="page">248</biblScope>
+                  <biblScope unit="page">245</biblScope>
                </bibl>
             </listBibl>
          </div>

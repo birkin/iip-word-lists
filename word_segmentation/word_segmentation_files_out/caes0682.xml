@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="caes0446" n="iip">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="caes0682" n="iip">
     <teiHeader>
         <fileDesc>
             <!-- *************************************  <titleStmt>  *********************************
@@ -24,50 +24,52 @@
                 -->
                 <msDesc>
                     <msIdentifier>
-                        <idno type="IIP">Caes 0446</idno>
+                        <idno type="IIP">Caes 0682</idno>
                     </msIdentifier>
                     <!--  *************************************  <msContents>  ********************************* -->
                     <msContents>
-                        <textLang mainLang="grc" otherLangs=""/>
-                        <msItem class="prayer" ana="christian">
-                            <p>Caesarea, Date Unknown. Stone. Prayer.</p>
+                        <textLang mainLang="la" otherLangs=""/>
+                        <msItem class="dedicatory" ana="unknown_religion">
+                            <p>Caesarea. Roman era. Floor mosaic.</p>
                         </msItem>
                     </msContents>
                     <!--  *************************************  <physDesc>  ********************************* -->
                     <physDesc>
-                        <objectDesc ana="pavement">
-                            <supportDesc ana="stone">
+                        <objectDesc ana="floor mosaic">
+                            <supportDesc>
                                 <support>
                                     <p/>
                                     <dimensions type="surface" unit="cm">
-                                        <height>136</height>
-                                        <width>131</width>
+                                        <height/>
+                                        <width/>
                                         <depth/>
                                     </dimensions>
                                 </support>
-                                <condition ana="complete.intact">
+                                <condition ana="complete">
                                     <p/>
                                 </condition>
                             </supportDesc>
                             <layoutDesc>
-                                <layout columns="1" writtenLines="3">
-                                    <p>Letters are made of blue-gray tesserae</p>
+                                <layout columns="1" writtenLines="4">
+                                    <p/>
                                 </layout>
                             </layoutDesc>
                         </objectDesc>
                         <!--  *************************************  <handDesc>  ********************************* -->
                         <handDesc>
-                            <handNote ana="impressed.inscribed.carved">
-                                <dimensions type="letter" extent="height" unit="cm" atLeast="14" atMost="17"/>
+                            <handNote ana="inset.mosaic">
                                 <p/>
                             </handNote>
                         </handDesc>
                         <!--  *************************************  <decoDesc>  ********************************* -->
                         <decoDesc>
                             <decoNote>
-                                <ab>Ornamental ivy leaves</ab>
-                                <locus>Above first line of inscription, and below last line of
-                                    inscription</locus>
+                                <ab/>
+                                <locus/>
+                            </decoNote>
+                            <decoNote>
+                                <ab/>
+                                <locus/>
                             </decoNote>
                         </decoDesc>
                     </physDesc>
@@ -75,11 +77,11 @@
                         <summary>
                             <rs/>
                         </summary>
-                        <origin><date notBefore="0001" notAfter="0900" period="">Date unknown</date><placeName>
-                                <region/>
+                        <origin><date notBefore="-0030" notAfter="0300" period="http://n2t.net/ark:/99152/p0m63njtk9m">Roman era</date><placeName>
+                                <region>Coastal Plain</region>
                                 <settlement ref="http://pleiades.stoa.org/places/678401">Caesarea</settlement>
                                 <geogName type="site"/>
-                                <geogFeat type="locus"/>
+                                <geogFeat type="locus">House</geogFeat>
                             </placeName>
                             <p/>
                         </origin>
@@ -105,43 +107,53 @@
         <profileDesc/>
         <!--  *************************************  <revisionDesc>  *********************************  -->
         <revisionDesc>
-            <change when="2018-05-09" who="Anya Hong">Initial Entry</change>
-            <change when="2020-12-18" who="Chris Zeichmann">corrected bibliography</change>
+            <change when="2020-10-30" who="Chris Zeichmann">Initial Entry</change>
+            <change when="2020-12-28" who="Nesya Nelkin">Edited (bibliography,
+                transcription)</change>
+            <change when="2020-12-31" who="Chris Zeichmann">added translation</change>
         </revisionDesc>
     </teiHeader>
     <!--  *************************************  <facsimile>  *********************************  -->
     <facsimile>
-        <graphic url=""/>
         <surface>
-            <desc/>
-            <graphic url=""/>
+            <desc>Replica photograph by Zev Radovan</desc>
+            <graphic url="caes0682.jpg"/>
         </surface>
     </facsimile>
     <text>
         <body>
             <div type="edition" subtype="diplomatic" ana="b1">
-                <p>ΔΙΑΜΕΝΗ
-                <lb/>ΗΕΙΡΗΝΗΤΩΝ
-                <lb/>ΧΡΙΣΤΙΑΝΩΝ</p>
-            </div>
-            <div type="edition" subtype="transcription" ana="b1">
-                <p>διαμείνη
-                <lb/>ἡ εἰρήνη τῶν
-                <lb/>Χριστιανῶν</p>
-            </div>
-            <div type="translation" ana="b1">
-                <p>May the peace of the Christians endure.</p>
-            </div>
-            <div type="commentary" ana="b1">
                 <p/>
             </div>
-        <div subtype="transcription_segmented"><p><w>διαμείνη</w> <w>ἡ</w> <w>εἰρήνη</w> <w>τῶν</w> <w>Χριστιανῶν</w> </p></div></body>
+            <div type="edition" subtype="transcription" ana="b1">
+                <p>
+                    <lb/>Spes bona <lb/><expan><abbr>adiutorib</abbr><ex>us</ex></expan>
+                    <lb/>offici<lb/><expan><abbr>custodiar</abbr><ex>um</ex></expan>
+                </p>
+            </div>
+            <div type="translation" ana="b2">
+                <p>Good hope to the Assistants of the Office in charge of Prisoners (or the
+                    Prison)</p>
+            </div>
+            <div type="commentary">
+                <p>Photograph is of a reproduction make to look like an inscription rather than a
+                    mosaic.</p>
+            </div>
+        <div type="edition" subtype="transcription_segmented"><p><w xml:id="w0">Spes</w>
+<w xml:id="w1">bona</w>
+<w xml:id="w2">adiutoribus</w>
+<w xml:id="w3">offici</w>
+<w xml:id="w4">custodiarum</w>
+</p>
+</div>
+</body>
         <back>
             <div type="bibliography">
                 <listBibl>
-                    <bibl xml:id="b1"><ptr target="IIP-801.xml"/>
-                        <biblScope unit="insc">2053</biblScope>
+                    <bibl xml:id="b1"><ptr target="IIP-806.xml"/>
+                        <biblScope unit="page">4</biblScope>
                     </bibl>
+                    <bibl xml:id="b2"><ptr target="IIP-828.xml"/><biblScope unit="page">135</biblScope></bibl>
                 </listBibl>
             </div>
         </back>

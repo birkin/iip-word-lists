@@ -191,7 +191,19 @@
                 <p> </p>
             </div>
             
-        <div subtype="transcription_segmented"><p><w>νισθῖ</w> <w>εἰς</w> <w>ἀ</w> <w>αθὸν</w> <w>κὲ</w> <w>εὐλογίαν.</w> </p></div></body>
+        <div type="edition" subtype="transcription_segmented"><p><w xml:id="w0">ὁ</w>
+<w xml:id="w1">δεῖνα/τοῦ</w>
+<w xml:id="w2">δεῖνος</w>
+<w xml:id="w3">μνισθῖ</w>
+<w xml:id="w4">εἰς</w>
+<w xml:id="w5">ἀγαθὸν</w>
+<w xml:id="w6">κὲ</w>
+<w xml:id="w7">ἠς</w>
+<w xml:id="w8">εὐλογίαν.</w>
+<w xml:id="w9">שלום</w>
+</p>
+</div>
+</body>
         <back>
             <!-- The bibl has more contained elements. What is the possible list of values of the biblScope/@type? 
              -->
