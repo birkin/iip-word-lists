@@ -144,10 +144,7 @@
          <div type="translation" xml:id="hamm0031.translation" corresp="#hamm0031.diplomatic #hamm0031.transcription">
             <p>Prosper <placeName>Perge</placeName>, the capital of <placeName>Pamphylia</placeName>!</p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="hamm0031-1" xml:lang="grc">Αὐξίτω</w> <w xml:id="hamm0031-2" xml:lang="grc">Πέργη</w> <w xml:id="hamm0031-3" xml:lang="grc">ἡ</w> <w xml:id="hamm0031-4" xml:lang="grc">πρώτη</w> <w xml:id="hamm0031-5" xml:lang="grc">τῆς</w> <w xml:id="hamm0031-6" xml:lang="grc">Παμ
-φυ
-λί
-ας</w></p>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="hamm0031-1" xml:lang="grc">Αὐξίτω</w> <w xml:id="hamm0031-2" xml:lang="grc">Πέργη</w> <w xml:id="hamm0031-3" xml:lang="grc">ἡ</w> <w xml:id="hamm0031-4" xml:lang="grc">πρώτη</w> <w xml:id="hamm0031-5" xml:lang="grc">τῆς</w> <w xml:id="hamm0031-6" xml:lang="grc">Παμφυλίας</w></p>
 </div>
 </body>
       <back>

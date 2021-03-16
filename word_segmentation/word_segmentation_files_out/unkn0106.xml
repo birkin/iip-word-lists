@@ -209,7 +209,7 @@
             </div>
             <!-- The bibl has more contained elements. What is the possible list of values of the biblScope/@type? 
              -->
-        <div type="edition" subtype="transcription_segmented"><p><w xml:id="unkn0106-1" xml:lang="arc">ערובת</w> <w xml:id="unkn0106-2" xml:lang="arc">שבתא</w> <w xml:id="unkn0106-3" xml:lang="arc">4</w> <w xml:id="unkn0106-4" xml:lang="arc">לא</w> <w xml:id="unkn0106-5" xml:lang="arc">יום</w> <w xml:id="unkn0106-6" xml:lang="arc">שבתא</w> <w xml:id="unkn0106-7" xml:lang="arc">בצפרא</w> <w xml:id="unkn0106-8" xml:lang="arc">ולרמשא</w> <w xml:id="unkn0106-9" xml:lang="arc">בכ</w> <w xml:id="unkn0106-10" xml:lang="arc">ל</w> <w xml:id="unkn0106-11" xml:lang="arc">הר</w><w xml:id="unkn0106-12" xml:lang="arc">בשבה</w> <w xml:id="unkn0106-13" xml:lang="arc">6</w><w xml:id="unkn0106-14" xml:lang="arc"><supplied reason="lost">בה</supplied></w><w xml:id="unkn0106-15" xml:lang="arc">ל</w> <w xml:id="unkn0106-16" xml:lang="arc">ד</w></p>
+        <div type="edition" subtype="transcription_segmented"><p><w xml:id="unkn0106-1" xml:lang="arc">ערובת</w> <w xml:id="unkn0106-2" xml:lang="arc">שבתא</w> <w xml:id="unkn0106-3" xml:lang="arc">לא</w> <w xml:id="unkn0106-4" xml:lang="arc">יום</w> <w xml:id="unkn0106-5" xml:lang="arc">שבתא</w> <w xml:id="unkn0106-6" xml:lang="arc">בצפרא</w> <w xml:id="unkn0106-7" xml:lang="arc">ולרמשא</w> <w xml:id="unkn0106-8" xml:lang="arc">בכ</w> <w xml:id="unkn0106-9" xml:lang="arc">ל</w> <w xml:id="unkn0106-10" xml:lang="arc">הר</w><w xml:id="unkn0106-11" xml:lang="arc">בשבה</w><w xml:id="unkn0106-12" xml:lang="arc"><supplied reason="lost">בה</supplied></w><w xml:id="unkn0106-13" xml:lang="arc">ל</w> <w xml:id="unkn0106-14" xml:lang="arc">ד</w></p>
 </div>
 </body>
         <back>

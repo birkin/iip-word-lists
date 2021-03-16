@@ -171,7 +171,7 @@
                     holy house by the exertions of Thomas the priest and abbot, in the month of
                     July, Indiction 7, year 667. </p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="khis0083-1" xml:lang="grc">+προσφορά</w> <w xml:id="khis0083-2" xml:lang="grc">ὀλυμπὶου</w><w xml:id="khis0083-3" xml:lang="grc"><expan>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="khis0083-1" xml:lang="grc">προσφορά</w> <w xml:id="khis0083-2" xml:lang="grc">ὀλυμπὶου</w><w xml:id="khis0083-3" xml:lang="grc"><expan>
                   <abbr>κ</abbr><ex>αὶ</ex>
                </expan></w><w xml:id="khis0083-4" xml:lang="grc">ὑ</w><w xml:id="khis0083-5" xml:lang="grc"><supplied reason="undefined">πέρ σωτνρὶας λ</supplied></w><w xml:id="khis0083-6" xml:lang="grc">εοντὶου</w><w xml:id="khis0083-7" xml:lang="grc"><supplied reason="undefined">καὶ</supplied></w><w xml:id="khis0083-8" xml:lang="grc">Εὐγενὶου</w><w xml:id="khis0083-9" xml:lang="grc"><expan>
                   <abbr>υἱῶ</abbr><ex>ν</ex>
@@ -195,9 +195,9 @@
                   <abbr>Ἰουλ</abbr><ex>ὶῳ</ex>
                </expan></w><w xml:id="khis0083-44" xml:lang="grc"><expan>
                   <abbr>Ἰνδ</abbr><ex>ικτιῶνος</ex>
-               </expan></w><w xml:id="khis0083-45" xml:lang="grc">7</w><w xml:id="khis0083-46" xml:lang="grc"><expan>
+               </expan></w><w xml:id="khis0083-45" xml:lang="grc"><expan>
                   <abbr>ἔτ</abbr><ex>ους</ex>
-               </expan></w><w xml:id="khis0083-47" xml:lang="grc">667</w> <w xml:id="khis0083-48" xml:lang="grc">+</w></p>
+               </expan></w></p>
 </div>
 </body>
       <back>

@@ -11,7 +11,8 @@ import os
 import glob
 import re
 import copy
-import pdb
+import csv
+import collections
 from lxml import etree
 
 
@@ -22,6 +23,7 @@ from argument_parser import *
 # Set the input and output paths
 strPathIn = '.' + os.sep + 'word_segmentation_files_in'
 strPathOut = '.' + os.sep + 'word_segmentation_files_out'
+strPathListOut = '.' + os.sep + 'word_segmentation_lists'
 
 # Get a list of all texts for processing
 # Use command line arguments of the form "file1, file2, file3, etc." when given
@@ -229,6 +231,17 @@ for strTextFullPath in vTextFullPaths:
 		if type(node) == etree._ElementUnicodeResult:
 			node = node.strip()
 			node = re.sub(r"[\.\,\;‧·⋅•∙]", "", node)
+			node = re.sub(r"\d+", "", node)
+			node = node.replace("_", "")
+			node = node.replace("*", "")
+			node = node.replace("+", "")
+			node = node.replace("'", "")
+			node = node.replace(":", "")
+			node = node.replace("\"", "")
+			node = node.replace("ʹ", "")
+			node = node.replace("´", "")
+			node = node.replace("ֿ", "") # The niqqud point rafe
+
 
 			# Segment words on just the spaces
 			words = [word for word in node.split(" ") if len(word.strip())]
@@ -236,7 +249,7 @@ for strTextFullPath in vTextFullPaths:
 			# Add word child elems
 			for i, word in enumerate(words):
 				wordElem = etree.SubElement(editionSegmented, '{http://www.tei-c.org/ns/1.0}w')
-				wordElem.text = word.strip()
+				wordElem.text = "".join(word.split())
 				if i < len(words) - 1:
 					wordElem.tail = " "
 		else:
@@ -277,3 +290,50 @@ for strTextFullPath in vTextFullPaths:
 	file.write(xmlData)
 
 	# strXMLText = re.sub(r"<lb break=\"no\"(\s*)/>", "¶", strXMLText)
+
+# Read all segmented files for processing word lists
+vSegmentedTexts = glob.glob(strPathOut + os.sep + '*.xml')
+vSegmentedTexts.sort()
+
+WORD_LISTS = {}
+
+# Loop through texts building lists
+for strSegmentedTextFullPath in vSegmentedTexts:
+
+	# Extract the filename for the current text
+	# Use the OS specific directory separator to split path and take the last element
+	strTextFilename = strSegmentedTextFullPath.split(os.sep)[-1]
+
+	# Current parser options clean up redundant namespace declarations and remove patches of whitespace
+	# For more info, see "Parser Options" in: https://lxml.de/parsing.html
+	parser = etree.XMLParser(ns_clean=True, remove_blank_text=False)
+	xmlText = etree.parse(strSegmentedTextFullPath, parser)
+	wordElems = xmlText.findall(".//tei:div[@type='edition'][@subtype='transcription_segmented']/tei:p/tei:w", namespaces=nsmap)
+
+	# Build word lists by language
+	for wordElem in wordElems:
+		if wordElem.text and len(wordElem.text.strip()):
+			if wordElem.attrib[XML_NS + 'lang'] in WORD_LISTS:
+				if wordElem.text.strip() in WORD_LISTS[wordElem.attrib[XML_NS + 'lang']]:
+					WORD_LISTS[wordElem.attrib[XML_NS + 'lang']][wordElem.text.strip()].append(wordElem.attrib[XML_NS + 'id'])
+				else:
+					WORD_LISTS[wordElem.attrib[XML_NS + 'lang']][wordElem.text.strip()] = [wordElem.attrib[XML_NS + 'id']]
+			else:
+				WORD_LISTS[wordElem.attrib[XML_NS + 'lang']] = {}
+				WORD_LISTS[wordElem.attrib[XML_NS + 'lang']][wordElem.text.strip()] = [wordElem.attrib[XML_NS + 'id']]
+
+# Write word lists to CSV files
+for lang in WORD_LISTS:
+
+	# Sort alphabetically
+	sorted_lang_dict = collections.OrderedDict(sorted(WORD_LISTS[lang].items()))
+
+	# write to file
+	with open(strPathListOut + '/word_list_{}.csv'.format(lang), 'w') as csvfile:
+		csvwriter = csv.writer(csvfile)
+		for word in sorted_lang_dict:
+			row = []
+			row.append(word)
+			row.append(len(sorted_lang_dict[word]))
+			row.extend(sorted_lang_dict[word])
+			csvwriter.writerow(row)

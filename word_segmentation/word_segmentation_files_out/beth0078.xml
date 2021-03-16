@@ -127,8 +127,7 @@
                <persName xml:lang="grc " ref="persons.xml#beth0078p01">Magna </persName>
                <rs type="formula" ana="interpretations.xml#lies">rests </rs> in the <rs type="object" ana="interpretations.xml#ossuary">ossuary</rs>.</p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="beth0078-1" xml:lang="grc">Μάγνα</w> <w xml:id="beth0078-2" xml:lang="grc">γλοσοκόμῳ
-					κῖτε</w></p>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="beth0078-1" xml:lang="grc">Μάγνα</w> <w xml:id="beth0078-2" xml:lang="grc">γλοσοκόμῳκῖτε</w></p>
 </div>
 </body>
       <back>

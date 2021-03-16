@@ -128,14 +128,7 @@
          <div type="translation" ana="#b1" xml:id="beth0261.translation" corresp="#beth0261.transcription">
             <p>This place belongs to the <rs type="caste" ana="interpretations.xml#priest">priests</rs>. <rs type="formula" ana="interpretations.xml#woe">Woe </rs>!</p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="beth0261-1" xml:lang="he">ה
-					מ
-					קו
-					ם
-					ה</w> <w xml:id="beth0261-2" xml:lang="he">ז
-					ה</w> <w xml:id="beth0261-3" xml:lang="he">של</w> <w xml:id="beth0261-4" xml:lang="he">כוהנ</w> <w xml:id="beth0261-5" xml:lang="he">י
-					ם</w> <w xml:id="beth0261-6" xml:lang="he">ח
-					בל</w></p>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="beth0261-1" xml:lang="he">המקוםה</w> <w xml:id="beth0261-2" xml:lang="he">זה</w> <w xml:id="beth0261-3" xml:lang="he">של</w> <w xml:id="beth0261-4" xml:lang="he">כוהנ</w> <w xml:id="beth0261-5" xml:lang="he">ים</w> <w xml:id="beth0261-6" xml:lang="he">חבל</w></p>
 </div>
 </body>
       <back>

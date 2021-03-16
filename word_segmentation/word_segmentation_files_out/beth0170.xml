@@ -119,8 +119,7 @@
             <p>Of <persName xml:lang="la " ref="persons.xml#beth0170p01">Paulinus </persName>
             </p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="beth0170-1" xml:lang="grc">1</w> <w xml:id="beth0170-2" xml:lang="grc">Παυλίνου</w> <w xml:id="beth0170-3" xml:lang="grc">2</w> <w xml:id="beth0170-4" xml:lang="grc">Παυλίνου</w> <w xml:id="beth0170-5" xml:lang="grc">3
-					Παυλίνου</w></p>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="beth0170-1" xml:lang="grc">Παυλίνου</w> <w xml:id="beth0170-2" xml:lang="grc">Παυλίνου</w> <w xml:id="beth0170-3" xml:lang="grc">Παυλίνου</w></p>
 </div>
 </body>
       <back>

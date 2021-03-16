@@ -129,8 +129,7 @@
                   <persName xml:lang="la " type="dual" ref="persons.xml#beth0013p02">Gemellus </persName>
                </name>, <rs type="formula" ana="interpretations.xml#lot">may your lot be good</rs>. </p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="beth0013-1" xml:lang="grc">Ἰουλαοῦ</w><w xml:id="beth0013-2" xml:lang="grc">Γεμέλ
-					λου</w> <w xml:id="beth0013-3" xml:lang="grc">εὔμυρος</w></p>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="beth0013-1" xml:lang="grc">Ἰουλαοῦ</w><w xml:id="beth0013-2" xml:lang="grc">Γεμέλλου</w> <w xml:id="beth0013-3" xml:lang="grc">εὔμυρος</w></p>
 </div>
 </body>
       <back>

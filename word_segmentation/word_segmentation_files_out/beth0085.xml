@@ -127,8 +127,7 @@
                   <persName xml:lang="hbo " ref="persons.xml#beth0085p01">Sarah</persName>, <rs type="family">daughter </rs> of <persName type="patr" xml:lang="grc " ref="persons.xml#beth0085p02">Kyrinos </persName>
                </name>, <rs type="formula" ana="interpretations.xml#lies">lies here</rs>.</p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="beth0085-1" xml:lang="grc"><supplied reason="lost">Σ</supplied></w><w xml:id="beth0085-2" xml:lang="grc">άρα
-					Κυρί</w><w xml:id="beth0085-3" xml:lang="grc"><supplied reason="lost">νου ἔ</supplied></w><w xml:id="beth0085-4" xml:lang="grc">νθα</w><w xml:id="beth0085-5" xml:lang="grc"><supplied reason="lost">κῖ</supplied></w><w xml:id="beth0085-6" xml:lang="grc">τε</w></p>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="beth0085-1" xml:lang="grc"><supplied reason="lost">Σ</supplied></w><w xml:id="beth0085-2" xml:lang="grc">άραΚυρί</w><w xml:id="beth0085-3" xml:lang="grc"><supplied reason="lost">νου ἔ</supplied></w><w xml:id="beth0085-4" xml:lang="grc">νθα</w><w xml:id="beth0085-5" xml:lang="grc"><supplied reason="lost">κῖ</supplied></w><w xml:id="beth0085-6" xml:lang="grc">τε</w></p>
 </div>
 </body>
       <back>
