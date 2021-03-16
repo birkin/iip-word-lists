@@ -176,16 +176,16 @@
                </expan></w><w xml:id="caes0049-2" xml:lang="la"><expan>
                   <abbr>Cae</abbr><ex>sare</ex>
                </expan></w><w xml:id="caes0049-3" xml:lang="la"><expan>
-                  <abbr>Tr</abbr><ex>aiano</ex>
+                  <abbr><hi rend="ligature">Tr</hi></abbr><ex>aiano</ex>
                </expan></w><w xml:id="caes0049-4" xml:lang="la"><expan>
                   <abbr>Had</abbr><ex>riano</ex>
                </expan></w><w xml:id="caes0049-5" xml:lang="la"><expan>
-                  <abbr>Aug</abbr><ex>usto</ex>
-               </expan></w><w xml:id="caes0049-6" xml:lang="la"><expan>
-                  <abbr>vexil</abbr><ex>latio</ex>
+                  <abbr><w xml:id="caes0049-6" xml:lang="la"><supplied reason="lost">A</supplied></w>ug</abbr><ex>usto</ex>
                </expan></w><w xml:id="caes0049-7" xml:lang="la"><expan>
+                  <abbr>vexil</abbr><ex>latio</ex>
+               </expan></w><w xml:id="caes0049-8" xml:lang="la"><expan>
                   <abbr>leg</abbr><ex>ionis</ex>
-               </expan></w><w xml:id="caes0049-8" xml:lang="la">VI</w><w xml:id="caes0049-9" xml:lang="la"><expan>
+               </expan></w><w xml:id="caes0049-9" xml:lang="la">VI</w><w xml:id="caes0049-10" xml:lang="la"><expan>
                   <abbr>Ferr</abbr><ex>atae</ex>
                </expan></w></p>
 </div>

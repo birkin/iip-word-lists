@@ -121,19 +121,23 @@ for strTextFullPath in vTextFullPaths:
 	strXMLText = re.sub(r"<note>([^<]*?)</note>", "", strXMLText)
 
 	# Keep stuff as is without worrying about the markup
-	strXMLText = re.sub(r"<supplied>(.*?)</supplied>", r"\1", strXMLText)
-	strXMLText = re.sub(r"<supplied (([^>]+|\s)*?)>(.*?)</supplied>", r"\3", strXMLText)
-	strXMLText = re.sub(r"</supplied>", r"", strXMLText)
+	# strXMLText = re.sub(r"<supplied>(.*?)</supplied>", r"<w><supplied>\1</supplied></w>", strXMLText)
+	# strXMLText = re.sub(r"<supplied (([^>]+|\s)*?)>(.*?)</supplied>", r"<w><supplied>\3</supplied></w>", strXMLText)
+	strXMLText = re.sub(r"<supplied>", r"<w><supplied>", strXMLText)
+	strXMLText = re.sub(r"<supplied (([^>]+|\s)*?)>", r"<w><supplied \2>", strXMLText)
+	strXMLText = re.sub(r"</supplied>", r"</supplied></w>", strXMLText)
+	# Supplied
+
 	strXMLText = re.sub(r"<unclear([^>]*?)>(.*?)</unclear>", r"\2", strXMLText)
-	strXMLText = re.sub(r"<hi ([^>]*?)>(.*?)</hi>", r"\2", strXMLText)
+	# strXMLText = re.sub(r"<hi ([^>]*?)>(.*?)</hi>", r"\2", strXMLText)
 
 	# Discard a bunch of stuff that we don't really care about in this context
 	strXMLText = re.sub(r"<([/]*)gap([/]*)>", "", strXMLText)
 	strXMLText = re.sub(r"<([/]*)gap ([^>]*?)>", "", strXMLText)
-	strXMLText = re.sub(r"<g ([^>]*?)>([^<]*)</g>", "", strXMLText)
-	strXMLText = re.sub(r"<g>([^<]*)</g>", "", strXMLText)
-	strXMLText = re.sub(r"<g([^>]*?)>", "", strXMLText)
-	strXMLText = re.sub(r"<surplus([^>]*?)>(.*?)</surplus>", "", strXMLText)
+	# strXMLText = re.sub(r"<g ([^>]*?)>([^<]*)</g>", "", strXMLText)
+	# strXMLText = re.sub(r"<g>([^<]*)</g>", "", strXMLText)
+	# strXMLText = re.sub(r"<g([^>]*?)>", "", strXMLText)
+	# strXMLText = re.sub(r"<surplus([^>]*?)>(.*?)</surplus>", "", strXMLText)
 	strXMLText = re.sub(r"<orgName>(.*?)</orgName>", "", strXMLText)
 	strXMLText = re.sub(r"<([/]*)handShift([^>]*?)>", "", strXMLText)
 	# strXMLText = re.sub(r"<unclear([^>]*?)>", "", strXMLText)
@@ -161,7 +165,11 @@ for strTextFullPath in vTextFullPaths:
 	strXMLText = re.sub(r"<reg([^>]*?)>(.*?)</reg>", r"\2", strXMLText)
 
 	# Deal roughly with word breaks and <foreign ...>
+	# Foreign may have one or more words with it
 	strXMLText = re.sub(r"<foreign xml\:lang=\"(\w+)\">", r"§", strXMLText)
+	strXMLText = re.sub(r"<foreign xml\:lang=\"(\w+(?:-\w+))\">", r"§", strXMLText)
+	strXMLText = re.sub(r"<foreign\s*>", r"§", strXMLText)
+	strXMLText = re.sub(r"<foreign>", r"§", strXMLText)
 	strXMLText = re.sub(r"</foreign>", r"§", strXMLText)
 
 	# Deal with word breaks and <num ...>
@@ -199,7 +207,7 @@ for strTextFullPath in vTextFullPaths:
 
 
 	# TEMP ELIMINATE FOREIGN AND NUM
-	strXMLText = re.sub(r"<foreign([^>]*?)>(.*?)</foreign>", r"\2", strXMLText)
+	# strXMLText = re.sub(r"<foreign([^>]*?)>(.*?)</foreign>", r"\2", strXMLText)
 	# strXMLText = re.sub(r"<num([^>]*?)>(.*?)</num>", r"\2", strXMLText)
 	# strXMLText = re.sub(r"<num>(.*?)</num>", r"\1", strXMLText)
 
