@@ -136,7 +136,7 @@ for strTextFullPath in vTextFullPaths:
 	strXMLText = re.sub(r"<surplus([^>]*?)>(.*?)</surplus>", "", strXMLText)
 	strXMLText = re.sub(r"<orgName>(.*?)</orgName>", "", strXMLText)
 	strXMLText = re.sub(r"<([/]*)handShift([^>]*?)>", "", strXMLText)
-	strXMLText = re.sub(r"<unclear([^>]*?)>", "", strXMLText)
+	# strXMLText = re.sub(r"<unclear([^>]*?)>", "", strXMLText)
 	strXMLText = re.sub(r"<space([^>]*?)>", "", strXMLText)
 
 	# Substitutions: <subst> <add>replacement</add> <del>erased</del> </subst>
@@ -187,10 +187,10 @@ for strTextFullPath in vTextFullPaths:
 	# Normalized
 
 	# Expanding abbreviations and such
-	strXMLText = re.sub(r"<am>(.*?)</am>", r"", strXMLText)
-	strXMLText = re.sub(r"<am/>", r"", strXMLText)
-	strXMLText = re.sub(r"<ex>(.*?)</ex>", r"\1§", strXMLText)
-	strXMLText = re.sub(r"<ex ([^>]*?)>(.*?)</ex>", r"\2§", strXMLText)
+	# strXMLText = re.sub(r"<am>(.*?)</am>", r"", strXMLText)
+	# strXMLText = re.sub(r"<am/>", r"", strXMLText)
+	# strXMLText = re.sub(r"<ex>(.*?)</ex>", r"\1§", strXMLText)
+	# strXMLText = re.sub(r"<ex ([^>]*?)>(.*?)</ex>", r"\2§", strXMLText)
 
 	# Replace all spaces as word breaks
 	# strXMLText = re.sub(r"\s+", "§", strXMLText)
@@ -241,7 +241,7 @@ for strTextFullPath in vTextFullPaths:
 
 	wordElems = editionSegmented.findall(".//tei:w", namespaces=nsmap)
 	for i, wordElem in enumerate(wordElems):
-		wordElem.attrib[XML_NS + 'id'] = '{}-{}'.format(os.path.splitext(strTextFilename)[0], i)
+		wordElem.attrib[XML_NS + 'id'] = '{}-{}'.format(os.path.splitext(strTextFilename)[0], i + 1)
 		wordElem.attrib[XML_NS + 'lang'] = strMainLanguage
 
 	# make new transcription segmented element and append our segmented edition to that
