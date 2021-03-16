@@ -169,8 +169,8 @@ for strTextFullPath in vTextFullPaths:
 	strXMLText = re.sub(r"</num>", r"§", strXMLText)
 
 	# Deal with <expan>
-	strXMLText = re.sub(r"<expan>(.*?)</expan>", r"<w><expan>\1</expan></w>", strXMLText)
-	strXMLText = re.sub(r"<expan([^>]*?)>(.*?)</expan>", r"<w><expan \1>\2</expan></w>", strXMLText)
+	# strXMLText = re.sub(r"<expan>(.*?)</expan>", r"<w><expan>\1</expan></w>", strXMLText)
+	# strXMLText = re.sub(r"<expan([^>]*?)>(.*?)</expan>", r"<w><expan \1>\2</expan></w>", strXMLText)
 	strXMLText = re.sub(r"(\s*)<expan([^>]*?)>", r"<w><expan \1>", strXMLText)
 	strXMLText = re.sub(r"</expan>(\s*)", r"</expan></w>", strXMLText)
 	#
@@ -242,7 +242,7 @@ for strTextFullPath in vTextFullPaths:
 	wordElems = editionSegmented.findall(".//tei:w", namespaces=nsmap)
 	for i, wordElem in enumerate(wordElems):
 		wordElem.attrib[XML_NS + 'id'] = '{}-{}'.format(os.path.splitext(strTextFilename)[0], i)
-		wordElem.attrib[XML_NS + 'lang'] = strMainLanguage 
+		wordElem.attrib[XML_NS + 'lang'] = strMainLanguage
 
 	# make new transcription segmented element and append our segmented edition to that
 	body = xmlText.find(".//tei:body", namespaces=nsmap)
