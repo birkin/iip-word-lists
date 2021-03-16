@@ -125,9 +125,7 @@
          <div type="translation" ana="#b1" xml:id="fiqg0002.translation" corresp="#fiqg0002.transcription #fiqg0002.diplomatic">
             <p>Good hope!</p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="w0">Spes</w>
-<w xml:id="w1">bona</w>
-</p>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="fiqg0002-0">Spes</w> <w xml:id="fiqg0002-1">bona</w></p>
 </div>
 </body>
       <back>

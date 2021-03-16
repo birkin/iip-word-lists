@@ -3,7 +3,7 @@
     <teiHeader>
         <fileDesc>
             <!-- *************************************  <titleStmt>  *********************************
-                
+
             -->
             <titleStmt>
                 <title>Inscriptions of Israel/Palestine</title>
@@ -19,7 +19,7 @@
             </publicationStmt>
             <!--  *************************************  <sourceDesc>  ********************************* -->
             <sourceDesc>
-                <!--  *************************************  <msDesc>  ********************************* 
+                <!--  *************************************  <msDesc>  *********************************
                        repeat the id number here. This is an Epidoc convention.
                 -->
                 <msDesc>
@@ -89,7 +89,7 @@
             </sourceDesc>
         </fileDesc>
         <!--  *************************************  <encodingDesc>  ********************************
-            
+
             Encoders do not edit the <encodingDesc>.
         -->
         <encodingDesc>
@@ -133,13 +133,7 @@
             <div type="commentary">
                 <p/>
             </div>
-        <div type="edition" subtype="transcription_segmented"><p><w xml:id="w0">Sancto</w>
-<w xml:id="w1">Genio</w>
-<w xml:id="w2">frum</w>
-<w xml:id="w3">entariorum</w>
-<w xml:id="w4">omnia</w>
-<w xml:id="w5">felicia</w>
-</p>
+        <div type="edition" subtype="transcription_segmented"><p><w xml:id="caes0683-0">Sancto</w> <w xml:id="caes0683-1">Genio</w> <w xml:id="caes0683-2">frum</w> <w xml:id="caes0683-3">entariorum</w> <w xml:id="caes0683-4">omnia</w> <w xml:id="caes0683-5">felicia</w></p>
 </div>
 </body>
         <back>

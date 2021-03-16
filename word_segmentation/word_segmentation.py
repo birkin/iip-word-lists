@@ -109,8 +109,12 @@ for strTextFullPath in vTextFullPaths:
 
 	strXMLText = etree.tostring(x[0], encoding='utf8', method='xml').decode('utf-8')
 
+	# TODO: Keep orig/reg, abbr, supplied
+	# keep foreign xml:lang="heb"
+
 	# remove all <lb>s
 	strXMLText = re.sub(r"<lb break=\"no\"(\s*)/>", "", strXMLText)
+	strXMLText = re.sub(r"(\s*)<lb break=\"no\"(\s*)/>(\s*)", "", strXMLText)
 	strXMLText = re.sub(r"<lb\s*/>", " ", strXMLText)
 
 	# Just delete <note>...</note> right from the start. Shouldn't be there anyway.
@@ -165,12 +169,13 @@ for strTextFullPath in vTextFullPaths:
 	strXMLText = re.sub(r"</num>", r"§", strXMLText)
 
 	# Deal with <expan>
-	strXMLText = re.sub(r"<expan>(.*?)</expan>", r"§\1§", strXMLText)
-	strXMLText = re.sub(r"<expan([^>]*?)>(.*?)</expan>", r"§\2§", strXMLText)
-	strXMLText = re.sub(r"<expan([^>]*?)>", r"", strXMLText)
-	strXMLText = re.sub(r"</expan>", r"", strXMLText)
-	strXMLText = re.sub(r"<abbr>(.*?)</abbr>", r"§\1", strXMLText)
-	strXMLText = re.sub(r"<([/]*)abbr([/]*)>", "", strXMLText)
+	strXMLText = re.sub(r"<expan>(.*?)</expan>", r"<w><expan>\1</expan></w>", strXMLText)
+	strXMLText = re.sub(r"<expan([^>]*?)>(.*?)</expan>", r"<w><expan \1>\2</expan></w>", strXMLText)
+	strXMLText = re.sub(r"(\s*)<expan([^>]*?)>", r"<w><expan \1>", strXMLText)
+	strXMLText = re.sub(r"</expan>(\s*)", r"</expan></w>", strXMLText)
+	#
+	# strXMLText = re.sub(r"<abbr>(.*?)</abbr>", r"§\1", strXMLText)
+	# strXMLText = re.sub(r"<([/]*)abbr([/]*)>", "", strXMLText)
 
 	# Deal with <app>
 	strXMLText = re.sub(r"<app>(.*?)</app>", r"§\1§", strXMLText)
@@ -195,8 +200,8 @@ for strTextFullPath in vTextFullPaths:
 
 	# TEMP ELIMINATE FOREIGN AND NUM
 	strXMLText = re.sub(r"<foreign([^>]*?)>(.*?)</foreign>", r"\2", strXMLText)
-	strXMLText = re.sub(r"<num([^>]*?)>(.*?)</num>", r"\2", strXMLText)
-	strXMLText = re.sub(r"<num>(.*?)</num>", r"\1", strXMLText)
+	# strXMLText = re.sub(r"<num([^>]*?)>(.*?)</num>", r"\2", strXMLText)
+	# strXMLText = re.sub(r"<num>(.*?)</num>", r"\1", strXMLText)
 
 
 	# Collapse word breaks and reinstate line breaks
@@ -210,24 +215,33 @@ for strTextFullPath in vTextFullPaths:
 	strXMLText = re.sub(r"§", " ", strXMLText)    # Finally, collapse word breaks
 	editionInput = etree.XML(strXMLText, parser)
 
-
 	# iterate through both text and element nodes of the <p> element
 	for node in editionInput.xpath("child::node()"):
 		# Strategies for segmenting words:
 		if type(node) == etree._ElementUnicodeResult:
 			node = node.strip()
+			node = re.sub(r"[\.\,\;‧·⋅•∙]", "", node)
 
 			# Segment words on just the spaces
 			words = [word for word in node.split(" ") if len(word.strip())]
 
 			# Add word child elems
 			for i, word in enumerate(words):
-				wordElem = etree.SubElement(editionSegmented, 'w')
+				wordElem = etree.SubElement(editionSegmented, '{http://www.tei-c.org/ns/1.0}w')
 				wordElem.text = word.strip()
-				wordElem.tail = "\n"
-				wordElem.attrib[XML_NS + 'id'] = 'w{}'.format(i)
+				if i < len(words) - 1:
+					wordElem.tail = " "
 		else:
-			print(node.tag)
+			node.tail = ''
+			if node.tag == '{http://www.tei-c.org/ns/1.0}w':
+				editionSegmented.append(node)
+			elif node.tag == '{http://www.tei-c.org/ns/1.0}num':
+				editionSegmented.append(node)
+
+
+	wordElems = editionSegmented.findall(".//tei:w", namespaces=nsmap)
+	for i, wordElem in enumerate(wordElems):
+		wordElem.attrib[XML_NS + 'id'] = '{}-{}'.format(os.path.splitext(strTextFilename)[0], i)
 
 	# make new transcription segmented element and append our segmented edition to that
 	body = xmlText.find(".//tei:body", namespaces=nsmap)

@@ -191,17 +191,9 @@
                 <p> </p>
             </div>
             
-        <div type="edition" subtype="transcription_segmented"><p><w xml:id="w0">ὁ</w>
-<w xml:id="w1">δεῖνα/τοῦ</w>
-<w xml:id="w2">δεῖνος</w>
-<w xml:id="w3">μνισθῖ</w>
-<w xml:id="w4">εἰς</w>
-<w xml:id="w5">ἀγαθὸν</w>
-<w xml:id="w6">κὲ</w>
-<w xml:id="w7">ἠς</w>
-<w xml:id="w8">εὐλογίαν.</w>
-<w xml:id="w9">שלום</w>
-</p>
+        <div type="edition" subtype="transcription_segmented"><p><w xml:id="ashd0001-0">ὁ</w> <w xml:id="ashd0001-1">δεῖνα/τοῦ</w> <w xml:id="ashd0001-2">δεῖνος</w> <w xml:id="ashd0001-3">μνισθῖ</w> <w xml:id="ashd0001-4">εἰς</w> <w xml:id="ashd0001-5">ἀγαθὸν</w> <w xml:id="ashd0001-6">κὲ</w><w xml:id="ashd0001-7"><expan>
+                        <abbr>ἠ</abbr>ς 
+                    </expan></w><w xml:id="ashd0001-8">εὐλογίαν</w> <w xml:id="ashd0001-9">שלום</w></p>
 </div>
 </body>
         <back>

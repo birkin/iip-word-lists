@@ -168,26 +168,15 @@
             <div type="commentary" ana="b1">
                 <p/>
             </div>
-        <div type="edition" subtype="transcription_segmented"><p><w xml:id="w0">Imperatoribus</w>
-<w xml:id="w1">Caesaribus</w>
-<w xml:id="w2">fratribus</w>
-<w xml:id="w3">Gaio</w>
-<w xml:id="w4">Valerio</w>
-<w xml:id="w5">Diocletiano</w>
-<w xml:id="w6">et</w>
-<w xml:id="w7">Marco</w>
-<w xml:id="w8">Aurelio</w>
-<w xml:id="w9">Valerio</w>
-<w xml:id="w10">Maximiano</w>
-<w xml:id="w11">piis</w>
-<w xml:id="w12">felicibus</w>
-<w xml:id="w13">invictis</w>
-<w xml:id="w14">Augustis</w>
-<w xml:id="w15">ἀπὸ</w>
-<w xml:id="w16">Ἀσκάλωνος</w>
-<w xml:id="w17">μίλια</w>
-<w xml:id="w18">γ</w>
-</p>
+        <div type="edition" subtype="transcription_segmented"><p><w xml:id="ashk0003b-0">Imperatoribus</w> <w xml:id="ashk0003b-1">Caesaribus</w> <w xml:id="ashk0003b-2">fratribus</w> <w xml:id="ashk0003b-3">Gaio</w> <w xml:id="ashk0003b-4">Valerio</w> <w xml:id="ashk0003b-5">Diocletiano</w> <w xml:id="ashk0003b-6">et</w><w xml:id="ashk0003b-7"><expan>
+                  <abbr>M</abbr>arco 
+               </expan></w><w xml:id="ashk0003b-8"><expan>
+                  <abbr>Aur</abbr>elio 
+               </expan></w><w xml:id="ashk0003b-9">Valerio</w> <w xml:id="ashk0003b-10">Maximiano</w><w xml:id="ashk0003b-11"><expan>
+                  <abbr>p</abbr>iis 
+               </expan></w><w xml:id="ashk0003b-12"><expan><abbr>f</abbr>elicibus 
+               </expan></w><w xml:id="ashk0003b-13">invictis</w><w xml:id="ashk0003b-14"><expan><abbr>Aug</abbr>ustis 
+               </expan></w><w xml:id="ashk0003b-15">ἀπὸ</w><w xml:id="ashk0003b-16"><w xml:id="ashk0003b-17"><w xml:id="ashk0003b-18"><expan><abbr>Ἀσκ</abbr>άλωνος </expan></w></w></w><w xml:id="ashk0003b-19"><w xml:id="ashk0003b-20"><w xml:id="ashk0003b-21"><expan><abbr>μί</abbr>λια </expan></w></w></w><w xml:id="ashk0003b-22">γ</w></p>
 </div>
 </body>
         <back>
