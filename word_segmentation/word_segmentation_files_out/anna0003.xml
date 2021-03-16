@@ -124,7 +124,7 @@
          <div type="translation" ana="#b1" xml:id="anna0003.translation" corresp="#anna0003.transcription">
             <p>Shobai son of Yehosef</p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="anna0003-0">שבי</w> <w xml:id="anna0003-1">בן</w> <w xml:id="anna0003-2">יהוסף</w></p>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="anna0003-0" xml:lang="he">שבי</w> <w xml:id="anna0003-1" xml:lang="he">בן</w> <w xml:id="anna0003-2" xml:lang="he">יהוסף</w></p>
 </div>
 </body>
       <back>

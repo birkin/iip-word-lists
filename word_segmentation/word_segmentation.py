@@ -242,6 +242,7 @@ for strTextFullPath in vTextFullPaths:
 	wordElems = editionSegmented.findall(".//tei:w", namespaces=nsmap)
 	for i, wordElem in enumerate(wordElems):
 		wordElem.attrib[XML_NS + 'id'] = '{}-{}'.format(os.path.splitext(strTextFilename)[0], i)
+		wordElem.attrib[XML_NS + 'lang'] = strMainLanguage 
 
 	# make new transcription segmented element and append our segmented edition to that
 	body = xmlText.find(".//tei:body", namespaces=nsmap)

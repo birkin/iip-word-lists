@@ -139,7 +139,7 @@
                 <p>Photograph is of a reproduction make to look like an inscription rather than a
                     mosaic.</p>
             </div>
-        <div type="edition" subtype="transcription_segmented"><p><w xml:id="caes0682-0">Spes</w> <w xml:id="caes0682-1">bona</w><w xml:id="caes0682-2"><w xml:id="caes0682-3"><w xml:id="caes0682-4"><expan><abbr>adiutorib</abbr>us </expan></w></w></w><w xml:id="caes0682-5">offici</w><w xml:id="caes0682-6"><w xml:id="caes0682-7"><w xml:id="caes0682-8"><expan><abbr>custodiar</abbr>um </expan></w></w></w></p>
+        <div type="edition" subtype="transcription_segmented"><p><w xml:id="caes0682-0" xml:lang="la">Spes</w> <w xml:id="caes0682-1" xml:lang="la">bona</w><w xml:id="caes0682-2" xml:lang="la"><w xml:id="caes0682-3" xml:lang="la"><w xml:id="caes0682-4" xml:lang="la"><expan><abbr>adiutorib</abbr>us </expan></w></w></w><w xml:id="caes0682-5" xml:lang="la">offici</w><w xml:id="caes0682-6" xml:lang="la"><w xml:id="caes0682-7" xml:lang="la"><w xml:id="caes0682-8" xml:lang="la"><expan><abbr>custodiar</abbr>um </expan></w></w></w></p>
 </div>
 </body>
         <back>
