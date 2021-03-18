@@ -296,6 +296,7 @@ vSegmentedTexts = glob.glob(strPathOut + os.sep + '*.xml')
 vSegmentedTexts.sort()
 
 WORD_LISTS = {}
+WORD_COUNT = 0
 
 # Loop through texts building lists
 for strSegmentedTextFullPath in vSegmentedTexts:
@@ -309,18 +310,27 @@ for strSegmentedTextFullPath in vSegmentedTexts:
 	parser = etree.XMLParser(ns_clean=True, remove_blank_text=False)
 	xmlText = etree.parse(strSegmentedTextFullPath, parser)
 	wordElems = xmlText.findall(".//tei:div[@type='edition'][@subtype='transcription_segmented']/tei:p/tei:w", namespaces=nsmap)
+	WORD_COUNT += len(wordElems)
 
 	# Build word lists by language
 	for wordElem in wordElems:
-		if wordElem.text and len(wordElem.text.strip()):
+		# serialize the word elems to text
+		wordElemText = etree.tostring(wordElem, encoding='utf8', method='xml').decode('utf-8').strip()
+		wordElemText = wordElemText.replace('xmlns="http://www.tei-c.org/ns/1.0"', "")
+		wordElemText = wordElemText.replace('xmlns:xi="http://www.w3.org/2001/XInclude"', "")
+
+		# add version to unique/alphabetize on
+		wordElemToken = ''.join(wordElem.itertext()).strip()
+
+		if wordElemText and len(wordElemText):
 			if wordElem.attrib[XML_NS + 'lang'] in WORD_LISTS:
-				if wordElem.text.strip() in WORD_LISTS[wordElem.attrib[XML_NS + 'lang']]:
-					WORD_LISTS[wordElem.attrib[XML_NS + 'lang']][wordElem.text.strip()].append(wordElem.attrib[XML_NS + 'id'])
+				if wordElemToken in WORD_LISTS[wordElem.attrib[XML_NS + 'lang']]:
+					WORD_LISTS[wordElem.attrib[XML_NS + 'lang']][wordElemToken].append(wordElemText)
 				else:
-					WORD_LISTS[wordElem.attrib[XML_NS + 'lang']][wordElem.text.strip()] = [wordElem.attrib[XML_NS + 'id']]
+					WORD_LISTS[wordElem.attrib[XML_NS + 'lang']][wordElemToken] = [wordElemText]
 			else:
 				WORD_LISTS[wordElem.attrib[XML_NS + 'lang']] = {}
-				WORD_LISTS[wordElem.attrib[XML_NS + 'lang']][wordElem.text.strip()] = [wordElem.attrib[XML_NS + 'id']]
+				WORD_LISTS[wordElem.attrib[XML_NS + 'lang']][wordElemToken] = [wordElemText]
 
 # Write word lists to CSV files
 for lang in WORD_LISTS:
@@ -337,3 +347,5 @@ for lang in WORD_LISTS:
 			row.append(len(sorted_lang_dict[word]))
 			row.extend(sorted_lang_dict[word])
 			csvwriter.writerow(row)
+
+print(WORD_COUNT)
