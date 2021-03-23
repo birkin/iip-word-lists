@@ -185,7 +185,7 @@
             </div>
             <!-- The bibl has more contained elements. What is the possible list of values of the biblScope/@type? 
              -->
-        <div type="edition" subtype="transcription_segmented"><p><w xml:id="jeru0552-1" xml:lang="grc">Ὀστᾶ</w> <w xml:id="jeru0552-2" xml:lang="grc">τῶν</w> <w xml:id="jeru0552-3" xml:lang="grc">τοῦ</w> <w xml:id="jeru0552-4" xml:lang="grc">Νεικά</w> <w xml:id="jeru0552-5" xml:lang="grc">νορος</w> <w xml:id="jeru0552-6" xml:lang="grc">Ἀλεξανδεως</w> <w xml:id="jeru0552-7" xml:lang="grc">ποιησαντος</w> <w xml:id="jeru0552-8" xml:lang="grc">τὰς</w> <w xml:id="jeru0552-9" xml:lang="grc">θύρας</w> <w xml:id="jeru0552-10" xml:lang="grc">נכנר</w> <w xml:id="jeru0552-11" xml:lang="grc">אלכסא</w></p>
+        <div type="edition" subtype="transcription_segmented"><p><w xml:id="jeru0552-1" xml:lang="grc">Ὀστᾶ</w> <w xml:id="jeru0552-2" xml:lang="grc">τῶν</w> <w xml:id="jeru0552-3" xml:lang="grc">τοῦ</w> <w xml:id="jeru0552-4" xml:lang="grc">Νεικά</w> <w xml:id="jeru0552-5" xml:lang="grc">νορος</w> <w xml:id="jeru0552-6" xml:lang="grc">Ἀλεξανδεως</w> <w xml:id="jeru0552-7" xml:lang="grc">ποιησαντος</w> <w xml:id="jeru0552-8" xml:lang="grc">τὰς</w> <w xml:id="jeru0552-9" xml:lang="grc">θύρας</w></p>
 </div>
 </body>
         <back>

@@ -127,7 +127,7 @@
          <div type="translation" ana="#MS" xml:id="beth0049.translation" corresp="#beth0049.transcription">
             <p>Of <rs type="caste" ana="interpretations.xml#priests">priests</rs>. </p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="beth0049-1" xml:lang="grc">Ἱερέων</w> <w xml:id="beth0049-2" xml:lang="grc">כהנים</w></p>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="beth0049-1" xml:lang="grc">Ἱερέων</w></p>
 </div>
 </body>
       <back>

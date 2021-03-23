@@ -136,7 +136,7 @@
        <persName xml:lang="hbo " type="patr" ref="persons.xml#beth0041p02">Isaac </persName>
                </name>, <rs type="formula" ana="interpretations.xml#courage">have courage</rs>. </p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="beth0041-1" xml:lang="grc"><supplied reason="lost">רבי</supplied></w><w xml:id="beth0041-2" xml:lang="grc">יוסף</w> <w xml:id="beth0041-3" xml:lang="grc">בן</w> <w xml:id="beth0041-4" xml:lang="grc">יצחק</w> <w xml:id="beth0041-5" xml:lang="grc">Ῥιββὶ</w> <w xml:id="beth0041-6" xml:lang="grc">Ἰωσῆ</w> <w xml:id="beth0041-7" xml:lang="grc">ὅσιος</w> <w xml:id="beth0041-8" xml:lang="grc">υἱὸς</w> <w xml:id="beth0041-9" xml:lang="grc">Εἰσακίο</w><w xml:id="beth0041-10" xml:lang="grc"><supplied reason="lost">υ</supplied></w><w xml:id="beth0041-11" xml:lang="grc">θάρσει</w> <w xml:id="beth0041-12" xml:lang="grc">Μ</w></p>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="beth0041-1" xml:lang="grc">Ῥιββὶ</w> <w xml:id="beth0041-2" xml:lang="grc">Ἰωσῆ</w> <w xml:id="beth0041-3" xml:lang="grc">ὅσιος</w> <w xml:id="beth0041-4" xml:lang="grc">υἱὸς</w> <w xml:id="beth0041-5" xml:lang="grc">Εἰσακίο</w><w xml:id="beth0041-6" xml:lang="grc"><supplied reason="lost">υ</supplied></w><w xml:id="beth0041-7" xml:lang="grc">θάρσει</w> <w xml:id="beth0041-8" xml:lang="grc">Μ</w></p>
 </div>
 </body>
       <back>

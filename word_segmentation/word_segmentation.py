@@ -168,11 +168,11 @@ for strTextFullPath in vTextFullPaths:
 
 	# Deal roughly with word breaks and <foreign ...>
 	# Foreign may have one or more words with it
-	strXMLText = re.sub(r"<foreign xml\:lang=\"(\w+)\">", r"§", strXMLText)
-	strXMLText = re.sub(r"<foreign xml\:lang=\"(\w+(?:-\w+))\">", r"§", strXMLText)
-	strXMLText = re.sub(r"<foreign\s*>", r"§", strXMLText)
-	strXMLText = re.sub(r"<foreign>", r"§", strXMLText)
-	strXMLText = re.sub(r"</foreign>", r"§", strXMLText)
+	# strXMLText = re.sub(r"<foreign xml\:lang=\"(\w+)\">", r"<w><foreign xml:lang='\1'>", strXMLText)
+	# strXMLText = re.sub(r"<foreign xml\:lang=\"(\w+(?:-\w+))\">", r"<w><foreign xml:lang='\1'>", strXMLText)
+	# strXMLText = re.sub(r"<foreign\s*>", r"<w><foreign>", strXMLText)
+	# strXMLText = re.sub(r"<foreign>", r"<w><foreign>", strXMLText)
+	# strXMLText = re.sub(r"</foreign>", r"</foreign></w>", strXMLText)
 
 	# Deal with word breaks and <num ...>
 	strXMLText = re.sub(r"<num([^>]*?)>", r"§", strXMLText)
@@ -263,7 +263,13 @@ for strTextFullPath in vTextFullPaths:
 	wordElems = editionSegmented.findall(".//tei:w", namespaces=nsmap)
 	for i, wordElem in enumerate(wordElems):
 		wordElem.attrib[XML_NS + 'id'] = '{}-{}'.format(os.path.splitext(strTextFilename)[0], i + 1)
-		wordElem.attrib[XML_NS + 'lang'] = strMainLanguage
+		has_foreign_elem = False
+		for child in wordElem:
+			if child.tag == '{http://www.tei-c.org/ns/1.0}supplied' and XML_NS + 'lang' in child.attrib:
+				wordElem.attrib[XML_NS + 'lang'] = child.attrib[XML_NS + 'lang']
+				has_foreign_elem = True
+		if not has_foreign_elem:
+			wordElem.attrib[XML_NS + 'lang'] = strMainLanguage
 
 	# make new transcription segmented element and append our segmented edition to that
 	body = xmlText.find(".//tei:body", namespaces=nsmap)

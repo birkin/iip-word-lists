@@ -132,10 +132,10 @@
                 </p>
          </div>
       <div type="edition" subtype="transcription_segmented"><p><w xml:id="dabb0001-1" xml:lang="arc">אלעזר</w> <w xml:id="dabb0001-2" xml:lang="arc">בר</w><w xml:id="dabb0001-3" xml:lang="arc"><supplied reason="undefined">ר</supplied></w><w xml:id="dabb0001-4" xml:lang="arc">בה</w> <w xml:id="dabb0001-5" xml:lang="arc">עבד</w> <w xml:id="dabb0001-6" xml:lang="arc">עמודיה</w> <w xml:id="dabb0001-7" xml:lang="arc">דעל</w> <w xml:id="dabb0001-8" xml:lang="arc">מן</w><w xml:id="dabb0001-9" xml:lang="arc"><supplied reason="undefined">
-                   ΡΟ 
-               </supplied></w><w xml:id="dabb0001-10" xml:lang="arc">ΥϹΤΙΚΟϹ</w> <w xml:id="dabb0001-11" xml:lang="arc">ΕΚΤ</w><w xml:id="dabb0001-12" xml:lang="arc"><supplied reason="undefined">
-                   ΙϹΕΝ 
-               </supplied></w><w xml:id="dabb0001-13" xml:lang="arc">כפתה</w> <w xml:id="dabb0001-14" xml:lang="arc">ופצ</w><w xml:id="dabb0001-15" xml:lang="arc"><supplied reason="undefined">ימיה</supplied></w></p>
+                  <foreign xml:lang="grc">ΡΟ</foreign>
+               </supplied></w><w xml:id="dabb0001-10" xml:lang="arc"><supplied reason="undefined">
+                  <foreign xml:lang="grc">ΙϹΕΝ</foreign>
+               </supplied></w><w xml:id="dabb0001-11" xml:lang="arc">כפתה</w> <w xml:id="dabb0001-12" xml:lang="arc">ופצ</w><w xml:id="dabb0001-13" xml:lang="arc"><supplied reason="undefined">ימיה</supplied></w></p>
 </div>
 </body>
       <back>

@@ -9,9 +9,6 @@ Africe,1,"<w   xml:id=""jeru0495-7"" xml:lang=""la"">Africe</w>"
 Agrippae,1,"<w   xml:id=""caes0032-7"" xml:lang=""la"">Agrippae</w>"
 Agrippam,1,"<w   xml:id=""caes0003-3"" xml:lang=""la"">Agrippam</w>"
 Alamannico,1,"<w   xml:id=""maay0001-25"" xml:lang=""la"">Alamannico</w>"
-Amphorae,1,"<w   xml:id=""masa0826-5"" xml:lang=""la""><expan>
-                            <abbr>A</abbr><ex>mphorae</ex>
-                        </expan></w>"
 Ant,1,"<w   xml:id=""ashk0003a-5"" xml:lang=""la"">Ant</w>"
 Antonin,1,"<w   xml:id=""caes0018-21"" xml:lang=""la"">Antonin</w>"
 Antoninianae,2,"<w   xml:id=""caes0004-63"" xml:lang=""la"">Antoninianae</w>","<w   xml:id=""jeru0554-34"" xml:lang=""la""><expan><abbr><w xml:id=""jeru0554-35"" xml:lang=""la""><supplied reason=""lost"">Antoninia</supplied></w>na</abbr><ex>e</ex></expan></w>"
@@ -321,7 +318,6 @@ Galerio,2,"<w   xml:id=""bshe0006-8"" xml:lang=""la""><expan>
                </expan></w>","<w   xml:id=""caes0014-5"" xml:lang=""la""><expan>
                   <abbr>Galer</abbr><ex>io</ex>
                </expan></w>"
-Garum,1,"<w   xml:id=""masa0826-1"" xml:lang=""la"">Garum</w>"
 Geni,1,"<w   xml:id=""jeru0495-5"" xml:lang=""la"">Geni</w>"
 Genio,1,"<w   xml:id=""caes0683-3"" xml:lang=""la"">Genio</w>"
 Germanicus,1,"<w   xml:id=""unkn0130-8"" xml:lang=""la"">Germanicus</w>"
@@ -1634,30 +1630,9 @@ voluntariorum,1,"<w   xml:id=""caes0004-50"" xml:lang=""la""><expan>
                      <abbr>vol</abbr><ex>untariorum</ex>
                   </expan></w>"
 votum,1,"<w   xml:id=""haif0020a-2"" xml:lang=""la"">votum</w>"
-Δ,1,"<w   xml:id=""masa0826-2"" xml:lang=""la"">Δ</w>"
-Διὰ,1,"<w   xml:id=""bshe0006-30"" xml:lang=""la"">Διὰ</w>"
-Εὐγ,1,"<w   xml:id=""bshe0006-35"" xml:lang=""la"">Εὐγ</w>"
+Δ,1,"<w   xml:id=""masa0826-1"" xml:lang=""la"">Δ</w>"
 Θ,1,"<w   xml:id=""masa0922-1"" xml:lang=""la"">Θ</w>"
-Λεόντιον,1,"<w   xml:id=""bshe0006-33"" xml:lang=""la"">Λεόντιον</w>"
-έν,1,"<w   xml:id=""bshe0006-36"" xml:lang=""la""><supplied reason=""lost"">έν</supplied></w>"
-βασιλέως,1,"<w   xml:id=""masa0826-3"" xml:lang=""la""><expan>
+βασιλέως,1,"<w   xml:id=""masa0826-2"" xml:lang=""la""><expan>
                         <abbr>βασιλέω</abbr><ex>ς</ex>
                     </expan></w>"
-γ,1,"<w   xml:id=""ashk0003b-19"" xml:lang=""la"">γ</w>"
-ιον,1,"<w   xml:id=""bshe0006-37"" xml:lang=""la"">ιον</w>"
-καὶ,1,"<w   xml:id=""bshe0006-34"" xml:lang=""la"">καὶ</w>"
-κολωνίας,1,"<w   xml:id=""bshe0006-40"" xml:lang=""la""><expan>
-                     <abbr>κολ</abbr><ex>ωνίας</ex>
-                  </expan></w>"
-μίλια,1,"<w   xml:id=""ashk0003b-18"" xml:lang=""la""><expan><abbr>μί</abbr><ex>λια</ex></expan></w>"
-περὶ,1,"<w   xml:id=""bshe0006-32"" xml:lang=""la"">περὶ</w>"
-πόλεως,1,"<w   xml:id=""bshe0006-39"" xml:lang=""la""><expan>
-                     <abbr>πόλ</abbr><ex>εως</ex>
-                  </expan></w>"
-ρο,1,"<w   xml:id=""masa0826-4"" xml:lang=""la"">ρο</w>"
-στρατηγοὺς,1,"<w   xml:id=""bshe0006-38"" xml:lang=""la""><expan>
-                     <abbr>στρατηγ</abbr><ex>οὺς</ex>
-                  </expan></w>"
-τῶν,1,"<w   xml:id=""bshe0006-31"" xml:lang=""la"">τῶν</w>"
-ἀπὸ,1,"<w   xml:id=""ashk0003b-16"" xml:lang=""la"">ἀπὸ</w>"
-Ἀσκάλωνος,1,"<w   xml:id=""ashk0003b-17"" xml:lang=""la""><expan><abbr>Ἀσκ</abbr><ex>άλωνος</ex></expan></w>"
+ρο,1,"<w   xml:id=""masa0826-3"" xml:lang=""la"">ρο</w>"

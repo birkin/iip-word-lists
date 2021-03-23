@@ -199,9 +199,7 @@
             </div>
             <!-- The bibl has more contained elements. What is the possible list of values of the biblScope/@type? 
              -->
-        <div type="edition" subtype="transcription_segmented"><p><w xml:id="masa0797-1" xml:lang="grc"><expan>
-                            <abbr>Am</abbr><ex cert="low">ineum</ex>
-                        </expan></w><w xml:id="masa0797-2" xml:lang="grc"><supplied reason="lost">Καίσ</supplied></w><w xml:id="masa0797-3" xml:lang="grc">αρι</w> <w xml:id="masa0797-4" xml:lang="grc">ειαδ</w></p>
+        <div type="edition" subtype="transcription_segmented"><p><w xml:id="masa0797-1" xml:lang="grc"><supplied reason="lost">Καίσ</supplied></w><w xml:id="masa0797-2" xml:lang="grc">αρι</w> <w xml:id="masa0797-3" xml:lang="grc">ειαδ</w></p>
 </div>
 </body>
         <back>

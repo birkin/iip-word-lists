@@ -132,7 +132,7 @@
                <persName xml:lang="hbo " ref="persons.xml#beth0029p02">Judah </persName>
             </p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="beth0029-1" xml:lang="grc">שלום</w> <w xml:id="beth0029-2" xml:lang="grc">Ἰούδας</w> <w xml:id="beth0029-3" xml:lang="grc">θάρσει</w> <w xml:id="beth0029-4" xml:lang="grc">φίλτατε</w> <w xml:id="beth0029-5" xml:lang="grc">יהודה</w> <w xml:id="beth0029-6" xml:lang="grc">הקטן</w></p>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="beth0029-1" xml:lang="grc">Ἰούδας</w> <w xml:id="beth0029-2" xml:lang="grc">θάρσει</w> <w xml:id="beth0029-3" xml:lang="grc">φίλτατε</w></p>
 </div>
 </body>
       <back>
