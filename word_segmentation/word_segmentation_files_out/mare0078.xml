@@ -147,7 +147,12 @@
                     indicate the date and the amount of qabs of unknown products. However, if no
                     text is missing, this might be a short form of a docket.</p>
             </div>
-        <div type="edition" subtype="transcription_segmented"><p><w xml:id="mare0078-1" xml:lang="arc">ב</w><w xml:id="mare0078-2" xml:lang="arc">ק</w><w xml:id="mare0078-3" xml:lang="arc">פ</w></p>
+        <div type="edition" subtype="transcription_segmented"><p><w xml:id="mare0078-1" xml:lang="arc">ב</w><w xml:id="mare0078-2" xml:lang="arc"><num value="22">
+                  <g type="phoen-20"/>
+                        <g type="two-slanted-strokes"/>
+               </num></w><w xml:id="mare0078-3" xml:lang="arc">ק</w><w xml:id="mare0078-4" xml:lang="arc"><num value="5">
+                  <g type="five-slanted-strokes"/>
+               </num></w><w xml:id="mare0078-5" xml:lang="arc">פ</w></p>
 </div>
 </body>
         <back>

@@ -129,7 +129,7 @@
          <div type="translation" ana="#b1" xml:id="fiqg0007.translation" corresp="#fiqg0007.transcription #fiqg0007.diplomatic">
             <p>...nio(?). Seventeen years old.</p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="fiqg0007-1" xml:lang="grc">νιω</w><w xml:id="fiqg0007-2" xml:lang="grc"><supplied reason="undefined">ἐ</supplied></w><w xml:id="fiqg0007-3" xml:lang="grc">τῶν</w> <w xml:id="fiqg0007-4" xml:lang="grc">ιζ</w></p>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="fiqg0007-1" xml:lang="grc">νιω</w><w xml:id="fiqg0007-2" xml:lang="grc"><supplied reason="undefined">ἐ</supplied></w><w xml:id="fiqg0007-3" xml:lang="grc">τῶν</w><w xml:id="fiqg0007-4" xml:lang="grc"><num value="17">ιζ</num></w></p>
 </div>
 </body>
       <back>

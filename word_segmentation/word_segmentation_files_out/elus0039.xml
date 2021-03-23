@@ -127,7 +127,7 @@
             <p>...(No one is) immortal. Year 321</p>
          </div>
       <div type="edition" subtype="transcription_segmented"><p><w xml:id="elus0039-1" xml:lang="grc"><expan><abbr><w xml:id="elus0039-2" xml:lang="grc"><supplied reason="undefined">ἀ</supplied></w>θά</abbr><ex>να</ex><abbr>τος</abbr>
-               </expan></w><w xml:id="elus0039-3" xml:lang="grc">ἔτους</w> <w xml:id="elus0039-4" xml:lang="grc">τκα</w></p>
+               </expan></w><w xml:id="elus0039-3" xml:lang="grc">ἔτους</w><w xml:id="elus0039-4" xml:lang="grc"><num value="321">τκα</num></w></p>
 </div>
 </body>
       <back>

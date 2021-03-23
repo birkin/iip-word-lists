@@ -156,7 +156,7 @@
                 <p/>
             </div>
 
-        <div type="edition" subtype="transcription_segmented"><p><w xml:id="idum0607-1" xml:lang="arc">חורי</w></p>
+        <div type="edition" subtype="transcription_segmented"><p><w xml:id="idum0607-1" xml:lang="arc">חורי</w><w xml:id="idum0607-2" xml:lang="arc"><num value="19"><g type="phoen-10"/><g type="nine-vertical-strokes"/></num></w></p>
 </div>
 </body>
         <back>

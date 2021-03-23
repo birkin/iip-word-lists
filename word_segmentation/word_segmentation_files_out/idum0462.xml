@@ -163,7 +163,7 @@
                 <p/>
             </div>
 
-        <div type="edition" subtype="transcription_segmented"><p><w xml:id="idum0462-1" xml:lang="arc">ב</w><w xml:id="idum0462-2" xml:lang="arc">לסיון</w> <w xml:id="idum0462-3" xml:lang="arc">עלקוס</w> <w xml:id="idum0462-4" xml:lang="arc">בר</w> <w xml:id="idum0462-5" xml:lang="arc">עדרי</w> <w xml:id="idum0462-6" xml:lang="arc">לעליאל</w> <w xml:id="idum0462-7" xml:lang="arc">מן</w> <w xml:id="idum0462-8" xml:lang="arc">עבור</w> <w xml:id="idum0462-9" xml:lang="arc">צחרו</w> <w xml:id="idum0462-10" xml:lang="arc">חס</w></p>
+        <div type="edition" subtype="transcription_segmented"><p><w xml:id="idum0462-1" xml:lang="arc">ב</w><w xml:id="idum0462-2" xml:lang="arc"><num value="10"><g type="phoen-10"/></num></w><w xml:id="idum0462-3" xml:lang="arc">לסיון</w> <w xml:id="idum0462-4" xml:lang="arc">עלקוס</w> <w xml:id="idum0462-5" xml:lang="arc">בר</w> <w xml:id="idum0462-6" xml:lang="arc">עדרי</w> <w xml:id="idum0462-7" xml:lang="arc">לעליאל</w> <w xml:id="idum0462-8" xml:lang="arc">מן</w> <w xml:id="idum0462-9" xml:lang="arc">עבור</w> <w xml:id="idum0462-10" xml:lang="arc">צחרו</w> <w xml:id="idum0462-11" xml:lang="arc">חס</w><w xml:id="idum0462-12" xml:lang="arc"><num value="15"><g type="phoen-10"/><g type="five-vertical-strokes"/></num></w></p>
 </div>
 </body>
         <back>

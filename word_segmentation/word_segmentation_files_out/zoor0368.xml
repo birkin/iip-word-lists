@@ -168,7 +168,7 @@
             <div type="commentary" ana="b1">
                 <p/>
             </div>
-        <div type="edition" subtype="transcription_segmented"><p><w xml:id="zoor0368-1" xml:lang="grc">μνημεῖον</w> <w xml:id="zoor0368-2" xml:lang="grc">Θεώνης</w> <w xml:id="zoor0368-3" xml:lang="grc">Σαμιράββου</w> <w xml:id="zoor0368-4" xml:lang="grc">παυσαμένης</w> <w xml:id="zoor0368-5" xml:lang="grc">ἐτῶν</w> <w xml:id="zoor0368-6" xml:lang="grc">κε</w> <w xml:id="zoor0368-7" xml:lang="grc">ἔτους</w> <w xml:id="zoor0368-8" xml:lang="grc">σπζ</w><w xml:id="zoor0368-9" xml:lang="grc"><expan><abbr>μη</abbr><ex>νὸς</ex></expan></w><w xml:id="zoor0368-10" xml:lang="grc">Ἀπελλαίου</w> <w xml:id="zoor0368-11" xml:lang="grc">ε</w> <w xml:id="zoor0368-12" xml:lang="grc">θάρσει</w> <w xml:id="zoor0368-13" xml:lang="grc">οὐδεις</w> <w xml:id="zoor0368-14" xml:lang="grc">ἀθάνατος</w></p>
+        <div type="edition" subtype="transcription_segmented"><p><w xml:id="zoor0368-1" xml:lang="grc">μνημεῖον</w> <w xml:id="zoor0368-2" xml:lang="grc">Θεώνης</w> <w xml:id="zoor0368-3" xml:lang="grc">Σαμιράββου</w> <w xml:id="zoor0368-4" xml:lang="grc">παυσαμένης</w> <w xml:id="zoor0368-5" xml:lang="grc">ἐτῶν</w><w xml:id="zoor0368-6" xml:lang="grc"><num value="25">κε</num></w><w xml:id="zoor0368-7" xml:lang="grc">ἔτους</w><w xml:id="zoor0368-8" xml:lang="grc"><num value="287">σπζ</num></w><w xml:id="zoor0368-9" xml:lang="grc"><expan><abbr>μη</abbr><ex>νὸς</ex></expan></w><w xml:id="zoor0368-10" xml:lang="grc">Ἀπελλαίου</w><w xml:id="zoor0368-11" xml:lang="grc"><num value="5">ε</num></w><w xml:id="zoor0368-12" xml:lang="grc">θάρσει</w> <w xml:id="zoor0368-13" xml:lang="grc">οὐδεις</w> <w xml:id="zoor0368-14" xml:lang="grc">ἀθάνατος</w></p>
 </div>
 </body>
         <back>

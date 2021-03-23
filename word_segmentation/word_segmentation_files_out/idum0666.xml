@@ -165,7 +165,7 @@
                 <p>The word "brought" is actually in the text in line 1.</p>
             </div>
 
-        <div type="edition" subtype="transcription_segmented"><p><w xml:id="idum0666-1" xml:lang="arc">היתי</w> <w xml:id="idum0666-2" xml:lang="arc">זבדאדה</w> <w xml:id="idum0666-3" xml:lang="arc">בר</w> <w xml:id="idum0666-4" xml:lang="arc">יבנאל</w> <w xml:id="idum0666-5" xml:lang="arc">ושברו</w> <w xml:id="idum0666-6" xml:lang="arc">מן</w> <w xml:id="idum0666-7" xml:lang="arc">חמר</w> <w xml:id="idum0666-8" xml:lang="arc">חטירא</w> <w xml:id="idum0666-9" xml:lang="arc">ב</w><w xml:id="idum0666-10" xml:lang="arc">לסיון</w> <w xml:id="idum0666-11" xml:lang="arc">שנת</w><w xml:id="idum0666-12" xml:lang="arc">חגי</w> <w xml:id="idum0666-13" xml:lang="arc">וב</w></p>
+        <div type="edition" subtype="transcription_segmented"><p><w xml:id="idum0666-1" xml:lang="arc">היתי</w> <w xml:id="idum0666-2" xml:lang="arc">זבדאדה</w> <w xml:id="idum0666-3" xml:lang="arc">בר</w> <w xml:id="idum0666-4" xml:lang="arc">יבנאל</w> <w xml:id="idum0666-5" xml:lang="arc">ושברו</w> <w xml:id="idum0666-6" xml:lang="arc">מן</w> <w xml:id="idum0666-7" xml:lang="arc">חמר</w> <w xml:id="idum0666-8" xml:lang="arc">חטירא</w> <w xml:id="idum0666-9" xml:lang="arc">ב</w><w xml:id="idum0666-10" xml:lang="arc"><num value="26"><g type="phoen-20"/><g type="six-vertical-strokes"/></num></w><w xml:id="idum0666-11" xml:lang="arc">לסיון</w> <w xml:id="idum0666-12" xml:lang="arc">שנת</w><w xml:id="idum0666-13" xml:lang="arc"><num value="42"><g type="phoen-20"/><g type="phoen-20"/><g type="two-vertical-strokes"/></num></w><w xml:id="idum0666-14" xml:lang="arc">חגי</w> <w xml:id="idum0666-15" xml:lang="arc">וב</w></p>
 </div>
 </body>
         <back>

@@ -195,7 +195,7 @@
             </div>
             <!-- The bibl has more contained elements. What is the possible list of values of the biblScope/@type? 
              -->
-        <div type="edition" subtype="transcription_segmented"><p><w xml:id="jaff0072-1" xml:lang="grc">Τόπος</w> <w xml:id="jaff0072-2" xml:lang="grc">Ἰακωδες</w> <w xml:id="jaff0072-3" xml:lang="grc">υἱοῦ</w> <w xml:id="jaff0072-4" xml:lang="grc">Όλυμπίου</w> <w xml:id="jaff0072-5" xml:lang="grc">Ἀλεξανδρέος</w> <w xml:id="jaff0072-6" xml:lang="grc">Κοχαδων</w><w xml:id="jaff0072-7" xml:lang="grc"><expan><abbr>ἒ</abbr><ex>των</ex></expan></w><w xml:id="jaff0072-8" xml:lang="grc">ξγ</w></p>
+        <div type="edition" subtype="transcription_segmented"><p><w xml:id="jaff0072-1" xml:lang="grc">Τόπος</w> <w xml:id="jaff0072-2" xml:lang="grc">Ἰακωδες</w> <w xml:id="jaff0072-3" xml:lang="grc">υἱοῦ</w> <w xml:id="jaff0072-4" xml:lang="grc">Όλυμπίου</w> <w xml:id="jaff0072-5" xml:lang="grc">Ἀλεξανδρέος</w> <w xml:id="jaff0072-6" xml:lang="grc">Κοχαδων</w><w xml:id="jaff0072-7" xml:lang="grc"><expan><abbr>ἒ</abbr><ex>των</ex></expan></w><w xml:id="jaff0072-8" xml:lang="grc"><num value="63">ξγ´</num></w></p>
 </div>
 </body>
         <back>

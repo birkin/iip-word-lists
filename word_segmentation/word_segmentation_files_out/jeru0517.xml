@@ -138,7 +138,7 @@
                     is not entirely sure what they refer to. They could reflect a relationship
                     between the lid and the box or the number of ossuaries in the burial zone.</p>
             </div>
-        <div type="edition" subtype="transcription_segmented"><p><w xml:id="jeru0517-1" xml:lang="grc">Σαλαμὶ</w> <w xml:id="jeru0517-2" xml:lang="grc">IIIX</w> <w xml:id="jeru0517-3" xml:lang="grc">Θεοδώρου</w></p>
+        <div type="edition" subtype="transcription_segmented"><p><w xml:id="jeru0517-1" xml:lang="grc">Σαλαμὶ</w><w xml:id="jeru0517-2" xml:lang="grc"><num value="13">IIIX</num></w><w xml:id="jeru0517-3" xml:lang="grc">Θεοδώρου</w></p>
 </div>
 </body>
         <back>

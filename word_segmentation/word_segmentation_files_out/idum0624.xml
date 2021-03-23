@@ -161,7 +161,7 @@
                 <p/>
             </div>
 
-        <div type="edition" subtype="transcription_segmented"><p><w xml:id="idum0624-1" xml:lang="arc">עד</w> <w xml:id="idum0624-2" xml:lang="arc">ידרו</w> <w xml:id="idum0624-3" xml:lang="arc">מרשן</w> <w xml:id="idum0624-4" xml:lang="arc">תלתה</w> <w xml:id="idum0624-5" xml:lang="arc">ב</w><w xml:id="idum0624-6" xml:lang="arc">לאלול</w> <w xml:id="idum0624-7" xml:lang="arc">שנת</w></p>
+        <div type="edition" subtype="transcription_segmented"><p><w xml:id="idum0624-1" xml:lang="arc">עד</w> <w xml:id="idum0624-2" xml:lang="arc">ידרו</w> <w xml:id="idum0624-3" xml:lang="arc">מרשן</w> <w xml:id="idum0624-4" xml:lang="arc">תלתה</w> <w xml:id="idum0624-5" xml:lang="arc">ב</w><w xml:id="idum0624-6" xml:lang="arc"><num value="25"><g type="phoen-20"/><g type="five-vertical-strokes"/></num></w><w xml:id="idum0624-7" xml:lang="arc">לאלול</w> <w xml:id="idum0624-8" xml:lang="arc">שנת</w><w xml:id="idum0624-9" xml:lang="arc"><num value="2"><g type="two-vertical-strokes"/></num></w></p>
 </div>
 </body>
         <back>

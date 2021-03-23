@@ -179,8 +179,8 @@ for strTextFullPath in vTextFullPaths:
 		# strXMLText = re.sub(r"</foreign>", r"</foreign></w>", strXMLText)
 
 		# Deal with word breaks and <num ...>
-		strXMLText = re.sub(r"<num([^>]*?)>", r"§", strXMLText)
-		strXMLText = re.sub(r"</num>", r"§", strXMLText)
+		strXMLText = re.sub(r"<num([^>]*?)>", r"<w><num \1>", strXMLText)
+		strXMLText = re.sub(r"</num>", r"</num></w>", strXMLText)
 
 		# Deal with <expan>
 		# strXMLText = re.sub(r"<expan>(.*?)</expan>", r"<w><expan>\1</expan></w>", strXMLText)

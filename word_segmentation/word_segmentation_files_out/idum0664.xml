@@ -156,7 +156,7 @@
                 <p/>
             </div>
 
-        <div type="edition" subtype="transcription_segmented"><p><w xml:id="idum0664-1" xml:lang="arc">רהנו</w> <w xml:id="idum0664-2" xml:lang="arc">גרגרן</w></p>
+        <div type="edition" subtype="transcription_segmented"><p><w xml:id="idum0664-1" xml:lang="arc">רהנו</w> <w xml:id="idum0664-2" xml:lang="arc">גרגרן</w><w xml:id="idum0664-3" xml:lang="arc"><num value="10"><g type="phoen-10"/></num></w></p>
 </div>
 </body>
         <back>

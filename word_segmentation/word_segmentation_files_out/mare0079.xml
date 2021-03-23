@@ -208,7 +208,25 @@
                     that penetrated the territory of Palestine, and continued to do so throughout
                     the sixth and fifth centuries.</p>
             </div>
-        <div type="edition" subtype="transcription_segmented"><p><w xml:id="mare0079-1" xml:lang="arc">ב</w><w xml:id="mare0079-2" xml:lang="arc">בני</w> <w xml:id="mare0079-3" xml:lang="arc">זידא</w><w xml:id="mare0079-4" xml:lang="arc">כנבון</w><w xml:id="mare0079-5" xml:lang="arc">קין</w><w xml:id="mare0079-6" xml:lang="arc">קסיה</w><w xml:id="mare0079-7" xml:lang="arc">פין</w><w xml:id="mare0079-8" xml:lang="arc">בין</w><w xml:id="mare0079-9" xml:lang="arc">אגנין</w></p>
+        <div type="edition" subtype="transcription_segmented"><p><w xml:id="mare0079-1" xml:lang="arc">ב</w><w xml:id="mare0079-2" xml:lang="arc"><num value="10">
+                  <g type="phoen-10"/>
+               </num></w><w xml:id="mare0079-3" xml:lang="arc">בני</w> <w xml:id="mare0079-4" xml:lang="arc">זידא</w><w xml:id="mare0079-5" xml:lang="arc"><num value="2">
+                  <g type="two-slanted-strokes"/>
+               </num></w><w xml:id="mare0079-6" xml:lang="arc">כנבון</w><w xml:id="mare0079-7" xml:lang="arc"><num value="40">
+                        <g type="phoen-20"/>
+                        <g type="phoen-10"/>
+                  <g type="phoen-10"/>
+               </num></w><w xml:id="mare0079-8" xml:lang="arc">קין</w><w xml:id="mare0079-9" xml:lang="arc"><num value="1">
+                  <g type="one-slanted-stroke"/>
+               </num></w><w xml:id="mare0079-10" xml:lang="arc">קסיה</w><w xml:id="mare0079-11" xml:lang="arc"><num value="3">
+                  <g type="three-slanted-strokes"/>
+               </num></w><w xml:id="mare0079-12" xml:lang="arc">פין</w><w xml:id="mare0079-13" xml:lang="arc"><num value="8">
+                  <g type="eight-slanted-strokes"/>
+               </num></w><w xml:id="mare0079-14" xml:lang="arc">בין</w><w xml:id="mare0079-15" xml:lang="arc"><num type="9">
+                  <g type="nine-slanted-strokes"/>
+               </num></w><w xml:id="mare0079-16" xml:lang="arc">אגנין</w><w xml:id="mare0079-17" xml:lang="arc"><num value="2">
+                  <g type="two-slanted-strokes"/>
+               </num></w></p>
 </div>
 </body>
         <back>

@@ -160,7 +160,7 @@
                 <p/>
             </div>
 
-        <div type="edition" subtype="transcription_segmented"><p><w xml:id="idum0565-1" xml:lang="arc">ב</w><w xml:id="idum0565-2" xml:lang="arc">לאב</w> <w xml:id="idum0565-3" xml:lang="arc">קוסנקם</w> <w xml:id="idum0565-4" xml:lang="arc">מן</w> <w xml:id="idum0565-5" xml:lang="arc">משח</w></p>
+        <div type="edition" subtype="transcription_segmented"><p><w xml:id="idum0565-1" xml:lang="arc">ב</w><w xml:id="idum0565-2" xml:lang="arc"><num value="21"><g type="phoen-20"/><g type="one-vertical-stroke"/></num></w><w xml:id="idum0565-3" xml:lang="arc">לאב</w> <w xml:id="idum0565-4" xml:lang="arc">קוסנקם</w> <w xml:id="idum0565-5" xml:lang="arc">מן</w> <w xml:id="idum0565-6" xml:lang="arc">משח</w></p>
 </div>
 </body>
         <back>

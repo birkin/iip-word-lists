@@ -149,7 +149,7 @@
             <p>Monument of Paulus, <lb/>(son) of Abdalmithabos <lb/>from Petra, <lb/>(who died at
                the age) <lb/>of 8 years</p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="zoor0351-1" xml:lang="grc">Μνημεῖον</w> <w xml:id="zoor0351-2" xml:lang="grc">Παύλου</w> <w xml:id="zoor0351-3" xml:lang="grc">Ἀβδαλμιθάβου</w> <w xml:id="zoor0351-4" xml:lang="grc">Πετραίου</w> <w xml:id="zoor0351-5" xml:lang="grc">ἐτῶν</w> <w xml:id="zoor0351-6" xml:lang="grc">η</w></p>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="zoor0351-1" xml:lang="grc">Μνημεῖον</w> <w xml:id="zoor0351-2" xml:lang="grc">Παύλου</w> <w xml:id="zoor0351-3" xml:lang="grc">Ἀβδαλμιθάβου</w> <w xml:id="zoor0351-4" xml:lang="grc">Πετραίου</w> <w xml:id="zoor0351-5" xml:lang="grc">ἐτῶν</w><w xml:id="zoor0351-6" xml:lang="grc"><num value="8">ηʹ</num></w></p>
 </div>
 </body>
       <back>

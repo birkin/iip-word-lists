@@ -160,7 +160,7 @@
                 <p/>
             </div>
 
-        <div type="edition" subtype="transcription_segmented"><p><w xml:id="idum0613-1" xml:lang="arc">ב</w><w xml:id="idum0613-2" xml:lang="arc">לא</w><w xml:id="idum0613-3" xml:lang="arc"><supplied reason="lost">ב</supplied></w><w xml:id="idum0613-4" xml:lang="arc">ש</w><w xml:id="idum0613-5" xml:lang="arc"><supplied reason="lost">נ</supplied></w><w xml:id="idum0613-6" xml:lang="arc">ת</w><w xml:id="idum0613-7" xml:lang="arc">נעום</w> <w xml:id="idum0613-8" xml:lang="arc">חס</w><w xml:id="idum0613-9" xml:lang="arc">ק</w><w xml:id="idum0613-10" xml:lang="arc"><supplied reason="lost"><g type="two-vertical-strokes"/></supplied></w></p>
+        <div type="edition" subtype="transcription_segmented"><p><w xml:id="idum0613-1" xml:lang="arc">ב</w><w xml:id="idum0613-2" xml:lang="arc"><num value="20"><g type="phoen-20"/></num></w><w xml:id="idum0613-3" xml:lang="arc">לא</w><w xml:id="idum0613-4" xml:lang="arc"><supplied reason="lost">ב</supplied></w><w xml:id="idum0613-5" xml:lang="arc">ש</w><w xml:id="idum0613-6" xml:lang="arc"><supplied reason="lost">נ</supplied></w><w xml:id="idum0613-7" xml:lang="arc">ת</w><w xml:id="idum0613-8" xml:lang="arc"><num value="2"><g type="two-vertical-strokes"/></num></w><w xml:id="idum0613-9" xml:lang="arc">נעום</w> <w xml:id="idum0613-10" xml:lang="arc">חס</w><w xml:id="idum0613-11" xml:lang="arc"><num value="2"><g type="two-vertical-strokes"/></num></w><w xml:id="idum0613-12" xml:lang="arc">ק</w><w xml:id="idum0613-13" xml:lang="arc"><num value="4"><g type="one-vertical-stroke"/><w xml:id="idum0613-14" xml:lang="arc"><supplied reason="lost"><g type="two-vertical-strokes"/></supplied></w><g type="one-vertical-stroke"/></num></w></p>
 </div>
 </body>
         <back>

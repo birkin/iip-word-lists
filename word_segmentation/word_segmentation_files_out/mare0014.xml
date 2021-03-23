@@ -195,11 +195,16 @@
             </div>
             <!-- The bibl has more contained elements. What is the possible list of values of the biblScope/@type? 
              -->
-        <div type="edition" subtype="transcription_segmented"><p><w xml:id="mare0014-1" xml:lang="arc">זבדאדה</w> <w xml:id="mare0014-2" xml:lang="arc">עלי</w> <w xml:id="mare0014-3" xml:lang="arc">ד</w> <w xml:id="mare0014-4" xml:lang="arc">תנחום</w> <w xml:id="mare0014-5" xml:lang="arc">לשנת</w><w xml:id="mare0014-6" xml:lang="arc"><supplied reason="lost" cert="low">
-                   
+        <div type="edition" subtype="transcription_segmented"><p><w xml:id="mare0014-1" xml:lang="arc">זבדאדה</w> <w xml:id="mare0014-2" xml:lang="arc">עלי</w> <w xml:id="mare0014-3" xml:lang="arc">ד</w> <w xml:id="mare0014-4" xml:lang="arc">תנחום</w> <w xml:id="mare0014-5" xml:lang="arc">לשנת</w><w xml:id="mare0014-6" xml:lang="arc"><num value="12">
+                  <g type="phoen-10"/>
+                  <g type="phoen-2"/>
+               </num></w><w xml:id="mare0014-7" xml:lang="arc"><supplied reason="lost" cert="low">
+                  <w xml:id="mare0014-8" xml:lang="arc"><num value="1">
                      <g type="phoen-1"/>
-                   
-               </supplied></w><w xml:id="mare0014-7" xml:lang="arc">תבן</w> <w xml:id="mare0014-8" xml:lang="arc">טעון</w><w xml:id="mare0014-9" xml:lang="arc">זי</w> <w xml:id="mare0014-10" xml:lang="arc">לא</w> <w xml:id="mare0014-11" xml:lang="arc">מעתדן</w></p>
+                  </num></w>
+               </supplied></w><w xml:id="mare0014-9" xml:lang="arc">תבן</w> <w xml:id="mare0014-10" xml:lang="arc">טעון</w><w xml:id="mare0014-11" xml:lang="arc"><num value="4">
+                  <g type="phoen-4"/>
+               </num></w><w xml:id="mare0014-12" xml:lang="arc">זי</w> <w xml:id="mare0014-13" xml:lang="arc">לא</w> <w xml:id="mare0014-14" xml:lang="arc">מעתדן</w></p>
 </div>
 </body>
         <back>

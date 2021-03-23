@@ -170,7 +170,9 @@
             <p>Monument of the brother Alphios. He fell asleep (at the age) of 40 years. It was
                written in (the) month of Daisios, (in the year) 293.</p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="zoor0328-1" xml:lang="grc">Μνημεῖον</w> <w xml:id="zoor0328-2" xml:lang="grc">τοῦ</w> <w xml:id="zoor0328-3" xml:lang="grc">ἀδελφοῦ</w> <w xml:id="zoor0328-4" xml:lang="grc">Ἀλφίου</w> <w xml:id="zoor0328-5" xml:lang="grc">ἐκοιμήθη</w> <w xml:id="zoor0328-6" xml:lang="grc">ἐτῶν</w> <w xml:id="zoor0328-7" xml:lang="grc">μ</w> <w xml:id="zoor0328-8" xml:lang="grc">ἐγράφη</w> <w xml:id="zoor0328-9" xml:lang="grc">μηνὶ</w> <w xml:id="zoor0328-10" xml:lang="grc">Δαισίω</w> <w xml:id="zoor0328-11" xml:lang="grc">σϞγ</w></p>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="zoor0328-1" xml:lang="grc">Μνημεῖον</w> <w xml:id="zoor0328-2" xml:lang="grc">τοῦ</w> <w xml:id="zoor0328-3" xml:lang="grc">ἀδελφοῦ</w> <w xml:id="zoor0328-4" xml:lang="grc">Ἀλφίου</w> <w xml:id="zoor0328-5" xml:lang="grc">ἐκοιμήθη</w> <w xml:id="zoor0328-6" xml:lang="grc">ἐτῶν</w><w xml:id="zoor0328-7" xml:lang="grc"><num value="40">
+                  μ
+               </num></w><w xml:id="zoor0328-8" xml:lang="grc">ἐγράφη</w> <w xml:id="zoor0328-9" xml:lang="grc">μηνὶ</w> <w xml:id="zoor0328-10" xml:lang="grc">Δαισίω</w><w xml:id="zoor0328-11" xml:lang="grc"><num value="293">σϞγ</num></w></p>
 </div>
 </body>
       <back>

@@ -130,7 +130,7 @@
          <div type="translation" ana="#b1" xml:id="fiqg0009.translation" corresp="#fiqg0009.transcription #fiqg0009.diplomatic">
             <p>[Be of good courage,] Theophana! Seventy years old.</p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="fiqg0009-1" xml:lang="grc"><supplied reason="undefined">θάρσει</supplied></w><w xml:id="fiqg0009-2" xml:lang="grc">Θεόφανα</w><w xml:id="fiqg0009-3" xml:lang="grc"><expan><abbr>ἐτ</abbr><ex>ων</ex></expan></w><w xml:id="fiqg0009-4" xml:lang="grc">ο</w></p>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="fiqg0009-1" xml:lang="grc"><supplied reason="undefined">θάρσει</supplied></w><w xml:id="fiqg0009-2" xml:lang="grc">Θεόφανα</w><w xml:id="fiqg0009-3" xml:lang="grc"><expan><abbr>ἐτ</abbr><ex>ων</ex></expan></w><w xml:id="fiqg0009-4" xml:lang="grc"><num value="70">ο</num></w></p>
 </div>
 </body>
       <back>

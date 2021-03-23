@@ -155,7 +155,7 @@
          <div type="translation" ana="#b1" xml:id="jeri0003.translation" corresp="#jeri0003.transcription">
             <p>of Simon, aged 41</p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="jeri0003-1" xml:lang="grc">Σίμωνος</w><w xml:id="jeri0003-2" xml:lang="grc"><expan><abbr><am>L</am></abbr><ex>ἔτους</ex></expan></w><w xml:id="jeri0003-3" xml:lang="grc">ΜΑ</w></p>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="jeri0003-1" xml:lang="grc">Σίμωνος</w><w xml:id="jeri0003-2" xml:lang="grc"><expan><abbr><am>L</am></abbr><ex>ἔτους</ex></expan></w><w xml:id="jeri0003-3" xml:lang="grc"><num value="41">ΜΑ</num></w></p>
 </div>
 </body>
       <back>

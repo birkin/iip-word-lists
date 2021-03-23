@@ -151,7 +151,11 @@
                     ostrakon published by Eph'al and Naveh, however, the bet "does not seem to stand
                     for a measure of unit".</p>
             </div>
-        <div type="edition" subtype="transcription_segmented"><p><w xml:id="mare0075-1" xml:lang="arc">ב</w></p>
+        <div type="edition" subtype="transcription_segmented"><p><w xml:id="mare0075-1" xml:lang="arc">ב</w><w xml:id="mare0075-2" xml:lang="arc"><num value="41">
+                  <g type="phoen-20"/>
+                  <g type="phoen-20"/>
+                  <g type="one-slanted-stroke"/>
+               </num></w></p>
 </div>
 </body>
         <back>

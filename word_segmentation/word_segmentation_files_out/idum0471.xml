@@ -163,7 +163,7 @@
                 <p>The translation/reading of "bundle" is uncertain.</p>
             </div>
 
-        <div type="edition" subtype="transcription_segmented"><p><w xml:id="idum0471-1" xml:lang="arc">עלקוס</w> <w xml:id="idum0471-2" xml:lang="arc">תבן</w> <w xml:id="idum0471-3" xml:lang="arc">משתל</w></p>
+        <div type="edition" subtype="transcription_segmented"><p><w xml:id="idum0471-1" xml:lang="arc">עלקוס</w> <w xml:id="idum0471-2" xml:lang="arc">תבן</w> <w xml:id="idum0471-3" xml:lang="arc">משתל</w><w xml:id="idum0471-4" xml:lang="arc"><num value="1"><g type="one-vertical-stroke"/></num></w></p>
 </div>
 </body>
         <back>

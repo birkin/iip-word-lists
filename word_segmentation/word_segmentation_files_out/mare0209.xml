@@ -146,7 +146,7 @@
             <div type="commentary" ana="b1">
                 <p>Year 205 of Seleucid era</p>
             </div>
-        <div type="edition" subtype="transcription_segmented"><p><w xml:id="mare0209-1" xml:lang="grc"><expan><abbr><am>L</am></abbr><ex>ἔτους</ex></expan></w><w xml:id="mare0209-2" xml:lang="grc">σε</w> <w xml:id="mare0209-3" xml:lang="grc">ἀγορα</w> <w xml:id="mare0209-4" xml:lang="grc">νομοῦν</w> <w xml:id="mare0209-5" xml:lang="grc">τος</w> <w xml:id="mare0209-6" xml:lang="grc">Ἀγα</w> <w xml:id="mare0209-7" xml:lang="grc">θοκλ</w><w xml:id="mare0209-8" xml:lang="grc"><supplied reason="lost">έους</supplied></w></p>
+        <div type="edition" subtype="transcription_segmented"><p><w xml:id="mare0209-1" xml:lang="grc"><expan><abbr><am>L</am></abbr><ex>ἔτους</ex></expan></w><w xml:id="mare0209-2" xml:lang="grc"><num value="205">σε´</num></w><w xml:id="mare0209-3" xml:lang="grc">ἀγορα</w> <w xml:id="mare0209-4" xml:lang="grc">νομοῦν</w> <w xml:id="mare0209-5" xml:lang="grc">τος</w> <w xml:id="mare0209-6" xml:lang="grc">Ἀγα</w> <w xml:id="mare0209-7" xml:lang="grc">θοκλ</w><w xml:id="mare0209-8" xml:lang="grc"><supplied reason="lost">έους</supplied></w></p>
 </div>
 </body>
         <back>

@@ -127,7 +127,7 @@
          <div type="translation" ana="#b1" xml:id="fiqg0015.translation" corresp="#fiqg0015.transcription #fiqg0015.diplomatic">
             <p>Be of good courage, Antiochus! Thirty years old.</p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="fiqg0015-1" xml:lang="grc">θάρσι</w> <w xml:id="fiqg0015-2" xml:lang="grc">Ἀντίοχε</w><w xml:id="fiqg0015-3" xml:lang="grc"><expan><abbr>ἐτ</abbr><ex>ῶν</ex></expan></w><w xml:id="fiqg0015-4" xml:lang="grc">λ</w></p>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="fiqg0015-1" xml:lang="grc">θάρσι</w> <w xml:id="fiqg0015-2" xml:lang="grc">Ἀντίοχε</w><w xml:id="fiqg0015-3" xml:lang="grc"><expan><abbr>ἐτ</abbr><ex>ῶν</ex></expan></w><w xml:id="fiqg0015-4" xml:lang="grc"><num value="30">λ</num></w></p>
 </div>
 </body>
       <back>
