@@ -124,56 +124,26 @@
       <body>
          <div type="edition" ana="#b1" subtype="transcription" xml:id="caes0018.transcription" corresp="#caes0018.translation">
             <p>
-               <expan>
-                  <abbr><unclear>C</unclear></abbr><ex>aio</ex>
-               </expan> Iuli<supplied reason="lost">o </supplied><gap reason="lost" extent="unknown" unit="character"/>
-               <lb/> Titi<supplied reason="lost">ano</supplied>
-               <lb/> legato <expan>
-                  <abbr>Au<supplied reason="lost">g</supplied></abbr><ex>usti</ex>
-               </expan>
+               <expan><abbr><unclear>C</unclear></abbr><ex>aio</ex></expan> 
+               Iuli<supplied reason="lost">o</supplied><gap reason="lost" extent="unknown" unit="character"/>
+               <lb/>Titi<supplied reason="lost">ano</supplied>
+               <lb/>legato <expan><abbr>Au<supplied reason="lost">g</supplied></abbr><ex>usti</ex></expan>
                <supplied reason="lost">
-                  <expan>
-                     <abbr>pr</abbr><ex>o</ex>
-                  </expan>
-                  <expan>
-                     <abbr>pr</abbr><ex>aetore</ex>
-                  </expan>
+                  <expan><abbr>pr</abbr><ex>o</ex></expan>
+                  <expan><abbr>pr</abbr><ex>aetore</ex></expan>
                </supplied>
-               <lb/>
-               <expan>
-                  <abbr>Syr</abbr><ex>iae</ex>
-               </expan>
-               <expan>
-                  <abbr>P<unclear>a</unclear><supplied reason="lost">laest</supplied></abbr><ex>inae</ex>
-               </expan>
-               <lb/>
-               <expan>
-                  <abbr>M</abbr><ex>arcus</ex>
-               </expan>
-               <expan>
-                  <abbr>Fl</abbr><ex>avius</ex>
-               </expan>
-               <expan>
-                  <abbr>Quir</abbr><ex>ina</ex>
-               </expan>
+               <lb/><expan><abbr>Syr</abbr><ex>iae</ex></expan>
+               <expan><abbr>P<unclear>a</unclear><supplied reason="lost">laest</supplied></abbr><ex>inae</ex></expan>
+               <lb/><expan><abbr>M</abbr><ex>arcus</ex></expan>
+               <expan><abbr>Fl</abbr><ex>avius</ex></expan>
+               <expan><abbr>Quir</abbr><ex>ina</ex></expan>
                <orig>S</orig><gap reason="lost" extent="unknown" unit="character"/>
-               <lb/>
-               <expan>
-                  <abbr>leg</abbr><ex>ionis</ex>
-               </expan>
-               <num value="10">X</num>
+               <lb/><expan><abbr>leg</abbr><ex>ionis</ex></expan><num value="10">X</num>
                <supplied reason="lost">Fretensis</supplied>
-               <lb/>
-               <del rend="erasure">Antonin<supplied reason="lost">ianae</supplied>
-               </del>
-               <lb/>
-               <gap reason="lost" extent="unknown" unit="character"/>
-               <orig><unclear>s</unclear></orig>
-               <expan>
-                  <abbr>op</abbr><ex>timo</ex>
-               </expan> et <expan>
-                  <abbr>me<unclear>r</unclear></abbr><ex>enti</ex>
-               </expan>. </p>
+               <lb/><del rend="erasure">Antonin<supplied reason="lost">ianae</supplied></del>
+               <lb/><gap reason="lost" extent="unknown" unit="character"/><orig><unclear>s</unclear></orig>
+               <expan><abbr>op</abbr><ex>timo</ex></expan> et <expan><abbr>me<unclear>r</unclear></abbr><ex>enti</ex></expan>.
+            </p>
          </div>
          <div type="translation" ana="#b1" xml:id="caes0018.translation" corresp="#caes0018.transcription">
             <p>To 
@@ -192,31 +162,7 @@
 			 <name>Quirina</name>...of the tenth legion Fretensis Antoniniana,
 			 to...best and deserving.</p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="caes0018-1" xml:lang="la"><expan>
-                  <abbr>C</abbr><ex>aio</ex>
-               </expan></w><w xml:id="caes0018-2" xml:lang="la">Iuli</w><w xml:id="caes0018-3" xml:lang="la"><supplied reason="lost">o </supplied></w><w xml:id="caes0018-4" xml:lang="la">Titi</w><w xml:id="caes0018-5" xml:lang="la"><supplied reason="lost">ano</supplied></w><w xml:id="caes0018-6" xml:lang="la">legato</w><w xml:id="caes0018-7" xml:lang="la"><expan>
-                  <abbr>Au<w xml:id="caes0018-8" xml:lang="la"><supplied reason="lost">g</supplied></w></abbr><ex>usti</ex>
-               </expan></w><w xml:id="caes0018-9" xml:lang="la"><supplied reason="lost"><w xml:id="caes0018-10" xml:lang="la"><expan>
-                     <abbr>pr</abbr><ex>o</ex>
-                  </expan></w><w xml:id="caes0018-11" xml:lang="la"><expan>
-                     <abbr>pr</abbr><ex>aetore</ex>
-                  </expan></w></supplied></w><w xml:id="caes0018-12" xml:lang="la"><expan>
-                  <abbr>Syr</abbr><ex>iae</ex>
-               </expan></w><w xml:id="caes0018-13" xml:lang="la"><expan>
-                  <abbr>Pa<w xml:id="caes0018-14" xml:lang="la"><supplied reason="lost">laest</supplied></w></abbr><ex>inae</ex>
-               </expan></w><w xml:id="caes0018-15" xml:lang="la"><expan>
-                  <abbr>M</abbr><ex>arcus</ex>
-               </expan></w><w xml:id="caes0018-16" xml:lang="la"><expan>
-                  <abbr>Fl</abbr><ex>avius</ex>
-               </expan></w><w xml:id="caes0018-17" xml:lang="la"><expan>
-                  <abbr>Quir</abbr><ex>ina</ex>
-               </expan></w><w xml:id="caes0018-18" xml:lang="la"><expan>
-                  <abbr>leg</abbr><ex>ionis</ex>
-               </expan></w><w xml:id="caes0018-19" xml:lang="la">X</w><w xml:id="caes0018-20" xml:lang="la"><supplied reason="lost">Fretensis</supplied></w><w xml:id="caes0018-21" xml:lang="la">Antonin</w><w xml:id="caes0018-22" xml:lang="la"><supplied reason="lost">ianae</supplied></w><w xml:id="caes0018-23" xml:lang="la"><expan>
-                  <abbr>op</abbr><ex>timo</ex>
-               </expan></w><w xml:id="caes0018-24" xml:lang="la">et</w><w xml:id="caes0018-25" xml:lang="la"><expan>
-                  <abbr>mer</abbr><ex>enti</ex>
-               </expan></w></p>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="caes0018-1" xml:lang="la"><expan><abbr>C</abbr><ex>aio</ex></expan></w><w xml:id="caes0018-2" xml:lang="la">Iuli</w><w xml:id="caes0018-3" xml:lang="la"><supplied reason="lost">o</supplied></w><w xml:id="caes0018-4" xml:lang="la">Titi</w><w xml:id="caes0018-5" xml:lang="la"><supplied reason="lost">ano</supplied></w><w xml:id="caes0018-6" xml:lang="la">legato</w><w xml:id="caes0018-7" xml:lang="la"><expan><abbr>Au<w xml:id="caes0018-8" xml:lang="la"><supplied reason="lost">g</supplied></w></abbr><ex>usti</ex></expan></w><w xml:id="caes0018-9" xml:lang="la"><supplied reason="lost"><w xml:id="caes0018-10" xml:lang="la"><expan><abbr>pr</abbr><ex>o</ex></expan></w><w xml:id="caes0018-11" xml:lang="la"><expan><abbr>pr</abbr><ex>aetore</ex></expan></w></supplied></w><w xml:id="caes0018-12" xml:lang="la"><expan><abbr>Syr</abbr><ex>iae</ex></expan></w><w xml:id="caes0018-13" xml:lang="la"><expan><abbr>Pa<w xml:id="caes0018-14" xml:lang="la"><supplied reason="lost">laest</supplied></w></abbr><ex>inae</ex></expan></w><w xml:id="caes0018-15" xml:lang="la"><expan><abbr>M</abbr><ex>arcus</ex></expan></w><w xml:id="caes0018-16" xml:lang="la"><expan><abbr>Fl</abbr><ex>avius</ex></expan></w><w xml:id="caes0018-17" xml:lang="la"><expan><abbr>Quir</abbr><ex>ina</ex></expan></w><w xml:id="caes0018-18" xml:lang="la"><expan><abbr>leg</abbr><ex>ionis</ex></expan></w><w xml:id="caes0018-19" xml:lang="la">X</w><w xml:id="caes0018-20" xml:lang="la"><supplied reason="lost">Fretensis</supplied></w><w xml:id="caes0018-21" xml:lang="la"><expan><abbr>op</abbr><ex>timo</ex></expan></w><w xml:id="caes0018-22" xml:lang="la">et</w><w xml:id="caes0018-23" xml:lang="la"><expan><abbr>mer</abbr><ex>enti</ex></expan></w></p>
 </div>
 </body>
       <back>

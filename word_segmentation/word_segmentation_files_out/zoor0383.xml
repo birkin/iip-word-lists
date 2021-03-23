@@ -139,14 +139,10 @@
                     </choice>μη<lb break="no"/>τὰ καλοῦ ὀνό<lb break="no"/>ματος ἐτῶν <num value="2">β</num>,<lb/>
                <choice><sic>ἐν ἔτι</sic><corr>ἐν ἔτει</corr></choice>
                     <num value="388">τ<unclear>πη</unclear>
-               </num>, <expan>
-                  <abbr>μη</abbr><ex>νὸς</ex>
-               </expan>
+               </num>, <expan><abbr>μη</abbr><ex>νὸς</ex></expan>
                     <choice><sic>Γορ<lb break="no"/>πιέου</sic><corr>Γορ<lb break="no"/>πιαίου</corr></choice>
                     <num value="28">κη</num>,
-                            <expan>
-                  <abbr>ἰ</abbr><ex>ν</ex><abbr>δ</abbr><ex>ικτιῶνος</ex>
-               </expan>
+                            <expan><abbr>ἰ</abbr><ex>ν</ex><abbr>δ</abbr><ex>ικτιῶνος</ex></expan>
                     <num value="2">β</num>.<lb/>
                <choice><sic>Θάρσι</sic><corr>θάρσει</corr></choice>, <choice><sic>οὐδὶς</sic><corr>ούδείς</corr></choice>
                     <space unit="character" quantity="2"/>
@@ -166,11 +162,7 @@
                     Κλαύδιος is mostly encountered as a Roman gentilicium, borne as a rule by
                     military and civil officials. </p>
             </div>
-        <div type="edition" subtype="transcription_segmented"><p><w xml:id="zoor0383-1" xml:lang="grc">Εἷς</w> <w xml:id="zoor0383-2" xml:lang="grc">Θεός</w> <w xml:id="zoor0383-3" xml:lang="grc">ὁ</w> <w xml:id="zoor0383-4" xml:lang="grc">πάντων</w> <w xml:id="zoor0383-5" xml:lang="grc">Δεσπά</w> <w xml:id="zoor0383-6" xml:lang="grc">της</w><w xml:id="zoor0383-7" xml:lang="grc">Μνεμῖον</w><w xml:id="zoor0383-8" xml:lang="grc">Κλαυδίου</w> <w xml:id="zoor0383-9" xml:lang="grc">Πέτρου</w> <w xml:id="zoor0383-10" xml:lang="grc">ἀποθανόντος</w> <w xml:id="zoor0383-11" xml:lang="grc">μητὰ</w> <w xml:id="zoor0383-12" xml:lang="grc">καλοῦ</w> <w xml:id="zoor0383-13" xml:lang="grc">ὀνόματος</w> <w xml:id="zoor0383-14" xml:lang="grc">ἐτῶν</w> <w xml:id="zoor0383-15" xml:lang="grc">β</w> <w xml:id="zoor0383-16" xml:lang="grc">ἐν</w> <w xml:id="zoor0383-17" xml:lang="grc">ἔτει</w> <w xml:id="zoor0383-18" xml:lang="grc">τπη</w><w xml:id="zoor0383-19" xml:lang="grc"><expan>
-                  <abbr>μη</abbr><ex>νὸς</ex>
-               </expan></w><w xml:id="zoor0383-20" xml:lang="grc">Γορπιαίου</w> <w xml:id="zoor0383-21" xml:lang="grc">κη</w><w xml:id="zoor0383-22" xml:lang="grc"><expan>
-                  <abbr>ἰ</abbr><ex>ν</ex><abbr>δ</abbr><ex>ικτιῶνος</ex>
-               </expan></w><w xml:id="zoor0383-23" xml:lang="grc">β</w> <w xml:id="zoor0383-24" xml:lang="grc">θάρσει</w> <w xml:id="zoor0383-25" xml:lang="grc">ούδείς</w> <w xml:id="zoor0383-26" xml:lang="grc">ἀθάνατος</w></p>
+        <div type="edition" subtype="transcription_segmented"><p><w xml:id="zoor0383-1" xml:lang="grc">Εἷς</w> <w xml:id="zoor0383-2" xml:lang="grc">Θεός</w> <w xml:id="zoor0383-3" xml:lang="grc">ὁ</w> <w xml:id="zoor0383-4" xml:lang="grc">πάντων</w> <w xml:id="zoor0383-5" xml:lang="grc">Δεσπά</w> <w xml:id="zoor0383-6" xml:lang="grc">της</w><w xml:id="zoor0383-7" xml:lang="grc">Μνεμῖον</w><w xml:id="zoor0383-8" xml:lang="grc">Κλαυδίου</w> <w xml:id="zoor0383-9" xml:lang="grc">Πέτρου</w> <w xml:id="zoor0383-10" xml:lang="grc">ἀποθανόντος</w> <w xml:id="zoor0383-11" xml:lang="grc">μητὰ</w> <w xml:id="zoor0383-12" xml:lang="grc">καλοῦ</w> <w xml:id="zoor0383-13" xml:lang="grc">ὀνόματος</w> <w xml:id="zoor0383-14" xml:lang="grc">ἐτῶν</w> <w xml:id="zoor0383-15" xml:lang="grc">β</w> <w xml:id="zoor0383-16" xml:lang="grc">ἐν</w> <w xml:id="zoor0383-17" xml:lang="grc">ἔτει</w> <w xml:id="zoor0383-18" xml:lang="grc">τπη</w><w xml:id="zoor0383-19" xml:lang="grc"><expan><abbr>μη</abbr><ex>νὸς</ex></expan></w><w xml:id="zoor0383-20" xml:lang="grc">Γορπιαίου</w> <w xml:id="zoor0383-21" xml:lang="grc">κη</w><w xml:id="zoor0383-22" xml:lang="grc"><expan><abbr>ἰ</abbr><ex>ν</ex><abbr>δ</abbr><ex>ικτιῶνος</ex></expan></w><w xml:id="zoor0383-23" xml:lang="grc">β</w> <w xml:id="zoor0383-24" xml:lang="grc">θάρσει</w> <w xml:id="zoor0383-25" xml:lang="grc">ούδείς</w> <w xml:id="zoor0383-26" xml:lang="grc">ἀθάνατος</w></p>
 </div>
 </body>
         <back>

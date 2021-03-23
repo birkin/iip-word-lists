@@ -122,11 +122,10 @@
          <div type="edition" ana="#b1" subtype="transcription" xml:id="sepp0015.transcription" corresp="#sepp0015.diplomatic #sepp0015.translation">
             <p>
                <gap reason="illegible" quantity="8" unit="character"/>Μ<lb/>
-               <gap reason="illegible" quantity="7" unit="character"/><supplied reason="undefined">
-               </supplied>ἐ
+               <gap reason="illegible" quantity="7" unit="character"/> ἐ
                <lb break="no"/>
-               <supplied reason="undefined">ποίησεν εὑ</supplied>ξά<lb break="no"/>
-               <supplied reason="undefined">μενος. Εὐλογία αὐτ</supplied>ῷ.</p>
+               <supplied reason="undefined">ποίησεν</supplied> <supplied reason="undefined">εὑ</supplied>ξά<lb break="no"/>
+               <supplied reason="undefined">μενος</supplied>. <supplied reason="undefined">Εὐλογία</supplied> <supplied reason="undefined">αὐτ</supplied>ῷ.</p>
          </div>
          <div type="edition" ana="#b1" subtype="diplomatic" xml:id="sepp0015.diplomatic" corresp="#sepp0015.transcription #sepp0015.translation">
             <p>
@@ -139,8 +138,7 @@
          <div type="translation" ana="#b1" xml:id="sepp0015.translation" corresp="#sepp0015.transcription #sepp0015.diplomatic">
             <p>[So-and-so (son) of so-and-so made (this) following] a vow. [A blessing upon] him.</p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="sepp0015-1" xml:lang="grc">Μ</w><w xml:id="sepp0015-2" xml:lang="grc"><supplied reason="undefined">
-               </supplied></w><w xml:id="sepp0015-3" xml:lang="grc">ἐ</w><w xml:id="sepp0015-4" xml:lang="grc"><supplied reason="undefined">ποίησεν εὑ</supplied></w><w xml:id="sepp0015-5" xml:lang="grc">ξά</w><w xml:id="sepp0015-6" xml:lang="grc"><supplied reason="undefined">μενος. Εὐλογία αὐτ</supplied></w><w xml:id="sepp0015-7" xml:lang="grc">ῷ</w></p>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="sepp0015-1" xml:lang="grc">Μ</w> <w xml:id="sepp0015-2" xml:lang="grc">ἐ</w><w xml:id="sepp0015-3" xml:lang="grc"><supplied reason="undefined">ποίησεν</supplied></w><w xml:id="sepp0015-4" xml:lang="grc"><supplied reason="undefined">εὑ</supplied></w><w xml:id="sepp0015-5" xml:lang="grc">ξά</w><w xml:id="sepp0015-6" xml:lang="grc"><supplied reason="undefined">μενος</supplied></w><w xml:id="sepp0015-7" xml:lang="grc"><supplied reason="undefined">Εὐλογία</supplied></w><w xml:id="sepp0015-8" xml:lang="grc"><supplied reason="undefined">αὐτ</supplied></w><w xml:id="sepp0015-9" xml:lang="grc">ῷ</w></p>
 </div>
 </body>
       <back>

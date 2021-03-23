@@ -117,17 +117,18 @@
    <text>
       <body>
          <div type="edition" ana="#b1" subtype="transcription" xml:id="caes0256.transcription" corresp="#caes0256.translation">
-            <p>μνῆ<supplied reason="lost">μα </supplied><gap reason="lost" extent="unknown" unit="character"/>
+            <p>μνῆ<supplied reason="lost">μα</supplied> <gap reason="lost" extent="unknown" unit="character"/>
                <lb/>
                <orig>ΟΕΙΙΑΤ</orig><gap reason="illegible" quantity="1" unit="character"/>
-               <gap reason="lost" extent="unknown" unit="character"/><lb break="no"/>ίου Ἰου<gap reason="lost" extent="unknown" unit="character"/>
+               <gap reason="lost" extent="unknown" unit="character"/>
+               <lb/>ίου Ἰου<gap reason="lost" extent="unknown" unit="character"/>
             </p>
          </div>
          <div type="translation" ana="#b1" xml:id="caes0256.translation" corresp="#caes0256.transcription">
             <p>The memorial of...Iou----....
 				</p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="caes0256-1" xml:lang="grc">μνῆ</w><w xml:id="caes0256-2" xml:lang="grc"><supplied reason="lost">μα </supplied></w><w xml:id="caes0256-3" xml:lang="grc">ίου</w> <w xml:id="caes0256-4" xml:lang="grc">Ἰου</w></p>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="caes0256-1" xml:lang="grc">μνῆ</w><w xml:id="caes0256-2" xml:lang="grc"><supplied reason="lost">μα</supplied></w><w xml:id="caes0256-3" xml:lang="grc">ίου</w> <w xml:id="caes0256-4" xml:lang="grc">Ἰου</w></p>
 </div>
 </body>
       <back>

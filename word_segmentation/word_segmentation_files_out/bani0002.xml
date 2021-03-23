@@ -140,6 +140,7 @@
         -->
         <revisionDesc>
             <change when="2020-12-02" who="Chris Zeichmann">Initial Entry</change>
+            <change when="2021-03-02" who="Nesya Nelkin">Added Image</change>
         </revisionDesc>
     </teiHeader>
     <!--  *************************************  <facsimile>  *********************************
@@ -152,8 +153,8 @@
      -->
     <facsimile>
         <surface>
-            <desc/>
-            <graphic url=""/>
+            <desc>Zev Radovan</desc>
+            <graphic url="bani0002.jpg"/>
         </surface>
     </facsimile>
     <text>

@@ -121,28 +121,16 @@
             <p>
                <g type="cross">+</g>
                <lb/>
-               <expan>
-                  <abbr>Χ</abbr><ex>ριστὸς ὁ ἐκ</ex>
-               </expan>
-               <expan>
-                  <abbr>Μ</abbr><ex>αρίας</ex>
-               </expan>
-               <expan>
-                  <abbr><supplied reason="undefined">γ</supplied></abbr><ex>εννηθείς</ex>
-               </expan>
+               <expan><abbr>Χ</abbr><ex>ριστὸς ὁ ἐκ</ex></expan>
+               <expan><abbr>Μ</abbr><ex>αρίας</ex></expan>
+               <expan><abbr><supplied reason="undefined">γ</supplied></abbr><ex>εννηθείς</ex></expan>
             </p>
          </div>
          <div type="translation" ana="#b1" xml:id="khis0081.translation" corresp="#khis0081.diplomatic #khis0081.transcription">
             <p>Christ, (born of) Mary
 				</p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="khis0081-1" xml:lang="grc"><expan>
-                  <abbr>Χ</abbr><ex>ριστὸς ὁ ἐκ</ex>
-               </expan></w><w xml:id="khis0081-2" xml:lang="grc"><expan>
-                  <abbr>Μ</abbr><ex>αρίας</ex>
-               </expan></w><w xml:id="khis0081-3" xml:lang="grc"><expan>
-                  <abbr><w xml:id="khis0081-4" xml:lang="grc"><supplied reason="undefined">γ</supplied></w></abbr><ex>εννηθείς</ex>
-               </expan></w></p>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="khis0081-1" xml:lang="grc"><expan><abbr>Χ</abbr><ex>ριστὸς ὁ ἐκ</ex></expan></w><w xml:id="khis0081-2" xml:lang="grc"><expan><abbr>Μ</abbr><ex>αρίας</ex></expan></w><w xml:id="khis0081-3" xml:lang="grc"><expan><abbr><w xml:id="khis0081-4" xml:lang="grc"><supplied reason="undefined">γ</supplied></w></abbr><ex>εννηθείς</ex></expan></w></p>
 </div>
 </body>
       <back>

@@ -132,10 +132,8 @@
          </div>
          <div type="edition" ana="#b1" subtype="transcription" xml:id="khis0086.transcription" corresp="#khis0086.diplomatic #khis0086.translation">
             <p>
-               <expan>
-                  <abbr>Χ</abbr><ex>ριστὸ</ex><abbr>ς</abbr>
-               </expan> νίκα <expan>
-                  <abbr>Χ</abbr><ex>ριστὸ</ex><abbr>ς</abbr>
+               <expan><abbr>Χ</abbr><ex>ριστὸ</ex><abbr>ς</abbr>
+               </expan> νίκα <expan><abbr>Χ</abbr><ex>ριστὸ</ex><abbr>ς</abbr>
                </expan> βο<supplied reason="lost">ή</supplied>
                <lb/>θη <supplied reason="lost">ἐπισκ</supplied>ώπου Πενμ<gap reason="illegible" quantity="3" unit="character"/>
             </p>
@@ -144,10 +142,8 @@
             <p>Christ conquer! Christ help! ...of Bishop Penm(?)...
 				</p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="khis0086-1" xml:lang="grc"><expan>
-                  <abbr>Χ</abbr><ex>ριστὸ</ex><abbr>ς</abbr>
-               </expan></w><w xml:id="khis0086-2" xml:lang="grc">νίκα</w><w xml:id="khis0086-3" xml:lang="grc"><expan>
-                  <abbr>Χ</abbr><ex>ριστὸ</ex><abbr>ς</abbr>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="khis0086-1" xml:lang="grc"><expan><abbr>Χ</abbr><ex>ριστὸ</ex><abbr>ς</abbr>
+               </expan></w><w xml:id="khis0086-2" xml:lang="grc">νίκα</w><w xml:id="khis0086-3" xml:lang="grc"><expan><abbr>Χ</abbr><ex>ριστὸ</ex><abbr>ς</abbr>
                </expan></w><w xml:id="khis0086-4" xml:lang="grc">βο</w><w xml:id="khis0086-5" xml:lang="grc"><supplied reason="lost">ή</supplied></w><w xml:id="khis0086-6" xml:lang="grc">θη</w><w xml:id="khis0086-7" xml:lang="grc"><supplied reason="lost">ἐπισκ</supplied></w><w xml:id="khis0086-8" xml:lang="grc">ώπου</w> <w xml:id="khis0086-9" xml:lang="grc">Πενμ</w></p>
 </div>
 </body>

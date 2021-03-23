@@ -141,16 +141,11 @@
                   </orig>
                </choice>
                <supplied reason="lost">Κλαυ</supplied>
-               <lb break="no"/>δίου
-                  Ὠρ<unclear>ί</unclear>
-               <supplied reason="lost">ωνος</supplied>,<lb/>άποθα<supplied reason="lost">νόντος</supplied>
-               <lb/>μετά <unclear>κ</unclear>
-               <supplied reason="lost">αλοῦ ὀν</supplied>
-               <lb break="no"/>
-               <supplied reason="lost">όματος</supplied>
-               <gap reason="lost" quantity="8" unit="character"/>
-               <lb/>
-               <gap reason="lost" quantity="1" unit="line"/>
+               <lb break="no"/>δίου Ὠρ<unclear>ί</unclear><supplied reason="lost">ωνος</supplied>,
+               <lb/>άποθα<supplied reason="lost">νόντος</supplied>
+               <lb/>μετά <unclear>κ</unclear><supplied reason="lost">αλοῦ</supplied> <supplied reason="lost">ὀν</supplied>
+               <lb break="no"/><supplied reason="lost">όματος</supplied> <gap reason="lost" quantity="8" unit="character"/>
+               <lb/><gap reason="lost" quantity="1" unit="line"/>
             </p>
          </div>
          <div type="translation" ana="#b1" xml:id="zoor0336.translation" corresp="#zoor0336.transcription">
@@ -159,7 +154,7 @@
          </div>
       <div type="edition" subtype="transcription_segmented"><p><w xml:id="zoor0389-1" xml:lang="grc"><supplied reason="lost" cert="medium">
                   <g type="palm-branch"/>
-               </supplied></w><w xml:id="zoor0389-2" xml:lang="grc"><supplied reason="lost">Κλαυ</supplied></w><w xml:id="zoor0389-3" xml:lang="grc">δίου</w> <w xml:id="zoor0389-4" xml:lang="grc">Ὠρί</w><w xml:id="zoor0389-5" xml:lang="grc"><supplied reason="lost">ωνος</supplied></w><w xml:id="zoor0389-6" xml:lang="grc">άποθα</w><w xml:id="zoor0389-7" xml:lang="grc"><supplied reason="lost">νόντος</supplied></w><w xml:id="zoor0389-8" xml:lang="grc">μετά</w> <w xml:id="zoor0389-9" xml:lang="grc">κ</w><w xml:id="zoor0389-10" xml:lang="grc"><supplied reason="lost">αλοῦ ὀν</supplied></w><w xml:id="zoor0389-11" xml:lang="grc"><supplied reason="lost">όματος</supplied></w></p>
+               </supplied></w><w xml:id="zoor0389-2" xml:lang="grc"><supplied reason="lost">Κλαυ</supplied></w><w xml:id="zoor0389-3" xml:lang="grc">δίου</w> <w xml:id="zoor0389-4" xml:lang="grc">Ὠρί</w><w xml:id="zoor0389-5" xml:lang="grc"><supplied reason="lost">ωνος</supplied></w><w xml:id="zoor0389-6" xml:lang="grc">άποθα</w><w xml:id="zoor0389-7" xml:lang="grc"><supplied reason="lost">νόντος</supplied></w><w xml:id="zoor0389-8" xml:lang="grc">μετά</w> <w xml:id="zoor0389-9" xml:lang="grc">κ</w><w xml:id="zoor0389-10" xml:lang="grc"><supplied reason="lost">αλοῦ</supplied></w><w xml:id="zoor0389-11" xml:lang="grc"><supplied reason="lost">ὀν</supplied></w><w xml:id="zoor0389-12" xml:lang="grc"><supplied reason="lost">όματος</supplied></w></p>
 </div>
 </body>
       <back>

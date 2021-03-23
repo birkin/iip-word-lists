@@ -151,9 +151,13 @@
                 <p>Κ ΤΙΒ<lb/><unclear>Ο</unclear>ΥΚΑΙ<lb/>ΟϹΑΓΟ<lb/>ΟΜΟΥ<lb/>ΜΑΝΔ<lb/><gap reason="lost" extent="unknown" unit="character"/></p>
             </div>
             <div type="edition" subtype="transcription" ana="b1">
-                <p><supplied reason="lost">Ἔτους </supplied><num value="20">κ</num>
-                        Τιβ<lb break="no"/><supplied reason="lost">ερ<hi rend="apex">ι</hi></supplied>ου Κα<hi rend="apex">ι</hi><lb break="no"/><supplied reason="lost">σαρ</supplied>ος
-                        ἀγο<lb break="no"/><supplied reason="lost">ραν</supplied><hi rend="apex">ο</hi>μου<lb/><gap reason="lost" extent="unknown" unit="character"/>μ<hi rend="apex">α</hi>νδ<lb break="no"/><supplied reason="lost">ρου Ἑρμα</supplied></p>
+                <p><supplied reason="lost">Ἔτους</supplied> <num value="20">κ</num>
+                        Τιβ
+                    <lb break="no"/><supplied reason="lost">ερ<hi rend="apex">ι</hi></supplied>ου Κα<hi rend="apex">ι</hi>
+                    <lb break="no"/><supplied reason="lost">σαρ</supplied>ος ἀγο
+                    <lb break="no"/><supplied reason="lost">ραν</supplied><hi rend="apex">ο</hi>μου
+                    <lb/><gap reason="lost" extent="unknown" unit="character"/>μ<hi rend="apex">α</hi>νδ
+                    <lb break="no"/><supplied reason="lost">ρου</supplied> <supplied reason="lost">Ἑρμα</supplied></p>
             </div>
             <div type="translation" ana="b1">
                 <p>[Year] twenty-? of Tiberius Caesar, […]mander son of Herma(?), the
@@ -163,7 +167,7 @@
                 <p/>
             </div>
 
-        <div type="edition" subtype="transcription_segmented"><p><w xml:id="caes0553-1" xml:lang="grc"><supplied reason="lost">Ἔτους </supplied></w><w xml:id="caes0553-2" xml:lang="grc">κ</w> <w xml:id="caes0553-3" xml:lang="grc">Τιβ</w><w xml:id="caes0553-4" xml:lang="grc"><supplied reason="lost">ερ<hi rend="apex">ι</hi></supplied></w><w xml:id="caes0553-5" xml:lang="grc">ου</w> <w xml:id="caes0553-6" xml:lang="grc">Κα</w><w xml:id="caes0553-7" xml:lang="grc"><supplied reason="lost">σαρ</supplied></w><w xml:id="caes0553-8" xml:lang="grc">ος</w> <w xml:id="caes0553-9" xml:lang="grc">ἀγο</w><w xml:id="caes0553-10" xml:lang="grc"><supplied reason="lost">ραν</supplied></w><w xml:id="caes0553-11" xml:lang="grc">μου</w> <w xml:id="caes0553-12" xml:lang="grc">μ</w><w xml:id="caes0553-13" xml:lang="grc">νδ</w><w xml:id="caes0553-14" xml:lang="grc"><supplied reason="lost">ρου Ἑρμα</supplied></w></p>
+        <div type="edition" subtype="transcription_segmented"><p><w xml:id="caes0553-1" xml:lang="grc"><supplied reason="lost">Ἔτους</supplied></w><w xml:id="caes0553-2" xml:lang="grc">κ</w> <w xml:id="caes0553-3" xml:lang="grc">Τιβ</w><w xml:id="caes0553-4" xml:lang="grc"><supplied reason="lost">ερ<hi rend="apex">ι</hi></supplied></w><w xml:id="caes0553-5" xml:lang="grc">ου</w> <w xml:id="caes0553-6" xml:lang="grc">Κα</w><w xml:id="caes0553-7" xml:lang="grc"><supplied reason="lost">σαρ</supplied></w><w xml:id="caes0553-8" xml:lang="grc">ος</w> <w xml:id="caes0553-9" xml:lang="grc">ἀγο</w><w xml:id="caes0553-10" xml:lang="grc"><supplied reason="lost">ραν</supplied></w><w xml:id="caes0553-11" xml:lang="grc">μου</w> <w xml:id="caes0553-12" xml:lang="grc">μ</w><w xml:id="caes0553-13" xml:lang="grc">νδ</w><w xml:id="caes0553-14" xml:lang="grc"><supplied reason="lost">ρου</supplied></w><w xml:id="caes0553-15" xml:lang="grc"><supplied reason="lost">Ἑρμα</supplied></w></p>
 </div>
 </body>
         <back>

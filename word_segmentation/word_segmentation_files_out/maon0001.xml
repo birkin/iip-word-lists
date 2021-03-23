@@ -150,12 +150,8 @@
             </div>
             <div type="edition" subtype="transcription" ana="b1">
                 <p>
-               <expan>
-                  <abbr>Εὐ</abbr><ex>λογία</ex>
-               </expan>
-                    <expan>
-                  <abbr>Στεφάν</abbr><ex>ου</ex>
-               </expan>
+               <expan><abbr>Εὐ</abbr><ex>λογία</ex></expan>
+                    <expan><abbr>Στεφάν</abbr><ex>ου</ex></expan>
             </p>
             </div>
             <div type="translation" ana="b1">
@@ -169,11 +165,7 @@
                     were handed out at a church as a memento of a visit to that church rather than
                     used in the Eucharist rite.</p>
             </div>
-        <div type="edition" subtype="transcription_segmented"><p><w xml:id="maon0001-1" xml:lang="grc"><expan>
-                  <abbr>Εὐ</abbr><ex>λογία</ex>
-               </expan></w><w xml:id="maon0001-2" xml:lang="grc"><expan>
-                  <abbr>Στεφάν</abbr><ex>ου</ex>
-               </expan></w></p>
+        <div type="edition" subtype="transcription_segmented"><p><w xml:id="maon0001-1" xml:lang="grc"><expan><abbr>Εὐ</abbr><ex>λογία</ex></expan></w><w xml:id="maon0001-2" xml:lang="grc"><expan><abbr>Στεφάν</abbr><ex>ου</ex></expan></w></p>
 </div>
 </body>
         <back>

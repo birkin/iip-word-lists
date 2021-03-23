@@ -109,19 +109,11 @@
    <text>
       <body>
          <div type="edition" ana="#b1" xml:lang="grc" subtype="transcription" xml:id="ulat0005.transcription">
-            <p>Διοκλητιανὸς καὶ Μαξιμιανὸς <expan>
-                  <abbr>Σεβ</abbr><ex>αστοὶ</ex>
-               </expan>
-                    Κωνστάντιος καὶ Μαξιμιανὸς Καίσαρες λίθον διοpίζοντα ἀγροὺς <expan>
-                  <abbr>κωμ</abbr><ex>ῶν</ex>
-               </expan> Σαρισων καὶ Βερνικης στηριχθῆναι ἐκέλευσαν
+            <p>Διοκλητιανὸς καὶ Μαξιμιανὸς <expan><abbr>Σεβ</abbr><ex>αστοὶ</ex></expan>
+                    Κωνστάντιος καὶ Μαξιμιανὸς Καίσαρες λίθον διοpίζοντα ἀγροὺς <expan><abbr>κωμ</abbr><ex>ῶν</ex></expan> Σαρισων καὶ Βερνικης στηριχθῆναι ἐκέλευσαν
                     φροντίδι Ἐλίου Στατούτου διασημοτάτου.</p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="ulat0005-1" xml:lang="grc">Διοκλητιανὸς</w> <w xml:id="ulat0005-2" xml:lang="grc">καὶ</w> <w xml:id="ulat0005-3" xml:lang="grc">Μαξιμιανὸς</w><w xml:id="ulat0005-4" xml:lang="grc"><expan>
-                  <abbr>Σεβ</abbr><ex>αστοὶ</ex>
-               </expan></w><w xml:id="ulat0005-5" xml:lang="grc">Κωνστάντιος</w> <w xml:id="ulat0005-6" xml:lang="grc">καὶ</w> <w xml:id="ulat0005-7" xml:lang="grc">Μαξιμιανὸς</w> <w xml:id="ulat0005-8" xml:lang="grc">Καίσαρες</w> <w xml:id="ulat0005-9" xml:lang="grc">λίθον</w> <w xml:id="ulat0005-10" xml:lang="grc">διοpίζοντα</w> <w xml:id="ulat0005-11" xml:lang="grc">ἀγροὺς</w><w xml:id="ulat0005-12" xml:lang="grc"><expan>
-                  <abbr>κωμ</abbr><ex>ῶν</ex>
-               </expan></w><w xml:id="ulat0005-13" xml:lang="grc">Σαρισων</w> <w xml:id="ulat0005-14" xml:lang="grc">καὶ</w> <w xml:id="ulat0005-15" xml:lang="grc">Βερνικης</w> <w xml:id="ulat0005-16" xml:lang="grc">στηριχθῆναι</w> <w xml:id="ulat0005-17" xml:lang="grc">ἐκέλευσαν</w> <w xml:id="ulat0005-18" xml:lang="grc">φροντίδι</w> <w xml:id="ulat0005-19" xml:lang="grc">Ἐλίου</w> <w xml:id="ulat0005-20" xml:lang="grc">Στατούτου</w> <w xml:id="ulat0005-21" xml:lang="grc">διασημοτάτου</w></p>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="ulat0005-1" xml:lang="grc">Διοκλητιανὸς</w> <w xml:id="ulat0005-2" xml:lang="grc">καὶ</w> <w xml:id="ulat0005-3" xml:lang="grc">Μαξιμιανὸς</w><w xml:id="ulat0005-4" xml:lang="grc"><expan><abbr>Σεβ</abbr><ex>αστοὶ</ex></expan></w><w xml:id="ulat0005-5" xml:lang="grc">Κωνστάντιος</w> <w xml:id="ulat0005-6" xml:lang="grc">καὶ</w> <w xml:id="ulat0005-7" xml:lang="grc">Μαξιμιανὸς</w> <w xml:id="ulat0005-8" xml:lang="grc">Καίσαρες</w> <w xml:id="ulat0005-9" xml:lang="grc">λίθον</w> <w xml:id="ulat0005-10" xml:lang="grc">διοpίζοντα</w> <w xml:id="ulat0005-11" xml:lang="grc">ἀγροὺς</w><w xml:id="ulat0005-12" xml:lang="grc"><expan><abbr>κωμ</abbr><ex>ῶν</ex></expan></w><w xml:id="ulat0005-13" xml:lang="grc">Σαρισων</w> <w xml:id="ulat0005-14" xml:lang="grc">καὶ</w> <w xml:id="ulat0005-15" xml:lang="grc">Βερνικης</w> <w xml:id="ulat0005-16" xml:lang="grc">στηριχθῆναι</w> <w xml:id="ulat0005-17" xml:lang="grc">ἐκέλευσαν</w> <w xml:id="ulat0005-18" xml:lang="grc">φροντίδι</w> <w xml:id="ulat0005-19" xml:lang="grc">Ἐλίου</w> <w xml:id="ulat0005-20" xml:lang="grc">Στατούτου</w> <w xml:id="ulat0005-21" xml:lang="grc">διασημοτάτου</w></p>
 </div>
 </body>
       <back>

@@ -130,29 +130,15 @@
                <gap reason="lost" quantity="1" unit="line"/>
                <lb/>
                <gap reason="lost" unit="character" extent="unknown"/>
-               <expan>
-                  <abbr>leg</abbr><ex>ato</ex>
-               </expan>
-               <expan>
-                  <abbr>Aug</abbr><ex>usti</ex>
-               </expan>
-               <expan>
-                  <abbr>pr</abbr><ex>o</ex>
-               </expan>
-               <expan>
-                  <abbr>pr</abbr><ex>aetore</ex>
-               </expan>
+               <expan><abbr>leg</abbr><ex>ato</ex></expan>
+               <expan><abbr>Aug</abbr><ex>usti</ex></expan>
+               <expan><abbr>pr</abbr><ex>o</ex></expan>
+               <expan><abbr>pr</abbr><ex>aetore</ex></expan>
                <lb/>
-               <expan>
-                  <abbr>provinc</abbr><ex>iae</ex>
-               </expan>
-               <expan>
-                  <abbr>Sy<supplied reason="lost">r</supplied></abbr><ex>iae</ex>
-               </expan>
+               <expan><abbr>provinc</abbr><ex>iae</ex></expan>
+               <expan><abbr>Sy<supplied reason="lost">r</supplied></abbr><ex>iae</ex></expan>
                <lb/>
-               <expan>
-                  <abbr><supplied reason="lost">P</supplied>ala<supplied reason="lost">e</supplied>st</abbr><ex>inae</ex>
-               </expan>,<lb/>
+               <expan><abbr><supplied reason="lost">P</supplied>ala<supplied reason="lost">e</supplied>st</abbr><ex>inae</ex></expan>,<lb/>
                <orig>vicv</orig>
                <gap reason="illegible" atLeast="1" atMost="3" unit="character"/>
                <orig><unclear>a</unclear></orig>
@@ -163,21 +149,7 @@
             <p>..., <rs type="admTitle">propraetorian legate </rs> of <rs type="admTitle">Augustus </rs> for
 			 the province <placeName>Syria Palaestina</placeName>...<persName xml:lang="la " ref="persons.xml#caes0020p01" nymRef="names.xml#caes0020n01">Victorinus</persName>.</p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="caes0020-1" xml:lang="la"><expan>
-                  <abbr>leg</abbr><ex>ato</ex>
-               </expan></w><w xml:id="caes0020-2" xml:lang="la"><expan>
-                  <abbr>Aug</abbr><ex>usti</ex>
-               </expan></w><w xml:id="caes0020-3" xml:lang="la"><expan>
-                  <abbr>pr</abbr><ex>o</ex>
-               </expan></w><w xml:id="caes0020-4" xml:lang="la"><expan>
-                  <abbr>pr</abbr><ex>aetore</ex>
-               </expan></w><w xml:id="caes0020-5" xml:lang="la"><expan>
-                  <abbr>provinc</abbr><ex>iae</ex>
-               </expan></w><w xml:id="caes0020-6" xml:lang="la"><expan>
-                  <abbr>Sy<w xml:id="caes0020-7" xml:lang="la"><supplied reason="lost">r</supplied></w></abbr><ex>iae</ex>
-               </expan></w><w xml:id="caes0020-8" xml:lang="la"><expan>
-                  <abbr><w xml:id="caes0020-9" xml:lang="la"><supplied reason="lost">P</supplied></w>ala<w xml:id="caes0020-10" xml:lang="la"><supplied reason="lost">e</supplied></w>st</abbr><ex>inae</ex>
-               </expan></w><w xml:id="caes0020-11" xml:lang="la">Victorinus</w></p>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="caes0020-1" xml:lang="la"><expan><abbr>leg</abbr><ex>ato</ex></expan></w><w xml:id="caes0020-2" xml:lang="la"><expan><abbr>Aug</abbr><ex>usti</ex></expan></w><w xml:id="caes0020-3" xml:lang="la"><expan><abbr>pr</abbr><ex>o</ex></expan></w><w xml:id="caes0020-4" xml:lang="la"><expan><abbr>pr</abbr><ex>aetore</ex></expan></w><w xml:id="caes0020-5" xml:lang="la"><expan><abbr>provinc</abbr><ex>iae</ex></expan></w><w xml:id="caes0020-6" xml:lang="la"><expan><abbr>Sy<w xml:id="caes0020-7" xml:lang="la"><supplied reason="lost">r</supplied></w></abbr><ex>iae</ex></expan></w><w xml:id="caes0020-8" xml:lang="la"><expan><abbr><w xml:id="caes0020-9" xml:lang="la"><supplied reason="lost">P</supplied></w>ala<w xml:id="caes0020-10" xml:lang="la"><supplied reason="lost">e</supplied></w>st</abbr><ex>inae</ex></expan></w><w xml:id="caes0020-11" xml:lang="la">Victorinus</w></p>
 </div>
 </body>
       <back>

@@ -114,16 +114,12 @@
             <p>ΛΙΘΟΝΔΙΟΡ<lb/>ΙΖΟΝΤΑΑΓΡ<lb/>ΟΥϹΚΩΩϹΕΑϹ<lb/>ΚΕΠΕΡΙϹΗϹ</p>
          </div>
          <div type="edition" ana="#b1" xml:lang="grc" subtype="transcription" xml:id="ulat0016.transcription" corresp="#ulat0016.diplomatic #ulat0016.translation">
-            <p>Λὶθον διορ<lb/>ίζοντα ἀγρ<lb/>οὺς <expan>
-                  <abbr>κω</abbr><ex>μῶν</ex>
-               </expan> Ωσεας <lb/>κὲ Περισης</p>
+            <p>Λὶθον διορ<lb/>ίζοντα ἀγρ<lb/>οὺς <expan><abbr>κω</abbr><ex>μῶν</ex></expan> Ωσεας <lb/>κὲ Περισης</p>
          </div>
          <div type="translation" ana="#b1" xml:id="ulat0016.translation" corresp="#ulat0016.diplomatic #ulat0016.transcription">
             <p>The stone which divides the lands of the villages Ωσεα and Περιση.</p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="ulat0016-1" xml:lang="grc">Λὶθον</w> <w xml:id="ulat0016-2" xml:lang="grc">διορ</w> <w xml:id="ulat0016-3" xml:lang="grc">ίζοντα</w> <w xml:id="ulat0016-4" xml:lang="grc">ἀγρ</w> <w xml:id="ulat0016-5" xml:lang="grc">οὺς</w><w xml:id="ulat0016-6" xml:lang="grc"><expan>
-                  <abbr>κω</abbr><ex>μῶν</ex>
-               </expan></w><w xml:id="ulat0016-7" xml:lang="grc">Ωσεας</w> <w xml:id="ulat0016-8" xml:lang="grc">κὲ</w> <w xml:id="ulat0016-9" xml:lang="grc">Περισης</w></p>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="ulat0016-1" xml:lang="grc">Λὶθον</w> <w xml:id="ulat0016-2" xml:lang="grc">διορ</w> <w xml:id="ulat0016-3" xml:lang="grc">ίζοντα</w> <w xml:id="ulat0016-4" xml:lang="grc">ἀγρ</w> <w xml:id="ulat0016-5" xml:lang="grc">οὺς</w><w xml:id="ulat0016-6" xml:lang="grc"><expan><abbr>κω</abbr><ex>μῶν</ex></expan></w><w xml:id="ulat0016-7" xml:lang="grc">Ωσεας</w> <w xml:id="ulat0016-8" xml:lang="grc">κὲ</w> <w xml:id="ulat0016-9" xml:lang="grc">Περισης</w></p>
 </div>
 </body>
       <back>

@@ -105,125 +105,140 @@ for strTextFullPath in vTextFullPaths:
 	if XML_NS + 'lang' in x[0].attrib:
 		strPLanguage = x[0].attrib[XML_NS + 'lang']
 
-	words = []
-	editionSegmented = copy.deepcopy(x[0])
-	editionSegmented.clear()
+	try:
+		words = []
+		editionSegmented = copy.deepcopy(x[0])
+		editionSegmented.clear()
 
-	strXMLText = etree.tostring(x[0], encoding='utf8', method='xml').decode('utf-8')
+		strXMLText = etree.tostring(x[0], encoding='utf8', method='xml').decode('utf-8')
 
-	# TODO: Keep orig/reg, abbr, supplied
-	# keep foreign xml:lang="heb"
+		# TODO: Keep orig/reg, abbr, supplied
+		# keep foreign xml:lang="heb"
 
-	# remove all <lb>s
-	strXMLText = re.sub(r"<lb break=\"no\"(\s*)/>", "", strXMLText)
-	strXMLText = re.sub(r"(\s*)<lb break=\"no\"(\s*)/>(\s*)", "", strXMLText)
-	strXMLText = re.sub(r"<lb\s*/>", " ", strXMLText)
+		# remove all <lb>s
+		strXMLText = re.sub(r"<lb break=\"no\"(\s*)/>", "", strXMLText)
+		strXMLText = re.sub(r"(\s*)<lb break=\"no\"(\s*)/>(\s*)", "", strXMLText)
+		strXMLText = re.sub(r"<lb\s*/>", " ", strXMLText)
 
-	# Just delete <note>...</note> right from the start. Shouldn't be there anyway.
-	strXMLText = re.sub(r"<note>([^<]*?)</note>", "", strXMLText)
+		# Just delete <note>...</note> right from the start. Shouldn't be there anyway.
+		strXMLText = re.sub(r"<note>([^<]*?)</note>", "", strXMLText)
 
-	# Keep stuff as is without worrying about the markup
-	# strXMLText = re.sub(r"<supplied>(.*?)</supplied>", r"<w><supplied>\1</supplied></w>", strXMLText)
-	# strXMLText = re.sub(r"<supplied (([^>]+|\s)*?)>(.*?)</supplied>", r"<w><supplied>\3</supplied></w>", strXMLText)
-	strXMLText = re.sub(r"<supplied>", r"<w><supplied>", strXMLText)
-	strXMLText = re.sub(r"<supplied (([^>]+|\s)*?)>", r"<w><supplied \2>", strXMLText)
-	strXMLText = re.sub(r"</supplied>", r"</supplied></w>", strXMLText)
-	# Supplied
+		# Keep stuff as is without worrying about the markup
+		# strXMLText = re.sub(r"<supplied>(.*?)</supplied>", r"<w><supplied>\1</supplied></w>", strXMLText)
+		# strXMLText = re.sub(r"<supplied (([^>]+|\s)*?)>(.*?)</supplied>", r"<w><supplied>\3</supplied></w>", strXMLText)
+		# strXMLText = re.sub(r"<supplied(([^>]+|\s)*?)/>", r" ", strXMLText)
+		# strXMLText = re.sub(r'<supplied reason="undefined"/>', r" ", strXMLText)
 
-	strXMLText = re.sub(r"<unclear([^>]*?)>(.*?)</unclear>", r"\2", strXMLText)
-	# strXMLText = re.sub(r"<hi ([^>]*?)>(.*?)</hi>", r"\2", strXMLText)
+		strXMLText = re.sub(r"<supplied>", r"<w><supplied>", strXMLText)
+		strXMLText = re.sub(r"<supplied (([^>]+|\s)*?)>", r"<w><supplied \2>", strXMLText)
+		strXMLText = re.sub(r"</supplied>", r"</supplied></w>", strXMLText)
+		# Supplied
 
-	# Discard a bunch of stuff that we don't really care about in this context
-	strXMLText = re.sub(r"<([/]*)gap([/]*)>", "", strXMLText)
-	strXMLText = re.sub(r"<([/]*)gap ([^>]*?)>", "", strXMLText)
-	# strXMLText = re.sub(r"<g ([^>]*?)>([^<]*)</g>", "", strXMLText)
-	# strXMLText = re.sub(r"<g>([^<]*)</g>", "", strXMLText)
-	# strXMLText = re.sub(r"<g([^>]*?)>", "", strXMLText)
-	# strXMLText = re.sub(r"<surplus([^>]*?)>(.*?)</surplus>", "", strXMLText)
-	strXMLText = re.sub(r"<orgName>(.*?)</orgName>", "", strXMLText)
-	strXMLText = re.sub(r"<([/]*)handShift([^>]*?)>", "", strXMLText)
-	# strXMLText = re.sub(r"<unclear([^>]*?)>", "", strXMLText)
-	strXMLText = re.sub(r"<space([^>]*?)>", "", strXMLText)
+		strXMLText = re.sub(r"<unclear([^>]*?)>(.*?)</unclear>", r"\2", strXMLText)
+		# strXMLText = re.sub(r"<hi ([^>]*?)>(.*?)</hi>", r"\2", strXMLText)
 
-	# Substitutions: <subst> <add>replacement</add> <del>erased</del> </subst>
-	strXMLText = re.sub(r"<subst([^>]*?)>(.*?)</subst>", r"\2", strXMLText)
-	strXMLText = re.sub(r"<del>(.*?)</del>", r"", strXMLText)
-	strXMLText = re.sub(r"<del(([^>]|\s)*?)>(.*?)</del>", r"", strXMLText)
-	strXMLText = re.sub(r"<([/]*)del([/]*)>", "", strXMLText)
-	strXMLText = re.sub(r"<([/]*)del ([^>]*?)>", "", strXMLText)
-	strXMLText = re.sub(r"<add>(.*?)</add>", r"\1", strXMLText)
-	strXMLText = re.sub(r"<add(([^>]|\s)*?)>(.*?)</add>", r"\2", strXMLText)
+		# Discard a bunch of stuff that we don't really care about in this context
+		strXMLText = re.sub(r"<([/]*)gap([/]*)>", "", strXMLText)
+		strXMLText = re.sub(r"<([/]*)gap ([^>]*?)>", "", strXMLText)
+		# strXMLText = re.sub(r"<g ([^>]*?)>([^<]*)</g>", "", strXMLText)
+		# strXMLText = re.sub(r"<g>([^<]*)</g>", "", strXMLText)
+		# strXMLText = re.sub(r"<g([^>]*?)>", "", strXMLText)
+		# strXMLText = re.sub(r"<surplus([^>]*?)>(.*?)</surplus>", "", strXMLText)
+		strXMLText = re.sub(r"<orgName>(.*?)</orgName>", "", strXMLText)
+		strXMLText = re.sub(r"<([/]*)handShift([^>]*?)>", "", strXMLText)
+		# strXMLText = re.sub(r"<unclear([^>]*?)>", "", strXMLText)
+		strXMLText = re.sub(r"<space([^>]*?)>", "", strXMLText)
 
-	# Choice: <choice>
-	strXMLText = re.sub(r"<choice>(.*?)</choice>", r"§\1§", strXMLText)
-	strXMLText = re.sub(r"<choice([^>]*?)>(.*?)</choice>", r"§\2§", strXMLText)
-	strXMLText = re.sub(r"<([/]*)choice([/]*)>", "", strXMLText)
-	strXMLText = re.sub(r"<sic([^>]*?)>(.*?)</sic>", r"", strXMLText)
-	strXMLText = re.sub(r"<([/]*)sic([/]*)>", "", strXMLText)
-	strXMLText = re.sub(r"<corr([^>]*?)>(.*?)</corr>", r"\2", strXMLText)
+		# Substitutions: <subst> <add>replacement</add> <del>erased</del> </subst>
+		strXMLText = re.sub(r"<subst([^>]*?)>(.*?)</subst>", r"\2", strXMLText)
+		strXMLText = re.sub(r"<del>(.*?)</del>", r"", strXMLText)
+		strXMLText = re.sub(r"<del(([^>]|\s)*?)>(.*?)</del>", r"", strXMLText)
+		strXMLText = re.sub(r"<([/]*)del([/]*)>", "", strXMLText)
+		strXMLText = re.sub(r"<([/]*)del ([^>]*?)>", "", strXMLText)
+		strXMLText = re.sub(r"<add>(.*?)</add>", r"\1", strXMLText)
+		strXMLText = re.sub(r"<add(([^>]|\s)*?)>(.*?)</add>", r"\2", strXMLText)
 
-	# Orig/Reg
-	strXMLText = re.sub(r"<orig([^>]*?)>(.*?)</orig>", r"", strXMLText)
-	strXMLText = re.sub(r"<reg([^>]*?)>(.*?)</reg>", r"\2", strXMLText)
+		# Choice: <choice>
+		strXMLText = re.sub(r"<choice>(.*?)</choice>", r"§\1§", strXMLText)
+		strXMLText = re.sub(r"<choice([^>]*?)>(.*?)</choice>", r"§\2§", strXMLText)
+		strXMLText = re.sub(r"<([/]*)choice([/]*)>", "", strXMLText)
+		strXMLText = re.sub(r"<sic([^>]*?)>(.*?)</sic>", r"", strXMLText)
+		strXMLText = re.sub(r"<([/]*)sic([/]*)>", "", strXMLText)
+		strXMLText = re.sub(r"<corr([^>]*?)>(.*?)</corr>", r"\2", strXMLText)
 
-	# Deal roughly with word breaks and <foreign ...>
-	# Foreign may have one or more words with it
-	# strXMLText = re.sub(r"<foreign xml\:lang=\"(\w+)\">", r"<w><foreign xml:lang='\1'>", strXMLText)
-	# strXMLText = re.sub(r"<foreign xml\:lang=\"(\w+(?:-\w+))\">", r"<w><foreign xml:lang='\1'>", strXMLText)
-	# strXMLText = re.sub(r"<foreign\s*>", r"<w><foreign>", strXMLText)
-	# strXMLText = re.sub(r"<foreign>", r"<w><foreign>", strXMLText)
-	# strXMLText = re.sub(r"</foreign>", r"</foreign></w>", strXMLText)
+		# Orig/Reg
+		strXMLText = re.sub(r"<orig([^>]*?)>(.*?)</orig>", r"", strXMLText)
+		strXMLText = re.sub(r"<reg([^>]*?)>(.*?)</reg>", r"\2", strXMLText)
 
-	# Deal with word breaks and <num ...>
-	strXMLText = re.sub(r"<num([^>]*?)>", r"§", strXMLText)
-	strXMLText = re.sub(r"</num>", r"§", strXMLText)
+		# Deal roughly with word breaks and <foreign ...>
+		# Foreign may have one or more words with it
+		# strXMLText = re.sub(r"<foreign xml\:lang=\"(\w+)\">", r"<w><foreign xml:lang='\1'>", strXMLText)
+		# strXMLText = re.sub(r"<foreign xml\:lang=\"(\w+(?:-\w+))\">", r"<w><foreign xml:lang='\1'>", strXMLText)
+		# strXMLText = re.sub(r"<foreign\s*>", r"<w><foreign>", strXMLText)
+		# strXMLText = re.sub(r"<foreign>", r"<w><foreign>", strXMLText)
+		# strXMLText = re.sub(r"</foreign>", r"</foreign></w>", strXMLText)
 
-	# Deal with <expan>
-	# strXMLText = re.sub(r"<expan>(.*?)</expan>", r"<w><expan>\1</expan></w>", strXMLText)
-	# strXMLText = re.sub(r"<expan([^>]*?)>(.*?)</expan>", r"<w><expan \1>\2</expan></w>", strXMLText)
-	strXMLText = re.sub(r"(\s*)<expan([^>]*?)>", r"<w><expan \1>", strXMLText)
-	strXMLText = re.sub(r"</expan>(\s*)", r"</expan></w>", strXMLText)
-	#
-	# strXMLText = re.sub(r"<abbr>(.*?)</abbr>", r"§\1", strXMLText)
-	# strXMLText = re.sub(r"<([/]*)abbr([/]*)>", "", strXMLText)
+		# Deal with word breaks and <num ...>
+		strXMLText = re.sub(r"<num([^>]*?)>", r"§", strXMLText)
+		strXMLText = re.sub(r"</num>", r"§", strXMLText)
 
-	# Deal with <app>
-	strXMLText = re.sub(r"<app>(.*?)</app>", r"§\1§", strXMLText)
-	strXMLText = re.sub(r"<app([^>]*)>(.*?)</app>", r"\2", strXMLText)
-	strXMLText = re.sub(r"<lem>(.*?)</lem>", r"§\1§", strXMLText)
-	strXMLText = re.sub(r"<lem ([^>]*?)>(.*?)</lem>", r"§\2§", strXMLText)
-	strXMLText = re.sub(r"<rdg>(.*?)</rdg>", r"§ª\1§", strXMLText)
+		# Deal with <expan>
+		# strXMLText = re.sub(r"<expan>(.*?)</expan>", r"<w><expan>\1</expan></w>", strXMLText)
+		# strXMLText = re.sub(r"<expan([^>]*?)>(.*?)</expan>", r"<w><expan \1>\2</expan></w>", strXMLText)
+		strXMLText = re.sub(r"(\s*)<expan([^>]*?)>", r"<w><expan \1>", strXMLText)
+		strXMLText = re.sub(r"</expan>(\s*)", r"</expan></w>", strXMLText)
+		#
+		# strXMLText = re.sub(r"<abbr>(.*?)</abbr>", r"§\1", strXMLText)
+		# strXMLText = re.sub(r"<([/]*)abbr([/]*)>", "", strXMLText)
 
-	# Normalized
+		# Deal with <app>
+		strXMLText = re.sub(r"<app>(.*?)</app>", r"§\1§", strXMLText)
+		strXMLText = re.sub(r"<app([^>]*)>(.*?)</app>", r"\2", strXMLText)
+		strXMLText = re.sub(r"<lem>(.*?)</lem>", r"§\1§", strXMLText)
+		strXMLText = re.sub(r"<lem ([^>]*?)>(.*?)</lem>", r"§\2§", strXMLText)
+		strXMLText = re.sub(r"<rdg>(.*?)</rdg>", r"§ª\1§", strXMLText)
 
-	# Expanding abbreviations and such
-	# strXMLText = re.sub(r"<am>(.*?)</am>", r"", strXMLText)
-	# strXMLText = re.sub(r"<am/>", r"", strXMLText)
-	# strXMLText = re.sub(r"<ex>(.*?)</ex>", r"\1§", strXMLText)
-	# strXMLText = re.sub(r"<ex ([^>]*?)>(.*?)</ex>", r"\2§", strXMLText)
+		# Normalized
 
-	# Replace all spaces as word breaks
-	# strXMLText = re.sub(r"\s+", "§", strXMLText)
-	# strXMLText = re.sub(r"[\.\,\;‧·⋅•∙]", "§", strXMLText)
-	# strXMLText = re.sub(r"§\?§", "§", strXMLText)
+		# Expanding abbreviations and such
+		# strXMLText = re.sub(r"<am>(.*?)</am>", r"", strXMLText)
+		# strXMLText = re.sub(r"<am/>", r"", strXMLText)
+		# strXMLText = re.sub(r"<ex>(.*?)</ex>", r"\1§", strXMLText)
+		# strXMLText = re.sub(r"<ex ([^>]*?)>(.*?)</ex>", r"\2§", strXMLText)
 
-
-	# TEMP ELIMINATE FOREIGN AND NUM
-	# strXMLText = re.sub(r"<foreign([^>]*?)>(.*?)</foreign>", r"\2", strXMLText)
-	# strXMLText = re.sub(r"<num([^>]*?)>(.*?)</num>", r"\2", strXMLText)
-	# strXMLText = re.sub(r"<num>(.*?)</num>", r"\1", strXMLText)
+		# Replace all spaces as word breaks
+		# strXMLText = re.sub(r"\s+", "§", strXMLText)
+		# strXMLText = re.sub(r"[\.\,\;‧·⋅•∙]", "§", strXMLText)
+		# strXMLText = re.sub(r"§\?§", "§", strXMLText)
 
 
-	# Collapse word breaks and reinstate line breaks
-	# strXMLText = re.sub(r"¶", "\n", strXMLText)    # Reinstate line breaks
-	strXMLText = re.sub(r"§+", "§", strXMLText)    # Finally, collapse word breaks
-	# strXMLText = re.sub(r"§¶§", "§¶", strXMLText)  # Only one word break with line break
+		# TEMP ELIMINATE FOREIGN AND NUM
+		# strXMLText = re.sub(r"<foreign([^>]*?)>(.*?)</foreign>", r"\2", strXMLText)
+		# strXMLText = re.sub(r"<num([^>]*?)>(.*?)</num>", r"\2", strXMLText)
+		# strXMLText = re.sub(r"<num>(.*?)</num>", r"\1", strXMLText)
 
-	# With all tags removed, discard any remaining quotes
-	# strXMLText = re.sub(r"\"", "", strXMLText)
 
-	strXMLText = re.sub(r"§", " ", strXMLText)    # Finally, collapse word breaks
-	editionInput = etree.XML(strXMLText, parser)
+		# Collapse word breaks and reinstate line breaks
+		# strXMLText = re.sub(r"¶", "\n", strXMLText)    # Reinstate line breaks
+		strXMLText = re.sub(r"§+", "§", strXMLText)    # Finally, collapse word breaks
+		# strXMLText = re.sub(r"§¶§", "§¶", strXMLText)  # Only one word break with line break
+
+		# With all tags removed, discard any remaining quotes
+		# strXMLText = re.sub(r"\"", "", strXMLText)
+
+		print('########')
+		print('########')
+		print('########')
+		print(strTextFullPath)
+		print(strXMLText)
+		print('########')
+		print('########')
+		print('########')
+
+		strXMLText = re.sub(r"§", " ", strXMLText)    # Finally, collapse word breaks
+		editionInput = etree.XML(strXMLText, parser)
+	except:
+		continue
 
 	# iterate through both text and element nodes of the <p> element
 	for node in editionInput.xpath("child::node()"):

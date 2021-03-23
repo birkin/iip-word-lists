@@ -122,9 +122,7 @@
          <div type="edition" ana="#b2" subtype="transcription" xml:id="beth0060.transcription" corresp="#beth0060.translation">
             <p>Σίμον πατὴρ Μελιτίου <unclear>Χ</unclear>ορήθου<lb/>
                <del rend="erasure">τιου</del>
-               <lb/> Καλλί<supplied reason="lost" cert="low">ας </supplied> Σέλευκος <expan>
-                  <abbr>π</abbr><ex>α</ex><abbr>τ</abbr><ex>ὴρ</ex>
-               </expan> ἐνθάδε </p>
+               <lb/> Καλλί<supplied reason="lost" cert="low">ας</supplied> Σέλευκος <expan><abbr>π</abbr><ex>α</ex><abbr>τ</abbr><ex>ὴρ</ex></expan> ἐνθάδε </p>
          </div>
          <div type="translation" ana="#b2" xml:id="beth0060.translation" corresp="#beth0060.transcription">
             <p>
@@ -134,9 +132,7 @@
                </placeName>; <persName xml:lang="grc " ref="persons.xml#beth0060p03">Callias</persName>, <persName xml:lang="grc " ref="persons.xml#beth0060p04">Seleucos </persName> the <rs type="family" ana="interpretations.xml#father">father </rs> are buried
 					here. </p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="beth0060-1" xml:lang="grc">Σίμον</w> <w xml:id="beth0060-2" xml:lang="grc">πατὴρ</w> <w xml:id="beth0060-3" xml:lang="grc">Μελιτίου</w> <w xml:id="beth0060-4" xml:lang="grc">Χορήθου</w> <w xml:id="beth0060-5" xml:lang="grc">Καλλί</w><w xml:id="beth0060-6" xml:lang="grc"><supplied reason="lost" cert="low">ας </supplied></w><w xml:id="beth0060-7" xml:lang="grc">Σέλευκος</w><w xml:id="beth0060-8" xml:lang="grc"><expan>
-                  <abbr>π</abbr><ex>α</ex><abbr>τ</abbr><ex>ὴρ</ex>
-               </expan></w><w xml:id="beth0060-9" xml:lang="grc">ἐνθάδε</w></p>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="beth0060-1" xml:lang="grc">Σίμον</w> <w xml:id="beth0060-2" xml:lang="grc">πατὴρ</w> <w xml:id="beth0060-3" xml:lang="grc">Μελιτίου</w> <w xml:id="beth0060-4" xml:lang="grc">Χορήθου</w> <w xml:id="beth0060-5" xml:lang="grc">Καλλί</w><w xml:id="beth0060-6" xml:lang="grc"><supplied reason="lost" cert="low">ας</supplied></w><w xml:id="beth0060-7" xml:lang="grc">Σέλευκος</w><w xml:id="beth0060-8" xml:lang="grc"><expan><abbr>π</abbr><ex>α</ex><abbr>τ</abbr><ex>ὴρ</ex></expan></w><w xml:id="beth0060-9" xml:lang="grc">ἐνθάδε</w></p>
 </div>
 </body>
       <back>

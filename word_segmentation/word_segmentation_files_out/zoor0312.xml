@@ -111,6 +111,7 @@
          <change when="2019-01-29" who="persons.xml#Elli_Mylonas">
                 adding period attribute to date element, with Periodo value.
             </change>
+         <change when="2021-03-14" who="Chris Zeichmann">corrected transcription</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
@@ -131,12 +132,8 @@
                <supplied reason="lost">ν</supplied>
                <gap reason="illegible" atLeast="17" atMost="18" unit="character"/>
                <lb/>
-               <gap reason="illegible" atLeast="12" atMost="13" unit="character"/>
-               <supplied reason="lost">
-                  <unclear>Ξ</unclear>ανθι</supplied>
-               <lb break="no"/>κοῦ δευτέρᾳ <expan>
-                  <abbr>ἠμ</abbr><ex>έρᾳ</ex>
-               </expan> Κυρίου <lb/>
+               <gap reason="illegible" atLeast="12" atMost="13" unit="character"/> <unclear>Ξ</unclear><supplied reason="lost">αν</supplied>θι
+               <lb break="no"/>κοῦ δευτέρᾳ <expan><abbr>ἠμ</abbr><ex>έρᾳ</ex></expan> Κυρίου <lb/>
                <gap reason="lost" quantity="1" unit="line"/>
             </p>
          </div>
@@ -145,10 +142,7 @@
                     who died having a good name and good faith (at the age) of...on the second (day)
                     of [the month Xan]thikos, on the ...day of the...Lord..</p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="zoor0312-1" xml:lang="grc">Εἷς</w> <w xml:id="zoor0312-2" xml:lang="grc">Θεός</w> <w xml:id="zoor0312-3" xml:lang="grc">ὁ</w> <w xml:id="zoor0312-4" xml:lang="grc">πἀντων</w> <w xml:id="zoor0312-5" xml:lang="grc">Δεσπότης</w> <w xml:id="zoor0312-6" xml:lang="grc">Μνημεῖον</w> <w xml:id="zoor0312-7" xml:lang="grc">Κύρας</w> <w xml:id="zoor0312-8" xml:lang="grc">Κασσισέου</w> <w xml:id="zoor0312-9" xml:lang="grc">ἀποθανοῦσα</w> <w xml:id="zoor0312-10" xml:lang="grc">ἀποθανόθσης</w> <w xml:id="zoor0312-11" xml:lang="grc">μετὰ</w> <w xml:id="zoor0312-12" xml:lang="grc">καλοῦ</w> <w xml:id="zoor0312-13" xml:lang="grc">ὀνόματος</w> <w xml:id="zoor0312-14" xml:lang="grc">καὶ</w> <w xml:id="zoor0312-15" xml:lang="grc">καλῆς</w> <w xml:id="zoor0312-16" xml:lang="grc">πίστεως</w> <w xml:id="zoor0312-17" xml:lang="grc">ἐτῶ</w><w xml:id="zoor0312-18" xml:lang="grc"><supplied reason="lost">ν</supplied></w><w xml:id="zoor0312-19" xml:lang="grc"><supplied reason="lost">
-                  Ξανθι</supplied></w><w xml:id="zoor0312-20" xml:lang="grc">κοῦ</w> <w xml:id="zoor0312-21" xml:lang="grc">δευτέρᾳ</w><w xml:id="zoor0312-22" xml:lang="grc"><expan>
-                  <abbr>ἠμ</abbr><ex>έρᾳ</ex>
-               </expan></w><w xml:id="zoor0312-23" xml:lang="grc">Κυρίου</w></p>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="zoor0312-1" xml:lang="grc">Εἷς</w> <w xml:id="zoor0312-2" xml:lang="grc">Θεός</w> <w xml:id="zoor0312-3" xml:lang="grc">ὁ</w> <w xml:id="zoor0312-4" xml:lang="grc">πἀντων</w> <w xml:id="zoor0312-5" xml:lang="grc">Δεσπότης</w> <w xml:id="zoor0312-6" xml:lang="grc">Μνημεῖον</w> <w xml:id="zoor0312-7" xml:lang="grc">Κύρας</w> <w xml:id="zoor0312-8" xml:lang="grc">Κασσισέου</w> <w xml:id="zoor0312-9" xml:lang="grc">ἀποθανοῦσα</w> <w xml:id="zoor0312-10" xml:lang="grc">ἀποθανόθσης</w> <w xml:id="zoor0312-11" xml:lang="grc">μετὰ</w> <w xml:id="zoor0312-12" xml:lang="grc">καλοῦ</w> <w xml:id="zoor0312-13" xml:lang="grc">ὀνόματος</w> <w xml:id="zoor0312-14" xml:lang="grc">καὶ</w> <w xml:id="zoor0312-15" xml:lang="grc">καλῆς</w> <w xml:id="zoor0312-16" xml:lang="grc">πίστεως</w> <w xml:id="zoor0312-17" xml:lang="grc">ἐτῶ</w><w xml:id="zoor0312-18" xml:lang="grc"><supplied reason="lost">ν</supplied></w><w xml:id="zoor0312-19" xml:lang="grc">Ξ</w><w xml:id="zoor0312-20" xml:lang="grc"><supplied reason="lost">αν</supplied></w><w xml:id="zoor0312-21" xml:lang="grc">θι</w> <w xml:id="zoor0312-22" xml:lang="grc">κοῦ</w> <w xml:id="zoor0312-23" xml:lang="grc">δευτέρᾳ</w><w xml:id="zoor0312-24" xml:lang="grc"><expan><abbr>ἠμ</abbr><ex>έρᾳ</ex></expan></w><w xml:id="zoor0312-25" xml:lang="grc">Κυρίου</w></p>
 </div>
 </body>
       <back>

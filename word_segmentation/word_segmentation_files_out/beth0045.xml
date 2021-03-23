@@ -102,6 +102,7 @@
          <change when="2019-01-29" who="persons.xml#Elli_Mylonas">
                 adding period attribute to date element, with Periodo value.
             </change>
+         <change when="2021-03-06" who="Chris Zeichmann">corrected reason undefined</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
@@ -113,7 +114,7 @@
    <text>
       <body>
          <div type="edition" ana="#b1" subtype="transcription" xml:id="beth0045.transcription" corresp="#beth0045.translation">
-            <p>Ῥὶβ’ Ιωαάσ<supplied reason="undefined">φ</supplied>
+            <p>Ῥὶβ’ Ιωαάσ<supplied reason="lost">φ</supplied>
             </p>
          </div>
          <div type="translation" ana="#b1" xml:id="beth0045.translation" corresp="#beth0045.transcription">
@@ -122,7 +123,7 @@
                <persName xml:lang="x-greek-hebrew " ref="persons.xml#beth0045p01">Yehoseph </persName>
             </p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="beth0045-1" xml:lang="grc">Ῥὶβ’</w> <w xml:id="beth0045-2" xml:lang="grc">Ιωαάσ</w><w xml:id="beth0045-3" xml:lang="grc"><supplied reason="undefined">φ</supplied></w></p>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="beth0045-1" xml:lang="grc">Ῥὶβ’</w> <w xml:id="beth0045-2" xml:lang="grc">Ιωαάσ</w><w xml:id="beth0045-3" xml:lang="grc"><supplied reason="lost">φ</supplied></w></p>
 </div>
 </body>
       <back>

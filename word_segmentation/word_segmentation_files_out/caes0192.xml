@@ -116,10 +116,10 @@
    <text>
       <body>
          <div type="edition" ana="#b2" subtype="transcription" xml:id="caes0192.transcription" corresp="#caes0192.translation">
-            <p>τόπ<supplied reason="lost">ος Θεοδο</supplied>
+            <p>τόπ<supplied reason="lost">ος</supplied> <supplied reason="lost">Θεοδο</supplied>
                <lb break="no"/> 
 σίου κ<unclear>α</unclear>
-               <supplied reason="lost">ὶ Ἰακώ</supplied>
+               <supplied reason="lost">ὶ</supplied> <supplied reason="lost">Ἰακώ</supplied>
                <lb break="no"/> 
 βο<unclear>υ</unclear>
             </p>
@@ -128,7 +128,7 @@
             <p>The tomb of (Theodo)sios and <persName xml:lang="hbo " ref="persons.xml#caes0192p01">(Iako)bos</persName>...	
 		  </p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="caes0192-1" xml:lang="grc">τόπ</w><w xml:id="caes0192-2" xml:lang="grc"><supplied reason="lost">ος Θεοδο</supplied></w><w xml:id="caes0192-3" xml:lang="grc">σίου</w> <w xml:id="caes0192-4" xml:lang="grc">κα</w><w xml:id="caes0192-5" xml:lang="grc"><supplied reason="lost">ὶ Ἰακώ</supplied></w><w xml:id="caes0192-6" xml:lang="grc">βου</w></p>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="caes0192-1" xml:lang="grc">τόπ</w><w xml:id="caes0192-2" xml:lang="grc"><supplied reason="lost">ος</supplied></w><w xml:id="caes0192-3" xml:lang="grc"><supplied reason="lost">Θεοδο</supplied></w><w xml:id="caes0192-4" xml:lang="grc">σίου</w> <w xml:id="caes0192-5" xml:lang="grc">κα</w><w xml:id="caes0192-6" xml:lang="grc"><supplied reason="lost">ὶ</supplied></w><w xml:id="caes0192-7" xml:lang="grc"><supplied reason="lost">Ἰακώ</supplied></w><w xml:id="caes0192-8" xml:lang="grc">βου</w></p>
 </div>
 </body>
       <back>

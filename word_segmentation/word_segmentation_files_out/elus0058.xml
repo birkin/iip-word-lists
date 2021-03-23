@@ -116,17 +116,13 @@
          <div type="edition" ana="#b1" xml:lang="grc" subtype="transcription" xml:id="elus0058.transcription" corresp="#elus0058.translation">
             <p>
                <supplied reason="undefined">Μ</supplied>ενᾶ <lb/>
-               <expan>
-                  <abbr><unclear>Ζ</unclear>ηνόβι</abbr><ex>ος</ex>
-               </expan>
+               <expan><abbr><unclear>Ζ</unclear>ηνόβι</abbr><ex>ος</ex></expan>
                <lb/>Νικι</p>
          </div>
          <div type="translation" ana="#b1" xml:id="elus0058.translation" corresp="#elus0058.transcription">
             <p>Menas, Zeobius, Niki</p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="elus0058-1" xml:lang="grc"><supplied reason="undefined">Μ</supplied></w><w xml:id="elus0058-2" xml:lang="grc">ενᾶ</w><w xml:id="elus0058-3" xml:lang="grc"><expan>
-                  <abbr>Ζηνόβι</abbr><ex>ος</ex>
-               </expan></w><w xml:id="elus0058-4" xml:lang="grc">Νικι</w></p>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="elus0058-1" xml:lang="grc"><supplied reason="undefined">Μ</supplied></w><w xml:id="elus0058-2" xml:lang="grc">ενᾶ</w><w xml:id="elus0058-3" xml:lang="grc"><expan><abbr>Ζηνόβι</abbr><ex>ος</ex></expan></w><w xml:id="elus0058-4" xml:lang="grc">Νικι</w></p>
 </div>
 </body>
       <back>

@@ -102,6 +102,8 @@
          <change when="2019-01-29" who="persons.xml#Elli_Mylonas">
                 adding period attribute to date element, with Periodo value.
             </change>
+         <change when="2021-02-28" who="Chris Zeichmann">corrected typos, combined with jeru0488
+            (now deleted)</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
@@ -112,22 +114,46 @@
    </facsimile>
    <text>
       <body>
+         <div type="edition" subtype="diplomatic" ana="b1">
+            <div type="textpart" subtype="front">
+               <p> ΘΑΛΙΑΡΧΟϹ <g type="Κ-within-L"/>
+                  <lb/>ΘΑΛΙΑΡΧΟϹ <g type="Κ-within-L"/>
+                  <lb/>ΔWϹΙΘΕΟΥ </p>
+            </div>
+            <div type="textpart" subtype="inner-lid">
+               <p>ΘΑΛΙΑΡΧΟϹ <g type="L"/>
+                  <num value="20">Κ</num>
+               </p>
+            </div>
+         </div>
          <div type="edition" ana="#b1" xml:lang="grc" subtype="transcription" xml:id="jeru0062.transcription" corresp="#jeru0062.translation">
-            <p>Θαλίαρχος <expan><abbr><am>L</am></abbr><ex>ἔτουσ</ex></expan> <num value="20">κ</num>
-               <lb/> Θαλίαρχος <expan><abbr><am>L</am></abbr><ex>ἔτουσ</ex></expan> <num value="20">κ</num>
-               <lb/> Δοσιθέου<lb/> Θαλίαρχος <expan><abbr><am>L</am></abbr><ex>ἔτουσ</ex></expan> <num value="20">κ</num> 
+            <p>Θαλίαρχος <expan><abbr><am>L</am></abbr><ex>ἔτους</ex></expan>
+               <num value="20">κ</num>
+               <lb/>Θαλίαρχος <expan><abbr><am>L</am></abbr><ex>ἔτους</ex></expan>
+               <num value="20">κ</num>
+               <lb/>Δοσιθέου<lb/>Θαλίαρχος <expan><abbr><am>L</am></abbr><ex>ἔτους</ex></expan>
+               <num value="20">κ</num>
             </p>
          </div>
          <div type="translation" ana="#b1" xml:id="jeru0062.translation" corresp="#jeru0062.transcription">
             <p>Thaliarchos, aged 20, Thaliarchos, aged 20, son of Dositheos.
                     Thaliarchos, aged 20.</p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="jeru0062-1" xml:lang="grc">Θαλίαρχος</w><w xml:id="jeru0062-2" xml:lang="grc"><expan><abbr><am>L</am></abbr><ex>ἔτουσ</ex></expan></w><w xml:id="jeru0062-3" xml:lang="grc">κ</w> <w xml:id="jeru0062-4" xml:lang="grc">Θαλίαρχος</w><w xml:id="jeru0062-5" xml:lang="grc"><expan><abbr><am>L</am></abbr><ex>ἔτουσ</ex></expan></w><w xml:id="jeru0062-6" xml:lang="grc">κ</w> <w xml:id="jeru0062-7" xml:lang="grc">Δοσιθέου</w> <w xml:id="jeru0062-8" xml:lang="grc">Θαλίαρχος</w><w xml:id="jeru0062-9" xml:lang="grc"><expan><abbr><am>L</am></abbr><ex>ἔτουσ</ex></expan></w><w xml:id="jeru0062-10" xml:lang="grc">κ</w></p>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="jeru0062-1" xml:lang="grc">Θαλίαρχος</w><w xml:id="jeru0062-2" xml:lang="grc"><expan><abbr><am>L</am></abbr><ex>ἔτους</ex></expan></w><w xml:id="jeru0062-3" xml:lang="grc">κ</w> <w xml:id="jeru0062-4" xml:lang="grc">Θαλίαρχος</w><w xml:id="jeru0062-5" xml:lang="grc"><expan><abbr><am>L</am></abbr><ex>ἔτους</ex></expan></w><w xml:id="jeru0062-6" xml:lang="grc">κ</w> <w xml:id="jeru0062-7" xml:lang="grc">Δοσιθέου</w> <w xml:id="jeru0062-8" xml:lang="grc">Θαλίαρχος</w><w xml:id="jeru0062-9" xml:lang="grc"><expan><abbr><am>L</am></abbr><ex>ἔτους</ex></expan></w><w xml:id="jeru0062-10" xml:lang="grc">κ</w></p>
 </div>
 </body>
       <back>
-         <div type="commentary">
-            <p>Ossuary has inner ledge on four sides and broken, flat, sliding lid. The last repetition of name and age of the deceased appears on the lid; the rest on the chest's front side. Both names are well attested, Θαλίαρχος in Cyrenaica especially. Repetition of the name may express grief of the mourner(s) or improve upon an unsatisfactory first inscription. Age of the deceased is rarely found on ossuaries; on this one and another from Jericho the sign L, standing for ἐτῶν, is used to signal age (see inscription "jeri0003"). Locally, the sign was used to indicate dates at Maresha and later on coins of the Herodian dynasty and the Roman procurators. It occurs in Jewish tomb inscriptions in Egypt and Cyrenaica, and its use on ossuaries from Israel/Palestine may indicate the scribe's foreign origin.</p>
+         <div type="commentary" ana="b1">
+            <p>Ossuary has inner ledge on four sides and broken, flat, sliding lid. The last
+               repetition of name and age of the deceased appears on the lid; the rest on the
+               chest's front side. Both names are well attested, Θαλίαρχος in Cyrenaica especially.
+               Repetition of the name may express grief of the mourner(s) or improve upon an
+               unsatisfactory first inscription. Age of the deceased is rarely found on ossuaries;
+               on this one and another from Jericho the sign L, standing for ἐτῶν, is used to signal
+               age (see inscription "jeri0003"). Locally, the sign was used to indicate dates at
+               Maresha and later on coins of the Herodian dynasty and the Roman procurators. It
+               occurs in Jewish tomb inscriptions in Egypt and Cyrenaica, and its use on ossuaries
+               from Israel/Palestine may indicate the scribe's foreign origin.</p>
          </div>
          <div type="bibliography">
             <listBibl>

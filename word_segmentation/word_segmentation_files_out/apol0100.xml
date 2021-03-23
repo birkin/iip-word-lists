@@ -170,17 +170,15 @@
             <!-- figure out how include linking mechanism to link divs to bibl.  add a ref inside an ab inside the div-->
             <div type="edition" subtype="diplomatic" ana="b1">
                 <p>
-                    <lb/>+ΑΜΒΡΟΣΙΗΣΤΕΛΕΘΩΑΙ<supplied reason="lost">
-                        <unclear>Ν</unclear>
-                    </supplied>
+                    <lb/>+ΑΜΒΡΟΣΙΗΣΤΕΛΕΘΩΑΙ <gap reason="lost" unit="character" extent="unknown"/><unclear>Ν</unclear><gap reason="lost" unit="character" extent="unknown"/>
                     <unclear>Σ</unclear>ΑΡΕΙΩΝ<lb/>ΚΑΙΜΕΜΑΡΙΝΟΣΕΤΕΥΞΕΘΕΟ<gap reason="lost" unit="character" extent="unknown"/>ΞΤΙΝ<gap reason="lost" unit="character" extent="unknown"/>ΩΝ<lb/>
                     <gap reason="lost" unit="character" extent="unknown"/>
                     <unclear>Τ</unclear>ΙΚΟΝΑΧΡΑΑΝΤΟΝΑΕΙΝΟΟΝΗΝΙΟΧΕΥΩΝ+</p>
             </div>
             <div type="edition" subtype="transcription" ana="b1">
                 <p>
-                    <lb/>+ἀμβροσίης τελέθω καὶ<supplied reason="lost">γέκταρος οἶκο</supplied>
-                    <unclear>σ</unclear> ἀρεἰων<lb/>καί με Μαρῖνος ἔτευξε θεὸ<supplied reason="lost">ν κλυτόμ</supplied>ητιν <supplied reason="omitted">ἀίρ</supplied>ων<lb/>
+                    <lb/>+ἀμβροσίης τελέθω καὶ<supplied reason="lost">γέκταρος</supplied> <supplied reason="lost">οἶκο</supplied>
+                    <unclear>σ</unclear> ἀρεἰων<lb/>καί με Μαρῖνος ἔτευξε θεὸ<supplied reason="lost">ν</supplied> <supplied reason="lost">κλυτόμ</supplied>ητιν <supplied reason="omitted">ἀίρ</supplied>ων<lb/>
                     <supplied reason="lost">μυς</supplied>
                     <unclear>τ</unclear>ικὸν ἀχράαντον ἀεὶ νόον ἡνιοχεύων+</p>
             </div>
@@ -193,7 +191,7 @@
             </div>
             <!-- The bibl has more contained elements. What is the possible list of values of the biblScope/@type? 
              -->
-        <div type="edition" subtype="transcription_segmented"><p><w xml:id="apol0100-1" xml:lang="grc">ἀμβροσίης</w> <w xml:id="apol0100-2" xml:lang="grc">τελέθω</w> <w xml:id="apol0100-3" xml:lang="grc">καὶ</w><w xml:id="apol0100-4" xml:lang="grc"><supplied reason="lost">γέκταρος οἶκο</supplied></w><w xml:id="apol0100-5" xml:lang="grc">σ</w> <w xml:id="apol0100-6" xml:lang="grc">ἀρεἰων</w> <w xml:id="apol0100-7" xml:lang="grc">καί</w> <w xml:id="apol0100-8" xml:lang="grc">με</w> <w xml:id="apol0100-9" xml:lang="grc">Μαρῖνος</w> <w xml:id="apol0100-10" xml:lang="grc">ἔτευξε</w> <w xml:id="apol0100-11" xml:lang="grc">θεὸ</w><w xml:id="apol0100-12" xml:lang="grc"><supplied reason="lost">ν κλυτόμ</supplied></w><w xml:id="apol0100-13" xml:lang="grc">ητιν</w><w xml:id="apol0100-14" xml:lang="grc"><supplied reason="omitted">ἀίρ</supplied></w><w xml:id="apol0100-15" xml:lang="grc">ων</w><w xml:id="apol0100-16" xml:lang="grc"><supplied reason="lost">μυς</supplied></w><w xml:id="apol0100-17" xml:lang="grc">τικὸν</w> <w xml:id="apol0100-18" xml:lang="grc">ἀχράαντον</w> <w xml:id="apol0100-19" xml:lang="grc">ἀεὶ</w> <w xml:id="apol0100-20" xml:lang="grc">νόον</w> <w xml:id="apol0100-21" xml:lang="grc">ἡνιοχεύων</w></p>
+        <div type="edition" subtype="transcription_segmented"><p><w xml:id="apol0100-1" xml:lang="grc">ἀμβροσίης</w> <w xml:id="apol0100-2" xml:lang="grc">τελέθω</w> <w xml:id="apol0100-3" xml:lang="grc">καὶ</w><w xml:id="apol0100-4" xml:lang="grc"><supplied reason="lost">γέκταρος</supplied></w><w xml:id="apol0100-5" xml:lang="grc"><supplied reason="lost">οἶκο</supplied></w><w xml:id="apol0100-6" xml:lang="grc">σ</w> <w xml:id="apol0100-7" xml:lang="grc">ἀρεἰων</w> <w xml:id="apol0100-8" xml:lang="grc">καί</w> <w xml:id="apol0100-9" xml:lang="grc">με</w> <w xml:id="apol0100-10" xml:lang="grc">Μαρῖνος</w> <w xml:id="apol0100-11" xml:lang="grc">ἔτευξε</w> <w xml:id="apol0100-12" xml:lang="grc">θεὸ</w><w xml:id="apol0100-13" xml:lang="grc"><supplied reason="lost">ν</supplied></w><w xml:id="apol0100-14" xml:lang="grc"><supplied reason="lost">κλυτόμ</supplied></w><w xml:id="apol0100-15" xml:lang="grc">ητιν</w><w xml:id="apol0100-16" xml:lang="grc"><supplied reason="omitted">ἀίρ</supplied></w><w xml:id="apol0100-17" xml:lang="grc">ων</w><w xml:id="apol0100-18" xml:lang="grc"><supplied reason="lost">μυς</supplied></w><w xml:id="apol0100-19" xml:lang="grc">τικὸν</w> <w xml:id="apol0100-20" xml:lang="grc">ἀχράαντον</w> <w xml:id="apol0100-21" xml:lang="grc">ἀεὶ</w> <w xml:id="apol0100-22" xml:lang="grc">νόον</w> <w xml:id="apol0100-23" xml:lang="grc">ἡνιοχεύων</w></p>
 </div>
 </body>
         <back>

@@ -125,9 +125,7 @@
             </div>
             <div type="edition" subtype="transcription" ana="b1">
                 <p>Μαρης<lb/>
-               <expan>
-                  <abbr><supplied reason="lost" cert="low">Κυ</supplied>ρίων</abbr><ex>ος</ex>
-               </expan> Ἰω<supplied reason="lost">άννου</supplied>
+               <expan><abbr><supplied reason="lost" cert="low">Κυ</supplied>ρίων</abbr><ex>ος</ex></expan> Ἰω<supplied reason="lost">άννου</supplied>
             </p>
             </div>
             <div type="translation" ana="b1">
@@ -138,9 +136,7 @@
                     one man by both his Aramaic and his Greek name instead of to two men on a single
                     ossuary.</p>
             </div>
-        <div type="edition" subtype="transcription_segmented"><p><w xml:id="jeru0318-1" xml:lang="grc">Μαρης</w><w xml:id="jeru0318-2" xml:lang="grc"><expan>
-                  <abbr><w xml:id="jeru0318-3" xml:lang="grc"><supplied reason="lost" cert="low">Κυ</supplied></w>ρίων</abbr><ex>ος</ex>
-               </expan></w><w xml:id="jeru0318-4" xml:lang="grc">Ἰω</w><w xml:id="jeru0318-5" xml:lang="grc"><supplied reason="lost">άννου</supplied></w></p>
+        <div type="edition" subtype="transcription_segmented"><p><w xml:id="jeru0318-1" xml:lang="grc">Μαρης</w><w xml:id="jeru0318-2" xml:lang="grc"><expan><abbr><w xml:id="jeru0318-3" xml:lang="grc"><supplied reason="lost" cert="low">Κυ</supplied></w>ρίων</abbr><ex>ος</ex></expan></w><w xml:id="jeru0318-4" xml:lang="grc">Ἰω</w><w xml:id="jeru0318-5" xml:lang="grc"><supplied reason="lost">άννου</supplied></w></p>
 </div>
 </body>
         <back>

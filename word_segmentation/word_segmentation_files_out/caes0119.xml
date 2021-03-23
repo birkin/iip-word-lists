@@ -133,20 +133,12 @@
          <div type="edition" ana="#b1" subtype="transcription" xml:id="caes0119.transcription" corresp="#caes0119.translation">
             <p>
                <gap reason="illegible" atLeast="22" atMost="24" unit="character"/>
-               <orig><unclear>s</unclear>gade</orig><lb/>Iulius <expan>
-                  <abbr>Magnu</abbr><ex>s</ex>
-               </expan>
+               <orig><unclear>s</unclear>gade</orig><lb/>Iulius <expan><abbr>Magnu</abbr><ex>s</ex></expan>
                <lb/>
-               <expan>
-                  <abbr><am><g type="seven-shaped-mark"/></am></abbr><ex>centurio</ex>
-               </expan>
-               <expan>
-                  <abbr>leg</abbr><ex>ionis</ex>
-               </expan>
+               <expan><abbr><am><g type="seven-shaped-mark"/></am></abbr><ex>centurio</ex></expan>
+               <expan><abbr>leg</abbr><ex>ionis</ex></expan>
                <num value="12">XII</num>
-               <expan>
-                  <abbr>Fulm</abbr><ex>inatae</ex>
-               </expan>
+               <expan><abbr>Fulm</abbr><ex>inatae</ex></expan>
             </p>
          </div>
          <div type="translation" ana="#b1" xml:id="caes0119.translation" corresp="#caes0119.transcription">
@@ -156,15 +148,7 @@
                   <persName xml:lang="la " ref="persons.xml#caes0119p02">Magnus </persName>
                </name>, a <rs type="admTitle">centurion </rs> of Legio XII Fulminata</p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="caes0119-1" xml:lang="la">Iulius</w><w xml:id="caes0119-2" xml:lang="la"><expan>
-                  <abbr>Magnu</abbr><ex>s</ex>
-               </expan></w><w xml:id="caes0119-3" xml:lang="la"><expan>
-                  <abbr><am><g type="seven-shaped-mark"/></am></abbr><ex>centurio</ex>
-               </expan></w><w xml:id="caes0119-4" xml:lang="la"><expan>
-                  <abbr>leg</abbr><ex>ionis</ex>
-               </expan></w><w xml:id="caes0119-5" xml:lang="la">XII</w><w xml:id="caes0119-6" xml:lang="la"><expan>
-                  <abbr>Fulm</abbr><ex>inatae</ex>
-               </expan></w></p>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="caes0119-1" xml:lang="la">Iulius</w><w xml:id="caes0119-2" xml:lang="la"><expan><abbr>Magnu</abbr><ex>s</ex></expan></w><w xml:id="caes0119-3" xml:lang="la"><expan><abbr><am><g type="seven-shaped-mark"/></am></abbr><ex>centurio</ex></expan></w><w xml:id="caes0119-4" xml:lang="la"><expan><abbr>leg</abbr><ex>ionis</ex></expan></w><w xml:id="caes0119-5" xml:lang="la">XII</w><w xml:id="caes0119-6" xml:lang="la"><expan><abbr>Fulm</abbr><ex>inatae</ex></expan></w></p>
 </div>
 </body>
       <back>

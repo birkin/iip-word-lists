@@ -70,6 +70,9 @@
                </physDesc>
                <!-- ********* <history> ********* -->
                <history>
+                  <summary>
+                     <rs/>
+                  </summary>
                   <origin>
                      <date period="http://n2t.net/ark:/99152/p0m63njtk9m" notBefore="0100" notAfter="0299">2nd-3rd century CE</date>
                      <placeName>

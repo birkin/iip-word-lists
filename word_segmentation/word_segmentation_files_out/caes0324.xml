@@ -123,7 +123,7 @@
                <gap reason="lost" extent="unknown" unit="character"/><lb break="no"/>
 				ρία<unclear>ς</unclear>
                <gap reason="lost" extent="unknown" unit="character"/><lb break="no"/> 
-ώρου <supplied reason="undefined">σὺν τέ</supplied><lb break="no"/>
+ώρου <supplied reason="undefined">σὺν</supplied> <supplied reason="undefined">τέ</supplied><lb break="no"/>
                κνυς <gap reason="lost" extent="unknown" unit="character"/>
             </p>
          </div>
@@ -131,7 +131,7 @@
             <p>(The tomb of) ----ria...----oros with their <rs type="family">children</rs>....
 				</p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="caes0324-1" xml:lang="grc">ρίας</w> <w xml:id="caes0324-2" xml:lang="grc">ώρου</w><w xml:id="caes0324-3" xml:lang="grc"><supplied reason="undefined">σὺν τέ</supplied></w><w xml:id="caes0324-4" xml:lang="grc">κνυς</w></p>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="caes0324-1" xml:lang="grc">ρίας</w> <w xml:id="caes0324-2" xml:lang="grc">ώρου</w><w xml:id="caes0324-3" xml:lang="grc"><supplied reason="undefined">σὺν</supplied></w><w xml:id="caes0324-4" xml:lang="grc"><supplied reason="undefined">τέ</supplied></w><w xml:id="caes0324-5" xml:lang="grc">κνυς</w></p>
 </div>
 </body>
       <back>

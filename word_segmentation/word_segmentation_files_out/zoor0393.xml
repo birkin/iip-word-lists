@@ -150,8 +150,7 @@
          <div type="edition" ana="#b1" xml:lang="grc" subtype="transcription" xml:id="zoor0361.transcription" corresp="#zoor0361.translation">
             <p>
                <g type="cross">+</g>
-               <expan>
-                  <abbr>Χ</abbr><ex>ριστὸ</ex><abbr>ς</abbr>
+               <expan><abbr>Χ</abbr><ex>ριστὸ</ex><abbr>ς</abbr>
                </expan> νικᾷ. <choice>
                   <reg>Ἐκοιμήθη</reg>
                   <orig>Ἐκυμέθη</orig>
@@ -166,9 +165,7 @@
                   <reg>μηνί</reg>
                   <orig>μενί</orig>
                </choice>
-               <expan>
-                  <abbr>Ἀπρ</abbr><ex>ιλίῳ</ex>
-               </expan>
+               <expan><abbr>Ἀπρ</abbr><ex>ιλίῳ</ex></expan>
                <choice>
                   <reg>
                      <unclear>δ</unclear>εκά<lb break="no"/>τῃ</reg>
@@ -184,11 +181,8 @@
             <p> Christ is victorious. Leonti(o)s,<lb/> (son) of Silas, fell asleep (died)<lb/>on the
                tenth (day) of the month<lb/>of April, in the (year) 403.</p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="zoor0393-1" xml:lang="grc"><expan>
-                  <abbr>Χ</abbr><ex>ριστὸ</ex><abbr>ς</abbr>
-               </expan></w><w xml:id="zoor0393-2" xml:lang="grc">νικᾷ</w> <w xml:id="zoor0393-3" xml:lang="grc">Ἐκοιμήθη</w><w xml:id="zoor0393-4" xml:lang="grc">Σίλου</w> <w xml:id="zoor0393-5" xml:lang="grc">ἐ</w><w xml:id="zoor0393-6" xml:lang="grc"><supplied reason="omitted">ν</supplied></w><w xml:id="zoor0393-7" xml:lang="grc">μηνί</w><w xml:id="zoor0393-8" xml:lang="grc"><expan>
-                  <abbr>Ἀπρ</abbr><ex>ιλίῳ</ex>
-               </expan></w><w xml:id="zoor0393-9" xml:lang="grc">τοῦ</w> <w xml:id="zoor0393-10" xml:lang="grc">υγ</w></p>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="zoor0393-1" xml:lang="grc"><expan><abbr>Χ</abbr><ex>ριστὸ</ex><abbr>ς</abbr>
+               </expan></w><w xml:id="zoor0393-2" xml:lang="grc">νικᾷ</w> <w xml:id="zoor0393-3" xml:lang="grc">Ἐκοιμήθη</w><w xml:id="zoor0393-4" xml:lang="grc">Σίλου</w> <w xml:id="zoor0393-5" xml:lang="grc">ἐ</w><w xml:id="zoor0393-6" xml:lang="grc"><supplied reason="omitted">ν</supplied></w><w xml:id="zoor0393-7" xml:lang="grc">μηνί</w><w xml:id="zoor0393-8" xml:lang="grc"><expan><abbr>Ἀπρ</abbr><ex>ιλίῳ</ex></expan></w><w xml:id="zoor0393-9" xml:lang="grc">τοῦ</w> <w xml:id="zoor0393-10" xml:lang="grc">υγ</w></p>
 </div>
 </body>
       <back>

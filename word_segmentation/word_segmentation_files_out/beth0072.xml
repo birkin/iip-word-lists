@@ -103,6 +103,7 @@
          <change when="2019-01-29" who="persons.xml#Elli_Mylonas">
                 adding period attribute to date element, with Periodo value.
             </change>
+         <change when="2021-02-28" who="Chris Zeichmann">fixed spacing issues</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
@@ -115,9 +116,8 @@
       <body>
          <div type="edition" ana="#b2" subtype="transcription" xml:id="beth0072.transcription" corresp="#beth0072.translation">
             <p>
-               <supplied reason="lost">Σ</supplied>
-               <unclear>α</unclear>λό<supplied reason="lost">μ</supplied>
-               <lb/> Ἰουλιανός </p>
+               <supplied reason="lost">Σ</supplied><unclear>α</unclear>λό<supplied reason="lost">μ</supplied>
+               <lb/>Ἰουλιανός</p>
          </div>
          <div type="translation" ana="#b2" xml:id="beth0072.translation" corresp="#beth0072.transcription">
             <p>

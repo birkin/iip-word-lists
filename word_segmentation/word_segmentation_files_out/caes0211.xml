@@ -114,25 +114,17 @@
    <text>
       <body>
          <div type="edition" ana="#b1" subtype="transcription" xml:id="caes0211.transcription" corresp="#caes0211.translation">
-            <p>+<lb/> 
-θήκη Π<unclear>ρ</unclear>
-               <gap reason="illegible" quantity="3" unit="character"/>
-               <lb/> 
-Καπίτ<unclear>ω</unclear>
-               <supplied reason="undefined">νος και</supplied>
-               <lb/>
-               <unclear>Ἀ</unclear>
-               <unclear>ν</unclear>
-               <unclear>α</unclear>
-               <unclear>σ</unclear>
-               <supplied reason="undefined">τασίας or τασίου</supplied>
+            <p>+
+               <lb/>θήκη Π<unclear>ρ</unclear><gap reason="illegible" quantity="3" unit="character"/>
+               <lb/>Καπίτ<unclear>ω</unclear><supplied reason="undefined">νος</supplied> <supplied reason="undefined">και</supplied>
+               <lb/><unclear>Ἀνασ</unclear><supplied reason="undefined">τασίας or τασίου</supplied>
             </p>
          </div>
          <div type="translation" ana="#b1" xml:id="caes0211.translation" corresp="#caes0211.transcription">
             <p>The tomb of Pr--- <persName xml:lang="grc " ref="persons.xml#caes0211p01">Kapiton </persName> and <persName xml:lang="grc " ref="persons.xml#caes0211p02">Anastasia </persName> (or <persName xml:lang="grc " ref="persons.xml#caes0211p03">Anastasios </persName>)...
 				</p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="caes0211-1" xml:lang="grc">θήκη</w> <w xml:id="caes0211-2" xml:lang="grc">Πρ</w> <w xml:id="caes0211-3" xml:lang="grc">Καπίτω</w><w xml:id="caes0211-4" xml:lang="grc"><supplied reason="undefined">νος και</supplied></w><w xml:id="caes0211-5" xml:lang="grc">Ἀ</w> <w xml:id="caes0211-6" xml:lang="grc">ν</w> <w xml:id="caes0211-7" xml:lang="grc">α</w> <w xml:id="caes0211-8" xml:lang="grc">σ</w><w xml:id="caes0211-9" xml:lang="grc"><supplied reason="undefined">τασίας or τασίου</supplied></w></p>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="caes0211-1" xml:lang="grc">θήκη</w> <w xml:id="caes0211-2" xml:lang="grc">Πρ</w> <w xml:id="caes0211-3" xml:lang="grc">Καπίτω</w><w xml:id="caes0211-4" xml:lang="grc"><supplied reason="undefined">νος</supplied></w><w xml:id="caes0211-5" xml:lang="grc"><supplied reason="undefined">και</supplied></w><w xml:id="caes0211-6" xml:lang="grc">Ἀνασ</w><w xml:id="caes0211-7" xml:lang="grc"><supplied reason="undefined">τασίας or τασίου</supplied></w></p>
 </div>
 </body>
       <back>

@@ -128,9 +128,7 @@
             <p>
                     θάρσι <lb/>
                     Ἀντω <lb break="no"/>
-                    νία <expan>
-                  <abbr>ἐτ</abbr><ex>ων</ex>
-               </expan>
+                    νία <expan><abbr>ἐτ</abbr><ex>ων</ex></expan>
                <lb/>
                     ο´ε´ 
                 </p>
@@ -138,9 +136,7 @@
          <div type="translation" ana="#b1" xml:id="elal0001.translation" corresp="#elal0001.diplomatic #elal0001.transcription">
             <p> Be of good courage, Antonia! Seventy-five years old.</p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="elal0001-1" xml:lang="grc">θάρσι</w> <w xml:id="elal0001-2" xml:lang="grc">Ἀντω</w> <w xml:id="elal0001-3" xml:lang="grc">νία</w><w xml:id="elal0001-4" xml:lang="grc"><expan>
-                  <abbr>ἐτ</abbr><ex>ων</ex>
-               </expan></w><w xml:id="elal0001-5" xml:lang="grc">οε´</w></p>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="elal0001-1" xml:lang="grc">θάρσι</w> <w xml:id="elal0001-2" xml:lang="grc">Ἀντω</w> <w xml:id="elal0001-3" xml:lang="grc">νία</w><w xml:id="elal0001-4" xml:lang="grc"><expan><abbr>ἐτ</abbr><ex>ων</ex></expan></w><w xml:id="elal0001-5" xml:lang="grc">οε´</w></p>
 </div>
 </body>
       <back>

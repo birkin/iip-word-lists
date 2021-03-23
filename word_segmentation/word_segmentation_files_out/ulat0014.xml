@@ -118,17 +118,16 @@
                <gap reason="lost" unit="character" extent="unknown"/>ΕΡΙϹΗϹ</p>
          </div>
          <div type="edition" ana="#b1" xml:lang="grc" subtype="transcription" xml:id="ulat0014.transcription" corresp="#ulat0014.diplomatic #ulat0014.translation">
-            <p>λίθ<supplied reason="undefined">ον δι</supplied>
-               <lb/>ορίζον<supplied reason="undefined">τα</supplied>
+            <p>λίθ<supplied reason="undefined">ον</supplied> 
+               <supplied reason="undefined">δι</supplied><lb break="no"/>ορίζον<supplied reason="undefined">τα</supplied>
                <lb/>ἀγροὺς <supplied reason="undefined">κωμῶν</supplied>
-               <lb/>Ωσεας <supplied reason="undefined">καὶ <lb/>
-                  </supplied><gap reason="illegible" quantity="1" unit="character"/>ερισης</p>
+               <lb/>Ωσεας <supplied reason="undefined">καὶ</supplied>
+               <lb/><gap reason="illegible" quantity="1" unit="character"/>ερισης</p>
          </div>
          <div type="translation" ana="#b1" xml:id="ulat0014.translation" corresp="#ulat0014.diplomatic #ulat0014.transcription">
             <p>(The) stone which divides the lands of the villages Ωσεα and [.]εριση.</p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="ulat0014-1" xml:lang="grc">λίθ</w><w xml:id="ulat0014-2" xml:lang="grc"><supplied reason="undefined">ον δι</supplied></w><w xml:id="ulat0014-3" xml:lang="grc">ορίζον</w><w xml:id="ulat0014-4" xml:lang="grc"><supplied reason="undefined">τα</supplied></w><w xml:id="ulat0014-5" xml:lang="grc">ἀγροὺς</w><w xml:id="ulat0014-6" xml:lang="grc"><supplied reason="undefined">κωμῶν</supplied></w><w xml:id="ulat0014-7" xml:lang="grc">Ωσεας</w><w xml:id="ulat0014-8" xml:lang="grc"><supplied reason="undefined">καὶ  
-                  </supplied></w><w xml:id="ulat0014-9" xml:lang="grc">ερισης</w></p>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="ulat0014-1" xml:lang="grc">λίθ</w><w xml:id="ulat0014-2" xml:lang="grc"><supplied reason="undefined">ον</supplied></w><w xml:id="ulat0014-3" xml:lang="grc"><supplied reason="undefined">δι</supplied></w><w xml:id="ulat0014-4" xml:lang="grc">ορίζον</w><w xml:id="ulat0014-5" xml:lang="grc"><supplied reason="undefined">τα</supplied></w><w xml:id="ulat0014-6" xml:lang="grc">ἀγροὺς</w><w xml:id="ulat0014-7" xml:lang="grc"><supplied reason="undefined">κωμῶν</supplied></w><w xml:id="ulat0014-8" xml:lang="grc">Ωσεας</w><w xml:id="ulat0014-9" xml:lang="grc"><supplied reason="undefined">καὶ</supplied></w><w xml:id="ulat0014-10" xml:lang="grc">ερισης</w></p>
 </div>
 </body>
       <back>

@@ -142,19 +142,15 @@
    <text>
       <body>
          <div type="edition" ana="#b1" subtype="transcription" xml:id="caes0044.transcription" corresp="#caes0044.translation">
-            <p>Co<supplied reason="undefined" cert="low">loniae</supplied> Primae <expan>
-                  <abbr>Fl</abbr><ex>aviae</ex>
-               </expan>
-               <expan>
-                  <abbr>Aug</abbr><ex>ustae</ex>
-               </expan>
-               <supplied reason="undefined">Caesareae ex testamento</supplied>
+            <p>Co<supplied reason="undefined" cert="low">loniae</supplied> Primae <expan><abbr>Fl</abbr><ex>aviae</ex></expan>
+               <expan><abbr>Aug</abbr><ex>ustae</ex></expan>
+               <supplied reason="undefined">Caesareae</supplied> <supplied reason="undefined">ex</supplied> <supplied reason="undefined">testamento</supplied>
                <gap quantity="3" unit="character" reason="lost"/>
                <lb/>
                <space extent="unknown" unit="character"/>
                <gap quantity="1" unit="character" reason="lost"/><supplied reason="undefined" cert="low">Cleo</supplied>patra mater eius
                            <expan><abbr><orig>h<unclear>er</unclear></orig></abbr><ex cert="low">es</ex></expan>
-               <supplied reason="lost" cert="low">facere iussit</supplied>
+               <supplied reason="lost" cert="low">facere</supplied> <supplied reason="lost" cert="low">iussit</supplied>
             </p>
          </div>
          <div type="translation" ana="#b1" xml:id="caes0044.translation" corresp="#caes0044.transcription">
@@ -162,11 +158,7 @@
                   <persName xml:lang="egy " ref="persons.xml#caes0044p01">Cleopatra </persName>
                </name>, <rs type="family">mother </rs> and heir of ... (by testament, made this) ?for <placeName>Caesarea</placeName>, the Colony <placeName>Prima Flavia Augusta</placeName>.</p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="caes0044-1" xml:lang="la">Co</w><w xml:id="caes0044-2" xml:lang="la"><supplied reason="undefined" cert="low">loniae</supplied></w><w xml:id="caes0044-3" xml:lang="la">Primae</w><w xml:id="caes0044-4" xml:lang="la"><expan>
-                  <abbr>Fl</abbr><ex>aviae</ex>
-               </expan></w><w xml:id="caes0044-5" xml:lang="la"><expan>
-                  <abbr>Aug</abbr><ex>ustae</ex>
-               </expan></w><w xml:id="caes0044-6" xml:lang="la"><supplied reason="undefined">Caesareae ex testamento</supplied></w><w xml:id="caes0044-7" xml:lang="la"><supplied reason="undefined" cert="low">Cleo</supplied></w><w xml:id="caes0044-8" xml:lang="la">patra</w> <w xml:id="caes0044-9" xml:lang="la">mater</w> <w xml:id="caes0044-10" xml:lang="la">eius</w><w xml:id="caes0044-11" xml:lang="la"><expan><abbr/><ex cert="low">es</ex></expan></w><w xml:id="caes0044-12" xml:lang="la"><supplied reason="lost" cert="low">facere iussit</supplied></w></p>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="caes0044-1" xml:lang="la">Co</w><w xml:id="caes0044-2" xml:lang="la"><supplied reason="undefined" cert="low">loniae</supplied></w><w xml:id="caes0044-3" xml:lang="la">Primae</w><w xml:id="caes0044-4" xml:lang="la"><expan><abbr>Fl</abbr><ex>aviae</ex></expan></w><w xml:id="caes0044-5" xml:lang="la"><expan><abbr>Aug</abbr><ex>ustae</ex></expan></w><w xml:id="caes0044-6" xml:lang="la"><supplied reason="undefined">Caesareae</supplied></w><w xml:id="caes0044-7" xml:lang="la"><supplied reason="undefined">ex</supplied></w><w xml:id="caes0044-8" xml:lang="la"><supplied reason="undefined">testamento</supplied></w><w xml:id="caes0044-9" xml:lang="la"><supplied reason="undefined" cert="low">Cleo</supplied></w><w xml:id="caes0044-10" xml:lang="la">patra</w> <w xml:id="caes0044-11" xml:lang="la">mater</w> <w xml:id="caes0044-12" xml:lang="la">eius</w><w xml:id="caes0044-13" xml:lang="la"><expan><abbr/><ex cert="low">es</ex></expan></w><w xml:id="caes0044-14" xml:lang="la"><supplied reason="lost" cert="low">facere</supplied></w><w xml:id="caes0044-15" xml:lang="la"><supplied reason="lost" cert="low">iussit</supplied></w></p>
 </div>
 </body>
       <back>

@@ -116,16 +116,12 @@
    <text>
       <body>
          <div type="edition" ana="#b1" xml:lang="grc" subtype="transcription" xml:id="zoor0062.transcription" corresp="#zoor0062.translation">
-            <p>Τοῦτο <choice><sic>μνημῖ<lb/>ον</sic><corr>μνημεῖον</corr></choice> Οὐλπιαν<lb/>ὸς <expan>
-                  <abbr>ἐπ</abbr><ex>οίησεν</ex>
-               </expan>, πεσʹ.</p>
+            <p>Τοῦτο <choice><sic>μνημῖ<lb/>ον</sic><corr>μνημεῖον</corr></choice> Οὐλπιαν<lb/>ὸς <expan><abbr>ἐπ</abbr><ex>οίησεν</ex></expan>, πεσʹ.</p>
          </div>
          <div type="translation" ana="#b1" xml:id="zoor0062.translation" corresp="#zoor0062.transcription">
             <p>This monument was built by Ulpianus (in the year) 285(?).</p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="zoor0062-1" xml:lang="grc">Τοῦτο</w> <w xml:id="zoor0062-2" xml:lang="grc">μνημεῖον</w> <w xml:id="zoor0062-3" xml:lang="grc">Οὐλπιαν</w> <w xml:id="zoor0062-4" xml:lang="grc">ὸς</w><w xml:id="zoor0062-5" xml:lang="grc"><expan>
-                  <abbr>ἐπ</abbr><ex>οίησεν</ex>
-               </expan></w><w xml:id="zoor0062-6" xml:lang="grc">πεσ</w></p>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="zoor0062-1" xml:lang="grc">Τοῦτο</w> <w xml:id="zoor0062-2" xml:lang="grc">μνημεῖον</w> <w xml:id="zoor0062-3" xml:lang="grc">Οὐλπιαν</w> <w xml:id="zoor0062-4" xml:lang="grc">ὸς</w><w xml:id="zoor0062-5" xml:lang="grc"><expan><abbr>ἐπ</abbr><ex>οίησεν</ex></expan></w><w xml:id="zoor0062-6" xml:lang="grc">πεσ</w></p>
 </div>
 </body>
       <back>

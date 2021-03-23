@@ -150,39 +150,19 @@
                 <p/>
             </div>
             <div type="edition" subtype="transcription" ana="b1">
-                <p>Ἐπὶ <expan>
-                  <abbr>Φλ</abbr><ex>αουίου</ex>
-               </expan> Ὀρέστου
-                            <expan>
-                  <abbr>μεγαλοπρ</abbr><ex>επεστάτου</ex>
-               </expan>
+                <p>Ἐπὶ <expan><abbr>Φλ</abbr><ex>αουίου</ex></expan> Ὀρέστου
+                            <expan><abbr>μεγαλοπρ</abbr><ex>επεστάτου</ex></expan>
                <lb/>
-               <expan>
-                  <abbr>κόμ</abbr><ex>ητος</ex>
-               </expan>
-                    καὶ <expan>
-                  <abbr>ἄρχ</abbr><ex>οντος</ex>
-               </expan> τὸ περιβοητὸν ἔργον<lb/>τῆς
-                    πλακώσεως μετὰ <expan>
-                  <abbr>κ</abbr><ex>αὶ</ex>
-               </expan> τοῦ νέου<lb/>ὑδρίου
+               <expan><abbr>κόμ</abbr><ex>ητος</ex></expan>
+                    καὶ <expan><abbr>ἄρχ</abbr><ex>οντος</ex></expan> τὸ περιβοητὸν ἔργον<lb/>τῆς
+                    πλακώσεως μετὰ <expan><abbr>κ</abbr><ex>αὶ</ex></expan> τοῦ νέου<lb/>ὑδρίου
                     ἐγένετο προνοησαμένου<lb/>Ϲιλβίνου Μαρίνου
-                            <expan>
-                  <abbr>λ</abbr><ex>αμπροτάτου</ex>
-               </expan>
-                    <expan>
-                  <abbr>κόμ</abbr><ex>ητος</ex>
-               </expan>
+                            <expan><abbr>λ</abbr><ex>αμπροτάτου</ex></expan>
+                    <expan><abbr>κόμ</abbr><ex>ητος</ex></expan>
                <lb/>
-                    <expan>
-                  <abbr>κ</abbr><ex>αὶ</ex>
-               </expan>
-                    <expan>
-                  <abbr>πρώτ</abbr><ex>ου</ex>
-               </expan> ἐν
-                            <expan>
-                  <abbr>ἰνδ</abbr><ex>ικτιῶνι</ex>
-               </expan>
+                    <expan><abbr>κ</abbr><ex>αὶ</ex></expan>
+                    <expan><abbr>πρώτ</abbr><ex>ου</ex></expan> ἐν
+                            <expan><abbr>ἰνδ</abbr><ex>ικτιῶνι</ex></expan>
                     <num value="15">ιε</num>
                <lb/>ἔτους <num value="585">επφ</num>
             </p>
@@ -196,27 +176,7 @@
             <div type="commentary" ana="b1">
                 <p/>
             </div>
-        <div type="edition" subtype="transcription_segmented"><p><w xml:id="bshe0148-1" xml:lang="grc">Ἐπὶ</w><w xml:id="bshe0148-2" xml:lang="grc"><expan>
-                  <abbr>Φλ</abbr><ex>αουίου</ex>
-               </expan></w><w xml:id="bshe0148-3" xml:lang="grc">Ὀρέστου</w><w xml:id="bshe0148-4" xml:lang="grc"><expan>
-                  <abbr>μεγαλοπρ</abbr><ex>επεστάτου</ex>
-               </expan></w><w xml:id="bshe0148-5" xml:lang="grc"><expan>
-                  <abbr>κόμ</abbr><ex>ητος</ex>
-               </expan></w><w xml:id="bshe0148-6" xml:lang="grc">καὶ</w><w xml:id="bshe0148-7" xml:lang="grc"><expan>
-                  <abbr>ἄρχ</abbr><ex>οντος</ex>
-               </expan></w><w xml:id="bshe0148-8" xml:lang="grc">τὸ</w> <w xml:id="bshe0148-9" xml:lang="grc">περιβοητὸν</w> <w xml:id="bshe0148-10" xml:lang="grc">ἔργον</w> <w xml:id="bshe0148-11" xml:lang="grc">τῆς</w> <w xml:id="bshe0148-12" xml:lang="grc">πλακώσεως</w> <w xml:id="bshe0148-13" xml:lang="grc">μετὰ</w><w xml:id="bshe0148-14" xml:lang="grc"><expan>
-                  <abbr>κ</abbr><ex>αὶ</ex>
-               </expan></w><w xml:id="bshe0148-15" xml:lang="grc">τοῦ</w> <w xml:id="bshe0148-16" xml:lang="grc">νέου</w> <w xml:id="bshe0148-17" xml:lang="grc">ὑδρίου</w> <w xml:id="bshe0148-18" xml:lang="grc">ἐγένετο</w> <w xml:id="bshe0148-19" xml:lang="grc">προνοησαμένου</w> <w xml:id="bshe0148-20" xml:lang="grc">Ϲιλβίνου</w> <w xml:id="bshe0148-21" xml:lang="grc">Μαρίνου</w><w xml:id="bshe0148-22" xml:lang="grc"><expan>
-                  <abbr>λ</abbr><ex>αμπροτάτου</ex>
-               </expan></w><w xml:id="bshe0148-23" xml:lang="grc"><expan>
-                  <abbr>κόμ</abbr><ex>ητος</ex>
-               </expan></w><w xml:id="bshe0148-24" xml:lang="grc"><expan>
-                  <abbr>κ</abbr><ex>αὶ</ex>
-               </expan></w><w xml:id="bshe0148-25" xml:lang="grc"><expan>
-                  <abbr>πρώτ</abbr><ex>ου</ex>
-               </expan></w><w xml:id="bshe0148-26" xml:lang="grc">ἐν</w><w xml:id="bshe0148-27" xml:lang="grc"><expan>
-                  <abbr>ἰνδ</abbr><ex>ικτιῶνι</ex>
-               </expan></w><w xml:id="bshe0148-28" xml:lang="grc">ιε</w> <w xml:id="bshe0148-29" xml:lang="grc">ἔτους</w> <w xml:id="bshe0148-30" xml:lang="grc">επφ</w></p>
+        <div type="edition" subtype="transcription_segmented"><p><w xml:id="bshe0148-1" xml:lang="grc">Ἐπὶ</w><w xml:id="bshe0148-2" xml:lang="grc"><expan><abbr>Φλ</abbr><ex>αουίου</ex></expan></w><w xml:id="bshe0148-3" xml:lang="grc">Ὀρέστου</w><w xml:id="bshe0148-4" xml:lang="grc"><expan><abbr>μεγαλοπρ</abbr><ex>επεστάτου</ex></expan></w><w xml:id="bshe0148-5" xml:lang="grc"><expan><abbr>κόμ</abbr><ex>ητος</ex></expan></w><w xml:id="bshe0148-6" xml:lang="grc">καὶ</w><w xml:id="bshe0148-7" xml:lang="grc"><expan><abbr>ἄρχ</abbr><ex>οντος</ex></expan></w><w xml:id="bshe0148-8" xml:lang="grc">τὸ</w> <w xml:id="bshe0148-9" xml:lang="grc">περιβοητὸν</w> <w xml:id="bshe0148-10" xml:lang="grc">ἔργον</w> <w xml:id="bshe0148-11" xml:lang="grc">τῆς</w> <w xml:id="bshe0148-12" xml:lang="grc">πλακώσεως</w> <w xml:id="bshe0148-13" xml:lang="grc">μετὰ</w><w xml:id="bshe0148-14" xml:lang="grc"><expan><abbr>κ</abbr><ex>αὶ</ex></expan></w><w xml:id="bshe0148-15" xml:lang="grc">τοῦ</w> <w xml:id="bshe0148-16" xml:lang="grc">νέου</w> <w xml:id="bshe0148-17" xml:lang="grc">ὑδρίου</w> <w xml:id="bshe0148-18" xml:lang="grc">ἐγένετο</w> <w xml:id="bshe0148-19" xml:lang="grc">προνοησαμένου</w> <w xml:id="bshe0148-20" xml:lang="grc">Ϲιλβίνου</w> <w xml:id="bshe0148-21" xml:lang="grc">Μαρίνου</w><w xml:id="bshe0148-22" xml:lang="grc"><expan><abbr>λ</abbr><ex>αμπροτάτου</ex></expan></w><w xml:id="bshe0148-23" xml:lang="grc"><expan><abbr>κόμ</abbr><ex>ητος</ex></expan></w><w xml:id="bshe0148-24" xml:lang="grc"><expan><abbr>κ</abbr><ex>αὶ</ex></expan></w><w xml:id="bshe0148-25" xml:lang="grc"><expan><abbr>πρώτ</abbr><ex>ου</ex></expan></w><w xml:id="bshe0148-26" xml:lang="grc">ἐν</w><w xml:id="bshe0148-27" xml:lang="grc"><expan><abbr>ἰνδ</abbr><ex>ικτιῶνι</ex></expan></w><w xml:id="bshe0148-28" xml:lang="grc">ιε</w> <w xml:id="bshe0148-29" xml:lang="grc">ἔτους</w> <w xml:id="bshe0148-30" xml:lang="grc">επφ</w></p>
 </div>
 </body>
         <back>

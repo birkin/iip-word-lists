@@ -129,9 +129,7 @@
                <choice><sic>μενὸς</sic><corr>μηνός</corr></choice>
                <lb/>
                <choice><sic>
-                     <expan>
-                        <abbr>Αὐδον</abbr><ex>αίου</ex>
-                     </expan>
+                     <expan><abbr>Αὐδον</abbr><ex>αίου</ex></expan>
                   </sic><corr>Αὐδυναίου</corr></choice> εʹ,
                         <unclear>Δύσ</unclear>
                <lb/>τρου κʹ.<lb/> + + + </p>
@@ -140,9 +138,7 @@
             <p>(Monument of) Thonone, (who died) on the 5th (day) of the month Audynaios, on
                     (the) 20th (day) of Dystros.</p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="zoor0300-1" xml:lang="grc">Θωνόνη</w> <w xml:id="zoor0300-2" xml:lang="grc">μηνός</w><w xml:id="zoor0300-3" xml:lang="grc"><expan>
-                        <abbr>Αὐδον</abbr><ex>αίου</ex>
-                     </expan></w><w xml:id="zoor0300-4" xml:lang="grc">Αὐδυναίου</w> <w xml:id="zoor0300-5" xml:lang="grc">ε</w> <w xml:id="zoor0300-6" xml:lang="grc">Δύσ</w> <w xml:id="zoor0300-7" xml:lang="grc">τρου</w> <w xml:id="zoor0300-8" xml:lang="grc">κ</w></p>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="zoor0300-1" xml:lang="grc">Θωνόνη</w> <w xml:id="zoor0300-2" xml:lang="grc">μηνός</w><w xml:id="zoor0300-3" xml:lang="grc"><expan><abbr>Αὐδον</abbr><ex>αίου</ex></expan></w><w xml:id="zoor0300-4" xml:lang="grc">Αὐδυναίου</w> <w xml:id="zoor0300-5" xml:lang="grc">ε</w> <w xml:id="zoor0300-6" xml:lang="grc">Δύσ</w> <w xml:id="zoor0300-7" xml:lang="grc">τρου</w> <w xml:id="zoor0300-8" xml:lang="grc">κ</w></p>
 </div>
 </body>
       <back>

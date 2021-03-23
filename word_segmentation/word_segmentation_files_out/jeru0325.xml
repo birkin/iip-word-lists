@@ -124,9 +124,7 @@
             </div>
             <div type="edition" subtype="transcription" ana="b1">
                 <p>
-               <expan>
-                  <abbr><am>L</am></abbr><ex>ἔτους</ex>
-               </expan>
+               <expan><abbr><am>L</am></abbr><ex>ἔτους</ex></expan>
                     <num value="5">ε</num>
             </p>
             </div>
@@ -137,9 +135,7 @@
                 <p>The fact that this stone weight was found with several similar others suggests it
                     dates to the fifth year of Agrippa I's reign.</p>
             </div>
-        <div type="edition" subtype="transcription_segmented"><p><w xml:id="jeru0325-1" xml:lang="grc"><expan>
-                  <abbr><am>L</am></abbr><ex>ἔτους</ex>
-               </expan></w><w xml:id="jeru0325-2" xml:lang="grc">ε</w></p>
+        <div type="edition" subtype="transcription_segmented"><p><w xml:id="jeru0325-1" xml:lang="grc"><expan><abbr><am>L</am></abbr><ex>ἔτους</ex></expan></w><w xml:id="jeru0325-2" xml:lang="grc">ε</w></p>
 </div>
 </body>
         <back>

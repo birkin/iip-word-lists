@@ -119,9 +119,7 @@
          <div type="edition" ana="#b1" subtype="transcription" xml:id="tala0004.transcription" corresp="#tala0004.diplomatic #tala0004.translation">
             <p>θάρσι <lb/> Ο<unclear>ἰν</unclear>εμ<lb break="no"/>ήσεο<unclear>ς</unclear>
                <lb/> Ἑρίνου <lb/>
-               <expan>
-                  <abbr>ἐτ</abbr><ex>ῶν</ex>
-               </expan>
+               <expan><abbr>ἐτ</abbr><ex>ῶν</ex></expan>
                <lb/>
                <num value="57">νζ </num>
             </p>
@@ -130,9 +128,7 @@
             <p>Be of good courage, Oinemeseos(?), son of Herinos! Fifty-seven years old.
 				</p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="tala0004-1" xml:lang="grc">θάρσι</w> <w xml:id="tala0004-2" xml:lang="grc">Οἰνεμήσεος</w> <w xml:id="tala0004-3" xml:lang="grc">Ἑρίνου</w><w xml:id="tala0004-4" xml:lang="grc"><expan>
-                  <abbr>ἐτ</abbr><ex>ῶν</ex>
-               </expan></w><w xml:id="tala0004-5" xml:lang="grc">νζ</w></p>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="tala0004-1" xml:lang="grc">θάρσι</w> <w xml:id="tala0004-2" xml:lang="grc">Οἰνεμήσεος</w> <w xml:id="tala0004-3" xml:lang="grc">Ἑρίνου</w><w xml:id="tala0004-4" xml:lang="grc"><expan><abbr>ἐτ</abbr><ex>ῶν</ex></expan></w><w xml:id="tala0004-5" xml:lang="grc">νζ</w></p>
 </div>
 </body>
       <back>

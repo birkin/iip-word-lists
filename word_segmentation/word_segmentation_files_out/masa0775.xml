@@ -179,9 +179,7 @@
                <lb/>δ<unclear>ὸ</unclear><supplied reason="lost">ς</supplied><lb/>Τα<unclear>μ</unclear>
                     <gap reason="lost" extent="unknown" unit="character"/>
                <lb/>
-               <expan>
-                  <abbr>κρι</abbr><ex>θήν</ex>
-               </expan>
+               <expan><abbr>κρι</abbr><ex>θήν</ex></expan>
             </p>
             </div>
             <div type="translation" ana="b1">
@@ -193,9 +191,7 @@
             </div>
             <!-- The bibl has more contained elements. What is the possible list of values of the biblScope/@type? 
              -->
-        <div type="edition" subtype="transcription_segmented"><p><w xml:id="masa0775-1" xml:lang="grc">δὸ</w><w xml:id="masa0775-2" xml:lang="grc"><supplied reason="lost">ς</supplied></w><w xml:id="masa0775-3" xml:lang="grc">Ταμ</w><w xml:id="masa0775-4" xml:lang="grc"><expan>
-                  <abbr>κρι</abbr><ex>θήν</ex>
-               </expan></w></p>
+        <div type="edition" subtype="transcription_segmented"><p><w xml:id="masa0775-1" xml:lang="grc">δὸ</w><w xml:id="masa0775-2" xml:lang="grc"><supplied reason="lost">ς</supplied></w><w xml:id="masa0775-3" xml:lang="grc">Ταμ</w><w xml:id="masa0775-4" xml:lang="grc"><expan><abbr>κρι</abbr><ex>θήν</ex></expan></w></p>
 </div>
 </body>
         <back>

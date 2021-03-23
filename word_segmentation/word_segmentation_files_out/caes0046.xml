@@ -104,6 +104,7 @@
          <change when="2019-01-29" who="persons.xml#Elli_Mylonas">
                 adding period attribute to date element, with Periodo value.
             </change>
+         <change when="2021-03-14" who="Chris Zeichmann">corrected legion number</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
@@ -121,20 +122,17 @@
                </del>
                <lb/>
                <del rend="erasure">
-                  <unclear>l</unclear>e<supplied reason="lost">gionis XXI</supplied>I</del>
+
+                  <unclear>l</unclear>e<supplied reason="lost">gionis</supplied> <num value="22"><supplied reason="lost">XXI</supplied>I</num></del>
                <lb/>
                <del rend="erasure">
-                  <unclear>D</unclear>
-                  <supplied reason="lost">eio</supplied>
-                  <unclear>t</unclear>
-                  <supplied reason="lost">arian</supplied>
-               </del>a. 
+                  <unclear>D</unclear><supplied reason="lost">eio</supplied><unclear>t</unclear><supplied reason="lost">arian</supplied></del>a. 
 		  </p>
          </div>
          <div type="translation" ana="#b1" xml:id="caes0046.translation" corresp="#caes0046.transcription">
-            <p>A detachment of the twenty-first legion Deiotariana.</p>
+            <p>A detachment of the twenty-second legion Deiotariana.</p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="caes0046-1" xml:lang="la"><supplied reason="lost">Vexillatio</supplied></w><w xml:id="caes0046-2" xml:lang="la">le</w><w xml:id="caes0046-3" xml:lang="la"><supplied reason="lost">gionis XXI</supplied></w><w xml:id="caes0046-4" xml:lang="la">I</w> <w xml:id="caes0046-5" xml:lang="la">D</w><w xml:id="caes0046-6" xml:lang="la"><supplied reason="lost">eio</supplied></w><w xml:id="caes0046-7" xml:lang="la">t</w><w xml:id="caes0046-8" xml:lang="la"><supplied reason="lost">arian</supplied></w><w xml:id="caes0046-9" xml:lang="la">a</w></p>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="caes0046-1" xml:lang="la"><supplied reason="lost">Vexillatio</supplied></w><w xml:id="caes0046-2" xml:lang="la">le</w><w xml:id="caes0046-3" xml:lang="la"><supplied reason="lost">gionis</supplied></w><w xml:id="caes0046-4" xml:lang="la"><supplied reason="lost">XXI</supplied></w><w xml:id="caes0046-5" xml:lang="la">I</w> <w xml:id="caes0046-6" xml:lang="la">D</w><w xml:id="caes0046-7" xml:lang="la"><supplied reason="lost">eio</supplied></w><w xml:id="caes0046-8" xml:lang="la">t</w><w xml:id="caes0046-9" xml:lang="la"><supplied reason="lost">arian</supplied></w><w xml:id="caes0046-10" xml:lang="la">a</w></p>
 </div>
 </body>
       <back>

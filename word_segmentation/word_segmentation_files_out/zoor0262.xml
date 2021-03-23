@@ -124,46 +124,27 @@
             <p>
                <g type="cross">+</g>
                <lb/>
-               <g type="cross">+</g> Εἶς <expan>
-                  <abbr>θ</abbr><ex>εό</ex><abbr>ς</abbr>
+               <g type="cross">+</g> Εἶς <expan><abbr>θ</abbr><ex>εό</ex><abbr>ς</abbr>
                </expan>, ὁ
-                     <expan>
-                  <abbr>πάντ</abbr><ex>ων</ex>
-               </expan>
-               <expan>
-                  <abbr>Δεσ<lb break="no"/>π<am>ϛ</am></abbr><ex>ότης</ex>
-               </expan>. Ἐνθάδε <choice>
+                     <expan><abbr>πάντ</abbr><ex>ων</ex></expan>
+               <expan><abbr>Δεσ<lb break="no"/>π<am>ϛ</am></abbr><ex>ότης</ex></expan>. Ἐνθάδε <choice>
                   <orig>κῖτε</orig>
                   <reg>κεῖται</reg>
                </choice>
-               <lb/> ἡ <expan>
-                  <abbr>μακαρ</abbr><ex>ία</ex>
-               </expan> Ἀριάνθης<lb/>
+               <lb/> ἡ <expan><abbr>μακαρ</abbr><ex>ία</ex></expan> Ἀριάνθης<lb/>
                   Θ<unclear>εοδώρου</unclear>, <unclear>ζήσασα</unclear> ἔτη<lb/> καʹ,
                   <unclear>τελευτήσασα</unclear> μετὰ<lb/> καλοῦ ὀνόματος
-                     <expan>
-                  <abbr>κ</abbr><ex>αὶ</ex>
-               </expan> κα<lb break="no"/>λῆς ὁμολογίας
-                     <expan>
-                  <abbr>ἡ</abbr><ex>μέ</ex><abbr>ρ</abbr><ex>ᾳ</ex>
-               </expan>
-               <expan>
-                  <abbr>Κυ</abbr><ex>ρίου</ex>
-               </expan>
+                     <expan><abbr>κ</abbr><ex>αὶ</ex></expan> κα<lb break="no"/>λῆς ὁμολογίας
+                     <expan><abbr>ἡ</abbr><ex>μέ</ex><abbr>ρ</abbr><ex>ᾳ</ex></expan>
+               <expan><abbr>Κυ</abbr><ex>ρίου</ex></expan>
                <unclear>α</unclear>ʹ<lb/>
-               <expan>
-                  <abbr>μη</abbr><ex>νὸς</ex>
-               </expan>
+               <expan><abbr>μη</abbr><ex>νὸς</ex></expan>
                <choice>
                   <orig>Ξαθικου</orig>
                   <reg>Ξανθικοῦ</reg>
                </choice>
-               <unclear>κθ</unclear>ʹ, <expan>
-                  <abbr>ἰνδ</abbr><ex>ικτιῶνος</ex>
-               </expan> ιʹ,<lb/> τοῦ
-                     <expan>
-                  <abbr>ἔτ</abbr><ex>ους</ex>
-               </expan> υ<unclear>ο</unclear>αʹ. <choice>
+               <unclear>κθ</unclear>ʹ, <expan><abbr>ἰνδ</abbr><ex>ικτιῶνος</ex></expan> ιʹ,<lb/> τοῦ
+                     <expan><abbr>ἔτ</abbr><ex>ους</ex></expan> υ<unclear>ο</unclear>αʹ. <choice>
                   <orig>Θάρσι</orig>
                   <reg>Θάρσει</reg>
                </choice>, <choice>
@@ -178,27 +159,8 @@
                     1st day of (the) Lord (Sunday), on the 29th (day) of the month Xanthikos, in the
                     10th indiction, in the year 471. Be of good cheer, no one (is) immortal.</p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="zoor0262-1" xml:lang="grc">Εἶς</w><w xml:id="zoor0262-2" xml:lang="grc"><expan>
-                  <abbr>θ</abbr><ex>εό</ex><abbr>ς</abbr>
-               </expan></w><w xml:id="zoor0262-3" xml:lang="grc">ὁ</w><w xml:id="zoor0262-4" xml:lang="grc"><expan>
-                  <abbr>πάντ</abbr><ex>ων</ex>
-               </expan></w><w xml:id="zoor0262-5" xml:lang="grc"><expan>
-                  <abbr>Δεσπ<am>ϛ</am></abbr><ex>ότης</ex>
-               </expan></w><w xml:id="zoor0262-6" xml:lang="grc">Ἐνθάδε</w> <w xml:id="zoor0262-7" xml:lang="grc">κεῖται</w> <w xml:id="zoor0262-8" xml:lang="grc">ἡ</w><w xml:id="zoor0262-9" xml:lang="grc"><expan>
-                  <abbr>μακαρ</abbr><ex>ία</ex>
-               </expan></w><w xml:id="zoor0262-10" xml:lang="grc">Ἀριάνθης</w> <w xml:id="zoor0262-11" xml:lang="grc">Θεοδώρου</w> <w xml:id="zoor0262-12" xml:lang="grc">ζήσασα</w> <w xml:id="zoor0262-13" xml:lang="grc">ἔτη</w> <w xml:id="zoor0262-14" xml:lang="grc">κα</w> <w xml:id="zoor0262-15" xml:lang="grc">τελευτήσασα</w> <w xml:id="zoor0262-16" xml:lang="grc">μετὰ</w> <w xml:id="zoor0262-17" xml:lang="grc">καλοῦ</w> <w xml:id="zoor0262-18" xml:lang="grc">ὀνόματος</w><w xml:id="zoor0262-19" xml:lang="grc"><expan>
-                  <abbr>κ</abbr><ex>αὶ</ex>
-               </expan></w><w xml:id="zoor0262-20" xml:lang="grc">καλῆς</w> <w xml:id="zoor0262-21" xml:lang="grc">ὁμολογίας</w><w xml:id="zoor0262-22" xml:lang="grc"><expan>
-                  <abbr>ἡ</abbr><ex>μέ</ex><abbr>ρ</abbr><ex>ᾳ</ex>
-               </expan></w><w xml:id="zoor0262-23" xml:lang="grc"><expan>
-                  <abbr>Κυ</abbr><ex>ρίου</ex>
-               </expan></w><w xml:id="zoor0262-24" xml:lang="grc">α</w><w xml:id="zoor0262-25" xml:lang="grc"><expan>
-                  <abbr>μη</abbr><ex>νὸς</ex>
-               </expan></w><w xml:id="zoor0262-26" xml:lang="grc">Ξανθικοῦ</w> <w xml:id="zoor0262-27" xml:lang="grc">κθ</w><w xml:id="zoor0262-28" xml:lang="grc"><expan>
-                  <abbr>ἰνδ</abbr><ex>ικτιῶνος</ex>
-               </expan></w><w xml:id="zoor0262-29" xml:lang="grc">ι</w> <w xml:id="zoor0262-30" xml:lang="grc">τοῦ</w><w xml:id="zoor0262-31" xml:lang="grc"><expan>
-                  <abbr>ἔτ</abbr><ex>ους</ex>
-               </expan></w><w xml:id="zoor0262-32" xml:lang="grc">υοα</w> <w xml:id="zoor0262-33" xml:lang="grc">Θάρσει</w> <w xml:id="zoor0262-34" xml:lang="grc">οὐδείς</w> <w xml:id="zoor0262-35" xml:lang="grc">ἀθάνα</w> <w xml:id="zoor0262-36" xml:lang="grc">τος</w></p>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="zoor0262-1" xml:lang="grc">Εἶς</w><w xml:id="zoor0262-2" xml:lang="grc"><expan><abbr>θ</abbr><ex>εό</ex><abbr>ς</abbr>
+               </expan></w><w xml:id="zoor0262-3" xml:lang="grc">ὁ</w><w xml:id="zoor0262-4" xml:lang="grc"><expan><abbr>πάντ</abbr><ex>ων</ex></expan></w><w xml:id="zoor0262-5" xml:lang="grc"><expan><abbr>Δεσπ<am>ϛ</am></abbr><ex>ότης</ex></expan></w><w xml:id="zoor0262-6" xml:lang="grc">Ἐνθάδε</w> <w xml:id="zoor0262-7" xml:lang="grc">κεῖται</w> <w xml:id="zoor0262-8" xml:lang="grc">ἡ</w><w xml:id="zoor0262-9" xml:lang="grc"><expan><abbr>μακαρ</abbr><ex>ία</ex></expan></w><w xml:id="zoor0262-10" xml:lang="grc">Ἀριάνθης</w> <w xml:id="zoor0262-11" xml:lang="grc">Θεοδώρου</w> <w xml:id="zoor0262-12" xml:lang="grc">ζήσασα</w> <w xml:id="zoor0262-13" xml:lang="grc">ἔτη</w> <w xml:id="zoor0262-14" xml:lang="grc">κα</w> <w xml:id="zoor0262-15" xml:lang="grc">τελευτήσασα</w> <w xml:id="zoor0262-16" xml:lang="grc">μετὰ</w> <w xml:id="zoor0262-17" xml:lang="grc">καλοῦ</w> <w xml:id="zoor0262-18" xml:lang="grc">ὀνόματος</w><w xml:id="zoor0262-19" xml:lang="grc"><expan><abbr>κ</abbr><ex>αὶ</ex></expan></w><w xml:id="zoor0262-20" xml:lang="grc">καλῆς</w> <w xml:id="zoor0262-21" xml:lang="grc">ὁμολογίας</w><w xml:id="zoor0262-22" xml:lang="grc"><expan><abbr>ἡ</abbr><ex>μέ</ex><abbr>ρ</abbr><ex>ᾳ</ex></expan></w><w xml:id="zoor0262-23" xml:lang="grc"><expan><abbr>Κυ</abbr><ex>ρίου</ex></expan></w><w xml:id="zoor0262-24" xml:lang="grc">α</w><w xml:id="zoor0262-25" xml:lang="grc"><expan><abbr>μη</abbr><ex>νὸς</ex></expan></w><w xml:id="zoor0262-26" xml:lang="grc">Ξανθικοῦ</w> <w xml:id="zoor0262-27" xml:lang="grc">κθ</w><w xml:id="zoor0262-28" xml:lang="grc"><expan><abbr>ἰνδ</abbr><ex>ικτιῶνος</ex></expan></w><w xml:id="zoor0262-29" xml:lang="grc">ι</w> <w xml:id="zoor0262-30" xml:lang="grc">τοῦ</w><w xml:id="zoor0262-31" xml:lang="grc"><expan><abbr>ἔτ</abbr><ex>ους</ex></expan></w><w xml:id="zoor0262-32" xml:lang="grc">υοα</w> <w xml:id="zoor0262-33" xml:lang="grc">Θάρσει</w> <w xml:id="zoor0262-34" xml:lang="grc">οὐδείς</w> <w xml:id="zoor0262-35" xml:lang="grc">ἀθάνα</w> <w xml:id="zoor0262-36" xml:lang="grc">τος</w></p>
 </div>
 </body>
       <back>

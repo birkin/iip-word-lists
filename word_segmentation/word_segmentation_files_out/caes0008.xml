@@ -129,61 +129,32 @@
       <body>
          <div type="edition" ana="#b1" subtype="transcription" xml:id="caes0008.transcription">
             <p>A<gap reason="illegible" quantity="2" unit="character"/>
-               <del rend="erasure">
-                  <gap reason="illegible" atLeast="14" atMost="16" unit="character"/>
-                  <supplied reason="lost">
-                     <expan>
-                        <abbr>c</abbr><ex>larissimo</ex>
-                     </expan>
-                     <expan>
-                        <abbr>v</abbr><ex>iro</ex>
-                     </expan>
+               <del rend="erasure"><gap reason="illegible" atLeast="14" atMost="16" unit="character"/>
+                  <supplied reason="lost"><expan><abbr>c</abbr><ex>larissimo</ex></expan> </supplied>
+                  <supplied reason="lost"><expan><abbr>v</abbr><ex>iro</ex></expan>
                   </supplied>
                </del>
                <lb/>
-               <expan>
-                  <abbr>leg</abbr><ex>ato</ex>
-               </expan>
-               <expan>
-                  <abbr>A<del rend="erasure"><supplied reason="lost">ug</supplied></del></abbr><ex>usti</ex>
-               </expan>
+               <expan><abbr>leg</abbr><ex>ato</ex></expan>
+               <expan><abbr>A<del rend="erasure"><supplied reason="lost">ug</supplied></del></abbr><ex>usti</ex></expan>
                <del rend="erasure">
-                  <supplied reason="lost"> pro <expan>
-                        <abbr>praet</abbr><ex>ore</ex>
-                     </expan>
-                  </supplied>
-                  <expan>
-                     <abbr>provin</abbr><ex>ciae</ex>
-                  </expan>
-                  <expan>
-                     <abbr>Syr</abbr><ex>iae</ex>
-                  </expan>
+                <supplied reason="lost"> pro <expan><abbr>praet</abbr><ex>ore</ex></expan></supplied>
+                  <expan><abbr>provin</abbr><ex>ciae</ex></expan>
+                  <expan><abbr>Syr</abbr><ex>iae</ex></expan>
                </del>
                <lb/>
-               <expan>
-                  <abbr>Pal</abbr><ex>aestinae</ex>
-               </expan>
+               <expan><abbr>Pal</abbr><ex>aestinae</ex></expan>
                <del rend="erasure">
                   <gap reason="illegible" atLeast="10" atMost="12" unit="character"/><orig>ACER</orig><gap reason="illegible" quantity="1" unit="character"/>
                   <gap reason="illegible" atLeast="4" atMost="6" unit="character"/>
                </del> II<lb/>
-               <expan>
-                  <abbr>pat<del rend="erasure">r</del></abbr><ex>ono</ex>
-               </expan>
+               <expan><abbr>pat<del rend="erasure">r</del></abbr><ex>ono</ex></expan>
                <del rend="erasure">
-                  <gap reason="illegible" atLeast="8" atMost="10" unit="character"/> ex <expan>
-                     <abbr>dec</abbr><ex>reto</ex>
-                  </expan>
-                  <expan>
-                     <abbr>dec</abbr><ex>urionum</ex>
-                  </expan>
-                  <expan>
-                     <abbr>pec</abbr><ex>unia</ex>
-                  </expan>
+                  <gap reason="illegible" atLeast="8" atMost="10" unit="character"/> ex <expan><abbr>dec</abbr><ex>reto</ex></expan>
+                  <expan><abbr>dec</abbr><ex>urionum</ex></expan>
+                  <expan><abbr>pec</abbr><ex>unia</ex></expan>
                </del>
-               <expan>
-                  <abbr><del rend="erasure">p</del>ub</abbr><ex>lica</ex>
-               </expan>
+               <expan><abbr><del rend="erasure">p</del>ub</abbr><ex>lica</ex></expan>
                <lb/> duov<del rend="erasure">i<supplied reason="lost" cert="medium">r</supplied>
                   <gap reason="illegible" atLeast="7" atMost="9" unit="character"/>
                   <orig>
@@ -202,33 +173,7 @@
                   <unclear>I</unclear>
                </del>. </p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="caes0008-1" xml:lang="la">A</w><w xml:id="caes0008-2" xml:lang="la"><supplied reason="lost"><w xml:id="caes0008-3" xml:lang="la"><expan>
-                        <abbr>c</abbr><ex>larissimo</ex>
-                     </expan></w><w xml:id="caes0008-4" xml:lang="la"><expan>
-                        <abbr>v</abbr><ex>iro</ex>
-                     </expan></w></supplied></w><w xml:id="caes0008-5" xml:lang="la"><expan>
-                  <abbr>leg</abbr><ex>ato</ex>
-               </expan></w><w xml:id="caes0008-6" xml:lang="la"><expan>
-                  <abbr>A</abbr><ex>usti</ex>
-               </expan></w><w xml:id="caes0008-7" xml:lang="la"><supplied reason="lost"> pro<w xml:id="caes0008-8" xml:lang="la"><expan>
-                        <abbr>praet</abbr><ex>ore</ex>
-                     </expan></w></supplied></w><w xml:id="caes0008-9" xml:lang="la"><expan>
-                     <abbr>provin</abbr><ex>ciae</ex>
-                  </expan></w><w xml:id="caes0008-10" xml:lang="la"><expan>
-                     <abbr>Syr</abbr><ex>iae</ex>
-                  </expan></w><w xml:id="caes0008-11" xml:lang="la"><expan>
-                  <abbr>Pal</abbr><ex>aestinae</ex>
-               </expan></w><w xml:id="caes0008-12" xml:lang="la">II</w><w xml:id="caes0008-13" xml:lang="la"><expan>
-                  <abbr>pat</abbr><ex>ono</ex>
-               </expan></w><w xml:id="caes0008-14" xml:lang="la">ex</w><w xml:id="caes0008-15" xml:lang="la"><expan>
-                     <abbr>dec</abbr><ex>reto</ex>
-                  </expan></w><w xml:id="caes0008-16" xml:lang="la"><expan>
-                     <abbr>dec</abbr><ex>urionum</ex>
-                  </expan></w><w xml:id="caes0008-17" xml:lang="la"><expan>
-                     <abbr>pec</abbr><ex>unia</ex>
-                  </expan></w><w xml:id="caes0008-18" xml:lang="la"><expan>
-                  <abbr>ub</abbr><ex>lica</ex>
-               </expan></w><w xml:id="caes0008-19" xml:lang="la">duovi</w><w xml:id="caes0008-20" xml:lang="la"><supplied reason="lost" cert="medium">r</supplied></w><w xml:id="caes0008-21" xml:lang="la">et</w> <w xml:id="caes0008-22" xml:lang="la">I</w></p>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="caes0008-1" xml:lang="la">A</w><w xml:id="caes0008-2" xml:lang="la"><supplied reason="lost"><w xml:id="caes0008-3" xml:lang="la"><expan><abbr>c</abbr><ex>larissimo</ex></expan></w></supplied></w><w xml:id="caes0008-4" xml:lang="la"><supplied reason="lost"><w xml:id="caes0008-5" xml:lang="la"><expan><abbr>v</abbr><ex>iro</ex></expan></w></supplied></w><w xml:id="caes0008-6" xml:lang="la"><expan><abbr>leg</abbr><ex>ato</ex></expan></w><w xml:id="caes0008-7" xml:lang="la"><expan><abbr>A</abbr><ex>usti</ex></expan></w><w xml:id="caes0008-8" xml:lang="la"><supplied reason="lost"> pro<w xml:id="caes0008-9" xml:lang="la"><expan><abbr>praet</abbr><ex>ore</ex></expan></w></supplied></w><w xml:id="caes0008-10" xml:lang="la"><expan><abbr>provin</abbr><ex>ciae</ex></expan></w><w xml:id="caes0008-11" xml:lang="la"><expan><abbr>Syr</abbr><ex>iae</ex></expan></w><w xml:id="caes0008-12" xml:lang="la"><expan><abbr>Pal</abbr><ex>aestinae</ex></expan></w><w xml:id="caes0008-13" xml:lang="la">II</w><w xml:id="caes0008-14" xml:lang="la"><expan><abbr>pat</abbr><ex>ono</ex></expan></w><w xml:id="caes0008-15" xml:lang="la">ex</w><w xml:id="caes0008-16" xml:lang="la"><expan><abbr>dec</abbr><ex>reto</ex></expan></w><w xml:id="caes0008-17" xml:lang="la"><expan><abbr>dec</abbr><ex>urionum</ex></expan></w><w xml:id="caes0008-18" xml:lang="la"><expan><abbr>pec</abbr><ex>unia</ex></expan></w><w xml:id="caes0008-19" xml:lang="la"><expan><abbr>ub</abbr><ex>lica</ex></expan></w><w xml:id="caes0008-20" xml:lang="la">duovi</w><w xml:id="caes0008-21" xml:lang="la"><supplied reason="lost" cert="medium">r</supplied></w><w xml:id="caes0008-22" xml:lang="la">et</w> <w xml:id="caes0008-23" xml:lang="la">I</w></p>
 </div>
 </body>
       <back>

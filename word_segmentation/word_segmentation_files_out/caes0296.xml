@@ -117,18 +117,14 @@
             <p>
                <gap reason="illegible" quantity="5" unit="character"/>
                <lb/>
-               <expan>
-                  <abbr>ὑ</abbr><ex>πὸ</ex>
-               </expan> Ἐν<lb break="no"/>τολίας</p>
+               <expan><abbr>ὑ</abbr><ex>πὸ</ex></expan> Ἐν<lb break="no"/>τολίας</p>
          </div>
          <div type="translation" ana="#b1" xml:id="caes0296.translation" corresp="#caes0296.transcription">
             <p>by <name>
                   <persName xml:lang="grc " ref="persons.xml#caes0296p01">Entolia </persName>
                </name>.</p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="caes0296-1" xml:lang="grc"><expan>
-                  <abbr>ὑ</abbr><ex>πὸ</ex>
-               </expan></w><w xml:id="caes0296-2" xml:lang="grc">Ἐντολίας</w></p>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="caes0296-1" xml:lang="grc"><expan><abbr>ὑ</abbr><ex>πὸ</ex></expan></w><w xml:id="caes0296-2" xml:lang="grc">Ἐντολίας</w></p>
 </div>
 </body>
       <back>

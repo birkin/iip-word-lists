@@ -102,6 +102,7 @@
          <change when="2019-01-29" who="persons.xml#Elli_Mylonas">
                 adding period attribute to date element, with Periodo value.
             </change>
+         <change when="2021-03-06" who="Chris Zeichmann">corrected reason undefined</change>
       </revisionDesc>
    </teiHeader>
    <!-- ********* <facsimile> ********* -->
@@ -114,7 +115,7 @@
    <text>
       <body>
          <div type="edition" ana="#b2" subtype="transcription" xml:id="beth0009.transcription" corresp="#beth0009.translation">
-            <p>Εὐμύρι Ἴουν, Κύριλος, Μαριάμ<supplied reason="undefined">μη</supplied>
+            <p>Εὐμύρι Ἴουν, Κύριλος, Μαριάμ<supplied reason="lost">μη</supplied>
             </p>
          </div>
          <div type="translation" ana="#MS" xml:id="beth0009.translation" corresp="#beth0009.transcription">
@@ -124,7 +125,7 @@
                <persName xml:lang="hbo " ref="persons.xml#beth0009p03">Mariamme </persName>
             </p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="beth0009-1" xml:lang="grc">Εὐμύρι</w> <w xml:id="beth0009-2" xml:lang="grc">Ἴουν</w> <w xml:id="beth0009-3" xml:lang="grc">Κύριλος</w> <w xml:id="beth0009-4" xml:lang="grc">Μαριάμ</w><w xml:id="beth0009-5" xml:lang="grc"><supplied reason="undefined">μη</supplied></w></p>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="beth0009-1" xml:lang="grc">Εὐμύρι</w> <w xml:id="beth0009-2" xml:lang="grc">Ἴουν</w> <w xml:id="beth0009-3" xml:lang="grc">Κύριλος</w> <w xml:id="beth0009-4" xml:lang="grc">Μαριάμ</w><w xml:id="beth0009-5" xml:lang="grc"><supplied reason="lost">μη</supplied></w></p>
 </div>
 </body>
       <back>

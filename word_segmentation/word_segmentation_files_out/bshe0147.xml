@@ -129,16 +129,10 @@
                 <p>
                <g type="cross"/> Ἀρχὴ
                             ἔργου<lb/>θαυμαστοῦ<lb/>
-               <expan>
-                  <abbr>Φλ</abbr><ex>αουίου</ex>
-               </expan>
+               <expan><abbr>Φλ</abbr><ex>αουίου</ex></expan>
                             Ὀρέστου<lb/>
-               <expan>
-                  <abbr>μεγαλοπρ</abbr><ex>επεστάτου</ex>
-               </expan>
-                    <expan>
-                  <abbr>ἄρχ</abbr><ex>οντος</ex>
-               </expan>
+               <expan><abbr>μεγαλοπρ</abbr><ex>επεστάτου</ex></expan>
+                    <expan><abbr>ἄρχ</abbr><ex>οντος</ex></expan>
             </p>
             </div>
             <div type="translation" ana="b1">
@@ -148,13 +142,7 @@
             <div type="commentary" ana="b1">
                 <p/>
             </div>
-        <div type="edition" subtype="transcription_segmented"><p><w xml:id="bshe0147-1" xml:lang="grc">Ἀρχὴ</w> <w xml:id="bshe0147-2" xml:lang="grc">ἔργου</w> <w xml:id="bshe0147-3" xml:lang="grc">θαυμαστοῦ</w><w xml:id="bshe0147-4" xml:lang="grc"><expan>
-                  <abbr>Φλ</abbr><ex>αουίου</ex>
-               </expan></w><w xml:id="bshe0147-5" xml:lang="grc">Ὀρέστου</w><w xml:id="bshe0147-6" xml:lang="grc"><expan>
-                  <abbr>μεγαλοπρ</abbr><ex>επεστάτου</ex>
-               </expan></w><w xml:id="bshe0147-7" xml:lang="grc"><expan>
-                  <abbr>ἄρχ</abbr><ex>οντος</ex>
-               </expan></w></p>
+        <div type="edition" subtype="transcription_segmented"><p><w xml:id="bshe0147-1" xml:lang="grc">Ἀρχὴ</w> <w xml:id="bshe0147-2" xml:lang="grc">ἔργου</w> <w xml:id="bshe0147-3" xml:lang="grc">θαυμαστοῦ</w><w xml:id="bshe0147-4" xml:lang="grc"><expan><abbr>Φλ</abbr><ex>αουίου</ex></expan></w><w xml:id="bshe0147-5" xml:lang="grc">Ὀρέστου</w><w xml:id="bshe0147-6" xml:lang="grc"><expan><abbr>μεγαλοπρ</abbr><ex>επεστάτου</ex></expan></w><w xml:id="bshe0147-7" xml:lang="grc"><expan><abbr>ἄρχ</abbr><ex>οντος</ex></expan></w></p>
 </div>
 </body>
         <back>

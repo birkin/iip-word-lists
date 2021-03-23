@@ -121,10 +121,8 @@
                <supplied reason="undefined"><g type="cross">+</g></supplied> ὀστᾶ <g type="cross">+</g><lb/>
                <supplied reason="undefined">Ν</supplied>
                <unclear>ω</unclear>νίου<lb/>
-               <expan>
-                  <abbr><unclear>ἐ</unclear>ν</abbr>
-                  <ex>θάδε</ex>
-               </expan> σὺν<lb/>
+               <expan><abbr><unclear>ἐ</unclear>ν</abbr>
+                  <ex>θάδε</ex></expan> σὺν<lb/>
                <gap reason="lost" extent="unknown" unit="character"/>
                <gap reason="illegible" quantity="3" unit="character"/>
                <unclear>μ</unclear>
@@ -135,10 +133,8 @@
             <p>The bones of <persName xml:lang="grc " ref="persons.xml#caes0200p01">Nonios </persName> (lie) here with...
 		  </p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="caes0200-1" xml:lang="grc"><supplied reason="undefined"><g type="cross">+</g></supplied></w><w xml:id="caes0200-2" xml:lang="grc">ὀστᾶ</w><w xml:id="caes0200-3" xml:lang="grc"><supplied reason="undefined">Ν</supplied></w><w xml:id="caes0200-4" xml:lang="grc">ωνίου</w><w xml:id="caes0200-5" xml:lang="grc"><expan>
-                  <abbr>ἐν</abbr>
-                  <ex>θάδε</ex>
-               </expan></w><w xml:id="caes0200-6" xml:lang="grc">σὺν</w> <w xml:id="caes0200-7" xml:lang="grc">μ</w></p>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="caes0200-1" xml:lang="grc"><supplied reason="undefined"><g type="cross">+</g></supplied></w><w xml:id="caes0200-2" xml:lang="grc">ὀστᾶ</w><w xml:id="caes0200-3" xml:lang="grc"><supplied reason="undefined">Ν</supplied></w><w xml:id="caes0200-4" xml:lang="grc">ωνίου</w><w xml:id="caes0200-5" xml:lang="grc"><expan><abbr>ἐν</abbr>
+                  <ex>θάδε</ex></expan></w><w xml:id="caes0200-6" xml:lang="grc">σὺν</w> <w xml:id="caes0200-7" xml:lang="grc">μ</w></p>
 </div>
 </body>
       <back>

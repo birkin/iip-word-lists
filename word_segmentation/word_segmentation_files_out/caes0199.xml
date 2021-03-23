@@ -117,7 +117,7 @@
             <p>
                <supplied reason="undefined">μεμόριον</supplied>
                <lb/> 
-διαφ<supplied reason="undefined">έρον τ</supplied><lb break="no"/> 
+               διαφ<supplied reason="undefined">έρον</supplied> <supplied reason="undefined">τ</supplied><lb break="no"/> 
 οῦ Σι<gap reason="illegible" quantity="2" unit="character"/>.<lb/> 
 +
 </p>
@@ -126,7 +126,7 @@
             <p>The special memorial of....
 		  </p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="caes0199-1" xml:lang="grc"><supplied reason="undefined">μεμόριον</supplied></w><w xml:id="caes0199-2" xml:lang="grc">διαφ</w><w xml:id="caes0199-3" xml:lang="grc"><supplied reason="undefined">έρον τ</supplied></w><w xml:id="caes0199-4" xml:lang="grc">οῦ</w> <w xml:id="caes0199-5" xml:lang="grc">Σι</w></p>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="caes0199-1" xml:lang="grc"><supplied reason="undefined">μεμόριον</supplied></w><w xml:id="caes0199-2" xml:lang="grc">διαφ</w><w xml:id="caes0199-3" xml:lang="grc"><supplied reason="undefined">έρον</supplied></w><w xml:id="caes0199-4" xml:lang="grc"><supplied reason="undefined">τ</supplied></w><w xml:id="caes0199-5" xml:lang="grc">οῦ</w> <w xml:id="caes0199-6" xml:lang="grc">Σι</w></p>
 </div>
 </body>
       <back>

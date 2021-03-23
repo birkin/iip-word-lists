@@ -113,9 +113,7 @@
             <p>
                     יתחיון
                     <lb/>
-               <expan>
-                  <abbr>קלודי</abbr><ex cert="low">וס</ex>
-               </expan>
+               <expan><abbr>קלודי</abbr><ex cert="low">וס</ex></expan>
                <lb/>
                     שושן
                     <lb/>
@@ -127,9 +125,7 @@
          <div type="translation" ana="#b1" xml:id="evro0014.translation" corresp="#evro0014.transcription">
             <p>Let them live - Claudius/a, Susanna, Nehemiah(?), Boselos.</p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="evro0014-1" xml:lang="arc">יתחיון</w><w xml:id="evro0014-2" xml:lang="arc"><expan>
-                  <abbr>קלודי</abbr><ex cert="low">וס</ex>
-               </expan></w><w xml:id="evro0014-3" xml:lang="arc">שושן</w> <w xml:id="evro0014-4" xml:lang="arc">מר</w> <w xml:id="evro0014-5" xml:lang="arc">נאהמנו</w> <w xml:id="evro0014-6" xml:lang="arc">בסלו</w></p>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="evro0014-1" xml:lang="arc">יתחיון</w><w xml:id="evro0014-2" xml:lang="arc"><expan><abbr>קלודי</abbr><ex cert="low">וס</ex></expan></w><w xml:id="evro0014-3" xml:lang="arc">שושן</w> <w xml:id="evro0014-4" xml:lang="arc">מר</w> <w xml:id="evro0014-5" xml:lang="arc">נאהמנו</w> <w xml:id="evro0014-6" xml:lang="arc">בסלו</w></p>
 </div>
 </body>
       <back>

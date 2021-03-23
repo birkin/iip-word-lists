@@ -148,22 +148,18 @@
                <g type="cross">+</g>
                <g type="cross">+</g>
                <lb/> Εἷ<supplied reason="omitted">ς</supplied> Θεὸς <choice>
-                  <reg><expan>
-                     <abbr>Ἰ</abbr><ex>ησοῦ</ex><abbr>ς</abbr></expan>
+                  <reg><expan><abbr>Ἰ</abbr><ex>ησοῦ</ex><abbr>ς</abbr></expan>
                   </reg>
-                  <orig><expan>
-                     <abbr>Ἰ</abbr><ex>ησο</ex><abbr>ῦ</abbr></expan>
+                  <orig><expan><abbr>Ἰ</abbr><ex>ησο</ex><abbr>ῦ</abbr></expan>
                   </orig>
                </choice>
                <choice>
                   <reg>
-                     <expan>
-                        <abbr>Χ</abbr><ex>ριστό</ex><abbr>ς</abbr>
+                     <expan><abbr>Χ</abbr><ex>ριστό</ex><abbr>ς</abbr>
                      </expan>
                   </reg>
                   <orig>
-                     <expan>
-                        <abbr>Χ</abbr><ex>ριστ</ex><abbr>έ</abbr>
+                     <expan><abbr>Χ</abbr><ex>ριστ</ex><abbr>έ</abbr>
                      </expan>
                   </orig>
                </choice>. <g type="cross">+</g>
@@ -180,7 +176,7 @@
                   ὀνό<unclear>ματος</unclear>
                <lb/>
                <unclear>καλ</unclear>
-               <supplied reason="lost">ῆς πίστεως </supplied>
+               <supplied reason="lost">ῆς</supplied> <supplied reason="lost">πίστεως</supplied> 
                <lb/>
                <gap reason="illegible" quantity="3" unit="line"/>
                <lb/>
@@ -194,7 +190,7 @@
                Valentina,<lb/> who died having<lb/> a good name and<lb/> good faith
                (?)<lb/>.....</p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="zoor0357-1" xml:lang="grc">Εἷ</w><w xml:id="zoor0357-2" xml:lang="grc"><supplied reason="omitted">ς</supplied></w><w xml:id="zoor0357-3" xml:lang="grc">Θεὸς</w><w xml:id="zoor0357-4" xml:lang="grc">Μνημεῖον</w> <w xml:id="zoor0357-5" xml:lang="grc">τῆς</w> <w xml:id="zoor0357-6" xml:lang="grc">δούλης</w> <w xml:id="zoor0357-7" xml:lang="grc">Σου</w><w xml:id="zoor0357-8" xml:lang="grc">Οὐαλεντίνης</w> <w xml:id="zoor0357-9" xml:lang="grc">ἀποθανούσης</w> <w xml:id="zoor0357-10" xml:lang="grc">με</w><w xml:id="zoor0357-11" xml:lang="grc"><supplied reason="lost">τ</supplied></w><w xml:id="zoor0357-12" xml:lang="grc">ὰ</w> <w xml:id="zoor0357-13" xml:lang="grc">καλοῦ</w> <w xml:id="zoor0357-14" xml:lang="grc">ὀνόματος</w> <w xml:id="zoor0357-15" xml:lang="grc">καλ</w><w xml:id="zoor0357-16" xml:lang="grc"><supplied reason="lost">ῆς πίστεως </supplied></w></p>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="zoor0357-1" xml:lang="grc">Εἷ</w><w xml:id="zoor0357-2" xml:lang="grc"><supplied reason="omitted">ς</supplied></w><w xml:id="zoor0357-3" xml:lang="grc">Θεὸς</w><w xml:id="zoor0357-4" xml:lang="grc">Μνημεῖον</w> <w xml:id="zoor0357-5" xml:lang="grc">τῆς</w> <w xml:id="zoor0357-6" xml:lang="grc">δούλης</w> <w xml:id="zoor0357-7" xml:lang="grc">Σου</w><w xml:id="zoor0357-8" xml:lang="grc">Οὐαλεντίνης</w> <w xml:id="zoor0357-9" xml:lang="grc">ἀποθανούσης</w> <w xml:id="zoor0357-10" xml:lang="grc">με</w><w xml:id="zoor0357-11" xml:lang="grc"><supplied reason="lost">τ</supplied></w><w xml:id="zoor0357-12" xml:lang="grc">ὰ</w> <w xml:id="zoor0357-13" xml:lang="grc">καλοῦ</w> <w xml:id="zoor0357-14" xml:lang="grc">ὀνόματος</w> <w xml:id="zoor0357-15" xml:lang="grc">καλ</w><w xml:id="zoor0357-16" xml:lang="grc"><supplied reason="lost">ῆς</supplied></w><w xml:id="zoor0357-17" xml:lang="grc"><supplied reason="lost">πίστεως</supplied></w></p>
 </div>
 </body>
       <back>

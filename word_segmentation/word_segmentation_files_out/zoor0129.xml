@@ -126,40 +126,26 @@
       <body>
          <div type="edition" ana="#b1" xml:lang="grc" subtype="transcription" xml:id="zoor0129.transcription" corresp="#zoor0129.translation">
             <p><g type="cross">+ + +</g><lb/>
-               <expan>
-                  <abbr>Κ</abbr><ex>ύρι</ex><abbr>ε</abbr>
+               <expan><abbr>Κ</abbr><ex>ύρι</ex><abbr>ε</abbr>
                </expan>, <choice>
                   <orig>ἀνάπα<lb break="no"/>υσον</orig>
                   <reg>ἀνάπαυσον</reg>
-               </choice> τὴν ψυ<lb break="no"/>χὴν τῆς <expan>
-                  <abbr>δούλ</abbr><ex>ης</ex>
-               </expan>
+               </choice> τὴν ψυ<lb break="no"/>χὴν τῆς <expan><abbr>δούλ</abbr><ex>ης</ex></expan>
                <lb/> Ὀμμάβι <g type="cross">+</g>
                <choice>
                   <orig>Ἰσιδ <g type="cross">+</g><lb break="no"/>ώρου</orig>
                   <reg>Ἰσιδώρου</reg>
-               </choice>. Ἀνεπά<lb break="no"/>η ἐτῶν ιεʹ, <g type="cross">+ +</g><lb/> ἐν <expan>
-                  <abbr>μ<unclear>η</unclear></abbr><ex>νὶ</ex>
-               </expan>
+               </choice>. Ἀνεπά<lb break="no"/>η ἐτῶν ιεʹ, <g type="cross">+ +</g><lb/> ἐν <expan><abbr>μ<unclear>η</unclear></abbr><ex>νὶ</ex></expan>
                <g type="cross">+</g> Δίῳ,<lb/>
-               <expan>
-                  <abbr>ἔτ</abbr><ex>ους</ex>
-               </expan>
+               <expan><abbr>ἔτ</abbr><ex>ους</ex></expan>
                <g type="cross">+</g> τκʹ. <g type="cross">+ + +</g></p>
          </div>
          <div type="translation" ana="#b1" xml:id="zoor0129.translation" corresp="#zoor0129.transcription">
             <p>Lord, rest the soul of (your) servant Ommabi, (daughter) of Isidoros. She came to
                     rest (at the age) of 15 years, on the month of Dios, in (the) year 320.</p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="zoor0129-1" xml:lang="grc"><expan>
-                  <abbr>Κ</abbr><ex>ύρι</ex><abbr>ε</abbr>
-               </expan></w><w xml:id="zoor0129-2" xml:lang="grc">ἀνάπαυσον</w> <w xml:id="zoor0129-3" xml:lang="grc">τὴν</w> <w xml:id="zoor0129-4" xml:lang="grc">ψυχὴν</w> <w xml:id="zoor0129-5" xml:lang="grc">τῆς</w><w xml:id="zoor0129-6" xml:lang="grc"><expan>
-                  <abbr>δούλ</abbr><ex>ης</ex>
-               </expan></w><w xml:id="zoor0129-7" xml:lang="grc">Ὀμμάβι</w><w xml:id="zoor0129-8" xml:lang="grc">Ἰσιδώρου</w> <w xml:id="zoor0129-9" xml:lang="grc">Ἀνεπάη</w> <w xml:id="zoor0129-10" xml:lang="grc">ἐτῶν</w> <w xml:id="zoor0129-11" xml:lang="grc">ιε</w><w xml:id="zoor0129-12" xml:lang="grc">ἐν</w><w xml:id="zoor0129-13" xml:lang="grc"><expan>
-                  <abbr>μη</abbr><ex>νὶ</ex>
-               </expan></w><w xml:id="zoor0129-14" xml:lang="grc">Δίῳ</w><w xml:id="zoor0129-15" xml:lang="grc"><expan>
-                  <abbr>ἔτ</abbr><ex>ους</ex>
-               </expan></w><w xml:id="zoor0129-16" xml:lang="grc">τκ</w></p>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="zoor0129-1" xml:lang="grc"><expan><abbr>Κ</abbr><ex>ύρι</ex><abbr>ε</abbr>
+               </expan></w><w xml:id="zoor0129-2" xml:lang="grc">ἀνάπαυσον</w> <w xml:id="zoor0129-3" xml:lang="grc">τὴν</w> <w xml:id="zoor0129-4" xml:lang="grc">ψυχὴν</w> <w xml:id="zoor0129-5" xml:lang="grc">τῆς</w><w xml:id="zoor0129-6" xml:lang="grc"><expan><abbr>δούλ</abbr><ex>ης</ex></expan></w><w xml:id="zoor0129-7" xml:lang="grc">Ὀμμάβι</w><w xml:id="zoor0129-8" xml:lang="grc">Ἰσιδώρου</w> <w xml:id="zoor0129-9" xml:lang="grc">Ἀνεπάη</w> <w xml:id="zoor0129-10" xml:lang="grc">ἐτῶν</w> <w xml:id="zoor0129-11" xml:lang="grc">ιε</w><w xml:id="zoor0129-12" xml:lang="grc">ἐν</w><w xml:id="zoor0129-13" xml:lang="grc"><expan><abbr>μη</abbr><ex>νὶ</ex></expan></w><w xml:id="zoor0129-14" xml:lang="grc">Δίῳ</w><w xml:id="zoor0129-15" xml:lang="grc"><expan><abbr>ἔτ</abbr><ex>ους</ex></expan></w><w xml:id="zoor0129-16" xml:lang="grc">τκ</w></p>
 </div>
 </body>
       <back>

@@ -44,7 +44,7 @@
                         <textLang mainLang="la" otherLangs=""/>
                         <!-- lat, grc, heb, arc -->
                         <!-- religion here? -->
-                        <msItem class="dedicatory.imperial">
+                        <msItem class="dedicatory.imperial" ana="other_religion">
                             <p>Jerusalem, 129-130 CE. Imperial dedication.</p>
                         </msItem>
                     </msContents>
@@ -141,6 +141,8 @@
         -->
         <revisionDesc>
             <change when="2020-10-26" who="Chris Zeichmann">Initial Entry</change>
+            <change when="2021-02-28" who="Nesya Nelkin">Added a second image; edited
+                Religion</change>
         </revisionDesc>
     </teiHeader>
     <!--  *************************************  <facsimile>  *********************************
@@ -155,6 +157,8 @@
         <surface>
             <desc>Zev Radovan</desc>
             <graphic url="jeru0554.jpg"/>
+            <desc>Zev Radovan</desc>
+            <graphic url="jeru0554a.jpg"/>
         </surface>
     </facsimile>
     <text>
@@ -165,8 +169,8 @@
             </div>
             <div type="edition" subtype="transcription" ana="b1" xml:lang="lat">
                 <p>
-                    <lb/><expan><abbr>Imp</abbr><ex>eratori</ex></expan> Cae<supplied reason="lost">sari di</supplied>v<supplied reason="lost">i Traiani</supplied>
-                    <lb/><expan><abbr>Parthic</abbr><ex>i</ex></expan> <supplied reason="lost"><expan><abbr>f</abbr><ex>ilio</ex></expan> divi Nerv</supplied>ae <expan><abbr>nep</abbr><ex>oti</ex></expan>
+                    <lb/><expan><abbr>Imp</abbr><ex>eratori</ex></expan> Cae<supplied reason="lost">sari</supplied> <supplied reason="lost">di</supplied>v<supplied reason="lost">i</supplied> <supplied reason="lost">Traiani</supplied>
+                    <lb/><expan><abbr>Parthic</abbr><ex>i</ex></expan> <supplied reason="lost"><expan><abbr>f</abbr><ex>ilio</ex></expan></supplied> <supplied reason="lost">divi</supplied> <supplied reason="lost">Nerv</supplied>ae <expan><abbr>nep</abbr><ex>oti</ex></expan>
                     <lb/>Traiano <supplied reason="lost">Hadri</supplied>ano <expan><abbr>August</abbr><ex>o</ex></expan>
                     <lb/><expan><abbr>pont</abbr><ex>ifici</ex></expan> <expan><abbr>ma<supplied reason="lost">xi</supplied>m</abbr><ex>o</ex></expan> <expan><abbr>trib</abbr><ex>unicia</ex></expan> <expan><abbr>pot</abbr><ex>estate</ex></expan> <num value="14">XIIII</num>
                     <lb/><expan><abbr><unclear>c</unclear><supplied reason="lost">o</supplied></abbr><supplied reason="lost"><ex>n</ex></supplied><abbr>s</abbr><ex>uli</ex></expan> <num value="3">III</num> <expan><abbr>p</abbr><ex>atri</ex></expan> <expan><abbr>p</abbr><ex>atriae</ex></expan>
@@ -180,7 +184,7 @@
             </div>
             <!-- The bibl has more contained elements. What is the possible list of values of the biblScope/@type? 
              -->
-        <div type="edition" subtype="transcription_segmented"><p><w xml:id="jeru0554-1" xml:lang="la"><expan><abbr>Imp</abbr><ex>eratori</ex></expan></w><w xml:id="jeru0554-2" xml:lang="la">Cae</w><w xml:id="jeru0554-3" xml:lang="la"><supplied reason="lost">sari di</supplied></w><w xml:id="jeru0554-4" xml:lang="la">v</w><w xml:id="jeru0554-5" xml:lang="la"><supplied reason="lost">i Traiani</supplied></w><w xml:id="jeru0554-6" xml:lang="la"><expan><abbr>Parthic</abbr><ex>i</ex></expan></w><w xml:id="jeru0554-7" xml:lang="la"><supplied reason="lost"><w xml:id="jeru0554-8" xml:lang="la"><expan><abbr>f</abbr><ex>ilio</ex></expan></w>divi Nerv</supplied></w><w xml:id="jeru0554-9" xml:lang="la">ae</w><w xml:id="jeru0554-10" xml:lang="la"><expan><abbr>nep</abbr><ex>oti</ex></expan></w><w xml:id="jeru0554-11" xml:lang="la">Traiano</w><w xml:id="jeru0554-12" xml:lang="la"><supplied reason="lost">Hadri</supplied></w><w xml:id="jeru0554-13" xml:lang="la">ano</w><w xml:id="jeru0554-14" xml:lang="la"><expan><abbr>August</abbr><ex>o</ex></expan></w><w xml:id="jeru0554-15" xml:lang="la"><expan><abbr>pont</abbr><ex>ifici</ex></expan></w><w xml:id="jeru0554-16" xml:lang="la"><expan><abbr>ma<w xml:id="jeru0554-17" xml:lang="la"><supplied reason="lost">xi</supplied></w>m</abbr><ex>o</ex></expan></w><w xml:id="jeru0554-18" xml:lang="la"><expan><abbr>trib</abbr><ex>unicia</ex></expan></w><w xml:id="jeru0554-19" xml:lang="la"><expan><abbr>pot</abbr><ex>estate</ex></expan></w><w xml:id="jeru0554-20" xml:lang="la">XIIII</w><w xml:id="jeru0554-21" xml:lang="la"><expan><abbr>c<w xml:id="jeru0554-22" xml:lang="la"><supplied reason="lost">o</supplied></w></abbr><w xml:id="jeru0554-23" xml:lang="la"><supplied reason="lost"><ex>n</ex></supplied></w><abbr>s</abbr><ex>uli</ex></expan></w><w xml:id="jeru0554-24" xml:lang="la">III</w><w xml:id="jeru0554-25" xml:lang="la"><expan><abbr>p</abbr><ex>atri</ex></expan></w><w xml:id="jeru0554-26" xml:lang="la"><expan><abbr>p</abbr><ex>atriae</ex></expan></w><w xml:id="jeru0554-27" xml:lang="la"><expan><abbr>l<w xml:id="jeru0554-28" xml:lang="la"><supplied reason="lost">eg</supplied></w></abbr><w xml:id="jeru0554-29" xml:lang="la"><supplied reason="lost"><ex>io</ex></supplied></w></expan></w><w xml:id="jeru0554-30" xml:lang="la"><supplied reason="lost"> X </supplied></w><w xml:id="jeru0554-31" xml:lang="la"><supplied reason="lost">F</supplied></w><w xml:id="jeru0554-32" xml:lang="la">reten</w><w xml:id="jeru0554-33" xml:lang="la"><supplied reason="lost">sis</supplied></w><w xml:id="jeru0554-34" xml:lang="la"><expan><abbr><w xml:id="jeru0554-35" xml:lang="la"><supplied reason="lost">Antoninia</supplied></w>na</abbr><ex>e</ex></expan></w></p>
+        <div type="edition" subtype="transcription_segmented"><p><w xml:id="jeru0554-1" xml:lang="la"><expan><abbr>Imp</abbr><ex>eratori</ex></expan></w><w xml:id="jeru0554-2" xml:lang="la">Cae</w><w xml:id="jeru0554-3" xml:lang="la"><supplied reason="lost">sari</supplied></w><w xml:id="jeru0554-4" xml:lang="la"><supplied reason="lost">di</supplied></w><w xml:id="jeru0554-5" xml:lang="la">v</w><w xml:id="jeru0554-6" xml:lang="la"><supplied reason="lost">i</supplied></w><w xml:id="jeru0554-7" xml:lang="la"><supplied reason="lost">Traiani</supplied></w><w xml:id="jeru0554-8" xml:lang="la"><expan><abbr>Parthic</abbr><ex>i</ex></expan></w><w xml:id="jeru0554-9" xml:lang="la"><supplied reason="lost"><w xml:id="jeru0554-10" xml:lang="la"><expan><abbr>f</abbr><ex>ilio</ex></expan></w></supplied></w><w xml:id="jeru0554-11" xml:lang="la"><supplied reason="lost">divi</supplied></w><w xml:id="jeru0554-12" xml:lang="la"><supplied reason="lost">Nerv</supplied></w><w xml:id="jeru0554-13" xml:lang="la">ae</w><w xml:id="jeru0554-14" xml:lang="la"><expan><abbr>nep</abbr><ex>oti</ex></expan></w><w xml:id="jeru0554-15" xml:lang="la">Traiano</w><w xml:id="jeru0554-16" xml:lang="la"><supplied reason="lost">Hadri</supplied></w><w xml:id="jeru0554-17" xml:lang="la">ano</w><w xml:id="jeru0554-18" xml:lang="la"><expan><abbr>August</abbr><ex>o</ex></expan></w><w xml:id="jeru0554-19" xml:lang="la"><expan><abbr>pont</abbr><ex>ifici</ex></expan></w><w xml:id="jeru0554-20" xml:lang="la"><expan><abbr>ma<w xml:id="jeru0554-21" xml:lang="la"><supplied reason="lost">xi</supplied></w>m</abbr><ex>o</ex></expan></w><w xml:id="jeru0554-22" xml:lang="la"><expan><abbr>trib</abbr><ex>unicia</ex></expan></w><w xml:id="jeru0554-23" xml:lang="la"><expan><abbr>pot</abbr><ex>estate</ex></expan></w><w xml:id="jeru0554-24" xml:lang="la">XIIII</w><w xml:id="jeru0554-25" xml:lang="la"><expan><abbr>c<w xml:id="jeru0554-26" xml:lang="la"><supplied reason="lost">o</supplied></w></abbr><w xml:id="jeru0554-27" xml:lang="la"><supplied reason="lost"><ex>n</ex></supplied></w><abbr>s</abbr><ex>uli</ex></expan></w><w xml:id="jeru0554-28" xml:lang="la">III</w><w xml:id="jeru0554-29" xml:lang="la"><expan><abbr>p</abbr><ex>atri</ex></expan></w><w xml:id="jeru0554-30" xml:lang="la"><expan><abbr>p</abbr><ex>atriae</ex></expan></w><w xml:id="jeru0554-31" xml:lang="la"><expan><abbr>l<w xml:id="jeru0554-32" xml:lang="la"><supplied reason="lost">eg</supplied></w></abbr><w xml:id="jeru0554-33" xml:lang="la"><supplied reason="lost"><ex>io</ex></supplied></w></expan></w><w xml:id="jeru0554-34" xml:lang="la"><supplied reason="lost"> X </supplied></w><w xml:id="jeru0554-35" xml:lang="la"><supplied reason="lost">F</supplied></w><w xml:id="jeru0554-36" xml:lang="la">reten</w><w xml:id="jeru0554-37" xml:lang="la"><supplied reason="lost">sis</supplied></w><w xml:id="jeru0554-38" xml:lang="la"><expan><abbr><w xml:id="jeru0554-39" xml:lang="la"><supplied reason="lost">Antoninia</supplied></w>na</abbr><ex>e</ex></expan></w></p>
 </div>
 </body>
         <back>

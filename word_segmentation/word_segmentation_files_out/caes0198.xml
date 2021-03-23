@@ -115,26 +115,18 @@
    <text>
       <body>
          <div type="edition" ana="#b1" subtype="transcription" xml:id="caes0198.transcription" corresp="#caes0198.translation">
-            <p>+ <expan>
-                  <abbr>μημό</abbr><ex>ριον</ex>
-               </expan>
+            <p>+ <expan><abbr>μημό</abbr><ex>ριον</ex></expan>
                <lb/> 
 Βαεισή<hi rend="ligature">ου</hi>
                <lb/>
-               <expan>
-                  <abbr>κ</abbr><ex>αὶ</ex>
-               </expan> Γηοργίας. 
+               <expan><abbr>κ</abbr><ex>αὶ</ex></expan> Γηοργίας. 
 </p>
          </div>
          <div type="translation" ana="#b1" xml:id="caes0198.translation" corresp="#caes0198.transcription">
             <p>The memorial of <persName xml:lang="x-Semitic " ref="persons.xml#caes0198p01">Baïsios </persName> and <persName xml:lang="x-Semitic " ref="persons.xml#caes0198p02">Georgia</persName>.
 		  </p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="caes0198-1" xml:lang="grc"><expan>
-                  <abbr>μημό</abbr><ex>ριον</ex>
-               </expan></w><w xml:id="caes0198-2" xml:lang="grc">Βαεισή</w><w xml:id="caes0198-3" xml:lang="grc"><expan>
-                  <abbr>κ</abbr><ex>αὶ</ex>
-               </expan></w><w xml:id="caes0198-4" xml:lang="grc">Γηοργίας</w></p>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="caes0198-1" xml:lang="grc"><expan><abbr>μημό</abbr><ex>ριον</ex></expan></w><w xml:id="caes0198-2" xml:lang="grc">Βαεισή</w><w xml:id="caes0198-3" xml:lang="grc"><expan><abbr>κ</abbr><ex>αὶ</ex></expan></w><w xml:id="caes0198-4" xml:lang="grc">Γηοργίας</w></p>
 </div>
 </body>
       <back>

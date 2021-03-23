@@ -114,9 +114,7 @@
       <body>
          <div type="edition" ana="#b2" subtype="transcription" xml:id="beth0020.transcription" corresp="#beth0020.translation">
             <p>
-               <expan>
-                  <abbr><unclear>Ῥ</unclear></abbr><ex>ιββὶ</ex>
-               </expan> Εἰσάκιο<supplied reason="lost">ς</supplied>
+               <expan><abbr><unclear>Ῥ</unclear></abbr><ex>ιββὶ</ex></expan> Εἰσάκιο<supplied reason="lost">ς</supplied>
             </p>
          </div>
          <div type="translation" ana="#b2" xml:id="beth0020.translation" corresp="#beth0020.transcription">
@@ -125,9 +123,7 @@
                <persName xml:lang="hbo " ref="persons.xml#beth0020p01">Isaac </persName>
             </p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="beth0020-1" xml:lang="grc"><expan>
-                  <abbr>Ῥ</abbr><ex>ιββὶ</ex>
-               </expan></w><w xml:id="beth0020-2" xml:lang="grc">Εἰσάκιο</w><w xml:id="beth0020-3" xml:lang="grc"><supplied reason="lost">ς</supplied></w></p>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="beth0020-1" xml:lang="grc"><expan><abbr>Ῥ</abbr><ex>ιββὶ</ex></expan></w><w xml:id="beth0020-2" xml:lang="grc">Εἰσάκιο</w><w xml:id="beth0020-3" xml:lang="grc"><supplied reason="lost">ς</supplied></w></p>
 </div>
 </body>
       <back>

@@ -124,15 +124,11 @@
             <p>ΤΩΟΙΚΩϹΟΥΠΡΕΠΕΙΑΓΙΑϹΜΑΚΕ<lb/>ΤΑϹΑΕΚΤΟΝϹΩΝϹΟΙΠΡΟϹΦΕΡΩΜΕ<lb/>ΝΥΠΕΡϹΩΤΗΡΙΑϹΑΛΑΦΩΝΚΑΙΕΜΕ<lb/>ϹΩΝΟϹΚΑΙϹΑΒΙΝΑΚΑΙΘΕΟΔΩΡΑϹ<lb/>ΟΘϹΤΟΥΑΓΙΟΥϹΤΕΦΑΝΟΥΜΝΗϹΘΗ<lb/>ΤΙΤΟΝΔΟΥΛΟΝϹΟΥϹΤΕΦΑΝΟΥΠΡΕϹΒΥΤS</p>
          </div>
          <div type="edition" ana="#b1" xml:lang="grc" subtype="transcription" xml:id="birs0008.transcription" corresp="#birs0008.diplomatic #birs0008.translation">
-            <p>Τῷ οἴκῳ σου πρέπει ἁγίασμα <expan>
-                  <abbr>Κ</abbr><ex>ύρι</ex><abbr>ε</abbr>
+            <p>Τῷ οἴκῳ σου πρέπει ἁγίασμα <expan><abbr>Κ</abbr><ex>ύρι</ex><abbr>ε</abbr>
                </expan>. <lb/>Τὰ σὰ ἐκ <choice><sic>τoν</sic><corr>τῶν</corr></choice> σῶν Σοί προσφέρωμε<lb break="no"/>ν. Ὑπὲρ σωτηρίας Ἄλαφων καὶ
-               Ἐμέ<lb break="no"/>σωνος καὶ Σαβίνα καὶ Θεοδώρας. <lb/>῾Ο <expan>
-                  <abbr>θ</abbr><ex>εό</ex><abbr>ς</abbr>
+               Ἐμέ<lb break="no"/>σωνος καὶ Σαβίνα καὶ Θεοδώρας. <lb/>῾Ο <expan><abbr>θ</abbr><ex>εό</ex><abbr>ς</abbr>
                </expan> τοῦ
-                    ἁγίου Στεφάνου μνήσθη<lb break="no"/>τι τὸν δοῦλον Σου Στεφάνου <expan>
-                  <abbr>πρεσβυτ</abbr><ex>έρου</ex>
-               </expan>.</p>
+                    ἁγίου Στεφάνου μνήσθη<lb break="no"/>τι τὸν δοῦλον Σου Στεφάνου <expan><abbr>πρεσβυτ</abbr><ex>έρου</ex></expan>.</p>
          </div>
          <div type="translation" ana="#b1" xml:id="birs0008.translation" corresp="#birs0008.diplomatic #birs0008.transcription">
             <p>"Holiness becometh thine house, O Lord." (Psalm 93:5) "Bringing before thee thine
@@ -140,13 +136,9 @@
                     Theodora. O God of Saint Stephanos, remember your servant Stephanos the
                     priest.</p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="birs0008-1" xml:lang="grc">Τῷ</w> <w xml:id="birs0008-2" xml:lang="grc">οἴκῳ</w> <w xml:id="birs0008-3" xml:lang="grc">σου</w> <w xml:id="birs0008-4" xml:lang="grc">πρέπει</w> <w xml:id="birs0008-5" xml:lang="grc">ἁγίασμα</w><w xml:id="birs0008-6" xml:lang="grc"><expan>
-                  <abbr>Κ</abbr><ex>ύρι</ex><abbr>ε</abbr>
-               </expan></w><w xml:id="birs0008-7" xml:lang="grc">Τὰ</w> <w xml:id="birs0008-8" xml:lang="grc">σὰ</w> <w xml:id="birs0008-9" xml:lang="grc">ἐκ</w> <w xml:id="birs0008-10" xml:lang="grc">τῶν</w> <w xml:id="birs0008-11" xml:lang="grc">σῶν</w> <w xml:id="birs0008-12" xml:lang="grc">Σοί</w> <w xml:id="birs0008-13" xml:lang="grc">προσφέρωμεν</w> <w xml:id="birs0008-14" xml:lang="grc">Ὑπὲρ</w> <w xml:id="birs0008-15" xml:lang="grc">σωτηρίας</w> <w xml:id="birs0008-16" xml:lang="grc">Ἄλαφων</w> <w xml:id="birs0008-17" xml:lang="grc">καὶ</w> <w xml:id="birs0008-18" xml:lang="grc">Ἐμέσωνος</w> <w xml:id="birs0008-19" xml:lang="grc">καὶ</w> <w xml:id="birs0008-20" xml:lang="grc">Σαβίνα</w> <w xml:id="birs0008-21" xml:lang="grc">καὶ</w> <w xml:id="birs0008-22" xml:lang="grc">Θεοδώρας</w> <w xml:id="birs0008-23" xml:lang="grc">῾Ο</w><w xml:id="birs0008-24" xml:lang="grc"><expan>
-                  <abbr>θ</abbr><ex>εό</ex><abbr>ς</abbr>
-               </expan></w><w xml:id="birs0008-25" xml:lang="grc">τοῦ</w> <w xml:id="birs0008-26" xml:lang="grc">ἁγίου</w> <w xml:id="birs0008-27" xml:lang="grc">Στεφάνου</w> <w xml:id="birs0008-28" xml:lang="grc">μνήσθητι</w> <w xml:id="birs0008-29" xml:lang="grc">τὸν</w> <w xml:id="birs0008-30" xml:lang="grc">δοῦλον</w> <w xml:id="birs0008-31" xml:lang="grc">Σου</w> <w xml:id="birs0008-32" xml:lang="grc">Στεφάνου</w><w xml:id="birs0008-33" xml:lang="grc"><expan>
-                  <abbr>πρεσβυτ</abbr><ex>έρου</ex>
-               </expan></w></p>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="birs0008-1" xml:lang="grc">Τῷ</w> <w xml:id="birs0008-2" xml:lang="grc">οἴκῳ</w> <w xml:id="birs0008-3" xml:lang="grc">σου</w> <w xml:id="birs0008-4" xml:lang="grc">πρέπει</w> <w xml:id="birs0008-5" xml:lang="grc">ἁγίασμα</w><w xml:id="birs0008-6" xml:lang="grc"><expan><abbr>Κ</abbr><ex>ύρι</ex><abbr>ε</abbr>
+               </expan></w><w xml:id="birs0008-7" xml:lang="grc">Τὰ</w> <w xml:id="birs0008-8" xml:lang="grc">σὰ</w> <w xml:id="birs0008-9" xml:lang="grc">ἐκ</w> <w xml:id="birs0008-10" xml:lang="grc">τῶν</w> <w xml:id="birs0008-11" xml:lang="grc">σῶν</w> <w xml:id="birs0008-12" xml:lang="grc">Σοί</w> <w xml:id="birs0008-13" xml:lang="grc">προσφέρωμεν</w> <w xml:id="birs0008-14" xml:lang="grc">Ὑπὲρ</w> <w xml:id="birs0008-15" xml:lang="grc">σωτηρίας</w> <w xml:id="birs0008-16" xml:lang="grc">Ἄλαφων</w> <w xml:id="birs0008-17" xml:lang="grc">καὶ</w> <w xml:id="birs0008-18" xml:lang="grc">Ἐμέσωνος</w> <w xml:id="birs0008-19" xml:lang="grc">καὶ</w> <w xml:id="birs0008-20" xml:lang="grc">Σαβίνα</w> <w xml:id="birs0008-21" xml:lang="grc">καὶ</w> <w xml:id="birs0008-22" xml:lang="grc">Θεοδώρας</w> <w xml:id="birs0008-23" xml:lang="grc">῾Ο</w><w xml:id="birs0008-24" xml:lang="grc"><expan><abbr>θ</abbr><ex>εό</ex><abbr>ς</abbr>
+               </expan></w><w xml:id="birs0008-25" xml:lang="grc">τοῦ</w> <w xml:id="birs0008-26" xml:lang="grc">ἁγίου</w> <w xml:id="birs0008-27" xml:lang="grc">Στεφάνου</w> <w xml:id="birs0008-28" xml:lang="grc">μνήσθητι</w> <w xml:id="birs0008-29" xml:lang="grc">τὸν</w> <w xml:id="birs0008-30" xml:lang="grc">δοῦλον</w> <w xml:id="birs0008-31" xml:lang="grc">Σου</w> <w xml:id="birs0008-32" xml:lang="grc">Στεφάνου</w><w xml:id="birs0008-33" xml:lang="grc"><expan><abbr>πρεσβυτ</abbr><ex>έρου</ex></expan></w></p>
 </div>
 </body>
       <back>

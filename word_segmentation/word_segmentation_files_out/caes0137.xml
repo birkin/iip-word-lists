@@ -128,12 +128,8 @@
       <body>
          <div type="edition" ana="#b1" subtype="transcription" xml:id="caes0137.transcription" corresp="#caes0137.translation">
             <p>εἷς Θεὸς<lb/>Ἰού<hi rend="underline">δα</hi> βόθι<lb/>
-               <expan>
-                  <abbr>πρεσ</abbr><ex>βυτέρῳ</ex>
-               </expan>
-               <expan>
-                  <abbr>ἔτ</abbr><ex>ους</ex>
-               </expan>
+               <expan><abbr>πρεσ</abbr><ex>βυτέρῳ</ex></expan>
+               <expan><abbr>ἔτ</abbr><ex>ους</ex></expan>
                <num value="471">αού</num>.</p>
          </div>
          <div type="translation" ana="#b1" xml:id="caes0137.translation" corresp="#caes0137.transcription">
@@ -141,11 +137,7 @@
                   <persName xml:lang="hbo " ref="persons.xml#caes0137p01">Iouda </persName>
                </name> the <rs type="religTitle">elder</rs>.  In the year 471.</p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="caes0137-1" xml:lang="grc">εἷς</w> <w xml:id="caes0137-2" xml:lang="grc">Θεὸς</w> <w xml:id="caes0137-3" xml:lang="grc">Ἰού</w><w xml:id="caes0137-4" xml:lang="grc">βόθι</w><w xml:id="caes0137-5" xml:lang="grc"><expan>
-                  <abbr>πρεσ</abbr><ex>βυτέρῳ</ex>
-               </expan></w><w xml:id="caes0137-6" xml:lang="grc"><expan>
-                  <abbr>ἔτ</abbr><ex>ους</ex>
-               </expan></w><w xml:id="caes0137-7" xml:lang="grc">αού</w></p>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="caes0137-1" xml:lang="grc">εἷς</w> <w xml:id="caes0137-2" xml:lang="grc">Θεὸς</w> <w xml:id="caes0137-3" xml:lang="grc">Ἰού</w><w xml:id="caes0137-4" xml:lang="grc">βόθι</w><w xml:id="caes0137-5" xml:lang="grc"><expan><abbr>πρεσ</abbr><ex>βυτέρῳ</ex></expan></w><w xml:id="caes0137-6" xml:lang="grc"><expan><abbr>ἔτ</abbr><ex>ους</ex></expan></w><w xml:id="caes0137-7" xml:lang="grc">αού</w></p>
 </div>
 </body>
       <back>

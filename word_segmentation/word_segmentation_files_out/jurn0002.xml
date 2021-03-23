@@ -125,9 +125,7 @@
                <lb/>
                     Ζεβί<unclear>ν</unclear>
                <lb/>
-                    θα <expan>
-                  <abbr>ἐτ</abbr><ex>ῶν</ex>
-               </expan>
+                    θα <expan><abbr>ἐτ</abbr><ex>ῶν</ex></expan>
                <lb/>
                     κ´
                 </p>
@@ -136,9 +134,7 @@
             <p>Be of good courage, Zebintha! Twenty years old.
                 </p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="jurn0002-1" xml:lang="grc">θάρσ</w><w xml:id="jurn0002-2" xml:lang="grc"><supplied reason="undefined">ει</supplied></w><w xml:id="jurn0002-3" xml:lang="grc">Ζεβίν</w> <w xml:id="jurn0002-4" xml:lang="grc">θα</w><w xml:id="jurn0002-5" xml:lang="grc"><expan>
-                  <abbr>ἐτ</abbr><ex>ῶν</ex>
-               </expan></w><w xml:id="jurn0002-6" xml:lang="grc">κ´</w></p>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="jurn0002-1" xml:lang="grc">θάρσ</w><w xml:id="jurn0002-2" xml:lang="grc"><supplied reason="undefined">ει</supplied></w><w xml:id="jurn0002-3" xml:lang="grc">Ζεβίν</w> <w xml:id="jurn0002-4" xml:lang="grc">θα</w><w xml:id="jurn0002-5" xml:lang="grc"><expan><abbr>ἐτ</abbr><ex>ῶν</ex></expan></w><w xml:id="jurn0002-6" xml:lang="grc">κ´</w></p>
 </div>
 </body>
       <back>

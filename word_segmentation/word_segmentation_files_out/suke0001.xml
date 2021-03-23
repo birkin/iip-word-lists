@@ -125,24 +125,20 @@
             </p>
          </div>
          <div type="edition" ana="#b1" subtype="transcription" xml:id="suke0001.transcription" corresp="#suke0001.diplomatic #suke0001.translation">
-            <p>εἷς <expan>
-                  <abbr><unclear>θ</unclear></abbr><ex>εό</ex><abbr>ς</abbr>
+            <p>εἷς <expan><abbr><unclear>θ</unclear></abbr><ex>εό</ex><abbr>ς</abbr>
                </expan>
                <gap reason="lost" extent="unknown" unit="character"/>
                <lb/> ὑγί<unclear>α</unclear>
                <gap reason="lost" extent="unknown" unit="character"/>
-               <lb/> Γερμα<supplied reason="undefined" cert="low">νός
-               </supplied>
+               <lb/> Γερμα<supplied reason="undefined" cert="low">νός</supplied>
                <gap reason="lost" extent="unknown" unit="character"/>
             </p>
          </div>
          <div type="translation" ana="#b1" xml:id="suke0001.translation" corresp="#suke0001.diplomatic #suke0001.transcription">
             <p>(There is) one God....health....Germanus(?)</p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="suke0001-1" xml:lang="grc">εἷς</w><w xml:id="suke0001-2" xml:lang="grc"><expan>
-                  <abbr>θ</abbr><ex>εό</ex><abbr>ς</abbr>
-               </expan></w><w xml:id="suke0001-3" xml:lang="grc">ὑγία</w> <w xml:id="suke0001-4" xml:lang="grc">Γερμα</w><w xml:id="suke0001-5" xml:lang="grc"><supplied reason="undefined" cert="low">νός
-               </supplied></w></p>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="suke0001-1" xml:lang="grc">εἷς</w><w xml:id="suke0001-2" xml:lang="grc"><expan><abbr>θ</abbr><ex>εό</ex><abbr>ς</abbr>
+               </expan></w><w xml:id="suke0001-3" xml:lang="grc">ὑγία</w> <w xml:id="suke0001-4" xml:lang="grc">Γερμα</w><w xml:id="suke0001-5" xml:lang="grc"><supplied reason="undefined" cert="low">νός</supplied></w></p>
 </div>
 </body>
       <back>

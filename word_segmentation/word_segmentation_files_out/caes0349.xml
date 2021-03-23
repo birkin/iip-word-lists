@@ -120,19 +120,11 @@
             <p>
                <gap reason="illegible" quantity="2" unit="character"/>
                <supplied reason="undefined">
-                  <expan>
-                     <abbr>leg</abbr><ex>ionis</ex>
-                  </expan>
-               </supplied> X <expan>
-                  <abbr>Fr</abbr><ex>etensis</ex>
-               </expan>
+                  <expan><abbr>leg</abbr><ex>ionis</ex></expan>
+               </supplied> X <expan><abbr>Fr</abbr><ex>etensis</ex></expan>
             </p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="caes0349-1" xml:lang="la"><supplied reason="undefined"><w xml:id="caes0349-2" xml:lang="la"><expan>
-                     <abbr>leg</abbr><ex>ionis</ex>
-                  </expan></w></supplied></w><w xml:id="caes0349-3" xml:lang="la">X</w><w xml:id="caes0349-4" xml:lang="la"><expan>
-                  <abbr>Fr</abbr><ex>etensis</ex>
-               </expan></w></p>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="caes0349-1" xml:lang="la"><supplied reason="undefined"><w xml:id="caes0349-2" xml:lang="la"><expan><abbr>leg</abbr><ex>ionis</ex></expan></w></supplied></w><w xml:id="caes0349-3" xml:lang="la">X</w><w xml:id="caes0349-4" xml:lang="la"><expan><abbr>Fr</abbr><ex>etensis</ex></expan></w></p>
 </div>
 </body>
       <back>

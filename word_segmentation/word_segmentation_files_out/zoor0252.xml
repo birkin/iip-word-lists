@@ -127,9 +127,7 @@
                <lb/> μετὰ καλοῦ <choice><sic>ἀνώ<lb/>ματος</sic><corr>ὀνόματος</corr></choice> καὶ καλῆς<lb/> πίστεως ἐτῶν κεʹ,<lb/> τοῦ ἔτους
                     τϟδʹ,<lb/> ἐν μηνὶ Δίου εʹ,<lb/>
                <choice><sic>ἡμήρᾳ</sic><corr>ἡμέρᾳ</corr></choice>
-               <expan>
-                  <abbr>Κυ</abbr><ex>ρίου</ex>
-               </expan> ζʹ. <choice><sic>Θάρ<lb/>σι</sic><corr>Θάρσει</corr></choice>, <choice><sic>οὐδὶς</sic><corr>οὐδείς</corr></choice>
+               <expan><abbr>Κυ</abbr><ex>ρίου</ex></expan> ζʹ. <choice><sic>Θάρ<lb/>σι</sic><corr>Θάρσει</corr></choice>, <choice><sic>οὐδὶς</sic><corr>οὐδείς</corr></choice>
                <choice><sic>ἀθάνα<lb/>τας</sic><corr>ἀθάνατος</corr></choice>. + </p>
          </div>
          <div type="translation" ana="#b1" xml:id="zoor0252.translation" corresp="#zoor0252.transcription">
@@ -138,9 +136,7 @@
                     394, on (the) 5th (day) of the month Dios, on (the) 7th day of the (the) Lord
                     (Saturday). Be of good cheer, no one (is) immortal.</p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="zoor0252-1" xml:lang="grc">Εἶς</w> <w xml:id="zoor0252-2" xml:lang="grc">θεός</w> <w xml:id="zoor0252-3" xml:lang="grc">ὁ</w> <w xml:id="zoor0252-4" xml:lang="grc">πάν</w> <w xml:id="zoor0252-5" xml:lang="grc">των</w> <w xml:id="zoor0252-6" xml:lang="grc">Δεσπότης</w> <w xml:id="zoor0252-7" xml:lang="grc">Μνημεῖον</w> <w xml:id="zoor0252-8" xml:lang="grc">Οὐαιβάννη</w> <w xml:id="zoor0252-9" xml:lang="grc">Ἀβραμίου</w> <w xml:id="zoor0252-10" xml:lang="grc">ἀποθανόντος</w> <w xml:id="zoor0252-11" xml:lang="grc">μετὰ</w> <w xml:id="zoor0252-12" xml:lang="grc">καλοῦ</w> <w xml:id="zoor0252-13" xml:lang="grc">ὀνόματος</w> <w xml:id="zoor0252-14" xml:lang="grc">καὶ</w> <w xml:id="zoor0252-15" xml:lang="grc">καλῆς</w> <w xml:id="zoor0252-16" xml:lang="grc">πίστεως</w> <w xml:id="zoor0252-17" xml:lang="grc">ἐτῶν</w> <w xml:id="zoor0252-18" xml:lang="grc">κε</w> <w xml:id="zoor0252-19" xml:lang="grc">τοῦ</w> <w xml:id="zoor0252-20" xml:lang="grc">ἔτους</w> <w xml:id="zoor0252-21" xml:lang="grc">τϟδ</w> <w xml:id="zoor0252-22" xml:lang="grc">ἐν</w> <w xml:id="zoor0252-23" xml:lang="grc">μηνὶ</w> <w xml:id="zoor0252-24" xml:lang="grc">Δίου</w> <w xml:id="zoor0252-25" xml:lang="grc">ε</w> <w xml:id="zoor0252-26" xml:lang="grc">ἡμέρᾳ</w><w xml:id="zoor0252-27" xml:lang="grc"><expan>
-                  <abbr>Κυ</abbr><ex>ρίου</ex>
-               </expan></w><w xml:id="zoor0252-28" xml:lang="grc">ζ</w> <w xml:id="zoor0252-29" xml:lang="grc">Θάρσει</w> <w xml:id="zoor0252-30" xml:lang="grc">οὐδείς</w> <w xml:id="zoor0252-31" xml:lang="grc">ἀθάνατος</w></p>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="zoor0252-1" xml:lang="grc">Εἶς</w> <w xml:id="zoor0252-2" xml:lang="grc">θεός</w> <w xml:id="zoor0252-3" xml:lang="grc">ὁ</w> <w xml:id="zoor0252-4" xml:lang="grc">πάν</w> <w xml:id="zoor0252-5" xml:lang="grc">των</w> <w xml:id="zoor0252-6" xml:lang="grc">Δεσπότης</w> <w xml:id="zoor0252-7" xml:lang="grc">Μνημεῖον</w> <w xml:id="zoor0252-8" xml:lang="grc">Οὐαιβάννη</w> <w xml:id="zoor0252-9" xml:lang="grc">Ἀβραμίου</w> <w xml:id="zoor0252-10" xml:lang="grc">ἀποθανόντος</w> <w xml:id="zoor0252-11" xml:lang="grc">μετὰ</w> <w xml:id="zoor0252-12" xml:lang="grc">καλοῦ</w> <w xml:id="zoor0252-13" xml:lang="grc">ὀνόματος</w> <w xml:id="zoor0252-14" xml:lang="grc">καὶ</w> <w xml:id="zoor0252-15" xml:lang="grc">καλῆς</w> <w xml:id="zoor0252-16" xml:lang="grc">πίστεως</w> <w xml:id="zoor0252-17" xml:lang="grc">ἐτῶν</w> <w xml:id="zoor0252-18" xml:lang="grc">κε</w> <w xml:id="zoor0252-19" xml:lang="grc">τοῦ</w> <w xml:id="zoor0252-20" xml:lang="grc">ἔτους</w> <w xml:id="zoor0252-21" xml:lang="grc">τϟδ</w> <w xml:id="zoor0252-22" xml:lang="grc">ἐν</w> <w xml:id="zoor0252-23" xml:lang="grc">μηνὶ</w> <w xml:id="zoor0252-24" xml:lang="grc">Δίου</w> <w xml:id="zoor0252-25" xml:lang="grc">ε</w> <w xml:id="zoor0252-26" xml:lang="grc">ἡμέρᾳ</w><w xml:id="zoor0252-27" xml:lang="grc"><expan><abbr>Κυ</abbr><ex>ρίου</ex></expan></w><w xml:id="zoor0252-28" xml:lang="grc">ζ</w> <w xml:id="zoor0252-29" xml:lang="grc">Θάρσει</w> <w xml:id="zoor0252-30" xml:lang="grc">οὐδείς</w> <w xml:id="zoor0252-31" xml:lang="grc">ἀθάνατος</w></p>
 </div>
 </body>
       <back>

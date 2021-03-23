@@ -129,18 +129,14 @@
          </div>
          <div type="edition" ana="#b1" subtype="transcription" xml:id="hamm0038.transcription" corresp="#hamm0038.diplomatic #hamm0038.translation">
             <p> Ἐν τῷ καλῷ τόπ<supplied reason="undefined">ῳ</supplied>
-               <lb/> μνεισθῇ Ἠλίας <expan>
-                  <abbr>κ</abbr><ex>αὶ</ex>
-               </expan>
+               <lb/> μνεισθῇ Ἠλίας <expan><abbr>κ</abbr><ex>αὶ</ex></expan>
                <expan><abbr>σεβ<supplied reason="undefined">ί</supplied><lb break="no"/>ο</abbr><ex>υ</ex></expan> Μαρία<supplied reason="undefined">ς</supplied> Βοσ<surplus>σ</surplus>τρ<supplied reason="undefined">ην</supplied>ῆς<lb/> μετὰ τῶν ἀγαπόντων αὐτο<supplied reason="undefined">ύς</supplied>. </p>
          </div>
          <div type="translation" xml:id="hamm0038.translation" corresp="#hamm0038.diplomatic #hamm0038.transcription">
             <p>In this beautiful place may <persName xml:lang="x-Semitic " ref="persons.xml#hamm0038p01">Elias </persName> be remembered, and <persName ref="persons.xml#hamm0038p02">Mary </persName>
                <rs type="ethnicon">of Bostra</rs>, his <rs type="family">wife</rs>, with all who love them.</p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="hamm0038-1" xml:lang="grc">Ἐν</w> <w xml:id="hamm0038-2" xml:lang="grc">τῷ</w> <w xml:id="hamm0038-3" xml:lang="grc">καλῷ</w> <w xml:id="hamm0038-4" xml:lang="grc">τόπ</w><w xml:id="hamm0038-5" xml:lang="grc"><supplied reason="undefined">ῳ</supplied></w><w xml:id="hamm0038-6" xml:lang="grc">μνεισθῇ</w> <w xml:id="hamm0038-7" xml:lang="grc">Ἠλίας</w><w xml:id="hamm0038-8" xml:lang="grc"><expan>
-                  <abbr>κ</abbr><ex>αὶ</ex>
-               </expan></w><w xml:id="hamm0038-9" xml:lang="grc"><expan><abbr>σεβ<w xml:id="hamm0038-10" xml:lang="grc"><supplied reason="undefined">ί</supplied></w>ο</abbr><ex>υ</ex></expan></w><w xml:id="hamm0038-11" xml:lang="grc">Μαρία</w><w xml:id="hamm0038-12" xml:lang="grc"><supplied reason="undefined">ς</supplied></w><w xml:id="hamm0038-13" xml:lang="grc">Βοσ</w><w xml:id="hamm0038-14" xml:lang="grc">τρ</w><w xml:id="hamm0038-15" xml:lang="grc"><supplied reason="undefined">ην</supplied></w><w xml:id="hamm0038-16" xml:lang="grc">ῆς</w> <w xml:id="hamm0038-17" xml:lang="grc">μετὰ</w> <w xml:id="hamm0038-18" xml:lang="grc">τῶν</w> <w xml:id="hamm0038-19" xml:lang="grc">ἀγαπόντων</w> <w xml:id="hamm0038-20" xml:lang="grc">αὐτο</w><w xml:id="hamm0038-21" xml:lang="grc"><supplied reason="undefined">ύς</supplied></w></p>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="hamm0038-1" xml:lang="grc">Ἐν</w> <w xml:id="hamm0038-2" xml:lang="grc">τῷ</w> <w xml:id="hamm0038-3" xml:lang="grc">καλῷ</w> <w xml:id="hamm0038-4" xml:lang="grc">τόπ</w><w xml:id="hamm0038-5" xml:lang="grc"><supplied reason="undefined">ῳ</supplied></w><w xml:id="hamm0038-6" xml:lang="grc">μνεισθῇ</w> <w xml:id="hamm0038-7" xml:lang="grc">Ἠλίας</w><w xml:id="hamm0038-8" xml:lang="grc"><expan><abbr>κ</abbr><ex>αὶ</ex></expan></w><w xml:id="hamm0038-9" xml:lang="grc"><expan><abbr>σεβ<w xml:id="hamm0038-10" xml:lang="grc"><supplied reason="undefined">ί</supplied></w>ο</abbr><ex>υ</ex></expan></w><w xml:id="hamm0038-11" xml:lang="grc">Μαρία</w><w xml:id="hamm0038-12" xml:lang="grc"><supplied reason="undefined">ς</supplied></w><w xml:id="hamm0038-13" xml:lang="grc">Βοσ</w><w xml:id="hamm0038-14" xml:lang="grc">τρ</w><w xml:id="hamm0038-15" xml:lang="grc"><supplied reason="undefined">ην</supplied></w><w xml:id="hamm0038-16" xml:lang="grc">ῆς</w> <w xml:id="hamm0038-17" xml:lang="grc">μετὰ</w> <w xml:id="hamm0038-18" xml:lang="grc">τῶν</w> <w xml:id="hamm0038-19" xml:lang="grc">ἀγαπόντων</w> <w xml:id="hamm0038-20" xml:lang="grc">αὐτο</w><w xml:id="hamm0038-21" xml:lang="grc"><supplied reason="undefined">ύς</supplied></w></p>
 </div>
 </body>
       <back>

@@ -126,8 +126,7 @@
             </div>
             <div type="edition" subtype="transcription" ana="b1" xml:lang="heb">
                 <p>שלום אם <expan cert="low">
-                  <abbr>כנ</abbr><ex>סת</ex>
-               </expan>
+                  <abbr>כנ</abbr><ex>סת</ex></expan>
                <lb/>חזרעטיה</p>
             </div>
             <div type="translation" ana="b1">
@@ -138,8 +137,7 @@
                     poses that it either refers to the origin on the woman or to the synagogue.</p>
             </div>
         <div type="edition" subtype="transcription_segmented"><p><w xml:id="jeru0419-1" xml:lang="he">שלום</w> <w xml:id="jeru0419-2" xml:lang="he">אם</w><w xml:id="jeru0419-3" xml:lang="he"><expan>
-                  <abbr>כנ</abbr><ex>סת</ex>
-               </expan></w><w xml:id="jeru0419-4" xml:lang="he">חזרעטיה</w></p>
+                  <abbr>כנ</abbr><ex>סת</ex></expan></w><w xml:id="jeru0419-4" xml:lang="he">חזרעטיה</w></p>
 </div>
 </body>
         <back>

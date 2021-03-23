@@ -124,17 +124,13 @@
             <p>
                <unclear>Αλ</unclear>αφ<lb/>
                     α Οτα<lb/>
-                    ρα <expan>
-                  <abbr>ἐτ</abbr><ex>ῶν</ex>
-               </expan> λ´
+                    ρα <expan><abbr>ἐτ</abbr><ex>ῶν</ex></expan> λ´
                 </p>
          </div>
          <div type="translation" ana="#b1" xml:id="farj0005.translation" corresp="#farj0005.diplomatic #farj0005.transcription">
             <p>Alapha, daughter of Otaras. Thirty years old.</p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="farj0005-1" xml:lang="grc">Αλαφ</w> <w xml:id="farj0005-2" xml:lang="grc">α</w> <w xml:id="farj0005-3" xml:lang="grc">Οτα</w> <w xml:id="farj0005-4" xml:lang="grc">ρα</w><w xml:id="farj0005-5" xml:lang="grc"><expan>
-                  <abbr>ἐτ</abbr><ex>ῶν</ex>
-               </expan></w><w xml:id="farj0005-6" xml:lang="grc">λ´</w></p>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="farj0005-1" xml:lang="grc">Αλαφ</w> <w xml:id="farj0005-2" xml:lang="grc">α</w> <w xml:id="farj0005-3" xml:lang="grc">Οτα</w> <w xml:id="farj0005-4" xml:lang="grc">ρα</w><w xml:id="farj0005-5" xml:lang="grc"><expan><abbr>ἐτ</abbr><ex>ῶν</ex></expan></w><w xml:id="farj0005-6" xml:lang="grc">λ´</w></p>
 </div>
 </body>
       <back>

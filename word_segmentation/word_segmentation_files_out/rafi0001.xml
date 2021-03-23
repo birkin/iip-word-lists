@@ -120,18 +120,14 @@
          </div>
          <div type="edition" ana="#b1" subtype="transcription" xml:id="rafi0001.transcription" corresp="#rafi0001.diplomatic #rafi0001.translation">
             <p>ζ<choice><corr>ω</corr><sic>ο</sic>
-               </choice>ή + <expan>
-                  <abbr><unclear>Χ</unclear></abbr><ex cert="low">ριστός</ex>
-               </expan>
+               </choice>ή + <expan><abbr><unclear>Χ</unclear></abbr><ex cert="low">ριστός</ex></expan>
             </p>
          </div>
          <div type="translation" ana="#b1" xml:id="rafi0001.translation" corresp="#rafi0001.diplomatic #rafi0001.transcription">
             <p>Life! + Christ!
                 </p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="rafi0001-1" xml:lang="grc">ζω</w> <w xml:id="rafi0001-2" xml:lang="grc">ή</w><w xml:id="rafi0001-3" xml:lang="grc"><expan>
-                  <abbr>Χ</abbr><ex cert="low">ριστός</ex>
-               </expan></w></p>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="rafi0001-1" xml:lang="grc">ζω</w> <w xml:id="rafi0001-2" xml:lang="grc">ή</w><w xml:id="rafi0001-3" xml:lang="grc"><expan><abbr>Χ</abbr><ex cert="low">ριστός</ex></expan></w></p>
 </div>
 </body>
       <back>

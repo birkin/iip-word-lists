@@ -119,33 +119,17 @@
          </div>
          <div type="edition" ana="#b1" xml:lang="grc" subtype="transcription" xml:id="ulat0001.transcription" corresp="#ulat0001.diplomatic #ulat0001.translation">
             <p>
-               <supplied reason="undefined">Διο</supplied>κλητιανὸς και <lb/>Μαξιμιανὸς <expan>
-                  <abbr>Σεβ</abbr><ex>αστοὶ</ex>
-               </expan>
+               <supplied reason="undefined">Διο</supplied>κλητιανὸς και <lb/>Μαξιμιανὸς <expan><abbr>Σεβ</abbr><ex>αστοὶ</ex></expan>
                <lb/>Κωνστάντιος καὶ
-                    <lb/>Μαξιμιανὸς Καί<lb/>σαρες <lb/>λίθον διορίζοντα <lb/>ἀγροὺς <expan>
-                  <abbr>κω</abbr><ex>μῶν</ex>
-               </expan>
-                    Γαλα<lb/>νιας καὶ Μιγηρα<lb/>μης στηριχθῆνε <lb/>ἐκέλευσαν φροντί<lb/>δι <expan>
-                  <abbr>Αἰλ</abbr><ex>ίου</ex>
-               </expan> Στατούτου<lb/>τοῦ 
-                    <expan>
-                  <abbr>διασημ</abbr><ex>οτάτου</ex>
-               </expan>
+                    <lb/>Μαξιμιανὸς Καί<lb/>σαρες <lb/>λίθον διορίζοντα <lb/>ἀγροὺς <expan><abbr>κω</abbr><ex>μῶν</ex></expan>
+                    Γαλα<lb/>νιας καὶ Μιγηρα<lb/>μης στηριχθῆνε <lb/>ἐκέλευσαν φροντί<lb/>δι <expan><abbr>Αἰλ</abbr><ex>ίου</ex></expan> Στατούτου<lb/>τοῦ 
+                    <expan><abbr>διασημ</abbr><ex>οτάτου</ex></expan>
             </p>
          </div>
          <div type="translation" ana="#b1" xml:id="ulat0001.translation" corresp="#ulat0001.diplomatic #ulat0001.transcription">
             <p>The Augusti Diocletianus and Maximianus, the Caesars Constantius and Maximianus, ordered the erection of the stone which divides the lands of the villages of Galania and Mirgerame by the most eminent Aelius Statutus.</p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="ulat0001-1" xml:lang="grc"><supplied reason="undefined">Διο</supplied></w><w xml:id="ulat0001-2" xml:lang="grc">κλητιανὸς</w> <w xml:id="ulat0001-3" xml:lang="grc">και</w> <w xml:id="ulat0001-4" xml:lang="grc">Μαξιμιανὸς</w><w xml:id="ulat0001-5" xml:lang="grc"><expan>
-                  <abbr>Σεβ</abbr><ex>αστοὶ</ex>
-               </expan></w><w xml:id="ulat0001-6" xml:lang="grc">Κωνστάντιος</w> <w xml:id="ulat0001-7" xml:lang="grc">καὶ</w> <w xml:id="ulat0001-8" xml:lang="grc">Μαξιμιανὸς</w> <w xml:id="ulat0001-9" xml:lang="grc">Καί</w> <w xml:id="ulat0001-10" xml:lang="grc">σαρες</w> <w xml:id="ulat0001-11" xml:lang="grc">λίθον</w> <w xml:id="ulat0001-12" xml:lang="grc">διορίζοντα</w> <w xml:id="ulat0001-13" xml:lang="grc">ἀγροὺς</w><w xml:id="ulat0001-14" xml:lang="grc"><expan>
-                  <abbr>κω</abbr><ex>μῶν</ex>
-               </expan></w><w xml:id="ulat0001-15" xml:lang="grc">Γαλα</w> <w xml:id="ulat0001-16" xml:lang="grc">νιας</w> <w xml:id="ulat0001-17" xml:lang="grc">καὶ</w> <w xml:id="ulat0001-18" xml:lang="grc">Μιγηρα</w> <w xml:id="ulat0001-19" xml:lang="grc">μης</w> <w xml:id="ulat0001-20" xml:lang="grc">στηριχθῆνε</w> <w xml:id="ulat0001-21" xml:lang="grc">ἐκέλευσαν</w> <w xml:id="ulat0001-22" xml:lang="grc">φροντί</w> <w xml:id="ulat0001-23" xml:lang="grc">δι</w><w xml:id="ulat0001-24" xml:lang="grc"><expan>
-                  <abbr>Αἰλ</abbr><ex>ίου</ex>
-               </expan></w><w xml:id="ulat0001-25" xml:lang="grc">Στατούτου</w> <w xml:id="ulat0001-26" xml:lang="grc">τοῦ</w><w xml:id="ulat0001-27" xml:lang="grc"><expan>
-                  <abbr>διασημ</abbr><ex>οτάτου</ex>
-               </expan></w></p>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="ulat0001-1" xml:lang="grc"><supplied reason="undefined">Διο</supplied></w><w xml:id="ulat0001-2" xml:lang="grc">κλητιανὸς</w> <w xml:id="ulat0001-3" xml:lang="grc">και</w> <w xml:id="ulat0001-4" xml:lang="grc">Μαξιμιανὸς</w><w xml:id="ulat0001-5" xml:lang="grc"><expan><abbr>Σεβ</abbr><ex>αστοὶ</ex></expan></w><w xml:id="ulat0001-6" xml:lang="grc">Κωνστάντιος</w> <w xml:id="ulat0001-7" xml:lang="grc">καὶ</w> <w xml:id="ulat0001-8" xml:lang="grc">Μαξιμιανὸς</w> <w xml:id="ulat0001-9" xml:lang="grc">Καί</w> <w xml:id="ulat0001-10" xml:lang="grc">σαρες</w> <w xml:id="ulat0001-11" xml:lang="grc">λίθον</w> <w xml:id="ulat0001-12" xml:lang="grc">διορίζοντα</w> <w xml:id="ulat0001-13" xml:lang="grc">ἀγροὺς</w><w xml:id="ulat0001-14" xml:lang="grc"><expan><abbr>κω</abbr><ex>μῶν</ex></expan></w><w xml:id="ulat0001-15" xml:lang="grc">Γαλα</w> <w xml:id="ulat0001-16" xml:lang="grc">νιας</w> <w xml:id="ulat0001-17" xml:lang="grc">καὶ</w> <w xml:id="ulat0001-18" xml:lang="grc">Μιγηρα</w> <w xml:id="ulat0001-19" xml:lang="grc">μης</w> <w xml:id="ulat0001-20" xml:lang="grc">στηριχθῆνε</w> <w xml:id="ulat0001-21" xml:lang="grc">ἐκέλευσαν</w> <w xml:id="ulat0001-22" xml:lang="grc">φροντί</w> <w xml:id="ulat0001-23" xml:lang="grc">δι</w><w xml:id="ulat0001-24" xml:lang="grc"><expan><abbr>Αἰλ</abbr><ex>ίου</ex></expan></w><w xml:id="ulat0001-25" xml:lang="grc">Στατούτου</w> <w xml:id="ulat0001-26" xml:lang="grc">τοῦ</w><w xml:id="ulat0001-27" xml:lang="grc"><expan><abbr>διασημ</abbr><ex>οτάτου</ex></expan></w></p>
 </div>
 </body>
       <back>

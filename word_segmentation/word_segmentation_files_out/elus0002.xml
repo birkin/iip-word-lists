@@ -118,16 +118,14 @@
       <body>
          <div type="edition" ana="#b1" xml:lang="grc" subtype="transcription" xml:id="elus0002.transcription" corresp="#elus0002.translation">
             <p>
-               <expan>
-                  <abbr>Στεφάν</abbr><ex>o</ex><abbr>υ</abbr>
+               <expan><abbr>Στεφάν</abbr><ex>o</ex><abbr>υ</abbr>
                </expan>
                <lb/>Ἱλαρίου</p>
          </div>
          <div type="translation" ana="#b1" xml:id="elus0002.translation" corresp="#elus0002.transcription">
             <p>Stephan son of Hilarios</p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="elus0002-1" xml:lang="grc"><expan>
-                  <abbr>Στεφάν</abbr><ex>o</ex><abbr>υ</abbr>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="elus0002-1" xml:lang="grc"><expan><abbr>Στεφάν</abbr><ex>o</ex><abbr>υ</abbr>
                </expan></w><w xml:id="elus0002-2" xml:lang="grc">Ἱλαρίου</w></p>
 </div>
 </body>

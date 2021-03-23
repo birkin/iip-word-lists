@@ -183,9 +183,7 @@
             <div type="edition" subtype="transcription" ana="b1">
                 <p>
                <gap reason="lost" unit="character" extent="unknown"/>
-               <expan>
-                  <abbr><unclear>L</unclear>e<unclear>g</unclear></abbr><ex>io</ex>
-               </expan>
+               <expan><abbr><unclear>L</unclear>e<unclear>g</unclear></abbr><ex>io</ex></expan>
                <gap reason="lost" unit="character" quantity="4"/>
                <g type="symbol" cert="low"/>
                     <orig>
@@ -194,9 +192,7 @@
                   </hi>
                </orig>
                     <space unit="character" extent="unknown"/>
-                    <expan>
-                  <abbr><hi rend="ligature"><unclear>fr</unclear></hi>e</abbr><ex>tensis</ex>
-               </expan>
+                    <expan><abbr><hi rend="ligature"><unclear>fr</unclear></hi>e</abbr><ex>tensis</ex></expan>
             </p>
             </div>
             <div type="translation" ana="b1">
@@ -206,11 +202,7 @@
                 <p>"AU" is unlikely to be the abbreviation for "Augusta" because there is no
                     evidence that the Tenth Legion ever received the epithet Augusta.</p>
             </div>
-        <div type="edition" subtype="transcription_segmented"><p><w xml:id="masa0853-1" xml:lang="la"><expan>
-                  <abbr>Leg</abbr><ex>io</ex>
-               </expan></w><w xml:id="masa0853-2" xml:lang="la"><expan>
-                  <abbr><hi rend="ligature">fr</hi>e</abbr><ex>tensis</ex>
-               </expan></w></p>
+        <div type="edition" subtype="transcription_segmented"><p><w xml:id="masa0853-1" xml:lang="la"><expan><abbr>Leg</abbr><ex>io</ex></expan></w><w xml:id="masa0853-2" xml:lang="la"><expan><abbr><hi rend="ligature">fr</hi>e</abbr><ex>tensis</ex></expan></w></p>
 </div>
 </body>
         <back>

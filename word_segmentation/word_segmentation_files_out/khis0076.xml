@@ -123,9 +123,7 @@
          </div>
          <div type="edition" ana="#b1" subtype="transcription" xml:id="khis0076.transcription" corresp="#khis0076.diplomatic #khis0076.translation">
             <p>θάρσι <lb/> Σαβῖνα <lb/>
-               <expan>
-                  <abbr>ἐτ</abbr><ex>ῶν</ex>
-               </expan>
+               <expan><abbr>ἐτ</abbr><ex>ῶν</ex></expan>
                <num value="100">ρ´</num>
             </p>
          </div>
@@ -133,9 +131,7 @@
             <p>Be of good courage, Sabina! One hundred years old.
 				</p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="khis0076-1" xml:lang="grc">θάρσι</w> <w xml:id="khis0076-2" xml:lang="grc">Σαβῖνα</w><w xml:id="khis0076-3" xml:lang="grc"><expan>
-                  <abbr>ἐτ</abbr><ex>ῶν</ex>
-               </expan></w><w xml:id="khis0076-4" xml:lang="grc">ρ</w></p>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="khis0076-1" xml:lang="grc">θάρσι</w> <w xml:id="khis0076-2" xml:lang="grc">Σαβῖνα</w><w xml:id="khis0076-3" xml:lang="grc"><expan><abbr>ἐτ</abbr><ex>ῶν</ex></expan></w><w xml:id="khis0076-4" xml:lang="grc">ρ</w></p>
 </div>
 </body>
       <back>

@@ -115,64 +115,28 @@
       <body>
          <div type="edition" ana="#b1" xml:lang="lat" subtype="transcription" xml:id="emma0001.transcription" corresp="#emma0001.translation">
             <p>
-               <expan>
-                  <abbr>P</abbr><ex>ublius</ex>
-               </expan> Oppi<supplied reason="undefined">us</supplied> <gap reason="illegible" quantity="2" unit="character"/> <supplied reason="undefined"><expan><abbr>f</abbr><ex>ilius</ex></expan>
+               <expan><abbr>P</abbr><ex>ublius</ex></expan> Oppi<supplied reason="undefined">us</supplied> <gap reason="illegible" quantity="2" unit="character"/> <supplied reason="undefined"><expan><abbr>f</abbr><ex>ilius</ex></expan>
                </supplied>
                <lb/>Camilia<gap reason="illegible" quantity="3" unit="character"/>
                <lb/><orig>cio</orig>
                <choice><sic>Rave<supplied reason="undefined">na</supplied>
                   </sic><corr>Ravenna</corr></choice>
-               <lb/>miles <expan>
-                  <abbr>leg</abbr><ex>ionis</ex>
-               </expan> V <lb/>
-               <expan>
-                  <abbr>Mac</abbr><ex>edonicae</ex>
-               </expan>, optio, <lb/>vixit <choice><sic>anos</sic><corr>annos</corr></choice>
-               <lb/>XXX, <expan>
-                  <abbr>milita</abbr><ex>vit</ex>
-               </expan>
+               <lb/>miles <expan><abbr>leg</abbr><ex>ionis</ex></expan> V <lb/>
+               <expan><abbr>Mac</abbr><ex>edonicae</ex></expan>, optio, <lb/>vixit <choice><sic>anos</sic><corr>annos</corr></choice>
+               <lb/>XXX, <expan><abbr>milita</abbr><ex>vit</ex></expan>
                <lb/>annos VIIII. <lb/>
-               <expan>
-                  <abbr>H</abbr><ex>ic</ex>
-               </expan>
-               <expan>
-                  <abbr>s</abbr><ex>itus</ex>
-               </expan>
-               <expan>
-                  <abbr>e</abbr><ex>st</ex>
-               </expan>. <lb/>
-               <expan>
-                  <abbr>H</abbr><ex>eres</ex>
-               </expan>
-               <expan>
-                  <abbr>f</abbr><ex>ecit</ex>
-               </expan>.</p>
+               <expan><abbr>H</abbr><ex>ic</ex></expan>
+               <expan><abbr>s</abbr><ex>itus</ex></expan>
+               <expan><abbr>e</abbr><ex>st</ex></expan>. <lb/>
+               <expan><abbr>H</abbr><ex>eres</ex></expan>
+               <expan><abbr>f</abbr><ex>ecit</ex></expan>.</p>
          </div>
          <div type="translation" ana="#b1" xml:id="emma0001.translation" corresp="#emma0001.transcription">
             <p>P(ublius) Oppi[us, son of...], of (the tribe of) Camilia, ...cio, of Ravenna, soldier
                of the Legio V Macedonica, (of the rank of) optio, lived 30 years, served in the army
                nine years (and) is buried here. (His) heir made (this tombstone).</p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="emma0001-1" xml:lang="la"><expan>
-                  <abbr>P</abbr><ex>ublius</ex>
-               </expan></w><w xml:id="emma0001-2" xml:lang="la">Oppi</w><w xml:id="emma0001-3" xml:lang="la"><supplied reason="undefined">us</supplied></w><w xml:id="emma0001-4" xml:lang="la"><supplied reason="undefined"><w xml:id="emma0001-5" xml:lang="la"><expan><abbr>f</abbr><ex>ilius</ex></expan></w></supplied></w><w xml:id="emma0001-6" xml:lang="la">Camilia</w> <w xml:id="emma0001-7" xml:lang="la">Rave</w><w xml:id="emma0001-8" xml:lang="la"><supplied reason="undefined">na</supplied></w><w xml:id="emma0001-9" xml:lang="la">Ravenna</w> <w xml:id="emma0001-10" xml:lang="la">miles</w><w xml:id="emma0001-11" xml:lang="la"><expan>
-                  <abbr>leg</abbr><ex>ionis</ex>
-               </expan></w><w xml:id="emma0001-12" xml:lang="la">V</w><w xml:id="emma0001-13" xml:lang="la"><expan>
-                  <abbr>Mac</abbr><ex>edonicae</ex>
-               </expan></w><w xml:id="emma0001-14" xml:lang="la">optio</w> <w xml:id="emma0001-15" xml:lang="la">vixit</w> <w xml:id="emma0001-16" xml:lang="la">annos</w> <w xml:id="emma0001-17" xml:lang="la">XXX</w><w xml:id="emma0001-18" xml:lang="la"><expan>
-                  <abbr>milita</abbr><ex>vit</ex>
-               </expan></w><w xml:id="emma0001-19" xml:lang="la">annos</w> <w xml:id="emma0001-20" xml:lang="la">VIIII</w><w xml:id="emma0001-21" xml:lang="la"><expan>
-                  <abbr>H</abbr><ex>ic</ex>
-               </expan></w><w xml:id="emma0001-22" xml:lang="la"><expan>
-                  <abbr>s</abbr><ex>itus</ex>
-               </expan></w><w xml:id="emma0001-23" xml:lang="la"><expan>
-                  <abbr>e</abbr><ex>st</ex>
-               </expan></w><w xml:id="emma0001-24" xml:lang="la"><expan>
-                  <abbr>H</abbr><ex>eres</ex>
-               </expan></w><w xml:id="emma0001-25" xml:lang="la"><expan>
-                  <abbr>f</abbr><ex>ecit</ex>
-               </expan></w></p>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="emma0001-1" xml:lang="la"><expan><abbr>P</abbr><ex>ublius</ex></expan></w><w xml:id="emma0001-2" xml:lang="la">Oppi</w><w xml:id="emma0001-3" xml:lang="la"><supplied reason="undefined">us</supplied></w><w xml:id="emma0001-4" xml:lang="la"><supplied reason="undefined"><w xml:id="emma0001-5" xml:lang="la"><expan><abbr>f</abbr><ex>ilius</ex></expan></w></supplied></w><w xml:id="emma0001-6" xml:lang="la">Camilia</w> <w xml:id="emma0001-7" xml:lang="la">Rave</w><w xml:id="emma0001-8" xml:lang="la"><supplied reason="undefined">na</supplied></w><w xml:id="emma0001-9" xml:lang="la">Ravenna</w> <w xml:id="emma0001-10" xml:lang="la">miles</w><w xml:id="emma0001-11" xml:lang="la"><expan><abbr>leg</abbr><ex>ionis</ex></expan></w><w xml:id="emma0001-12" xml:lang="la">V</w><w xml:id="emma0001-13" xml:lang="la"><expan><abbr>Mac</abbr><ex>edonicae</ex></expan></w><w xml:id="emma0001-14" xml:lang="la">optio</w> <w xml:id="emma0001-15" xml:lang="la">vixit</w> <w xml:id="emma0001-16" xml:lang="la">annos</w> <w xml:id="emma0001-17" xml:lang="la">XXX</w><w xml:id="emma0001-18" xml:lang="la"><expan><abbr>milita</abbr><ex>vit</ex></expan></w><w xml:id="emma0001-19" xml:lang="la">annos</w> <w xml:id="emma0001-20" xml:lang="la">VIIII</w><w xml:id="emma0001-21" xml:lang="la"><expan><abbr>H</abbr><ex>ic</ex></expan></w><w xml:id="emma0001-22" xml:lang="la"><expan><abbr>s</abbr><ex>itus</ex></expan></w><w xml:id="emma0001-23" xml:lang="la"><expan><abbr>e</abbr><ex>st</ex></expan></w><w xml:id="emma0001-24" xml:lang="la"><expan><abbr>H</abbr><ex>eres</ex></expan></w><w xml:id="emma0001-25" xml:lang="la"><expan><abbr>f</abbr><ex>ecit</ex></expan></w></p>
 </div>
 </body>
       <back>

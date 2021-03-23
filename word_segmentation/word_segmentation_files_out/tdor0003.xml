@@ -173,22 +173,14 @@
             </div>
             <div type="edition" subtype="transcription" ana="b1">
                 <p>
-                    <expan>
-                  <abbr>Τρύφων<unclear>ο</unclear></abbr><ex>ς</ex>
-                    </expan>
+                    <expan><abbr>Τρύφων<unclear>ο</unclear></abbr><ex>ς</ex></expan>
                     <lb/>νί<unclear>κη</unclear>
                     <lb/>
                     <foreign xml:lang="heb">
-                  <expan>
-                     <abbr>ד</abbr><ex>אר</ex>
-                        </expan>
+                  <expan><abbr>ד</abbr><ex>אר</ex></expan>
                </foreign> ε<lb/>
-                    <expan>
-                  <abbr>Δω</abbr><ex>ριτῶν</ex>
-                    </expan>
-                    <expan>
-                  <abbr>π</abbr><ex>όλεως</ex>
-                    </expan>. Ῥοῦ<lb/>γεῦσαι </p>
+                    <expan><abbr>Δω</abbr><ex>ριτῶν</ex></expan>
+                    <expan><abbr>π</abbr><ex>όλεως</ex></expan>. Ῥοῦ<lb/>γεῦσαι </p>
             </div>
             <div type="translation" ana="b1">
                 <p>For the victory<lb/>of Tryphon<lb/>Dor. Year 5.<lb/>Of the city of Dorians.
@@ -199,13 +191,7 @@
             </div>
             <!-- The bibl has more contained elements. What is the possible list of values of the biblScope/@type? 
              -->
-        <div type="edition" subtype="transcription_segmented"><p><w xml:id="tdor0003-1" xml:lang="grc"><expan>
-                  <abbr>Τρύφωνο</abbr><ex>ς</ex>
-                    </expan></w><w xml:id="tdor0003-2" xml:lang="grc">νίκη</w><w xml:id="tdor0003-3" xml:lang="grc">ε</w><w xml:id="tdor0003-4" xml:lang="grc"><expan>
-                  <abbr>Δω</abbr><ex>ριτῶν</ex>
-                    </expan></w><w xml:id="tdor0003-5" xml:lang="grc"><expan>
-                  <abbr>π</abbr><ex>όλεως</ex>
-                    </expan></w><w xml:id="tdor0003-6" xml:lang="grc">Ῥοῦ</w> <w xml:id="tdor0003-7" xml:lang="grc">γεῦσαι</w></p>
+        <div type="edition" subtype="transcription_segmented"><p><w xml:id="tdor0003-1" xml:lang="grc"><expan><abbr>Τρύφωνο</abbr><ex>ς</ex></expan></w><w xml:id="tdor0003-2" xml:lang="grc">νίκη</w><w xml:id="tdor0003-3" xml:lang="grc">ε</w><w xml:id="tdor0003-4" xml:lang="grc"><expan><abbr>Δω</abbr><ex>ριτῶν</ex></expan></w><w xml:id="tdor0003-5" xml:lang="grc"><expan><abbr>π</abbr><ex>όλεως</ex></expan></w><w xml:id="tdor0003-6" xml:lang="grc">Ῥοῦ</w> <w xml:id="tdor0003-7" xml:lang="grc">γεῦσαι</w></p>
 </div>
 </body>
         <back>

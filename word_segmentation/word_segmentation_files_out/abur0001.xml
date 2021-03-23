@@ -104,6 +104,7 @@
          <change when="2019-01-29" who="persons.xml#Elli_Mylonas">
                 adding period attribute to date element, with Periodo value.
             </change>
+         <change when="2021-03-06" who="Chris Zeichmann">corrected reason undefined</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
@@ -115,37 +116,32 @@
    <text>
       <body>
          <div type="edition" ana="#b1" subtype="diplomatic" xml:id="abur0001.diplomatic" corresp="#abur0001.transcription #abur0001.translation">
-            <p>ΚΕ <supplied reason="undefined">ΙΥ ΧΕ ΜΝΗΣΘΗΤ</supplied>Ι<lb/>ΤΟ<supplied reason="undefined">Υ ΔΟΥΛΟΥ ΣΟΥ</supplied> Α<lb/>ΛΑ <gap reason="lost" unit="character" extent="unknown"/>
-               <supplied reason="undefined">ΤΟΥ</supplied>
+            <p>ΚΕ <supplied reason="lost">ΙΥ</supplied> <supplied reason="lost">ΧΕ</supplied> <supplied reason="lost">ΜΝΗΣΘΗΤ</supplied>Ι<lb/>ΤΟ<supplied reason="undefined">Υ ΔΟΥΛΟΥ ΣΟΥ</supplied> Α<lb/>ΛΑ <gap reason="lost" unit="character" extent="unknown"/>
+               <supplied reason="lost">ΤΟΥ</supplied>
                <lb/>ΠΡΕ<supplied reason="undefined">ΣΒΥΤΕΡΟΥ ΚΑΙ Π</supplied>ΑΝ<lb break="no"/>ΤΩΝ <supplied reason="undefined">ΤΩΝ Π</supplied>ΡΟΣΚΥ<lb break="no"/>ΝΟΥΝΤΩΝ ΕΝ ΤΩ<lb/>ΤΟΠΩ ΤΟΥΤΩ ΚΑΙ<lb/>ΤΩΝ ΚΑΡΠΟΦΟ<lb break="no"/>ΡΟΥΝΤΩΝ ΕΝ ΤΩ<lb/>ΤΟΠΩ ΤΟΥΤΩ</p>
          </div>
          <div type="edition" ana="#b1" xml:lang="grc" subtype="transcription" xml:id="abur0001.transcription" corresp="#abur0001.diplomatic #abur0001.translation">
             <p>
-               <expan>
-                  <abbr>Κ</abbr><ex>ύρι</ex><abbr>ε</abbr>
+               <expan><abbr>Κ</abbr><ex>ύρι</ex><abbr>ε</abbr>
                </expan>
-                  <expan>
-                  <abbr>Ἰ</abbr><ex>ησο</ex><abbr>ῦ</abbr>
+                  <expan><abbr>Ἰ</abbr><ex>ησο</ex><abbr>ῦ</abbr>
                </expan>
-                  <expan>
-                  <abbr>Χ</abbr><ex>ριστ</ex><abbr>έ</abbr>
-               </expan> μνήσθητι <lb/>το<supplied reason="undefined">ῦ δούλου σου </supplied>
-               <gap reason="lost" unit="character" extent="unknown"/>ά<lb/>λα<gap reason="lost" unit="character" extent="unknown"/>
-               <supplied reason="undefined">τοῦ</supplied>
-               <lb/>πρε<supplied reason="undefined">σβυτέρου καί π</supplied>άν<lb break="no"/>των <supplied reason="undefined">τῶν π</supplied>ροσκυ<lb break="no"/>νούντων ἐν τῴ<lb/>τόπῳ τούτῳ καί<lb/>τῶν καρποφο<lb break="no"/>ρούντων ἐν τῷ<lb/>τόπῳ τούτῳ</p>
+                  <expan><abbr>Χ</abbr><ex>ριστ</ex><abbr>έ</abbr>
+               </expan> μνήσθητι <lb/>το<supplied reason="lost">ῦ</supplied> <supplied reason="lost">δούλου</supplied> <supplied reason="lost">σου</supplied>
+               <gap reason="lost" unit="character" extent="unknown"/>ά
+               <lb/>λα<gap reason="lost" unit="character" extent="unknown"/>
+               <supplied reason="lost">τοῦ</supplied>
+               <lb/>πρε<supplied reason="undefined">σβυτέρου</supplied> <supplied reason="undefined">καί</supplied> <supplied reason="undefined">π</supplied>άν<lb break="no"/>των <supplied reason="undefined">τῶν</supplied> <supplied reason="undefined">π</supplied>ροσκυ<lb break="no"/>νούντων ἐν τῴ<lb/>τόπῳ τούτῳ καί<lb/>τῶν καρποφο<lb break="no"/>ρούντων ἐν τῷ<lb/>τόπῳ τούτῳ</p>
          </div>
          <div type="translation" ana="#b1" xml:id="abur0001.translation" corresp="#abur0001.diplomatic #abur0001.transcription">
             <p>Lord Jesus Christ [remember your servant ...] the priest and all the pilgrims to
                     this place [or: all those who pray in this place] and those who contribute to
                     this place.</p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="abur0001-1" xml:lang="grc"><expan>
-                  <abbr>Κ</abbr><ex>ύρι</ex><abbr>ε</abbr>
-               </expan></w><w xml:id="abur0001-2" xml:lang="grc"><expan>
-                  <abbr>Ἰ</abbr><ex>ησο</ex><abbr>ῦ</abbr>
-               </expan></w><w xml:id="abur0001-3" xml:lang="grc"><expan>
-                  <abbr>Χ</abbr><ex>ριστ</ex><abbr>έ</abbr>
-               </expan></w><w xml:id="abur0001-4" xml:lang="grc">μνήσθητι</w> <w xml:id="abur0001-5" xml:lang="grc">το</w><w xml:id="abur0001-6" xml:lang="grc"><supplied reason="undefined">ῦ δούλου σου </supplied></w><w xml:id="abur0001-7" xml:lang="grc">ά</w> <w xml:id="abur0001-8" xml:lang="grc">λα</w><w xml:id="abur0001-9" xml:lang="grc"><supplied reason="undefined">τοῦ</supplied></w><w xml:id="abur0001-10" xml:lang="grc">πρε</w><w xml:id="abur0001-11" xml:lang="grc"><supplied reason="undefined">σβυτέρου καί π</supplied></w><w xml:id="abur0001-12" xml:lang="grc">άντων</w><w xml:id="abur0001-13" xml:lang="grc"><supplied reason="undefined">τῶν π</supplied></w><w xml:id="abur0001-14" xml:lang="grc">ροσκυνούντων</w> <w xml:id="abur0001-15" xml:lang="grc">ἐν</w> <w xml:id="abur0001-16" xml:lang="grc">τῴ</w> <w xml:id="abur0001-17" xml:lang="grc">τόπῳ</w> <w xml:id="abur0001-18" xml:lang="grc">τούτῳ</w> <w xml:id="abur0001-19" xml:lang="grc">καί</w> <w xml:id="abur0001-20" xml:lang="grc">τῶν</w> <w xml:id="abur0001-21" xml:lang="grc">καρποφορούντων</w> <w xml:id="abur0001-22" xml:lang="grc">ἐν</w> <w xml:id="abur0001-23" xml:lang="grc">τῷ</w> <w xml:id="abur0001-24" xml:lang="grc">τόπῳ</w> <w xml:id="abur0001-25" xml:lang="grc">τούτῳ</w></p>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="abur0001-1" xml:lang="grc"><expan><abbr>Κ</abbr><ex>ύρι</ex><abbr>ε</abbr>
+               </expan></w><w xml:id="abur0001-2" xml:lang="grc"><expan><abbr>Ἰ</abbr><ex>ησο</ex><abbr>ῦ</abbr>
+               </expan></w><w xml:id="abur0001-3" xml:lang="grc"><expan><abbr>Χ</abbr><ex>ριστ</ex><abbr>έ</abbr>
+               </expan></w><w xml:id="abur0001-4" xml:lang="grc">μνήσθητι</w> <w xml:id="abur0001-5" xml:lang="grc">το</w><w xml:id="abur0001-6" xml:lang="grc"><supplied reason="lost">ῦ</supplied></w><w xml:id="abur0001-7" xml:lang="grc"><supplied reason="lost">δούλου</supplied></w><w xml:id="abur0001-8" xml:lang="grc"><supplied reason="lost">σου</supplied></w><w xml:id="abur0001-9" xml:lang="grc">ά</w> <w xml:id="abur0001-10" xml:lang="grc">λα</w><w xml:id="abur0001-11" xml:lang="grc"><supplied reason="lost">τοῦ</supplied></w><w xml:id="abur0001-12" xml:lang="grc">πρε</w><w xml:id="abur0001-13" xml:lang="grc"><supplied reason="undefined">σβυτέρου</supplied></w><w xml:id="abur0001-14" xml:lang="grc"><supplied reason="undefined">καί</supplied></w><w xml:id="abur0001-15" xml:lang="grc"><supplied reason="undefined">π</supplied></w><w xml:id="abur0001-16" xml:lang="grc">άντων</w><w xml:id="abur0001-17" xml:lang="grc"><supplied reason="undefined">τῶν</supplied></w><w xml:id="abur0001-18" xml:lang="grc"><supplied reason="undefined">π</supplied></w><w xml:id="abur0001-19" xml:lang="grc">ροσκυνούντων</w> <w xml:id="abur0001-20" xml:lang="grc">ἐν</w> <w xml:id="abur0001-21" xml:lang="grc">τῴ</w> <w xml:id="abur0001-22" xml:lang="grc">τόπῳ</w> <w xml:id="abur0001-23" xml:lang="grc">τούτῳ</w> <w xml:id="abur0001-24" xml:lang="grc">καί</w> <w xml:id="abur0001-25" xml:lang="grc">τῶν</w> <w xml:id="abur0001-26" xml:lang="grc">καρποφορούντων</w> <w xml:id="abur0001-27" xml:lang="grc">ἐν</w> <w xml:id="abur0001-28" xml:lang="grc">τῷ</w> <w xml:id="abur0001-29" xml:lang="grc">τόπῳ</w> <w xml:id="abur0001-30" xml:lang="grc">τούτῳ</w></p>
 </div>
 </body>
       <back>

@@ -131,17 +131,13 @@
             <p>+ <choice><sic>Μνημῖον</sic><corr>Μνημεῖον</corr></choice>
                <lb/>῾Ρούφου
                     ἀρχι<lb/>πρεσβυτέρου, <lb/>παυσαμένου<lb/> ἐτῶν οʹ, ἐν<lb/>
-               <expan>
-                  <abbr>ἔτ</abbr><ex>ει</ex>
-               </expan> σπβʹ</p>
+               <expan><abbr>ἔτ</abbr><ex>ει</ex></expan> σπβʹ</p>
          </div>
          <div type="translation" ana="#b1" xml:id="zoor0055.translation" corresp="#zoor0055.transcription">
             <p>Monument of Rufus, the archpresbyter, who died (at the age) of 70 years, in the
                     year 282.</p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="zoor0055-1" xml:lang="grc">Μνημεῖον</w> <w xml:id="zoor0055-2" xml:lang="grc">῾Ρούφου</w> <w xml:id="zoor0055-3" xml:lang="grc">ἀρχι</w> <w xml:id="zoor0055-4" xml:lang="grc">πρεσβυτέρου</w> <w xml:id="zoor0055-5" xml:lang="grc">παυσαμένου</w> <w xml:id="zoor0055-6" xml:lang="grc">ἐτῶν</w> <w xml:id="zoor0055-7" xml:lang="grc">ο</w> <w xml:id="zoor0055-8" xml:lang="grc">ἐν</w><w xml:id="zoor0055-9" xml:lang="grc"><expan>
-                  <abbr>ἔτ</abbr><ex>ει</ex>
-               </expan></w><w xml:id="zoor0055-10" xml:lang="grc">σπβ</w></p>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="zoor0055-1" xml:lang="grc">Μνημεῖον</w> <w xml:id="zoor0055-2" xml:lang="grc">῾Ρούφου</w> <w xml:id="zoor0055-3" xml:lang="grc">ἀρχι</w> <w xml:id="zoor0055-4" xml:lang="grc">πρεσβυτέρου</w> <w xml:id="zoor0055-5" xml:lang="grc">παυσαμένου</w> <w xml:id="zoor0055-6" xml:lang="grc">ἐτῶν</w> <w xml:id="zoor0055-7" xml:lang="grc">ο</w> <w xml:id="zoor0055-8" xml:lang="grc">ἐν</w><w xml:id="zoor0055-9" xml:lang="grc"><expan><abbr>ἔτ</abbr><ex>ει</ex></expan></w><w xml:id="zoor0055-10" xml:lang="grc">σπβ</w></p>
 </div>
 </body>
       <back>

@@ -132,7 +132,7 @@
                 <p><gap reason="lost" extent="unknown" unit="character"/>ΕΥΛΟΓΙΑΚΥΕΠΦΗΜΑ<gap reason="lost" extent="unknown" unit="character"/>ΑΥΛΟ</p>
             </div>
             <div type="edition" subtype="transcription" ana="b1">
-                <p><gap reason="lost" extent="unknown" unit="character"/>Εὐλογία Κ<supplied reason="omitted">υρί</supplied>υ ἐπφ᾽ἡμᾶ<supplied reason="lost">ς καὶ τοῦ ἁγὶου Π</supplied>αύλο<supplied reason="omitted">υ</supplied></p>
+                <p><gap reason="lost" extent="unknown" unit="character"/>Εὐλογία Κ<supplied reason="omitted">υρί</supplied>υ ἐπφ᾽ἡμᾶ<supplied reason="lost">ς</supplied> <supplied reason="lost">καὶ</supplied> <supplied reason="lost">τοῦ</supplied> <supplied reason="lost">ἁγὶου</supplied> <supplied reason="lost">Π</supplied>αύλο<supplied reason="omitted">υ</supplied></p>
             </div>
             <div type="translation" ana="b1">
                 <p>[May the] blessings of the Lord be upon us, and of Saint Paul.</p>
@@ -140,7 +140,7 @@
             <div type="commentary" ana="b1">
                 <p>The last letter of "Paul" is replaced by the mark "/", which may have signified either an abbreviation mark or a word divider.</p>
             </div>
-        <div type="edition" subtype="transcription_segmented"><p><w xml:id="caes0421-1" xml:lang="grc">Εὐλογία</w> <w xml:id="caes0421-2" xml:lang="grc">Κ</w><w xml:id="caes0421-3" xml:lang="grc"><supplied reason="omitted">υρί</supplied></w><w xml:id="caes0421-4" xml:lang="grc">υ</w> <w xml:id="caes0421-5" xml:lang="grc">ἐπφ᾽ἡμᾶ</w><w xml:id="caes0421-6" xml:lang="grc"><supplied reason="lost">ς καὶ τοῦ ἁγὶου Π</supplied></w><w xml:id="caes0421-7" xml:lang="grc">αύλο</w><w xml:id="caes0421-8" xml:lang="grc"><supplied reason="omitted">υ</supplied></w></p>
+        <div type="edition" subtype="transcription_segmented"><p><w xml:id="caes0421-1" xml:lang="grc">Εὐλογία</w> <w xml:id="caes0421-2" xml:lang="grc">Κ</w><w xml:id="caes0421-3" xml:lang="grc"><supplied reason="omitted">υρί</supplied></w><w xml:id="caes0421-4" xml:lang="grc">υ</w> <w xml:id="caes0421-5" xml:lang="grc">ἐπφ᾽ἡμᾶ</w><w xml:id="caes0421-6" xml:lang="grc"><supplied reason="lost">ς</supplied></w><w xml:id="caes0421-7" xml:lang="grc"><supplied reason="lost">καὶ</supplied></w><w xml:id="caes0421-8" xml:lang="grc"><supplied reason="lost">τοῦ</supplied></w><w xml:id="caes0421-9" xml:lang="grc"><supplied reason="lost">ἁγὶου</supplied></w><w xml:id="caes0421-10" xml:lang="grc"><supplied reason="lost">Π</supplied></w><w xml:id="caes0421-11" xml:lang="grc">αύλο</w><w xml:id="caes0421-12" xml:lang="grc"><supplied reason="omitted">υ</supplied></w></p>
 </div>
 </body>
         <back>

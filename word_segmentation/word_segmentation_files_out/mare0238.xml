@@ -131,9 +131,7 @@
                <num value="2">
                   <unclear>β</unclear>
                </num>
-                    <expan>
-                  <abbr>σέ</abbr><ex>αι</ex>
-               </expan>
+                    <expan><abbr>σέ</abbr><ex>αι</ex></expan>
             </p>
             </div>
             <div type="translation" ana="b1">
@@ -143,9 +141,7 @@
                 <p>The lower case given in the diplomatic transcription reflects the choice of the
                     editor.</p>
             </div>
-        <div type="edition" subtype="transcription_segmented"><p><w xml:id="mare0238-1" xml:lang="grc">β</w><w xml:id="mare0238-2" xml:lang="grc"><expan>
-                  <abbr>σέ</abbr><ex>αι</ex>
-               </expan></w></p>
+        <div type="edition" subtype="transcription_segmented"><p><w xml:id="mare0238-1" xml:lang="grc">β</w><w xml:id="mare0238-2" xml:lang="grc"><expan><abbr>σέ</abbr><ex>αι</ex></expan></w></p>
 </div>
 </body>
         <back>

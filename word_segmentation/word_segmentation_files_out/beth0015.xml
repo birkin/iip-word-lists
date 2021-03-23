@@ -107,7 +107,7 @@
    <text>
       <body>
          <div type="edition" ana="#b2" subtype="transcription" xml:id="beth0015.transcription" corresp="#beth0015.translation">
-            <p>Ὧδε κῖτε <supplied reason="lost">Ἰουλ</supplied>ιανό<supplied reason="lost">ς </supplied>
+            <p>Ὧδε κῖτε <supplied reason="lost">Ἰουλ</supplied>ιανό<supplied reason="lost">ς</supplied>
             </p>
          </div>
          <div type="translation" ana="#b2" xml:id="beth0015.translation" corresp="#beth0015.transcription">
@@ -116,7 +116,7 @@
                <persName xml:lang="la " ref="persons.xml#beth0015p01"> [Jul]ianus </persName>
             </p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="beth0015-1" xml:lang="grc">Ὧδε</w> <w xml:id="beth0015-2" xml:lang="grc">κῖτε</w><w xml:id="beth0015-3" xml:lang="grc"><supplied reason="lost">Ἰουλ</supplied></w><w xml:id="beth0015-4" xml:lang="grc">ιανό</w><w xml:id="beth0015-5" xml:lang="grc"><supplied reason="lost">ς </supplied></w></p>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="beth0015-1" xml:lang="grc">Ὧδε</w> <w xml:id="beth0015-2" xml:lang="grc">κῖτε</w><w xml:id="beth0015-3" xml:lang="grc"><supplied reason="lost">Ἰουλ</supplied></w><w xml:id="beth0015-4" xml:lang="grc">ιανό</w><w xml:id="beth0015-5" xml:lang="grc"><supplied reason="lost">ς</supplied></w></p>
 </div>
 </body>
       <back>

@@ -111,18 +111,14 @@
       <body>
          <div type="edition" ana="#b1" subtype="transcription" xml:id="beth0219.transcription" corresp="#beth0219.translation">
             <p>
-               <expan>
-                  <abbr>Λολο</abbr><ex>υ</ex>
-               </expan>
+               <expan><abbr>Λολο</abbr><ex>υ</ex></expan>
             </p>
          </div>
          <div type="translation" ana="#b1" xml:id="beth0219.translation" corresp="#beth0219.transcription">
             <p>Of <persName xml:lang="grc " ref="persons.xml#beth0219p01">Lolos </persName>
             </p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="beth0219-1" xml:lang="grc"><expan>
-                  <abbr>Λολο</abbr><ex>υ</ex>
-               </expan></w></p>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="beth0219-1" xml:lang="grc"><expan><abbr>Λολο</abbr><ex>υ</ex></expan></w></p>
 </div>
 </body>
       <back>

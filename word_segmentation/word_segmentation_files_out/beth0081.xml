@@ -121,9 +121,7 @@
                <gap reason="lost" quantity="1" unit="line"/>
                <lb/> Βεκηνῶ<lb/>
                <unclear>ὁ</unclear>
-               <expan>
-                  <abbr>ἰατ<unclear>ρ</unclear></abbr><ex>ός</ex>
-               </expan>
+               <expan><abbr>ἰατ<unclear>ρ</unclear></abbr><ex>ός</ex></expan>
             </p>
          </div>
          <div type="translation" ana="#b2" xml:id="beth0081.translation" corresp="#beth0081.transcription">
@@ -132,9 +130,7 @@
                </rs>, the <rs type="occupation" ana="interpretations.xml#physician">physician </rs>
             </p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="beth0081-1" xml:lang="grc">Βεκηνῶ</w> <w xml:id="beth0081-2" xml:lang="grc">ὁ</w><w xml:id="beth0081-3" xml:lang="grc"><expan>
-                  <abbr>ἰατρ</abbr><ex>ός</ex>
-               </expan></w></p>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="beth0081-1" xml:lang="grc">Βεκηνῶ</w> <w xml:id="beth0081-2" xml:lang="grc">ὁ</w><w xml:id="beth0081-3" xml:lang="grc"><expan><abbr>ἰατρ</abbr><ex>ός</ex></expan></w></p>
 </div>
 </body>
       <back>

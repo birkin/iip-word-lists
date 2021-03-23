@@ -119,14 +119,10 @@
          </div>
          <div type="edition" ana="#b1" subtype="transcription" xml:id="fakh0004.transcription" corresp="#fakh0004.diplomatic #fakh0004.translation">
             <p>
-               <expan>
-                  <abbr>χ<choice><corr>ω</corr><sic>ο</sic></choice>ρ</abbr><ex>ἐπίσκοπος</ex>
-               </expan>
+               <expan><abbr>χ<choice><corr>ω</corr><sic>ο</sic></choice>ρ</abbr><ex>ἐπίσκοπος</ex></expan>
                <unclear>Μ</unclear>
                <gap reason="illegible" quantity="3" unit="character"/>
-               <lb/> ὁ <expan>
-                  <abbr>κτί<unclear>σ</unclear></abbr><ex>της</ex>
-               </expan>
+               <lb/> ὁ <expan><abbr>κτί<unclear>σ</unclear></abbr><ex>της</ex></expan>
                <gap reason="illegible" quantity="3" unit="character"/>
             </p>
          </div>
@@ -134,11 +130,7 @@
             <p>...country-bishop M...the builder...
 				</p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="fakh0004-1" xml:lang="grc"><expan>
-                  <abbr>χ ω ρ</abbr><ex>ἐπίσκοπος</ex>
-               </expan></w><w xml:id="fakh0004-2" xml:lang="grc">Μ</w> <w xml:id="fakh0004-3" xml:lang="grc">ὁ</w><w xml:id="fakh0004-4" xml:lang="grc"><expan>
-                  <abbr>κτίσ</abbr><ex>της</ex>
-               </expan></w></p>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="fakh0004-1" xml:lang="grc"><expan><abbr>χ ω ρ</abbr><ex>ἐπίσκοπος</ex></expan></w><w xml:id="fakh0004-2" xml:lang="grc">Μ</w> <w xml:id="fakh0004-3" xml:lang="grc">ὁ</w><w xml:id="fakh0004-4" xml:lang="grc"><expan><abbr>κτίσ</abbr><ex>της</ex></expan></w></p>
 </div>
 </body>
       <back>

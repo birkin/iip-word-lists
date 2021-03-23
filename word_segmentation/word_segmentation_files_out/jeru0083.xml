@@ -131,23 +131,15 @@
    <text>
       <body>
          <div type="edition" ana="#b1" xml:lang="grc" subtype="transcription" xml:id="jeru0083.transcription" corresp="#jeru0083.translation">
-            <p>῾Ρούφου· ὅς δ᾽ἃν<space extent="unknown" unit="character"/>ον<lb/> μετενένκη <expan>
-                  <abbr>πα<supplied reason="undefined">ρ</supplied></abbr><ex cert="low">έβη</ex>
-               </expan>
+            <p>῾Ρούφου· ὅς δ᾽ἃν<space extent="unknown" unit="character"/>ον<lb/> μετενένκη <expan><abbr>πα<supplied reason="undefined">ρ</supplied></abbr><ex cert="low">έβη</ex></expan>
                <space extent="unknown" unit="character"/>
-               <expan>
-                  <abbr>ἀυτ</abbr><ex>οῦ</ex>
-               </expan>
+               <expan><abbr>ἀυτ</abbr><ex>οῦ</ex></expan>
                <lb/>τὸν ὅρκον</p>
          </div>
          <div type="translation" ana="#b1" xml:id="jeru0083.translation" corresp="#jeru0083.transcription">
             <p>Of Rufus; whoever moves it breaks his vow</p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="jeru0083-1" xml:lang="grc">῾Ρούφου·</w> <w xml:id="jeru0083-2" xml:lang="grc">ὅς</w> <w xml:id="jeru0083-3" xml:lang="grc">δ᾽ἃνον</w> <w xml:id="jeru0083-4" xml:lang="grc">μετενένκη</w><w xml:id="jeru0083-5" xml:lang="grc"><expan>
-                  <abbr>πα<w xml:id="jeru0083-6" xml:lang="grc"><supplied reason="undefined">ρ</supplied></w></abbr><ex cert="low">έβη</ex>
-               </expan></w><w xml:id="jeru0083-7" xml:lang="grc"><expan>
-                  <abbr>ἀυτ</abbr><ex>οῦ</ex>
-               </expan></w><w xml:id="jeru0083-8" xml:lang="grc">τὸν</w> <w xml:id="jeru0083-9" xml:lang="grc">ὅρκον</w></p>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="jeru0083-1" xml:lang="grc">῾Ρούφου·</w> <w xml:id="jeru0083-2" xml:lang="grc">ὅς</w> <w xml:id="jeru0083-3" xml:lang="grc">δ᾽ἃνον</w> <w xml:id="jeru0083-4" xml:lang="grc">μετενένκη</w><w xml:id="jeru0083-5" xml:lang="grc"><expan><abbr>πα<w xml:id="jeru0083-6" xml:lang="grc"><supplied reason="undefined">ρ</supplied></w></abbr><ex cert="low">έβη</ex></expan></w><w xml:id="jeru0083-7" xml:lang="grc"><expan><abbr>ἀυτ</abbr><ex>οῦ</ex></expan></w><w xml:id="jeru0083-8" xml:lang="grc">τὸν</w> <w xml:id="jeru0083-9" xml:lang="grc">ὅρκον</w></p>
 </div>
 </body>
       <back>

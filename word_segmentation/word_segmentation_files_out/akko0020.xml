@@ -126,7 +126,7 @@
             </div>
             <div type="edition" subtype="transcription" ana="b1">
                 <p>
-               <supplied reason="lost">Ἐπὶ Ἀλεξι</supplied>άδα<lb/>Θεσμοφ<supplied reason="lost">ορίο</supplied>υ</p>
+               <supplied reason="lost">Ἐπὶ</supplied> <supplied reason="lost">Ἀλεξι</supplied>άδα<lb/>Θεσμοφ<supplied reason="lost">ορίο</supplied>υ</p>
             </div>
             <div type="translation" ana="b1">
                 <p/>
@@ -134,7 +134,7 @@
             <div type="commentary" ana="b1">
                 <p/>
             </div>
-        <div type="edition" subtype="transcription_segmented"><p><w xml:id="akko0020-1" xml:lang="grc"><supplied reason="lost">Ἐπὶ Ἀλεξι</supplied></w><w xml:id="akko0020-2" xml:lang="grc">άδα</w> <w xml:id="akko0020-3" xml:lang="grc">Θεσμοφ</w><w xml:id="akko0020-4" xml:lang="grc"><supplied reason="lost">ορίο</supplied></w><w xml:id="akko0020-5" xml:lang="grc">υ</w></p>
+        <div type="edition" subtype="transcription_segmented"><p><w xml:id="akko0020-1" xml:lang="grc"><supplied reason="lost">Ἐπὶ</supplied></w><w xml:id="akko0020-2" xml:lang="grc"><supplied reason="lost">Ἀλεξι</supplied></w><w xml:id="akko0020-3" xml:lang="grc">άδα</w> <w xml:id="akko0020-4" xml:lang="grc">Θεσμοφ</w><w xml:id="akko0020-5" xml:lang="grc"><supplied reason="lost">ορίο</supplied></w><w xml:id="akko0020-6" xml:lang="grc">υ</w></p>
 </div>
 </body>
         <back>

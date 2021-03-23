@@ -100,6 +100,7 @@
          <change when="2019-01-29" who="persons.xml#Elli_Mylonas">
                 adding period attribute to date element, with Periodo value.
             </change>
+         <change when="2021-03-23" who="Chris Zeichmann">corrected "choice"</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
@@ -115,24 +116,19 @@
                <supplied reason="undefined">Διοκλητιανὸς</supplied>
                <lb/>καὶ Μαξιμιαν<supplied reason="undefined">ὸς</supplied>
                <lb/>
-               <expan>
-                  <abbr>σεβ</abbr><ex>αστοὶ</ex>
-               </expan> καὶ<lb/>Κωστάντιο<supplied reason="undefined">ς</supplied>
+               <expan><abbr>σεβ</abbr><ex>αστοὶ</ex></expan> καὶ<lb/>Κωστάντιο<supplied reason="undefined">ς</supplied>
                <lb/>Επιφανέστατοι<lb/>καίσαρες <space/>
-               <lb/>λίθον <supplied reason="undefined">δ</supplied>ιορί<lb break="no"/>
-               <supplied reason="undefined">ζον</supplied>
-               <unclear>τα ἀγρο</unclear><supplied reason="undefined">ὺς or ὅρους</supplied>
-               <lb/>
-               <gap reason="illegible" unit="line" quantity="1"/>
+               <lb/>λίθον 
+               <supplied reason="undefined">δ</supplied>ιορί<lb break="no"/><supplied reason="undefined">ζον</supplied>
+               <unclear>τα ἀγρο</unclear><supplied reason="undefined">ὺς</supplied>
+               <lb/><gap reason="illegible" unit="line" quantity="1"/>
             </p>
          </div>
          <div type="translation" ana="#b2" xml:id="kafr0010.translation" corresp="#kafr0010.transcription">
             <p>[Diocletian] and Maximian, Augusti, and Constantius... illustrious Caesars (have
                erected this) stone demarking (the) fields [or boundaries] (of)... </p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="kafr0010-1" xml:lang="grc"><supplied reason="undefined">Διοκλητιανὸς</supplied></w><w xml:id="kafr0010-2" xml:lang="grc">καὶ</w> <w xml:id="kafr0010-3" xml:lang="grc">Μαξιμιαν</w><w xml:id="kafr0010-4" xml:lang="grc"><supplied reason="undefined">ὸς</supplied></w><w xml:id="kafr0010-5" xml:lang="grc"><expan>
-                  <abbr>σεβ</abbr><ex>αστοὶ</ex>
-               </expan></w><w xml:id="kafr0010-6" xml:lang="grc">καὶ</w> <w xml:id="kafr0010-7" xml:lang="grc">Κωστάντιο</w><w xml:id="kafr0010-8" xml:lang="grc"><supplied reason="undefined">ς</supplied></w><w xml:id="kafr0010-9" xml:lang="grc">Επιφανέστατοι</w> <w xml:id="kafr0010-10" xml:lang="grc">καίσαρες</w> <w xml:id="kafr0010-11" xml:lang="grc">λίθον</w><w xml:id="kafr0010-12" xml:lang="grc"><supplied reason="undefined">δ</supplied></w><w xml:id="kafr0010-13" xml:lang="grc">ιορί</w><w xml:id="kafr0010-14" xml:lang="grc"><supplied reason="undefined">ζον</supplied></w><w xml:id="kafr0010-15" xml:lang="grc">τα</w> <w xml:id="kafr0010-16" xml:lang="grc">ἀγρο</w><w xml:id="kafr0010-17" xml:lang="grc"><supplied reason="undefined">ὺς or ὅρους</supplied></w></p>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="kafr0010-1" xml:lang="grc"><supplied reason="undefined">Διοκλητιανὸς</supplied></w><w xml:id="kafr0010-2" xml:lang="grc">καὶ</w> <w xml:id="kafr0010-3" xml:lang="grc">Μαξιμιαν</w><w xml:id="kafr0010-4" xml:lang="grc"><supplied reason="undefined">ὸς</supplied></w><w xml:id="kafr0010-5" xml:lang="grc"><expan><abbr>σεβ</abbr><ex>αστοὶ</ex></expan></w><w xml:id="kafr0010-6" xml:lang="grc">καὶ</w> <w xml:id="kafr0010-7" xml:lang="grc">Κωστάντιο</w><w xml:id="kafr0010-8" xml:lang="grc"><supplied reason="undefined">ς</supplied></w><w xml:id="kafr0010-9" xml:lang="grc">Επιφανέστατοι</w> <w xml:id="kafr0010-10" xml:lang="grc">καίσαρες</w> <w xml:id="kafr0010-11" xml:lang="grc">λίθον</w><w xml:id="kafr0010-12" xml:lang="grc"><supplied reason="undefined">δ</supplied></w><w xml:id="kafr0010-13" xml:lang="grc">ιορί</w><w xml:id="kafr0010-14" xml:lang="grc"><supplied reason="undefined">ζον</supplied></w><w xml:id="kafr0010-15" xml:lang="grc">τα</w> <w xml:id="kafr0010-16" xml:lang="grc">ἀγρο</w><w xml:id="kafr0010-17" xml:lang="grc"><supplied reason="undefined">ὺς</supplied></w></p>
 </div>
 </body>
       <back>

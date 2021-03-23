@@ -127,9 +127,9 @@
          </div>
          <div type="edition" ana="#b1" subtype="transcription" xml:id="hamm0067.transcription" corresp="#hamm0067.diplomatic #hamm0067.translation">
             <p>
-               <supplied reason="undefined">Ἐν τῷ ἁγίῳ</supplied>
+               <supplied reason="undefined">Ἐν</supplied> <supplied reason="undefined">τῷ</supplied> <supplied reason="undefined">ἁγίῳ</supplied>
                <lb/>
-               <supplied reason="undefined">τόπῳ μνησθῇ</supplied>
+               <supplied reason="undefined">τόπῳ</supplied> <supplied reason="undefined">μνησθῇ</supplied>
                <lb/>
 Παρη<supplied reason="undefined">γόριος</supplied>
                <lb/>
@@ -144,7 +144,7 @@
                   <rs type="formula">In this holy place </rs> may be remembered</supplied>
                <persName xml:lang="hbo " ref="persons.xml#hamm0067p01">Paregorius </persName>  (<rs type="family">son </rs>) of <persName xml:lang="hbo " ref="persons.xml#hamm0067p02">Zacharias</persName>, also (called)...</p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="hamm0067-1" xml:lang="grc"><supplied reason="undefined">Ἐν τῷ ἁγίῳ</supplied></w><w xml:id="hamm0067-2" xml:lang="grc"><supplied reason="undefined">τόπῳ μνησθῇ</supplied></w><w xml:id="hamm0067-3" xml:lang="grc">Παρη</w><w xml:id="hamm0067-4" xml:lang="grc"><supplied reason="undefined">γόριος</supplied></w><w xml:id="hamm0067-5" xml:lang="grc">Ζαχα</w><w xml:id="hamm0067-6" xml:lang="grc"><supplied reason="undefined">ρίου</supplied></w><w xml:id="hamm0067-7" xml:lang="grc">ὁ</w> <w xml:id="hamm0067-8" xml:lang="grc">κα</w><w xml:id="hamm0067-9" xml:lang="grc"><supplied reason="undefined">ὶ</supplied></w></p>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="hamm0067-1" xml:lang="grc"><supplied reason="undefined">Ἐν</supplied></w><w xml:id="hamm0067-2" xml:lang="grc"><supplied reason="undefined">τῷ</supplied></w><w xml:id="hamm0067-3" xml:lang="grc"><supplied reason="undefined">ἁγίῳ</supplied></w><w xml:id="hamm0067-4" xml:lang="grc"><supplied reason="undefined">τόπῳ</supplied></w><w xml:id="hamm0067-5" xml:lang="grc"><supplied reason="undefined">μνησθῇ</supplied></w><w xml:id="hamm0067-6" xml:lang="grc">Παρη</w><w xml:id="hamm0067-7" xml:lang="grc"><supplied reason="undefined">γόριος</supplied></w><w xml:id="hamm0067-8" xml:lang="grc">Ζαχα</w><w xml:id="hamm0067-9" xml:lang="grc"><supplied reason="undefined">ρίου</supplied></w><w xml:id="hamm0067-10" xml:lang="grc">ὁ</w> <w xml:id="hamm0067-11" xml:lang="grc">κα</w><w xml:id="hamm0067-12" xml:lang="grc"><supplied reason="undefined">ὶ</supplied></w></p>
 </div>
 </body>
       <back>

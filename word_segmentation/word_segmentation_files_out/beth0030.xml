@@ -115,14 +115,14 @@
    <text>
       <body>
          <div type="edition" ana="#b2" subtype="transcription" xml:id="beth0030.transcription" corresp="#beth0030.translation">
-            <p>Τόπος τῆ<supplied reason="lost">ς εἰ</supplied>ρ<supplied reason="lost">ή</supplied>νης </p>
+            <p>Τόπος τῆ<supplied reason="lost">ς</supplied> <supplied reason="lost">εἰ</supplied>ρ<supplied reason="lost">ή</supplied>νης </p>
          </div>
          <div type="translation" ana="#b2" xml:id="beth0030.translation" corresp="#beth0030.transcription">
             <p>
                <rs type="formula" ana="interpretations.xml#grave">Place of peace </rs>
             </p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="beth0030-1" xml:lang="grc">Τόπος</w> <w xml:id="beth0030-2" xml:lang="grc">τῆ</w><w xml:id="beth0030-3" xml:lang="grc"><supplied reason="lost">ς εἰ</supplied></w><w xml:id="beth0030-4" xml:lang="grc">ρ</w><w xml:id="beth0030-5" xml:lang="grc"><supplied reason="lost">ή</supplied></w><w xml:id="beth0030-6" xml:lang="grc">νης</w></p>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="beth0030-1" xml:lang="grc">Τόπος</w> <w xml:id="beth0030-2" xml:lang="grc">τῆ</w><w xml:id="beth0030-3" xml:lang="grc"><supplied reason="lost">ς</supplied></w><w xml:id="beth0030-4" xml:lang="grc"><supplied reason="lost">εἰ</supplied></w><w xml:id="beth0030-5" xml:lang="grc">ρ</w><w xml:id="beth0030-6" xml:lang="grc"><supplied reason="lost">ή</supplied></w><w xml:id="beth0030-7" xml:lang="grc">νης</w></p>
 </div>
 </body>
       <back>

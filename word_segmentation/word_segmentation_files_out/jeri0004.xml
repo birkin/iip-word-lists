@@ -132,17 +132,13 @@
    <text>
       <body>
          <div type="edition" ana="#b1" xml:lang="grc" subtype="transcription" xml:id="jeri0004.transcription" corresp="#jeri0004.translation">
-            <p>Μαριάμη <expan>
-                  <abbr>γυ</abbr><ex>νὴ</ex>
-               </expan> Ἰούδου
+            <p>Μαριάμη <expan><abbr>γυ</abbr><ex>νὴ</ex></expan> Ἰούδου
                 </p>
          </div>
          <div type="translation" ana="#b1" xml:id="jeri0004.translation" corresp="#jeri0004.transcription">
             <p>Mariame, wife of Juda</p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="jeri0004-1" xml:lang="grc">Μαριάμη</w><w xml:id="jeri0004-2" xml:lang="grc"><expan>
-                  <abbr>γυ</abbr><ex>νὴ</ex>
-               </expan></w><w xml:id="jeri0004-3" xml:lang="grc">Ἰούδου</w></p>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="jeri0004-1" xml:lang="grc">Μαριάμη</w><w xml:id="jeri0004-2" xml:lang="grc"><expan><abbr>γυ</abbr><ex>νὴ</ex></expan></w><w xml:id="jeri0004-3" xml:lang="grc">Ἰούδου</w></p>
 </div>
 </body>
       <back>

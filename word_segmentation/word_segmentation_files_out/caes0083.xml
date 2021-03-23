@@ -116,9 +116,7 @@
       <body>
          <div type="edition" ana="#b1" subtype="transcription" xml:id="caes0083.transcription">
             <p>
-               <expan>
-                  <abbr>προ</abbr><ex>σφορὰ</ex>
-               </expan> Θεωδώροε<lb/>
+               <expan><abbr>προ</abbr><ex>σφορὰ</ex></expan> Θεωδώροε<lb/>
 		  υἱοῦ Ὀλύμπ<hi rend="ligature">ου</hi>
                <lb/>
 		  ὑπὲρ σωτερίας<lb/>
@@ -133,9 +131,7 @@
 			 deliverance of his <rs type="family">daughter </rs>
                <persName xml:lang="grc " ref="persons.xml#caes0083p03">Matrona</persName>.</p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="caes0083-1" xml:lang="grc"><expan>
-                  <abbr>προ</abbr><ex>σφορὰ</ex>
-               </expan></w><w xml:id="caes0083-2" xml:lang="grc">Θεωδώροε</w> <w xml:id="caes0083-3" xml:lang="grc">υἱοῦ</w> <w xml:id="caes0083-4" xml:lang="grc">Ὀλύμπ</w><w xml:id="caes0083-5" xml:lang="grc">ὑπὲρ</w> <w xml:id="caes0083-6" xml:lang="grc">σωτερίας</w> <w xml:id="caes0083-7" xml:lang="grc">Ματρώνας</w> <w xml:id="caes0083-8" xml:lang="grc">θυγατρός</w></p>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="caes0083-1" xml:lang="grc"><expan><abbr>προ</abbr><ex>σφορὰ</ex></expan></w><w xml:id="caes0083-2" xml:lang="grc">Θεωδώροε</w> <w xml:id="caes0083-3" xml:lang="grc">υἱοῦ</w> <w xml:id="caes0083-4" xml:lang="grc">Ὀλύμπ</w><w xml:id="caes0083-5" xml:lang="grc">ὑπὲρ</w> <w xml:id="caes0083-6" xml:lang="grc">σωτερίας</w> <w xml:id="caes0083-7" xml:lang="grc">Ματρώνας</w> <w xml:id="caes0083-8" xml:lang="grc">θυγατρός</w></p>
 </div>
 </body>
       <back>

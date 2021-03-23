@@ -126,9 +126,7 @@
                <unclear>ε</unclear>
                <gap reason="illegible" quantity="2" unit="character"/>
                <lb/> Ανα<supplied reason="undefined">η</supplied>λος <lb/>
-               <expan>
-                  <abbr>ἐτ</abbr><ex>ῶν</ex>
-               </expan>
+               <expan><abbr>ἐτ</abbr><ex>ῶν</ex></expan>
                <num value="7"><unclear>ζ´</unclear></num>
             </p>
          </div>
@@ -136,9 +134,7 @@
             <p>...Anaelos(?). Seven(?) years old. 
 				</p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="khis0077-1" xml:lang="grc">ε</w> <w xml:id="khis0077-2" xml:lang="grc">Ανα</w><w xml:id="khis0077-3" xml:lang="grc"><supplied reason="undefined">η</supplied></w><w xml:id="khis0077-4" xml:lang="grc">λος</w><w xml:id="khis0077-5" xml:lang="grc"><expan>
-                  <abbr>ἐτ</abbr><ex>ῶν</ex>
-               </expan></w><w xml:id="khis0077-6" xml:lang="grc">ζ</w></p>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="khis0077-1" xml:lang="grc">ε</w> <w xml:id="khis0077-2" xml:lang="grc">Ανα</w><w xml:id="khis0077-3" xml:lang="grc"><supplied reason="undefined">η</supplied></w><w xml:id="khis0077-4" xml:lang="grc">λος</w><w xml:id="khis0077-5" xml:lang="grc"><expan><abbr>ἐτ</abbr><ex>ῶν</ex></expan></w><w xml:id="khis0077-6" xml:lang="grc">ζ</w></p>
 </div>
 </body>
       <back>

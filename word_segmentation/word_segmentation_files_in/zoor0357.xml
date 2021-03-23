@@ -159,22 +159,18 @@
                <g type="cross">+</g>
                <g type="cross">+</g>
                <lb/> Εἷ<supplied reason="omitted">ς</supplied> Θεὸς <choice>
-                  <reg><expan>
-                     <abbr>Ἰ</abbr><ex>ησοῦ</ex><abbr>ς</abbr></expan>
+                  <reg><expan><abbr>Ἰ</abbr><ex>ησοῦ</ex><abbr>ς</abbr></expan>
                   </reg>
-                  <orig><expan>
-                     <abbr>Ἰ</abbr><ex>ησο</ex><abbr>ῦ</abbr></expan>
+                  <orig><expan><abbr>Ἰ</abbr><ex>ησο</ex><abbr>ῦ</abbr></expan>
                   </orig>
                </choice>
                <choice>
                   <reg>
-                     <expan>
-                        <abbr>Χ</abbr><ex>ριστό</ex><abbr>ς</abbr>
+                     <expan><abbr>Χ</abbr><ex>ριστό</ex><abbr>ς</abbr>
                      </expan>
                   </reg>
                   <orig>
-                     <expan>
-                        <abbr>Χ</abbr><ex>ριστ</ex><abbr>έ</abbr>
+                     <expan><abbr>Χ</abbr><ex>ριστ</ex><abbr>έ</abbr>
                      </expan>
                   </orig>
                </choice>. <g type="cross">+</g>
@@ -191,7 +187,7 @@
                   ὀνό<unclear>ματος</unclear>
                <lb/>
                <unclear>καλ</unclear>
-               <supplied reason="lost">ῆς πίστεως </supplied>
+               <supplied reason="lost">ῆς</supplied> <supplied reason="lost">πίστεως</supplied> 
                <lb/>
                <gap reason="illegible" quantity="3" unit="line"/>
                <lb/>

@@ -136,16 +136,10 @@
                <choice><sic>Μνημῖον</sic><corr>Μνημεῖον</corr></choice> Κό<unclear>σ</unclear>
                <lb/>μος Ἀλφίου, ἀ<lb/>ποθανόντος<lb/> ἐτῶν
                     λγʹ, <lb/>ἔτους σπʹ,<lb/>
-               <expan>
-                  <abbr>μη</abbr><ex>νὸς</ex>
-               </expan>
+               <expan><abbr>μη</abbr><ex>νὸς</ex></expan>
                <choice><sic>Ἀπελλέου</sic><corr>Ἀπελλαίου</corr></choice>
-               <lb/> θʹ, <expan>
-                  <abbr>ἡμ</abbr><ex>έρᾳ</ex>
-               </expan>
-               <expan>
-                  <abbr>Κυ</abbr><ex>ρίου</ex>
-               </expan> εʹ. <lb/>
+               <lb/> θʹ, <expan><abbr>ἡμ</abbr><ex>έρᾳ</ex></expan>
+               <expan><abbr>Κυ</abbr><ex>ρίου</ex></expan> εʹ. <lb/>
                <choice><sic>Θάρσι</sic><corr>Θάρσει</corr></choice>, Κόσμο,
                     <choice><sic>οὐ<lb/>δὶς</sic><corr>οὐδείς</corr></choice> ἀθάνατος.</p>
          </div>
@@ -154,13 +148,7 @@
                     year 280, on (the) 9th (day) of (the) month Apellaios, on (the) 5th day of (the)
                     Lord (Thursday). Be of good cheer, Kosmos, no one is immortal.</p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="zoor0050-1" xml:lang="grc">Μνημεῖον</w> <w xml:id="zoor0050-2" xml:lang="grc">Κόσ</w> <w xml:id="zoor0050-3" xml:lang="grc">μος</w> <w xml:id="zoor0050-4" xml:lang="grc">Ἀλφίου</w> <w xml:id="zoor0050-5" xml:lang="grc">ἀ</w> <w xml:id="zoor0050-6" xml:lang="grc">ποθανόντος</w> <w xml:id="zoor0050-7" xml:lang="grc">ἐτῶν</w> <w xml:id="zoor0050-8" xml:lang="grc">λγ</w> <w xml:id="zoor0050-9" xml:lang="grc">ἔτους</w> <w xml:id="zoor0050-10" xml:lang="grc">σπ</w><w xml:id="zoor0050-11" xml:lang="grc"><expan>
-                  <abbr>μη</abbr><ex>νὸς</ex>
-               </expan></w><w xml:id="zoor0050-12" xml:lang="grc">Ἀπελλαίου</w> <w xml:id="zoor0050-13" xml:lang="grc">θ</w><w xml:id="zoor0050-14" xml:lang="grc"><expan>
-                  <abbr>ἡμ</abbr><ex>έρᾳ</ex>
-               </expan></w><w xml:id="zoor0050-15" xml:lang="grc"><expan>
-                  <abbr>Κυ</abbr><ex>ρίου</ex>
-               </expan></w><w xml:id="zoor0050-16" xml:lang="grc">ε</w> <w xml:id="zoor0050-17" xml:lang="grc">Θάρσει</w> <w xml:id="zoor0050-18" xml:lang="grc">Κόσμο</w> <w xml:id="zoor0050-19" xml:lang="grc">οὐδείς</w> <w xml:id="zoor0050-20" xml:lang="grc">ἀθάνατος</w></p>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="zoor0050-1" xml:lang="grc">Μνημεῖον</w> <w xml:id="zoor0050-2" xml:lang="grc">Κόσ</w> <w xml:id="zoor0050-3" xml:lang="grc">μος</w> <w xml:id="zoor0050-4" xml:lang="grc">Ἀλφίου</w> <w xml:id="zoor0050-5" xml:lang="grc">ἀ</w> <w xml:id="zoor0050-6" xml:lang="grc">ποθανόντος</w> <w xml:id="zoor0050-7" xml:lang="grc">ἐτῶν</w> <w xml:id="zoor0050-8" xml:lang="grc">λγ</w> <w xml:id="zoor0050-9" xml:lang="grc">ἔτους</w> <w xml:id="zoor0050-10" xml:lang="grc">σπ</w><w xml:id="zoor0050-11" xml:lang="grc"><expan><abbr>μη</abbr><ex>νὸς</ex></expan></w><w xml:id="zoor0050-12" xml:lang="grc">Ἀπελλαίου</w> <w xml:id="zoor0050-13" xml:lang="grc">θ</w><w xml:id="zoor0050-14" xml:lang="grc"><expan><abbr>ἡμ</abbr><ex>έρᾳ</ex></expan></w><w xml:id="zoor0050-15" xml:lang="grc"><expan><abbr>Κυ</abbr><ex>ρίου</ex></expan></w><w xml:id="zoor0050-16" xml:lang="grc">ε</w> <w xml:id="zoor0050-17" xml:lang="grc">Θάρσει</w> <w xml:id="zoor0050-18" xml:lang="grc">Κόσμο</w> <w xml:id="zoor0050-19" xml:lang="grc">οὐδείς</w> <w xml:id="zoor0050-20" xml:lang="grc">ἀθάνατος</w></p>
 </div>
 </body>
       <back>

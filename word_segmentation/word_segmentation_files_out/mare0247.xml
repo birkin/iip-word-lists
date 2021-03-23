@@ -112,6 +112,7 @@
         <change when="2019-01-29" who="persons.xml#Elli_Mylonas">
                 adding period attribute to date element, with Periodo value.
             </change>
+            <change when="2021-03-23" who="Chris Zeichmann">corrected expan</change>
       </revisionDesc>
     </teiHeader>
     <!--  *************************************  <facsimile>  *********************************  -->
@@ -136,8 +137,7 @@
             <div type="edition" subtype="transcription" ana="b1">
                 <p>
                <expan>
-                  <ex>δραχμή</ex>
-               </expan>
+                   <am>ζ</am><ex>δραχμή</ex></expan>
             </p>
             </div>
             <div type="translation" ana="b1">
@@ -150,8 +150,7 @@
                     editor.</p>
             </div>
         <div type="edition" subtype="transcription_segmented"><p><w xml:id="mare0247-1" xml:lang="grc"><expan>
-                  <ex>δραχμή</ex>
-               </expan></w></p>
+                   <am>ζ</am><ex>δραχμή</ex></expan></w></p>
 </div>
 </body>
         <back>

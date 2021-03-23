@@ -109,17 +109,13 @@
       <body>
          <div type="edition" ana="#b1" xml:lang="grc" subtype="transcription" xml:id="elus0083.transcription" corresp="#elus0083.translation">
             <p>
-               <expan>
-                  <abbr>Ζηνό</abbr><ex>βιος</ex>
-               </expan>
+               <expan><abbr>Ζηνό</abbr><ex>βιος</ex></expan>
             </p>
          </div>
          <div type="translation" ana="#b1" xml:id="elus0083.translation" corresp="#elus0083.transcription">
             <p>Zenobius</p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="elus0083-1" xml:lang="grc"><expan>
-                  <abbr>Ζηνό</abbr><ex>βιος</ex>
-               </expan></w></p>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="elus0083-1" xml:lang="grc"><expan><abbr>Ζηνό</abbr><ex>βιος</ex></expan></w></p>
 </div>
 </body>
       <back>

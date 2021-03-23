@@ -105,6 +105,8 @@
          <change when="2019-01-29" who="persons.xml#Elli_Mylonas">
                 adding period attribute to date element, with Periodo value.
             </change>
+         <change when="2021-03-06" who="Chris Zeichmann">corrected reason undefined</change>
+         <change when="2021-03-23" who="Chris Zeichmann">corrected "choice"</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
@@ -116,10 +118,9 @@
    <text>
       <body>
          <div type="edition" ana="#b1" subtype="transcription" xml:id="beth0212.transcription" corresp="#beth0212.translation">
-            <p>Σιλουα<unclear>ν</unclear>
-               <supplied reason="undefined">ός or - νοῦ</supplied>
+            <p>Σιλουα<unclear>ν</unclear><supplied reason="lost">ός</supplied>
                <lb/>
-               <supplied reason="undefined">Σατορ</supplied>νίλ<supplied reason="undefined">ου</supplied>
+               <supplied reason="lost">Σατορ</supplied>νίλ<supplied reason="lost">ου</supplied>
             </p>
          </div>
          <div type="translation" ana="#b1" xml:id="beth0212.translation" corresp="#beth0212.transcription">
@@ -129,7 +130,7 @@
                </name>
             </p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="beth0212-1" xml:lang="grc">Σιλουαν</w><w xml:id="beth0212-2" xml:lang="grc"><supplied reason="undefined">ός or - νοῦ</supplied></w><w xml:id="beth0212-3" xml:lang="grc"><supplied reason="undefined">Σατορ</supplied></w><w xml:id="beth0212-4" xml:lang="grc">νίλ</w><w xml:id="beth0212-5" xml:lang="grc"><supplied reason="undefined">ου</supplied></w></p>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="beth0212-1" xml:lang="grc">Σιλουαν</w><w xml:id="beth0212-2" xml:lang="grc"><supplied reason="lost">ός</supplied></w><w xml:id="beth0212-3" xml:lang="grc"><supplied reason="lost">Σατορ</supplied></w><w xml:id="beth0212-4" xml:lang="grc">νίλ</w><w xml:id="beth0212-5" xml:lang="grc"><supplied reason="lost">ου</supplied></w></p>
 </div>
 </body>
       <back>

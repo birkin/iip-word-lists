@@ -127,9 +127,7 @@
             <p>
                <choice><sic>Μνημῖ<lb/>ον</sic><corr>Μνημεῖον</corr></choice> Οὐμ<lb/>μαβίη Ζε<lb/>βίνα, <choice><sic>ἠτῶν</sic><corr>ἐτῶν</corr></choice>
                <lb/> ιζʹ,
-                    σοθʹ, <expan>
-                  <abbr>μη</abbr><ex>νὸς</ex>
-               </expan>
+                    σοθʹ, <expan><abbr>μη</abbr><ex>νὸς</ex></expan>
                <choice><sic>Ἀ<lb/>+<lb/>πελλέου</sic><corr>Ἀπελλαίου</corr></choice>
                <lb/> καʹ. <choice><sic>Θάρσι</sic><corr>Θάρσει</corr></choice>, ἀθά<lb/>νατος.</p>
          </div>
@@ -138,9 +136,7 @@
                     (in the year) 279, on (the) 21st (day) of (the) month Apellaios. Be of good
                     cheer, (no one is) immortal. </p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="zoor0046-1" xml:lang="grc">Μνημεῖον</w> <w xml:id="zoor0046-2" xml:lang="grc">Οὐμ</w> <w xml:id="zoor0046-3" xml:lang="grc">μαβίη</w> <w xml:id="zoor0046-4" xml:lang="grc">Ζε</w> <w xml:id="zoor0046-5" xml:lang="grc">βίνα</w> <w xml:id="zoor0046-6" xml:lang="grc">ἐτῶν</w> <w xml:id="zoor0046-7" xml:lang="grc">ιζ</w> <w xml:id="zoor0046-8" xml:lang="grc">σοθ</w><w xml:id="zoor0046-9" xml:lang="grc"><expan>
-                  <abbr>μη</abbr><ex>νὸς</ex>
-               </expan></w><w xml:id="zoor0046-10" xml:lang="grc">Ἀπελλαίου</w> <w xml:id="zoor0046-11" xml:lang="grc">κα</w> <w xml:id="zoor0046-12" xml:lang="grc">Θάρσει</w> <w xml:id="zoor0046-13" xml:lang="grc">ἀθά</w> <w xml:id="zoor0046-14" xml:lang="grc">νατος</w></p>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="zoor0046-1" xml:lang="grc">Μνημεῖον</w> <w xml:id="zoor0046-2" xml:lang="grc">Οὐμ</w> <w xml:id="zoor0046-3" xml:lang="grc">μαβίη</w> <w xml:id="zoor0046-4" xml:lang="grc">Ζε</w> <w xml:id="zoor0046-5" xml:lang="grc">βίνα</w> <w xml:id="zoor0046-6" xml:lang="grc">ἐτῶν</w> <w xml:id="zoor0046-7" xml:lang="grc">ιζ</w> <w xml:id="zoor0046-8" xml:lang="grc">σοθ</w><w xml:id="zoor0046-9" xml:lang="grc"><expan><abbr>μη</abbr><ex>νὸς</ex></expan></w><w xml:id="zoor0046-10" xml:lang="grc">Ἀπελλαίου</w> <w xml:id="zoor0046-11" xml:lang="grc">κα</w> <w xml:id="zoor0046-12" xml:lang="grc">Θάρσει</w> <w xml:id="zoor0046-13" xml:lang="grc">ἀθά</w> <w xml:id="zoor0046-14" xml:lang="grc">νατος</w></p>
 </div>
 </body>
       <back>

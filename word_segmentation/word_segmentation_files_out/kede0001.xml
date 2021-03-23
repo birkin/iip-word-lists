@@ -122,15 +122,11 @@
                <space quantity="1" unit="character"/>
                <orig>Υ</orig>
                <lb/>
-               <orig>ΘΙΝ</orig>Σε<lb break="no"/>πτίμι<lb break="no"/>ος <expan>
-                  <abbr>Ζήν<lb break="no"/>ω</abbr><ex>ν</ex>
-               </expan> Ζωσί<lb break="no"/>μου <choice><sic>ἐνέ<lb break="no"/>θηκον</sic><corr>ἀνέ<lb break="no"/>θηκεν</corr></choice>
+               <orig>ΘΙΝ</orig>Σε<lb break="no"/>πτίμι<lb break="no"/>ος <expan><abbr>Ζήν<lb break="no"/>ω</abbr><ex>ν</ex></expan> Ζωσί<lb break="no"/>μου <choice><sic>ἐνέ<lb break="no"/>θηκον</sic><corr>ἀνέ<lb break="no"/>θηκεν</corr></choice>
                <lb/>
                <orig>ΙΥΕ</orig>
                <lb/>
-               <expan>
-                  <abbr>μη</abbr><ex>νός</ex>
-               </expan>
+               <expan><abbr>μη</abbr><ex>νός</ex></expan>
                <choice><sic>Ἀϙτεμ<lb break="no"/>ισίου</sic><corr>Ἀρτεμ<lb break="no"/>ισίου</corr></choice>
                <num value="18">ηι</num>
             </p>
@@ -139,11 +135,7 @@
             <p>To the holy god... Septimius Zenon son of Zosimos dedicated in the year... on the
                eighteenth of the month of Artemisios.</p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="kede0001-1" xml:lang="grc">θεῷ</w> <w xml:id="kede0001-2" xml:lang="grc">ἁγίῳ</w> <w xml:id="kede0001-3" xml:lang="grc">Σεπτίμιος</w><w xml:id="kede0001-4" xml:lang="grc"><expan>
-                  <abbr>Ζήνω</abbr><ex>ν</ex>
-               </expan></w><w xml:id="kede0001-5" xml:lang="grc">Ζωσίμου</w> <w xml:id="kede0001-6" xml:lang="grc">ἀνέθηκεν</w><w xml:id="kede0001-7" xml:lang="grc"><expan>
-                  <abbr>μη</abbr><ex>νός</ex>
-               </expan></w><w xml:id="kede0001-8" xml:lang="grc">Ἀρτεμισίου</w> <w xml:id="kede0001-9" xml:lang="grc">ηι</w></p>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="kede0001-1" xml:lang="grc">θεῷ</w> <w xml:id="kede0001-2" xml:lang="grc">ἁγίῳ</w> <w xml:id="kede0001-3" xml:lang="grc">Σεπτίμιος</w><w xml:id="kede0001-4" xml:lang="grc"><expan><abbr>Ζήνω</abbr><ex>ν</ex></expan></w><w xml:id="kede0001-5" xml:lang="grc">Ζωσίμου</w> <w xml:id="kede0001-6" xml:lang="grc">ἀνέθηκεν</w><w xml:id="kede0001-7" xml:lang="grc"><expan><abbr>μη</abbr><ex>νός</ex></expan></w><w xml:id="kede0001-8" xml:lang="grc">Ἀρτεμισίου</w> <w xml:id="kede0001-9" xml:lang="grc">ηι</w></p>
 </div>
 </body>
       <back>

@@ -46,7 +46,7 @@
                         <textLang mainLang="la" otherLangs=""/>
                         <!-- lat, grc, heb, arc -->
                         <!-- religion here? -->
-                        <msItem class="dedicatory.imperial">
+                        <msItem class="dedicatory.imperial" ana="other_religion">
                             <p>Jerusalem, 129-130 CE. Imperial dedication.</p>
                         </msItem>
                     </msContents>
@@ -145,6 +145,8 @@
         -->
         <revisionDesc>
             <change when="2020-10-26" who="Chris Zeichmann">Initial Entry</change>
+            <change when="2021-02-28" who="Nesya Nelkin">Added a second image; edited
+                Religion</change>
         </revisionDesc>
     </teiHeader>
     <!--  *************************************  <facsimile>  *********************************
@@ -159,6 +161,8 @@
         <surface>
             <desc>Zev Radovan</desc>
             <graphic url="jeru0554.jpg"/>
+            <desc>Zev Radovan</desc>
+            <graphic url="jeru0554a.jpg"/>
         </surface>
     </facsimile>
     <text>
@@ -169,8 +173,8 @@
             </div>
             <div type="edition" subtype="transcription" ana="b1" xml:lang="lat">
                 <p>
-                    <lb/><expan><abbr>Imp</abbr><ex>eratori</ex></expan> Cae<supplied reason="lost">sari di</supplied>v<supplied reason="lost">i Traiani</supplied>
-                    <lb/><expan><abbr>Parthic</abbr><ex>i</ex></expan> <supplied reason="lost"><expan><abbr>f</abbr><ex>ilio</ex></expan> divi Nerv</supplied>ae <expan><abbr>nep</abbr><ex>oti</ex></expan>
+                    <lb/><expan><abbr>Imp</abbr><ex>eratori</ex></expan> Cae<supplied reason="lost">sari</supplied> <supplied reason="lost">di</supplied>v<supplied reason="lost">i</supplied> <supplied reason="lost">Traiani</supplied>
+                    <lb/><expan><abbr>Parthic</abbr><ex>i</ex></expan> <supplied reason="lost"><expan><abbr>f</abbr><ex>ilio</ex></expan></supplied> <supplied reason="lost">divi</supplied> <supplied reason="lost">Nerv</supplied>ae <expan><abbr>nep</abbr><ex>oti</ex></expan>
                     <lb/>Traiano <supplied reason="lost">Hadri</supplied>ano <expan><abbr>August</abbr><ex>o</ex></expan>
                     <lb/><expan><abbr>pont</abbr><ex>ifici</ex></expan> <expan><abbr>ma<supplied reason="lost">xi</supplied>m</abbr><ex>o</ex></expan> <expan><abbr>trib</abbr><ex>unicia</ex></expan> <expan><abbr>pot</abbr><ex>estate</ex></expan> <num value="14">XIIII</num>
                     <lb/><expan><abbr><unclear>c</unclear><supplied reason="lost">o</supplied></abbr><supplied reason="lost"><ex>n</ex></supplied><abbr>s</abbr><ex>uli</ex></expan> <num value="3">III</num> <expan><abbr>p</abbr><ex>atri</ex></expan> <expan><abbr>p</abbr><ex>atriae</ex></expan>

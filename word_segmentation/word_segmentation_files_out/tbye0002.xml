@@ -123,7 +123,7 @@
                 <p/>
             </div>
             <div type="edition" subtype="transcription" ana="b1">
-                <p><g type="cross">+</g><gap reason="lost" extent="unknown" unit="character"/><supplied reason="lost">Θ</supplied>εοδώρω Μάγιστρ<supplied reason="omitted">ο</supplied>ς καὶ Θεοφιλᾶς καῖ Βασσἰλ<supplied reason="lost">ω</supplied><lb/><orig>ΕΠΙϹ</orig><gap reason="lost"/>
+                <p><g type="cross">+</g><gap reason="lost" extent="unknown" unit="character"/><supplied reason="lost">Θ</supplied>εοδώρω Μάγιστρ<supplied reason="omitted">ο</supplied>ς καὶ Θεοφιλᾶς καῖ Βασσἰλ<supplied reason="lost">ω</supplied><lb/><orig>ΕΠΙϹ</orig><gap reason="lost" extent="unknown"/>
                     <supplied reason="lost">ἐγέ</supplied>νετο ἡ ψ<supplied reason="omitted">ή</supplied>φωσις τοῦ μεσαύλου καὶ τοῦ διακονικοῦ<lb/>ἐπὶ τ<supplied reason="lost">ῶν</supplied>
                     <expan><abbr>πρε</abbr><ex>σβθτέρων</ex></expan> Ἠλιοὺ καὶ Βασσὶλου ἰνδικτιῶνος
                         <num value="7">ζʹ</num> ἔτους <num value="591">φϙαʹ</num>.</p>

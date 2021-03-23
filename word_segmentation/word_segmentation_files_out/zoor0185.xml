@@ -145,9 +145,7 @@
                <lb/>
                <unclear>Ἀ</unclear>λουλόθ<lb/>η, <unclear>ἀ</unclear>ποθαν<lb/>οῦσα <choice><sic>μητὰ</sic><corr>μετὰ</corr></choice>
                <lb/> καλοῦ <choice><sic>ἀνό<lb/>ματος</sic><corr>ὀνόματος</corr></choice>
-               <expan>
-                  <abbr>ἐτῶ</abbr><ex>ν</ex>
-               </expan>
+               <expan><abbr>ἐτῶ</abbr><ex>ν</ex></expan>
                <lb/> νʹ, <choice><sic>τους</sic><corr>ἔ</corr></choice>
                         τμ<unclear>δ</unclear>ʹ,<lb/> μηνὸς Ξαν<lb/>θικοῦ. <choice><sic>Θάρσι</sic><corr>Θάρσει</corr></choice>, οὐ.<lb/> + +</p>
          </div>
@@ -156,9 +154,7 @@
                     the year 344, in the month of Xanthikos. Be of good cheer, no one (is)
                     immortal.</p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="zoor0185-1" xml:lang="grc">Μνημεῖον</w> <w xml:id="zoor0185-2" xml:lang="grc">Ἀλουλόθ</w> <w xml:id="zoor0185-3" xml:lang="grc">η</w> <w xml:id="zoor0185-4" xml:lang="grc">ἀποθαν</w> <w xml:id="zoor0185-5" xml:lang="grc">οῦσα</w> <w xml:id="zoor0185-6" xml:lang="grc">μετὰ</w> <w xml:id="zoor0185-7" xml:lang="grc">καλοῦ</w> <w xml:id="zoor0185-8" xml:lang="grc">ὀνόματος</w><w xml:id="zoor0185-9" xml:lang="grc"><expan>
-                  <abbr>ἐτῶ</abbr><ex>ν</ex>
-               </expan></w><w xml:id="zoor0185-10" xml:lang="grc">ν</w> <w xml:id="zoor0185-11" xml:lang="grc">ἔ</w> <w xml:id="zoor0185-12" xml:lang="grc">τμδ</w> <w xml:id="zoor0185-13" xml:lang="grc">μηνὸς</w> <w xml:id="zoor0185-14" xml:lang="grc">Ξαν</w> <w xml:id="zoor0185-15" xml:lang="grc">θικοῦ</w> <w xml:id="zoor0185-16" xml:lang="grc">Θάρσει</w> <w xml:id="zoor0185-17" xml:lang="grc">οὐ</w></p>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="zoor0185-1" xml:lang="grc">Μνημεῖον</w> <w xml:id="zoor0185-2" xml:lang="grc">Ἀλουλόθ</w> <w xml:id="zoor0185-3" xml:lang="grc">η</w> <w xml:id="zoor0185-4" xml:lang="grc">ἀποθαν</w> <w xml:id="zoor0185-5" xml:lang="grc">οῦσα</w> <w xml:id="zoor0185-6" xml:lang="grc">μετὰ</w> <w xml:id="zoor0185-7" xml:lang="grc">καλοῦ</w> <w xml:id="zoor0185-8" xml:lang="grc">ὀνόματος</w><w xml:id="zoor0185-9" xml:lang="grc"><expan><abbr>ἐτῶ</abbr><ex>ν</ex></expan></w><w xml:id="zoor0185-10" xml:lang="grc">ν</w> <w xml:id="zoor0185-11" xml:lang="grc">ἔ</w> <w xml:id="zoor0185-12" xml:lang="grc">τμδ</w> <w xml:id="zoor0185-13" xml:lang="grc">μηνὸς</w> <w xml:id="zoor0185-14" xml:lang="grc">Ξαν</w> <w xml:id="zoor0185-15" xml:lang="grc">θικοῦ</w> <w xml:id="zoor0185-16" xml:lang="grc">Θάρσει</w> <w xml:id="zoor0185-17" xml:lang="grc">οὐ</w></p>
 </div>
 </body>
       <back>

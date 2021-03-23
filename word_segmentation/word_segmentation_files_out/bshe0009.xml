@@ -180,45 +180,19 @@
                     <lb/>Ε·Ι·ΕΤΟΥ<unclear>ϹΕΠ</unclear>Φ<hi rend="superscript">Η</hi>ΕΝΜΠΑΝΙ<unclear>Μ</unclear>SΚ <lb/>ΥΤΟΕΝΙΑΥΤΟΑΠΕΚ<hi rend="superscript">Η</hi>SΕΝΜϹΕΤS  <lb/>ΠΡΦΡΑΝΟΙϹΙΟΥϹ<hi rend="superscript">Ο</hi>Χ<unclear>S</unclear>ΚΕΒΟSΝ </p>
             </div>
             <div type="edition" subtype="transcription" ana="b1">
-                <p>Ἐκτίσθι τὸ <expan>
-                        <abbr>μον</abbr><ex>αστήριον</ex>
-                    </expan>
-                    <expan>
-                        <abbr>τ</abbr><ex>οῦτο</ex>
-                    </expan> τοῦ ἀββ<supplied reason="lost">ᾶ Ἰουσ</supplied>
-                    <lb break="no"/>τίνου τοῦ <expan>
-                        <abbr>ἀποκ</abbr><ex>λεισ</ex><abbr>τ</abbr><ex>οῦ</ex>
-                    </expan> ἐν <expan>
-                        <abbr>χρόν</abbr><ex>οις</ex>
-                    </expan>
-                    <supplied reason="lost">
-                        <expan><abbr>ἰνδ</abbr><ex>ικτιῶνος</ex></expan>
-                    </supplied>
-                    <lb/><num value="15">ει</num> ἔτους <num value="585">επφ</num> ἐν <expan>
-                        <abbr>μη</abbr><ex>νὶ</ex>
-                    </expan>
-                    <expan>
-                        <abbr>Πανίμ</abbr><ex>ου</ex>
-                    </expan> κ<gap reason="illegible" quantity="1" unit="character"/><supplied reason="omitted">´ <expan>
-                            <abbr>κ</abbr><ex>αὶ</ex>
-                        </expan> ἐν τῷ α</supplied>
-                    <lb break="no"/>ὐτῷ ἐνιαυτῷ <expan>
-                        <abbr>ἀπεκ</abbr><ex>λείσθη</ex>
-                    </expan> ἐν <expan>
-                        <abbr>μη</abbr><ex>νὶ</ex>
-                    </expan>
+                <p>Ἐκτίσθι τὸ <expan><abbr>μον</abbr><ex>αστήριον</ex></expan>
+                    <expan><abbr>τ</abbr><ex>οῦτο</ex></expan> τοῦ ἀββ<supplied reason="lost">ᾶ</supplied> <supplied reason="lost">Ἰουσ</supplied>
+                    <lb break="no"/>τίνου τοῦ <expan><abbr>ἀποκ</abbr><ex>λεισ</ex><abbr>τ</abbr><ex>οῦ</ex></expan> ἐν <expan><abbr>χρόν</abbr><ex>οις</ex></expan>
+                    <supplied reason="lost"><expan><abbr>ἰνδ</abbr><ex>ικτιῶνος</ex></expan></supplied>
+                    <lb/><num value="15">ει</num> ἔτους <num value="585">επφ</num> ἐν <expan><abbr>μη</abbr><ex>νὶ</ex></expan>
+                    <expan><abbr>Πανίμ</abbr><ex>ου</ex></expan> κ<gap reason="illegible" quantity="1" unit="character"/><supplied reason="omitted">´ <expan><abbr>κ</abbr><ex>αὶ</ex></expan> ἐν τῷ α</supplied>
+                    <lb break="no"/>ὐτῷ ἐνιαυτῷ <expan><abbr>ἀπεκ</abbr><ex>λείσθη</ex></expan> ἐν <expan><abbr>μη</abbr><ex>νὶ</ex></expan>
                     <expan><abbr>Ϲε</abbr><ex>π</ex><abbr>τ</abbr><ex>εμβρίου</ex></expan>
                     <gap reason="illegible" quantity="2" unit="character"/><supplied reason="omitted">ἰνδικτιῶνος <num value="1">α</num></supplied>
                     <lb/>
-                    <expan>
-                        <abbr>Πρ</abbr><ex>οσ</ex><abbr>φ</abbr><ex>ο</ex><abbr>ρ</abbr><ex>ὰ</ex>
-                    </expan> Ἀνοισίου <expan>
-                        <abbr>σχο</abbr><ex>λαστικοῦ</ex>
-                    </expan>. <expan>
-                        <abbr>Κ</abbr><ex>ύρι</ex><abbr>ε</abbr>
+                    <expan><abbr>Πρ</abbr><ex>οσ</ex><abbr>φ</abbr><ex>ο</ex><abbr>ρ</abbr><ex>ὰ</ex></expan> Ἀνοισίου <expan><abbr>σχο</abbr><ex>λαστικοῦ</ex></expan>. <expan><abbr>Κ</abbr><ex>ύρι</ex><abbr>ε</abbr>
                     </expan>
-                    <expan>
-                        <abbr>βο</abbr><ex>ήθησο</ex><abbr>ν</abbr>
+                    <expan><abbr>βο</abbr><ex>ήθησο</ex><abbr>ν</abbr>
                     </expan>. <supplied reason="lost">Ἀμήν</supplied>. </p>
             </div>
             <div type="translation" ana="b1">
@@ -232,33 +206,9 @@
             </div>
             <!-- The bibl has more contained elements. What is the possible list of values of the biblScope/@type? 
              -->
-        <div type="edition" subtype="transcription_segmented"><p><w xml:id="bshe0009-1" xml:lang="grc">Ἐκτίσθι</w> <w xml:id="bshe0009-2" xml:lang="grc">τὸ</w><w xml:id="bshe0009-3" xml:lang="grc"><expan>
-                        <abbr>μον</abbr><ex>αστήριον</ex>
-                    </expan></w><w xml:id="bshe0009-4" xml:lang="grc"><expan>
-                        <abbr>τ</abbr><ex>οῦτο</ex>
-                    </expan></w><w xml:id="bshe0009-5" xml:lang="grc">τοῦ</w> <w xml:id="bshe0009-6" xml:lang="grc">ἀββ</w><w xml:id="bshe0009-7" xml:lang="grc"><supplied reason="lost">ᾶ Ἰουσ</supplied></w><w xml:id="bshe0009-8" xml:lang="grc">τίνου</w> <w xml:id="bshe0009-9" xml:lang="grc">τοῦ</w><w xml:id="bshe0009-10" xml:lang="grc"><expan>
-                        <abbr>ἀποκ</abbr><ex>λεισ</ex><abbr>τ</abbr><ex>οῦ</ex>
-                    </expan></w><w xml:id="bshe0009-11" xml:lang="grc">ἐν</w><w xml:id="bshe0009-12" xml:lang="grc"><expan>
-                        <abbr>χρόν</abbr><ex>οις</ex>
-                    </expan></w><w xml:id="bshe0009-13" xml:lang="grc"><supplied reason="lost"><w xml:id="bshe0009-14" xml:lang="grc"><expan><abbr>ἰνδ</abbr><ex>ικτιῶνος</ex></expan></w></supplied></w><w xml:id="bshe0009-15" xml:lang="grc">ει</w> <w xml:id="bshe0009-16" xml:lang="grc">ἔτους</w> <w xml:id="bshe0009-17" xml:lang="grc">επφ</w> <w xml:id="bshe0009-18" xml:lang="grc">ἐν</w><w xml:id="bshe0009-19" xml:lang="grc"><expan>
-                        <abbr>μη</abbr><ex>νὶ</ex>
-                    </expan></w><w xml:id="bshe0009-20" xml:lang="grc"><expan>
-                        <abbr>Πανίμ</abbr><ex>ου</ex>
-                    </expan></w><w xml:id="bshe0009-21" xml:lang="grc">κ</w><w xml:id="bshe0009-22" xml:lang="grc"><supplied reason="omitted">´<w xml:id="bshe0009-23" xml:lang="grc"><expan>
-                            <abbr>κ</abbr><ex>αὶ</ex>
-                        </expan></w>ἐν τῷ α</supplied></w><w xml:id="bshe0009-24" xml:lang="grc">ὐτῷ</w> <w xml:id="bshe0009-25" xml:lang="grc">ἐνιαυτῷ</w><w xml:id="bshe0009-26" xml:lang="grc"><expan>
-                        <abbr>ἀπεκ</abbr><ex>λείσθη</ex>
-                    </expan></w><w xml:id="bshe0009-27" xml:lang="grc">ἐν</w><w xml:id="bshe0009-28" xml:lang="grc"><expan>
-                        <abbr>μη</abbr><ex>νὶ</ex>
-                    </expan></w><w xml:id="bshe0009-29" xml:lang="grc"><expan><abbr>Ϲε</abbr><ex>π</ex><abbr>τ</abbr><ex>εμβρίου</ex></expan></w><w xml:id="bshe0009-30" xml:lang="grc"><supplied reason="omitted">ἰνδικτιῶνος  α </supplied></w><w xml:id="bshe0009-31" xml:lang="grc"><expan>
-                        <abbr>Πρ</abbr><ex>οσ</ex><abbr>φ</abbr><ex>ο</ex><abbr>ρ</abbr><ex>ὰ</ex>
-                    </expan></w><w xml:id="bshe0009-32" xml:lang="grc">Ἀνοισίου</w><w xml:id="bshe0009-33" xml:lang="grc"><expan>
-                        <abbr>σχο</abbr><ex>λαστικοῦ</ex>
-                    </expan></w><w xml:id="bshe0009-34" xml:lang="grc"><expan>
-                        <abbr>Κ</abbr><ex>ύρι</ex><abbr>ε</abbr>
-                    </expan></w><w xml:id="bshe0009-35" xml:lang="grc"><expan>
-                        <abbr>βο</abbr><ex>ήθησο</ex><abbr>ν</abbr>
-                    </expan></w><w xml:id="bshe0009-36" xml:lang="grc"><supplied reason="lost">Ἀμήν</supplied></w></p>
+        <div type="edition" subtype="transcription_segmented"><p><w xml:id="bshe0009-1" xml:lang="grc">Ἐκτίσθι</w> <w xml:id="bshe0009-2" xml:lang="grc">τὸ</w><w xml:id="bshe0009-3" xml:lang="grc"><expan><abbr>μον</abbr><ex>αστήριον</ex></expan></w><w xml:id="bshe0009-4" xml:lang="grc"><expan><abbr>τ</abbr><ex>οῦτο</ex></expan></w><w xml:id="bshe0009-5" xml:lang="grc">τοῦ</w> <w xml:id="bshe0009-6" xml:lang="grc">ἀββ</w><w xml:id="bshe0009-7" xml:lang="grc"><supplied reason="lost">ᾶ</supplied></w><w xml:id="bshe0009-8" xml:lang="grc"><supplied reason="lost">Ἰουσ</supplied></w><w xml:id="bshe0009-9" xml:lang="grc">τίνου</w> <w xml:id="bshe0009-10" xml:lang="grc">τοῦ</w><w xml:id="bshe0009-11" xml:lang="grc"><expan><abbr>ἀποκ</abbr><ex>λεισ</ex><abbr>τ</abbr><ex>οῦ</ex></expan></w><w xml:id="bshe0009-12" xml:lang="grc">ἐν</w><w xml:id="bshe0009-13" xml:lang="grc"><expan><abbr>χρόν</abbr><ex>οις</ex></expan></w><w xml:id="bshe0009-14" xml:lang="grc"><supplied reason="lost"><w xml:id="bshe0009-15" xml:lang="grc"><expan><abbr>ἰνδ</abbr><ex>ικτιῶνος</ex></expan></w></supplied></w><w xml:id="bshe0009-16" xml:lang="grc">ει</w> <w xml:id="bshe0009-17" xml:lang="grc">ἔτους</w> <w xml:id="bshe0009-18" xml:lang="grc">επφ</w> <w xml:id="bshe0009-19" xml:lang="grc">ἐν</w><w xml:id="bshe0009-20" xml:lang="grc"><expan><abbr>μη</abbr><ex>νὶ</ex></expan></w><w xml:id="bshe0009-21" xml:lang="grc"><expan><abbr>Πανίμ</abbr><ex>ου</ex></expan></w><w xml:id="bshe0009-22" xml:lang="grc">κ</w><w xml:id="bshe0009-23" xml:lang="grc"><supplied reason="omitted">´<w xml:id="bshe0009-24" xml:lang="grc"><expan><abbr>κ</abbr><ex>αὶ</ex></expan></w>ἐν τῷ α</supplied></w><w xml:id="bshe0009-25" xml:lang="grc">ὐτῷ</w> <w xml:id="bshe0009-26" xml:lang="grc">ἐνιαυτῷ</w><w xml:id="bshe0009-27" xml:lang="grc"><expan><abbr>ἀπεκ</abbr><ex>λείσθη</ex></expan></w><w xml:id="bshe0009-28" xml:lang="grc">ἐν</w><w xml:id="bshe0009-29" xml:lang="grc"><expan><abbr>μη</abbr><ex>νὶ</ex></expan></w><w xml:id="bshe0009-30" xml:lang="grc"><expan><abbr>Ϲε</abbr><ex>π</ex><abbr>τ</abbr><ex>εμβρίου</ex></expan></w><w xml:id="bshe0009-31" xml:lang="grc"><supplied reason="omitted">ἰνδικτιῶνος  α </supplied></w><w xml:id="bshe0009-32" xml:lang="grc"><expan><abbr>Πρ</abbr><ex>οσ</ex><abbr>φ</abbr><ex>ο</ex><abbr>ρ</abbr><ex>ὰ</ex></expan></w><w xml:id="bshe0009-33" xml:lang="grc">Ἀνοισίου</w><w xml:id="bshe0009-34" xml:lang="grc"><expan><abbr>σχο</abbr><ex>λαστικοῦ</ex></expan></w><w xml:id="bshe0009-35" xml:lang="grc"><expan><abbr>Κ</abbr><ex>ύρι</ex><abbr>ε</abbr>
+                    </expan></w><w xml:id="bshe0009-36" xml:lang="grc"><expan><abbr>βο</abbr><ex>ήθησο</ex><abbr>ν</abbr>
+                    </expan></w><w xml:id="bshe0009-37" xml:lang="grc"><supplied reason="lost">Ἀμήν</supplied></w></p>
 </div>
 </body>
         <back>

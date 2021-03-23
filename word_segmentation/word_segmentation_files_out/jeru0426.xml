@@ -125,19 +125,11 @@
             </div>
             <div type="edition" subtype="transcription" ana="b1">
                 <p>Θήκ<supplied reason="lost">η</supplied> διαφέρουσα τῃ<lb/>ὁσιωτάτ<supplied reason="omitted">ῃ</supplied>, Χαράτ<supplied reason="omitted">ῃ</supplied>,
-                            <expan>
-                  <abbr>ἡγουμ</abbr><ex>ένῃ</ex>
-               </expan> τ<hi rend="ligature">οῦ</hi>
+                            <expan><abbr>ἡγουμ</abbr><ex>ένῃ</ex></expan> τ<hi rend="ligature">οῦ</hi>
                <lb/>
-               <expan>
-                   <abbr>εὐαγ<am>ϛ</am></abbr><ex>οῦς</ex>
-               </expan>
-                    <expan>
-                        <abbr>μο<am>ϛ</am></abbr><ex>ναστηρίου</ex>
-               </expan> τῶν
-                            <expan>
-                                <abbr>Ἀρμενί<am>ϛ</am></abbr><ex cert="low">ων</ex>
-               </expan>
+               <expan><abbr>εὐαγ<am>ϛ</am></abbr><ex>οῦς</ex></expan>
+                    <expan><abbr>μο<am>ϛ</am></abbr><ex>ναστηρίου</ex></expan> τῶν
+                            <expan><abbr>Ἀρμενί<am>ϛ</am></abbr><ex cert="low">ων</ex></expan>
             </p>
             </div>
             <div type="translation" ana="b1">
@@ -147,15 +139,7 @@
             <div type="commentary" ana="b1">
                 <p/>
             </div>
-        <div type="edition" subtype="transcription_segmented"><p><w xml:id="jeru0426-1" xml:lang="grc">Θήκ</w><w xml:id="jeru0426-2" xml:lang="grc"><supplied reason="lost">η</supplied></w><w xml:id="jeru0426-3" xml:lang="grc">διαφέρουσα</w> <w xml:id="jeru0426-4" xml:lang="grc">τῃ</w> <w xml:id="jeru0426-5" xml:lang="grc">ὁσιωτάτ</w><w xml:id="jeru0426-6" xml:lang="grc"><supplied reason="omitted">ῃ</supplied></w><w xml:id="jeru0426-7" xml:lang="grc">Χαράτ</w><w xml:id="jeru0426-8" xml:lang="grc"><supplied reason="omitted">ῃ</supplied></w><w xml:id="jeru0426-9" xml:lang="grc"><expan>
-                  <abbr>ἡγουμ</abbr><ex>ένῃ</ex>
-               </expan></w><w xml:id="jeru0426-10" xml:lang="grc">τ</w><w xml:id="jeru0426-11" xml:lang="grc"><expan>
-                   <abbr>εὐαγ<am>ϛ</am></abbr><ex>οῦς</ex>
-               </expan></w><w xml:id="jeru0426-12" xml:lang="grc"><expan>
-                        <abbr>μο<am>ϛ</am></abbr><ex>ναστηρίου</ex>
-               </expan></w><w xml:id="jeru0426-13" xml:lang="grc">τῶν</w><w xml:id="jeru0426-14" xml:lang="grc"><expan>
-                                <abbr>Ἀρμενί<am>ϛ</am></abbr><ex cert="low">ων</ex>
-               </expan></w></p>
+        <div type="edition" subtype="transcription_segmented"><p><w xml:id="jeru0426-1" xml:lang="grc">Θήκ</w><w xml:id="jeru0426-2" xml:lang="grc"><supplied reason="lost">η</supplied></w><w xml:id="jeru0426-3" xml:lang="grc">διαφέρουσα</w> <w xml:id="jeru0426-4" xml:lang="grc">τῃ</w> <w xml:id="jeru0426-5" xml:lang="grc">ὁσιωτάτ</w><w xml:id="jeru0426-6" xml:lang="grc"><supplied reason="omitted">ῃ</supplied></w><w xml:id="jeru0426-7" xml:lang="grc">Χαράτ</w><w xml:id="jeru0426-8" xml:lang="grc"><supplied reason="omitted">ῃ</supplied></w><w xml:id="jeru0426-9" xml:lang="grc"><expan><abbr>ἡγουμ</abbr><ex>ένῃ</ex></expan></w><w xml:id="jeru0426-10" xml:lang="grc">τ</w><w xml:id="jeru0426-11" xml:lang="grc"><expan><abbr>εὐαγ<am>ϛ</am></abbr><ex>οῦς</ex></expan></w><w xml:id="jeru0426-12" xml:lang="grc"><expan><abbr>μο<am>ϛ</am></abbr><ex>ναστηρίου</ex></expan></w><w xml:id="jeru0426-13" xml:lang="grc">τῶν</w><w xml:id="jeru0426-14" xml:lang="grc"><expan><abbr>Ἀρμενί<am>ϛ</am></abbr><ex cert="low">ων</ex></expan></w></p>
 </div>
 </body>
         <back>

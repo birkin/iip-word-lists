@@ -133,9 +133,7 @@
                <choice><sic>ἰκοστριτη</sic><corr>εἰκοστῇ τρίτῃ</corr></choice>, ἤτους <choice><sic>τι<lb/>+λκοσσιοστοῦ</sic><corr>τριακοσιοστοῦ</corr></choice> ξʹ.<lb/>
                <choice><sic>θόρσι</sic><corr>θάρσει</corr></choice>
                <choice><sic>οὐδὶς</sic><corr> ὀυδείς</corr></choice>
-               <expan>
-                  <abbr>ἀθ</abbr><ex>ανατος</ex>
-               </expan>.<lb/> +</p>
+               <expan><abbr>ἀθ</abbr><ex>ανατος</ex></expan>.<lb/> +</p>
          </div>
          <div type="translation" ana="#b1" xml:id="zoor0217.translation" corresp="#zoor0217.transcription">
             <p>Monument of Petros, (son) of Paulus, who died (at the age) of twenty years, on
@@ -143,9 +141,7 @@
                     Appelaios, in the year three hundred and sixty. Be of good cheer, no one (is)
                     immortal. </p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="zoor0217-1" xml:lang="grc">Μνημεῖον</w> <w xml:id="zoor0217-2" xml:lang="grc">Πέ</w> <w xml:id="zoor0217-3" xml:lang="grc">τρου</w> <w xml:id="zoor0217-4" xml:lang="grc">Παύλου</w> <w xml:id="zoor0217-5" xml:lang="grc">τελευτήσαντος</w> <w xml:id="zoor0217-6" xml:lang="grc">ετῶν</w> <w xml:id="zoor0217-7" xml:lang="grc">εἴκοσι</w> <w xml:id="zoor0217-8" xml:lang="grc">ἐν</w> <w xml:id="zoor0217-9" xml:lang="grc">ἡ</w> <w xml:id="zoor0217-10" xml:lang="grc">μέρᾳ</w> <w xml:id="zoor0217-11" xml:lang="grc">πέμπτῃ</w> <w xml:id="zoor0217-12" xml:lang="grc">τοῦ</w> <w xml:id="zoor0217-13" xml:lang="grc">σαββάτος</w> <w xml:id="zoor0217-14" xml:lang="grc">ἐν</w> <w xml:id="zoor0217-15" xml:lang="grc">μη</w> <w xml:id="zoor0217-16" xml:lang="grc">νὶ</w> <w xml:id="zoor0217-17" xml:lang="grc">Ἀπελλαίου</w> <w xml:id="zoor0217-18" xml:lang="grc">εἰκοστῇ</w> <w xml:id="zoor0217-19" xml:lang="grc">τρίτῃ</w> <w xml:id="zoor0217-20" xml:lang="grc">ἤτους</w> <w xml:id="zoor0217-21" xml:lang="grc">τριακοσιοστοῦ</w> <w xml:id="zoor0217-22" xml:lang="grc">ξ</w> <w xml:id="zoor0217-23" xml:lang="grc">θάρσει</w> <w xml:id="zoor0217-24" xml:lang="grc">ὀυδείς</w><w xml:id="zoor0217-25" xml:lang="grc"><expan>
-                  <abbr>ἀθ</abbr><ex>ανατος</ex>
-               </expan></w></p>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="zoor0217-1" xml:lang="grc">Μνημεῖον</w> <w xml:id="zoor0217-2" xml:lang="grc">Πέ</w> <w xml:id="zoor0217-3" xml:lang="grc">τρου</w> <w xml:id="zoor0217-4" xml:lang="grc">Παύλου</w> <w xml:id="zoor0217-5" xml:lang="grc">τελευτήσαντος</w> <w xml:id="zoor0217-6" xml:lang="grc">ετῶν</w> <w xml:id="zoor0217-7" xml:lang="grc">εἴκοσι</w> <w xml:id="zoor0217-8" xml:lang="grc">ἐν</w> <w xml:id="zoor0217-9" xml:lang="grc">ἡ</w> <w xml:id="zoor0217-10" xml:lang="grc">μέρᾳ</w> <w xml:id="zoor0217-11" xml:lang="grc">πέμπτῃ</w> <w xml:id="zoor0217-12" xml:lang="grc">τοῦ</w> <w xml:id="zoor0217-13" xml:lang="grc">σαββάτος</w> <w xml:id="zoor0217-14" xml:lang="grc">ἐν</w> <w xml:id="zoor0217-15" xml:lang="grc">μη</w> <w xml:id="zoor0217-16" xml:lang="grc">νὶ</w> <w xml:id="zoor0217-17" xml:lang="grc">Ἀπελλαίου</w> <w xml:id="zoor0217-18" xml:lang="grc">εἰκοστῇ</w> <w xml:id="zoor0217-19" xml:lang="grc">τρίτῃ</w> <w xml:id="zoor0217-20" xml:lang="grc">ἤτους</w> <w xml:id="zoor0217-21" xml:lang="grc">τριακοσιοστοῦ</w> <w xml:id="zoor0217-22" xml:lang="grc">ξ</w> <w xml:id="zoor0217-23" xml:lang="grc">θάρσει</w> <w xml:id="zoor0217-24" xml:lang="grc">ὀυδείς</w><w xml:id="zoor0217-25" xml:lang="grc"><expan><abbr>ἀθ</abbr><ex>ανατος</ex></expan></w></p>
 </div>
 </body>
       <back>

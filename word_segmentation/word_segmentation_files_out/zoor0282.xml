@@ -132,31 +132,17 @@
                <unclear>καὶ</unclear>
                <unclear>κα</unclear>
                <lb/>λῆς πίστεως <unclear>ἐτῶν</unclear>
-               <lb/>
-                        ἐτῶ<unclear>ν</unclear>
-               <unclear>μ</unclear>ηʹ, <unclear>ἔτους</unclear>
+               <lb/>ἐτῶ<unclear>ν</unclear>
+              <num value="48"><unclear>μ</unclear>ηʹ</num>, <unclear>ἔτους</unclear>
                <lb/>
                <gap reason="lost" unit="character" extent="unknown"/>
-               <supplied reason="undefined">,
-                  <expan>
-                     <abbr>μη</abbr><ex>νὸς</ex>
-                  </expan>
-               </supplied>
-               <gap reason="illegible" quantity="7" precision="low" unit="character"/> διʹ<lb/>
-               <supplied reason="undefined">
-                  <expan>
-                     <abbr>ἡμ</abbr><ex>έρᾳ</ex>
-                  </expan>
-                  <expan>
-                     <abbr>Κυ</abbr><ex>ρίου</ex>
-                  </expan>
-               </supplied>
+               ,<supplied reason="undefined"><expan><abbr>μη</abbr><ex>νὸς</ex></expan></supplied>
+               <gap reason="illegible" quantity="7" precision="low" unit="character"/> <num value="14">διʹ</num><lb/>
+               <supplied reason="undefined"><expan><abbr>ἡμ</abbr><ex>έρᾳ</ex></expan></supplied>
+               <supplied reason="undefined"><expan><abbr>Κυ</abbr><ex>ρίου</ex></expan></supplied>
                <gap reason="lost" unit="character" extent="unknown"/>
-               <supplied reason="undefined">
-                  <choice><sic>Θάρσι</sic><corr>Θάρσει</corr></choice>
-               </supplied>
-               <lb/>
-               <choice><sic>οὐδὶς</sic><corr>οὐδείς</corr></choice> ἀθάνα<lb/>τος.</p>
+               <supplied reason="undefined"><choice><sic>Θάρσι</sic><corr>Θάρσει</corr></choice></supplied>
+               <lb/><choice><sic>οὐδὶς</sic><corr>οὐδείς</corr></choice> ἀθάνα<lb/>τος.</p>
          </div>
          <div type="translation" ana="#b1" xml:id="zoor0282.translation" corresp="#zoor0282.transcription">
             <p>Monument of the blessed Ouales (Valens), (son) of Eusebios, who died having a
@@ -164,15 +150,7 @@
                     14th (day) [of (the) month... on (the)...day of (the) Lord]. [Be of good cheer],
                     no one (is) immortal. </p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="zoor0282-1" xml:lang="grc">Μνημεῖον</w> <w xml:id="zoor0282-2" xml:lang="grc">τοῦ</w> <w xml:id="zoor0282-3" xml:lang="grc">μακαρί</w> <w xml:id="zoor0282-4" xml:lang="grc">του</w> <w xml:id="zoor0282-5" xml:lang="grc">Οὐαλεντος</w> <w xml:id="zoor0282-6" xml:lang="grc">Εὐ</w> <w xml:id="zoor0282-7" xml:lang="grc">σεβίου</w> <w xml:id="zoor0282-8" xml:lang="grc">ἀποθανόν</w> <w xml:id="zoor0282-9" xml:lang="grc">τος</w> <w xml:id="zoor0282-10" xml:lang="grc">μετὰ</w> <w xml:id="zoor0282-11" xml:lang="grc">καλοῦ</w> <w xml:id="zoor0282-12" xml:lang="grc">ὀνόματος</w> <w xml:id="zoor0282-13" xml:lang="grc">καὶ</w> <w xml:id="zoor0282-14" xml:lang="grc">κα</w> <w xml:id="zoor0282-15" xml:lang="grc">λῆς</w> <w xml:id="zoor0282-16" xml:lang="grc">πίστεως</w> <w xml:id="zoor0282-17" xml:lang="grc">ἐτῶν</w> <w xml:id="zoor0282-18" xml:lang="grc">ἐτῶν</w> <w xml:id="zoor0282-19" xml:lang="grc">μη</w> <w xml:id="zoor0282-20" xml:lang="grc">ἔτους</w><w xml:id="zoor0282-21" xml:lang="grc"><supplied reason="undefined">,<w xml:id="zoor0282-22" xml:lang="grc"><expan>
-                     <abbr>μη</abbr><ex>νὸς</ex>
-                  </expan></w></supplied></w><w xml:id="zoor0282-23" xml:lang="grc">δι</w><w xml:id="zoor0282-24" xml:lang="grc"><supplied reason="undefined"><w xml:id="zoor0282-25" xml:lang="grc"><expan>
-                     <abbr>ἡμ</abbr><ex>έρᾳ</ex>
-                  </expan></w><w xml:id="zoor0282-26" xml:lang="grc"><expan>
-                     <abbr>Κυ</abbr><ex>ρίου</ex>
-                  </expan></w></supplied></w><w xml:id="zoor0282-27" xml:lang="grc"><supplied reason="undefined">
-                   Θάρσει 
-               </supplied></w><w xml:id="zoor0282-28" xml:lang="grc">οὐδείς</w> <w xml:id="zoor0282-29" xml:lang="grc">ἀθάνα</w> <w xml:id="zoor0282-30" xml:lang="grc">τος</w></p>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="zoor0282-1" xml:lang="grc">Μνημεῖον</w> <w xml:id="zoor0282-2" xml:lang="grc">τοῦ</w> <w xml:id="zoor0282-3" xml:lang="grc">μακαρί</w> <w xml:id="zoor0282-4" xml:lang="grc">του</w> <w xml:id="zoor0282-5" xml:lang="grc">Οὐαλεντος</w> <w xml:id="zoor0282-6" xml:lang="grc">Εὐ</w> <w xml:id="zoor0282-7" xml:lang="grc">σεβίου</w> <w xml:id="zoor0282-8" xml:lang="grc">ἀποθανόν</w> <w xml:id="zoor0282-9" xml:lang="grc">τος</w> <w xml:id="zoor0282-10" xml:lang="grc">μετὰ</w> <w xml:id="zoor0282-11" xml:lang="grc">καλοῦ</w> <w xml:id="zoor0282-12" xml:lang="grc">ὀνόματος</w> <w xml:id="zoor0282-13" xml:lang="grc">καὶ</w> <w xml:id="zoor0282-14" xml:lang="grc">κα</w> <w xml:id="zoor0282-15" xml:lang="grc">λῆς</w> <w xml:id="zoor0282-16" xml:lang="grc">πίστεως</w> <w xml:id="zoor0282-17" xml:lang="grc">ἐτῶν</w> <w xml:id="zoor0282-18" xml:lang="grc">ἐτῶν</w> <w xml:id="zoor0282-19" xml:lang="grc">μη</w> <w xml:id="zoor0282-20" xml:lang="grc">ἔτους</w><w xml:id="zoor0282-21" xml:lang="grc"><supplied reason="undefined"><w xml:id="zoor0282-22" xml:lang="grc"><expan><abbr>μη</abbr><ex>νὸς</ex></expan></w></supplied></w><w xml:id="zoor0282-23" xml:lang="grc">δι</w><w xml:id="zoor0282-24" xml:lang="grc"><supplied reason="undefined"><w xml:id="zoor0282-25" xml:lang="grc"><expan><abbr>ἡμ</abbr><ex>έρᾳ</ex></expan></w></supplied></w><w xml:id="zoor0282-26" xml:lang="grc"><supplied reason="undefined"><w xml:id="zoor0282-27" xml:lang="grc"><expan><abbr>Κυ</abbr><ex>ρίου</ex></expan></w></supplied></w><w xml:id="zoor0282-28" xml:lang="grc"><supplied reason="undefined"> Θάρσει </supplied></w><w xml:id="zoor0282-29" xml:lang="grc">οὐδείς</w> <w xml:id="zoor0282-30" xml:lang="grc">ἀθάνα</w> <w xml:id="zoor0282-31" xml:lang="grc">τος</w></p>
 </div>
 </body>
       <back>

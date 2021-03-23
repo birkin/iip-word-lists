@@ -150,11 +150,8 @@
                     <lb/>
                <g type="cross"/>
                <num value="23">κγ</num>,
-                            <expan>
-                  <abbr>ἡμ</abbr><ex>έ</ex><abbr>ρ</abbr><ex>ᾳ</ex>
-               </expan>
-                    <expan>
-                  <abbr>Κ</abbr><ex>υρίο</ex><abbr>υ</abbr>
+                            <expan><abbr>ἡμ</abbr><ex>έ</ex><abbr>ρ</abbr><ex>ᾳ</ex></expan>
+                    <expan><abbr>Κ</abbr><ex>υρίο</ex><abbr>υ</abbr>
                </expan>
                     <num value="6">ς</num>.</p>
             </div>
@@ -168,10 +165,7 @@
                     comprising the year are splitted between two lines, likely due to miscalculation
                     of the available writing space.</p>
             </div>
-        <div type="edition" subtype="transcription_segmented"><p><w xml:id="zoor0374-1" xml:lang="grc">μνημεῖον</w> <w xml:id="zoor0374-2" xml:lang="grc">Γερμανοῦ</w> <w xml:id="zoor0374-3" xml:lang="grc">Μάρσου</w> <w xml:id="zoor0374-4" xml:lang="grc">ἀποθανόντος</w> <w xml:id="zoor0374-5" xml:lang="grc">ἐτῶν</w> <w xml:id="zoor0374-6" xml:lang="grc">κε</w> <w xml:id="zoor0374-7" xml:lang="grc">ἔτους</w> <w xml:id="zoor0374-8" xml:lang="grc">τκζ</w> <w xml:id="zoor0374-9" xml:lang="grc">ἐν</w> <w xml:id="zoor0374-10" xml:lang="grc">μηνὶ</w> <w xml:id="zoor0374-11" xml:lang="grc">Ἀρτεμισίῳ</w><w xml:id="zoor0374-12" xml:lang="grc">κγ</w><w xml:id="zoor0374-13" xml:lang="grc"><expan>
-                  <abbr>ἡμ</abbr><ex>έ</ex><abbr>ρ</abbr><ex>ᾳ</ex>
-               </expan></w><w xml:id="zoor0374-14" xml:lang="grc"><expan>
-                  <abbr>Κ</abbr><ex>υρίο</ex><abbr>υ</abbr>
+        <div type="edition" subtype="transcription_segmented"><p><w xml:id="zoor0374-1" xml:lang="grc">μνημεῖον</w> <w xml:id="zoor0374-2" xml:lang="grc">Γερμανοῦ</w> <w xml:id="zoor0374-3" xml:lang="grc">Μάρσου</w> <w xml:id="zoor0374-4" xml:lang="grc">ἀποθανόντος</w> <w xml:id="zoor0374-5" xml:lang="grc">ἐτῶν</w> <w xml:id="zoor0374-6" xml:lang="grc">κε</w> <w xml:id="zoor0374-7" xml:lang="grc">ἔτους</w> <w xml:id="zoor0374-8" xml:lang="grc">τκζ</w> <w xml:id="zoor0374-9" xml:lang="grc">ἐν</w> <w xml:id="zoor0374-10" xml:lang="grc">μηνὶ</w> <w xml:id="zoor0374-11" xml:lang="grc">Ἀρτεμισίῳ</w><w xml:id="zoor0374-12" xml:lang="grc">κγ</w><w xml:id="zoor0374-13" xml:lang="grc"><expan><abbr>ἡμ</abbr><ex>έ</ex><abbr>ρ</abbr><ex>ᾳ</ex></expan></w><w xml:id="zoor0374-14" xml:lang="grc"><expan><abbr>Κ</abbr><ex>υρίο</ex><abbr>υ</abbr>
                </expan></w><w xml:id="zoor0374-15" xml:lang="grc">ς</w></p>
 </div>
 </body>

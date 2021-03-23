@@ -101,6 +101,7 @@
          <change when="2019-01-29" who="persons.xml#Elli_Mylonas">
                 adding period attribute to date element, with Periodo value.
             </change>
+         <change when="2021-03-23" who="Chris Zeichmann">corrected transcription</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
@@ -112,19 +113,15 @@
    <text>
       <body>
          <div type="edition" ana="#b1" xml:lang="grc" subtype="transcription" xml:id="jeru0064.transcription" corresp="#jeru0064.translation">
-            <p>Ὡρήα Ὡρήα Ὡρήα<lb/>
-                    Ὡρή<unclear>α</unclear> Ὡρήα<lb/>
-               <supplied reason="undefined">
-                  <unclear>Η</unclear>
-               </supplied>ω<unclear>ρ</unclear>α
+            <p>Ὡρήα Ὡρήα Ὡρήα
+               <lb/>Ὡρή<unclear>α</unclear> Ὡρήα
+               <lb/><supplied reason="undefined">Η</supplied>ω<unclear>ρ</unclear>α
                 </p>
          </div>
          <div type="translation" ana="#b1" xml:id="jeru0064.translation" corresp="#jeru0064.transcription">
             <p>Horea, Horea, Horea. Horea, Horea, [H]ora.</p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="jeru0064-1" xml:lang="grc">Ὡρήα</w> <w xml:id="jeru0064-2" xml:lang="grc">Ὡρήα</w> <w xml:id="jeru0064-3" xml:lang="grc">Ὡρήα</w> <w xml:id="jeru0064-4" xml:lang="grc">Ὡρήα</w> <w xml:id="jeru0064-5" xml:lang="grc">Ὡρήα</w><w xml:id="jeru0064-6" xml:lang="grc"><supplied reason="undefined">
-                  Η
-               </supplied></w><w xml:id="jeru0064-7" xml:lang="grc">ωρα</w></p>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="jeru0064-1" xml:lang="grc">Ὡρήα</w> <w xml:id="jeru0064-2" xml:lang="grc">Ὡρήα</w> <w xml:id="jeru0064-3" xml:lang="grc">Ὡρήα</w> <w xml:id="jeru0064-4" xml:lang="grc">Ὡρήα</w> <w xml:id="jeru0064-5" xml:lang="grc">Ὡρήα</w><w xml:id="jeru0064-6" xml:lang="grc"><supplied reason="undefined">Η</supplied></w><w xml:id="jeru0064-7" xml:lang="grc">ωρα</w></p>
 </div>
 </body>
       <back>

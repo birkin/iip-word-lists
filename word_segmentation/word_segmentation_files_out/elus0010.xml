@@ -113,17 +113,13 @@
       <body>
          <div type="edition" ana="#b1" xml:lang="grc" subtype="transcription" xml:id="elus0010.transcription" corresp="#elus0010.translation">
             <p>
-               <expan>
-                  <abbr>Σέργ</abbr><ex>ιος</ex>
-               </expan>
+               <expan><abbr>Σέργ</abbr><ex>ιος</ex></expan>
             </p>
          </div>
          <div type="translation" ana="#b1" xml:id="elus0010.translation" corresp="#elus0010.transcription">
             <p>Sergius</p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="elus0010-1" xml:lang="grc"><expan>
-                  <abbr>Σέργ</abbr><ex>ιος</ex>
-               </expan></w></p>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="elus0010-1" xml:lang="grc"><expan><abbr>Σέργ</abbr><ex>ιος</ex></expan></w></p>
 </div>
 </body>
       <back>

@@ -124,7 +124,7 @@
          </div>
          <div type="edition" ana="#b1" subtype="transcription" xml:id="khis0090.transcription" corresp="#khis0090.diplomatic #khis0090.translation">
             <p>
-               <gap reason="illegible" quantity="3" unit="character"/><supplied reason="undefined">ἐκ τῶν</supplied> ἰδίω<supplied reason="undefined">ν</supplied><gap reason="illegible" quantity="3" unit="character"/>
+               <gap reason="illegible" quantity="3" unit="character"/><supplied reason="undefined">ἐκ</supplied> <supplied reason="undefined">τῶν</supplied> ἰδίω<supplied reason="undefined">ν</supplied><gap reason="illegible" quantity="3" unit="character"/>
                <lb/>
                <gap reason="illegible" quantity="3" unit="character"/>
                <unclear>Μ</unclear>αρ<unclear>ρ</unclear>
@@ -135,7 +135,7 @@
             <p>...at his own expense...Marr(?)...
 				</p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="khis0090-1" xml:lang="grc"><supplied reason="undefined">ἐκ τῶν</supplied></w><w xml:id="khis0090-2" xml:lang="grc">ἰδίω</w><w xml:id="khis0090-3" xml:lang="grc"><supplied reason="undefined">ν</supplied></w><w xml:id="khis0090-4" xml:lang="grc">Μαρρ</w></p>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="khis0090-1" xml:lang="grc"><supplied reason="undefined">ἐκ</supplied></w><w xml:id="khis0090-2" xml:lang="grc"><supplied reason="undefined">τῶν</supplied></w><w xml:id="khis0090-3" xml:lang="grc">ἰδίω</w><w xml:id="khis0090-4" xml:lang="grc"><supplied reason="undefined">ν</supplied></w><w xml:id="khis0090-5" xml:lang="grc">Μαρρ</w></p>
 </div>
 </body>
       <back>

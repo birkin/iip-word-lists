@@ -119,7 +119,7 @@
             <p>μνήμα Λήα<lb/>
                <supplied reason="lost">τῆ</supplied>
                <unclear>ς</unclear> θυγατρὸ<lb break="no"/>
-               <supplied reason="lost">ς Βεν</supplied>ιαμῖν.</p>
+               <supplied reason="lost">ς</supplied> <supplied reason="lost">Βεν</supplied>ιαμῖν.</p>
          </div>
          <div type="translation" ana="#b1" xml:id="caes0189.translation" corresp="#caes0189.transcription">
             <p>The tomb of <name>
@@ -128,7 +128,7 @@
                   <persName xml:lang="hbo " ref="persons.xml#caes0189p02">Beniamin </persName>
                </name>.</p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="caes0189-1" xml:lang="grc">μνήμα</w> <w xml:id="caes0189-2" xml:lang="grc">Λήα</w><w xml:id="caes0189-3" xml:lang="grc"><supplied reason="lost">τῆ</supplied></w><w xml:id="caes0189-4" xml:lang="grc">ς</w> <w xml:id="caes0189-5" xml:lang="grc">θυγατρὸ</w><w xml:id="caes0189-6" xml:lang="grc"><supplied reason="lost">ς Βεν</supplied></w><w xml:id="caes0189-7" xml:lang="grc">ιαμῖν</w></p>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="caes0189-1" xml:lang="grc">μνήμα</w> <w xml:id="caes0189-2" xml:lang="grc">Λήα</w><w xml:id="caes0189-3" xml:lang="grc"><supplied reason="lost">τῆ</supplied></w><w xml:id="caes0189-4" xml:lang="grc">ς</w> <w xml:id="caes0189-5" xml:lang="grc">θυγατρὸ</w><w xml:id="caes0189-6" xml:lang="grc"><supplied reason="lost">ς</supplied></w><w xml:id="caes0189-7" xml:lang="grc"><supplied reason="lost">Βεν</supplied></w><w xml:id="caes0189-8" xml:lang="grc">ιαμῖν</w></p>
 </div>
 </body>
       <back>

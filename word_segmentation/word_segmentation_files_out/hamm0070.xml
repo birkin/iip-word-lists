@@ -123,16 +123,16 @@
          </div>
          <div type="edition" ana="#b1" subtype="transcription" xml:id="hamm0070.transcription" corresp="#hamm0070.diplomatic #hamm0070.translation">
             <p>
-               <gap reason="lost" unit="character" extent="unknown"/><supplied reason="undefined">ἅμα τῇ</supplied> σηνβίῳ<lb/>
+               <gap reason="lost" unit="character" extent="unknown"/><supplied reason="undefined">ἅμα</supplied> <supplied reason="undefined">τῇ</supplied> σηνβίῳ<lb/>
                <gap reason="lost" unit="character" extent="unknown"/><supplied reason="undefined">κα</supplied>ὶ Ἀνίναν<lb/>
-               <supplied reason="undefined">ὑπὲρ εὐ</supplied>χαριστίας. 
+               <supplied reason="undefined">ὑπὲρ</supplied> <supplied reason="undefined">εὐ</supplied>χαριστίας. 
 
 		  </p>
          </div>
          <div type="translation" ana="#b1" xml:id="hamm0070.translation" corresp="#hamm0070.diplomatic #hamm0070.transcription">
             <p>[So-and-so dedicated this together with his <rs type="family">wife </rs>], ... and <persName xml:lang="arc " ref="persons.xml#hamm0070p01">Aninas</persName>.., as a thanksgiving.</p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="hamm0070-1" xml:lang="grc"><supplied reason="undefined">ἅμα τῇ</supplied></w><w xml:id="hamm0070-2" xml:lang="grc">σηνβίῳ</w><w xml:id="hamm0070-3" xml:lang="grc"><supplied reason="undefined">κα</supplied></w><w xml:id="hamm0070-4" xml:lang="grc">ὶ</w> <w xml:id="hamm0070-5" xml:lang="grc">Ἀνίναν</w><w xml:id="hamm0070-6" xml:lang="grc"><supplied reason="undefined">ὑπὲρ εὐ</supplied></w><w xml:id="hamm0070-7" xml:lang="grc">χαριστίας</w></p>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="hamm0070-1" xml:lang="grc"><supplied reason="undefined">ἅμα</supplied></w><w xml:id="hamm0070-2" xml:lang="grc"><supplied reason="undefined">τῇ</supplied></w><w xml:id="hamm0070-3" xml:lang="grc">σηνβίῳ</w><w xml:id="hamm0070-4" xml:lang="grc"><supplied reason="undefined">κα</supplied></w><w xml:id="hamm0070-5" xml:lang="grc">ὶ</w> <w xml:id="hamm0070-6" xml:lang="grc">Ἀνίναν</w><w xml:id="hamm0070-7" xml:lang="grc"><supplied reason="undefined">ὑπὲρ</supplied></w><w xml:id="hamm0070-8" xml:lang="grc"><supplied reason="undefined">εὐ</supplied></w><w xml:id="hamm0070-9" xml:lang="grc">χαριστίας</w></p>
 </div>
 </body>
       <back>

@@ -128,18 +128,14 @@
                   <orig>Οὐαλο<lb break="no"/>ντίνου</orig>
                   <reg>Οὑαλεντίνου</reg>
                </choice> Θε<lb break="no"/>οδότου, ἀ<lb break="no"/>ποθανόν<lb break="no"/>τος
-                     <expan>
-                  <abbr>ἔτ</abbr><ex>ους</ex>
-               </expan>
+                     <expan><abbr>ἔτ</abbr><ex>ους</ex></expan>
                <num value="227">σκζ</num>.</p>
          </div>
          <div type="translation" ana="b2" xml:id="zoor0322.translation" corresp="#zoor0322.transcription">
             <p>Be of good cheer. Monument of Valentinus, son of Theodotos, who died in (the) year
                227.</p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="zoor0322-1" xml:lang="grc">Θάρσει</w> <w xml:id="zoor0322-2" xml:lang="grc">Μνημεῖον</w> <w xml:id="zoor0322-3" xml:lang="grc">Οὑαλεντίνου</w> <w xml:id="zoor0322-4" xml:lang="grc">Θεοδότου</w> <w xml:id="zoor0322-5" xml:lang="grc">ἀποθανόντος</w><w xml:id="zoor0322-6" xml:lang="grc"><expan>
-                  <abbr>ἔτ</abbr><ex>ους</ex>
-               </expan></w><w xml:id="zoor0322-7" xml:lang="grc">σκζ</w></p>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="zoor0322-1" xml:lang="grc">Θάρσει</w> <w xml:id="zoor0322-2" xml:lang="grc">Μνημεῖον</w> <w xml:id="zoor0322-3" xml:lang="grc">Οὑαλεντίνου</w> <w xml:id="zoor0322-4" xml:lang="grc">Θεοδότου</w> <w xml:id="zoor0322-5" xml:lang="grc">ἀποθανόντος</w><w xml:id="zoor0322-6" xml:lang="grc"><expan><abbr>ἔτ</abbr><ex>ους</ex></expan></w><w xml:id="zoor0322-7" xml:lang="grc">σκζ</w></p>
 </div>
 </body>
       <back>

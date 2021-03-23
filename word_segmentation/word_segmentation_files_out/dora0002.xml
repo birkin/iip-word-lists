@@ -122,7 +122,7 @@
                 <p/>
             </div>
             <div type="edition" subtype="transcription" ana="b1">
-                <p>Ἐπὶ τοῦ ἁγιωτά<supplied reason="lost">του ἐ</supplied><lb break="no"/>πισκόπου
+                <p>Ἐπὶ τοῦ ἁγιωτά<supplied reason="lost">του</supplied> <supplied reason="lost">ἐ</supplied><lb break="no"/>πισκόπου
                         Ἀκακ<supplied reason="lost">ίου</supplied>.</p>
             </div>
             <div type="translation" ana="b1">
@@ -132,7 +132,7 @@
                 <p>Date comes from a coin of the emperor Constantine II found on the lower pavement
                     of one of the other rooms.</p>
             </div>
-        <div type="edition" subtype="transcription_segmented"><p><w xml:id="dora0002-1" xml:lang="grc">Ἐπὶ</w> <w xml:id="dora0002-2" xml:lang="grc">τοῦ</w> <w xml:id="dora0002-3" xml:lang="grc">ἁγιωτά</w><w xml:id="dora0002-4" xml:lang="grc"><supplied reason="lost">του ἐ</supplied></w><w xml:id="dora0002-5" xml:lang="grc">πισκόπου</w> <w xml:id="dora0002-6" xml:lang="grc">Ἀκακ</w><w xml:id="dora0002-7" xml:lang="grc"><supplied reason="lost">ίου</supplied></w></p>
+        <div type="edition" subtype="transcription_segmented"><p><w xml:id="dora0002-1" xml:lang="grc">Ἐπὶ</w> <w xml:id="dora0002-2" xml:lang="grc">τοῦ</w> <w xml:id="dora0002-3" xml:lang="grc">ἁγιωτά</w><w xml:id="dora0002-4" xml:lang="grc"><supplied reason="lost">του</supplied></w><w xml:id="dora0002-5" xml:lang="grc"><supplied reason="lost">ἐ</supplied></w><w xml:id="dora0002-6" xml:lang="grc">πισκόπου</w> <w xml:id="dora0002-7" xml:lang="grc">Ἀκακ</w><w xml:id="dora0002-8" xml:lang="grc"><supplied reason="lost">ίου</supplied></w></p>
 </div>
 </body>
         <back>

@@ -121,9 +121,7 @@
       <body>
          <div type="edition" ana="#b1" xml:lang="grc" subtype="transcription" xml:id="zoor0141.transcription" corresp="#zoor0141.translation">
             <p>
-               <choice><sic>Μνημῖον</sic><corr>Μνημεῖον</corr></choice> Θόψη<lb/> Ἀσλόμου <expan>
-                  <abbr>ἐνκρατ</abbr><ex>οῦς</ex>
-               </expan>, <lb/>
+               <choice><sic>Μνημῖον</sic><corr>Μνημεῖον</corr></choice> Θόψη<lb/> Ἀσλόμου <expan><abbr>ἐνκρατ</abbr><ex>οῦς</ex></expan>, <lb/>
                <choice><sic>παυσομένη</sic><corr>παυσαμένη</corr></choice>
                <choice><sic>με<lb/>
                      <supplied reason="undefined">τ</supplied>ὸ</sic><corr>μετὰ</corr></choice> καλοῦ ὀνόμ<lb/>ατος καὶ
@@ -136,9 +134,7 @@
                     name and good faith (at the age) of 85 years, on the 16th (day) of (the) month
                     Dios, in the year 329. Be of good cheer, no one (is) immortal.</p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="zoor0141-1" xml:lang="grc">Μνημεῖον</w> <w xml:id="zoor0141-2" xml:lang="grc">Θόψη</w> <w xml:id="zoor0141-3" xml:lang="grc">Ἀσλόμου</w><w xml:id="zoor0141-4" xml:lang="grc"><expan>
-                  <abbr>ἐνκρατ</abbr><ex>οῦς</ex>
-               </expan></w><w xml:id="zoor0141-5" xml:lang="grc">παυσαμένη</w> <w xml:id="zoor0141-6" xml:lang="grc">με</w><w xml:id="zoor0141-7" xml:lang="grc"><supplied reason="undefined">τ</supplied></w><w xml:id="zoor0141-8" xml:lang="grc">ὸμετὰ</w> <w xml:id="zoor0141-9" xml:lang="grc">καλοῦ</w> <w xml:id="zoor0141-10" xml:lang="grc">ὀνόμ</w> <w xml:id="zoor0141-11" xml:lang="grc">ατος</w> <w xml:id="zoor0141-12" xml:lang="grc">καὶ</w> <w xml:id="zoor0141-13" xml:lang="grc">καλῆς</w> <w xml:id="zoor0141-14" xml:lang="grc">πίστεως</w> <w xml:id="zoor0141-15" xml:lang="grc">ἐτῶ</w> <w xml:id="zoor0141-16" xml:lang="grc">ν</w> <w xml:id="zoor0141-17" xml:lang="grc">πε</w> <w xml:id="zoor0141-18" xml:lang="grc">ἐν</w> <w xml:id="zoor0141-19" xml:lang="grc">μηνὶ</w> <w xml:id="zoor0141-20" xml:lang="grc">Δίου</w> <w xml:id="zoor0141-21" xml:lang="grc">ις</w> <w xml:id="zoor0141-22" xml:lang="grc">τοῦ</w> <w xml:id="zoor0141-23" xml:lang="grc">ἔ</w> <w xml:id="zoor0141-24" xml:lang="grc">τους</w> <w xml:id="zoor0141-25" xml:lang="grc">τκθ</w> <w xml:id="zoor0141-26" xml:lang="grc">Θάρσει</w> <w xml:id="zoor0141-27" xml:lang="grc">οὐδεὶς</w> <w xml:id="zoor0141-28" xml:lang="grc">ἀθά</w> <w xml:id="zoor0141-29" xml:lang="grc">νατος</w></p>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="zoor0141-1" xml:lang="grc">Μνημεῖον</w> <w xml:id="zoor0141-2" xml:lang="grc">Θόψη</w> <w xml:id="zoor0141-3" xml:lang="grc">Ἀσλόμου</w><w xml:id="zoor0141-4" xml:lang="grc"><expan><abbr>ἐνκρατ</abbr><ex>οῦς</ex></expan></w><w xml:id="zoor0141-5" xml:lang="grc">παυσαμένη</w> <w xml:id="zoor0141-6" xml:lang="grc">με</w><w xml:id="zoor0141-7" xml:lang="grc"><supplied reason="undefined">τ</supplied></w><w xml:id="zoor0141-8" xml:lang="grc">ὸμετὰ</w> <w xml:id="zoor0141-9" xml:lang="grc">καλοῦ</w> <w xml:id="zoor0141-10" xml:lang="grc">ὀνόμ</w> <w xml:id="zoor0141-11" xml:lang="grc">ατος</w> <w xml:id="zoor0141-12" xml:lang="grc">καὶ</w> <w xml:id="zoor0141-13" xml:lang="grc">καλῆς</w> <w xml:id="zoor0141-14" xml:lang="grc">πίστεως</w> <w xml:id="zoor0141-15" xml:lang="grc">ἐτῶ</w> <w xml:id="zoor0141-16" xml:lang="grc">ν</w> <w xml:id="zoor0141-17" xml:lang="grc">πε</w> <w xml:id="zoor0141-18" xml:lang="grc">ἐν</w> <w xml:id="zoor0141-19" xml:lang="grc">μηνὶ</w> <w xml:id="zoor0141-20" xml:lang="grc">Δίου</w> <w xml:id="zoor0141-21" xml:lang="grc">ις</w> <w xml:id="zoor0141-22" xml:lang="grc">τοῦ</w> <w xml:id="zoor0141-23" xml:lang="grc">ἔ</w> <w xml:id="zoor0141-24" xml:lang="grc">τους</w> <w xml:id="zoor0141-25" xml:lang="grc">τκθ</w> <w xml:id="zoor0141-26" xml:lang="grc">Θάρσει</w> <w xml:id="zoor0141-27" xml:lang="grc">οὐδεὶς</w> <w xml:id="zoor0141-28" xml:lang="grc">ἀθά</w> <w xml:id="zoor0141-29" xml:lang="grc">νατος</w></p>
 </div>
 </body>
       <back>

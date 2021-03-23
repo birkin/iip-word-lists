@@ -122,37 +122,18 @@
             <p>
                <gap reason="lost" extent="unknown" unit="character"/>
                <supplied reason="lost">
-                  <expan>
-                     <abbr>leg</abbr><ex>ato</ex>
-                  </expan>
+                  <expan><abbr>leg</abbr><ex>ato</ex></expan>
                </supplied>
-               <expan>
-                  <abbr><supplied reason="lost">l</supplied>eg</abbr><ex>ionis</ex>
-               </expan>
+               <expan><abbr><supplied reason="lost">l</supplied>eg</abbr><ex>ionis</ex></expan>
                <lb/>
                <gap reason="lost" extent="unknown" unit="character"/>
                <supplied reason="lost">
-                  <expan>
-                     <abbr>leg</abbr><ex>ato</ex>
-                  </expan>
-                  <expan>
-                     <abbr>Aug</abbr><ex>usti</ex>
-                  </expan> p</supplied>ro <expan>
-                  <abbr>pr</abbr><ex>aetore</ex>
-               </expan>
+                  <expan><abbr>leg</abbr><ex>ato</ex></expan>
+                  <expan><abbr>Aug</abbr><ex>usti</ex></expan></supplied> <supplied reason="lost">p</supplied>ro 
+               <expan><abbr>pr</abbr><ex>aetore</ex></expan>
             </p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="caes0034-1" xml:lang="la"><supplied reason="lost"><w xml:id="caes0034-2" xml:lang="la"><expan>
-                     <abbr>leg</abbr><ex>ato</ex>
-                  </expan></w></supplied></w><w xml:id="caes0034-3" xml:lang="la"><expan>
-                  <abbr><w xml:id="caes0034-4" xml:lang="la"><supplied reason="lost">l</supplied></w>eg</abbr><ex>ionis</ex>
-               </expan></w><w xml:id="caes0034-5" xml:lang="la"><supplied reason="lost"><w xml:id="caes0034-6" xml:lang="la"><expan>
-                     <abbr>leg</abbr><ex>ato</ex>
-                  </expan></w><w xml:id="caes0034-7" xml:lang="la"><expan>
-                     <abbr>Aug</abbr><ex>usti</ex>
-                  </expan></w>p</supplied></w><w xml:id="caes0034-8" xml:lang="la">ro</w><w xml:id="caes0034-9" xml:lang="la"><expan>
-                  <abbr>pr</abbr><ex>aetore</ex>
-               </expan></w></p>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="caes0034-1" xml:lang="la"><supplied reason="lost"><w xml:id="caes0034-2" xml:lang="la"><expan><abbr>leg</abbr><ex>ato</ex></expan></w></supplied></w><w xml:id="caes0034-3" xml:lang="la"><expan><abbr><w xml:id="caes0034-4" xml:lang="la"><supplied reason="lost">l</supplied></w>eg</abbr><ex>ionis</ex></expan></w><w xml:id="caes0034-5" xml:lang="la"><supplied reason="lost"><w xml:id="caes0034-6" xml:lang="la"><expan><abbr>leg</abbr><ex>ato</ex></expan></w><w xml:id="caes0034-7" xml:lang="la"><expan><abbr>Aug</abbr><ex>usti</ex></expan></w></supplied></w><w xml:id="caes0034-8" xml:lang="la"><supplied reason="lost">p</supplied></w><w xml:id="caes0034-9" xml:lang="la">ro</w><w xml:id="caes0034-10" xml:lang="la"><expan><abbr>pr</abbr><ex>aetore</ex></expan></w></p>
 </div>
 </body>
       <back>

@@ -118,62 +118,26 @@
       <body>
          <div type="edition" ana="#b1" subtype="transcription" xml:id="caes0010.transcription" corresp="#caes0010.translation">
             <p>
-               <expan>
-                  <abbr>Val</abbr><ex>erio</ex>
-               </expan> Calpurniano <expan>
-                  <abbr>v</abbr><ex>iro</ex>
-               </expan>
+               <expan><abbr>Val</abbr><ex>erio</ex></expan> Calpurniano <expan><abbr>v</abbr><ex>iro</ex></expan>
                <supplied reason="lost">
-                  <expan>
-                     <abbr>p</abbr><ex>erfectissimo</ex>
-                  </expan>
+                  <expan><abbr>p</abbr><ex>erfectissimo</ex></expan>
                </supplied>
                <lb/>
-               <expan>
-                  <abbr>praef</abbr><ex>ecto</ex>
-               </expan>
-               <expan>
-                  <abbr>Mesop</abbr><ex>otamiae</ex>
-               </expan>
+               <expan><abbr>praef</abbr><ex>ecto</ex></expan>
+               <expan><abbr>Mesop</abbr><ex>otamiae</ex></expan>
                <hi rend="ligature">et</hi>
-               <expan>
-                  <abbr>Osr</abbr><ex>hoenae</ex>
-               </expan>
-               <expan>
-                  <abbr>patr</abbr><ex>ono</ex>
-               </expan>
-               <expan>
-                  <abbr>me<hi rend="ligature">tr</hi></abbr><ex>opolis</ex>
-               </expan>
-               <lb/>ex <expan>
-                  <abbr>d</abbr><ex>ecreto</ex>
-               </expan>
-               <expan>
-                  <abbr>d</abbr><ex>ecurionum</ex>
-               </expan>
-               <expan>
-                  <abbr>p</abbr><ex>ecunia</ex>
-               </expan>
-               <expan>
-                  <abbr>p</abbr><ex>ublica</ex>
-               </expan>,<lb/>
-               <expan>
-                  <abbr>Aur</abbr><ex>elio</ex>
-               </expan>
-               <expan>
-                  <abbr>Fl</abbr><ex>avio</ex>
-               </expan> Theophilo <expan>
-                  <abbr>eq</abbr><ex>uite</ex>
-               </expan>
-               <expan>
-                  <abbr>R</abbr><ex>omano</ex>
-               </expan> et<lb/>
-               <expan>
-                  <abbr>dec</abbr><ex>urione</ex>
-               </expan>
-               <expan>
-                  <abbr>metr</abbr><ex>opolis</ex>
-               </expan>. 
+               <expan><abbr>Osr</abbr><ex>hoenae</ex></expan>
+               <expan><abbr>patr</abbr><ex>ono</ex></expan>
+               <expan><abbr>me<hi rend="ligature">tr</hi></abbr><ex>opolis</ex></expan>
+               <lb/>ex <expan><abbr>d</abbr><ex>ecreto</ex></expan>
+               <expan><abbr>d</abbr><ex>ecurionum</ex></expan>
+               <expan><abbr>p</abbr><ex>ecunia</ex></expan>
+               <expan><abbr>p</abbr><ex>ublica</ex></expan>,<lb/>
+               <expan><abbr>Aur</abbr><ex>elio</ex></expan>
+               <expan><abbr>Fl</abbr><ex>avio</ex></expan> Theophilo <expan><abbr>eq</abbr><ex>uite</ex></expan>
+               <expan><abbr>R</abbr><ex>omano</ex></expan> et<lb/>
+               <expan><abbr>dec</abbr><ex>urione</ex></expan>
+               <expan><abbr>metr</abbr><ex>opolis</ex></expan>. 
 		  </p>
          </div>
          <div type="translation" ana="#b1" xml:id="caes0010.translation" corresp="#caes0010.transcription">
@@ -192,43 +156,7 @@
                </name>, Roman <rs type="admTitle">knight </rs> and <rs type="admTitle">decurion </rs> of the
 			 metropolis was responsible.</p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="caes0010-1" xml:lang="la"><expan>
-                  <abbr>Val</abbr><ex>erio</ex>
-               </expan></w><w xml:id="caes0010-2" xml:lang="la">Calpurniano</w><w xml:id="caes0010-3" xml:lang="la"><expan>
-                  <abbr>v</abbr><ex>iro</ex>
-               </expan></w><w xml:id="caes0010-4" xml:lang="la"><supplied reason="lost"><w xml:id="caes0010-5" xml:lang="la"><expan>
-                     <abbr>p</abbr><ex>erfectissimo</ex>
-                  </expan></w></supplied></w><w xml:id="caes0010-6" xml:lang="la"><expan>
-                  <abbr>praef</abbr><ex>ecto</ex>
-               </expan></w><w xml:id="caes0010-7" xml:lang="la"><expan>
-                  <abbr>Mesop</abbr><ex>otamiae</ex>
-               </expan></w><w xml:id="caes0010-8" xml:lang="la"><expan>
-                  <abbr>Osr</abbr><ex>hoenae</ex>
-               </expan></w><w xml:id="caes0010-9" xml:lang="la"><expan>
-                  <abbr>patr</abbr><ex>ono</ex>
-               </expan></w><w xml:id="caes0010-10" xml:lang="la"><expan>
-                  <abbr>me<hi rend="ligature">tr</hi></abbr><ex>opolis</ex>
-               </expan></w><w xml:id="caes0010-11" xml:lang="la">ex</w><w xml:id="caes0010-12" xml:lang="la"><expan>
-                  <abbr>d</abbr><ex>ecreto</ex>
-               </expan></w><w xml:id="caes0010-13" xml:lang="la"><expan>
-                  <abbr>d</abbr><ex>ecurionum</ex>
-               </expan></w><w xml:id="caes0010-14" xml:lang="la"><expan>
-                  <abbr>p</abbr><ex>ecunia</ex>
-               </expan></w><w xml:id="caes0010-15" xml:lang="la"><expan>
-                  <abbr>p</abbr><ex>ublica</ex>
-               </expan></w><w xml:id="caes0010-16" xml:lang="la"><expan>
-                  <abbr>Aur</abbr><ex>elio</ex>
-               </expan></w><w xml:id="caes0010-17" xml:lang="la"><expan>
-                  <abbr>Fl</abbr><ex>avio</ex>
-               </expan></w><w xml:id="caes0010-18" xml:lang="la">Theophilo</w><w xml:id="caes0010-19" xml:lang="la"><expan>
-                  <abbr>eq</abbr><ex>uite</ex>
-               </expan></w><w xml:id="caes0010-20" xml:lang="la"><expan>
-                  <abbr>R</abbr><ex>omano</ex>
-               </expan></w><w xml:id="caes0010-21" xml:lang="la">et</w><w xml:id="caes0010-22" xml:lang="la"><expan>
-                  <abbr>dec</abbr><ex>urione</ex>
-               </expan></w><w xml:id="caes0010-23" xml:lang="la"><expan>
-                  <abbr>metr</abbr><ex>opolis</ex>
-               </expan></w></p>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="caes0010-1" xml:lang="la"><expan><abbr>Val</abbr><ex>erio</ex></expan></w><w xml:id="caes0010-2" xml:lang="la">Calpurniano</w><w xml:id="caes0010-3" xml:lang="la"><expan><abbr>v</abbr><ex>iro</ex></expan></w><w xml:id="caes0010-4" xml:lang="la"><supplied reason="lost"><w xml:id="caes0010-5" xml:lang="la"><expan><abbr>p</abbr><ex>erfectissimo</ex></expan></w></supplied></w><w xml:id="caes0010-6" xml:lang="la"><expan><abbr>praef</abbr><ex>ecto</ex></expan></w><w xml:id="caes0010-7" xml:lang="la"><expan><abbr>Mesop</abbr><ex>otamiae</ex></expan></w><w xml:id="caes0010-8" xml:lang="la"><expan><abbr>Osr</abbr><ex>hoenae</ex></expan></w><w xml:id="caes0010-9" xml:lang="la"><expan><abbr>patr</abbr><ex>ono</ex></expan></w><w xml:id="caes0010-10" xml:lang="la"><expan><abbr>me<hi rend="ligature">tr</hi></abbr><ex>opolis</ex></expan></w><w xml:id="caes0010-11" xml:lang="la">ex</w><w xml:id="caes0010-12" xml:lang="la"><expan><abbr>d</abbr><ex>ecreto</ex></expan></w><w xml:id="caes0010-13" xml:lang="la"><expan><abbr>d</abbr><ex>ecurionum</ex></expan></w><w xml:id="caes0010-14" xml:lang="la"><expan><abbr>p</abbr><ex>ecunia</ex></expan></w><w xml:id="caes0010-15" xml:lang="la"><expan><abbr>p</abbr><ex>ublica</ex></expan></w><w xml:id="caes0010-16" xml:lang="la"><expan><abbr>Aur</abbr><ex>elio</ex></expan></w><w xml:id="caes0010-17" xml:lang="la"><expan><abbr>Fl</abbr><ex>avio</ex></expan></w><w xml:id="caes0010-18" xml:lang="la">Theophilo</w><w xml:id="caes0010-19" xml:lang="la"><expan><abbr>eq</abbr><ex>uite</ex></expan></w><w xml:id="caes0010-20" xml:lang="la"><expan><abbr>R</abbr><ex>omano</ex></expan></w><w xml:id="caes0010-21" xml:lang="la">et</w><w xml:id="caes0010-22" xml:lang="la"><expan><abbr>dec</abbr><ex>urione</ex></expan></w><w xml:id="caes0010-23" xml:lang="la"><expan><abbr>metr</abbr><ex>opolis</ex></expan></w></p>
 </div>
 </body>
       <back>

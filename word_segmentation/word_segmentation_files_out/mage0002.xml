@@ -122,9 +122,9 @@
                 <p/>
             </div>
             <div type="edition" subtype="transcription" ana="b1">
-                <p>Ἐ<supplied reason="lost">πὶ τοῦ</supplied> <expan><abbr><supplied reason="lost">εὐσ</supplied>εβ</abbr>εστάτου</expan>
+                <p>Ἐ<supplied reason="lost">πὶ</supplied> <supplied reason="lost">τοῦ</supplied> <expan><abbr><supplied reason="lost">εὐσ</supplied>εβ</abbr>εστάτου</expan>
                     <lb/><orig>Ν</orig><gap reason="lost" extent="unknown"/><orig>Σ</orig> ἐ
-                    <lb break="no"/>γέ<supplied reason="lost">νετο τά ὧδ</supplied>ε</p>
+                    <lb break="no"/>γέ<supplied reason="lost">νετο</supplied> <supplied reason="lost">τά</supplied> <supplied reason="lost">ὧδ</supplied>ε</p>
             </div>
             <div type="translation" ana="b1">
                 <p>In the time of the most pious N...s these were completed.</p>
@@ -132,7 +132,7 @@
             <div type="commentary">
                 <p/>
             </div>
-        <div type="edition" subtype="transcription_segmented"><p><w xml:id="mage0002-1" xml:lang="grc">Ἐ</w><w xml:id="mage0002-2" xml:lang="grc"><supplied reason="lost">πὶ τοῦ</supplied></w><w xml:id="mage0002-3" xml:lang="grc"><expan><abbr><w xml:id="mage0002-4" xml:lang="grc"><supplied reason="lost">εὐσ</supplied></w>εβ</abbr>εστάτου</expan></w><w xml:id="mage0002-5" xml:lang="grc">ἐ</w> <w xml:id="mage0002-6" xml:lang="grc">γέ</w><w xml:id="mage0002-7" xml:lang="grc"><supplied reason="lost">νετο τά ὧδ</supplied></w><w xml:id="mage0002-8" xml:lang="grc">ε</w></p>
+        <div type="edition" subtype="transcription_segmented"><p><w xml:id="mage0002-1" xml:lang="grc">Ἐ</w><w xml:id="mage0002-2" xml:lang="grc"><supplied reason="lost">πὶ</supplied></w><w xml:id="mage0002-3" xml:lang="grc"><supplied reason="lost">τοῦ</supplied></w><w xml:id="mage0002-4" xml:lang="grc"><expan><abbr><w xml:id="mage0002-5" xml:lang="grc"><supplied reason="lost">εὐσ</supplied></w>εβ</abbr>εστάτου</expan></w><w xml:id="mage0002-6" xml:lang="grc">ἐ</w> <w xml:id="mage0002-7" xml:lang="grc">γέ</w><w xml:id="mage0002-8" xml:lang="grc"><supplied reason="lost">νετο</supplied></w><w xml:id="mage0002-9" xml:lang="grc"><supplied reason="lost">τά</supplied></w><w xml:id="mage0002-10" xml:lang="grc"><supplied reason="lost">ὧδ</supplied></w><w xml:id="mage0002-11" xml:lang="grc">ε</w></p>
 </div>
 </body>
         <back>

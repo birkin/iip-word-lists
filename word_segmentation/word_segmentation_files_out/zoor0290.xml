@@ -147,24 +147,19 @@
                <gap reason="illegible" unit="line" quantity="12"/>
                <lb/>
                <gap reason="lost" unit="character" extent="unknown"/>
-               <supplied reason="undefined">
-                  <choice><sic>Θάρ<lb/>σι</sic><corr>Θάρσει</corr></choice>
-               </supplied>, <supplied reason="undefined">
-                  <choice><sic>οὐδὶς</sic><corr>οὐδεὶς</corr></choice>
-                ἀθα</supplied>να<supplied reason="undefined">τος</supplied>. <supplied reason="undefined">Θάρ<lb break="no"/>σει,
-                        οὐδεὶς<lb/> ἀθα</supplied>να<supplied reason="undefined">τος.</supplied>
+               <supplied reason="undefined"><choice><sic>Θάρ<lb/>σι</sic><corr>Θάρσει</corr></choice></supplied>, 
+               <supplied reason="undefined"><choice><sic>οὐδὶς</sic><corr>οὐδεὶς</corr></choice></supplied>
+               <supplied reason="undefined">ἀθα</supplied>να<supplied reason="undefined">τος</supplied>. 
+               <supplied reason="undefined">Θάρ<lb break="no"/>σει</supplied>,
+               <supplied reason="undefined">οὐδεὶς</supplied><lb/>
+               <supplied reason="undefined">ἀθα</supplied>να<supplied reason="undefined">τος</supplied>.
             </p>
          </div>
          <div type="translation" ana="#b1" xml:id="zoor0290.translation" corresp="#zoor0290.transcription">
             <p>Monument of Samsseos, (son) of Alexandros,... [Be of good cheer, no one (is)
                     immortal].</p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="zoor0290-1" xml:lang="grc">Μνημεῖον</w> <w xml:id="zoor0290-2" xml:lang="grc">Σαμμασέου</w> <w xml:id="zoor0290-3" xml:lang="grc">Ἀλε</w><w xml:id="zoor0290-4" xml:lang="grc"><supplied reason="undefined">ξάνδρου</supplied></w><w xml:id="zoor0290-5" xml:lang="grc"><supplied reason="undefined">
-                   Θάρσει 
-               </supplied></w><w xml:id="zoor0290-6" xml:lang="grc"><supplied reason="undefined">
-                   οὐδεὶς 
-                ἀθα</supplied></w><w xml:id="zoor0290-7" xml:lang="grc">να</w><w xml:id="zoor0290-8" xml:lang="grc"><supplied reason="undefined">τος</supplied></w><w xml:id="zoor0290-9" xml:lang="grc"><supplied reason="undefined">Θάρσει,
-                        οὐδεὶς  ἀθα</supplied></w><w xml:id="zoor0290-10" xml:lang="grc">να</w><w xml:id="zoor0290-11" xml:lang="grc"><supplied reason="undefined">τος.</supplied></w></p>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="zoor0290-1" xml:lang="grc">Μνημεῖον</w> <w xml:id="zoor0290-2" xml:lang="grc">Σαμμασέου</w> <w xml:id="zoor0290-3" xml:lang="grc">Ἀλε</w><w xml:id="zoor0290-4" xml:lang="grc"><supplied reason="undefined">ξάνδρου</supplied></w><w xml:id="zoor0290-5" xml:lang="grc"><supplied reason="undefined"> Θάρσει </supplied></w><w xml:id="zoor0290-6" xml:lang="grc"><supplied reason="undefined"> οὐδεὶς </supplied></w><w xml:id="zoor0290-7" xml:lang="grc"><supplied reason="undefined">ἀθα</supplied></w><w xml:id="zoor0290-8" xml:lang="grc">να</w><w xml:id="zoor0290-9" xml:lang="grc"><supplied reason="undefined">τος</supplied></w><w xml:id="zoor0290-10" xml:lang="grc"><supplied reason="undefined">Θάρσει</supplied></w><w xml:id="zoor0290-11" xml:lang="grc"><supplied reason="undefined">οὐδεὶς</supplied></w><w xml:id="zoor0290-12" xml:lang="grc"><supplied reason="undefined">ἀθα</supplied></w><w xml:id="zoor0290-13" xml:lang="grc">να</w><w xml:id="zoor0290-14" xml:lang="grc"><supplied reason="undefined">τος</supplied></w></p>
 </div>
 </body>
       <back>

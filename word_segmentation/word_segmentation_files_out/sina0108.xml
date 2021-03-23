@@ -173,9 +173,7 @@
                 <p>
                     <foreign xml:lang="grc">ΖΕΟΣ</foreign>
                <lb/>זי<unclear>דו בר</unclear>
-                    <expan>
-                        <abbr><unclear>פ</unclear></abbr><ex>ציו</ex>
-                    </expan>
+                    <expan><abbr><unclear>פ</unclear></abbr><ex>ציו</ex></expan>
                 </p>
             </div>
             <div type="translation" ana="b1">
@@ -186,9 +184,7 @@
             </div>
             <!-- The bibl has more contained elements. What is the possible list of values of the biblScope/@type? 
              -->
-        <div type="edition" subtype="transcription_segmented"><p><w xml:id="sina0108-1" xml:lang="grc">זידו</w> <w xml:id="sina0108-2" xml:lang="grc">בר</w><w xml:id="sina0108-3" xml:lang="grc"><expan>
-                        <abbr>פ</abbr><ex>ציו</ex>
-                    </expan></w></p>
+        <div type="edition" subtype="transcription_segmented"><p><w xml:id="sina0108-1" xml:lang="grc">זידו</w> <w xml:id="sina0108-2" xml:lang="grc">בר</w><w xml:id="sina0108-3" xml:lang="grc"><expan><abbr>פ</abbr><ex>ציו</ex></expan></w></p>
 </div>
 </body>
         <back>

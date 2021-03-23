@@ -112,50 +112,28 @@
          <div type="edition" ana="#b1" subtype="transcription" xml:id="caes0106.transcription" corresp="#caes0106.translation">
             <p>
                <supplied reason="undefined">
-                  <expan>
-                     <abbr>Imp</abbr><ex>eratori</ex>
-                  </expan>
-                  <expan>
-                     <abbr>Caes</abbr><ex>ari</ex>
-                  </expan>
-                  <expan>
-                     <abbr>C</abbr><ex>aio</ex>
-                  </expan>
+                  <expan><abbr>Imp</abbr><ex>eratori</ex></expan>
+                  <expan><abbr>Caes</abbr><ex>ari</ex></expan>
+                  <expan><abbr>C</abbr><ex>aio</ex></expan>
                </supplied>
                <lb/>
-               <supplied reason="undefined">Iulio Vero</supplied>
+               <supplied reason="undefined">Iulio</supplied> <supplied reason="undefined">Vero</supplied>
                <lb/>
-               <supplied reason="undefined">Maximino <expan>
-                     <abbr>p</abbr><ex>io</ex>
-                  </expan>
-                  <expan>
-                     <abbr>f</abbr><ex>elici</ex>
-                  </expan>
+               <supplied reason="undefined">Maximino <expan><abbr>p</abbr><ex>io</ex></expan>
+                  <expan><abbr>f</abbr><ex>elici</ex></expan>
                </supplied>
                <lb/>
-               <supplied reason="undefined">
-                  <expan>
-                     <abbr>Aug</abbr><ex>usto</ex>
-                  </expan>
-                  <expan>
-                     <abbr>n</abbr><ex>ostro</ex>
-                  </expan> et</supplied>
+               <supplied reason="undefined"><expan><abbr>Aug</abbr><ex>usto</ex></expan></supplied>
+               <supplied reason="undefined"><expan><abbr>n</abbr><ex>ostro</ex></expan></supplied> <supplied reason="undefined">et</supplied>
                <lb/>
                <supplied reason="undefined">
-                  <expan>
-                     <abbr>G</abbr><ex>aio</ex>
-                  </expan> Iulio</supplied> Vero<lb/>Maximo<lb/>
-               <supplied reason="undefined">nobil</supplied>issimo<lb/>
-               <supplied reason="undefined">C</supplied>aes<supplied reason="undefined">ari</supplied>
-               <lb/>
-               <supplied reason="undefined">f</supplied>il<supplied reason="undefined">io</supplied>
-               <lb/>
-               <expan>
-                  <abbr>Aug</abbr><ex>usti</ex>
-               </expan>
-               <expan>
-                  <abbr>n</abbr><ex>ostri</ex>
-               </expan>.
+                  <expan><abbr>G</abbr><ex>aio</ex></expan></supplied> <supplied reason="undefined">Iulio</supplied> Vero
+              <lb/>Maximo
+              <lb/><supplied reason="undefined">nobil</supplied>issimo
+              <lb/><supplied reason="undefined">C</supplied>aes<supplied reason="undefined">ari</supplied>
+              <lb/><supplied reason="undefined">f</supplied>il<supplied reason="undefined">io</supplied>
+              <lb/><expan><abbr>Aug</abbr><ex>usti</ex></expan>
+               <expan><abbr>n</abbr><ex>ostri</ex></expan>.
 		  </p>
          </div>
          <div type="translation" ana="#b1" xml:id="caes0106.translation" corresp="#caes0106.transcription">
@@ -177,27 +155,7 @@
                   <persName xml:lang="la " ref="persons.xml#caes0106p10">Augustus </persName>
                </name>.</p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="caes0106-1" xml:lang="la"><supplied reason="undefined"><w xml:id="caes0106-2" xml:lang="la"><expan>
-                     <abbr>Imp</abbr><ex>eratori</ex>
-                  </expan></w><w xml:id="caes0106-3" xml:lang="la"><expan>
-                     <abbr>Caes</abbr><ex>ari</ex>
-                  </expan></w><w xml:id="caes0106-4" xml:lang="la"><expan>
-                     <abbr>C</abbr><ex>aio</ex>
-                  </expan></w></supplied></w><w xml:id="caes0106-5" xml:lang="la"><supplied reason="undefined">Iulio Vero</supplied></w><w xml:id="caes0106-6" xml:lang="la"><supplied reason="undefined">Maximino<w xml:id="caes0106-7" xml:lang="la"><expan>
-                     <abbr>p</abbr><ex>io</ex>
-                  </expan></w><w xml:id="caes0106-8" xml:lang="la"><expan>
-                     <abbr>f</abbr><ex>elici</ex>
-                  </expan></w></supplied></w><w xml:id="caes0106-9" xml:lang="la"><supplied reason="undefined"><w xml:id="caes0106-10" xml:lang="la"><expan>
-                     <abbr>Aug</abbr><ex>usto</ex>
-                  </expan></w><w xml:id="caes0106-11" xml:lang="la"><expan>
-                     <abbr>n</abbr><ex>ostro</ex>
-                  </expan></w>et</supplied></w><w xml:id="caes0106-12" xml:lang="la"><supplied reason="undefined"><w xml:id="caes0106-13" xml:lang="la"><expan>
-                     <abbr>G</abbr><ex>aio</ex>
-                  </expan></w>Iulio</supplied></w><w xml:id="caes0106-14" xml:lang="la">Vero</w> <w xml:id="caes0106-15" xml:lang="la">Maximo</w><w xml:id="caes0106-16" xml:lang="la"><supplied reason="undefined">nobil</supplied></w><w xml:id="caes0106-17" xml:lang="la">issimo</w><w xml:id="caes0106-18" xml:lang="la"><supplied reason="undefined">C</supplied></w><w xml:id="caes0106-19" xml:lang="la">aes</w><w xml:id="caes0106-20" xml:lang="la"><supplied reason="undefined">ari</supplied></w><w xml:id="caes0106-21" xml:lang="la"><supplied reason="undefined">f</supplied></w><w xml:id="caes0106-22" xml:lang="la">il</w><w xml:id="caes0106-23" xml:lang="la"><supplied reason="undefined">io</supplied></w><w xml:id="caes0106-24" xml:lang="la"><expan>
-                  <abbr>Aug</abbr><ex>usti</ex>
-               </expan></w><w xml:id="caes0106-25" xml:lang="la"><expan>
-                  <abbr>n</abbr><ex>ostri</ex>
-               </expan></w></p>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="caes0106-1" xml:lang="la"><supplied reason="undefined"><w xml:id="caes0106-2" xml:lang="la"><expan><abbr>Imp</abbr><ex>eratori</ex></expan></w><w xml:id="caes0106-3" xml:lang="la"><expan><abbr>Caes</abbr><ex>ari</ex></expan></w><w xml:id="caes0106-4" xml:lang="la"><expan><abbr>C</abbr><ex>aio</ex></expan></w></supplied></w><w xml:id="caes0106-5" xml:lang="la"><supplied reason="undefined">Iulio</supplied></w><w xml:id="caes0106-6" xml:lang="la"><supplied reason="undefined">Vero</supplied></w><w xml:id="caes0106-7" xml:lang="la"><supplied reason="undefined">Maximino<w xml:id="caes0106-8" xml:lang="la"><expan><abbr>p</abbr><ex>io</ex></expan></w><w xml:id="caes0106-9" xml:lang="la"><expan><abbr>f</abbr><ex>elici</ex></expan></w></supplied></w><w xml:id="caes0106-10" xml:lang="la"><supplied reason="undefined"><w xml:id="caes0106-11" xml:lang="la"><expan><abbr>Aug</abbr><ex>usto</ex></expan></w></supplied></w><w xml:id="caes0106-12" xml:lang="la"><supplied reason="undefined"><w xml:id="caes0106-13" xml:lang="la"><expan><abbr>n</abbr><ex>ostro</ex></expan></w></supplied></w><w xml:id="caes0106-14" xml:lang="la"><supplied reason="undefined">et</supplied></w><w xml:id="caes0106-15" xml:lang="la"><supplied reason="undefined"><w xml:id="caes0106-16" xml:lang="la"><expan><abbr>G</abbr><ex>aio</ex></expan></w></supplied></w><w xml:id="caes0106-17" xml:lang="la"><supplied reason="undefined">Iulio</supplied></w><w xml:id="caes0106-18" xml:lang="la">Vero</w> <w xml:id="caes0106-19" xml:lang="la">Maximo</w><w xml:id="caes0106-20" xml:lang="la"><supplied reason="undefined">nobil</supplied></w><w xml:id="caes0106-21" xml:lang="la">issimo</w><w xml:id="caes0106-22" xml:lang="la"><supplied reason="undefined">C</supplied></w><w xml:id="caes0106-23" xml:lang="la">aes</w><w xml:id="caes0106-24" xml:lang="la"><supplied reason="undefined">ari</supplied></w><w xml:id="caes0106-25" xml:lang="la"><supplied reason="undefined">f</supplied></w><w xml:id="caes0106-26" xml:lang="la">il</w><w xml:id="caes0106-27" xml:lang="la"><supplied reason="undefined">io</supplied></w><w xml:id="caes0106-28" xml:lang="la"><expan><abbr>Aug</abbr><ex>usti</ex></expan></w><w xml:id="caes0106-29" xml:lang="la"><expan><abbr>n</abbr><ex>ostri</ex></expan></w></p>
 </div>
 </body>
       <back>

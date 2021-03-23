@@ -119,11 +119,11 @@
       <body>
          <div type="edition" ana="#b1" subtype="transcription" xml:id="caes0233.transcription">
             <p>
-               <gap reason="illegible" quantity="2" unit="character"/><supplied reason="undefined"> τέκ</supplied>
+               <gap reason="illegible" quantity="2" unit="character"/> <supplied reason="undefined">τέκ</supplied>
                <unclear>ν</unclear>υς  +<lb/>
             </p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="caes0233-1" xml:lang="grc"><supplied reason="undefined"> τέκ</supplied></w><w xml:id="caes0233-2" xml:lang="grc">νυς</w></p>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="caes0233-1" xml:lang="grc"><supplied reason="undefined">τέκ</supplied></w><w xml:id="caes0233-2" xml:lang="grc">νυς</w></p>
 </div>
 </body>
       <back>

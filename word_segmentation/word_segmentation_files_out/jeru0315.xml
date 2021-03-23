@@ -129,8 +129,7 @@
             <div type="edition" subtype="transcription" ana="b1">
                 <p>
                <supplied reason="lost" cert="low">Εὐλ</supplied>ογία
-                            <expan>
-                  <abbr>Κ</abbr><ex>υρίο</ex><abbr>υ</abbr>
+                            <expan><abbr>Κ</abbr><ex>υρίο</ex><abbr>υ</abbr>
                </expan> ἀπὸ τῆς
                         κατα<gap reason="lost" extent="unknown" unit="character"/>
             </p>
@@ -141,8 +140,7 @@
             <div type="commentary" ana="b1">
                 <p/>
             </div>
-        <div type="edition" subtype="transcription_segmented"><p><w xml:id="jeru0315-1" xml:lang="grc"><supplied reason="lost" cert="low">Εὐλ</supplied></w><w xml:id="jeru0315-2" xml:lang="grc">ογία</w><w xml:id="jeru0315-3" xml:lang="grc"><expan>
-                  <abbr>Κ</abbr><ex>υρίο</ex><abbr>υ</abbr>
+        <div type="edition" subtype="transcription_segmented"><p><w xml:id="jeru0315-1" xml:lang="grc"><supplied reason="lost" cert="low">Εὐλ</supplied></w><w xml:id="jeru0315-2" xml:lang="grc">ογία</w><w xml:id="jeru0315-3" xml:lang="grc"><expan><abbr>Κ</abbr><ex>υρίο</ex><abbr>υ</abbr>
                </expan></w><w xml:id="jeru0315-4" xml:lang="grc">ἀπὸ</w> <w xml:id="jeru0315-5" xml:lang="grc">τῆς</w> <w xml:id="jeru0315-6" xml:lang="grc">κατα</w></p>
 </div>
 </body>

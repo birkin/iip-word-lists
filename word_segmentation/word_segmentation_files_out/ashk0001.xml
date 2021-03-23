@@ -171,11 +171,7 @@
             <p/>
          </div>
             <div type="edition" subtype="transcription" ana="b1">
-                <p> Ὑπὲρ σωτηριας Μενά<lb break="no"/>μου <expan>
-                        <abbr>κ</abbr><ex>αὶ</ex>
-                    </expan> Μα<supplied reason="lost">τ</supplied>ρώνας <supplied reason="lost">σ</supplied>ηβίου αὐ<lb break="no"/>τοῦ <expan>
-                        <abbr>κ</abbr><ex>αί</ex>
-                    </expan> Σαμούλου υἱοῦ<lb> </lb>αὐτῶν </p>
+                <p> Ὑπὲρ σωτηριας Μενά<lb break="no"/>μου <expan><abbr>κ</abbr><ex>αὶ</ex></expan> Μα<supplied reason="lost">τ</supplied>ρώνας <supplied reason="lost">σ</supplied>ηβίου αὐ<lb break="no"/>τοῦ <expan><abbr>κ</abbr><ex>αί</ex></expan> Σαμούλου υἱοῦ<lb> </lb>αὐτῶν </p>
          </div>
             <div type="translation" ana="b1">
                 <p>For the salvation of Menahem and Matrona his wife and Samuel their son / </p>
@@ -184,11 +180,7 @@
                 <p> </p>
             </div>
             
-        <div type="edition" subtype="transcription_segmented"><p><w xml:id="ashk0001-1" xml:lang="grc">Ὑπὲρ</w> <w xml:id="ashk0001-2" xml:lang="grc">σωτηριας</w> <w xml:id="ashk0001-3" xml:lang="grc">Μενάμου</w><w xml:id="ashk0001-4" xml:lang="grc"><expan>
-                        <abbr>κ</abbr><ex>αὶ</ex>
-                    </expan></w><w xml:id="ashk0001-5" xml:lang="grc">Μα</w><w xml:id="ashk0001-6" xml:lang="grc"><supplied reason="lost">τ</supplied></w><w xml:id="ashk0001-7" xml:lang="grc">ρώνας</w><w xml:id="ashk0001-8" xml:lang="grc"><supplied reason="lost">σ</supplied></w><w xml:id="ashk0001-9" xml:lang="grc">ηβίου</w> <w xml:id="ashk0001-10" xml:lang="grc">αὐτοῦ</w><w xml:id="ashk0001-11" xml:lang="grc"><expan>
-                        <abbr>κ</abbr><ex>αί</ex>
-                    </expan></w><w xml:id="ashk0001-12" xml:lang="grc">Σαμούλου</w> <w xml:id="ashk0001-13" xml:lang="grc">υἱοῦ</w><w xml:id="ashk0001-14" xml:lang="grc">αὐτῶν</w></p>
+        <div type="edition" subtype="transcription_segmented"><p><w xml:id="ashk0001-1" xml:lang="grc">Ὑπὲρ</w> <w xml:id="ashk0001-2" xml:lang="grc">σωτηριας</w> <w xml:id="ashk0001-3" xml:lang="grc">Μενάμου</w><w xml:id="ashk0001-4" xml:lang="grc"><expan><abbr>κ</abbr><ex>αὶ</ex></expan></w><w xml:id="ashk0001-5" xml:lang="grc">Μα</w><w xml:id="ashk0001-6" xml:lang="grc"><supplied reason="lost">τ</supplied></w><w xml:id="ashk0001-7" xml:lang="grc">ρώνας</w><w xml:id="ashk0001-8" xml:lang="grc"><supplied reason="lost">σ</supplied></w><w xml:id="ashk0001-9" xml:lang="grc">ηβίου</w> <w xml:id="ashk0001-10" xml:lang="grc">αὐτοῦ</w><w xml:id="ashk0001-11" xml:lang="grc"><expan><abbr>κ</abbr><ex>αί</ex></expan></w><w xml:id="ashk0001-12" xml:lang="grc">Σαμούλου</w> <w xml:id="ashk0001-13" xml:lang="grc">υἱοῦ</w><w xml:id="ashk0001-14" xml:lang="grc">αὐτῶν</w></p>
 </div>
 </body>
         <back>

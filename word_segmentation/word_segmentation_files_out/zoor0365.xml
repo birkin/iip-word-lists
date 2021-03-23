@@ -143,12 +143,8 @@
                   <lb/>διου</orig>, ἀποθα<lb break="no"/>νόντος ἐτῶν<lb/>
                <num value="6">ς</num>, ἔτους<lb/>
                <num value="251">σνα</num>,
-                            <expan>
-                  <abbr>μη</abbr><ex>νὸς</ex>
-               </expan>
-                    <expan>
-                  <abbr>Δύστ</abbr><ex>ρου</ex>
-               </expan>
+                            <expan><abbr>μη</abbr><ex>νὸς</ex></expan>
+                    <expan><abbr>Δύστ</abbr><ex>ρου</ex></expan>
                <lb/>
                <orig>
                   <unclear>ΤΟϹ</unclear>
@@ -166,11 +162,7 @@
             <div type="commentary" ana="b1">
                 <p>7? Dystros 251 E.P.A = 21 February 357 CE. </p>
             </div>
-        <div type="edition" subtype="transcription_segmented"><p><w xml:id="zoor0365-1" xml:lang="grc">ἀποθανόντος</w> <w xml:id="zoor0365-2" xml:lang="grc">ἐτῶν</w> <w xml:id="zoor0365-3" xml:lang="grc">ς</w> <w xml:id="zoor0365-4" xml:lang="grc">ἔτους</w> <w xml:id="zoor0365-5" xml:lang="grc">σνα</w><w xml:id="zoor0365-6" xml:lang="grc"><expan>
-                  <abbr>μη</abbr><ex>νὸς</ex>
-               </expan></w><w xml:id="zoor0365-7" xml:lang="grc"><expan>
-                  <abbr>Δύστ</abbr><ex>ρου</ex>
-               </expan></w><w xml:id="zoor0365-8" xml:lang="grc">ζ</w></p>
+        <div type="edition" subtype="transcription_segmented"><p><w xml:id="zoor0365-1" xml:lang="grc">ἀποθανόντος</w> <w xml:id="zoor0365-2" xml:lang="grc">ἐτῶν</w> <w xml:id="zoor0365-3" xml:lang="grc">ς</w> <w xml:id="zoor0365-4" xml:lang="grc">ἔτους</w> <w xml:id="zoor0365-5" xml:lang="grc">σνα</w><w xml:id="zoor0365-6" xml:lang="grc"><expan><abbr>μη</abbr><ex>νὸς</ex></expan></w><w xml:id="zoor0365-7" xml:lang="grc"><expan><abbr>Δύστ</abbr><ex>ρου</ex></expan></w><w xml:id="zoor0365-8" xml:lang="grc">ζ</w></p>
 </div>
 </body>
         <back>

@@ -130,9 +130,7 @@
             <p>
                <gap reason="lost" extent="unknown" unit="character"/>
                <gap reason="illegible" quantity="1" unit="character"/>στ<hi rend="ligature">ου</hi>
-               <expan>
-                  <abbr><am>Ϛ</am></abbr><ex>καὶ</ex>
-               </expan> Ζα<lb break="no"/>
+               <expan><abbr><am>Ϛ</am></abbr><ex>καὶ</ex></expan> Ζα<lb break="no"/>
                <gap reason="lost" extent="unknown" unit="character"/>
                <supplied reason="undefined">Ἰ</supplied>ωάνν<hi rend="ligature">ου</hi>
                <lb/>
@@ -145,9 +143,7 @@
                   <persName xml:lang="grc " ref="persons.xml#caes0291p01">Ioannes </persName>
                </name> ...with their <rs type="family">children</rs>.</p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="caes0291-1" xml:lang="grc">στ</w><w xml:id="caes0291-2" xml:lang="grc"><expan>
-                  <abbr><am>Ϛ</am></abbr><ex>καὶ</ex>
-               </expan></w><w xml:id="caes0291-3" xml:lang="grc">Ζα</w><w xml:id="caes0291-4" xml:lang="grc"><supplied reason="undefined">Ἰ</supplied></w><w xml:id="caes0291-5" xml:lang="grc">ωάνν</w><w xml:id="caes0291-6" xml:lang="grc"><supplied reason="undefined">σ</supplied></w><w xml:id="caes0291-7" xml:lang="grc">ὺν</w> <w xml:id="caes0291-8" xml:lang="grc">τέκνυς</w></p>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="caes0291-1" xml:lang="grc">στ</w><w xml:id="caes0291-2" xml:lang="grc"><expan><abbr><am>Ϛ</am></abbr><ex>καὶ</ex></expan></w><w xml:id="caes0291-3" xml:lang="grc">Ζα</w><w xml:id="caes0291-4" xml:lang="grc"><supplied reason="undefined">Ἰ</supplied></w><w xml:id="caes0291-5" xml:lang="grc">ωάνν</w><w xml:id="caes0291-6" xml:lang="grc"><supplied reason="undefined">σ</supplied></w><w xml:id="caes0291-7" xml:lang="grc">ὺν</w> <w xml:id="caes0291-8" xml:lang="grc">τέκνυς</w></p>
 </div>
 </body>
       <back>

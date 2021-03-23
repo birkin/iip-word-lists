@@ -121,13 +121,13 @@
       <body>
          <div type="edition" ana="#b1" subtype="transcription" xml:id="caes0061.transcription" corresp="#caes0061.translation">
             <p>
-               <supplied reason="lost">αὔξοις μ</supplied>ητρόπολι. 
+               <supplied reason="lost">αὔξοις</supplied> <supplied reason="lost">μ</supplied>ητρόπολι. 
 		  </p>
          </div>
          <div type="translation" ana="#b1" xml:id="caes0061.translation" corresp="#caes0061.transcription">
             <p>May you flourish, Metropolis!</p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="caes0061-1" xml:lang="grc"><supplied reason="lost">αὔξοις μ</supplied></w><w xml:id="caes0061-2" xml:lang="grc">ητρόπολι</w></p>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="caes0061-1" xml:lang="grc"><supplied reason="lost">αὔξοις</supplied></w><w xml:id="caes0061-2" xml:lang="grc"><supplied reason="lost">μ</supplied></w><w xml:id="caes0061-3" xml:lang="grc">ητρόπολι</w></p>
 </div>
 </body>
       <back>

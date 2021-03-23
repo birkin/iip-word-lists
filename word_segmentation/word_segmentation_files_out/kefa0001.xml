@@ -28,7 +28,7 @@
                <msContents>
                   <textLang mainLang="grc"/>
                   <msItem class="#funerary" ana="#jewish">
-                     <p>Galilee. Kefar Barukh, 20 BCE - 135 CE. Ossuary. Funerary.</p>
+                     <p>Kefar Barukh, 20 BCE - 135 CE. Ossuary. Funerary.</p>
                   </msItem>
                </msContents>
                <!-- ********* <physDesc> ********* -->
@@ -63,7 +63,7 @@
                   <origin>
                      <date period="http://n2t.net/ark:/99152/p0m63njtk9m" notBefore="-0020" notAfter="0135">20 BCE - 135 CE</date>
                      <placeName>
-                        <region>Galilee</region>
+                        <region>Jezreel Valley</region>
                         <settlement>Kefar Barukh<geo>32.646111,35.190556</geo></settlement>
                         <geogName type="site"/>
                      </placeName>

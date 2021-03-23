@@ -121,9 +121,7 @@
          <div type="edition" ana="#b1" subtype="transcription" xml:id="khis0075.transcription" corresp="#khis0075.diplomatic #khis0075.translation">
             <p>θάρσ<supplied reason="undefined">ι</supplied>
                <lb/> Νουρ<lb break="no"/>εος <lb/>
-               <expan>
-                  <abbr>ἐτ</abbr><ex>ῶν</ex>
-               </expan>
+               <expan><abbr>ἐτ</abbr><ex>ῶν</ex></expan>
                <num value="30">λ´</num>
             </p>
          </div>
@@ -131,9 +129,7 @@
             <p>Be of good courage, Noureos! Thirty years old.
 				</p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="khis0075-1" xml:lang="grc">θάρσ</w><w xml:id="khis0075-2" xml:lang="grc"><supplied reason="undefined">ι</supplied></w><w xml:id="khis0075-3" xml:lang="grc">Νουρεος</w><w xml:id="khis0075-4" xml:lang="grc"><expan>
-                  <abbr>ἐτ</abbr><ex>ῶν</ex>
-               </expan></w><w xml:id="khis0075-5" xml:lang="grc">λ</w></p>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="khis0075-1" xml:lang="grc">θάρσ</w><w xml:id="khis0075-2" xml:lang="grc"><supplied reason="undefined">ι</supplied></w><w xml:id="khis0075-3" xml:lang="grc">Νουρεος</w><w xml:id="khis0075-4" xml:lang="grc"><expan><abbr>ἐτ</abbr><ex>ῶν</ex></expan></w><w xml:id="khis0075-5" xml:lang="grc">λ</w></p>
 </div>
 </body>
       <back>
