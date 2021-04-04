@@ -121,15 +121,13 @@
       <body>
          <div type="edition" ana="#b1" xml:lang="grc" subtype="transcription" xml:id="zoor0215.transcription" corresp="#zoor0215.translation">
             <p>+ Εἶς θεός, ὀ π<unclear>ά</unclear>
-               <lb/>ντων Δεσπότ<lb/>ης. <choice><sic>Μvημῖον</sic><corr>Μνημεῖον</corr></choice> Δο<lb/>υσαρίου <choice><sic>Ῥωμύ<lb/>λλου</sic><corr>Ῥωμύλου</corr></choice>
-                    ἀποθανὀν<lb/>τος μετὰ καλοῦ<lb/> ὀνόματoς καὶ <choice><sic> κλ<lb/>ῆς</sic><corr>καλῆς</corr></choice>
-                    πίστεως ετῶν<lb/>
-               <unclear>κ</unclear>γʹ, ἐν <choice><sic>ἒτι</sic><corr>ἔτει</corr></choice> τξʹ, μηνὶ<lb/> Ἀρτεμησίου
-                        ι<unclear>θ</unclear>ʹ ἡ<lb/>μέρᾳ Κυριακῇ. +<lb/>
-               <choice><sic>
-                     <unclear>θά</unclear>ρσι</sic><corr>θάρσει</corr></choice> οὐ<lb/>
-               <unclear>δεὶς</unclear>
-                    ἀθάνατος.<lb/> + +</p>
+               <lb/>ντων Δεσπότ<lb break="no"/>ης. <choice><sic>Μvημῖον</sic><corr>Μνημεῖον</corr></choice> Δο<lb break="no"/>υσαρίου 
+               <choice><sic>Ῥωμύ<lb break="no"/>λλου</sic><corr>Ῥωμύλου</corr></choice> ἀποθανὀν<lb break="no"/>τος μετὰ καλοῦ
+               <lb/>ὀνόματoς καὶ <choice><sic> κλ<lb break="no"/>ῆς</sic><corr>καλῆς</corr></choice> πίστεως ετῶν
+               <lb/><num><unclear>κ</unclear>γʹ</num>, ἐν <choice><sic>ἒτι</sic><corr>ἔτει</corr></choice> <num>τξʹ</num>, μηνὶ
+               <lb/> Ἀρτεμησίου <num>ι<unclear>θ</unclear>ʹ</num> ἡ<lb break="no"/>μέρᾳ Κυριακῇ. +
+               <lb/><choice><sic><unclear>θά</unclear>ρσι</sic><corr>θάρσει</corr></choice> οὐ<lb break="no"/><unclear>δεὶς</unclear> ἀθάνατος.
+               <lb/> + +</p>
          </div>
          <div type="translation" ana="#b1" xml:id="zoor0215.translation" corresp="#zoor0215.transcription">
             <p> One (is) the God, the Lord of all. Monument of Dousari(o)s, (son) of Romulus,
@@ -137,7 +135,7 @@
                     360, on the 19th (day) of (the) month Artemisios, on Sunday. Be of good cheer,
                     Dousari(o)s no one (is) immortal.</p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="zoor0215-1" xml:lang="grc">Εἶς</w> <w xml:id="zoor0215-2" xml:lang="grc">θεός</w> <w xml:id="zoor0215-3" xml:lang="grc">ὀ</w> <w xml:id="zoor0215-4" xml:lang="grc">πά</w> <w xml:id="zoor0215-5" xml:lang="grc">ντων</w> <w xml:id="zoor0215-6" xml:lang="grc">Δεσπότ</w> <w xml:id="zoor0215-7" xml:lang="grc">ης</w> <w xml:id="zoor0215-8" xml:lang="grc">Μνημεῖον</w> <w xml:id="zoor0215-9" xml:lang="grc">Δο</w> <w xml:id="zoor0215-10" xml:lang="grc">υσαρίου</w> <w xml:id="zoor0215-11" xml:lang="grc">Ῥωμύλου</w> <w xml:id="zoor0215-12" xml:lang="grc">ἀποθανὀν</w> <w xml:id="zoor0215-13" xml:lang="grc">τος</w> <w xml:id="zoor0215-14" xml:lang="grc">μετὰ</w> <w xml:id="zoor0215-15" xml:lang="grc">καλοῦ</w> <w xml:id="zoor0215-16" xml:lang="grc">ὀνόματoς</w> <w xml:id="zoor0215-17" xml:lang="grc">καὶ</w> <w xml:id="zoor0215-18" xml:lang="grc">καλῆς</w> <w xml:id="zoor0215-19" xml:lang="grc">πίστεως</w> <w xml:id="zoor0215-20" xml:lang="grc">ετῶν</w> <w xml:id="zoor0215-21" xml:lang="grc">κγ</w> <w xml:id="zoor0215-22" xml:lang="grc">ἐν</w> <w xml:id="zoor0215-23" xml:lang="grc">ἔτει</w> <w xml:id="zoor0215-24" xml:lang="grc">τξ</w> <w xml:id="zoor0215-25" xml:lang="grc">μηνὶ</w> <w xml:id="zoor0215-26" xml:lang="grc">Ἀρτεμησίου</w> <w xml:id="zoor0215-27" xml:lang="grc">ιθ</w> <w xml:id="zoor0215-28" xml:lang="grc">ἡ</w> <w xml:id="zoor0215-29" xml:lang="grc">μέρᾳ</w> <w xml:id="zoor0215-30" xml:lang="grc">Κυριακῇ</w> <w xml:id="zoor0215-31" xml:lang="grc">θάρσιθάρσει</w> <w xml:id="zoor0215-32" xml:lang="grc">οὐ</w> <w xml:id="zoor0215-33" xml:lang="grc">δεὶς</w> <w xml:id="zoor0215-34" xml:lang="grc">ἀθάνατος</w></p>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="zoor0215-1" xml:lang="grc">Εἶς</w> <w xml:id="zoor0215-2" xml:lang="grc">θεός</w> <w xml:id="zoor0215-3" xml:lang="grc">ὀ</w> <w xml:id="zoor0215-4" xml:lang="grc">πά</w> <w xml:id="zoor0215-5" xml:lang="grc">ντων</w> <w xml:id="zoor0215-6" xml:lang="grc">Δεσπότης</w> <w xml:id="zoor0215-7" xml:lang="grc">Μνημεῖον</w> <w xml:id="zoor0215-8" xml:lang="grc">Δουσαρίου</w> <w xml:id="zoor0215-9" xml:lang="grc">Ῥωμύλου</w> <w xml:id="zoor0215-10" xml:lang="grc">ἀποθανὀντος</w> <w xml:id="zoor0215-11" xml:lang="grc">μετὰ</w> <w xml:id="zoor0215-12" xml:lang="grc">καλοῦ</w> <w xml:id="zoor0215-13" xml:lang="grc">ὀνόματoς</w> <w xml:id="zoor0215-14" xml:lang="grc">καὶ</w> <w xml:id="zoor0215-15" xml:lang="grc">καλῆς</w> <w xml:id="zoor0215-16" xml:lang="grc">πίστεως</w> <w xml:id="zoor0215-17" xml:lang="grc">ετῶν</w><w xml:id="zoor0215-18" xml:lang="grc"><num>κγʹ</num></w><w xml:id="zoor0215-19" xml:lang="grc">ἐν</w> <w xml:id="zoor0215-20" xml:lang="grc">ἔτει</w><w xml:id="zoor0215-21" xml:lang="grc"><num>τξʹ</num></w><w xml:id="zoor0215-22" xml:lang="grc">μηνὶ</w> <w xml:id="zoor0215-23" xml:lang="grc">Ἀρτεμησίου</w><w xml:id="zoor0215-24" xml:lang="grc"><num>ιθʹ</num></w><w xml:id="zoor0215-25" xml:lang="grc">ἡμέρᾳ</w> <w xml:id="zoor0215-26" xml:lang="grc">Κυριακῇ</w> <w xml:id="zoor0215-27" xml:lang="grc">θάρσει</w> <w xml:id="zoor0215-28" xml:lang="grc">οὐδεὶς</w> <w xml:id="zoor0215-29" xml:lang="grc">ἀθάνατος</w></p>
 </div>
 </body>
       <back>

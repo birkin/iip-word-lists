@@ -123,13 +123,8 @@
                 <p/>
             </div>
             <div type="edition" subtype="transcription" ana="b1">
-                <p>Ἐπὶ Θ
-                    <lb break="no"/>εωδόρου
-                    <lb/>πρεσβυτέ
-                    <lb break="no"/>ρου <expan><abbr>κ</abbr><ex>αὶ</ex></expan> ἡγουμέ
-                    <lb break="no"/>νου <expan><abbr>κ</abbr><ex>αὶ</ex></expan> <expan><abbr>Κυριακ</abbr><ex>οῦ</ex></expan> μο
-                    <lb break="no"/>ναχοῦ ἐγέ
-                    <lb break="no"/>νετ<supplied reason="omitted">ο</supplied> τ<supplied reason="omitted">ὸ</supplied> μᾶν
+                <p>Ἐπὶ Θ<lb break="no"/>εωδόρου
+                    <lb/>πρεσβυτέ<lb break="no"/>ρου <expan><abbr>κ</abbr><ex>αὶ</ex></expan> ἡγουμέ<lb break="no"/>νου <expan><abbr>κ</abbr><ex>αὶ</ex></expan> <expan><abbr>Κυριακ</abbr><ex>οῦ</ex></expan> μο<lb break="no"/>ναχοῦ ἐγέ<lb break="no"/>νετ<supplied reason="omitted">ο</supplied> τ<supplied reason="omitted">ὸ</supplied> μᾶν
                     <lb/>ἔργον</p>
             </div>
             <div type="translation" ana="b1">
@@ -139,7 +134,7 @@
             <div type="commentary">
                 <p/>
             </div>
-        <div type="edition" subtype="transcription_segmented"><p><w xml:id="msco0001-1" xml:lang="grc">Ἐπὶ</w> <w xml:id="msco0001-2" xml:lang="grc">Θ</w> <w xml:id="msco0001-3" xml:lang="grc">εωδόρου</w> <w xml:id="msco0001-4" xml:lang="grc">πρεσβυτέ</w> <w xml:id="msco0001-5" xml:lang="grc">ρου</w><w xml:id="msco0001-6" xml:lang="grc"><expan><abbr>κ</abbr><ex>αὶ</ex></expan></w><w xml:id="msco0001-7" xml:lang="grc">ἡγουμέ</w> <w xml:id="msco0001-8" xml:lang="grc">νου</w><w xml:id="msco0001-9" xml:lang="grc"><expan><abbr>κ</abbr><ex>αὶ</ex></expan></w><w xml:id="msco0001-10" xml:lang="grc"><expan><abbr>Κυριακ</abbr><ex>οῦ</ex></expan></w><w xml:id="msco0001-11" xml:lang="grc">μο</w> <w xml:id="msco0001-12" xml:lang="grc">ναχοῦ</w> <w xml:id="msco0001-13" xml:lang="grc">ἐγέ</w> <w xml:id="msco0001-14" xml:lang="grc">νετ</w><w xml:id="msco0001-15" xml:lang="grc"><supplied reason="omitted">ο</supplied></w><w xml:id="msco0001-16" xml:lang="grc">τ</w><w xml:id="msco0001-17" xml:lang="grc"><supplied reason="omitted">ὸ</supplied></w><w xml:id="msco0001-18" xml:lang="grc">μᾶν</w> <w xml:id="msco0001-19" xml:lang="grc">ἔργον</w></p>
+        <div type="edition" subtype="transcription_segmented"><p><w xml:id="msco0001-1" xml:lang="grc">Ἐπὶ</w> <w xml:id="msco0001-2" xml:lang="grc">Θεωδόρου</w> <w xml:id="msco0001-3" xml:lang="grc">πρεσβυτέρου</w><w xml:id="msco0001-4" xml:lang="grc"><expan><abbr>κ</abbr><ex>αὶ</ex></expan></w><w xml:id="msco0001-5" xml:lang="grc">ἡγουμένου</w><w xml:id="msco0001-6" xml:lang="grc"><expan><abbr>κ</abbr><ex>αὶ</ex></expan></w><w xml:id="msco0001-7" xml:lang="grc"><expan><abbr>Κυριακ</abbr><ex>οῦ</ex></expan></w><w xml:id="msco0001-8" xml:lang="grc">μοναχοῦ</w> <w xml:id="msco0001-9" xml:lang="grc">ἐγένετ</w><w xml:id="msco0001-10" xml:lang="grc"><supplied reason="omitted">ο</supplied></w><w xml:id="msco0001-11" xml:lang="grc">τ</w><w xml:id="msco0001-12" xml:lang="grc"><supplied reason="omitted">ὸ</supplied></w><w xml:id="msco0001-13" xml:lang="grc">μᾶν</w> <w xml:id="msco0001-14" xml:lang="grc">ἔργον</w></p>
 </div>
 </body>
         <back>

@@ -116,8 +116,7 @@
       <body>
          <div type="edition" ana="#b2" subtype="transcription" xml:id="beth0099.transcription" corresp="#beth0099.translation">
             <p>Σαμουὲλ Ἰσαάκου<lb/>πενηχροῦ
-					Ἀναστασ<supplied reason="lost">ί</supplied>
-               <lb break="no"/>ου </p>
+					Ἀναστασ<supplied reason="lost">ί</supplied><lb break="no"/>ου </p>
          </div>
          <div type="translation" ana="#b2" xml:id="beth0099.translation" corresp="#beth0099.transcription">
             <p>

@@ -122,10 +122,10 @@
                 <p/>
             </div>
             <div type="edition" subtype="transcription" ana="b1">
-                <p>Μαγνιάνος στρατιώτης<lb/>εὐχαριστῶν τῷ ἁγίῳ<lb/>Ἀνδρέα ἔκτισεν καὶ ε<lb break="no"/> ψήφωσεν
-                    σπουδῇ Ἡρακ<lb break="no"/> λίου πρεσ<expan><abbr>β</abbr><ex>υτέρου</ex></expan> καὶ
-                    Κ<expan><abbr>ω</abbr><ex>ν</ex></expan>σταν<lb break="no"/> τινου
-                            διακ<expan><abbr>κ</abbr><ex>όνου καὶ</ex></expan> Πολλυχρονίου</p>
+                <p>Μαγνιάνος <expan><abbr>σ</abbr><ex>τ</ex><abbr>ρατιώτ</abbr><ex>ης</ex></expan><lb/>εὐχαριστῶν τῷ ἁγίῳ<lb/>Ἀνδρέα ἔκτισεν καὶ ἐ<lb break="no"/>ψήφωσεν
+                    σπουδῇ Ἡρακ<lb break="no"/>λίου <expan><abbr>πρεσβ</abbr><ex>υτέρου</ex></expan> καὶ
+                    <expan><abbr>Κω</abbr><ex>ν</ex>σταν<lb break="no"/>τίνου</expan>
+                            <expan><abbr>διακ</abbr><ex>όνου</ex></expan> <supplied reason="subaudible">καὶ</supplied> Πολλυχρονίου</p>
             </div>
             <div type="translation" ana="b1">
                 <p>Magnianos the soldier, giving thanks to Saint Andrew made the mosaic; by the
@@ -134,7 +134,7 @@
             <div type="commentary" ana="b1">
                 <p/>
             </div>
-        <div type="edition" subtype="transcription_segmented"><p><w xml:id="jeri0019-1" xml:lang="grc">Μαγνιάνος</w> <w xml:id="jeri0019-2" xml:lang="grc">στρατιώτης</w> <w xml:id="jeri0019-3" xml:lang="grc">εὐχαριστῶν</w> <w xml:id="jeri0019-4" xml:lang="grc">τῷ</w> <w xml:id="jeri0019-5" xml:lang="grc">ἁγίῳ</w> <w xml:id="jeri0019-6" xml:lang="grc">Ἀνδρέα</w> <w xml:id="jeri0019-7" xml:lang="grc">ἔκτισεν</w> <w xml:id="jeri0019-8" xml:lang="grc">καὶ</w> <w xml:id="jeri0019-9" xml:lang="grc">ε</w> <w xml:id="jeri0019-10" xml:lang="grc">ψήφωσεν</w> <w xml:id="jeri0019-11" xml:lang="grc">σπουδῇ</w> <w xml:id="jeri0019-12" xml:lang="grc">Ἡρακ</w> <w xml:id="jeri0019-13" xml:lang="grc">λίου</w> <w xml:id="jeri0019-14" xml:lang="grc">πρεσ</w><w xml:id="jeri0019-15" xml:lang="grc"><expan><abbr>β</abbr><ex>υτέρου</ex></expan></w><w xml:id="jeri0019-16" xml:lang="grc">καὶ</w> <w xml:id="jeri0019-17" xml:lang="grc">Κ</w><w xml:id="jeri0019-18" xml:lang="grc"><expan><abbr>ω</abbr><ex>ν</ex></expan></w><w xml:id="jeri0019-19" xml:lang="grc">σταν</w> <w xml:id="jeri0019-20" xml:lang="grc">τινου</w> <w xml:id="jeri0019-21" xml:lang="grc">διακ</w><w xml:id="jeri0019-22" xml:lang="grc"><expan><abbr>κ</abbr><ex>όνου καὶ</ex></expan></w><w xml:id="jeri0019-23" xml:lang="grc">Πολλυχρονίου</w></p>
+        <div type="edition" subtype="transcription_segmented"><p><w xml:id="jeri0019-1" xml:lang="grc">Μαγνιάνος</w><w xml:id="jeri0019-2" xml:lang="grc"><expan><abbr>σ</abbr><ex>τ</ex><abbr>ρατιώτ</abbr><ex>ης</ex></expan></w><w xml:id="jeri0019-3" xml:lang="grc">εὐχαριστῶν</w> <w xml:id="jeri0019-4" xml:lang="grc">τῷ</w> <w xml:id="jeri0019-5" xml:lang="grc">ἁγίῳ</w> <w xml:id="jeri0019-6" xml:lang="grc">Ἀνδρέα</w> <w xml:id="jeri0019-7" xml:lang="grc">ἔκτισεν</w> <w xml:id="jeri0019-8" xml:lang="grc">καὶ</w> <w xml:id="jeri0019-9" xml:lang="grc">ἐψήφωσεν</w> <w xml:id="jeri0019-10" xml:lang="grc">σπουδῇ</w> <w xml:id="jeri0019-11" xml:lang="grc">Ἡρακλίου</w><w xml:id="jeri0019-12" xml:lang="grc"><expan><abbr>πρεσβ</abbr><ex>υτέρου</ex></expan></w><w xml:id="jeri0019-13" xml:lang="grc">καὶ</w><w xml:id="jeri0019-14" xml:lang="grc"><expan><abbr>Κω</abbr><ex>ν</ex>σταντίνου</expan></w><w xml:id="jeri0019-15" xml:lang="grc"><expan><abbr>διακ</abbr><ex>όνου</ex></expan></w><w xml:id="jeri0019-16" xml:lang="grc"><supplied reason="subaudible">καὶ</supplied></w><w xml:id="jeri0019-17" xml:lang="grc">Πολλυχρονίου</w></p>
 </div>
 </body>
         <back>

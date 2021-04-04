@@ -121,10 +121,8 @@
                 <p/>
             </div>
             <div type="edition" subtype="transcription" ana="b1">
-                <p><expan><abbr>Πρ</abbr><ex>οσφορὰ</ex></expan> Κώνω
-                    <lb break="no"/>νος <expan><abbr>διακό</abbr><ex>νου</ex></expan>
-                    <lb/>Ἱεροσολ
-                    <lb break="no"/>ύμων</p>
+                <p><expan><abbr>Πρ</abbr><ex>οσφορὰ</ex></expan> Κώνω<lb break="no"/>νος <expan><abbr>διακό</abbr><ex>νου</ex></expan>
+                    <lb/>Ἱεροσολ<lb break="no"/>ύμων</p>
             </div>
             <div type="translation" ana="b1">
                 <p>Offering of Konon, deacon of Jerusalem.</p>
@@ -132,7 +130,7 @@
             <div type="commentary">
                 <p/>
             </div>
-        <div type="edition" subtype="transcription_segmented"><p><w xml:id="naza0001-1" xml:lang="grc"><expan><abbr>Πρ</abbr><ex>οσφορὰ</ex></expan></w><w xml:id="naza0001-2" xml:lang="grc">Κώνω</w> <w xml:id="naza0001-3" xml:lang="grc">νος</w><w xml:id="naza0001-4" xml:lang="grc"><expan><abbr>διακό</abbr><ex>νου</ex></expan></w><w xml:id="naza0001-5" xml:lang="grc">Ἱεροσολ</w> <w xml:id="naza0001-6" xml:lang="grc">ύμων</w></p>
+        <div type="edition" subtype="transcription_segmented"><p><w xml:id="naza0001-1" xml:lang="grc"><expan><abbr>Πρ</abbr><ex>οσφορὰ</ex></expan></w><w xml:id="naza0001-2" xml:lang="grc">Κώνωνος</w><w xml:id="naza0001-3" xml:lang="grc"><expan><abbr>διακό</abbr><ex>νου</ex></expan></w><w xml:id="naza0001-4" xml:lang="grc">Ἱεροσολύμων</w></p>
 </div>
 </body>
         <back>

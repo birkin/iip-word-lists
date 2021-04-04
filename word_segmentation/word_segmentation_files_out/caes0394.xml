@@ -116,19 +116,19 @@
    <text>
       <body>
          <div type="edition" subtype="transcription" xml:id="caes0394.transcription">
-            <p>
-               <gap reason="lost" extent="unknown" unit="character"/>
-               <unclear>Ρ</unclear>ΙΑ<gap reason="lost" extent="unknown" unit="character"/>
-               <lb/>
-               <gap reason="lost" extent="unknown" unit="character"/>
-               <unclear>Ρ</unclear>Ο<unclear>Τ</unclear>
-               <gap reason="lost" extent="unknown" unit="character"/>
-               <lb/>
-               <gap reason="lost" extent="unknown" unit="character"/>
-               <unclear>Α</unclear>Τ<gap reason="lost" extent="unknown" unit="character"/>
-            </p>
+            <p><orig>
+                  <gap reason="lost" extent="unknown" unit="character"/>
+                  <unclear>Ρ</unclear>ΙΑ<gap reason="lost" extent="unknown" unit="character"/>
+                  <lb/>
+                  <gap reason="lost" extent="unknown" unit="character"/>
+                  <unclear>Ρ</unclear>Ο<unclear>Τ</unclear>
+                  <gap reason="lost" extent="unknown" unit="character"/>
+                  <lb/>
+                  <gap reason="lost" extent="unknown" unit="character"/>
+                  <unclear>Α</unclear>Τ<gap reason="lost" extent="unknown" unit="character"/>
+               </orig></p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="caes0394-1" xml:lang="grc">ΡΙΑ</w> <w xml:id="caes0394-2" xml:lang="grc">ΡΟΤ</w> <w xml:id="caes0394-3" xml:lang="grc">ΑΤ</w></p>
+      <div type="edition" subtype="transcription_segmented"><p/>
 </div>
 </body>
       <back>

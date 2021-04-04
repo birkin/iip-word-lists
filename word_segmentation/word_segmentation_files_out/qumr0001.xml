@@ -145,6 +145,7 @@
          <change when="2019-01-29" who="persons.xml#Elli_Mylonas">
                 adding period attribute to date element, with Periodo value.
             </change>
+            <change when="2021-04-02" who="Chris Zeichmann">completely redid transcription</change>
       </revisionDesc>
     </teiHeader>
     <!--  *************************************  <facsimile>  *********************************
@@ -168,55 +169,15 @@
                 <p/>
             </div>
             <div type="edition" subtype="transcription" ana="b1" xml:lang="heb">
-                <p>
-               <lb/>בשנת שתים ל<gap reason="lost" unit="characters" extent="unknown"/>
-               <lb/>ביריחו
-                        נ<unclear>ת</unclear>נ <unclear>חני ב</unclear>
-               <gap reason="lost" unit="characters" extent="unknown"/>
-               <lb/>לאזעזר בן נ <gap reason="lost" unit="characters" extent="unknown"/>
-               <lb/>את ס<unclear>ק</unclear>ים
-                        הלל<supplied reason="lost">ו</supplied>
-               <lb/>מ/ת/<gap reason="lost" unit="characters" extent="unknown"/>מ/ת/<gap reason="lost" unit="characters" extent="unknown"/>
-               <unclear>י</unclear>
-               <unclear>ו</unclear>ם ה<gap reason="lost" unit="characters" extent="unknown"/>לי/ו<lb/>ואת
-                        <unclear>ח</unclear>/ת<unclear>ו</unclear>מ/פו<unclear>ת</unclear>בי/ות
-                    ו/י<lb/>וה/אתאנים ה<unclear>ד</unclear>/י<gap reason="lost" unit="characters" extent="unknown"/>
-               <lb/>וכולאילנ
-                        א<unclear>ח</unclear>
-               <gap reason="lost" unit="characters" extent="unknown"/>
-               <lb/>
-               <unclear>ו</unclear>
-               <unclear>נ</unclear>
-               <unclear>ג</unclear>
-               <gap reason="lost" unit="characters" extent="unknown"/>
-               <lb/>לי/ואת <unclear>ח</unclear>
-               <gap reason="lost" unit="characters" extent="unknown"/>
-               <lb/>ואת
-                        <gap reason="lost" unit="characters" extent="unknown"/>
-                    <unclear>צ</unclear>
-               <gap reason="lost" unit="characters" extent="unknown"/>
-               <lb/>
-               <unclear>ו</unclear>
-               <unclear>ב</unclear>
-               <unclear>י</unclear>
-               <unclear>ד</unclear>
-               <unclear>ע</unclear>
-               <unclear>ג</unclear>
-               <gap reason="lost" unit="characters" extent="unknown"/> לה<gap reason="lost" unit="characters" extent="unknown"/>
-               <lb/>ל<gap reason="lost" unit="characters" extent="unknown"/>
-               <unclear>נ</unclear>
-               <gap reason="lost" unit="characters" extent="unknown"/>
-               <lb/>
-               <unclear>ה</unclear>
-               <gap reason="lost" unit="characters" extent="unknown"/>ע<unclear>ב</unclear>
-               <gap reason="lost" unit="characters" extent="unknown"/>
-               <lb/>
-               <unclear>ה</unclear>ל<gap reason="lost" unit="characters" extent="unknown"/>
-               <lb/>
-               <gap reason="lost" unit="characters" extent="unknown"/>
-               <unclear>ל</unclear>
-               <gap reason="lost" unit="characters" extent="unknown"/>
-            </p>
+                <p> בשנת שתים <orig><unclear>ל</unclear></orig><gap reason="lost" unit="character" extent="unknown"/><lb/> בירחו נתן חני ב<supplied reason="lost">ן</supplied>
+                    <lb/>לאלעזר בן נח<unclear>מ</unclear>ני<gap reason="lost" unit="character" extent="unknown"/><lb/> את חסדי מחולנ<gap reason="lost" unit="character" extent="unknown"/><lb/> מ<unclear>ה</unclear>יום ה<unclear>ז</unclear>ה
+                        ל<supplied reason="omitted">ע</supplied>ול<supplied reason="lost">ם</supplied><lb/> וא<supplied reason="omitted">ת</supplied>
+                        תחומ<unclear>י</unclear> הביט <orig>ו</orig><gap reason="lost" unit="character" extent="unknown"/><lb/> והתאנים הזי<supplied reason="lost">תים</supplied><lb/> וכ<unclear>מ</unclear>לותו ליחד<gap reason="lost" unit="character" extent="unknown"/><lb/>
+                    <orig><unclear>וחני</unclear></orig><gap reason="lost" unit="character" extent="unknown"/><lb/> לו את <unclear>חס</unclear><supplied reason="lost">די</supplied><lb/> ואת<gap reason="lost" unit="character" extent="unknown"/><lb/>
+                    <orig>ובי</orig><gap reason="lost" unit="character" extent="3"/><orig>ה</orig><gap reason="lost" unit="character" extent="unknown"/><lb/><orig> ל<gap reason="lost" unit="character" extent="unknown"/>נן</orig>
+                    <gap reason="lost" unit="character" extent="unknown"/><lb/>חסד<unclear>י</unclear> עבד <unclear>ח</unclear><supplied reason="lost">ני</supplied>
+                    <gap reason="lost" unit="character" extent="unknown"/><supplied reason="lost">
+                        מן</supplied><lb/> חלון <gap reason="lost" unit="character" extent="unknown"/></p>
             </div>
             <div type="translation" ana="b1">
                 <p>On the second year of [...]<lb/>in Jericho, Hny s[on of...](?) gave<lb/>to
@@ -232,7 +193,8 @@
             </div>
             <!-- The bibl has more contained elements. What is the possible list of values of the biblScope/@type? 
              -->
-        <div type="edition" subtype="transcription_segmented"><p><w xml:id="qumr0001-1" xml:lang="he">בשנת</w> <w xml:id="qumr0001-2" xml:lang="he">שתים</w> <w xml:id="qumr0001-3" xml:lang="he">ל</w> <w xml:id="qumr0001-4" xml:lang="he">ביריחו</w> <w xml:id="qumr0001-5" xml:lang="he">נתנ</w> <w xml:id="qumr0001-6" xml:lang="he">חני</w> <w xml:id="qumr0001-7" xml:lang="he">ב</w> <w xml:id="qumr0001-8" xml:lang="he">לאזעזר</w> <w xml:id="qumr0001-9" xml:lang="he">בן</w> <w xml:id="qumr0001-10" xml:lang="he">נ</w> <w xml:id="qumr0001-11" xml:lang="he">את</w> <w xml:id="qumr0001-12" xml:lang="he">סקים</w> <w xml:id="qumr0001-13" xml:lang="he">הלל</w><w xml:id="qumr0001-14" xml:lang="he"><supplied reason="lost">ו</supplied></w><w xml:id="qumr0001-15" xml:lang="he">מ/ת/מ/ת/</w> <w xml:id="qumr0001-16" xml:lang="he">י</w> <w xml:id="qumr0001-17" xml:lang="he">ום</w> <w xml:id="qumr0001-18" xml:lang="he">הלי/ו</w> <w xml:id="qumr0001-19" xml:lang="he">ואת</w> <w xml:id="qumr0001-20" xml:lang="he">ח/תומ/פותבי/ות</w> <w xml:id="qumr0001-21" xml:lang="he">ו/י</w> <w xml:id="qumr0001-22" xml:lang="he">וה/אתאנים</w> <w xml:id="qumr0001-23" xml:lang="he">הד/י</w> <w xml:id="qumr0001-24" xml:lang="he">וכולאילנ</w> <w xml:id="qumr0001-25" xml:lang="he">אח</w> <w xml:id="qumr0001-26" xml:lang="he">ו</w> <w xml:id="qumr0001-27" xml:lang="he">נ</w> <w xml:id="qumr0001-28" xml:lang="he">ג</w> <w xml:id="qumr0001-29" xml:lang="he">לי/ואת</w> <w xml:id="qumr0001-30" xml:lang="he">ח</w> <w xml:id="qumr0001-31" xml:lang="he">ואת</w> <w xml:id="qumr0001-32" xml:lang="he">צ</w> <w xml:id="qumr0001-33" xml:lang="he">ו</w> <w xml:id="qumr0001-34" xml:lang="he">ב</w> <w xml:id="qumr0001-35" xml:lang="he">י</w> <w xml:id="qumr0001-36" xml:lang="he">ד</w> <w xml:id="qumr0001-37" xml:lang="he">ע</w> <w xml:id="qumr0001-38" xml:lang="he">ג</w> <w xml:id="qumr0001-39" xml:lang="he">לה</w> <w xml:id="qumr0001-40" xml:lang="he">ל</w> <w xml:id="qumr0001-41" xml:lang="he">נ</w> <w xml:id="qumr0001-42" xml:lang="he">ה</w> <w xml:id="qumr0001-43" xml:lang="he">עב</w> <w xml:id="qumr0001-44" xml:lang="he">הל</w> <w xml:id="qumr0001-45" xml:lang="he">ל</w></p>
+        <div type="edition" subtype="transcription_segmented"><p><w xml:id="qumr0001-1" xml:lang="he">בשנת</w> <w xml:id="qumr0001-2" xml:lang="he">שתים</w> <w xml:id="qumr0001-3" xml:lang="he">בירחו</w> <w xml:id="qumr0001-4" xml:lang="he">נתן</w> <w xml:id="qumr0001-5" xml:lang="he">חני</w> <w xml:id="qumr0001-6" xml:lang="he">ב</w><w xml:id="qumr0001-7" xml:lang="he"><supplied reason="lost">ן</supplied></w><w xml:id="qumr0001-8" xml:lang="he">לאלעזר</w> <w xml:id="qumr0001-9" xml:lang="he">בן</w> <w xml:id="qumr0001-10" xml:lang="he">נחמני</w> <w xml:id="qumr0001-11" xml:lang="he">את</w> <w xml:id="qumr0001-12" xml:lang="he">חסדי</w> <w xml:id="qumr0001-13" xml:lang="he">מחולנ</w> <w xml:id="qumr0001-14" xml:lang="he">מהיום</w> <w xml:id="qumr0001-15" xml:lang="he">הזה</w> <w xml:id="qumr0001-16" xml:lang="he">ל</w><w xml:id="qumr0001-17" xml:lang="he"><supplied reason="omitted">ע</supplied></w><w xml:id="qumr0001-18" xml:lang="he">ול</w><w xml:id="qumr0001-19" xml:lang="he"><supplied reason="lost">ם</supplied></w><w xml:id="qumr0001-20" xml:lang="he">וא</w><w xml:id="qumr0001-21" xml:lang="he"><supplied reason="omitted">ת</supplied></w><w xml:id="qumr0001-22" xml:lang="he">תחומי</w> <w xml:id="qumr0001-23" xml:lang="he">הביט</w> <w xml:id="qumr0001-24" xml:lang="he">והתאנים</w> <w xml:id="qumr0001-25" xml:lang="he">הזי</w><w xml:id="qumr0001-26" xml:lang="he"><supplied reason="lost">תים</supplied></w><w xml:id="qumr0001-27" xml:lang="he">וכמלותו</w> <w xml:id="qumr0001-28" xml:lang="he">ליחד</w> <w xml:id="qumr0001-29" xml:lang="he">לו</w> <w xml:id="qumr0001-30" xml:lang="he">את</w> <w xml:id="qumr0001-31" xml:lang="he">חס</w><w xml:id="qumr0001-32" xml:lang="he"><supplied reason="lost">די</supplied></w><w xml:id="qumr0001-33" xml:lang="he">ואת</w> <w xml:id="qumr0001-34" xml:lang="he">חסדי</w> <w xml:id="qumr0001-35" xml:lang="he">עבד</w> <w xml:id="qumr0001-36" xml:lang="he">ח</w><w xml:id="qumr0001-37" xml:lang="he"><supplied reason="lost">ני</supplied></w><w xml:id="qumr0001-38" xml:lang="he"><supplied reason="lost">
+                        מן</supplied></w><w xml:id="qumr0001-39" xml:lang="he">חלון</w></p>
 </div>
 </body>
         <back>

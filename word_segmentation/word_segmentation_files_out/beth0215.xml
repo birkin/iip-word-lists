@@ -118,14 +118,12 @@
          <div type="edition" ana="#b1" subtype="transcription" xml:id="beth0215.transcription">
             <p>
                <gap reason="lost" extent="unknown" unit="character"/>
-               ου Ζωΐ<lb break="no"/>
-               <supplied reason="lost" cert="low">λῳ</supplied><supplied reason="lost">ἀδ</supplied>ελφῷ<lb/>
-               <gap reason="lost" extent="unknown" unit="character"/><supplied reason="lost">ζ</supplied>ωντ <lb break="no"/>
-                  <gap reason="lost" extent="unknown" unit="character" cert="low"/><supplied reason="lost">πα</supplied>ρὰ<lb/>
+               ου Ζωΐ<lb break="no"/><supplied reason="lost" cert="low">λῳ</supplied><supplied reason="lost">ἀδ</supplied>ελφῷ<lb/>
+               <gap reason="lost" extent="unknown" unit="character"/><orig><supplied reason="lost">ζ</supplied>ωντ</orig><lb/><gap reason="lost" extent="unknown" unit="character" cert="low"/><supplied reason="lost">πα</supplied>ρὰ<lb/>
                <supplied reason="lost" cert="low">τοῦ</supplied> <supplied reason="lost">δεῖνος</supplied>
             </p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="beth0215-1" xml:lang="grc">ου</w> <w xml:id="beth0215-2" xml:lang="grc">Ζωΐ</w><w xml:id="beth0215-3" xml:lang="grc"><supplied reason="lost" cert="low">λῳ</supplied></w><w xml:id="beth0215-4" xml:lang="grc"><supplied reason="lost">ἀδ</supplied></w><w xml:id="beth0215-5" xml:lang="grc">ελφῷ</w><w xml:id="beth0215-6" xml:lang="grc"><supplied reason="lost">ζ</supplied></w><w xml:id="beth0215-7" xml:lang="grc">ωντ</w><w xml:id="beth0215-8" xml:lang="grc"><supplied reason="lost">πα</supplied></w><w xml:id="beth0215-9" xml:lang="grc">ρὰ</w><w xml:id="beth0215-10" xml:lang="grc"><supplied reason="lost" cert="low">τοῦ</supplied></w><w xml:id="beth0215-11" xml:lang="grc"><supplied reason="lost">δεῖνος</supplied></w></p>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="beth0215-1" xml:lang="grc">ου</w> <w xml:id="beth0215-2" xml:lang="grc">Ζωΐ</w><w xml:id="beth0215-3" xml:lang="grc"><supplied reason="lost" cert="low">λῳ</supplied></w><w xml:id="beth0215-4" xml:lang="grc"><supplied reason="lost">ἀδ</supplied></w><w xml:id="beth0215-5" xml:lang="grc">ελφῷ</w><w xml:id="beth0215-6" xml:lang="grc"><supplied reason="lost">πα</supplied></w><w xml:id="beth0215-7" xml:lang="grc">ρὰ</w><w xml:id="beth0215-8" xml:lang="grc"><supplied reason="lost" cert="low">τοῦ</supplied></w><w xml:id="beth0215-9" xml:lang="grc"><supplied reason="lost">δεῖνος</supplied></w></p>
 </div>
 </body>
       <back>

@@ -123,7 +123,7 @@
             </div>
             <div type="edition" subtype="transcription" ana="b1">
                 <p>Θήκη Δανιήλ<lb/>Μακα<expan><abbr>ρ</abbr><ex>ιου</ex></expan>
-                    <supplied reason="omitted">καὶ</supplied> Ἰωαν<lb break="no"/> νου διακόνων</p>
+                    <supplied reason="omitted">καὶ</supplied> Ἰωαν<lb break="no"/>νου διακόνων</p>
             </div>
             <div type="translation" ana="b1">
                 <p>The tomb of Daniel, Makarios and John the deacons</p>
@@ -131,7 +131,7 @@
             <div type="commentary" ana="b1">
                 <p/>
             </div>
-        <div type="edition" subtype="transcription_segmented"><p><w xml:id="jeri0018-1" xml:lang="grc">Θήκη</w> <w xml:id="jeri0018-2" xml:lang="grc">Δανιήλ</w> <w xml:id="jeri0018-3" xml:lang="grc">Μακα</w><w xml:id="jeri0018-4" xml:lang="grc"><expan><abbr>ρ</abbr><ex>ιου</ex></expan></w><w xml:id="jeri0018-5" xml:lang="grc"><supplied reason="omitted">καὶ</supplied></w><w xml:id="jeri0018-6" xml:lang="grc">Ἰωαν</w> <w xml:id="jeri0018-7" xml:lang="grc">νου</w> <w xml:id="jeri0018-8" xml:lang="grc">διακόνων</w></p>
+        <div type="edition" subtype="transcription_segmented"><p><w xml:id="jeri0018-1" xml:lang="grc">Θήκη</w> <w xml:id="jeri0018-2" xml:lang="grc">Δανιήλ</w> <w xml:id="jeri0018-3" xml:lang="grc">Μακα</w><w xml:id="jeri0018-4" xml:lang="grc"><expan><abbr>ρ</abbr><ex>ιου</ex></expan></w><w xml:id="jeri0018-5" xml:lang="grc"><supplied reason="omitted">καὶ</supplied></w><w xml:id="jeri0018-6" xml:lang="grc">Ἰωαννου</w> <w xml:id="jeri0018-7" xml:lang="grc">διακόνων</w></p>
 </div>
 </body>
         <back>

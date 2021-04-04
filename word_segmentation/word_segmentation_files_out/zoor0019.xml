@@ -144,11 +144,10 @@
                <choice><sic>Ἀγαθαφέρ<choice><corr>ω</corr><sic>ο</sic>
                      </choice>ν</sic><corr>Ἀγαθαφέροντος</corr></choice>
                <lb/>
-               <choice><sic>Παυλονίου</sic><corr>Παυλωνίου</corr></choice> ἀποθανόν<lb break="no"/>τος μετὰ καλοῦ <choice><sic>ἀνό<lb break="no"/>ματος</sic><corr>ὀνόματος</corr></choice> ἐτῶν μεʹ<lb/> ἔτους σν<unclear>δ</unclear>ʹ μηνὸς<lb/>
-               <choice><sic>Ὑπερβερετέου</sic><corr>Ὑπερβερεταίου</corr></choice> ζιʹ<lb/>
+               <choice><sic>Παυλονίου</sic><corr>Παυλωνίου</corr></choice> ἀποθανόν<lb break="no"/>τος μετὰ καλοῦ <choice><sic>ἀνό<lb break="no"/>ματος</sic><corr>ὀνόματος</corr></choice> ἐτῶν <num value="45">μεʹ</num><lb/> ἔτους <num value="254">σν<unclear>δ</unclear>ʹ</num> μηνὸς<lb/>
+               <choice><sic>Ὑπερβερετέου</sic><corr>Ὑπερβερεταίου</corr></choice> <num value="17">ζιʹ</num><lb/>
                <expan><abbr>ἡμ</abbr><ex>έρα</ex></expan>
-               <expan><abbr>Κ<unclear>υ</unclear></abbr><ex>ρίου</ex></expan> Βʹ <choice><sic>Θάρσι</sic><corr>Θάρσει</corr></choice> Ἀγαθα<lb break="no"/>φέρων <choice><sic>οὐδὶς</sic><corr>οὐδείς</corr></choice> ἀθάν<unclear>α</unclear>
-               <lb break="no"/>τος</p>
+               <expan><abbr>Κ<unclear>υ</unclear></abbr><ex>ρίου</ex></expan> <num value="2">βʹ</num> <choice><sic>Θάρσι</sic><corr>Θάρσει</corr></choice> Ἀγαθα<lb break="no"/>φέρων <choice><sic>οὐδὶς</sic><corr>οὐδείς</corr></choice> ἀθάν<unclear>α</unclear><lb break="no"/>τος</p>
          </div>
          <div type="translation" ana="#b1" xml:id="zoor0019.translation" corresp="#zoor0019.transcription">
             <p>Monument of Agathapheron, (son) of Paulonius, who died having a good name (at the
@@ -156,7 +155,7 @@
                     Hyperberetaios on (the) 2nd day of (the) Lord (Monday). Be of good cheer,
                     Agathapheron, no one (is) immortal.</p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="zoor0019-1" xml:lang="grc">Μνημεῖον</w> <w xml:id="zoor0019-2" xml:lang="grc">νἈγαθαφέροντος</w> <w xml:id="zoor0019-3" xml:lang="grc">Παυλωνίου</w> <w xml:id="zoor0019-4" xml:lang="grc">ἀποθανόντος</w> <w xml:id="zoor0019-5" xml:lang="grc">μετὰ</w> <w xml:id="zoor0019-6" xml:lang="grc">καλοῦ</w> <w xml:id="zoor0019-7" xml:lang="grc">ὀνόματος</w> <w xml:id="zoor0019-8" xml:lang="grc">ἐτῶν</w> <w xml:id="zoor0019-9" xml:lang="grc">με</w> <w xml:id="zoor0019-10" xml:lang="grc">ἔτους</w> <w xml:id="zoor0019-11" xml:lang="grc">σνδ</w> <w xml:id="zoor0019-12" xml:lang="grc">μηνὸς</w> <w xml:id="zoor0019-13" xml:lang="grc">Ὑπερβερεταίου</w> <w xml:id="zoor0019-14" xml:lang="grc">ζι</w><w xml:id="zoor0019-15" xml:lang="grc"><expan><abbr>ἡμ</abbr><ex>έρα</ex></expan></w><w xml:id="zoor0019-16" xml:lang="grc"><expan><abbr>Κυ</abbr><ex>ρίου</ex></expan></w><w xml:id="zoor0019-17" xml:lang="grc">Β</w> <w xml:id="zoor0019-18" xml:lang="grc">Θάρσει</w> <w xml:id="zoor0019-19" xml:lang="grc">Ἀγαθαφέρων</w> <w xml:id="zoor0019-20" xml:lang="grc">οὐδείς</w> <w xml:id="zoor0019-21" xml:lang="grc">ἀθάνα</w> <w xml:id="zoor0019-22" xml:lang="grc">τος</w></p>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="zoor0019-1" xml:lang="grc">Μνημεῖον</w> <w xml:id="zoor0019-2" xml:lang="grc">νἈγαθαφέροντος</w> <w xml:id="zoor0019-3" xml:lang="grc">Παυλωνίου</w> <w xml:id="zoor0019-4" xml:lang="grc">ἀποθανόντος</w> <w xml:id="zoor0019-5" xml:lang="grc">μετὰ</w> <w xml:id="zoor0019-6" xml:lang="grc">καλοῦ</w> <w xml:id="zoor0019-7" xml:lang="grc">ὀνόματος</w> <w xml:id="zoor0019-8" xml:lang="grc">ἐτῶν</w><w xml:id="zoor0019-9" xml:lang="grc"><num value="45">μεʹ</num></w><w xml:id="zoor0019-10" xml:lang="grc">ἔτους</w><w xml:id="zoor0019-11" xml:lang="grc"><num value="254">σνδʹ</num></w><w xml:id="zoor0019-12" xml:lang="grc">μηνὸς</w> <w xml:id="zoor0019-13" xml:lang="grc">Ὑπερβερεταίου</w><w xml:id="zoor0019-14" xml:lang="grc"><num value="17">ζιʹ</num></w><w xml:id="zoor0019-15" xml:lang="grc"><expan><abbr>ἡμ</abbr><ex>έρα</ex></expan></w><w xml:id="zoor0019-16" xml:lang="grc"><expan><abbr>Κυ</abbr><ex>ρίου</ex></expan></w><w xml:id="zoor0019-17" xml:lang="grc"><num value="2">βʹ</num></w><w xml:id="zoor0019-18" xml:lang="grc">Θάρσει</w> <w xml:id="zoor0019-19" xml:lang="grc">Ἀγαθαφέρων</w> <w xml:id="zoor0019-20" xml:lang="grc">οὐδείς</w> <w xml:id="zoor0019-21" xml:lang="grc">ἀθάνατος</w></p>
 </div>
 </body>
       <back>

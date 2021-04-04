@@ -137,13 +137,13 @@
                      <expan><abbr><unclear>ἠτ</unclear></abbr><ex>ῶν</ex></expan>
                   </orig>
                   <reg>ἐτῶν</reg>
-               </choice> λγʹ <lb/>
+               </choice> <num>λγʹ</num> <lb/>
                <choice>
                   <orig>ἤτου<unclear>ς</unclear>
                   </orig>
                   <reg>ἔτους</reg>
                </choice>
-               <expan><abbr><unclear>δια</unclear>κοσ<lb break="no"/>σι</abbr><ex>στοῦ</ex></expan> δʹ μηνὸ<lb break="no"/>ς <choice>
+               <expan><abbr><unclear>δια</unclear>κοσ<lb break="no"/>σι</abbr><ex>στοῦ</ex></expan> <num>δʹ</num> μηνὸ<lb break="no"/>ς <choice>
                   <orig>Ἀρτημ<lb break="no"/>ησίου</orig>
                   <reg>Ἀρτεμ<lb break="no"/>ισίου</reg>
                </choice>
@@ -154,7 +154,7 @@
                     years, in (the) two hundred and 4th year, on (the) 27th (day) of (the) month
                     Artemisios.</p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="zoor0001-1" xml:lang="grc">μνημεῖον</w> <w xml:id="zoor0001-2" xml:lang="grc">ον</w> <w xml:id="zoor0001-3" xml:lang="grc">Μακρῖνος</w> <w xml:id="zoor0001-4" xml:lang="grc">Ἀμήρου</w> <w xml:id="zoor0001-5" xml:lang="grc">ἀποθανόντος</w><w xml:id="zoor0001-6" xml:lang="grc">ἐτῶν</w> <w xml:id="zoor0001-7" xml:lang="grc">λγ</w><w xml:id="zoor0001-8" xml:lang="grc">ἔτους</w><w xml:id="zoor0001-9" xml:lang="grc"><expan><abbr>διακοσσι</abbr><ex>στοῦ</ex></expan></w><w xml:id="zoor0001-10" xml:lang="grc">δ</w> <w xml:id="zoor0001-11" xml:lang="grc">μηνὸς</w> <w xml:id="zoor0001-12" xml:lang="grc">Ἀρτεμισίου</w> <w xml:id="zoor0001-13" xml:lang="grc">ζκ</w></p>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="zoor0001-1" xml:lang="grc">μνημεῖον</w> <w xml:id="zoor0001-2" xml:lang="grc">ον</w> <w xml:id="zoor0001-3" xml:lang="grc">Μακρῖνος</w> <w xml:id="zoor0001-4" xml:lang="grc">Ἀμήρου</w> <w xml:id="zoor0001-5" xml:lang="grc">ἀποθανόντος</w><w xml:id="zoor0001-6" xml:lang="grc">ἐτῶν</w><w xml:id="zoor0001-7" xml:lang="grc"><num>λγʹ</num></w><w xml:id="zoor0001-8" xml:lang="grc">ἔτους</w><w xml:id="zoor0001-9" xml:lang="grc"><expan><abbr>διακοσσι</abbr><ex>στοῦ</ex></expan></w><w xml:id="zoor0001-10" xml:lang="grc"><num>δʹ</num></w><w xml:id="zoor0001-11" xml:lang="grc">μηνὸς</w> <w xml:id="zoor0001-12" xml:lang="grc">Ἀρτεμισίου</w> <w xml:id="zoor0001-13" xml:lang="grc">ζκ</w></p>
 </div>
 </body>
       <back>

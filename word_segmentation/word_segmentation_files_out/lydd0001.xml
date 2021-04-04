@@ -123,8 +123,7 @@
                 <p/>
             </div>
             <div type="edition" subtype="transcription" ana="b1">
-                <p>Καὶ ταύτην τὴν ἐκ<supplied reason="omitted">κ</supplied>
-                    <lb break="no"/>λησίαν Διονύσιο <lb break="no"/>ς ὁ ἐδεσιμώτατος <lb/>ἐπίσκοπος
+                <p>Καὶ ταύτην τὴν ἐκ<supplied reason="omitted">κ</supplied><lb break="no"/>λησίαν Διονύσιο<lb break="no"/>ς ὁ ἐδεσιμώτατος <lb/>ἐπίσκοπος
                         <orig>Ε</orig><gap reason="lost" extent="unknown"/></p>
             </div>
             <div type="translation" ana="b1">
@@ -133,7 +132,7 @@
             <div type="commentary">
                 <p/>
             </div>
-        <div type="edition" subtype="transcription_segmented"><p><w xml:id="lydd0001-1" xml:lang="grc">Καὶ</w> <w xml:id="lydd0001-2" xml:lang="grc">ταύτην</w> <w xml:id="lydd0001-3" xml:lang="grc">τὴν</w> <w xml:id="lydd0001-4" xml:lang="grc">ἐκ</w><w xml:id="lydd0001-5" xml:lang="grc"><supplied reason="omitted">κ</supplied></w><w xml:id="lydd0001-6" xml:lang="grc">λησίαν</w> <w xml:id="lydd0001-7" xml:lang="grc">Διονύσιο</w> <w xml:id="lydd0001-8" xml:lang="grc">ς</w> <w xml:id="lydd0001-9" xml:lang="grc">ὁ</w> <w xml:id="lydd0001-10" xml:lang="grc">ἐδεσιμώτατος</w> <w xml:id="lydd0001-11" xml:lang="grc">ἐπίσκοπος</w></p>
+        <div type="edition" subtype="transcription_segmented"><p><w xml:id="lydd0001-1" xml:lang="grc">Καὶ</w> <w xml:id="lydd0001-2" xml:lang="grc">ταύτην</w> <w xml:id="lydd0001-3" xml:lang="grc">τὴν</w> <w xml:id="lydd0001-4" xml:lang="grc">ἐκ</w><w xml:id="lydd0001-5" xml:lang="grc"><supplied reason="omitted">κ</supplied></w><w xml:id="lydd0001-6" xml:lang="grc">λησίαν</w> <w xml:id="lydd0001-7" xml:lang="grc">Διονύσιος</w> <w xml:id="lydd0001-8" xml:lang="grc">ὁ</w> <w xml:id="lydd0001-9" xml:lang="grc">ἐδεσιμώτατος</w> <w xml:id="lydd0001-10" xml:lang="grc">ἐπίσκοπος</w></p>
 </div>
 </body>
         <back>

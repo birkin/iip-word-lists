@@ -117,17 +117,17 @@
       <body>
          <div type="edition" ana="#b1" xml:lang="grc" subtype="transcription" xml:id="zoor0319.transcription">
             <p>+<lb/>
-               <unclear>Α</unclear>ΥΟ<lb/>
-               <gap reason="lost" unit="character" extent="unknown"/>Σ<lb/>
-               <gap reason="lost" unit="character" extent="unknown"/>Ο<lb/>
-               <gap reason="lost" unit="character" extent="unknown"/>ο<lb/>
-               <gap reason="lost" unit="character" extent="unknown"/>ΛΟ<lb/>
-               <gap reason="lost" unit="character" extent="unknown"/>Θ<lb/>
-               <gap reason="illegible" unit="line" quantity="1"/>
-               <lb/>
-               <gap reason="lost" unit="character" extent="unknown"/>Ο</p>
+               <orig><unclear>Α</unclear>ΥΟ<lb/>
+                  <gap reason="lost" unit="character" extent="unknown"/>Σ<lb/>
+                  <gap reason="lost" unit="character" extent="unknown"/>Ο<lb/>
+                  <gap reason="lost" unit="character" extent="unknown"/>ο<lb/>
+                  <gap reason="lost" unit="character" extent="unknown"/>ΛΟ<lb/>
+                  <gap reason="lost" unit="character" extent="unknown"/>Θ<lb/>
+                  <gap reason="illegible" unit="line" quantity="1"/>
+                  <lb/>
+                  <gap reason="lost" unit="character" extent="unknown"/>Ο</orig></p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="zoor0319-1" xml:lang="grc">ΑΥΟ</w> <w xml:id="zoor0319-2" xml:lang="grc">Σ</w> <w xml:id="zoor0319-3" xml:lang="grc">Ο</w> <w xml:id="zoor0319-4" xml:lang="grc">ο</w> <w xml:id="zoor0319-5" xml:lang="grc">ΛΟ</w> <w xml:id="zoor0319-6" xml:lang="grc">Θ</w> <w xml:id="zoor0319-7" xml:lang="grc">Ο</w></p>
+      <div type="edition" subtype="transcription_segmented"><p/>
 </div>
 </body>
       <back>

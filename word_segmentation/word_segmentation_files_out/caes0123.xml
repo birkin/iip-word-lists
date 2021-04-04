@@ -122,13 +122,11 @@
                <g type="leaf"/>
                <lb/>
                <gap reason="illegible" quantity="2" unit="character"/>
-               <expan><abbr>augur</abbr><ex>e</ex><abbr>s</abbr>
-               </expan>
+               <expan><abbr>augur</abbr><ex>e</ex><abbr>s</abbr></expan>
                <lb/>
             </p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="caes0123-1" xml:lang="la"><expan><abbr>augur</abbr><ex>e</ex><abbr>s</abbr>
-               </expan></w></p>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="caes0123-1" xml:lang="la"><expan><abbr>augur</abbr><ex>e</ex><abbr>s</abbr></expan></w></p>
 </div>
 </body>
       <back>

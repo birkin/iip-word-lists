@@ -129,9 +129,7 @@
             </div>
             <div type="edition" subtype="transcription" ana="b1">
                 <p>
-               <expan>
-                  <ex>δραχμή</ex></expan>
-                    <num value="1">α</num>
+                    <expan><abbr><am>ζ</am></abbr><ex>δραχμή</ex></expan> <num value="1">α</num>
             </p>
             </div>
             <div type="translation" ana="b1">
@@ -142,8 +140,7 @@
                     abbreviation mark for δραχμή. The lower case given in the diplomatic
                     transcription reflects the choice of the editor.</p>
             </div>
-        <div type="edition" subtype="transcription_segmented"><p><w xml:id="mare0251-1" xml:lang="grc"><expan>
-                  <ex>δραχμή</ex></expan></w><w xml:id="mare0251-2" xml:lang="grc"><num value="1">α</num></w></p>
+        <div type="edition" subtype="transcription_segmented"><p><w xml:id="mare0251-1" xml:lang="grc"><expan><abbr><am>ζ</am></abbr><ex>δραχμή</ex></expan></w><w xml:id="mare0251-2" xml:lang="grc"><num value="1">α</num></w></p>
 </div>
 </body>
         <back>

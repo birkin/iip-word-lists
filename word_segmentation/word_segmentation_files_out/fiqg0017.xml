@@ -117,7 +117,8 @@
    <text>
       <body>
          <div type="edition" ana="#b1" subtype="transcription" xml:id="fiqg0017.transcription" corresp="#fiqg0017.diplomatic #fiqg0017.translation">
-            <p>θάρσι<lb/>Δωρ<lb break="no"/>οθέα<lb/>ἐτῶν | <num value="25">κε</num></p>
+            <p>θάρσι<lb/>Δωρ<lb break="no"/>οθέα<lb/>ἐτῶν
+               <lb/><num value="25">κε</num></p>
          </div>
          <div type="edition" ana="#b1" subtype="diplomatic" xml:id="fiqg0017.diplomatic" corresp="#fiqg0017.transcription #fiqg0017.translation">
             <p>ΘΑΡΣΙ<lb/>ΔΩΡ<lb/>ΘΕΑ<lb/>ΕΤΩΝ<lb/>ΚΕ</p>
@@ -125,7 +126,7 @@
          <div type="translation" ana="#b1" xml:id="fiqg0017.translation" corresp="#fiqg0017.transcription #fiqg0017.diplomatic">
             <p>Be of good courage, Dorothea! Twenty-five years old.</p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="fiqg0017-1" xml:lang="grc">θάρσι</w> <w xml:id="fiqg0017-2" xml:lang="grc">Δωροθέα</w> <w xml:id="fiqg0017-3" xml:lang="grc">ἐτῶν</w> <w xml:id="fiqg0017-4" xml:lang="grc">|</w><w xml:id="fiqg0017-5" xml:lang="grc"><num value="25">κε</num></w></p>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="fiqg0017-1" xml:lang="grc">θάρσι</w> <w xml:id="fiqg0017-2" xml:lang="grc">Δωροθέα</w> <w xml:id="fiqg0017-3" xml:lang="grc">ἐτῶν</w><w xml:id="fiqg0017-4" xml:lang="grc"><num value="25">κε</num></w></p>
 </div>
 </body>
       <back>

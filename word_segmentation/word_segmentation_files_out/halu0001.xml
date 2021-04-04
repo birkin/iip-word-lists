@@ -26,7 +26,7 @@
                </msIdentifier>
                <!-- ********* <msContents> ********* -->
                <msContents>
-                  <textLang mainLang="arc" otherLangs="grc"/>
+                  <textLang mainLang="grc" otherLangs="arc"/>
                   <msItem class="#dedicatory" ana="#other_religion">
                      <p>Elusa (Haluza), 100 CE - 299 CE. Block. Dedicatory.</p>
                   </msItem>
@@ -125,7 +125,7 @@
          <div type="translation" ana="#b1" xml:id="halu0001.translation" corresp="#halu0001.transcription">
             <p>"To the Most High God. Remember me!"</p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="halu0001-1" xml:lang="arc">Θεῷ</w> <w xml:id="halu0001-2" xml:lang="arc">ὑψίστῳ</w></p>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="halu0001-1" xml:lang="grc">Θεῷ</w> <w xml:id="halu0001-2" xml:lang="grc">ὑψίστῳ</w></p>
 </div>
 </body>
       <back>

@@ -176,7 +176,7 @@
                 <p>ПЕПΟΙΗΚЕΝ ΑΖΑ<lb/>ΒΕΡΟΥΤΟϹ<lb/>ΕΡΩΤΑϹ</p>
             </div>
             <div type="edition" subtype="transcription" ana="b2">
-                <p>Πεποίηκεν Ἁζά<lb/>Βεροῦτοϛ<lb/>Ἐρώταϛ</p>
+                <p>Πεποίηκεν Ἁζά<lb/>Βεροῦτος<lb/>Ἐρώτας</p>
             </div>
             <div type="translation" ana="b2">
                 <p>Aza[ria] son of Berous (or of Beirut) has made (it) of Erota </p>
@@ -186,7 +186,7 @@
             </div>
             <!-- The bibl has more contained elements. What is the possible list of values of the biblScope/@type? 
              -->
-        <div type="edition" subtype="transcription_segmented"><p><w xml:id="akld0007-1" xml:lang="grc">Πεποίηκεν</w> <w xml:id="akld0007-2" xml:lang="grc">Ἁζά</w> <w xml:id="akld0007-3" xml:lang="grc">Βεροῦτοϛ</w> <w xml:id="akld0007-4" xml:lang="grc">Ἐρώταϛ</w></p>
+        <div type="edition" subtype="transcription_segmented"><p><w xml:id="akld0007-1" xml:lang="grc">Πεποίηκεν</w> <w xml:id="akld0007-2" xml:lang="grc">Ἁζά</w> <w xml:id="akld0007-3" xml:lang="grc">Βεροῦτος</w> <w xml:id="akld0007-4" xml:lang="grc">Ἐρώτας</w></p>
 </div>
 </body>
         <back>

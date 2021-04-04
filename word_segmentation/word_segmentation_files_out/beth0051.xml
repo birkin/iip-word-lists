@@ -118,7 +118,7 @@
    <text>
       <body>
          <div type="edition" ana="#b3" subtype="transcription" xml:id="beth0051.transcription" corresp="#beth0051.translation">
-            <p>Μνημῖ<lb break="no"/>ον Ἰησοῦ<lb/> Ἀραπη <lb break="no"/> νῶ </p>
+            <p>Μνημῖ<lb break="no"/>ον Ἰησοῦ<lb/> Ἀραπη<lb break="no"/>νῶ </p>
          </div>
          <div type="translation" ana="#b3" xml:id="beth0051.translation" corresp="#beth0051.transcription">
             <p> The <rs type="object" ana="interpretations.xml#monument">arcosolium </rs> of <persName xml:lang="hbo " ref="persons.xml#beth0051p01">Jesus </persName> from <placeName>
@@ -126,7 +126,7 @@
                </placeName>
             </p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="beth0051-1" xml:lang="grc">Μνημῖον</w> <w xml:id="beth0051-2" xml:lang="grc">Ἰησοῦ</w> <w xml:id="beth0051-3" xml:lang="grc">Ἀραπη</w> <w xml:id="beth0051-4" xml:lang="grc">νῶ</w></p>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="beth0051-1" xml:lang="grc">Μνημῖον</w> <w xml:id="beth0051-2" xml:lang="grc">Ἰησοῦ</w> <w xml:id="beth0051-3" xml:lang="grc">Ἀραπηνῶ</w></p>
 </div>
 </body>
       <back>

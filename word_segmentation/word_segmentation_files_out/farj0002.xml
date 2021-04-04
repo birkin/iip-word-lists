@@ -123,17 +123,17 @@
                 </p>
          </div>
          <div type="edition" ana="#b1" subtype="transcription" xml:id="farj0002.transcription" corresp="#farj0002.diplomatic #farj0002.translation">
-            <p>Ἱου<lb break="no"/> λί<unclear>α</unclear>
+            <p>Ἱου<lb break="no"/>λί<unclear>α</unclear>
                <expan><abbr><am>σ</am></abbr><ex>καὶ</ex></expan>
                <lb/> Κύριλλ<unclear>α</unclear>
-               <lb/> θυγατ<lb break="no"/> έρες <orig>Π</orig>
+               <lb/> θυγατ<lb break="no"/>έρες <orig>Π</orig>
                <gap reason="lost" unit="character" extent="unknown"/>
             </p>
          </div>
          <div type="translation" ana="#b1" xml:id="farj0002.translation" corresp="#farj0002.diplomatic #farj0002.transcription">
             <p>Julia and Cyrilla, daughers of P...</p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="farj0002-1" xml:lang="grc">Ἱου</w> <w xml:id="farj0002-2" xml:lang="grc">λία</w><w xml:id="farj0002-3" xml:lang="grc"><expan><abbr><am>σ</am></abbr><ex>καὶ</ex></expan></w><w xml:id="farj0002-4" xml:lang="grc">Κύριλλα</w> <w xml:id="farj0002-5" xml:lang="grc">θυγατ</w> <w xml:id="farj0002-6" xml:lang="grc">έρες</w></p>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="farj0002-1" xml:lang="grc">Ἱουλία</w><w xml:id="farj0002-2" xml:lang="grc"><expan><abbr><am>σ</am></abbr><ex>καὶ</ex></expan></w><w xml:id="farj0002-3" xml:lang="grc">Κύριλλα</w> <w xml:id="farj0002-4" xml:lang="grc">θυγατέρες</w></p>
 </div>
 </body>
       <back>

@@ -139,13 +139,13 @@
                <choice><sic>
                      <expan><abbr>Πανέμ</abbr><ex>ου</ex></expan>
                   </sic><corr>Πανήμου</corr></choice>
-               <lb/>κεʹ, <expan><abbr>ἐτ</abbr><ex>ῶν</ex></expan> θʹ θα<lb/>νών. +</p>
+               <lb/>κεʹ, <expan><abbr>ἐτ</abbr><ex>ῶν</ex></expan> <num>θʹ</num> θα<lb/>νών. +</p>
          </div>
          <div type="translation" ana="#b1" xml:id="zoor0090.translation" corresp="#zoor0090.transcription">
             <p>Monument of Abdalges, (son) of Themos, who died (at the age) of 9 years, in the
                     year 300, on (the) 25th (day) of (the) month Panemos.</p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="zoor0090-1" xml:lang="grc">Μνημεῖον</w> <w xml:id="zoor0090-2" xml:lang="grc">Ἀβδάλγου</w> <w xml:id="zoor0090-3" xml:lang="grc">Θέμου</w> <w xml:id="zoor0090-4" xml:lang="grc">ἐν</w><w xml:id="zoor0090-5" xml:lang="grc"><expan><abbr>ἔτ</abbr><ex>ει</ex></expan></w><w xml:id="zoor0090-6" xml:lang="grc">τ</w><w xml:id="zoor0090-7" xml:lang="grc"><expan><abbr>μη</abbr><ex>νὸς</ex></expan></w><w xml:id="zoor0090-8" xml:lang="grc"><expan><abbr>Πανέμ</abbr><ex>ου</ex></expan></w><w xml:id="zoor0090-9" xml:lang="grc">Πανήμου</w> <w xml:id="zoor0090-10" xml:lang="grc">κε</w><w xml:id="zoor0090-11" xml:lang="grc"><expan><abbr>ἐτ</abbr><ex>ῶν</ex></expan></w><w xml:id="zoor0090-12" xml:lang="grc">θ</w> <w xml:id="zoor0090-13" xml:lang="grc">θα</w> <w xml:id="zoor0090-14" xml:lang="grc">νών</w></p>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="zoor0090-1" xml:lang="grc">Μνημεῖον</w> <w xml:id="zoor0090-2" xml:lang="grc">Ἀβδάλγου</w> <w xml:id="zoor0090-3" xml:lang="grc">Θέμου</w> <w xml:id="zoor0090-4" xml:lang="grc">ἐν</w><w xml:id="zoor0090-5" xml:lang="grc"><expan><abbr>ἔτ</abbr><ex>ει</ex></expan></w><w xml:id="zoor0090-6" xml:lang="grc">τ</w><w xml:id="zoor0090-7" xml:lang="grc"><expan><abbr>μη</abbr><ex>νὸς</ex></expan></w><w xml:id="zoor0090-8" xml:lang="grc"><expan><abbr>Πανέμ</abbr><ex>ου</ex></expan></w><w xml:id="zoor0090-9" xml:lang="grc">Πανήμου</w> <w xml:id="zoor0090-10" xml:lang="grc">κε</w><w xml:id="zoor0090-11" xml:lang="grc"><expan><abbr>ἐτ</abbr><ex>ῶν</ex></expan></w><w xml:id="zoor0090-12" xml:lang="grc"><num>θʹ</num></w><w xml:id="zoor0090-13" xml:lang="grc">θα</w> <w xml:id="zoor0090-14" xml:lang="grc">νών</w></p>
 </div>
 </body>
       <back>

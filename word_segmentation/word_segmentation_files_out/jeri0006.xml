@@ -132,10 +132,10 @@
    <text>
       <body>
          <div type="edition" ana="#b1" xml:lang="grc" subtype="transcription" xml:id="jeri0006.transcription">
-            <p>ΑΒΓΔ<lb/>ΕΖ<lb/>ΗΘ<lb/>Φ
+            <p><orig>ΑΒΓΔ</orig><lb/><orig>ΕΖ</orig><lb/><orig>ΗΘ</orig><lb/><orig>Φ</orig>
                 </p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="jeri0006-1" xml:lang="grc">ΑΒΓΔ</w> <w xml:id="jeri0006-2" xml:lang="grc">ΕΖ</w> <w xml:id="jeri0006-3" xml:lang="grc">ΗΘ</w> <w xml:id="jeri0006-4" xml:lang="grc">Φ</w></p>
+      <div type="edition" subtype="transcription_segmented"><p/>
 </div>
 </body>
       <back>

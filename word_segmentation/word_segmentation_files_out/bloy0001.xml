@@ -115,7 +115,7 @@
    <text>
       <body>
          <div type="edition" ana="#b1" subtype="transcription" xml:id="beth0283.transcription" corresp="#beth0283.translation">
-            <p><lb/><unclear>יהוה</unclear>אלהי<unclear>כ</unclear><unclear>ל</unclear> הארץ ה<lb break="no"/>ר<unclear>י</unclear> יה<unclear>ד</unclear>
+            <p><lb/><unclear>יהוה</unclear> אלהי <unclear>כ</unclear><unclear>ל</unclear> הארץ ה<lb break="no"/>ר<unclear>י</unclear> יה<unclear>ד</unclear>
                <unclear>ל</unclear>ו לאל<unclear>ה</unclear>י ירשלם</p>
          </div>
          <div type="translation" ana="#b1" xml:id="beth0283.translation" corresp="#beth0283.transcription">
@@ -137,7 +137,7 @@
                of the enemy passed this way, they found refuge in the family burial cave until the
                danger was over."</p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="bloy0001-1" xml:lang="he">יהוהאלהיכל</w> <w xml:id="bloy0001-2" xml:lang="he">הארץ</w> <w xml:id="bloy0001-3" xml:lang="he">הרי</w> <w xml:id="bloy0001-4" xml:lang="he">יהד</w> <w xml:id="bloy0001-5" xml:lang="he">לו</w> <w xml:id="bloy0001-6" xml:lang="he">לאלהי</w> <w xml:id="bloy0001-7" xml:lang="he">ירשלם</w></p>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="bloy0001-1" xml:lang="he">יהוה</w> <w xml:id="bloy0001-2" xml:lang="he">אלהי</w> <w xml:id="bloy0001-3" xml:lang="he">כל</w> <w xml:id="bloy0001-4" xml:lang="he">הארץ</w> <w xml:id="bloy0001-5" xml:lang="he">הרי</w> <w xml:id="bloy0001-6" xml:lang="he">יהד</w> <w xml:id="bloy0001-7" xml:lang="he">לו</w> <w xml:id="bloy0001-8" xml:lang="he">לאלהי</w> <w xml:id="bloy0001-9" xml:lang="he">ירשלם</w></p>
 </div>
 </body>
       <back>

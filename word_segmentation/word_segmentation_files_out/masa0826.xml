@@ -41,7 +41,7 @@
                     </msIdentifier>
                     <!--  *************************************  <msContents>  ********************************* -->
                     <msContents>
-                        <textLang mainLang="la" otherLangs="grc"/>
+                        <textLang mainLang="grc" otherLangs="la"/>
                         <!-- lat, grc, heb, arc -->
                         <!-- religion here? -->
                         <msItem class="#label" ana="#other_religion">
@@ -145,6 +145,7 @@
          <change when="2019-01-29" who="persons.xml#Elli_Mylonas">
                 adding period attribute to date element, with Periodo value.
             </change>
+            <change when="2021-03-26" who="Chris Zeichmann">fixed language attributes</change>
       </revisionDesc>
     </teiHeader>
     <!--  *************************************  <facsimile>  *********************************
@@ -185,7 +186,7 @@
                <lb/>
                     <g type="symbol"/>
                     <lb/>
-                    <unclear>Δ</unclear>
+                    <orig><unclear>Δ</unclear></orig>
                     <gap reason="lost" unit="character" extent="unknown"/>
                     <lb/>
                     <expan><abbr>βασιλέω</abbr><ex>ς</ex></expan>
@@ -210,7 +211,7 @@
             </div>
             <!-- The bibl has more contained elements. What is the possible list of values of the biblScope/@type? 
              -->
-        <div type="edition" subtype="transcription_segmented"><p><w xml:id="masa0826-1" xml:lang="la">Δ</w><w xml:id="masa0826-2" xml:lang="la"><expan><abbr>βασιλέω</abbr><ex>ς</ex></expan></w><w xml:id="masa0826-3" xml:lang="la">ρο</w></p>
+        <div type="edition" subtype="transcription_segmented"><p><w xml:id="masa0826-1" xml:lang="grc"><expan><abbr>βασιλέω</abbr><ex>ς</ex></expan></w><w xml:id="masa0826-2" xml:lang="grc">ρο</w></p>
 </div>
 </body>
         <back>

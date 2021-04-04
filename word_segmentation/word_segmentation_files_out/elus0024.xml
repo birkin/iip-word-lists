@@ -114,15 +114,15 @@
                <gap reason="lost" unit="character" extent="unknown"/>
                <lb/>
                <gap reason="lost" unit="character" extent="unknown"/>
-               <gap reason="illegible" quantity="1"/>ΑΙΤ<gap reason="lost" unit="character" extent="unknown"/>
+               <gap reason="illegible" quantity="1"/><orig>ΑΙΤ</orig><gap reason="lost" unit="character" extent="unknown"/>
                <lb/>
-               <gap reason="lost" unit="character" extent="unknown"/>ΟΝ<gap reason="lost" unit="character" extent="unknown"/>
+               <gap reason="lost" unit="character" extent="unknown"/><orig>ΟΝ</orig><gap reason="lost" unit="character" extent="unknown"/>
             </p>
          </div>
          <div type="translation" ana="#b1" xml:id="elus0024.translation" corresp="#elus0024.transcription">
             <p>...went to his rest...</p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="elus0024-1" xml:lang="grc">ἀνεπάη</w> <w xml:id="elus0024-2" xml:lang="grc">ΑΙΤ</w> <w xml:id="elus0024-3" xml:lang="grc">ΟΝ</w></p>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="elus0024-1" xml:lang="grc">ἀνεπάη</w></p>
 </div>
 </body>
       <back>

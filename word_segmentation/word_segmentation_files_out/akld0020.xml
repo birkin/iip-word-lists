@@ -41,7 +41,7 @@
                     </msIdentifier>
                     <!--  *************************************  <msContents>  ********************************* -->
                     <msContents>
-                        <textLang mainLang="grc" otherLangs="he"/>
+                        <textLang mainLang="he" otherLangs="grc"/>
                         <!-- lat, grc, heb, arc -->
                         <!-- religion here? -->
                         <msItem class="#funerary" ana="#jewish">
@@ -173,12 +173,7 @@
             </p>
             </div>
             <div type="edition" subtype="transcription" ana="b2" xml:lang="heb">
-                <p><foreign xml:lang="grc">Άρίστων</foreign><lb/>
-               אריסטון אפמי
-               <lb/>
-               יהודה
-                    הגיור
-            </p>
+                <p><foreign xml:lang="grc">Ἀρίστων</foreign><lb/> אריסטון אפמי <lb/> יהודה הגיור </p>
             </div>
             <div type="translation" ana="b3">
                 <p>Ariston, Ariston of Apamea, Judah the proselyte</p>
@@ -188,7 +183,7 @@
             </div>
             <!-- The bibl has more contained elements. What is the possible list of values of the biblScope/@type? 
              -->
-        <div type="edition" subtype="transcription_segmented"><p><w xml:id="akld0020-1" xml:lang="grc">אריסטון</w> <w xml:id="akld0020-2" xml:lang="grc">אפמי</w> <w xml:id="akld0020-3" xml:lang="grc">יהודה</w> <w xml:id="akld0020-4" xml:lang="grc">הגיור</w></p>
+        <div type="edition" subtype="transcription_segmented"><p><w xml:id="akld0020-1" xml:lang="he">אריסטון</w> <w xml:id="akld0020-2" xml:lang="he">אפמי</w> <w xml:id="akld0020-3" xml:lang="he">יהודה</w> <w xml:id="akld0020-4" xml:lang="he">הגיור</w></p>
 </div>
 </body>
         <back>

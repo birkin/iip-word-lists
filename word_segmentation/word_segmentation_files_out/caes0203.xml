@@ -119,8 +119,8 @@
             <p>
                <g type="cross">+</g> θήκη Προκοπί<hi rend="stacked">ας</hi>
                <lb/>
-               <expan><abbr>θυγατέρ</abbr><ex>ος</ex></expan> Προκο<lb break="no"/> πί<hi rend="ligature">ου</hi> κὲ Κυριακ<hi rend="ligature">οῦ</hi>
-               <lb/> Κοῦμμα, ἀρχιπ<lb break="no"/> εριπόλ<hi rend="ligature">ου</hi>
+               <expan><abbr>θυγατέρ</abbr><ex>ος</ex></expan> Προκο<lb break="no"/>πί<hi rend="ligature">ου</hi> κὲ Κυριακ<hi rend="ligature">οῦ</hi>
+               <lb/> Κοῦμμα, ἀρχιπ<lb break="no"/>εριπόλ<hi rend="ligature">ου</hi>
                <g type="cross">+</g>
             </p>
          </div>
@@ -131,7 +131,7 @@
                </name>, the <rs type="admTitle">chief of patrol</rs>.
 		  </p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="caes0203-1" xml:lang="grc">θήκη</w> <w xml:id="caes0203-2" xml:lang="grc">Προκοπί</w><w xml:id="caes0203-3" xml:lang="grc"><expan><abbr>θυγατέρ</abbr><ex>ος</ex></expan></w><w xml:id="caes0203-4" xml:lang="grc">Προκο</w> <w xml:id="caes0203-5" xml:lang="grc">πί</w><w xml:id="caes0203-6" xml:lang="grc">κὲ</w> <w xml:id="caes0203-7" xml:lang="grc">Κυριακ</w><w xml:id="caes0203-8" xml:lang="grc">Κοῦμμα</w> <w xml:id="caes0203-9" xml:lang="grc">ἀρχιπ</w> <w xml:id="caes0203-10" xml:lang="grc">εριπόλ</w></p>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="caes0203-1" xml:lang="grc">θήκη</w> <w xml:id="caes0203-2" xml:lang="grc">Προκοπί</w><w xml:id="caes0203-3" xml:lang="grc"><expan><abbr>θυγατέρ</abbr><ex>ος</ex></expan></w><w xml:id="caes0203-4" xml:lang="grc">Προκοπί</w><w xml:id="caes0203-5" xml:lang="grc">κὲ</w> <w xml:id="caes0203-6" xml:lang="grc">Κυριακ</w><w xml:id="caes0203-7" xml:lang="grc">Κοῦμμα</w> <w xml:id="caes0203-8" xml:lang="grc">ἀρχιπεριπόλ</w></p>
 </div>
 </body>
       <back>

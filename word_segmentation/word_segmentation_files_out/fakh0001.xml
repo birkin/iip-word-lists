@@ -118,8 +118,7 @@
 				</p>
          </div>
          <div type="edition" ana="#b1" subtype="transcription" xml:id="fakh0001.transcription" corresp="#fakh0001.diplomatic #fakh0001.translation">
-            <p>Νασ<unclear>α</unclear>α<lb break="no"/>θ Ἐλεξ<lb break="no"/>
-               <unclear>ά</unclear>νδαρ <lb/>
+            <p>Νασ<unclear>α</unclear>α<lb break="no"/>θ Ἐλεξ<lb break="no"/><unclear>ά</unclear>νδαρ <lb/>
                <expan><abbr>ἐτ</abbr><ex>ῶν</ex></expan>
                <num value="70">οʹ</num>
             </p>
@@ -128,7 +127,7 @@
             <p>Nasaath, wife (or daughter) of Elexandar. Seventy years old. 
 				</p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="fakh0001-1" xml:lang="grc">Νασααθ</w> <w xml:id="fakh0001-2" xml:lang="grc">Ἐλεξ</w> <w xml:id="fakh0001-3" xml:lang="grc">άνδαρ</w><w xml:id="fakh0001-4" xml:lang="grc"><expan><abbr>ἐτ</abbr><ex>ῶν</ex></expan></w><w xml:id="fakh0001-5" xml:lang="grc"><num value="70">οʹ</num></w></p>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="fakh0001-1" xml:lang="grc">Νασααθ</w> <w xml:id="fakh0001-2" xml:lang="grc">Ἐλεξάνδαρ</w><w xml:id="fakh0001-3" xml:lang="grc"><expan><abbr>ἐτ</abbr><ex>ῶν</ex></expan></w><w xml:id="fakh0001-4" xml:lang="grc"><num value="70">οʹ</num></w></p>
 </div>
 </body>
       <back>

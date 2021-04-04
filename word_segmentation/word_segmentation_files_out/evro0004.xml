@@ -116,9 +116,9 @@
             </p>
          </div>
          <div type="edition" ana="#b1" xml:lang="grc" subtype="transcription" xml:id="evro0004.transcription" corresp="#evro0004.diplomatic #evro0004.translation">
-            <p>Ἐπί Σιλβανοῦ καί Ἀλέ<lb/>ξων, διάκονοι, ἠγοράσ<lb/>θη ἡ στέγη, καί ἐπί
-                    Δο<lb/>μνίνου διακόνου οίκο<lb/>δομήθη ἠ ἀγία ἐκ<supplied reason="undefined">κλησία</supplied>
-               <lb/>καἵ έπἵ Ἀντω<supplied reason="undefined">νἵου</supplied> δι<lb/>ακόνου<gap reason="lost" unit="character" extent="unknown"/>
+            <p>Ἐπί Σιλβανοῦ καί Ἀλέ<lb break="no"/>ξων, διάκονοι, ἠγοράσ<lb break="no"/>θη ἡ στέγη, καί ἐπί Δο<lb break="no"/>μνίνου
+               διακόνου οἰκο<lb break="no"/>δομήθη ἠ ἀγία ἐκ<supplied reason="lost">κλησία</supplied>
+               <lb/>καὶ ἐπὶ Ἀντω<supplied reason="lost">νίου</supplied> δι<lb break="no"/>ακόνου<gap reason="lost" unit="character" extent="unknown"/>
                <lb/>τοδ<gap reason="lost" unit="character" extent="unknown"/>
             </p>
          </div>
@@ -127,7 +127,7 @@
                     the time of Dominos the deacon, was built the holy church... and in the time of
                     Anto[nios]... the deacon...</p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="evro0004-1" xml:lang="grc">Ἐπί</w> <w xml:id="evro0004-2" xml:lang="grc">Σιλβανοῦ</w> <w xml:id="evro0004-3" xml:lang="grc">καί</w> <w xml:id="evro0004-4" xml:lang="grc">Ἀλέ</w> <w xml:id="evro0004-5" xml:lang="grc">ξων</w> <w xml:id="evro0004-6" xml:lang="grc">διάκονοι</w> <w xml:id="evro0004-7" xml:lang="grc">ἠγοράσ</w> <w xml:id="evro0004-8" xml:lang="grc">θη</w> <w xml:id="evro0004-9" xml:lang="grc">ἡ</w> <w xml:id="evro0004-10" xml:lang="grc">στέγη</w> <w xml:id="evro0004-11" xml:lang="grc">καί</w> <w xml:id="evro0004-12" xml:lang="grc">ἐπί</w> <w xml:id="evro0004-13" xml:lang="grc">Δο</w> <w xml:id="evro0004-14" xml:lang="grc">μνίνου</w> <w xml:id="evro0004-15" xml:lang="grc">διακόνου</w> <w xml:id="evro0004-16" xml:lang="grc">οίκο</w> <w xml:id="evro0004-17" xml:lang="grc">δομήθη</w> <w xml:id="evro0004-18" xml:lang="grc">ἠ</w> <w xml:id="evro0004-19" xml:lang="grc">ἀγία</w> <w xml:id="evro0004-20" xml:lang="grc">ἐκ</w><w xml:id="evro0004-21" xml:lang="grc"><supplied reason="undefined">κλησία</supplied></w><w xml:id="evro0004-22" xml:lang="grc">καἵ</w> <w xml:id="evro0004-23" xml:lang="grc">έπἵ</w> <w xml:id="evro0004-24" xml:lang="grc">Ἀντω</w><w xml:id="evro0004-25" xml:lang="grc"><supplied reason="undefined">νἵου</supplied></w><w xml:id="evro0004-26" xml:lang="grc">δι</w> <w xml:id="evro0004-27" xml:lang="grc">ακόνου</w> <w xml:id="evro0004-28" xml:lang="grc">τοδ</w></p>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="evro0004-1" xml:lang="grc">Ἐπί</w> <w xml:id="evro0004-2" xml:lang="grc">Σιλβανοῦ</w> <w xml:id="evro0004-3" xml:lang="grc">καί</w> <w xml:id="evro0004-4" xml:lang="grc">Ἀλέξων</w> <w xml:id="evro0004-5" xml:lang="grc">διάκονοι</w> <w xml:id="evro0004-6" xml:lang="grc">ἠγοράσθη</w> <w xml:id="evro0004-7" xml:lang="grc">ἡ</w> <w xml:id="evro0004-8" xml:lang="grc">στέγη</w> <w xml:id="evro0004-9" xml:lang="grc">καί</w> <w xml:id="evro0004-10" xml:lang="grc">ἐπί</w> <w xml:id="evro0004-11" xml:lang="grc">Δομνίνου</w> <w xml:id="evro0004-12" xml:lang="grc">διακόνου</w> <w xml:id="evro0004-13" xml:lang="grc">οἰκοδομήθη</w> <w xml:id="evro0004-14" xml:lang="grc">ἠ</w> <w xml:id="evro0004-15" xml:lang="grc">ἀγία</w> <w xml:id="evro0004-16" xml:lang="grc">ἐκ</w><w xml:id="evro0004-17" xml:lang="grc"><supplied reason="lost">κλησία</supplied></w><w xml:id="evro0004-18" xml:lang="grc">καὶ</w> <w xml:id="evro0004-19" xml:lang="grc">ἐπὶ</w> <w xml:id="evro0004-20" xml:lang="grc">Ἀντω</w><w xml:id="evro0004-21" xml:lang="grc"><supplied reason="lost">νίου</supplied></w><w xml:id="evro0004-22" xml:lang="grc">διακόνου</w> <w xml:id="evro0004-23" xml:lang="grc">τοδ</w></p>
 </div>
 </body>
       <back>

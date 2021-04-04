@@ -117,14 +117,14 @@
             <p>
                <g type="cross">+</g> Ἀνεπά<unclear>ε</unclear> ὁ μακά<unclear>ρ</unclear>
                <lb/>ιος Γεώργιος
-                    Βίκτω<lb/>ρ έν <expan><abbr>μη</abbr><ex>νὶ</ex></expan> Ξανθικῷ ιςʹ <expan><abbr>ἰ<lb break="no"/>νδ</abbr><ex>ικτιῶνος</ex></expan> ιβʹ ἔτους υογʹ<g type="cross">+</g>
+                    Βίκτω<lb/>ρ έν <expan><abbr>μη</abbr><ex>νὶ</ex></expan> Ξανθικῷ <num>ιςʹ</num> <expan><abbr>ἰ<lb break="no"/>νδ</abbr><ex>ικτιῶνος</ex></expan> <num>ιβʹ</num> ἔτους υογʹ<g type="cross">+</g>
             </p>
          </div>
          <div type="translation" ana="#b1" xml:id="elus0040.translation" corresp="#elus0040.transcription">
             <p>The Blessed George, son of Victor, went to his rest on the 16th of Xanthicos,
                     12th indiction, year 473.</p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="elus0040-1" xml:lang="grc">Ἀνεπάε</w> <w xml:id="elus0040-2" xml:lang="grc">ὁ</w> <w xml:id="elus0040-3" xml:lang="grc">μακάρ</w> <w xml:id="elus0040-4" xml:lang="grc">ιος</w> <w xml:id="elus0040-5" xml:lang="grc">Γεώργιος</w> <w xml:id="elus0040-6" xml:lang="grc">Βίκτω</w> <w xml:id="elus0040-7" xml:lang="grc">ρ</w> <w xml:id="elus0040-8" xml:lang="grc">έν</w><w xml:id="elus0040-9" xml:lang="grc"><expan><abbr>μη</abbr><ex>νὶ</ex></expan></w><w xml:id="elus0040-10" xml:lang="grc">Ξανθικῷ</w> <w xml:id="elus0040-11" xml:lang="grc">ις</w><w xml:id="elus0040-12" xml:lang="grc"><expan><abbr>ἰνδ</abbr><ex>ικτιῶνος</ex></expan></w><w xml:id="elus0040-13" xml:lang="grc">ιβ</w> <w xml:id="elus0040-14" xml:lang="grc">ἔτους</w> <w xml:id="elus0040-15" xml:lang="grc">υογ</w></p>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="elus0040-1" xml:lang="grc">Ἀνεπάε</w> <w xml:id="elus0040-2" xml:lang="grc">ὁ</w> <w xml:id="elus0040-3" xml:lang="grc">μακάρ</w> <w xml:id="elus0040-4" xml:lang="grc">ιος</w> <w xml:id="elus0040-5" xml:lang="grc">Γεώργιος</w> <w xml:id="elus0040-6" xml:lang="grc">Βίκτω</w> <w xml:id="elus0040-7" xml:lang="grc">ρ</w> <w xml:id="elus0040-8" xml:lang="grc">έν</w><w xml:id="elus0040-9" xml:lang="grc"><expan><abbr>μη</abbr><ex>νὶ</ex></expan></w><w xml:id="elus0040-10" xml:lang="grc">Ξανθικῷ</w><w xml:id="elus0040-11" xml:lang="grc"><num>ιςʹ</num></w><w xml:id="elus0040-12" xml:lang="grc"><expan><abbr>ἰνδ</abbr><ex>ικτιῶνος</ex></expan></w><w xml:id="elus0040-13" xml:lang="grc"><num>ιβʹ</num></w><w xml:id="elus0040-14" xml:lang="grc">ἔτους</w> <w xml:id="elus0040-15" xml:lang="grc">υογ</w></p>
 </div>
 </body>
       <back>

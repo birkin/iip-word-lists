@@ -26,7 +26,7 @@
                </msIdentifier>
                <!-- ********* <msContents> ********* -->
                <msContents>
-                  <textLang mainLang="arc" otherLangs="grc"/>
+                  <textLang mainLang="grc" otherLangs="arc"/>
                   <msItem class="#funerary" ana="#jewish">
                      <p>Judaea. Kh. Zif, 175 CE - 250 CE. Ossuary lid. Funerary.</p>
                   </msItem>
@@ -147,19 +147,18 @@
       <body>
          <div type="edition" ana="#b1" xml:lang="grc" subtype="transcription" xml:id="khzi0001.transcription" corresp="#khzi0001.translation">
             <p>Κυ<unclear>νω</unclear>ρὸς Δι<unclear>ο</unclear>
-               <lb/>δό<supplied reason="undefined">τ</supplied>ου πρω
-                    <lb/>τ<unclear>ο</unclear>πολείτη<lb/>ς
+               <lb/>δό<supplied reason="undefined">τ</supplied>ου πρω<lb break="no"/>τ<unclear>ο</unclear>πολείτη<lb break="no"/>ς
                     <lb/>
                <foreign xml:lang="heb">                    
                     קנרוס בר דוטוס רש
-                    <supplied reason="undefined">מ</supplied>
+                    <supplied reason="lost">מ</supplied>
                     רים</foreign>
             </p>
          </div>
          <div type="translation" ana="#b1" xml:id="khzi0001.translation" corresp="#khzi0001.transcription">
             <p>Kynoros, (son) of Diodothos, protopolites ("citizen's head"). Kynoros, son of Dotos, citizens' head</p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="khzi0001-1" xml:lang="arc">Κυνωρὸς</w> <w xml:id="khzi0001-2" xml:lang="arc">Διο</w> <w xml:id="khzi0001-3" xml:lang="arc">δό</w><w xml:id="khzi0001-4" xml:lang="arc"><supplied reason="undefined">τ</supplied></w><w xml:id="khzi0001-5" xml:lang="arc">ου</w> <w xml:id="khzi0001-6" xml:lang="arc">πρω</w> <w xml:id="khzi0001-7" xml:lang="arc">τοπολείτη</w> <w xml:id="khzi0001-8" xml:lang="arc">ς</w></p>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="khzi0001-1" xml:lang="grc">Κυνωρὸς</w> <w xml:id="khzi0001-2" xml:lang="grc">Διο</w> <w xml:id="khzi0001-3" xml:lang="grc">δό</w><w xml:id="khzi0001-4" xml:lang="grc"><supplied reason="undefined">τ</supplied></w><w xml:id="khzi0001-5" xml:lang="grc">ου</w> <w xml:id="khzi0001-6" xml:lang="grc">πρωτοπολείτης</w></p>
 </div>
 </body>
       <back>

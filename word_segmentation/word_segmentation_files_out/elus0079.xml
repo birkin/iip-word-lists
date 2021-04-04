@@ -113,19 +113,18 @@
       <body>
          <div type="edition" ana="#b1" xml:lang="grc" subtype="transcription" xml:id="elus0079.transcription" corresp="#elus0079.translation">
             <p>
-               <gap reason="lost" unit="character" extent="unknown"/>ΑΡΙ<gap reason="lost" unit="character" extent="unknown"/>
+               <gap reason="lost" unit="character" extent="unknown"/><orig>ΑΡΙ</orig><gap reason="lost" unit="character" extent="unknown"/>
                <lb/>
-               
-                  <expan><abbr><supplied reason="undefined">Αὐ</supplied>δ</abbr><ex>υναίου</ex></expan>
-                κζʹ ἔ<supplied reason="undefined">τους</supplied>
+               <expan><abbr><supplied reason="undefined">Αὐ</supplied>δ</abbr><ex>υναίου</ex></expan> <num value="27">κζʹ</num> ἔ<supplied reason="undefined">τους</supplied>
                <lb/>
-               <gap reason="lost" unit="character" extent="unknown"/>η <expan><abbr>ίνδ</abbr><ex>ικτιώνος</ex></expan> βʹ<gap reason="lost" unit="character" extent="unknown"/>
+               <gap reason="lost" unit="character" extent="unknown"/><orig>η</orig>
+                     <expan><abbr>ίνδ</abbr><ex>ικτιώνος</ex></expan> <num value="2">βʹ</num> <gap reason="lost" unit="character" extent="unknown"/>
             </p>
          </div>
          <div type="translation" ana="#b1" xml:id="elus0079.translation" corresp="#elus0079.transcription">
             <p>...27th of Audynaios, year... 2nd indiction</p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="elus0079-1" xml:lang="grc">ΑΡΙ</w><w xml:id="elus0079-2" xml:lang="grc"><expan><abbr><w xml:id="elus0079-3" xml:lang="grc"><supplied reason="undefined">Αὐ</supplied></w>δ</abbr><ex>υναίου</ex></expan></w><w xml:id="elus0079-4" xml:lang="grc">κζ</w> <w xml:id="elus0079-5" xml:lang="grc">ἔ</w><w xml:id="elus0079-6" xml:lang="grc"><supplied reason="undefined">τους</supplied></w><w xml:id="elus0079-7" xml:lang="grc">η</w><w xml:id="elus0079-8" xml:lang="grc"><expan><abbr>ίνδ</abbr><ex>ικτιώνος</ex></expan></w><w xml:id="elus0079-9" xml:lang="grc">β</w></p>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="elus0079-1" xml:lang="grc"><expan><abbr><w xml:id="elus0079-2" xml:lang="grc"><supplied reason="undefined">Αὐ</supplied></w>δ</abbr><ex>υναίου</ex></expan></w><w xml:id="elus0079-3" xml:lang="grc"><num value="27">κζʹ</num></w><w xml:id="elus0079-4" xml:lang="grc">ἔ</w><w xml:id="elus0079-5" xml:lang="grc"><supplied reason="undefined">τους</supplied></w><w xml:id="elus0079-6" xml:lang="grc"><expan><abbr>ίνδ</abbr><ex>ικτιώνος</ex></expan></w><w xml:id="elus0079-7" xml:lang="grc"><num value="2">βʹ</num></w></p>
 </div>
 </body>
       <back>

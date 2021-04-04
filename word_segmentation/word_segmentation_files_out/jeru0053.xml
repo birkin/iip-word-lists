@@ -26,7 +26,7 @@
                </msIdentifier>
                <!-- ********* <msContents> ********* -->
                <msContents>
-                  <textLang mainLang="arc" otherLangs="grc"/>
+                  <textLang mainLang="grc" otherLangs="arc"/>
                   <msItem class="#funerary" ana="#jewish">
                      <p>Judaea. Jerusalem. 20 BCE to 70 CE. Ossuary. Funerary.</p>
                   </msItem>
@@ -121,7 +121,7 @@
          <div type="translation" ana="#b1" xml:id="jeru0053.translation" corresp="#jeru0053.transcription">
             <p>of Apphia, (daughter of) Athenagoras. (of) A(p)phia, daughter of Athenagoras</p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="jeru0053-1" xml:lang="arc">Ἀπφίας</w> <w xml:id="jeru0053-2" xml:lang="arc">Ἀθηνα</w><w xml:id="jeru0053-3" xml:lang="arc"><supplied reason="undefined">γόρου</supplied></w></p>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="jeru0053-1" xml:lang="grc">Ἀπφίας</w> <w xml:id="jeru0053-2" xml:lang="grc">Ἀθηνα</w><w xml:id="jeru0053-3" xml:lang="grc"><supplied reason="undefined">γόρου</supplied></w></p>
 </div>
 </body>
       <back>

@@ -124,13 +124,13 @@
             <p>
                <gap reason="lost" extent="unknown" unit="character"/>
                <unclear/><orig>ΠΑΜ</orig><lb/>
-               <gap reason="lost" extent="unknown" unit="character"/>Πρίσ<lb break="no"/>
+               <gap reason="lost" extent="unknown" unit="character"/><orig>Πρίσ</orig><lb/>
                <gap reason="lost" extent="unknown" unit="character"/><orig>ΑΒΗ</orig><lb/>
                <gap reason="lost" extent="unknown" unit="character"/><gap reason="illegible" quantity="1" unit="character"/>
                <g type="cross">+</g>
             </p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="caes0237-1" xml:lang="grc">Πρίσ</w></p>
+      <div type="edition" subtype="transcription_segmented"><p/>
 </div>
 </body>
       <back>

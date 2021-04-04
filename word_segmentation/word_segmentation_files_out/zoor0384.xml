@@ -131,27 +131,18 @@
             </div>
             <div type="edition" subtype="transcription" ana="b1">
                 <p>
-               <g type="cross"/> Εἷς <expan><abbr>Θ</abbr><ex>εό</ex><abbr>ς</abbr>
-               </expan>, ὁ πάν<lb break="no"/>των
-                    Δεσπότ<lb break="no"/>ης. <choice>
-                  <reg>Μνημεῖον</reg>
-                        <orig>Μνεμῖαν</orig>  
-                    </choice>
-               <lb/>Σ<unclear>ε</unclear>λαμάνου<lb/>
-               <unclear>Σ</unclear>αμ<gap reason="lost" unit="character" quantity="4"/>ο<gap reason="lost" unit="character" quantity="1"/>
+               <g type="cross"/> Εἷς <expan><abbr>Θ</abbr><ex>εό</ex><abbr>ς</abbr></expan>, ὁ πάν<lb break="no"/>των
+                    Δεσπότ<lb break="no"/>ης. <choice><reg>Μνημεῖον</reg><orig>Μνεμῖαν</orig></choice>
+               <lb/>Σ<unclear>ε</unclear>λαμάνου
+                    <lb/><unclear>Σ</unclear>αμ<gap reason="lost" unit="character" quantity="4"/>ο<gap reason="lost" unit="character" quantity="1"/>
                <lb/>Α<gap reason="lost" quantity="8" unit="character" precision="low"/>
-               <lb/>
-               <gap reason="lost" unit="line" quantity="1"/>
+               <lb/><gap reason="lost" unit="line" quantity="1"/>
                <lb/>τ<unclear>οῦ</unclear>
                     <expan><abbr><unclear>ἔτ</unclear></abbr><ex>ους</ex></expan>
                     <num value="453">υνγ</num>
-               <lb/>
-               <gap reason="lost" unit="line" quantity="2"/>
-               <lb/>
-               <gap reason="lost" unit="character" quantity="4"/>
-               <supplied reason="lost">ἀθάνα</supplied>
-               <lb break="no"/>
-               <space unit="character" extent="unknown"/>τος.</p>
+               <lb/><gap reason="lost" unit="line" quantity="2"/>
+               <lb/><gap reason="lost" unit="character" quantity="4"/>
+               <supplied reason="lost">ἀθάνα</supplied><lb break="no"/><space unit="character" extent="unknown"/>τος.</p>
             </div>
             <div type="translation" ana="b1">
                 <p>One (is) the God, the Lord of all. Monument of Selamanes, (son of) Sam … in the
@@ -160,8 +151,7 @@
             <div type="commentary" ana="b1">
                 <p/>
             </div>
-        <div type="edition" subtype="transcription_segmented"><p><w xml:id="zoor0384-1" xml:lang="grc">Εἷς</w><w xml:id="zoor0384-2" xml:lang="grc"><expan><abbr>Θ</abbr><ex>εό</ex><abbr>ς</abbr>
-               </expan></w><w xml:id="zoor0384-3" xml:lang="grc">ὁ</w> <w xml:id="zoor0384-4" xml:lang="grc">πάντων</w> <w xml:id="zoor0384-5" xml:lang="grc">Δεσπότης</w> <w xml:id="zoor0384-6" xml:lang="grc">Μνημεῖον</w> <w xml:id="zoor0384-7" xml:lang="grc">Σελαμάνου</w> <w xml:id="zoor0384-8" xml:lang="grc">Σαμο</w> <w xml:id="zoor0384-9" xml:lang="grc">Α</w> <w xml:id="zoor0384-10" xml:lang="grc">τοῦ</w><w xml:id="zoor0384-11" xml:lang="grc"><expan><abbr>ἔτ</abbr><ex>ους</ex></expan></w><w xml:id="zoor0384-12" xml:lang="grc"><num value="453">υνγ</num></w><w xml:id="zoor0384-13" xml:lang="grc"><supplied reason="lost">ἀθάνα</supplied></w><w xml:id="zoor0384-14" xml:lang="grc">τος</w></p>
+        <div type="edition" subtype="transcription_segmented"><p><w xml:id="zoor0384-1" xml:lang="grc">Εἷς</w><w xml:id="zoor0384-2" xml:lang="grc"><expan><abbr>Θ</abbr><ex>εό</ex><abbr>ς</abbr></expan></w><w xml:id="zoor0384-3" xml:lang="grc">ὁ</w> <w xml:id="zoor0384-4" xml:lang="grc">πάντων</w> <w xml:id="zoor0384-5" xml:lang="grc">Δεσπότης</w> <w xml:id="zoor0384-6" xml:lang="grc">Μνημεῖον</w> <w xml:id="zoor0384-7" xml:lang="grc">Σελαμάνου</w> <w xml:id="zoor0384-8" xml:lang="grc">Σαμο</w> <w xml:id="zoor0384-9" xml:lang="grc">Α</w> <w xml:id="zoor0384-10" xml:lang="grc">τοῦ</w><w xml:id="zoor0384-11" xml:lang="grc"><expan><abbr>ἔτ</abbr><ex>ους</ex></expan></w><w xml:id="zoor0384-12" xml:lang="grc"><num value="453">υνγ</num></w><w xml:id="zoor0384-13" xml:lang="grc"><supplied reason="lost">ἀθάνα</supplied></w><w xml:id="zoor0384-14" xml:lang="grc">τος</w></p>
 </div>
 </body>
         <back>

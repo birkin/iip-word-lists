@@ -127,37 +127,21 @@
                   <orig>Μνημῖον</orig>
                </choice>
                <space quantity="1" unit="character"/>
-               <lb/>Ἀλού<surplus>ου</surplus>φα <expan><abbr>Ἀ<lb break="no"/>βδ</abbr><ex>άλ</ex><abbr>γου</abbr>
-               </expan>
-               <choice>
-                  <reg>καὶ</reg>
-                  <orig>κὲ</orig>
-               </choice>
-               <choice>
-                  <reg>Σίλθ<lb break="no"/>ας</reg>
-                  <orig>Σίλθ<lb break="no"/>α</orig>
-               </choice>
-               <choice>
-                  <reg>καὶ</reg>
-                  <orig>κὲ</orig>
-               </choice>
-               <choice>
-                  <reg>Ἔννης</reg>
-                  <orig>Ἔνη</orig>
-               </choice>, <choice>
-                  <reg>θυγα<lb break="no"/>τρός</reg>
-                  <orig>θυγά<lb break="no"/>τηρ</orig>
-               </choice> αὐτῆ<supplied reason="omitted">ς</supplied>, <choice>
-                  <reg>πα<lb break="no"/>ρθένου</reg>
-                  <orig>πα<lb break="no"/>ρθένον</orig>
-               </choice>.</p>
+               <lb/>Ἀλού<surplus>ου</surplus>φα 
+               <expan><abbr>Ἀ<lb break="no"/>βδ</abbr><ex>άλ</ex><abbr>γου</abbr></expan>
+               <choice><reg>καὶ</reg><orig>κὲ</orig></choice>
+               <choice><reg>Σίλθ<lb break="no"/>ας</reg><orig>Σίλθ<lb break="no"/>α</orig></choice>
+               <choice><reg>καὶ</reg><orig>κὲ</orig></choice>
+               <choice><reg>Ἔννης</reg><orig>Ἔνη</orig></choice>, 
+               <choice><reg>θυγα<lb break="no"/>τρός</reg><orig>θυγά<lb break="no"/>τηρ</orig></choice>
+               αὐτῆ<supplied reason="omitted">ς</supplied>, 
+               <choice><reg>πα<lb break="no"/>ρθένου</reg><orig>πα<lb break="no"/>ρθένον</orig></choice>.</p>
          </div>
          <div type="translation" ana="b1" xml:id="zoor0348.translation" corresp="#zoor0348.transcription">
             <p>Monument of Aloufas, (son) of Abdalges, and of Siltha and of her virgin daughter
                Enne.</p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="zoor0348-1" xml:lang="grc">Μνημεῖον</w> <w xml:id="zoor0348-2" xml:lang="grc">Ἀλού</w><w xml:id="zoor0348-3" xml:lang="grc">φα</w><w xml:id="zoor0348-4" xml:lang="grc"><expan><abbr>Ἀβδ</abbr><ex>άλ</ex><abbr>γου</abbr>
-               </expan></w><w xml:id="zoor0348-5" xml:lang="grc">καὶ</w> <w xml:id="zoor0348-6" xml:lang="grc">Σίλθας</w> <w xml:id="zoor0348-7" xml:lang="grc">καὶ</w> <w xml:id="zoor0348-8" xml:lang="grc">Ἔννης</w> <w xml:id="zoor0348-9" xml:lang="grc">θυγατρός</w> <w xml:id="zoor0348-10" xml:lang="grc">αὐτῆ</w><w xml:id="zoor0348-11" xml:lang="grc"><supplied reason="omitted">ς</supplied></w><w xml:id="zoor0348-12" xml:lang="grc">παρθένου</w></p>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="zoor0348-1" xml:lang="grc">Μνημεῖον</w> <w xml:id="zoor0348-2" xml:lang="grc">Ἀλού</w><w xml:id="zoor0348-3" xml:lang="grc">φα</w><w xml:id="zoor0348-4" xml:lang="grc"><expan><abbr>Ἀβδ</abbr><ex>άλ</ex><abbr>γου</abbr></expan></w><w xml:id="zoor0348-5" xml:lang="grc">καὶ</w> <w xml:id="zoor0348-6" xml:lang="grc">Σίλθας</w> <w xml:id="zoor0348-7" xml:lang="grc">καὶ</w> <w xml:id="zoor0348-8" xml:lang="grc">Ἔννης</w> <w xml:id="zoor0348-9" xml:lang="grc">θυγατρός</w> <w xml:id="zoor0348-10" xml:lang="grc">αὐτῆ</w><w xml:id="zoor0348-11" xml:lang="grc"><supplied reason="omitted">ς</supplied></w><w xml:id="zoor0348-12" xml:lang="grc">παρθένου</w></p>
 </div>
 </body>
       <back>

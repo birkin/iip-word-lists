@@ -117,13 +117,12 @@
    <text>
       <body>
          <div type="edition" ana="#b1" xml:lang="grc" subtype="transcription" xml:id="jeru0003.transcription" corresp="#jeru0003.translation">
-            <p>Ἐρ<unclear>ω</unclear>
-               <lb break="no"/>τ<supplied reason="undefined">α</supplied>ρίου</p>
+            <p>Ἐρ<unclear>ω</unclear><lb break="no"/>τ<supplied reason="undefined">α</supplied>ρίου</p>
          </div>
          <div type="translation" ana="#b1" xml:id="jeru0003.translation" corresp="#jeru0003.transcription">
             <p>[of] Erotarion</p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="jeru0003-1" xml:lang="grc">Ἐρω</w> <w xml:id="jeru0003-2" xml:lang="grc">τ</w><w xml:id="jeru0003-3" xml:lang="grc"><supplied reason="undefined">α</supplied></w><w xml:id="jeru0003-4" xml:lang="grc">ρίου</w></p>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="jeru0003-1" xml:lang="grc">Ἐρωτ</w><w xml:id="jeru0003-2" xml:lang="grc"><supplied reason="undefined">α</supplied></w><w xml:id="jeru0003-3" xml:lang="grc">ρίου</w></p>
 </div>
 </body>
       <back>

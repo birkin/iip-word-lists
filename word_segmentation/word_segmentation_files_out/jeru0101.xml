@@ -26,7 +26,7 @@
                </msIdentifier>
                <!-- ********* <msContents> ********* -->
                <msContents>
-                  <textLang mainLang="arc" otherLangs="grc"/>
+                  <textLang mainLang="grc" otherLangs="arc"/>
                   <msItem class="#funerary" ana="#jewish">
                      <p>Jerusalem, 20 BCE to 70 CE. Ossuary. Funerary.</p>
                   </msItem>
@@ -159,7 +159,7 @@
          <div type="translation" ana="#b1" xml:id="jeru0101.translation" corresp="#jeru0101.transcription">
             <p>Jonathan, son of Hezekiah. Yehotan, son of Yeheqiya.</p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="jeru0101-1" xml:lang="arc">Ἰωνάθης</w> <w xml:id="jeru0101-2" xml:lang="arc">Ἐζεκίου</w></p>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="jeru0101-1" xml:lang="grc">Ἰωνάθης</w> <w xml:id="jeru0101-2" xml:lang="grc">Ἐζεκίου</w></p>
 </div>
 </body>
       <back>

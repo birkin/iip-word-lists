@@ -114,9 +114,9 @@
       <body>
          <div type="edition" ana="#b1" xml:lang="grc" subtype="transcription" xml:id="elus0005.transcription" corresp="#elus0005.translation">
             <p>
-               <gap reason="lost" unit="character" extent="unknown"/><unclear>Σ</unclear>ΖΟΥΡΙΖΟΥ <lb/>
-               <gap reason="lost" unit="character" extent="unknown"/>Χριστῷ Ε<lb/>
-               <gap reason="lost" unit="character" extent="unknown"/>ΑΙΕΝΕ<unclear>Τ</unclear>
+               <gap reason="lost" unit="character" extent="unknown"/><orig><unclear>Σ</unclear>ΖΟΥΡΙΖΟΥ</orig> <lb/>
+               <gap reason="lost" unit="character" extent="unknown"/>Χριστῷ <orig>Ε<lb/>
+               <gap reason="lost" unit="character" extent="unknown"/>ΑΙΕΝΕ<unclear>Τ</unclear></orig>
                <lb/>
                <gap reason="lost" unit="character" extent="unknown"/><gap reason="illegible" quantity="2" unit="character"/><gap reason="lost" unit="character" extent="unknown"/>
             </p>
@@ -124,7 +124,7 @@
          <div type="translation" ana="#b1" xml:id="elus0005.translation" corresp="#elus0005.transcription">
             <p>...to Christ...</p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="elus0005-1" xml:lang="grc">ΣΖΟΥΡΙΖΟΥ</w> <w xml:id="elus0005-2" xml:lang="grc">Χριστῷ</w> <w xml:id="elus0005-3" xml:lang="grc">Ε</w> <w xml:id="elus0005-4" xml:lang="grc">ΑΙΕΝΕΤ</w></p>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="elus0005-1" xml:lang="grc">Χριστῷ</w></p>
 </div>
 </body>
       <back>

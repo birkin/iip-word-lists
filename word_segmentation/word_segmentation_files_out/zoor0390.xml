@@ -148,8 +148,7 @@
                <lb/>
                <g type="sun-disc-with-inscribed-cross"/>
                <lb/>Εἷς Θεός,
-               ὁ πάν<unclear>τ</unclear>
-               <lb break="no"/>ων Δε<unclear>σπότ</unclear>ης <gap reason="lost" quantity="1" unit="line"/>
+               ὁ πάν<unclear>τ</unclear><lb break="no"/>ων Δε<unclear>σπότ</unclear>ης <gap reason="lost" quantity="1" unit="line"/>
                <lb/>
                <gap reason="lost" extent="unknown" unit="character"/>
             </p>
@@ -157,7 +156,7 @@
          <div type="translation" ana="#b1" xml:id="zoor0354.translation" corresp="#zoor0354.transcription">
             <p> One (is) the God, the<lb/>Lord of all.....</p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="zoor0390-1" xml:lang="grc">Εἷς</w> <w xml:id="zoor0390-2" xml:lang="grc">Θεός</w> <w xml:id="zoor0390-3" xml:lang="grc">ὁ</w> <w xml:id="zoor0390-4" xml:lang="grc">πάντ</w> <w xml:id="zoor0390-5" xml:lang="grc">ων</w> <w xml:id="zoor0390-6" xml:lang="grc">Δεσπότης</w></p>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="zoor0390-1" xml:lang="grc">Εἷς</w> <w xml:id="zoor0390-2" xml:lang="grc">Θεός</w> <w xml:id="zoor0390-3" xml:lang="grc">ὁ</w> <w xml:id="zoor0390-4" xml:lang="grc">πάντων</w> <w xml:id="zoor0390-5" xml:lang="grc">Δεσπότης</w></p>
 </div>
 </body>
       <back>

@@ -41,7 +41,7 @@
                     </msIdentifier>
                     <!--  *************************************  <msContents>  ********************************* -->
                     <msContents>
-                        <textLang mainLang="grc" otherLangs="arc"/>
+                        <textLang mainLang="arc" otherLangs="grc"/>
                         <!-- lat, grc, heb, arc -->
                         <!-- religion here? -->
                         <msItem class="#graffiti" ana="#other_religion">
@@ -184,7 +184,7 @@
             </div>
             <!-- The bibl has more contained elements. What is the possible list of values of the biblScope/@type? 
              -->
-        <div type="edition" subtype="transcription_segmented"><p><w xml:id="sina0108-1" xml:lang="grc">זידו</w> <w xml:id="sina0108-2" xml:lang="grc">בר</w><w xml:id="sina0108-3" xml:lang="grc"><expan><abbr>פ</abbr><ex>ציו</ex></expan></w></p>
+        <div type="edition" subtype="transcription_segmented"><p><w xml:id="sina0108-1" xml:lang="arc">זידו</w> <w xml:id="sina0108-2" xml:lang="arc">בר</w><w xml:id="sina0108-3" xml:lang="arc"><expan><abbr>פ</abbr><ex>ציו</ex></expan></w></p>
 </div>
 </body>
         <back>

@@ -171,7 +171,7 @@
                 <p>ΜΕΓΙϹΤ ΗϹ ΙΕΡΙϹΗϹ</p>
             </div>
             <div type="edition" subtype="transcription" ana="b2">
-                <p>Μεγίστης ϊερίσηϛ</p>
+                <p>Μεγίστης ἱερίσης</p>
             </div>
             <div type="translation" ana="b2">
                 <p>Megiste the Priestess</p>
@@ -181,7 +181,7 @@
             </div>
             <!-- The bibl has more contained elements. What is the possible list of values of the biblScope/@type? 
              -->
-        <div type="edition" subtype="transcription_segmented"><p><w xml:id="akld0008-1" xml:lang="grc">Μεγίστης</w> <w xml:id="akld0008-2" xml:lang="grc">ϊερίσηϛ</w></p>
+        <div type="edition" subtype="transcription_segmented"><p><w xml:id="akld0008-1" xml:lang="grc">Μεγίστης</w> <w xml:id="akld0008-2" xml:lang="grc">ἱερίσης</w></p>
 </div>
 </body>
         <back>

@@ -114,8 +114,7 @@
       <body>
          <div type="edition" ana="#b1" subtype="transcription" xml:id="caes0190.transcription" corresp="#caes0190.translation">
             <p>
-               <hi rend="ligature">μνήμ</hi>α Ἰά<unclear>κ</unclear><lb break="no"/>
-               <unclear>ῶ</unclear>να Βαν<gap reason="illegible" quantity="1" unit="character"/>
+               <hi rend="ligature">μνήμ</hi>α Ἰά<unclear>κ</unclear><lb break="no"/><unclear>ῶ</unclear>να Βαν<gap reason="illegible" quantity="1" unit="character"/>
                <lb/>
                <gap reason="illegible" quantity="1" unit="character"/>
                <supplied reason="undefined">εὐ</supplied>ψ<supplied reason="undefined">ύχει</supplied>
@@ -126,7 +125,7 @@
                   <persName ref="persons.xml#caes0190p01">Iakon </persName>
                </name> (Jacob) Ban-- .... Farewell!</p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="caes0190-1" xml:lang="grc">α</w> <w xml:id="caes0190-2" xml:lang="grc">Ἰάκ</w> <w xml:id="caes0190-3" xml:lang="grc">ῶνα</w> <w xml:id="caes0190-4" xml:lang="grc">Βαν</w><w xml:id="caes0190-5" xml:lang="grc"><supplied reason="undefined">εὐ</supplied></w><w xml:id="caes0190-6" xml:lang="grc">ψ</w><w xml:id="caes0190-7" xml:lang="grc"><supplied reason="undefined">ύχει</supplied></w></p>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="caes0190-1" xml:lang="grc">α</w> <w xml:id="caes0190-2" xml:lang="grc">Ἰάκῶνα</w> <w xml:id="caes0190-3" xml:lang="grc">Βαν</w><w xml:id="caes0190-4" xml:lang="grc"><supplied reason="undefined">εὐ</supplied></w><w xml:id="caes0190-5" xml:lang="grc">ψ</w><w xml:id="caes0190-6" xml:lang="grc"><supplied reason="undefined">ύχει</supplied></w></p>
 </div>
 </body>
       <back>

@@ -115,27 +115,24 @@
    <text>
       <body>
          <div type="edition" ana="#b1" subtype="diplomatic" xml:id="kafr0004.diplomatic" corresp="#kafr0004.transcription #kafr0004.translation">
-            <p>ΣΟΥΛΓΑ<lb/>
-               Α<gap reason="illegible" unit="character" quantity="2"/>ΟΥΔΟ<lb/>
-                ΜΝΟΥ<lb/>
-                    ΕΤΙΕ
+            <p>ΣΟΥΛΓΑ
+               <lb/>Α<gap reason="illegible" unit="character" quantity="2"/>ΟΥΔΟ
+               <lb/>ΜΝΟΥ
+               <lb/>ΕΤΙΕ
                 </p>
          </div>
          <div type="edition" ana="#b1" subtype="transcription" xml:id="kafr0004.transcription" corresp="#kafr0004.diplomatic #kafr0004.translation">
             <p>
-               <unclear>Σ</unclear>οῦ<unclear>λ</unclear>
-               <unclear>Γ</unclear>α<supplied reason="lost">ϊ</supplied>
-               <lb break="no"/>
-                α<supplied reason="undefined">ν</supplied><unclear>ο</unclear>υ Δό<lb break="no"/>
-                    μ<unclear>ν</unclear>οῦ<lb/>
-               <expan><abbr>ἔτ</abbr><ex>ους</ex></expan> ι´ε´
+               <unclear>Σ</unclear>οῦ<unclear>λ</unclear> <unclear>Γ</unclear>α<supplied reason="lost">ϊ</supplied><lb break="no"/>α<supplied reason="undefined">ν</supplied><unclear>ο</unclear>υ 
+               Δό<lb break="no"/>μ<unclear>ν</unclear>οῦ
+               <lb/><expan><abbr>ἔτ</abbr><ex>ους</ex></expan> <num value="15"> </num>
                 </p>
          </div>
          <div type="translation" ana="#b1" xml:id="kafr0004.translation" corresp="#kafr0004.diplomatic #kafr0004.transcription">
             <p>Soul, son of Gaianus Domnus. Fifteen years old.
                 </p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="kafr0004-1" xml:lang="grc">Σοῦλ</w> <w xml:id="kafr0004-2" xml:lang="grc">Γα</w><w xml:id="kafr0004-3" xml:lang="grc"><supplied reason="lost">ϊ</supplied></w><w xml:id="kafr0004-4" xml:lang="grc">α</w><w xml:id="kafr0004-5" xml:lang="grc"><supplied reason="undefined">ν</supplied></w><w xml:id="kafr0004-6" xml:lang="grc">ου</w> <w xml:id="kafr0004-7" xml:lang="grc">Δό</w> <w xml:id="kafr0004-8" xml:lang="grc">μνοῦ</w><w xml:id="kafr0004-9" xml:lang="grc"><expan><abbr>ἔτ</abbr><ex>ους</ex></expan></w><w xml:id="kafr0004-10" xml:lang="grc">ι´ε´</w></p>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="kafr0004-1" xml:lang="grc">Σοῦλ</w> <w xml:id="kafr0004-2" xml:lang="grc">Γα</w><w xml:id="kafr0004-3" xml:lang="grc"><supplied reason="lost">ϊ</supplied></w><w xml:id="kafr0004-4" xml:lang="grc">α</w><w xml:id="kafr0004-5" xml:lang="grc"><supplied reason="undefined">ν</supplied></w><w xml:id="kafr0004-6" xml:lang="grc">ου</w> <w xml:id="kafr0004-7" xml:lang="grc">Δόμνοῦ</w><w xml:id="kafr0004-8" xml:lang="grc"><expan><abbr>ἔτ</abbr><ex>ους</ex></expan></w><w xml:id="kafr0004-9" xml:lang="grc"><num value="15"> </num></w></p>
 </div>
 </body>
       <back>

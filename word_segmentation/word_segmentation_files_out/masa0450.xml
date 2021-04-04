@@ -170,15 +170,16 @@
             </div>
             <div type="edition" subtype="transcription" ana="b1" xml:lang="heb">
                 <p>
-               <supplied reason="lost">הרה</supplied> השור<supplied reason="lost">ה הזו</supplied>ת בה <gap reason="lost" extent="unknown" unit="character"/>
-               <lb/>
-               <gap reason="lost" extent="unknown" unit="character"/>ה ופר<supplied reason="lost">ו</supplied>טין כלן כ<supplied reason="lost">שירין
-                        ל</supplied>טה<supplied reason="lost">רת</supplied>
-               <gap reason="lost" extent="unknown" unit="character"/>
-               <lb/>
-               <gap reason="lost" extent="unknown" unit="character"/> ל<gap reason="lost" extent="unknown" unit="character"/>
-                        לט<supplied reason="lost">הרת הקדש</supplied>
-            </p>
+                    <supplied reason="lost">הרה</supplied> השור<supplied reason="lost">ה</supplied>
+                    <supplied reason="lost">הזו</supplied>ת בה <gap reason="lost" extent="unknown" unit="character"/>
+                    <lb/>
+                    <gap reason="lost" extent="unknown" unit="character"/>ה ופר<supplied reason="lost">ו</supplied>טין כלן כ<supplied reason="lost">שירין</supplied>
+                    <supplied reason="lost">ל</supplied>טה<supplied reason="lost">רת</supplied>
+                    <gap reason="lost" extent="unknown" unit="character"/>
+                    <lb/>
+                    <gap reason="lost" extent="unknown" unit="character"/> ל<gap reason="lost" extent="unknown" unit="character"/> לט<supplied reason="lost">הרת</supplied>
+                    <supplied reason="lost">הקדש</supplied>
+                </p>
             </div>
             <div type="translation" ana="b1">
                 <p>Behold, in this row there are krwṭyn and they are not suited for the purity of
@@ -193,8 +194,7 @@
             </div>
             <!-- The bibl has more contained elements. What is the possible list of values of the biblScope/@type? 
              -->
-        <div type="edition" subtype="transcription_segmented"><p><w xml:id="masa0450-1" xml:lang="he"><supplied reason="lost">הרה</supplied></w><w xml:id="masa0450-2" xml:lang="he">השור</w><w xml:id="masa0450-3" xml:lang="he"><supplied reason="lost">ה הזו</supplied></w><w xml:id="masa0450-4" xml:lang="he">ת</w> <w xml:id="masa0450-5" xml:lang="he">בה</w> <w xml:id="masa0450-6" xml:lang="he">ה</w> <w xml:id="masa0450-7" xml:lang="he">ופר</w><w xml:id="masa0450-8" xml:lang="he"><supplied reason="lost">ו</supplied></w><w xml:id="masa0450-9" xml:lang="he">טין</w> <w xml:id="masa0450-10" xml:lang="he">כלן</w> <w xml:id="masa0450-11" xml:lang="he">כ</w><w xml:id="masa0450-12" xml:lang="he"><supplied reason="lost">שירין
-                        ל</supplied></w><w xml:id="masa0450-13" xml:lang="he">טה</w><w xml:id="masa0450-14" xml:lang="he"><supplied reason="lost">רת</supplied></w><w xml:id="masa0450-15" xml:lang="he">ל</w> <w xml:id="masa0450-16" xml:lang="he">לט</w><w xml:id="masa0450-17" xml:lang="he"><supplied reason="lost">הרת הקדש</supplied></w></p>
+        <div type="edition" subtype="transcription_segmented"><p><w xml:id="masa0450-1" xml:lang="he"><supplied reason="lost">הרה</supplied></w><w xml:id="masa0450-2" xml:lang="he">השור</w><w xml:id="masa0450-3" xml:lang="he"><supplied reason="lost">ה</supplied></w><w xml:id="masa0450-4" xml:lang="he"><supplied reason="lost">הזו</supplied></w><w xml:id="masa0450-5" xml:lang="he">ת</w> <w xml:id="masa0450-6" xml:lang="he">בה</w> <w xml:id="masa0450-7" xml:lang="he">ה</w> <w xml:id="masa0450-8" xml:lang="he">ופר</w><w xml:id="masa0450-9" xml:lang="he"><supplied reason="lost">ו</supplied></w><w xml:id="masa0450-10" xml:lang="he">טין</w> <w xml:id="masa0450-11" xml:lang="he">כלן</w> <w xml:id="masa0450-12" xml:lang="he">כ</w><w xml:id="masa0450-13" xml:lang="he"><supplied reason="lost">שירין</supplied></w><w xml:id="masa0450-14" xml:lang="he"><supplied reason="lost">ל</supplied></w><w xml:id="masa0450-15" xml:lang="he">טה</w><w xml:id="masa0450-16" xml:lang="he"><supplied reason="lost">רת</supplied></w><w xml:id="masa0450-17" xml:lang="he">ל</w> <w xml:id="masa0450-18" xml:lang="he">לט</w><w xml:id="masa0450-19" xml:lang="he"><supplied reason="lost">הרת</supplied></w><w xml:id="masa0450-20" xml:lang="he"><supplied reason="lost">הקדש</supplied></w></p>
 </div>
 </body>
         <back>

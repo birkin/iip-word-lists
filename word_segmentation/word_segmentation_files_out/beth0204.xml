@@ -117,7 +117,7 @@
    <text>
       <body>
          <div type="edition" ana="#b7" xml:lang="grc" subtype="transcription" xml:id="beth0204.transcription" corresp="#beth0204.translation">
-            <p>Ἰακὼς Καισαρεὺς<lb/> ἀρχισυνάγω<lb break="no"/> γος, Πανφυλί<lb break="no"/> ας <foreign xml:lang="heb"> שלום </foreign>
+            <p>Ἰακὼς Καισαρεὺς<lb/> ἀρχισυνάγω<lb break="no"/>γος, Πανφυλί<lb break="no"/>ας <foreign xml:lang="heb"> שלום </foreign>
             </p>
          </div>
          <div type="translation" ana="#b7" xml:id="beth0204.translation" corresp="#beth0204.transcription">
@@ -127,7 +127,7 @@
                </rs>, the <rs type="religTitle" ana="interpretations.xml#archisynagogos">head of the
                   synagogue</rs>, of <placeName>Pamphylia</placeName>. <rs type="formula" ana="interpretations.xml#shalom">Shalom</rs>.</p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="beth0204-1" xml:lang="grc">Ἰακὼς</w> <w xml:id="beth0204-2" xml:lang="grc">Καισαρεὺς</w> <w xml:id="beth0204-3" xml:lang="grc">ἀρχισυνάγω</w> <w xml:id="beth0204-4" xml:lang="grc">γος</w> <w xml:id="beth0204-5" xml:lang="grc">Πανφυλί</w> <w xml:id="beth0204-6" xml:lang="grc">ας</w></p>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="beth0204-1" xml:lang="grc">Ἰακὼς</w> <w xml:id="beth0204-2" xml:lang="grc">Καισαρεὺς</w> <w xml:id="beth0204-3" xml:lang="grc">ἀρχισυνάγωγος</w> <w xml:id="beth0204-4" xml:lang="grc">Πανφυλίας</w></p>
 </div>
 </body>
       <back>

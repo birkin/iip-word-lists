@@ -116,10 +116,7 @@
          <div type="edition" ana="#b2" subtype="transcription" xml:id="beth0086.transcription" corresp="#beth0086.translation">
             <p>
                <unclear>Σά</unclear>
-               <supplied reason="lost">ρ</supplied>
-               <lb break="no"/>
-					α Κυ<unclear>ρί</unclear>
-               <lb break="no"/>νου
+               <supplied reason="lost">ρ</supplied><lb break="no"/>α Κυ<unclear>ρί</unclear><lb break="no"/>νου
 						εἰ<unclear>ς</unclear>
                <lb/> τὸ μέ<lb break="no"/>σον
 					κῖ<lb break="no"/>τε </p>
@@ -130,7 +127,7 @@
                   <persName xml:lang="hbo " ref="persons.xml#beth0086p01">Sarah</persName>, daughter of <persName type="patr" xml:lang="la " ref="persons.xml#beth0086p02">Kyrinos </persName>
                </name>, <rs type="formula" ana="interpretations.xml#lies">lies  </rs> in the middle grave.</p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="beth0086-1" xml:lang="grc">Σά</w><w xml:id="beth0086-2" xml:lang="grc"><supplied reason="lost">ρ</supplied></w><w xml:id="beth0086-3" xml:lang="grc">α</w> <w xml:id="beth0086-4" xml:lang="grc">Κυρί</w> <w xml:id="beth0086-5" xml:lang="grc">νουεἰς</w> <w xml:id="beth0086-6" xml:lang="grc">τὸ</w> <w xml:id="beth0086-7" xml:lang="grc">μέσονκῖτε</w></p>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="beth0086-1" xml:lang="grc">Σά</w><w xml:id="beth0086-2" xml:lang="grc"><supplied reason="lost">ρ</supplied></w><w xml:id="beth0086-3" xml:lang="grc">α</w> <w xml:id="beth0086-4" xml:lang="grc">Κυρίνουεἰς</w> <w xml:id="beth0086-5" xml:lang="grc">τὸ</w> <w xml:id="beth0086-6" xml:lang="grc">μέσονκῖτε</w></p>
 </div>
 </body>
       <back>

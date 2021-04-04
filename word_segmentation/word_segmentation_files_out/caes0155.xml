@@ -112,14 +112,14 @@
          <div type="edition" ana="#b1" subtype="transcription" xml:id="caes0155.transcription" corresp="#caes0155.translation">
             <p>
                <g type="cross">+</g><lb/>
-               <orig>Ν</orig><lb/> μνίμιν<lb/> Ἀνιανοῦ οἶκ<lb break="no"/> ος αἰώνιος.<lb/>
+               <orig>Ν</orig><lb/> μνίμιν<lb/> Ἀνιανοῦ οἶκ<lb break="no"/>ος αἰώνιος.<lb/>
             </p>
          </div>
          <div type="translation" ana="#b1" xml:id="caes0155.translation" corresp="#caes0155.transcription">
             <p>For the memory of <persName xml:lang="grc " ref="persons.xml#caes0155p01">Anianos</persName>.  (This is his) eternal home.
 		  </p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="caes0155-1" xml:lang="grc">μνίμιν</w> <w xml:id="caes0155-2" xml:lang="grc">Ἀνιανοῦ</w> <w xml:id="caes0155-3" xml:lang="grc">οἶκ</w> <w xml:id="caes0155-4" xml:lang="grc">ος</w> <w xml:id="caes0155-5" xml:lang="grc">αἰώνιος</w></p>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="caes0155-1" xml:lang="grc">μνίμιν</w> <w xml:id="caes0155-2" xml:lang="grc">Ἀνιανοῦ</w> <w xml:id="caes0155-3" xml:lang="grc">οἶκος</w> <w xml:id="caes0155-4" xml:lang="grc">αἰώνιος</w></p>
 </div>
 </body>
       <back>

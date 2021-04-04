@@ -101,6 +101,8 @@
          <change when="2019-01-29" who="persons.xml#Elli_Mylonas">
                 adding period attribute to date element, with Periodo value.
             </change>
+         <change when="2021-03-23" who="Chris Zeichmann">various corrections to
+            transcription</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
@@ -114,18 +116,17 @@
          <div type="edition" ana="#b1" xml:lang="grc" subtype="transcription" xml:id="sena0003.transcription" corresp="#sena0003.translation">
             <p>
                <gap reason="lost" unit="character" extent="unknown"/>
-               <unclear>ά</unclear>νι<unclear>ο</unclear>
-               <supplied reason="undefined">ς? ἐκ </supplied>
+               <unclear>ά</unclear>νι<unclear>ο</unclear><supplied reason="lost" cert="low">ς</supplied> <supplied reason="lost">ἐκ</supplied>
                <lb/>
-               <supplied reason="undefined">τ</supplied>οῦ ἰδίου <lb/>
-               <unclear>ε</unclear>ὐξάμε<lb/>νος
-					ἀνέθη<lb/>κεν ἔτους μγʹ</p>
+               <supplied reason="lost">τ</supplied>οῦ ἰδίου <lb/>
+               <unclear>ε</unclear>ὐξάμε<lb break="no"/>νος
+					ἀνέθη<lb break="no"/>κεν ἔτους <num value="43">μγʹ</num></p>
          </div>
          <div type="translation" ana="#b1" xml:id="sena0003.translation" corresp="#sena0003.transcription">
             <p>...anio[s? at h]is own (expense), in pursuance of a vow, dedicated (this) in year
 					43.</p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="sena0003-1" xml:lang="grc">άνιο</w><w xml:id="sena0003-2" xml:lang="grc"><supplied reason="undefined">ς? ἐκ </supplied></w><w xml:id="sena0003-3" xml:lang="grc"><supplied reason="undefined">τ</supplied></w><w xml:id="sena0003-4" xml:lang="grc">οῦ</w> <w xml:id="sena0003-5" xml:lang="grc">ἰδίου</w> <w xml:id="sena0003-6" xml:lang="grc">εὐξάμε</w> <w xml:id="sena0003-7" xml:lang="grc">νοςἀνέθη</w> <w xml:id="sena0003-8" xml:lang="grc">κεν</w> <w xml:id="sena0003-9" xml:lang="grc">ἔτους</w> <w xml:id="sena0003-10" xml:lang="grc">μγ</w></p>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="sena0003-1" xml:lang="grc">άνιο</w><w xml:id="sena0003-2" xml:lang="grc"><supplied reason="lost" cert="low">ς</supplied></w><w xml:id="sena0003-3" xml:lang="grc"><supplied reason="lost">ἐκ</supplied></w><w xml:id="sena0003-4" xml:lang="grc"><supplied reason="lost">τ</supplied></w><w xml:id="sena0003-5" xml:lang="grc">οῦ</w> <w xml:id="sena0003-6" xml:lang="grc">ἰδίου</w> <w xml:id="sena0003-7" xml:lang="grc">εὐξάμενοςἀνέθηκεν</w> <w xml:id="sena0003-8" xml:lang="grc">ἔτους</w><w xml:id="sena0003-9" xml:lang="grc"><num value="43">μγʹ</num></w></p>
 </div>
 </body>
       <back>

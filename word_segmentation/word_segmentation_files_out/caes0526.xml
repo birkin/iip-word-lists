@@ -121,7 +121,7 @@
                 <p/>
             </div>
             <div type="edition" subtype="transcription" ana="b1">
-                <p><supplied reason="lost">Τοπ</supplied><unclear>ο</unclear>ς Μι<unclear cert="low">ᾶ</unclear></p>
+                <p><supplied reason="lost">Τόπ</supplied><unclear>ο</unclear>ς Μι<unclear cert="low">ᾶ</unclear></p>
             </div>
             <div type="translation" ana="b1">
                 <p/>
@@ -129,7 +129,7 @@
             <div type="commentary" ana="b1">
                 <p>The name could be Μιᾶ or Μιᾶς, neither of which is very common.</p>
             </div>
-        <div type="edition" subtype="transcription_segmented"><p><w xml:id="caes0526-1" xml:lang="grc"><supplied reason="lost">Τοπ</supplied></w><w xml:id="caes0526-2" xml:lang="grc">ος</w> <w xml:id="caes0526-3" xml:lang="grc">Μιᾶ</w></p>
+        <div type="edition" subtype="transcription_segmented"><p><w xml:id="caes0526-1" xml:lang="grc"><supplied reason="lost">Τόπ</supplied></w><w xml:id="caes0526-2" xml:lang="grc">ος</w> <w xml:id="caes0526-3" xml:lang="grc">Μιᾶ</w></p>
 </div>
 </body>
         <back>

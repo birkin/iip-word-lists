@@ -122,7 +122,7 @@
                 <p/>
             </div>
             <div type="edition" subtype="transcription" ana="b1">
-                <p>Ἰούστου γναφ <lb break="no"/>έ<choice>
+                <p>Ἰούστου γναφ<lb break="no"/>έ<choice>
                         <sic>ο</sic>
                         <corr>ω</corr>
                     </choice>ς, <supplied reason="omitted">υἱοῦ</supplied> Ἱαχώ, Κυμινᾶ<lb/>Διὰ
@@ -134,7 +134,7 @@
             <div type="commentary">
                 <p/>
             </div>
-        <div type="edition" subtype="transcription_segmented"><p><w xml:id="jaff0082-1" xml:lang="grc">Ἰούστου</w> <w xml:id="jaff0082-2" xml:lang="grc">γναφ</w> <w xml:id="jaff0082-3" xml:lang="grc">έ</w> <w xml:id="jaff0082-4" xml:lang="grc">ω</w> <w xml:id="jaff0082-5" xml:lang="grc">ς</w><w xml:id="jaff0082-6" xml:lang="grc"><supplied reason="omitted">υἱοῦ</supplied></w><w xml:id="jaff0082-7" xml:lang="grc">Ἱαχώ</w> <w xml:id="jaff0082-8" xml:lang="grc">Κυμινᾶ</w> <w xml:id="jaff0082-9" xml:lang="grc">Διὰ</w> <w xml:id="jaff0082-10" xml:lang="grc">σαλωμ</w></p>
+        <div type="edition" subtype="transcription_segmented"><p><w xml:id="jaff0082-1" xml:lang="grc">Ἰούστου</w> <w xml:id="jaff0082-2" xml:lang="grc">γναφέ</w> <w xml:id="jaff0082-3" xml:lang="grc">ω</w> <w xml:id="jaff0082-4" xml:lang="grc">ς</w><w xml:id="jaff0082-5" xml:lang="grc"><supplied reason="omitted">υἱοῦ</supplied></w><w xml:id="jaff0082-6" xml:lang="grc">Ἱαχώ</w> <w xml:id="jaff0082-7" xml:lang="grc">Κυμινᾶ</w> <w xml:id="jaff0082-8" xml:lang="grc">Διὰ</w> <w xml:id="jaff0082-9" xml:lang="grc">σαλωμ</w></p>
 </div>
 </body>
         <back>

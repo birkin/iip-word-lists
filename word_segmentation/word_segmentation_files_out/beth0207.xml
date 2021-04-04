@@ -119,11 +119,8 @@
          <div type="edition" ana="#b2" subtype="transcription" xml:id="beth0207.transcription" corresp="#beth0207.translation">
             <p>
                <supplied reason="lost">Σα</supplied>
-               <unclear>μ</unclear>ουήλο<lb break="no"/>
-               <supplied reason="lost">υ</supplied> <supplied reason="lost">υἱοῦ</supplied>
-               <unclear>Γ</unclear>ερμα<lb break="no"/>
-               <supplied reason="lost">νοῦ</supplied> <supplied reason="lost">π</supplied>ενι<lb break="no"/>
-               <supplied reason="lost">χρ</supplied>οῦ </p>
+               <unclear>μ</unclear>ουήλο<lb break="no"/><supplied reason="lost">υ</supplied> <supplied reason="lost">υἱοῦ</supplied>
+               <unclear>Γ</unclear>ερμα<lb break="no"/><supplied reason="lost">νοῦ</supplied> <supplied reason="lost">π</supplied>ενι<lb break="no"/><supplied reason="lost">χρ</supplied>οῦ </p>
          </div>
          <div type="translation" ana="#b2" xml:id="beth0207.translation" corresp="#beth0207.transcription">
             <p>[The tomb] of <name type="patr">

@@ -122,12 +122,12 @@
                <lb/>
                <gap reason="lost" extent="unknown" unit="character"/>
                <gap reason="illegible" quantity="1" unit="character"/>
-               <unclear>ΑΚ</unclear>
+               <orig><unclear>ΑΚ</unclear></orig>
                <gap reason="illegible" quantity="1" unit="character"/>
                <gap reason="lost" extent="unknown" unit="character"/>
             </p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="caes0375-1" xml:lang="grc">Χριστ</w> <w xml:id="caes0375-2" xml:lang="grc">ΑΚ</w></p>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="caes0375-1" xml:lang="grc">Χριστ</w></p>
 </div>
 </body>
       <back>

@@ -115,8 +115,7 @@
    <text>
       <body>
          <div type="edition" ana="#b1" subtype="transcription" xml:id="caes0194.transcription" corresp="#caes0194.translation">
-            <p>θήκη Σα<unclear>μ</unclear><lb break="no"/> 
-              ουείλου<lb/> 
+            <p>θήκη Σα<unclear>μ</unclear><lb break="no"/>ουείλου<lb/> 
                Ἑζικία Α<gap reason="illegible" unit="character" quantity="1"/>
                <gap reason="lost" unit="character" extent="unknown"/>
             </p>
@@ -127,7 +126,7 @@
                   <persName xml:lang="hbo " ref="persons.xml#caes0194p02">Hezekiah </persName> A----</name>....
 		  </p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="caes0194-1" xml:lang="grc">θήκη</w> <w xml:id="caes0194-2" xml:lang="grc">Σαμ</w> <w xml:id="caes0194-3" xml:lang="grc">ουείλου</w> <w xml:id="caes0194-4" xml:lang="grc">Ἑζικία</w> <w xml:id="caes0194-5" xml:lang="grc">Α</w></p>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="caes0194-1" xml:lang="grc">θήκη</w> <w xml:id="caes0194-2" xml:lang="grc">Σαμουείλου</w> <w xml:id="caes0194-3" xml:lang="grc">Ἑζικία</w> <w xml:id="caes0194-4" xml:lang="grc">Α</w></p>
 </div>
 </body>
       <back>

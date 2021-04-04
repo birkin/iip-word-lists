@@ -118,8 +118,7 @@
    <text>
       <body>
          <div type="edition" ana="#b1" xml:lang="grc" subtype="transcription" xml:id="zoor0359.transcription" corresp="#zoor0359.translation">
-            <p>+ Εἷς <expan><abbr>Θ</abbr><ex>εό</ex><abbr>ς</abbr>
-               </expan>, ὁ πάν<lb/>των Δεσπότ<lb/>ης. <choice><sic>Μνημῖον</sic><corr>Μνημεῖον</corr></choice>
+            <p>+ Εἷς <expan><abbr>Θ</abbr><ex>εό</ex><abbr>ς</abbr></expan>, ὁ πάν<lb/>των Δεσπότ<lb/>ης. <choice><sic>Μνημῖον</sic><corr>Μνημεῖον</corr></choice>
                <lb/> ΠΑ<gap reason="illegible" atLeast="7" atMost="8" unit="character"/>
                <lb/>
                <gap reason="illegible" unit="line" quantity="4"/>
@@ -128,8 +127,7 @@
          <div type="translation" ana="#b1" xml:id="zoor0359.translation" corresp="#zoor0359.transcription">
             <p> One (is) the God, the Lord of all. Monument of...</p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="zoor0359-1" xml:lang="grc">Εἷς</w><w xml:id="zoor0359-2" xml:lang="grc"><expan><abbr>Θ</abbr><ex>εό</ex><abbr>ς</abbr>
-               </expan></w><w xml:id="zoor0359-3" xml:lang="grc">ὁ</w> <w xml:id="zoor0359-4" xml:lang="grc">πάν</w> <w xml:id="zoor0359-5" xml:lang="grc">των</w> <w xml:id="zoor0359-6" xml:lang="grc">Δεσπότ</w> <w xml:id="zoor0359-7" xml:lang="grc">ης</w> <w xml:id="zoor0359-8" xml:lang="grc">Μνημεῖον</w> <w xml:id="zoor0359-9" xml:lang="grc">ΠΑ</w></p>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="zoor0359-1" xml:lang="grc">Εἷς</w><w xml:id="zoor0359-2" xml:lang="grc"><expan><abbr>Θ</abbr><ex>εό</ex><abbr>ς</abbr></expan></w><w xml:id="zoor0359-3" xml:lang="grc">ὁ</w> <w xml:id="zoor0359-4" xml:lang="grc">πάν</w> <w xml:id="zoor0359-5" xml:lang="grc">των</w> <w xml:id="zoor0359-6" xml:lang="grc">Δεσπότ</w> <w xml:id="zoor0359-7" xml:lang="grc">ης</w> <w xml:id="zoor0359-8" xml:lang="grc">Μνημεῖον</w> <w xml:id="zoor0359-9" xml:lang="grc">ΠΑ</w></p>
 </div>
 </body>
       <back>

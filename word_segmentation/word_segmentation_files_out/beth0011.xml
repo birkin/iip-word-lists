@@ -115,7 +115,7 @@
    <text>
       <body>
          <div type="edition" ana="#b2" subtype="transcription" xml:id="beth0011.transcription" corresp="#beth0011.translation">
-            <p>Μνῆμα<lb/> Θύμης<lb/> τῶν<lb/> Ἀμα<lb break="no"/> ση </p>
+            <p>Μνῆμα<lb/> Θύμης<lb/> τῶν<lb/> Ἀμα<lb break="no"/>ση </p>
          </div>
          <div type="translation" ana="#b2" xml:id="beth0011.translation" corresp="#beth0011.transcription">
             <p>
@@ -124,7 +124,7 @@
 						of the family of <persName xml:lang="arc " ref="persons.xml#beth0011p02">Amase </persName>
                </name>. </p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="beth0011-1" xml:lang="grc">Μνῆμα</w> <w xml:id="beth0011-2" xml:lang="grc">Θύμης</w> <w xml:id="beth0011-3" xml:lang="grc">τῶν</w> <w xml:id="beth0011-4" xml:lang="grc">Ἀμα</w> <w xml:id="beth0011-5" xml:lang="grc">ση</w></p>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="beth0011-1" xml:lang="grc">Μνῆμα</w> <w xml:id="beth0011-2" xml:lang="grc">Θύμης</w> <w xml:id="beth0011-3" xml:lang="grc">τῶν</w> <w xml:id="beth0011-4" xml:lang="grc">Ἀμαση</w></p>
 </div>
 </body>
       <back>

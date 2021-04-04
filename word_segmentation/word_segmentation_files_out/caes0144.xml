@@ -116,14 +116,12 @@
             <p>
                <gap reason="illegible" quantity="3" unit="character"/>
                <unclear>κ</unclear>η πεδαρικὴ<lb/>
-               <gap reason="illegible" quantity="3" unit="character"/>ερ<hi rend="ligature">ου</hi>γα μεγά<lb break="no"/>
-               <supplied reason="undefined">λη ... ἐ</supplied>
-               <unclear>π</unclear>αρχικοῦ</p>
+               <gap reason="illegible" quantity="3" unit="character"/>ερ<hi rend="ligature">ου</hi>γα μεγά<lb break="no"/>λη <gap reason="lost" extent="unknown" unit="character"/> ἐ<unclear>π</unclear>αρχικοῦ</p>
          </div>
          <div type="translation" ana="#b1" xml:id="caes0144.translation" corresp="#caes0144.transcription">
             <p>...pertaining to slaves...the great...of the <rs type="admTitle">prefect </rs>'s....</p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="caes0144-1" xml:lang="grc">κη</w> <w xml:id="caes0144-2" xml:lang="grc">πεδαρικὴ</w> <w xml:id="caes0144-3" xml:lang="grc">ερ</w><w xml:id="caes0144-4" xml:lang="grc">γα</w> <w xml:id="caes0144-5" xml:lang="grc">μεγά</w><w xml:id="caes0144-6" xml:lang="grc"><supplied reason="undefined">λη ... ἐ</supplied></w><w xml:id="caes0144-7" xml:lang="grc">παρχικοῦ</w></p>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="caes0144-1" xml:lang="grc">κη</w> <w xml:id="caes0144-2" xml:lang="grc">πεδαρικὴ</w> <w xml:id="caes0144-3" xml:lang="grc">ερ</w><w xml:id="caes0144-4" xml:lang="grc">γα</w> <w xml:id="caes0144-5" xml:lang="grc">μεγάλη</w> <w xml:id="caes0144-6" xml:lang="grc">ἐπαρχικοῦ</w></p>
 </div>
 </body>
       <back>

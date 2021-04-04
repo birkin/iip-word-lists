@@ -133,13 +133,13 @@
                <gap reason="illegible" quantity="1" unit="character"/>μτ<gap reason="illegible" quantity="1" unit="character"/>
                <lb/>α <expan><abbr>ἐτ<unclear>ο</unclear></abbr><ex>υς</ex></expan>
                <lb/>
-               <num value="21">κ´<unclear>α</unclear>´</num>
+               <num value="21">κ<unclear>α</unclear>´</num>
                 </p>
          </div>
          <div type="translation" ana="#b1" xml:id="elal0009.translation" corresp="#elal0009.diplomatic #elal0009.transcription">
             <p> Be of good courage, .mt.a(?)! Twenty-one years old. </p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="elal0009-1" xml:lang="grc">θάρσ</w><w xml:id="elal0009-2" xml:lang="grc"><supplied reason="undefined">ι</supplied></w><w xml:id="elal0009-3" xml:lang="grc">μτ</w> <w xml:id="elal0009-4" xml:lang="grc">α</w><w xml:id="elal0009-5" xml:lang="grc"><expan><abbr>ἐτο</abbr><ex>υς</ex></expan></w><w xml:id="elal0009-6" xml:lang="grc"><num value="21">κ´α´</num></w></p>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="elal0009-1" xml:lang="grc">θάρσ</w><w xml:id="elal0009-2" xml:lang="grc"><supplied reason="undefined">ι</supplied></w><w xml:id="elal0009-3" xml:lang="grc">μτ</w> <w xml:id="elal0009-4" xml:lang="grc">α</w><w xml:id="elal0009-5" xml:lang="grc"><expan><abbr>ἐτο</abbr><ex>υς</ex></expan></w><w xml:id="elal0009-6" xml:lang="grc"><num value="21">κα´</num></w></p>
 </div>
 </body>
       <back>

@@ -164,7 +164,7 @@
                 <p/>
             </div>
             <div type="edition" subtype="transcription">
-                <p>[Not yet published]</p>
+                <p/>
             </div>
             <div type="translation" ana="b1">
                 <p>Atheneon son of Sosipatros of Antioch is dedicating the altar to the god Pan
@@ -176,7 +176,7 @@
             </div>
             <!-- The bibl has more contained elements. What is the possible list of values of the biblScope/@type? 
              -->
-        <div type="edition" subtype="transcription_segmented"><p><w xml:id="bani0002-1" xml:lang="grc">[Not</w> <w xml:id="bani0002-2" xml:lang="grc">yet</w> <w xml:id="bani0002-3" xml:lang="grc">published]</w></p>
+        <div type="edition" subtype="transcription_segmented"><p/>
 </div>
 </body>
         <back>

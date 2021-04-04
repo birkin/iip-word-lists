@@ -121,7 +121,7 @@
             <p>+<lb/>
                <choice><sic>Μνημῖον</sic><corr>Μνημεῖον</corr></choice> Ἀβ<lb/>δοάρθα Ὀλέφ<lb/>ου ἀποθανόν<lb/>τος
                     ἐτῶν οʹ<lb/>
-               <expan><abbr>ἔτ</abbr><ex>ους</ex></expan> σνςʹ <expan><abbr>μη</abbr><ex>νὸς</ex></expan>
+               <expan><abbr>ἔτ</abbr><ex>ους</ex></expan> <num>σνςʹ</num> <expan><abbr>μη</abbr><ex>νὸς</ex></expan>
                <choice><sic>Πανέμου</sic><corr>Πανήμου</corr></choice> κγʹ<lb/> ἠμέρᾳ Ἄρεως</p>
          </div>
          <div type="translation" ana="#b1" xml:id="zoor0021.translation" corresp="#zoor0021.transcription">
@@ -129,7 +129,7 @@
                     (the) year 256, on (the) 23rd (day) of (the) month Panemos, on (the) day of Mars
                     (Tuesday).</p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="zoor0021-1" xml:lang="grc">Μνημεῖον</w> <w xml:id="zoor0021-2" xml:lang="grc">Ἀβ</w> <w xml:id="zoor0021-3" xml:lang="grc">δοάρθα</w> <w xml:id="zoor0021-4" xml:lang="grc">Ὀλέφ</w> <w xml:id="zoor0021-5" xml:lang="grc">ου</w> <w xml:id="zoor0021-6" xml:lang="grc">ἀποθανόν</w> <w xml:id="zoor0021-7" xml:lang="grc">τος</w> <w xml:id="zoor0021-8" xml:lang="grc">ἐτῶν</w> <w xml:id="zoor0021-9" xml:lang="grc">ο</w><w xml:id="zoor0021-10" xml:lang="grc"><expan><abbr>ἔτ</abbr><ex>ους</ex></expan></w><w xml:id="zoor0021-11" xml:lang="grc">σνς</w><w xml:id="zoor0021-12" xml:lang="grc"><expan><abbr>μη</abbr><ex>νὸς</ex></expan></w><w xml:id="zoor0021-13" xml:lang="grc">Πανήμου</w> <w xml:id="zoor0021-14" xml:lang="grc">κγ</w> <w xml:id="zoor0021-15" xml:lang="grc">ἠμέρᾳ</w> <w xml:id="zoor0021-16" xml:lang="grc">Ἄρεως</w></p>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="zoor0021-1" xml:lang="grc">Μνημεῖον</w> <w xml:id="zoor0021-2" xml:lang="grc">Ἀβ</w> <w xml:id="zoor0021-3" xml:lang="grc">δοάρθα</w> <w xml:id="zoor0021-4" xml:lang="grc">Ὀλέφ</w> <w xml:id="zoor0021-5" xml:lang="grc">ου</w> <w xml:id="zoor0021-6" xml:lang="grc">ἀποθανόν</w> <w xml:id="zoor0021-7" xml:lang="grc">τος</w> <w xml:id="zoor0021-8" xml:lang="grc">ἐτῶν</w> <w xml:id="zoor0021-9" xml:lang="grc">ο</w><w xml:id="zoor0021-10" xml:lang="grc"><expan><abbr>ἔτ</abbr><ex>ους</ex></expan></w><w xml:id="zoor0021-11" xml:lang="grc"><num>σνςʹ</num></w><w xml:id="zoor0021-12" xml:lang="grc"><expan><abbr>μη</abbr><ex>νὸς</ex></expan></w><w xml:id="zoor0021-13" xml:lang="grc">Πανήμου</w> <w xml:id="zoor0021-14" xml:lang="grc">κγ</w> <w xml:id="zoor0021-15" xml:lang="grc">ἠμέρᾳ</w> <w xml:id="zoor0021-16" xml:lang="grc">Ἄρεως</w></p>
 </div>
 </body>
       <back>

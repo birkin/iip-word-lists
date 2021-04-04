@@ -118,7 +118,7 @@
   <text>
       <body>
          <div type="edition" ana="#b7" subtype="transcription" xml:id="beth0205.transcription" corresp="#beth0205.translation">
-            <p>Μαρ<lb/> Θιετή<lb break="no"/> του </p>
+            <p>Μαρ<lb/> Θιετή<lb break="no"/>του </p>
          </div>
          <div type="translation" ana="#b7" xml:id="beth0205.translation" corresp="#beth0205.transcription">
             <p>
@@ -126,7 +126,7 @@
                <persName xml:lang="grc " ref="persons.xml#beth0205p01">Thietetos </persName>
             </p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="beth0205-1" xml:lang="grc">Μαρ</w> <w xml:id="beth0205-2" xml:lang="grc">Θιετή</w> <w xml:id="beth0205-3" xml:lang="grc">του</w></p>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="beth0205-1" xml:lang="grc">Μαρ</w> <w xml:id="beth0205-2" xml:lang="grc">Θιετήτου</w></p>
 </div>
 </body>
       <back>

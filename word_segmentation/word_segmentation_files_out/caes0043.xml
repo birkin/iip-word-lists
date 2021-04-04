@@ -122,8 +122,8 @@
             <p>
                <gap reason="illegible" quantity="3" unit="character"/><orig>s</orig> Tiberieum<lb/>
                <gap reason="illegible" quantity="1" unit="character"/>
-               <supplied reason="undefined">Po</supplied><unclear>n</unclear>tius Pilatus<lb/>
-               <supplied reason="undefined">praef</supplied>ectus Iuda<supplied reason="undefined">ea</supplied>e <lb/>
+               <supplied reason="lost">Po</supplied><unclear>n</unclear>tius Pilatus<lb/>
+               <supplied reason="lost">praef</supplied>ectus Iuda<supplied reason="lost">ea</supplied>e <lb/>
                <gap reason="illegible" quantity="5" unit="character"/><gap reason="illegible" quantity="5" unit="character"/>. </p>
          </div>
          <div type="translation" ana="#b1" xml:id="caes0043.translation" corresp="#caes0043.transcription">
@@ -135,7 +135,7 @@
 			 <rs type="admTitle">prefect </rs> of <placeName>Judaea</placeName>,...the
 			 Tiberieum....</p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="caes0043-1" xml:lang="la">Tiberieum</w><w xml:id="caes0043-2" xml:lang="la"><supplied reason="undefined">Po</supplied></w><w xml:id="caes0043-3" xml:lang="la">ntius</w> <w xml:id="caes0043-4" xml:lang="la">Pilatus</w><w xml:id="caes0043-5" xml:lang="la"><supplied reason="undefined">praef</supplied></w><w xml:id="caes0043-6" xml:lang="la">ectus</w> <w xml:id="caes0043-7" xml:lang="la">Iuda</w><w xml:id="caes0043-8" xml:lang="la"><supplied reason="undefined">ea</supplied></w><w xml:id="caes0043-9" xml:lang="la">e</w></p>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="caes0043-1" xml:lang="la">Tiberieum</w><w xml:id="caes0043-2" xml:lang="la"><supplied reason="lost">Po</supplied></w><w xml:id="caes0043-3" xml:lang="la">ntius</w> <w xml:id="caes0043-4" xml:lang="la">Pilatus</w><w xml:id="caes0043-5" xml:lang="la"><supplied reason="lost">praef</supplied></w><w xml:id="caes0043-6" xml:lang="la">ectus</w> <w xml:id="caes0043-7" xml:lang="la">Iuda</w><w xml:id="caes0043-8" xml:lang="la"><supplied reason="lost">ea</supplied></w><w xml:id="caes0043-9" xml:lang="la">e</w></p>
 </div>
 </body>
       <back>

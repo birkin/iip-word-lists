@@ -110,6 +110,7 @@
          <change when="2019-01-29" who="persons.xml#Elli_Mylonas">
                 adding period attribute to date element, with Periodo value.
             </change>
+         <change when="2021-03-23" who="Chris Zeichmann">transcription corrections</change>
       </revisionDesc>
   </teiHeader>
   <!-- ********* <facsimile> ********* -->
@@ -139,18 +140,18 @@
          </div>
          <div type="edition" ana="#b1" subtype="transcription" xml:id="hamm0013.transcription" corresp="#hamm0013.diplomatic #hamm0013.translation">
             <p>
-				Ὁ Θεὸς ὁ ὅλω<supplied reason="undefined">ν</supplied> <supplied reason="undefined">δημιουργὸς ?</supplied>
-            <lb/>βοήθησον Ἀμελ<supplied reason="undefined">ιανᾦ</supplied>
-            <lb/>καὶ Ἀλυπίᾦ καὶ Ῥηγί<supplied reason="undefined">νᾦ</supplied>
-            <lb/>τέκνοις αὐτοῦ τοῖς κόμη<supplied reason="undefined">σι</supplied>
-            <lb/>καὶ ἡμῖν πᾶσι τοῖς φιλοῦ<supplied reason="undefined">σι</supplied>
-            <lb/>αὐτ<supplied reason="undefined">ούς</supplied>.  Ἀμήν.
+				Ὁ Θεὸς ὁ ὅλω<supplied reason="lost">ν</supplied> <supplied reason="lost" cert="low">δημιουργὸς</supplied>
+            <lb/>βοήθησον Ἀμελ<supplied reason="lost">ιανᾦ</supplied>
+            <lb/>καὶ Ἀλυπίᾦ καὶ Ῥηγί<supplied reason="lost">νᾦ</supplied>
+            <lb/>τέκνοις αὐτοῦ τοῖς κόμη<supplied reason="lost">σι</supplied>
+            <lb/>καὶ ἡμῖν πᾶσι τοῖς φιλοῦ<supplied reason="lost">σι</supplied>
+            <lb/>αὐτ<supplied reason="lost">ούς</supplied>. Ἀμήν.
 					</p>
          </div>
          <div type="translation" ana="#b1" xml:id="hamm0013.translation" corresp="#hamm0013.diplomatic #hamm0013.transcription">
             <p>God the [Creator] of all things, help <persName xml:lang="la " ref="persons.xml#hamm0013p01">Ameli[anus]</persName>, and <persName xml:lang="la " ref="persons.xml#hamm0013p02">Alypius </persName> and <persName xml:lang="la " ref="persons.xml#hamm0013p03">Reginus </persName> (?) his <rs type="family">children</rs>, the <rs type="admTitle">counts</rs>, and us all who love them.  Amen.</p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="hamm0013-1" xml:lang="grc">Ὁ</w> <w xml:id="hamm0013-2" xml:lang="grc">Θεὸς</w> <w xml:id="hamm0013-3" xml:lang="grc">ὁ</w> <w xml:id="hamm0013-4" xml:lang="grc">ὅλω</w><w xml:id="hamm0013-5" xml:lang="grc"><supplied reason="undefined">ν</supplied></w><w xml:id="hamm0013-6" xml:lang="grc"><supplied reason="undefined">δημιουργὸς ?</supplied></w><w xml:id="hamm0013-7" xml:lang="grc">βοήθησον</w> <w xml:id="hamm0013-8" xml:lang="grc">Ἀμελ</w><w xml:id="hamm0013-9" xml:lang="grc"><supplied reason="undefined">ιανᾦ</supplied></w><w xml:id="hamm0013-10" xml:lang="grc">καὶ</w> <w xml:id="hamm0013-11" xml:lang="grc">Ἀλυπίᾦ</w> <w xml:id="hamm0013-12" xml:lang="grc">καὶ</w> <w xml:id="hamm0013-13" xml:lang="grc">Ῥηγί</w><w xml:id="hamm0013-14" xml:lang="grc"><supplied reason="undefined">νᾦ</supplied></w><w xml:id="hamm0013-15" xml:lang="grc">τέκνοις</w> <w xml:id="hamm0013-16" xml:lang="grc">αὐτοῦ</w> <w xml:id="hamm0013-17" xml:lang="grc">τοῖς</w> <w xml:id="hamm0013-18" xml:lang="grc">κόμη</w><w xml:id="hamm0013-19" xml:lang="grc"><supplied reason="undefined">σι</supplied></w><w xml:id="hamm0013-20" xml:lang="grc">καὶ</w> <w xml:id="hamm0013-21" xml:lang="grc">ἡμῖν</w> <w xml:id="hamm0013-22" xml:lang="grc">πᾶσι</w> <w xml:id="hamm0013-23" xml:lang="grc">τοῖς</w> <w xml:id="hamm0013-24" xml:lang="grc">φιλοῦ</w><w xml:id="hamm0013-25" xml:lang="grc"><supplied reason="undefined">σι</supplied></w><w xml:id="hamm0013-26" xml:lang="grc">αὐτ</w><w xml:id="hamm0013-27" xml:lang="grc"><supplied reason="undefined">ούς</supplied></w><w xml:id="hamm0013-28" xml:lang="grc">Ἀμήν</w></p>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="hamm0013-1" xml:lang="grc">Ὁ</w> <w xml:id="hamm0013-2" xml:lang="grc">Θεὸς</w> <w xml:id="hamm0013-3" xml:lang="grc">ὁ</w> <w xml:id="hamm0013-4" xml:lang="grc">ὅλω</w><w xml:id="hamm0013-5" xml:lang="grc"><supplied reason="lost">ν</supplied></w><w xml:id="hamm0013-6" xml:lang="grc"><supplied reason="lost" cert="low">δημιουργὸς</supplied></w><w xml:id="hamm0013-7" xml:lang="grc">βοήθησον</w> <w xml:id="hamm0013-8" xml:lang="grc">Ἀμελ</w><w xml:id="hamm0013-9" xml:lang="grc"><supplied reason="lost">ιανᾦ</supplied></w><w xml:id="hamm0013-10" xml:lang="grc">καὶ</w> <w xml:id="hamm0013-11" xml:lang="grc">Ἀλυπίᾦ</w> <w xml:id="hamm0013-12" xml:lang="grc">καὶ</w> <w xml:id="hamm0013-13" xml:lang="grc">Ῥηγί</w><w xml:id="hamm0013-14" xml:lang="grc"><supplied reason="lost">νᾦ</supplied></w><w xml:id="hamm0013-15" xml:lang="grc">τέκνοις</w> <w xml:id="hamm0013-16" xml:lang="grc">αὐτοῦ</w> <w xml:id="hamm0013-17" xml:lang="grc">τοῖς</w> <w xml:id="hamm0013-18" xml:lang="grc">κόμη</w><w xml:id="hamm0013-19" xml:lang="grc"><supplied reason="lost">σι</supplied></w><w xml:id="hamm0013-20" xml:lang="grc">καὶ</w> <w xml:id="hamm0013-21" xml:lang="grc">ἡμῖν</w> <w xml:id="hamm0013-22" xml:lang="grc">πᾶσι</w> <w xml:id="hamm0013-23" xml:lang="grc">τοῖς</w> <w xml:id="hamm0013-24" xml:lang="grc">φιλοῦ</w><w xml:id="hamm0013-25" xml:lang="grc"><supplied reason="lost">σι</supplied></w><w xml:id="hamm0013-26" xml:lang="grc">αὐτ</w><w xml:id="hamm0013-27" xml:lang="grc"><supplied reason="lost">ούς</supplied></w><w xml:id="hamm0013-28" xml:lang="grc">Ἀμήν</w></p>
 </div>
 </body>
       <back>

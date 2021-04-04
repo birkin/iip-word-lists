@@ -119,12 +119,12 @@
                <lb/>
                <gap reason="illegible" quantity="2" unit="character"/> <supplied reason="undefined">ἔ</supplied>
                <unclear>λ</unclear>ειψα<lb/>
-               <gap reason="illegible" quantity="3" unit="character"/>ννου Με<lb break="no"/>
-               <gap reason="illegible" quantity="3" unit="character"/>ελεθο<lb break="no"/>
-               <gap reason="illegible" quantity="5" unit="character"/>ψ<lb break="no"/>
+               <gap reason="illegible" quantity="3" unit="character"/>ννου <orig>Με<lb/>
+               <gap reason="illegible" quantity="3" unit="character"/>ελεθο<lb/>
+               <gap reason="illegible" quantity="5" unit="character"/>ψ<lb/></orig>
 </p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="caes0332-1" xml:lang="grc">ροιο</w><w xml:id="caes0332-2" xml:lang="grc"><expan><abbr>κ</abbr><ex>αὶ</ex></expan></w><w xml:id="caes0332-3" xml:lang="grc"><supplied reason="undefined">ἔ</supplied></w><w xml:id="caes0332-4" xml:lang="grc">λειψα</w> <w xml:id="caes0332-5" xml:lang="grc">ννου</w> <w xml:id="caes0332-6" xml:lang="grc">Με</w> <w xml:id="caes0332-7" xml:lang="grc">ελεθο</w> <w xml:id="caes0332-8" xml:lang="grc">ψ</w></p>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="caes0332-1" xml:lang="grc">ροιο</w><w xml:id="caes0332-2" xml:lang="grc"><expan><abbr>κ</abbr><ex>αὶ</ex></expan></w><w xml:id="caes0332-3" xml:lang="grc"><supplied reason="undefined">ἔ</supplied></w><w xml:id="caes0332-4" xml:lang="grc">λειψα</w> <w xml:id="caes0332-5" xml:lang="grc">ννου</w></p>
 </div>
 </body>
       <back>

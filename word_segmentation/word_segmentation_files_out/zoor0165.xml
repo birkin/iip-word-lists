@@ -137,8 +137,7 @@
                <choice>
                   <orig>Ἐπιφονία</orig><reg>Ἐπιφανίας</reg>
                </choice>
-               <lb/> Εὐσεβίου, ἀπο<lb break="no"/>θανοῦσα <surplus>ι</surplus> μ<unclear>ε</unclear>
-               <lb break="no"/>τὰ καλοῦ <choice>
+               <lb/> Εὐσεβίου, ἀπο<lb break="no"/>θανοῦσα <surplus>ι</surplus> μ<unclear>ε</unclear><lb break="no"/>τὰ καλοῦ <choice>
                   <orig>ὀνά<lb break="no"/>ματος</orig><reg>ὀνόματος</reg>
                </choice> ἐτῶν<lb/> <num value="17">ι<unclear>ζ</unclear>ʹ</num>, ἐν <choice>
                   <orig>μενὶ</orig>
@@ -158,7 +157,7 @@
                     the age) of 17 years, in (the) year 335, on the 6th (day) of the month
                     Gorpiaios, in (the year) 335, on the 7th day (Sunday).</p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="zoor0165-1" xml:lang="grc">Μνημεῖον</w> <w xml:id="zoor0165-2" xml:lang="grc">Ἐπιφανίας</w> <w xml:id="zoor0165-3" xml:lang="grc">Εὐσεβίου</w> <w xml:id="zoor0165-4" xml:lang="grc">ἀποθανοῦσα</w><w xml:id="zoor0165-5" xml:lang="grc">με</w> <w xml:id="zoor0165-6" xml:lang="grc">τὰ</w> <w xml:id="zoor0165-7" xml:lang="grc">καλοῦ</w> <w xml:id="zoor0165-8" xml:lang="grc">ὀνόματος</w> <w xml:id="zoor0165-9" xml:lang="grc">ἐτῶν</w><w xml:id="zoor0165-10" xml:lang="grc"><num value="17">ιζʹ</num></w><w xml:id="zoor0165-11" xml:lang="grc">ἐν</w> <w xml:id="zoor0165-12" xml:lang="grc">μηνὶ</w><w xml:id="zoor0165-13" xml:lang="grc">Γορπιαίῳ</w><w xml:id="zoor0165-14" xml:lang="grc"><num value="6">ςʹ</num></w><w xml:id="zoor0165-15" xml:lang="grc">ἐν</w><w xml:id="zoor0165-16" xml:lang="grc"><expan><abbr><w xml:id="zoor0165-17" xml:lang="grc"><supplied reason="lost">ἔτ</supplied></w><am>ϛ</am></abbr><ex>ει</ex></expan></w><w xml:id="zoor0165-18" xml:lang="grc"><num value="335">τλεʹ</num></w><w xml:id="zoor0165-19" xml:lang="grc"><expan><abbr><hi rend="ligature">ἡμ</hi></abbr><ex>έρᾳ</ex></expan></w><w xml:id="zoor0165-20" xml:lang="grc"><num value="7">ζʹ</num></w></p>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="zoor0165-1" xml:lang="grc">Μνημεῖον</w> <w xml:id="zoor0165-2" xml:lang="grc">Ἐπιφανίας</w> <w xml:id="zoor0165-3" xml:lang="grc">Εὐσεβίου</w> <w xml:id="zoor0165-4" xml:lang="grc">ἀποθανοῦσα</w><w xml:id="zoor0165-5" xml:lang="grc">μετὰ</w> <w xml:id="zoor0165-6" xml:lang="grc">καλοῦ</w> <w xml:id="zoor0165-7" xml:lang="grc">ὀνόματος</w> <w xml:id="zoor0165-8" xml:lang="grc">ἐτῶν</w><w xml:id="zoor0165-9" xml:lang="grc"><num value="17">ιζʹ</num></w><w xml:id="zoor0165-10" xml:lang="grc">ἐν</w> <w xml:id="zoor0165-11" xml:lang="grc">μηνὶ</w><w xml:id="zoor0165-12" xml:lang="grc">Γορπιαίῳ</w><w xml:id="zoor0165-13" xml:lang="grc"><num value="6">ςʹ</num></w><w xml:id="zoor0165-14" xml:lang="grc">ἐν</w><w xml:id="zoor0165-15" xml:lang="grc"><expan><abbr><w xml:id="zoor0165-16" xml:lang="grc"><supplied reason="lost">ἔτ</supplied></w><am>ϛ</am></abbr><ex>ει</ex></expan></w><w xml:id="zoor0165-17" xml:lang="grc"><num value="335">τλεʹ</num></w><w xml:id="zoor0165-18" xml:lang="grc"><expan><abbr><hi rend="ligature">ἡμ</hi></abbr><ex>έρᾳ</ex></expan></w><w xml:id="zoor0165-19" xml:lang="grc"><num value="7">ζʹ</num></w></p>
 </div>
 </body>
       <back>

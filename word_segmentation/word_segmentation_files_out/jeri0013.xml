@@ -26,7 +26,7 @@
                </msIdentifier>
                <!-- ********* <msContents> ********* -->
                <msContents>
-                  <textLang mainLang="arc" otherLangs="grc"/>
+                  <textLang mainLang="grc" otherLangs="arc"/>
                   <msItem class="#funerary" ana="#jewish">
                      <p>Judaea. Jericho, 5 CE to 70 CE. Ossuary. Funerary.</p>
                   </msItem>
@@ -151,7 +151,7 @@
          <div type="translation" ana="#b1" xml:id="jeri0013.translation" corresp="#jeri0013.transcription">
             <p>Joezer, son of Joezer, of Goliath. Yeho'ezer, son of Yeho'ezer, Goliath. Joezer, son of Joezer, of Goliath.</p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="jeri0013-1" xml:lang="arc">Ἰωέζρος</w> <w xml:id="jeri0013-2" xml:lang="arc">Ἰωέζρου</w> <w xml:id="jeri0013-3" xml:lang="arc">Γολιάθου</w><w xml:id="jeri0013-4" xml:lang="arc">Ἰοέζρος</w> <w xml:id="jeri0013-5" xml:lang="arc">Ἰοέζρου</w> <w xml:id="jeri0013-6" xml:lang="arc">Γολιάθου</w></p>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="jeri0013-1" xml:lang="grc">Ἰωέζρος</w> <w xml:id="jeri0013-2" xml:lang="grc">Ἰωέζρου</w> <w xml:id="jeri0013-3" xml:lang="grc">Γολιάθου</w><w xml:id="jeri0013-4" xml:lang="grc">Ἰοέζρος</w> <w xml:id="jeri0013-5" xml:lang="grc">Ἰοέζρου</w> <w xml:id="jeri0013-6" xml:lang="grc">Γολιάθου</w></p>
 </div>
 </body>
       <back>

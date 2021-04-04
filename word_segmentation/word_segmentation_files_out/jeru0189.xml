@@ -26,7 +26,7 @@
                </msIdentifier>
                <!-- ********* <msContents> ********* -->
                <msContents>
-                  <textLang mainLang="arc" otherLangs="grc"/>
+                  <textLang mainLang="grc" otherLangs="arc"/>
                   <msItem class="#funerary" ana="#jewish">
                      <p>Judaea. Jerusalem, 20 BCE to 135 CE. Ossuary. Funerary.</p>
                   </msItem>
@@ -117,7 +117,7 @@
                     <foreign xml:lang="heb">דיפי</foreign>
             </p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="jeru0189-1" xml:lang="arc">Δειφεος</w></p>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="jeru0189-1" xml:lang="grc">Δειφεος</w></p>
 </div>
 </body>
       <back>
