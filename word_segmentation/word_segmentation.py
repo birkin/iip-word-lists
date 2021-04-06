@@ -57,7 +57,12 @@ for strTextFullPath in vTextFullPaths:
 	# Current parser options clean up redundant namespace declarations and remove patches of whitespace
 	# For more info, see "Parser Options" in: https://lxml.de/parsing.html
 	parser = etree.XMLParser(ns_clean=True, remove_blank_text=False)
-	xmlText = etree.parse(strTextFullPath, parser)
+
+	try:
+		xmlText = etree.parse(strTextFullPath, parser)
+	except:
+		print(strTextFilename)
+		continue
 
 	nsmap = {'tei': "http://www.tei-c.org/ns/1.0"}
 

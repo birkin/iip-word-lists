@@ -172,7 +172,7 @@
                 <p/>
             </div>
             <div type="edition" subtype="transcription" ana="b1">
-                <p>ζ<lb/>η θ</p>
+                <p><orig>ζ<lb/>η θ</orig></p>
             </div>
             <div type="translation" ana="b1">
                 <p/>
@@ -181,7 +181,7 @@
                 <p>Perhaps part of an abecedarium rather than letters used as numerals. Below the
                     two lines another η and a π can perhaps be discerned</p>
             </div>
-        <div type="edition" subtype="transcription_segmented"><p><w xml:id="masa0942e-1" xml:lang="grc">ζ</w> <w xml:id="masa0942e-2" xml:lang="grc">η</w> <w xml:id="masa0942e-3" xml:lang="grc">θ</w></p>
+        <div type="edition" subtype="transcription_segmented"><p/>
 </div>
 </body>
         <back>

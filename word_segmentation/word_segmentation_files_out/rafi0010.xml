@@ -120,14 +120,13 @@
                 </p>
          </div>
          <div type="edition" ana="#b1" subtype="transcription" xml:id="rafi0010.transcription" corresp="#rafi0010.diplomatic #rafi0010.translation">
-            <p>Θεόδ<lb/>
-                    ωρος
+            <p>Θεόδ<lb break="no"/>ωρος
                 </p>
          </div>
          <div type="translation" ana="#b1" xml:id="rafi0010.translation" corresp="#rafi0010.diplomatic #rafi0010.transcription">
             <p>Theodorus.</p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="rafi0010-1" xml:lang="grc">Θεόδ</w> <w xml:id="rafi0010-2" xml:lang="grc">ωρος</w></p>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="rafi0010-1" xml:lang="grc">Θεόδωρος</w></p>
 </div>
 </body>
       <back>

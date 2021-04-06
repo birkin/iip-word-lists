@@ -125,18 +125,18 @@
       <body>
          <div type="edition" ana="#b1" xml:lang="grc" subtype="transcription" xml:id="zoor0058.transcription" corresp="#zoor0058.translation">
             <p>
-               <choice><sic>Μνημῖον</sic><corr>Μνημεῖον</corr></choice> Πέτρου <lb/>Οὐλπιανοῦ, ἀπο<lb/>θανόν<unclear>τ</unclear>ος
+               <choice><sic>Μνημῖον</sic><corr>Μνημεῖον</corr></choice> Πέτρου <lb/>Οὐλπιανοῦ, ἀπο<lb break="no"/>θανόν<unclear>τ</unclear>ος
                     ἐτῶν<lb/> ἑξήκοντα, ἐν <choice><sic>ἔτι</sic><corr>ἔτει</corr></choice>
-               <lb/> σπγʹ, ἐν μηνὶ Ξαν<lb/>θικῷ <num value="30">λʹ</num>.
+               <lb/> <num>σπγʹ</num>, ἐν μηνὶ Ξαν<lb break="no"/>θικῷ <num value="30">λʹ</num>.
                     <choice><sic>Θάρσι</sic><corr>Θάρσει</corr></choice>,<lb/>
-               <choice><sic>οὐδὶς</sic><corr>οὐδεὶς</corr></choice> ἀθάνα<lb/>τος.</p>
+               <choice><sic>οὐδὶς</sic><corr>οὐδεὶς</corr></choice> ἀθάνα<lb break="no"/>τος.</p>
          </div>
          <div type="translation" ana="#b1" xml:id="zoor0058.translation" corresp="#zoor0058.transcription">
             <p>Monument of Petros, (son) of Ulpianus, who died (at the age) of sixty years, in
                     (the) year 283, on the 30th (day) of the month Xanthikos. Be of good cheer, no
                     one (is) immortal.</p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="zoor0058-1" xml:lang="grc">Μνημεῖον</w> <w xml:id="zoor0058-2" xml:lang="grc">Πέτρου</w> <w xml:id="zoor0058-3" xml:lang="grc">Οὐλπιανοῦ</w> <w xml:id="zoor0058-4" xml:lang="grc">ἀπο</w> <w xml:id="zoor0058-5" xml:lang="grc">θανόντος</w> <w xml:id="zoor0058-6" xml:lang="grc">ἐτῶν</w> <w xml:id="zoor0058-7" xml:lang="grc">ἑξήκοντα</w> <w xml:id="zoor0058-8" xml:lang="grc">ἐν</w> <w xml:id="zoor0058-9" xml:lang="grc">ἔτει</w> <w xml:id="zoor0058-10" xml:lang="grc">σπγ</w> <w xml:id="zoor0058-11" xml:lang="grc">ἐν</w> <w xml:id="zoor0058-12" xml:lang="grc">μηνὶ</w> <w xml:id="zoor0058-13" xml:lang="grc">Ξαν</w> <w xml:id="zoor0058-14" xml:lang="grc">θικῷ</w><w xml:id="zoor0058-15" xml:lang="grc"><num value="30">λʹ</num></w><w xml:id="zoor0058-16" xml:lang="grc">Θάρσει</w> <w xml:id="zoor0058-17" xml:lang="grc">οὐδεὶς</w> <w xml:id="zoor0058-18" xml:lang="grc">ἀθάνα</w> <w xml:id="zoor0058-19" xml:lang="grc">τος</w></p>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="zoor0058-1" xml:lang="grc">Μνημεῖον</w> <w xml:id="zoor0058-2" xml:lang="grc">Πέτρου</w> <w xml:id="zoor0058-3" xml:lang="grc">Οὐλπιανοῦ</w> <w xml:id="zoor0058-4" xml:lang="grc">ἀποθανόντος</w> <w xml:id="zoor0058-5" xml:lang="grc">ἐτῶν</w> <w xml:id="zoor0058-6" xml:lang="grc">ἑξήκοντα</w> <w xml:id="zoor0058-7" xml:lang="grc">ἐν</w> <w xml:id="zoor0058-8" xml:lang="grc">ἔτει</w><w xml:id="zoor0058-9" xml:lang="grc"><num>σπγʹ</num></w><w xml:id="zoor0058-10" xml:lang="grc">ἐν</w> <w xml:id="zoor0058-11" xml:lang="grc">μηνὶ</w> <w xml:id="zoor0058-12" xml:lang="grc">Ξανθικῷ</w><w xml:id="zoor0058-13" xml:lang="grc"><num value="30">λʹ</num></w><w xml:id="zoor0058-14" xml:lang="grc">Θάρσει</w> <w xml:id="zoor0058-15" xml:lang="grc">οὐδεὶς</w> <w xml:id="zoor0058-16" xml:lang="grc">ἀθάνατος</w></p>
 </div>
 </body>
       <back>

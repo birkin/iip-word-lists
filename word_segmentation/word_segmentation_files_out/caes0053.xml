@@ -140,7 +140,8 @@
                <lb/>
                <expan><abbr>vex</abbr><ex>illatio</ex></expan>
                <expan><abbr>leg</abbr><ex>ionis</ex></expan>
-               <lb/>X <expan><abbr><supplied reason="lost">F</supplied>r<hi rend="ligature">et</hi></abbr><ex>ensis</ex></expan>
+               <lb/><num>X</num>
+               <expan><abbr><supplied reason="lost">F</supplied>r<hi rend="ligature">et</hi></abbr><ex>ensis</ex></expan>
             </p>
          </div>
          <div type="translation" ana="#b1" xml:id="caes0053.translation" corresp="#caes0053.transcription">
@@ -152,7 +153,7 @@
                   <persName xml:lang="la " ref="persons.xml#caes0053p03" nymRef="names.xml#caes0053n03">Augustus </persName>
                </name>.</p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="caes0053-1" xml:lang="la"><expan><abbr>Imp</abbr><ex>eratore</ex></expan></w><w xml:id="caes0053-2" xml:lang="la"><expan><abbr>Tr</abbr><ex>aia</ex><abbr>n</abbr><ex>o</ex></expan></w><w xml:id="caes0053-3" xml:lang="la"><expan><abbr>Ha<hi rend="ligature">dr</hi></abbr><ex>iano</ex></expan></w><w xml:id="caes0053-4" xml:lang="la"><supplied reason="lost"><w xml:id="caes0053-5" xml:lang="la"><expan><abbr>Aug</abbr><ex>usto</ex></expan></w></supplied></w><w xml:id="caes0053-6" xml:lang="la"><expan><abbr>vex</abbr><ex>illatio</ex></expan></w><w xml:id="caes0053-7" xml:lang="la"><expan><abbr>leg</abbr><ex>ionis</ex></expan></w><w xml:id="caes0053-8" xml:lang="la">X</w><w xml:id="caes0053-9" xml:lang="la"><expan><abbr><w xml:id="caes0053-10" xml:lang="la"><supplied reason="lost">F</supplied></w>r<hi rend="ligature">et</hi></abbr><ex>ensis</ex></expan></w></p>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="caes0053-1" xml:lang="la"><expan><abbr>Imp</abbr><ex>eratore</ex></expan></w><w xml:id="caes0053-2" xml:lang="la"><expan><abbr>Tr</abbr><ex>aia</ex><abbr>n</abbr><ex>o</ex></expan></w><w xml:id="caes0053-3" xml:lang="la"><expan><abbr>Ha<hi rend="ligature">dr</hi></abbr><ex>iano</ex></expan></w><w xml:id="caes0053-4" xml:lang="la"><supplied reason="lost"><w xml:id="caes0053-5" xml:lang="la"><expan><abbr>Aug</abbr><ex>usto</ex></expan></w></supplied></w><w xml:id="caes0053-6" xml:lang="la"><expan><abbr>vex</abbr><ex>illatio</ex></expan></w><w xml:id="caes0053-7" xml:lang="la"><expan><abbr>leg</abbr><ex>ionis</ex></expan></w><w xml:id="caes0053-8" xml:lang="la"><num>X</num></w><w xml:id="caes0053-9" xml:lang="la"><expan><abbr><w xml:id="caes0053-10" xml:lang="la"><supplied reason="lost">F</supplied></w>r<hi rend="ligature">et</hi></abbr><ex>ensis</ex></expan></w></p>
 </div>
 </body>
       <back>

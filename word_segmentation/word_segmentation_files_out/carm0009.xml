@@ -114,12 +114,12 @@
    <text>
       <body>
          <div type="edition" ana="#b1" xml:lang="grc" subtype="transcription" xml:id="carm0009.transcription" corresp="#carm0009.translation">
-            <p>Μνήσθ<lb/>ῶσιν Λεόν<lb/>τις κέ Γλυκέρι<lb/>ς κέ Φιρμῖνος <lb/>κέ Σευῆ<lb/>ρος</p>
+            <p>Μνήσθ<lb break="no"/>ῶσιν Λεόν<lb break="no"/>τις κέ Γλυκέρι<lb break="no"/>ς κέ Φιρμῖνος <lb/>κέ Σευῆ<lb break="no"/>ρος</p>
          </div>
          <div type="translation" ana="#b1" xml:id="carm0009.translation" corresp="#carm0009.transcription">
             <p>Be remembered Leontis and Glykeris and Firminos and Seviros</p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="carm0009-1" xml:lang="grc">Μνήσθ</w> <w xml:id="carm0009-2" xml:lang="grc">ῶσιν</w> <w xml:id="carm0009-3" xml:lang="grc">Λεόν</w> <w xml:id="carm0009-4" xml:lang="grc">τις</w> <w xml:id="carm0009-5" xml:lang="grc">κέ</w> <w xml:id="carm0009-6" xml:lang="grc">Γλυκέρι</w> <w xml:id="carm0009-7" xml:lang="grc">ς</w> <w xml:id="carm0009-8" xml:lang="grc">κέ</w> <w xml:id="carm0009-9" xml:lang="grc">Φιρμῖνος</w> <w xml:id="carm0009-10" xml:lang="grc">κέ</w> <w xml:id="carm0009-11" xml:lang="grc">Σευῆ</w> <w xml:id="carm0009-12" xml:lang="grc">ρος</w></p>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="carm0009-1" xml:lang="grc">Μνήσθῶσιν</w> <w xml:id="carm0009-2" xml:lang="grc">Λεόντις</w> <w xml:id="carm0009-3" xml:lang="grc">κέ</w> <w xml:id="carm0009-4" xml:lang="grc">Γλυκέρις</w> <w xml:id="carm0009-5" xml:lang="grc">κέ</w> <w xml:id="carm0009-6" xml:lang="grc">Φιρμῖνος</w> <w xml:id="carm0009-7" xml:lang="grc">κέ</w> <w xml:id="carm0009-8" xml:lang="grc">Σευῆρος</w></p>
 </div>
 </body>
       <back>

@@ -123,17 +123,13 @@
                 </p>
          </div>
          <div type="edition" ana="#b1" subtype="transcription" xml:id="rafi0011.transcription" corresp="#rafi0011.diplomatic #rafi0011.translation">
-            <p>θάρσ<lb/>
-                    ι Αλα<lb/>
-                    φθα <lb/>
-               <expan><abbr>ἐτ</abbr><ex>ῶν</ex></expan> ε´<lb/>
-                    ξ´
-                </p>
+            <p>θάρσ<lb break="no"/>ι Ἀλα<lb break="no"/>φθα <lb/>
+               <expan><abbr>ἐτ</abbr><ex>ῶν</ex></expan> <num value="65">ε´<lb break="no"/>ξ´</num> </p>
          </div>
          <div type="translation" ana="#b1" xml:id="rafi0011.translation" corresp="#rafi0011.diplomatic #rafi0011.transcription">
             <p>Be of good courage, Alaphtha! Sixty-five years old.</p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="rafi0011-1" xml:lang="grc">θάρσ</w> <w xml:id="rafi0011-2" xml:lang="grc">ι</w> <w xml:id="rafi0011-3" xml:lang="grc">Αλα</w> <w xml:id="rafi0011-4" xml:lang="grc">φθα</w><w xml:id="rafi0011-5" xml:lang="grc"><expan><abbr>ἐτ</abbr><ex>ῶν</ex></expan></w><w xml:id="rafi0011-6" xml:lang="grc">ε´</w> <w xml:id="rafi0011-7" xml:lang="grc">ξ´</w></p>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="rafi0011-1" xml:lang="grc">θάρσι</w> <w xml:id="rafi0011-2" xml:lang="grc">Ἀλαφθα</w><w xml:id="rafi0011-3" xml:lang="grc"><expan><abbr>ἐτ</abbr><ex>ῶν</ex></expan></w><w xml:id="rafi0011-4" xml:lang="grc"><num value="65">ε´ξ´</num></w></p>
 </div>
 </body>
       <back>

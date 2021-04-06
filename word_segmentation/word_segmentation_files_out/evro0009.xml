@@ -125,12 +125,12 @@
             <p>ΕΙϹΘΕΟϹ<lb/>ΟΒΟΗΘΩΝ<lb/>ΟΥΑΛΕΝ<lb/>ΤΙΝΟΝΚΑ<lb/>ΡΠΟΦΟΡΗ<lb/>ϹΑΝΤΑΝ<lb/>ΕΝΑΝ</p>
          </div>
          <div type="edition" ana="#b1" xml:lang="grc" subtype="transcription" xml:id="evro0009.transcription" corresp="#evro0009.diplomatic #evro0009.translation">
-            <p>Είς Θεός <lb/>ὁ βοηθών <lb/>Οὐαλεν<lb/>τίνον κα<lb/>ρποφορή<lb/>σανταν <lb/>ἔναν</p>
+            <p>εἶς Θεός <lb/>ὁ βοηθών <lb/>Οὐαλεν<lb break="no"/>τίνον κα<lb break="no"/>ρποφορή<lb break="no"/>σανταν <lb/>ἔναν</p>
          </div>
          <div type="translation" ana="#b1" xml:id="evro0009.translation" corresp="#evro0009.diplomatic #evro0009.transcription">
             <p>One God who helps Valentinos, the contributor. One.</p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="evro0009-1" xml:lang="grc">Είς</w> <w xml:id="evro0009-2" xml:lang="grc">Θεός</w> <w xml:id="evro0009-3" xml:lang="grc">ὁ</w> <w xml:id="evro0009-4" xml:lang="grc">βοηθών</w> <w xml:id="evro0009-5" xml:lang="grc">Οὐαλεν</w> <w xml:id="evro0009-6" xml:lang="grc">τίνον</w> <w xml:id="evro0009-7" xml:lang="grc">κα</w> <w xml:id="evro0009-8" xml:lang="grc">ρποφορή</w> <w xml:id="evro0009-9" xml:lang="grc">σανταν</w> <w xml:id="evro0009-10" xml:lang="grc">ἔναν</w></p>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="evro0009-1" xml:lang="grc">εἶς</w> <w xml:id="evro0009-2" xml:lang="grc">Θεός</w> <w xml:id="evro0009-3" xml:lang="grc">ὁ</w> <w xml:id="evro0009-4" xml:lang="grc">βοηθών</w> <w xml:id="evro0009-5" xml:lang="grc">Οὐαλεντίνον</w> <w xml:id="evro0009-6" xml:lang="grc">καρποφορήσανταν</w> <w xml:id="evro0009-7" xml:lang="grc">ἔναν</w></p>
 </div>
 </body>
       <back>

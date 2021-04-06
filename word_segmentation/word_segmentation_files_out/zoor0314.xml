@@ -122,13 +122,13 @@
                   </sic><corr>Ἐν</corr></choice>
                <lb/>
                <choice><sic>
-                     <unclear>κ</unclear>ῖτε</sic><corr>κεῖται</corr></choice> Ἄλφι<lb/>ος Σοέδου,<lb/>
-                    ζήσας<lb/> ἔτη ιαʹ.</p>
+                  <unclear>κ</unclear>ῖτε</sic><corr>κεῖται</corr></choice> Ἄλφι<lb break="no"/>ος Σοέδου,<lb/>
+                    ζήσας<lb/> ἔτη <num>ιαʹ</num>.</p>
          </div>
          <div type="translation" ana="#b1" xml:id="zoor0314.translation" corresp="#zoor0314.transcription">
             <p> Here lies Alfios, (son) of Soedos, who lived 11 years.</p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="zoor0314-1" xml:lang="grc"><supplied reason="undefined">+</supplied></w><w xml:id="zoor0314-2" xml:lang="grc">θάδε</w> <w xml:id="zoor0314-3" xml:lang="grc">Ἐν</w> <w xml:id="zoor0314-4" xml:lang="grc">κῖτεκεῖται</w> <w xml:id="zoor0314-5" xml:lang="grc">Ἄλφι</w> <w xml:id="zoor0314-6" xml:lang="grc">ος</w> <w xml:id="zoor0314-7" xml:lang="grc">Σοέδου</w> <w xml:id="zoor0314-8" xml:lang="grc">ζήσας</w> <w xml:id="zoor0314-9" xml:lang="grc">ἔτη</w> <w xml:id="zoor0314-10" xml:lang="grc">ια</w></p>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="zoor0314-1" xml:lang="grc"><supplied reason="undefined">+</supplied></w><w xml:id="zoor0314-2" xml:lang="grc">θάδε</w> <w xml:id="zoor0314-3" xml:lang="grc">Ἐν</w> <w xml:id="zoor0314-4" xml:lang="grc">κῖτεκεῖται</w> <w xml:id="zoor0314-5" xml:lang="grc">Ἄλφιος</w> <w xml:id="zoor0314-6" xml:lang="grc">Σοέδου</w> <w xml:id="zoor0314-7" xml:lang="grc">ζήσας</w> <w xml:id="zoor0314-8" xml:lang="grc">ἔτη</w><w xml:id="zoor0314-9" xml:lang="grc"><num>ιαʹ</num></w></p>
 </div>
 </body>
       <back>

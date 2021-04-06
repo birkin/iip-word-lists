@@ -134,17 +134,21 @@
          <div type="edition" ana="#b1" xml:lang="grc" subtype="transcription" xml:id="zoor0320.transcription" corresp="#zoor0320.translation">
             <p>
                <gap reason="lost" unit="character" extent="unknown"/>
-               <lb/> Μ<gap reason="lost" unit="character" extent="unknown"/>Ο<lb/> ΠΑ<gap reason="lost" unit="character" extent="unknown"/>ΚΑΓ<lb/>
-               <choice><sic>
+               <lb/>
+               <orig>Μ<gap reason="lost" unit="character" extent="unknown"/>Ο<lb/> ΠΑ<gap reason="lost" unit="character" extent="unknown"/>ΚΑΓ</orig><lb/>
+               <choice>
+                  <sic>
                      <unclear>Θάρσι</unclear>
-                  </sic><corr>Θάρσει</corr></choice>
+                  </sic>
+                  <corr>Θάρσει</corr>
+               </choice>
                <gap reason="lost" unit="character" extent="unknown"/>
             </p>
          </div>
          <div type="translation" ana="#b1" xml:id="zoor0320.translation" corresp="#zoor0320.transcription">
             <p>... Be of good cheer?</p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="zoor0320-1" xml:lang="grc">ΜΟ</w> <w xml:id="zoor0320-2" xml:lang="grc">ΠΑΚΑΓ</w> <w xml:id="zoor0320-3" xml:lang="grc">Θάρσι</w> <w xml:id="zoor0320-4" xml:lang="grc">Θάρσει</w></p>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="zoor0320-1" xml:lang="grc">Θάρσι</w> <w xml:id="zoor0320-2" xml:lang="grc">Θάρσει</w></p>
 </div>
 </body>
       <back>

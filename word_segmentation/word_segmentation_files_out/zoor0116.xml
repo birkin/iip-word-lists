@@ -138,12 +138,12 @@
                </choice>
                <lb/> Φασέλη<lb/>
                <unclear>Π</unclear>αρθε<unclear>ν</unclear>ίου,<lb/>
-               <unclear>ἀπ</unclear>οθανοῦ<lb break="no"/>σα ἐτῶν θʹ,<lb/> ἐν <choice>
+               <unclear>ἀπ</unclear>οθανοῦ<lb break="no"/>σα ἐτῶν <num>θʹ</num>,<lb/> ἐν <choice>
                   <orig>ἔτι</orig>
                   <reg>ἔτει</reg>
-               </choice> τιβʹ,<lb/> ἐν <expan><abbr>μη</abbr><ex>νὶ</ex></expan> Δύσ<lb break="no"/>τρου ιʹ, έν<lb/>
+               </choice> <num>τιβʹ</num>,<lb/> ἐν <expan><abbr>μη</abbr><ex>νὶ</ex></expan> Δύσ<lb break="no"/>τρου <num>ιʹ</num>, έν<lb/>
                <expan><abbr>ἡμ</abbr><ex>έρᾳ</ex></expan>
-               <expan><abbr>Κυ</abbr><ex>ρίου</ex></expan> αʹ.<lb/>
+               <expan><abbr>Κυ</abbr><ex>ρίου</ex></expan> <num>αʹ</num>.<lb/>
                <expan><abbr><unclear>Χ</unclear></abbr><ex>ριστ</ex><abbr><unclear>έ</unclear></abbr></expan>, ἀνἀπ<lb break="no"/><unclear>α</unclear>υσον.</p>
          </div>
          <div type="translation" ana="#b1" xml:id="zoor0116.translation" corresp="#zoor0116.transcription">
@@ -151,7 +151,7 @@
                     age) of 9 years, in (the) year 312, on (the) 10th (day) of (the) month Dystros,
                     on (the) 1st day of (the) Lord (Sunday). Christ, give (her) rest.</p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="zoor0116-1" xml:lang="grc">Εἷς</w> <w xml:id="zoor0116-2" xml:lang="grc">Θεός</w><w xml:id="zoor0116-3" xml:lang="grc">Μνημεῖον</w> <w xml:id="zoor0116-4" xml:lang="grc">Φασέλη</w> <w xml:id="zoor0116-5" xml:lang="grc">Παρθενίου</w> <w xml:id="zoor0116-6" xml:lang="grc">ἀποθανοῦσα</w> <w xml:id="zoor0116-7" xml:lang="grc">ἐτῶν</w> <w xml:id="zoor0116-8" xml:lang="grc">θ</w> <w xml:id="zoor0116-9" xml:lang="grc">ἐν</w> <w xml:id="zoor0116-10" xml:lang="grc">ἔτει</w> <w xml:id="zoor0116-11" xml:lang="grc">τιβ</w> <w xml:id="zoor0116-12" xml:lang="grc">ἐν</w><w xml:id="zoor0116-13" xml:lang="grc"><expan><abbr>μη</abbr><ex>νὶ</ex></expan></w><w xml:id="zoor0116-14" xml:lang="grc">Δύστρου</w> <w xml:id="zoor0116-15" xml:lang="grc">ι</w> <w xml:id="zoor0116-16" xml:lang="grc">έν</w><w xml:id="zoor0116-17" xml:lang="grc"><expan><abbr>ἡμ</abbr><ex>έρᾳ</ex></expan></w><w xml:id="zoor0116-18" xml:lang="grc"><expan><abbr>Κυ</abbr><ex>ρίου</ex></expan></w><w xml:id="zoor0116-19" xml:lang="grc">α</w><w xml:id="zoor0116-20" xml:lang="grc"><expan><abbr>Χ</abbr><ex>ριστ</ex><abbr>έ</abbr></expan></w><w xml:id="zoor0116-21" xml:lang="grc">ἀνἀπαυσον</w></p>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="zoor0116-1" xml:lang="grc">Εἷς</w> <w xml:id="zoor0116-2" xml:lang="grc">Θεός</w><w xml:id="zoor0116-3" xml:lang="grc">Μνημεῖον</w> <w xml:id="zoor0116-4" xml:lang="grc">Φασέλη</w> <w xml:id="zoor0116-5" xml:lang="grc">Παρθενίου</w> <w xml:id="zoor0116-6" xml:lang="grc">ἀποθανοῦσα</w> <w xml:id="zoor0116-7" xml:lang="grc">ἐτῶν</w><w xml:id="zoor0116-8" xml:lang="grc"><num>θʹ</num></w><w xml:id="zoor0116-9" xml:lang="grc">ἐν</w> <w xml:id="zoor0116-10" xml:lang="grc">ἔτει</w><w xml:id="zoor0116-11" xml:lang="grc"><num>τιβʹ</num></w><w xml:id="zoor0116-12" xml:lang="grc">ἐν</w><w xml:id="zoor0116-13" xml:lang="grc"><expan><abbr>μη</abbr><ex>νὶ</ex></expan></w><w xml:id="zoor0116-14" xml:lang="grc">Δύστρου</w><w xml:id="zoor0116-15" xml:lang="grc"><num>ιʹ</num></w><w xml:id="zoor0116-16" xml:lang="grc">έν</w><w xml:id="zoor0116-17" xml:lang="grc"><expan><abbr>ἡμ</abbr><ex>έρᾳ</ex></expan></w><w xml:id="zoor0116-18" xml:lang="grc"><expan><abbr>Κυ</abbr><ex>ρίου</ex></expan></w><w xml:id="zoor0116-19" xml:lang="grc"><num>αʹ</num></w><w xml:id="zoor0116-20" xml:lang="grc"><expan><abbr>Χ</abbr><ex>ριστ</ex><abbr>έ</abbr></expan></w><w xml:id="zoor0116-21" xml:lang="grc">ἀνἀπαυσον</w></p>
 </div>
 </body>
       <back>

@@ -118,12 +118,12 @@
    <text>
       <body>
          <div type="edition" ana="#b1" xml:lang="grc" subtype="transcription" xml:id="carm0015.transcription" corresp="#carm0015.translation">
-            <p>Μνί<lb/>νου <lb/>γρά<lb/>μμα</p>
+            <p>Μνί<lb break="no"/>νου <lb/>γρά<lb break="no"/>μμα</p>
          </div>
          <div type="translation" ana="#b1" xml:id="carm0015.translation" corresp="#carm0015.transcription">
             <p>Mninos Gramma </p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="carm0015-1" xml:lang="grc">Μνί</w> <w xml:id="carm0015-2" xml:lang="grc">νου</w> <w xml:id="carm0015-3" xml:lang="grc">γρά</w> <w xml:id="carm0015-4" xml:lang="grc">μμα</w></p>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="carm0015-1" xml:lang="grc">Μνίνου</w> <w xml:id="carm0015-2" xml:lang="grc">γράμμα</w></p>
 </div>
 </body>
       <back>

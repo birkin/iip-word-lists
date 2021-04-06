@@ -118,12 +118,12 @@
                <gap reason="lost" unit="character" extent="unknown"/>
                <lb/>
                <gap reason="illegible" unit="line" quantity="1"/>
-               <lb/>Ασδ<lb/>ομν<lb/>ίνου</p>
+               <lb/>Ἀσδ<lb break="no"/>ομν<lb break="no"/>ίνου</p>
          </div>
          <div type="translation" ana="#b1" xml:id="carm0018.translation" corresp="#carm0018.transcription">
             <p>...Asdomninos</p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="carm0018-1" xml:lang="grc">Ασδ</w> <w xml:id="carm0018-2" xml:lang="grc">ομν</w> <w xml:id="carm0018-3" xml:lang="grc">ίνου</w></p>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="carm0018-1" xml:lang="grc">Ἀσδομνίνου</w></p>
 </div>
 </body>
       <back>

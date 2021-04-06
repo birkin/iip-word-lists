@@ -125,15 +125,15 @@
                <lb/>
                <choice><sic>Κοζμᾶς</sic><corr>Κοσμᾶς</corr></choice>
                <lb/>
-               <choice><sic>Ἀβδαμόχ<lb/>οσυ</sic><corr>Ἀβδαμόχου</corr></choice>, <choice><sic>Πετρέ<lb/>ος</sic><corr>Πετραίος</corr></choice>, <choice><sic>ὀποθ<lb/>ανόντο<lb/>
+               <choice><sic>Ἀβδαμόχ<lb break="no"/>οσυ</sic><corr>Ἀβδαμόχου</corr></choice>, <choice><sic>Πετρέ<lb break="no"/>ος</sic><corr>Πετραίος</corr></choice>, <choice><sic>ὀποθ<lb break="no"/>ανόντο<lb/>
                      <unclear>ς</unclear><unclear>ἐτ</unclear>ῶν</sic><corr>ἀποθανόντος</corr></choice>
-               <lb/> μʹ. </p>
+               <lb/> <num>μʹ</num>. </p>
          </div>
          <div type="translation" ana="#b1" xml:id="zoor0279.translation" corresp="#zoor0279.transcription">
             <p> Monument of Kosmas, (son) of Abdamochos, from Petra, who died (at the age) of 40
                     years. </p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="zoor0279-1" xml:lang="grc">Μνημεῖον</w> <w xml:id="zoor0279-2" xml:lang="grc">Κοσμᾶς</w> <w xml:id="zoor0279-3" xml:lang="grc">Ἀβδαμόχου</w> <w xml:id="zoor0279-4" xml:lang="grc">Πετραίος</w> <w xml:id="zoor0279-5" xml:lang="grc">ὀποθ</w> <w xml:id="zoor0279-6" xml:lang="grc">ανόντο</w> <w xml:id="zoor0279-7" xml:lang="grc">ςἐτῶνἀποθανόντος</w> <w xml:id="zoor0279-8" xml:lang="grc">μ</w></p>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="zoor0279-1" xml:lang="grc">Μνημεῖον</w> <w xml:id="zoor0279-2" xml:lang="grc">Κοσμᾶς</w> <w xml:id="zoor0279-3" xml:lang="grc">Ἀβδαμόχου</w> <w xml:id="zoor0279-4" xml:lang="grc">Πετραίος</w> <w xml:id="zoor0279-5" xml:lang="grc">ὀποθανόντο</w> <w xml:id="zoor0279-6" xml:lang="grc">ςἐτῶνἀποθανόντος</w><w xml:id="zoor0279-7" xml:lang="grc"><num>μʹ</num></w></p>
 </div>
 </body>
       <back>

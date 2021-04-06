@@ -127,17 +127,12 @@
                 </p>
          </div>
          <div type="edition" ana="#b1" subtype="transcription" xml:id="elal0002.transcription" corresp="#elal0002.diplomatic #elal0002.translation">
-            <p>
-                    θάρσι <lb/>
-                    Γαία <lb/>
-                    ἐτῶν <lb/>
-                    ι´
-                </p>
+            <p> θάρσι <lb/> Γαία <lb/> ἐτῶν <lb/><num> ι´ </num></p>
          </div>
          <div type="translation" ana="#b1" xml:id="elal0002.translation" corresp="#elal0002.diplomatic #elal0002.transcription">
             <p> Be of good courage, Gaia! Ten years old.</p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="elal0002-1" xml:lang="grc">θάρσι</w> <w xml:id="elal0002-2" xml:lang="grc">Γαία</w> <w xml:id="elal0002-3" xml:lang="grc">ἐτῶν</w> <w xml:id="elal0002-4" xml:lang="grc">ι´</w></p>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="elal0002-1" xml:lang="grc">θάρσι</w> <w xml:id="elal0002-2" xml:lang="grc">Γαία</w> <w xml:id="elal0002-3" xml:lang="grc">ἐτῶν</w><w xml:id="elal0002-4" xml:lang="grc"><num> ι´ </num></w></p>
 </div>
 </body>
       <back>

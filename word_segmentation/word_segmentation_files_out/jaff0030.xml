@@ -183,11 +183,10 @@
                 <p/>
             </div>
             <div type="edition" subtype="transcription" ana="b1">
-                <p>Ἀλαφθα
-                <lb/>υἱὸς ᾽Υανα<lb break="no"/>
-               <foreign xml:lang="heb"><expan><abbr>א</abbr><ex>מן</ex></expan></foreign>
-               <foreign xml:lang="heb"><expan><abbr>ש</abbr><ex>לום</ex></expan></foreign>
-            </p>
+                <p>Ἀλαφθα <lb/>υἱὸς Ὑανα<lb break="no"/>
+                    <foreign xml:lang="heb"><expan><abbr>א</abbr><ex>מן</ex></expan></foreign>
+                    <foreign xml:lang="heb"><expan><abbr>ש</abbr><ex>לום</ex></expan></foreign>
+                </p>
             </div>
             <div type="translation" ana="b1">
                 <p>Halafta, son of Yanados. Amen. Peace.</p>
@@ -200,7 +199,7 @@
                     the noun declinable, with an incorrect use of the nominative instead of the
                     genitive case.<lb/>The two Hebrew letters serve also a decorative purpose. </p>
             </div>
-        <div type="edition" subtype="transcription_segmented"><p><w xml:id="jaff0030-1" xml:lang="grc">Ἀλαφθα</w> <w xml:id="jaff0030-2" xml:lang="grc">υἱὸς</w> <w xml:id="jaff0030-3" xml:lang="grc">᾽Υανα</w></p>
+        <div type="edition" subtype="transcription_segmented"><p><w xml:id="jaff0030-1" xml:lang="grc">Ἀλαφθα</w> <w xml:id="jaff0030-2" xml:lang="grc">υἱὸς</w> <w xml:id="jaff0030-3" xml:lang="grc">Ὑανα</w></p>
 </div>
 </body>
         <back>

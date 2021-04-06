@@ -116,20 +116,17 @@
          <div type="edition" ana="#b1" xml:lang="grc" subtype="transcription" xml:id="zoor0025.transcription" corresp="#zoor0025.translation">
             <p>
                <choice><sic>Μνημῖον</sic><corr>μνημεῖον</corr></choice>
-               <choice><sic>Δομετ<lb/>τίου</sic><corr>Δομιτίου</corr></choice> Παύλου, ἀπο<lb/>θανόντος
-                        <choice><sic>ἐτῶ<unclear>ν</unclear>
-                     <lb/>ν</sic><corr>ἐτῶν</corr></choice> λεʹ, <expan><abbr>ἔτ</abbr><ex>ους</ex></expan>
-                    σξαʹ, <choice><sic>μ<unclear>η</unclear>
-                     <lb/>νὶ</sic><corr>μηνός</corr></choice> Λῴου δκʹ, ἡμέ<lb/>ᾳ Κρόνου. <choice><sic>Θάρ<lb/>σι</sic><corr>θάρσει</corr></choice>
-               <choice><sic>οὐδὶς</sic><corr>οὐδείς</corr></choice> ἀθάν<unclear>α</unclear>
-               <lb/>τος.</p>
+               <choice><sic>Δομετ<lb break="no"/>τίου</sic><corr>Δομιτίου</corr></choice> Παύλου, ἀπο<lb break="no"/>θανόντος
+                        <choice><sic>ἐτῶ<unclear>ν</unclear><lb break="no"/>ν</sic><corr>ἐτῶν</corr></choice> <num>λεʹ</num>, <expan><abbr>ἔτ</abbr><ex>ους</ex></expan>
+               <num>σξαʹ</num>, <choice><sic>μ<unclear>η</unclear><lb break="no"/>νὶ</sic><corr>μηνός</corr></choice> Λῴου <num>δκʹ</num>, ἡμέ<lb break="no"/>ᾳ Κρόνου. <choice><sic>Θάρ<lb/>σι</sic><corr>θάρσει</corr></choice>
+               <choice><sic>οὐδὶς</sic><corr>οὐδείς</corr></choice> ἀθάν<unclear>α</unclear><lb break="no"/>τος.</p>
          </div>
          <div type="translation" ana="#b1" xml:id="zoor0025.translation" corresp="#zoor0025.transcription">
             <p>Monument of Dometios (Domitius), (son) of Paulus, who died (at the age) of 35
                     years, in (the) year 261, on (the) 24th (day) of (the) month Loos, on (the) day
                     of Saturn (Saturday). Be of good cheer, no one (is) immortal.</p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="zoor0025-1" xml:lang="grc">μνημεῖον</w> <w xml:id="zoor0025-2" xml:lang="grc">Δομιτίου</w> <w xml:id="zoor0025-3" xml:lang="grc">Παύλου</w> <w xml:id="zoor0025-4" xml:lang="grc">ἀπο</w> <w xml:id="zoor0025-5" xml:lang="grc">θανόντος</w> <w xml:id="zoor0025-6" xml:lang="grc">ἐτῶν</w> <w xml:id="zoor0025-7" xml:lang="grc">νἐτῶν</w> <w xml:id="zoor0025-8" xml:lang="grc">λε</w><w xml:id="zoor0025-9" xml:lang="grc"><expan><abbr>ἔτ</abbr><ex>ους</ex></expan></w><w xml:id="zoor0025-10" xml:lang="grc">σξα</w> <w xml:id="zoor0025-11" xml:lang="grc">μη</w> <w xml:id="zoor0025-12" xml:lang="grc">νὶμηνός</w> <w xml:id="zoor0025-13" xml:lang="grc">Λῴου</w> <w xml:id="zoor0025-14" xml:lang="grc">δκ</w> <w xml:id="zoor0025-15" xml:lang="grc">ἡμέ</w> <w xml:id="zoor0025-16" xml:lang="grc">ᾳ</w> <w xml:id="zoor0025-17" xml:lang="grc">Κρόνου</w> <w xml:id="zoor0025-18" xml:lang="grc">θάρσει</w> <w xml:id="zoor0025-19" xml:lang="grc">οὐδείς</w> <w xml:id="zoor0025-20" xml:lang="grc">ἀθάνα</w> <w xml:id="zoor0025-21" xml:lang="grc">τος</w></p>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="zoor0025-1" xml:lang="grc">μνημεῖον</w> <w xml:id="zoor0025-2" xml:lang="grc">Δομιτίου</w> <w xml:id="zoor0025-3" xml:lang="grc">Παύλου</w> <w xml:id="zoor0025-4" xml:lang="grc">ἀποθανόντος</w> <w xml:id="zoor0025-5" xml:lang="grc">ἐτῶν</w><w xml:id="zoor0025-6" xml:lang="grc"><num>λεʹ</num></w><w xml:id="zoor0025-7" xml:lang="grc"><expan><abbr>ἔτ</abbr><ex>ους</ex></expan></w><w xml:id="zoor0025-8" xml:lang="grc"><num>σξαʹ</num></w><w xml:id="zoor0025-9" xml:lang="grc">μηνός</w> <w xml:id="zoor0025-10" xml:lang="grc">Λῴου</w><w xml:id="zoor0025-11" xml:lang="grc"><num>δκʹ</num></w><w xml:id="zoor0025-12" xml:lang="grc">ἡμέᾳ</w> <w xml:id="zoor0025-13" xml:lang="grc">Κρόνου</w> <w xml:id="zoor0025-14" xml:lang="grc">θάρσει</w> <w xml:id="zoor0025-15" xml:lang="grc">οὐδείς</w> <w xml:id="zoor0025-16" xml:lang="grc">ἀθάνατος</w></p>
 </div>
 </body>
       <back>

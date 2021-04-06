@@ -118,12 +118,12 @@
    <text>
       <body>
          <div type="edition" ana="#b1" xml:lang="grc" subtype="transcription" xml:id="carm0012.transcription" corresp="#carm0012.translation">
-            <p>Κονο <lb/>Γράμ<lb/>μα</p>
+            <p>Κονο <lb/>Γράμ<lb break="no"/>μα</p>
          </div>
          <div type="translation" ana="#b1" xml:id="carm0012.translation" corresp="#carm0012.transcription">
             <p>... Kono Gramma</p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="carm0012-1" xml:lang="grc">Κονο</w> <w xml:id="carm0012-2" xml:lang="grc">Γράμ</w> <w xml:id="carm0012-3" xml:lang="grc">μα</w></p>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="carm0012-1" xml:lang="grc">Κονο</w> <w xml:id="carm0012-2" xml:lang="grc">Γράμμα</w></p>
 </div>
 </body>
       <back>

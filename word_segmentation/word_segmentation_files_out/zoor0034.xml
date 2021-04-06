@@ -119,15 +119,15 @@
       <body>
          <div type="edition" ana="#b1" xml:lang="grc" subtype="transcription" xml:id="zoor0034.transcription" corresp="#zoor0034.translation">
             <p>+<lb/>
-               <choice><sic>Μνημῖον</sic><corr>μνημεῖον</corr></choice> Ὀμ<lb/>μαβίης Σιλα<lb/>νοῦ, τελευτη<lb/>σάσης
-                    ἐτῶν<lb/> ιγʹ, ἐν <choice><sic>ἔτι</sic><corr>ἔτει</corr></choice> σοʹ.<lb/>
+               <choice><sic>Μνημῖον</sic><corr>μνημεῖον</corr></choice> Ὀμ<lb break="no"/>μαβίης Σιλα<lb break="no"/>νοῦ, τελευτη<lb break="no"/>σάσης
+                    ἐτῶν<lb/> <num>ιγʹ</num>, ἐν <choice><sic>ἔτι</sic><corr>ἔτει</corr></choice> <num>σοʹ</num>.<lb/>
                <choice><sic>Θάρσι</sic><corr>Θάρσει</corr></choice>, οὐδεὶς<lb/> ἀθάνατος.<lb/> +</p>
          </div>
          <div type="translation" ana="#b1" xml:id="zoor0034.translation" corresp="#zoor0034.transcription">
             <p>Monument of Ommabie, (daughter) of Silanus, who died (at the age) of 13 years, in
                     the year 270. Be of good cheer, no on (is) immortal.</p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="zoor0034-1" xml:lang="grc">μνημεῖον</w> <w xml:id="zoor0034-2" xml:lang="grc">Ὀμ</w> <w xml:id="zoor0034-3" xml:lang="grc">μαβίης</w> <w xml:id="zoor0034-4" xml:lang="grc">Σιλα</w> <w xml:id="zoor0034-5" xml:lang="grc">νοῦ</w> <w xml:id="zoor0034-6" xml:lang="grc">τελευτη</w> <w xml:id="zoor0034-7" xml:lang="grc">σάσης</w> <w xml:id="zoor0034-8" xml:lang="grc">ἐτῶν</w> <w xml:id="zoor0034-9" xml:lang="grc">ιγ</w> <w xml:id="zoor0034-10" xml:lang="grc">ἐν</w> <w xml:id="zoor0034-11" xml:lang="grc">ἔτει</w> <w xml:id="zoor0034-12" xml:lang="grc">σο</w> <w xml:id="zoor0034-13" xml:lang="grc">Θάρσει</w> <w xml:id="zoor0034-14" xml:lang="grc">οὐδεὶς</w> <w xml:id="zoor0034-15" xml:lang="grc">ἀθάνατος</w></p>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="zoor0034-1" xml:lang="grc">μνημεῖον</w> <w xml:id="zoor0034-2" xml:lang="grc">Ὀμμαβίης</w> <w xml:id="zoor0034-3" xml:lang="grc">Σιλανοῦ</w> <w xml:id="zoor0034-4" xml:lang="grc">τελευτησάσης</w> <w xml:id="zoor0034-5" xml:lang="grc">ἐτῶν</w><w xml:id="zoor0034-6" xml:lang="grc"><num>ιγʹ</num></w><w xml:id="zoor0034-7" xml:lang="grc">ἐν</w> <w xml:id="zoor0034-8" xml:lang="grc">ἔτει</w><w xml:id="zoor0034-9" xml:lang="grc"><num>σοʹ</num></w><w xml:id="zoor0034-10" xml:lang="grc">Θάρσει</w> <w xml:id="zoor0034-11" xml:lang="grc">οὐδεὶς</w> <w xml:id="zoor0034-12" xml:lang="grc">ἀθάνατος</w></p>
 </div>
 </body>
       <back>

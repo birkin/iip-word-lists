@@ -115,14 +115,13 @@
             <p>ΑΒΟΥΣ<lb/>ΖΕΗΡΑ<lb/>ΣΕΖΗ<lb/>ΕΤΩΝ<lb/>Ο</p>
          </div>
          <div type="edition" ana="#b1" subtype="transcription" xml:id="khus0001.transcription" corresp="#khus0001.diplomatic #khus0001.translation">
-            <p>Αβους <lb/> Ζεηρα<lb/>ς ἔζη <lb/> ἐτῶν <lb/> ό
-				</p>
+            <p>Ἀβους <lb/> Ζεηρα<lb break="no"/>ς ἔζη <lb/> ἐτῶν <lb/> <num value="70">ο</num> </p>
          </div>
          <div type="translation" ana="#b1" xml:id="khus0001.translation" corresp="#khus0001.diplomatic #khus0001.transcription">
             <p>Abous Zeeras. He lived seventy years.
 				</p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="khus0001-1" xml:lang="grc">Αβους</w> <w xml:id="khus0001-2" xml:lang="grc">Ζεηρα</w> <w xml:id="khus0001-3" xml:lang="grc">ς</w> <w xml:id="khus0001-4" xml:lang="grc">ἔζη</w> <w xml:id="khus0001-5" xml:lang="grc">ἐτῶν</w> <w xml:id="khus0001-6" xml:lang="grc">ό</w></p>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="khus0001-1" xml:lang="grc">Ἀβους</w> <w xml:id="khus0001-2" xml:lang="grc">Ζεηρας</w> <w xml:id="khus0001-3" xml:lang="grc">ἔζη</w> <w xml:id="khus0001-4" xml:lang="grc">ἐτῶν</w><w xml:id="khus0001-5" xml:lang="grc"><num value="70">ο</num></w></p>
 </div>
 </body>
       <back>

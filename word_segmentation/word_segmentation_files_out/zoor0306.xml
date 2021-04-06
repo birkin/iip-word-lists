@@ -125,16 +125,14 @@
    <text>
       <body>
          <div type="edition" ana="#b1" xml:lang="grc" subtype="transcription" xml:id="zoor0306.transcription" corresp="#zoor0306.translation">
-            <p>+ + + + + <lb/>Εἷς Θεός ὁ μ<lb/>όνος. <choice><sic>Μνημῖ<lb/>ον</sic><corr>Μνημεῖον</corr></choice>
-                    Πέτρου Ζα<lb/>ννούρου, ἀπ<lb/>οθανόντος<lb/>
+            <p>+ + + + + <lb/>Εἷς Θεός ὁ μ<lb break="no"/>όνος. <choice><sic>Μνημῖ<lb break="no"/>ον</sic><corr>Μνημεῖον</corr></choice>
+               Πέτρου Ζα<lb break="no"/>ννούρου, ἀπ<lb break="no"/>οθανόντος<lb/>
                <unclear>μ</unclear>ε<unclear>τὰ</unclear>
                <choice><sic>καδοῦ</sic><corr>καλοῦ</corr></choice> ὀ<lb/>
-               <supplied reason="undefined">νόμ</supplied>
-               <unclear>α</unclear>τος καὶ<lb/>
+               <supplied reason="undefined">νόμ</supplied><unclear>α</unclear>τος καὶ<lb/>
                <supplied reason="undefined">καλῆς</supplied>
-               <unclear>π</unclear>ίστε<lb/>
-               <supplied reason="undefined">ως</supplied> <supplied reason="undefined">ἐτῶν</supplied>
-               <unclear>κ</unclear>ηʹ,<lb/>
+               <unclear>π</unclear>ίστε<lb/><supplied reason="undefined">ως</supplied> <supplied reason="undefined">ἐτῶν</supplied>
+               <num><unclear>κ</unclear>ηʹ</num>,<lb/>
                <gap reason="illegible" unit="line" quantity="5"/>
             </p>
          </div>
@@ -142,7 +140,7 @@
             <p>God (is) One (and) the Only (One). Monument of Petros, (son) of Zannouros, who
                     died having a good name and [good] faith, (at the age of) 28 [years]...</p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="zoor0306-1" xml:lang="grc">Εἷς</w> <w xml:id="zoor0306-2" xml:lang="grc">Θεός</w> <w xml:id="zoor0306-3" xml:lang="grc">ὁ</w> <w xml:id="zoor0306-4" xml:lang="grc">μ</w> <w xml:id="zoor0306-5" xml:lang="grc">όνος</w> <w xml:id="zoor0306-6" xml:lang="grc">Μνημεῖον</w> <w xml:id="zoor0306-7" xml:lang="grc">Πέτρου</w> <w xml:id="zoor0306-8" xml:lang="grc">Ζα</w> <w xml:id="zoor0306-9" xml:lang="grc">ννούρου</w> <w xml:id="zoor0306-10" xml:lang="grc">ἀπ</w> <w xml:id="zoor0306-11" xml:lang="grc">οθανόντος</w> <w xml:id="zoor0306-12" xml:lang="grc">μετὰ</w> <w xml:id="zoor0306-13" xml:lang="grc">καλοῦ</w> <w xml:id="zoor0306-14" xml:lang="grc">ὀ</w><w xml:id="zoor0306-15" xml:lang="grc"><supplied reason="undefined">νόμ</supplied></w><w xml:id="zoor0306-16" xml:lang="grc">ατος</w> <w xml:id="zoor0306-17" xml:lang="grc">καὶ</w><w xml:id="zoor0306-18" xml:lang="grc"><supplied reason="undefined">καλῆς</supplied></w><w xml:id="zoor0306-19" xml:lang="grc">πίστε</w><w xml:id="zoor0306-20" xml:lang="grc"><supplied reason="undefined">ως</supplied></w><w xml:id="zoor0306-21" xml:lang="grc"><supplied reason="undefined">ἐτῶν</supplied></w><w xml:id="zoor0306-22" xml:lang="grc">κη</w></p>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="zoor0306-1" xml:lang="grc">Εἷς</w> <w xml:id="zoor0306-2" xml:lang="grc">Θεός</w> <w xml:id="zoor0306-3" xml:lang="grc">ὁ</w> <w xml:id="zoor0306-4" xml:lang="grc">μόνος</w> <w xml:id="zoor0306-5" xml:lang="grc">Μνημεῖον</w> <w xml:id="zoor0306-6" xml:lang="grc">Πέτρου</w> <w xml:id="zoor0306-7" xml:lang="grc">Ζαννούρου</w> <w xml:id="zoor0306-8" xml:lang="grc">ἀποθανόντος</w> <w xml:id="zoor0306-9" xml:lang="grc">μετὰ</w> <w xml:id="zoor0306-10" xml:lang="grc">καλοῦ</w> <w xml:id="zoor0306-11" xml:lang="grc">ὀ</w><w xml:id="zoor0306-12" xml:lang="grc"><supplied reason="undefined">νόμ</supplied></w><w xml:id="zoor0306-13" xml:lang="grc">ατος</w> <w xml:id="zoor0306-14" xml:lang="grc">καὶ</w><w xml:id="zoor0306-15" xml:lang="grc"><supplied reason="undefined">καλῆς</supplied></w><w xml:id="zoor0306-16" xml:lang="grc">πίστε</w><w xml:id="zoor0306-17" xml:lang="grc"><supplied reason="undefined">ως</supplied></w><w xml:id="zoor0306-18" xml:lang="grc"><supplied reason="undefined">ἐτῶν</supplied></w><w xml:id="zoor0306-19" xml:lang="grc"><num>κηʹ</num></w></p>
 </div>
 </body>
       <back>

@@ -147,17 +147,19 @@
                <lb/>
                <expan><abbr>μν</abbr><ex>η</ex><abbr>σ</abbr><ex>θῇ</ex></expan>
                <lb/> ὁ <expan><abbr><unclear>πρ</unclear>ε</abbr><ex>σβύτερος</ex></expan>
-               <lb/> Αλαφ<gap reason="illegible" quantity="3" unit="character"/>
                <lb/>
-               ο<gap reason="illegible" unit="character" quantity="3"/>αχ<lb/>
-               <gap reason="illegible" unit="character" quantity="5"/>ε<lb/>
+               <orig>Ἀλαφ</orig><gap reason="illegible" quantity="3" unit="character"/>
+               <lb/><orig> ο<gap reason="illegible" unit="character" quantity="3"/>αχ</orig><lb/>
+               <gap reason="illegible" unit="character" quantity="5"/><orig>ε</orig><lb/>
                <gap reason="illegible" unit="character" quantity="1"/>
-					απλετβ <lb/> ΩΑ</p>
+               <orig>απλετβ</orig>
+               <lb/>
+               <orig>ΩΑ</orig></p>
          </div>
          <div type="translation" ana="#b1" xml:id="akas0002.translation" corresp="#akas0002.diplomatic #akas0002.transcription">
             <p>Remember the presbyter Alaph...</p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="akas0002-1" xml:lang="grc"><expan><abbr>μν</abbr><ex>η</ex><abbr>σ</abbr><ex>θῇ</ex></expan></w><w xml:id="akas0002-2" xml:lang="grc">ὁ</w><w xml:id="akas0002-3" xml:lang="grc"><expan><abbr>πρε</abbr><ex>σβύτερος</ex></expan></w><w xml:id="akas0002-4" xml:lang="grc">Αλαφ</w> <w xml:id="akas0002-5" xml:lang="grc">οαχ</w> <w xml:id="akas0002-6" xml:lang="grc">ε</w> <w xml:id="akas0002-7" xml:lang="grc">απλετβ</w> <w xml:id="akas0002-8" xml:lang="grc">ΩΑ</w></p>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="akas0002-1" xml:lang="grc"><expan><abbr>μν</abbr><ex>η</ex><abbr>σ</abbr><ex>θῇ</ex></expan></w><w xml:id="akas0002-2" xml:lang="grc">ὁ</w><w xml:id="akas0002-3" xml:lang="grc"><expan><abbr>πρε</abbr><ex>σβύτερος</ex></expan></w></p>
 </div>
 </body>
       <back>

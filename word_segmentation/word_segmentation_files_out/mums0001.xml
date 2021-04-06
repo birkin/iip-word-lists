@@ -123,19 +123,12 @@
          </div>
          <div type="edition" ana="#b1" subtype="transcription" xml:id="mums0001.transcription" corresp="#mums0001.diplomatic #mums0001.translation">
             <p>
-               <unclear>Α</unclear>λλ<lb/>
-                    ουφ<lb/>
-                    ου δ<unclear>ι</unclear>
-               <lb/>
-                    ακώ<unclear>ν</unclear>
-               <lb/>
-                    ου
-                </p>
+               <gap reason="lost" extent="unknown"/><unclear>Ἀ</unclear>λλ<lb break="no"/>ουφ<lb break="no"/>ου δ<unclear>ι</unclear><lb break="no"/>ακώ<unclear>ν</unclear><lb break="no"/>ου </p>
          </div>
          <div type="translation" ana="#b1" xml:id="mums0001.translation" corresp="#mums0001.diplomatic #mums0001.transcription">
             <p>...of Allouphos(?) (the) deacon</p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="mums0001-1" xml:lang="grc">Αλλ</w> <w xml:id="mums0001-2" xml:lang="grc">ουφ</w> <w xml:id="mums0001-3" xml:lang="grc">ου</w> <w xml:id="mums0001-4" xml:lang="grc">δι</w> <w xml:id="mums0001-5" xml:lang="grc">ακών</w> <w xml:id="mums0001-6" xml:lang="grc">ου</w></p>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="mums0001-1" xml:lang="grc">Ἀλλουφου</w> <w xml:id="mums0001-2" xml:lang="grc">διακώνου</w></p>
 </div>
 </body>
       <back>

@@ -110,7 +110,7 @@
       <body>
          <div type="edition" ana="#b1" xml:lang="grc" subtype="transcription" xml:id="zoor0297.transcription" corresp="#zoor0297.translation">
             <p>Εὔψυχος ἴσθι<lb/>
-               <choice><sic>Καλπούρνι</sic><corr>Καλπούρνιε</corr></choice>, φίλων<lb/> ἁπάντων λύπη<lb/> καὶ <choice><sic>γομέων</sic><corr>γονέων</corr></choice> δά<lb/>κρυον. <choice><sic>Θάρσι</sic><corr>Θάρσει</corr></choice>,
+               <choice><sic>Καλπούρνι</sic><corr>Καλπούρνιε</corr></choice>, φίλων<lb/> ἁπάντων λύπη<lb/> καὶ <choice><sic>γομέων</sic><corr>γονέων</corr></choice> δά<lb break="no"/>κρυον. <choice><sic>Θάρσι</sic><corr>Θάρσει</corr></choice>,
                         <choice><sic>Καλ<lb/>πούρνι</sic><corr>Καλπούρνιε</corr></choice>, <choice><sic>ζήσασας</sic><corr>ζήσας</corr></choice>
                <lb/> ἔτη <num value="30">λʹ</num>.</p>
          </div>
@@ -119,7 +119,7 @@
                     friends and tear(s) to (your) parents. Be of good cheer, Calpurnius, who lived
                     30 years.</p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="zoor0297-1" xml:lang="grc">Εὔψυχος</w> <w xml:id="zoor0297-2" xml:lang="grc">ἴσθι</w> <w xml:id="zoor0297-3" xml:lang="grc">Καλπούρνιε</w> <w xml:id="zoor0297-4" xml:lang="grc">φίλων</w> <w xml:id="zoor0297-5" xml:lang="grc">ἁπάντων</w> <w xml:id="zoor0297-6" xml:lang="grc">λύπη</w> <w xml:id="zoor0297-7" xml:lang="grc">καὶ</w> <w xml:id="zoor0297-8" xml:lang="grc">γονέων</w> <w xml:id="zoor0297-9" xml:lang="grc">δά</w> <w xml:id="zoor0297-10" xml:lang="grc">κρυον</w> <w xml:id="zoor0297-11" xml:lang="grc">Θάρσει</w> <w xml:id="zoor0297-12" xml:lang="grc">Καλπούρνιε</w> <w xml:id="zoor0297-13" xml:lang="grc">ζήσας</w> <w xml:id="zoor0297-14" xml:lang="grc">ἔτη</w><w xml:id="zoor0297-15" xml:lang="grc"><num value="30">λʹ</num></w></p>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="zoor0297-1" xml:lang="grc">Εὔψυχος</w> <w xml:id="zoor0297-2" xml:lang="grc">ἴσθι</w> <w xml:id="zoor0297-3" xml:lang="grc">Καλπούρνιε</w> <w xml:id="zoor0297-4" xml:lang="grc">φίλων</w> <w xml:id="zoor0297-5" xml:lang="grc">ἁπάντων</w> <w xml:id="zoor0297-6" xml:lang="grc">λύπη</w> <w xml:id="zoor0297-7" xml:lang="grc">καὶ</w> <w xml:id="zoor0297-8" xml:lang="grc">γονέων</w> <w xml:id="zoor0297-9" xml:lang="grc">δάκρυον</w> <w xml:id="zoor0297-10" xml:lang="grc">Θάρσει</w> <w xml:id="zoor0297-11" xml:lang="grc">Καλπούρνιε</w> <w xml:id="zoor0297-12" xml:lang="grc">ζήσας</w> <w xml:id="zoor0297-13" xml:lang="grc">ἔτη</w><w xml:id="zoor0297-14" xml:lang="grc"><num value="30">λʹ</num></w></p>
 </div>
 </body>
       <back>

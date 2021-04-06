@@ -154,8 +154,8 @@
                <choice>
                   <orig>ἠτῶν</orig>
                   <reg>ἐτῶν</reg>
-               </choice> καʹ, ἔτου<lb break="no"/>ς τμδʹ, <expan><abbr>μη</abbr><ex>νὸς</ex></expan> Δίου,<lb/>
-               <expan><abbr>ἡ<unclear>μ</unclear></abbr><ex>έρᾳ</ex></expan> ζʹ.<lb/>
+               </choice> <num>καʹ</num>, ἔτου<lb break="no"/>ς <num>τμδʹ</num>, <expan><abbr>μη</abbr><ex>νὸς</ex></expan> Δίου,<lb/>
+               <expan><abbr>ἡ<unclear>μ</unclear></abbr><ex>έρᾳ</ex></expan> <num>ζʹ</num>.<lb/>
                <g type="cross">+</g></p>
          </div>
          <div type="translation" ana="#b1" xml:id="zoor0187.translation" corresp="#zoor0187.transcription">
@@ -163,7 +163,7 @@
                     name (at the age) of 21 years, in (the) year 344, in (the) month of Dios, on
                     (the) 7th day (Saturday).</p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="zoor0187-1" xml:lang="grc">Εἷς</w> <w xml:id="zoor0187-2" xml:lang="grc">Θεός</w> <w xml:id="zoor0187-3" xml:lang="grc">Μνημεῖον</w> <w xml:id="zoor0187-4" xml:lang="grc">Καϊάμου</w> <w xml:id="zoor0187-5" xml:lang="grc">Καϊάμου</w> <w xml:id="zoor0187-6" xml:lang="grc">ἀποθανὠν</w> <w xml:id="zoor0187-7" xml:lang="grc">μετὰ</w> <w xml:id="zoor0187-8" xml:lang="grc">καλοῦ</w> <w xml:id="zoor0187-9" xml:lang="grc">ὀνόματος</w> <w xml:id="zoor0187-10" xml:lang="grc">ἐτῶν</w> <w xml:id="zoor0187-11" xml:lang="grc">κα</w> <w xml:id="zoor0187-12" xml:lang="grc">ἔτους</w> <w xml:id="zoor0187-13" xml:lang="grc">τμδ</w><w xml:id="zoor0187-14" xml:lang="grc"><expan><abbr>μη</abbr><ex>νὸς</ex></expan></w><w xml:id="zoor0187-15" xml:lang="grc">Δίου</w><w xml:id="zoor0187-16" xml:lang="grc"><expan><abbr>ἡμ</abbr><ex>έρᾳ</ex></expan></w><w xml:id="zoor0187-17" xml:lang="grc">ζ</w></p>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="zoor0187-1" xml:lang="grc">Εἷς</w> <w xml:id="zoor0187-2" xml:lang="grc">Θεός</w> <w xml:id="zoor0187-3" xml:lang="grc">Μνημεῖον</w> <w xml:id="zoor0187-4" xml:lang="grc">Καϊάμου</w> <w xml:id="zoor0187-5" xml:lang="grc">Καϊάμου</w> <w xml:id="zoor0187-6" xml:lang="grc">ἀποθανὠν</w> <w xml:id="zoor0187-7" xml:lang="grc">μετὰ</w> <w xml:id="zoor0187-8" xml:lang="grc">καλοῦ</w> <w xml:id="zoor0187-9" xml:lang="grc">ὀνόματος</w> <w xml:id="zoor0187-10" xml:lang="grc">ἐτῶν</w><w xml:id="zoor0187-11" xml:lang="grc"><num>καʹ</num></w><w xml:id="zoor0187-12" xml:lang="grc">ἔτους</w><w xml:id="zoor0187-13" xml:lang="grc"><num>τμδʹ</num></w><w xml:id="zoor0187-14" xml:lang="grc"><expan><abbr>μη</abbr><ex>νὸς</ex></expan></w><w xml:id="zoor0187-15" xml:lang="grc">Δίου</w><w xml:id="zoor0187-16" xml:lang="grc"><expan><abbr>ἡμ</abbr><ex>έρᾳ</ex></expan></w><w xml:id="zoor0187-17" xml:lang="grc"><num>ζʹ</num></w></p>
 </div>
 </body>
       <back>

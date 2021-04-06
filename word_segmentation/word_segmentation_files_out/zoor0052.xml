@@ -122,15 +122,12 @@
          <div type="edition" ana="#b1" xml:lang="grc" subtype="transcription" xml:id="zoor0052.transcription" corresp="#zoor0052.translation">
             <p>+<lb/>
                <supplied reason="undefined">+</supplied>
-               <choice><sic>Μνημῖον</sic><corr>Μνημεῖον</corr></choice> ι +<lb/> Παῦλος <choice><sic>Δομ<lb/>ετίου</sic><corr>Δομιτίου</corr></choice>, <choice><sic>
-                     <unclear>ἀ</unclear>πο<unclear>θ</unclear>ά<lb/>ναντ<unclear>ο</unclear>ς</sic><corr>ἀποθανόντος</corr></choice>
-                    + ν + <unclear>ἐ</unclear>
-               <lb/>τῶν + <num value="30">λʹ</num>, +
-                        ἔ<lb/>τ<unclear>ο</unclear>υ<unclear>ς</unclear>
-               <choice><sic>διακ<unclear>ο</unclear>
-                     <lb/>σσιαστοῦ<lb/>
-                  </sic><corr>διακοσιοστοῦ</corr></choice>
-               <choice><sic>ὀγδηκστ<lb/>οῦ</sic><corr>ὀγδoηκοστοῦ</corr></choice>, μηνὸ<lb/>ς
+               <choice><sic>Μνημῖον</sic><corr>Μνημεῖον</corr></choice> ι +<lb/> Παῦλος <choice><sic>Δομ<lb break="no"/>ετίου</sic><corr>Δομιτίου</corr></choice>, <choice><sic>
+                  <unclear>ἀ</unclear>πο<unclear>θ</unclear>ά<lb break="no"/>ναντ<unclear>ο</unclear>ς</sic><corr>ἀποθανόντος</corr></choice>
+                    + ν + <unclear>ἐ</unclear><lb break="no"/>τῶν + <num value="30">λʹ</num>, +
+               ἔ<lb break="no"/>τ<unclear>ο</unclear>υ<unclear>ς</unclear>
+               <choice><sic>διακ<unclear>ο</unclear><lb break="no"/>σσιαστοῦ</sic><corr>διακοσιοστοῦ</corr></choice><lb/>
+               <choice><sic>ὀγδηκστ<lb break="no"/>οῦ</sic><corr>ὀγδoηκοστοῦ</corr></choice>, μηνὸ<lb break="no"/>ς
                         Δύστρ<unclear>ο</unclear>υ τριακάδι,<lb/> ἐν ἡμέρᾳ<lb/> Ἡλίου. +</p>
          </div>
          <div type="translation" ana="#b1" xml:id="zoor0052.translation" corresp="#zoor0052.transcription">
@@ -138,7 +135,7 @@
                     years, in (the) two hundred and eightieth year, on the thirtieth (day) of (the)
                     month Dystros, on the day of (the) Sun (Sunday).</p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="zoor0052-1" xml:lang="grc"><supplied reason="undefined">+</supplied></w><w xml:id="zoor0052-2" xml:lang="grc">Μνημεῖον</w> <w xml:id="zoor0052-3" xml:lang="grc">ι</w> <w xml:id="zoor0052-4" xml:lang="grc">Παῦλος</w> <w xml:id="zoor0052-5" xml:lang="grc">Δομιτίου</w> <w xml:id="zoor0052-6" xml:lang="grc">ἀποθά</w> <w xml:id="zoor0052-7" xml:lang="grc">ναντοςἀποθανόντος</w> <w xml:id="zoor0052-8" xml:lang="grc">ν</w> <w xml:id="zoor0052-9" xml:lang="grc">ἐ</w> <w xml:id="zoor0052-10" xml:lang="grc">τῶν</w><w xml:id="zoor0052-11" xml:lang="grc"><num value="30">λʹ</num></w><w xml:id="zoor0052-12" xml:lang="grc">ἔ</w> <w xml:id="zoor0052-13" xml:lang="grc">τους</w> <w xml:id="zoor0052-14" xml:lang="grc">διακο</w> <w xml:id="zoor0052-15" xml:lang="grc">σσιαστοῦ</w> <w xml:id="zoor0052-16" xml:lang="grc">διακοσιοστοῦ</w> <w xml:id="zoor0052-17" xml:lang="grc">ὀγδoηκοστοῦ</w> <w xml:id="zoor0052-18" xml:lang="grc">μηνὸ</w> <w xml:id="zoor0052-19" xml:lang="grc">ς</w> <w xml:id="zoor0052-20" xml:lang="grc">Δύστρου</w> <w xml:id="zoor0052-21" xml:lang="grc">τριακάδι</w> <w xml:id="zoor0052-22" xml:lang="grc">ἐν</w> <w xml:id="zoor0052-23" xml:lang="grc">ἡμέρᾳ</w> <w xml:id="zoor0052-24" xml:lang="grc">Ἡλίου</w></p>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="zoor0052-1" xml:lang="grc"><supplied reason="undefined">+</supplied></w><w xml:id="zoor0052-2" xml:lang="grc">Μνημεῖον</w> <w xml:id="zoor0052-3" xml:lang="grc">ι</w> <w xml:id="zoor0052-4" xml:lang="grc">Παῦλος</w> <w xml:id="zoor0052-5" xml:lang="grc">Δομιτίου</w> <w xml:id="zoor0052-6" xml:lang="grc">ἀποθάναντοςἀποθανόντος</w> <w xml:id="zoor0052-7" xml:lang="grc">ν</w> <w xml:id="zoor0052-8" xml:lang="grc">ἐτῶν</w><w xml:id="zoor0052-9" xml:lang="grc"><num value="30">λʹ</num></w><w xml:id="zoor0052-10" xml:lang="grc">ἔτους</w> <w xml:id="zoor0052-11" xml:lang="grc">διακοσιοστοῦ</w> <w xml:id="zoor0052-12" xml:lang="grc">ὀγδoηκοστοῦ</w> <w xml:id="zoor0052-13" xml:lang="grc">μηνὸς</w> <w xml:id="zoor0052-14" xml:lang="grc">Δύστρου</w> <w xml:id="zoor0052-15" xml:lang="grc">τριακάδι</w> <w xml:id="zoor0052-16" xml:lang="grc">ἐν</w> <w xml:id="zoor0052-17" xml:lang="grc">ἡμέρᾳ</w> <w xml:id="zoor0052-18" xml:lang="grc">Ἡλίου</w></p>
 </div>
 </body>
       <back>

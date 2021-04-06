@@ -114,12 +114,12 @@
    <text>
       <body>
          <div type="edition" ana="#b1" xml:lang="grc" subtype="transcription" xml:id="carm0007.transcription" corresp="#carm0007.translation">
-            <p>Βαρα<lb/>χέος διά<lb/>κων γράμ<lb/>ματος το<lb/>ἥμυσι</p>
+            <p>Βαρα<lb break="no"/>χέος διά<lb break="no"/>κων γράμ<lb break="no"/>ματος το<lb/>ἥμυσι</p>
          </div>
          <div type="translation" ana="#b1" xml:id="carm0007.translation" corresp="#carm0007.transcription">
             <p>Baracheos Deacon Half gramma</p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="carm0007-1" xml:lang="grc">Βαρα</w> <w xml:id="carm0007-2" xml:lang="grc">χέος</w> <w xml:id="carm0007-3" xml:lang="grc">διά</w> <w xml:id="carm0007-4" xml:lang="grc">κων</w> <w xml:id="carm0007-5" xml:lang="grc">γράμ</w> <w xml:id="carm0007-6" xml:lang="grc">ματος</w> <w xml:id="carm0007-7" xml:lang="grc">το</w> <w xml:id="carm0007-8" xml:lang="grc">ἥμυσι</w></p>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="carm0007-1" xml:lang="grc">Βαραχέος</w> <w xml:id="carm0007-2" xml:lang="grc">διάκων</w> <w xml:id="carm0007-3" xml:lang="grc">γράμματος</w> <w xml:id="carm0007-4" xml:lang="grc">το</w> <w xml:id="carm0007-5" xml:lang="grc">ἥμυσι</w></p>
 </div>
 </body>
       <back>

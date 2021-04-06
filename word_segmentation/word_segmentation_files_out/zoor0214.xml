@@ -133,10 +133,9 @@
                <lb/> Δεσπότης. <choice><sic>Μvημῖον</sic><corr>Μνημεῖον</corr></choice>
                <lb/>
                <choice><sic> Καϊάμηθ</sic><corr>Καϊάμης</corr></choice> Ζηνοβίου,<lb/> ἀποθανούσης
-                        <unclear>με</unclear>
-               <lb/>τὰ καλοῦ ὀνόμ<unclear>α</unclear>τ<lb/>ος ετῶν
-                    λεʹ, ἐν <choice><sic>ἔ<lb/>τι</sic><corr>ἔτει</corr></choice> τνθʹ, μηνὸς<lb/> Περιτίου αʹ, ἐν
-                    ἠ<lb/>μέρᾳ <choice><sic>σαμβάτου</sic><corr>σαββάτου</corr></choice>.<lb/>
+               <unclear>με</unclear><lb break="no"/>τὰ καλοῦ ὀνόμ<unclear>α</unclear>τ<lb break="no"/>ος ετῶν
+                    <num>λεʹ</num>, ἐν <choice><sic>ἔ<lb/>τι</sic><corr>ἔτει</corr></choice> <num>τνθʹ</num>, μηνὸς<lb/> Περιτίου <num>αʹ</num>, ἐν
+               ἠ<lb break="no"/>μέρᾳ <choice><sic>σαμβάτου</sic><corr>σαββάτου</corr></choice>.<lb/>
                <choice><sic>θάρσι</sic><corr>θάρσει</corr></choice>
                <choice><sic>οὐδὶς</sic><corr>οὐδείς</corr></choice>
                <lb/>ἀθάνατος.<lb/> +</p>
@@ -147,7 +146,7 @@
                     1st (day) of (the) month Peritios, on Saturday. Be of good cheer, no one (is)
                     immortal.</p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="zoor0214-1" xml:lang="grc">Εἶς</w> <w xml:id="zoor0214-2" xml:lang="grc">Θεός</w> <w xml:id="zoor0214-3" xml:lang="grc">ὀ</w> <w xml:id="zoor0214-4" xml:lang="grc">πάντων</w> <w xml:id="zoor0214-5" xml:lang="grc">Δεσπότης</w> <w xml:id="zoor0214-6" xml:lang="grc">Μνημεῖον</w> <w xml:id="zoor0214-7" xml:lang="grc">Καϊάμης</w> <w xml:id="zoor0214-8" xml:lang="grc">Ζηνοβίου</w> <w xml:id="zoor0214-9" xml:lang="grc">ἀποθανούσης</w> <w xml:id="zoor0214-10" xml:lang="grc">με</w> <w xml:id="zoor0214-11" xml:lang="grc">τὰ</w> <w xml:id="zoor0214-12" xml:lang="grc">καλοῦ</w> <w xml:id="zoor0214-13" xml:lang="grc">ὀνόματ</w> <w xml:id="zoor0214-14" xml:lang="grc">ος</w> <w xml:id="zoor0214-15" xml:lang="grc">ετῶν</w> <w xml:id="zoor0214-16" xml:lang="grc">λε</w> <w xml:id="zoor0214-17" xml:lang="grc">ἐν</w> <w xml:id="zoor0214-18" xml:lang="grc">ἔτει</w> <w xml:id="zoor0214-19" xml:lang="grc">τνθ</w> <w xml:id="zoor0214-20" xml:lang="grc">μηνὸς</w> <w xml:id="zoor0214-21" xml:lang="grc">Περιτίου</w> <w xml:id="zoor0214-22" xml:lang="grc">α</w> <w xml:id="zoor0214-23" xml:lang="grc">ἐν</w> <w xml:id="zoor0214-24" xml:lang="grc">ἠ</w> <w xml:id="zoor0214-25" xml:lang="grc">μέρᾳ</w> <w xml:id="zoor0214-26" xml:lang="grc">σαββάτου</w> <w xml:id="zoor0214-27" xml:lang="grc">θάρσει</w> <w xml:id="zoor0214-28" xml:lang="grc">οὐδείς</w> <w xml:id="zoor0214-29" xml:lang="grc">ἀθάνατος</w></p>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="zoor0214-1" xml:lang="grc">Εἶς</w> <w xml:id="zoor0214-2" xml:lang="grc">Θεός</w> <w xml:id="zoor0214-3" xml:lang="grc">ὀ</w> <w xml:id="zoor0214-4" xml:lang="grc">πάντων</w> <w xml:id="zoor0214-5" xml:lang="grc">Δεσπότης</w> <w xml:id="zoor0214-6" xml:lang="grc">Μνημεῖον</w> <w xml:id="zoor0214-7" xml:lang="grc">Καϊάμης</w> <w xml:id="zoor0214-8" xml:lang="grc">Ζηνοβίου</w> <w xml:id="zoor0214-9" xml:lang="grc">ἀποθανούσης</w> <w xml:id="zoor0214-10" xml:lang="grc">μετὰ</w> <w xml:id="zoor0214-11" xml:lang="grc">καλοῦ</w> <w xml:id="zoor0214-12" xml:lang="grc">ὀνόματος</w> <w xml:id="zoor0214-13" xml:lang="grc">ετῶν</w><w xml:id="zoor0214-14" xml:lang="grc"><num>λεʹ</num></w><w xml:id="zoor0214-15" xml:lang="grc">ἐν</w> <w xml:id="zoor0214-16" xml:lang="grc">ἔτει</w><w xml:id="zoor0214-17" xml:lang="grc"><num>τνθʹ</num></w><w xml:id="zoor0214-18" xml:lang="grc">μηνὸς</w> <w xml:id="zoor0214-19" xml:lang="grc">Περιτίου</w><w xml:id="zoor0214-20" xml:lang="grc"><num>αʹ</num></w><w xml:id="zoor0214-21" xml:lang="grc">ἐν</w> <w xml:id="zoor0214-22" xml:lang="grc">ἠμέρᾳ</w> <w xml:id="zoor0214-23" xml:lang="grc">σαββάτου</w> <w xml:id="zoor0214-24" xml:lang="grc">θάρσει</w> <w xml:id="zoor0214-25" xml:lang="grc">οὐδείς</w> <w xml:id="zoor0214-26" xml:lang="grc">ἀθάνατος</w></p>
 </div>
 </body>
       <back>

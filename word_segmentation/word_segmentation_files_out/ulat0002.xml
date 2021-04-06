@@ -117,12 +117,12 @@
             <p>ΛΙΘΟϹΔΙ<lb/>ΟΡΙΖΩΝ<lb/>ΟΡΙΑΚΩΜ<lb/>ΙΓΗΡΑΜΗϹ<lb/>ΚΕΓΑΛΑΝΙ<lb/>ΑϹ</p>
          </div>
          <div type="edition" ana="#b1" xml:lang="grc" subtype="transcription" xml:id="ulat0002.transcription" corresp="#ulat0002.diplomatic #ulat0002.translation">
-            <p>Λίθος δι<lb/>ορίζων <lb/>ὅρια <expan><abbr>κω</abbr><ex>μῶν</ex></expan> Μ<lb/>ιγηραμης <lb/>κὲ Γαλανι<lb/>ας</p>
+            <p>Λίθος δι<lb break="no"/>ορίζων <lb/>ὅρια <expan><abbr>κω</abbr><ex>μῶν</ex></expan> Μ<lb break="no"/>ιγηραμης <lb/>κὲ Γαλανι<lb break="no"/>ας</p>
          </div>
          <div type="translation" ana="#b1" xml:id="ulat0002.translation" corresp="#ulat0002.diplomatic #ulat0002.transcription">
             <p>The stone which divides the lands of the villages of Migerame and Galania</p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="ulat0002-1" xml:lang="grc">Λίθος</w> <w xml:id="ulat0002-2" xml:lang="grc">δι</w> <w xml:id="ulat0002-3" xml:lang="grc">ορίζων</w> <w xml:id="ulat0002-4" xml:lang="grc">ὅρια</w><w xml:id="ulat0002-5" xml:lang="grc"><expan><abbr>κω</abbr><ex>μῶν</ex></expan></w><w xml:id="ulat0002-6" xml:lang="grc">Μ</w> <w xml:id="ulat0002-7" xml:lang="grc">ιγηραμης</w> <w xml:id="ulat0002-8" xml:lang="grc">κὲ</w> <w xml:id="ulat0002-9" xml:lang="grc">Γαλανι</w> <w xml:id="ulat0002-10" xml:lang="grc">ας</w></p>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="ulat0002-1" xml:lang="grc">Λίθος</w> <w xml:id="ulat0002-2" xml:lang="grc">διορίζων</w> <w xml:id="ulat0002-3" xml:lang="grc">ὅρια</w><w xml:id="ulat0002-4" xml:lang="grc"><expan><abbr>κω</abbr><ex>μῶν</ex></expan></w><w xml:id="ulat0002-5" xml:lang="grc">Μιγηραμης</w> <w xml:id="ulat0002-6" xml:lang="grc">κὲ</w> <w xml:id="ulat0002-7" xml:lang="grc">Γαλανιας</w></p>
 </div>
 </body>
       <back>

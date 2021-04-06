@@ -115,13 +115,12 @@
       <body>
          <div type="edition" ana="#b1" xml:lang="grc" subtype="transcription" xml:id="carm0019.transcription" corresp="#carm0019.translation">
             <p>
-               <supplied reason="undefined">Θεόδ</supplied>
-               <lb/>ωρο<lb/>ς Κλη<lb/>ματήου</p>
+               <supplied reason="undefined">Θεόδ</supplied><lb break="no"/>ωρο<lb break="no"/>ς Κλη<lb break="no"/>ματήου</p>
          </div>
          <div type="translation" ana="#b1" xml:id="carm0019.translation" corresp="#carm0019.transcription">
             <p>(Theo)doros Son of Klemateos</p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="carm0019-1" xml:lang="grc"><supplied reason="undefined">Θεόδ</supplied></w><w xml:id="carm0019-2" xml:lang="grc">ωρο</w> <w xml:id="carm0019-3" xml:lang="grc">ς</w> <w xml:id="carm0019-4" xml:lang="grc">Κλη</w> <w xml:id="carm0019-5" xml:lang="grc">ματήου</w></p>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="carm0019-1" xml:lang="grc"><supplied reason="undefined">Θεόδ</supplied></w><w xml:id="carm0019-2" xml:lang="grc">ωρος</w> <w xml:id="carm0019-3" xml:lang="grc">Κληματήου</w></p>
 </div>
 </body>
       <back>

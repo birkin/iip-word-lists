@@ -26,7 +26,7 @@
                </msIdentifier>
                <!-- ********* <msContents> ********* -->
                <msContents>
-                  <textLang mainLang="grc" otherLangs="he"/>
+                  <textLang mainLang="he" otherLangs="grc"/>
                   <msItem class="#place_marker.boundary" ana="#jewish">
                      <p>Gazara (Gezer), 150 BCE - 70 CE. Boundary marker. Place marker
                         (Boundary).</p>
@@ -117,7 +117,7 @@
          <div type="translation" ana="#b1" xml:id="geze0002.translation" corresp="#geze0002.transcription">
             <p>Of Alkaios. Boundary of Gezer</p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="geze0002-1" xml:lang="grc">תחמגזר</w></p>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="geze0002-1" xml:lang="he">תחמגזר</w></p>
 </div>
 </body>
       <back>

@@ -119,16 +119,16 @@
                <choice><sic>Μνημῖον</sic><corr>μνημεῖον</corr></choice>
                <lb/>
                <choice><sic>Εἰλιανὸς</sic><corr>Αἰλιανός</corr></choice>
-               <lb/> Σηάλλου, ἀ<lb/>ποθανόν<lb/>τος
-                    ἐτῶν<lb/> λεʹ, ἔτους<lb/> σξζʹ, μηνὸς<lb/>
-                    Ἀρτεμισί<lb/>ου κʹ, ἡμέρᾳ<lb/> Διός.<lb/>+<lb/>+</p>
+               <lb/> Σηάλλου, ἀ<lb break="no"/>ποθανόν<lb break="no"/>τος
+                    ἐτῶν<lb/><num> λεʹ</num>, ἔτους<lb/><num> σξζʹ</num>, μηνὸς<lb/>
+               Ἀρτεμισί<lb break="no"/>ου <num>κʹ</num>, ἡμέρᾳ<lb/> Διός.<lb/>+<lb/>+</p>
          </div>
          <div type="translation" ana="#b1" xml:id="zoor0031.translation" corresp="#zoor0031.transcription">
             <p>Monument of Aelianus, (son) of Seallos, who died (at the age) of 35 years, in
                     (the) year 267, on (the) 20th (day) of (the) month Artemisios, on (the) day of
                     Jupiter (Thursday).</p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="zoor0031-1" xml:lang="grc">μνημεῖον</w> <w xml:id="zoor0031-2" xml:lang="grc">Αἰλιανός</w> <w xml:id="zoor0031-3" xml:lang="grc">Σηάλλου</w> <w xml:id="zoor0031-4" xml:lang="grc">ἀ</w> <w xml:id="zoor0031-5" xml:lang="grc">ποθανόν</w> <w xml:id="zoor0031-6" xml:lang="grc">τος</w> <w xml:id="zoor0031-7" xml:lang="grc">ἐτῶν</w> <w xml:id="zoor0031-8" xml:lang="grc">λε</w> <w xml:id="zoor0031-9" xml:lang="grc">ἔτους</w> <w xml:id="zoor0031-10" xml:lang="grc">σξζ</w> <w xml:id="zoor0031-11" xml:lang="grc">μηνὸς</w> <w xml:id="zoor0031-12" xml:lang="grc">Ἀρτεμισί</w> <w xml:id="zoor0031-13" xml:lang="grc">ου</w> <w xml:id="zoor0031-14" xml:lang="grc">κ</w> <w xml:id="zoor0031-15" xml:lang="grc">ἡμέρᾳ</w> <w xml:id="zoor0031-16" xml:lang="grc">Διός</w></p>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="zoor0031-1" xml:lang="grc">μνημεῖον</w> <w xml:id="zoor0031-2" xml:lang="grc">Αἰλιανός</w> <w xml:id="zoor0031-3" xml:lang="grc">Σηάλλου</w> <w xml:id="zoor0031-4" xml:lang="grc">ἀποθανόντος</w> <w xml:id="zoor0031-5" xml:lang="grc">ἐτῶν</w><w xml:id="zoor0031-6" xml:lang="grc"><num> λεʹ</num></w><w xml:id="zoor0031-7" xml:lang="grc">ἔτους</w><w xml:id="zoor0031-8" xml:lang="grc"><num> σξζʹ</num></w><w xml:id="zoor0031-9" xml:lang="grc">μηνὸς</w> <w xml:id="zoor0031-10" xml:lang="grc">Ἀρτεμισίου</w><w xml:id="zoor0031-11" xml:lang="grc"><num>κʹ</num></w><w xml:id="zoor0031-12" xml:lang="grc">ἡμέρᾳ</w> <w xml:id="zoor0031-13" xml:lang="grc">Διός</w></p>
 </div>
 </body>
       <back>

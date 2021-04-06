@@ -114,12 +114,12 @@
    <text>
       <body>
          <div type="edition" ana="#b1" xml:lang="grc" subtype="transcription" xml:id="carm0010.transcription" corresp="#carm0010.translation">
-            <p>Ἐπι<lb/>φάνις <lb/>ὑποδιάκ<lb/>ων γρ<lb/>άμμα</p>
+            <p>Ἐπι<lb/>φάνις <lb/>ὑποδιάκ<lb break="no"/>ων γρ<lb break="no"/>άμμα</p>
          </div>
          <div type="translation" ana="#b1" xml:id="carm0010.translation" corresp="#carm0010.transcription">
             <p>Epiphanis Subdeacon Gramma</p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="carm0010-1" xml:lang="grc">Ἐπι</w> <w xml:id="carm0010-2" xml:lang="grc">φάνις</w> <w xml:id="carm0010-3" xml:lang="grc">ὑποδιάκ</w> <w xml:id="carm0010-4" xml:lang="grc">ων</w> <w xml:id="carm0010-5" xml:lang="grc">γρ</w> <w xml:id="carm0010-6" xml:lang="grc">άμμα</w></p>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="carm0010-1" xml:lang="grc">Ἐπι</w> <w xml:id="carm0010-2" xml:lang="grc">φάνις</w> <w xml:id="carm0010-3" xml:lang="grc">ὑποδιάκων</w> <w xml:id="carm0010-4" xml:lang="grc">γράμμα</w></p>
 </div>
 </body>
       <back>

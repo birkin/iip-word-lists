@@ -125,7 +125,7 @@
                 <p>ΙΟΥΔΙΟΥ ΑΝΕΜΥ ΝΑΓΗΣ</p>
             </div>
             <div type="edition" subtype="transcription" ana="b1">
-                <p>Ιουδιν Ανεμ<supplied reason="omitted">ο</supplied>υ Ναγης</p>
+                <p>Ἰουδιν Ἀνεμ<supplied reason="omitted">ο</supplied>υ Ναγης</p>
             </div>
             <div type="translation" ana="b1">
                 <p>Of Judaios, son of Anemos, son of Nage</p>
@@ -133,7 +133,7 @@
             <div type="commentary" ana="b1">
                 <p/>
             </div>
-        <div type="edition" subtype="transcription_segmented"><p><w xml:id="jeru0477-1" xml:lang="grc">Ιουδιν</w> <w xml:id="jeru0477-2" xml:lang="grc">Ανεμ</w><w xml:id="jeru0477-3" xml:lang="grc"><supplied reason="omitted">ο</supplied></w><w xml:id="jeru0477-4" xml:lang="grc">υ</w> <w xml:id="jeru0477-5" xml:lang="grc">Ναγης</w></p>
+        <div type="edition" subtype="transcription_segmented"><p><w xml:id="jeru0477-1" xml:lang="grc">Ἰουδιν</w> <w xml:id="jeru0477-2" xml:lang="grc">Ἀνεμ</w><w xml:id="jeru0477-3" xml:lang="grc"><supplied reason="omitted">ο</supplied></w><w xml:id="jeru0477-4" xml:lang="grc">υ</w> <w xml:id="jeru0477-5" xml:lang="grc">Ναγης</w></p>
 </div>
 </body>
         <back>

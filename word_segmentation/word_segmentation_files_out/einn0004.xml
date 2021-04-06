@@ -127,15 +127,15 @@
                 </p>
          </div>
          <div type="edition" ana="#b1" subtype="transcription" xml:id="einn0004.transcription" corresp="#einn0004.diplomatic #einn0004.translation">
-            <p>
-                    Ἰοσῆς Ζαννεου <expan><abbr>ἐτ</abbr><ex>ῶν</ex></expan> ο´ 
-                </p>
+            <p> Ἰοσῆς Ζαννεου <expan><abbr>ἐτ</abbr><ex>ῶν</ex></expan>
+               <num>ο´</num>
+            </p>
          </div>
          <div type="translation" ana="#b1" xml:id="einn0004.translation" corresp="#einn0004.diplomatic #einn0004.transcription">
             <p> Joses, son of Zanneas. Seventy years old.
                 </p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="einn0004-1" xml:lang="grc">Ἰοσῆς</w> <w xml:id="einn0004-2" xml:lang="grc">Ζαννεου</w><w xml:id="einn0004-3" xml:lang="grc"><expan><abbr>ἐτ</abbr><ex>ῶν</ex></expan></w><w xml:id="einn0004-4" xml:lang="grc">ο´</w></p>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="einn0004-1" xml:lang="grc">Ἰοσῆς</w> <w xml:id="einn0004-2" xml:lang="grc">Ζαννεου</w><w xml:id="einn0004-3" xml:lang="grc"><expan><abbr>ἐτ</abbr><ex>ῶν</ex></expan></w><w xml:id="einn0004-4" xml:lang="grc"><num>ο´</num></w></p>
 </div>
 </body>
       <back>

@@ -118,16 +118,16 @@
          <div type="edition" ana="#b1" xml:lang="grc" subtype="transcription" xml:id="zoor0030.transcription" corresp="#zoor0030.translation">
             <p>
                <choice><sic>Μνημῖον</sic><corr>μνημεῖον</corr></choice>
-               <lb/> Οὐϊκτωρί<lb/>νου, τριβού<lb/>νου
-                    τελευτή<lb/>σαντος ἐν<lb/>
-               <choice><sic>ἔτι</sic><corr>ἔτει</corr></choice> σξςʹ.<lb/>
-               <choice><sic>Εὐψύχι</sic><corr>Εὐψύχει</corr></choice>, <lb/>καλὲ ἄνθρω<lb/>πε.</p>
+               <lb/> Οὐϊκτωρί<lb break="no"/>νου, τριβού<lb break="no"/>νου
+               τελευτή<lb break="no"/>σαντος ἐν<lb/>
+               <choice><sic>ἔτι</sic><corr>ἔτει</corr></choice> <num>σξςʹ</num>.<lb/>
+               <choice><sic>Εὐψύχι</sic><corr>Εὐψύχει</corr></choice>, <lb/>καλὲ ἄνθρω<lb break="no"/>πε.</p>
          </div>
          <div type="translation" ana="#b1" xml:id="zoor0030.translation" corresp="#zoor0030.transcription">
             <p>Monument of Ouictorinos (Victorinus), the tribune, who died in the year 266. Be
                     of good cheer, oh good man.</p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="zoor0030-1" xml:lang="grc">μνημεῖον</w> <w xml:id="zoor0030-2" xml:lang="grc">Οὐϊκτωρί</w> <w xml:id="zoor0030-3" xml:lang="grc">νου</w> <w xml:id="zoor0030-4" xml:lang="grc">τριβού</w> <w xml:id="zoor0030-5" xml:lang="grc">νου</w> <w xml:id="zoor0030-6" xml:lang="grc">τελευτή</w> <w xml:id="zoor0030-7" xml:lang="grc">σαντος</w> <w xml:id="zoor0030-8" xml:lang="grc">ἐν</w> <w xml:id="zoor0030-9" xml:lang="grc">ἔτει</w> <w xml:id="zoor0030-10" xml:lang="grc">σξς</w> <w xml:id="zoor0030-11" xml:lang="grc">Εὐψύχει</w> <w xml:id="zoor0030-12" xml:lang="grc">καλὲ</w> <w xml:id="zoor0030-13" xml:lang="grc">ἄνθρω</w> <w xml:id="zoor0030-14" xml:lang="grc">πε</w></p>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="zoor0030-1" xml:lang="grc">μνημεῖον</w> <w xml:id="zoor0030-2" xml:lang="grc">Οὐϊκτωρίνου</w> <w xml:id="zoor0030-3" xml:lang="grc">τριβούνου</w> <w xml:id="zoor0030-4" xml:lang="grc">τελευτήσαντος</w> <w xml:id="zoor0030-5" xml:lang="grc">ἐν</w> <w xml:id="zoor0030-6" xml:lang="grc">ἔτει</w><w xml:id="zoor0030-7" xml:lang="grc"><num>σξςʹ</num></w><w xml:id="zoor0030-8" xml:lang="grc">Εὐψύχει</w> <w xml:id="zoor0030-9" xml:lang="grc">καλὲ</w> <w xml:id="zoor0030-10" xml:lang="grc">ἄνθρωπε</w></p>
 </div>
 </body>
       <back>

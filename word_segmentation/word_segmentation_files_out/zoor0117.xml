@@ -117,22 +117,16 @@
       <body>
          <div type="edition" ana="#b1" xml:lang="grc" subtype="transcription" xml:id="zoor0117.transcription" corresp="#zoor0117.translation">
             <p>
-               <supplied reason="undefined">Εἷς</supplied> <supplied reason="undefined">Θεός</supplied>. <supplied reason="undefined">Μνημεῖ</supplied>
-               <lb/>
-               <unclear>ον</unclear>
-                        Ὀεβά<unclear>ν</unclear>
-               <lb/>
-               <unclear>ν</unclear>ος Ζάβδα,<lb/>
+               <supplied reason="undefined">Εἷς</supplied> <supplied reason="undefined">Θεός</supplied>. <supplied reason="undefined">Μνημεῖ</supplied><lb break="no"/><unclear>ον</unclear>
+                        Ὀεβά<unclear>ν</unclear><lb break="no"/><unclear>ν</unclear>ος Ζάβδα,<lb/>
                <supplied reason="undefined">ἀ</supplied>
-               <unclear>π</unclear>οθονόν<lb/>
-               <supplied reason="undefined">τ</supplied>ος
-                    ἐτῶν πέν<lb/>
-               <supplied reason="undefined">τ</supplied>ε, ἔτους <choice><sic>τρια<lb/>
+               <unclear>π</unclear>οθονόν<lb break="no"/><supplied reason="undefined">τ</supplied>ος
+               ἐτῶν πέν<lb break="no"/><supplied reason="undefined">τ</supplied>ε, ἔτους <choice><sic>τρια<lb/>
                      <unclear>κ</unclear>οσσια<unclear>στ</unclear>οῦ</sic><corr>τριακοσιοστοῦ</corr></choice>
                <lb/>
-               <choice><sic>τρῖς</sic><corr>τρίτου</corr></choice> καὶ δεκά<lb/>του, μηνὸς
-                        ἀ<lb/>γομένο<unclear>υ</unclear>
-               <choice><sic>τε<lb/>τάρτοτ<unclear>υ</unclear>
+               <choice><sic>τρῖς</sic><corr>τρίτου</corr></choice> καὶ δεκά<lb break="no"/>του, μηνὸς
+               ἀ<lb break="no"/>γομένο<unclear>υ</unclear>
+               <choice><sic>τε<lb break="no"/>τάρτοτ<unclear>υ</unclear>
                   </sic><corr>τετάρτου</corr></choice>.<lb/>
                <choice><sic>Θάρσι</sic><corr>Θάρσει</corr></choice>, <choice><sic>οὐδὶς</sic><corr>οὐδεὶς</corr></choice>
                <lb/>
@@ -143,7 +137,7 @@
                     age) of five years, in the three hundred and thirteenth year, in the running
                     fourth month (Panemos?). Be of good cheer, no one (is) immortal.</p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="zoor0117-1" xml:lang="grc"><supplied reason="undefined">Εἷς</supplied></w><w xml:id="zoor0117-2" xml:lang="grc"><supplied reason="undefined">Θεός</supplied></w><w xml:id="zoor0117-3" xml:lang="grc"><supplied reason="undefined">Μνημεῖ</supplied></w><w xml:id="zoor0117-4" xml:lang="grc">ον</w> <w xml:id="zoor0117-5" xml:lang="grc">Ὀεβάν</w> <w xml:id="zoor0117-6" xml:lang="grc">νος</w> <w xml:id="zoor0117-7" xml:lang="grc">Ζάβδα</w><w xml:id="zoor0117-8" xml:lang="grc"><supplied reason="undefined">ἀ</supplied></w><w xml:id="zoor0117-9" xml:lang="grc">ποθονόν</w><w xml:id="zoor0117-10" xml:lang="grc"><supplied reason="undefined">τ</supplied></w><w xml:id="zoor0117-11" xml:lang="grc">ος</w> <w xml:id="zoor0117-12" xml:lang="grc">ἐτῶν</w> <w xml:id="zoor0117-13" xml:lang="grc">πέν</w><w xml:id="zoor0117-14" xml:lang="grc"><supplied reason="undefined">τ</supplied></w><w xml:id="zoor0117-15" xml:lang="grc">ε</w> <w xml:id="zoor0117-16" xml:lang="grc">ἔτους</w> <w xml:id="zoor0117-17" xml:lang="grc">τρια</w> <w xml:id="zoor0117-18" xml:lang="grc">κοσσιαστοῦτριακοσιοστοῦ</w> <w xml:id="zoor0117-19" xml:lang="grc">τρίτου</w> <w xml:id="zoor0117-20" xml:lang="grc">καὶ</w> <w xml:id="zoor0117-21" xml:lang="grc">δεκά</w> <w xml:id="zoor0117-22" xml:lang="grc">του</w> <w xml:id="zoor0117-23" xml:lang="grc">μηνὸς</w> <w xml:id="zoor0117-24" xml:lang="grc">ἀ</w> <w xml:id="zoor0117-25" xml:lang="grc">γομένου</w> <w xml:id="zoor0117-26" xml:lang="grc">τε</w> <w xml:id="zoor0117-27" xml:lang="grc">τάρτοτυ</w> <w xml:id="zoor0117-28" xml:lang="grc">τετάρτου</w> <w xml:id="zoor0117-29" xml:lang="grc">Θάρσει</w> <w xml:id="zoor0117-30" xml:lang="grc">οὐδεὶς</w> <w xml:id="zoor0117-31" xml:lang="grc">ἀθάνατος</w></p>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="zoor0117-1" xml:lang="grc"><supplied reason="undefined">Εἷς</supplied></w><w xml:id="zoor0117-2" xml:lang="grc"><supplied reason="undefined">Θεός</supplied></w><w xml:id="zoor0117-3" xml:lang="grc"><supplied reason="undefined">Μνημεῖ</supplied></w><w xml:id="zoor0117-4" xml:lang="grc">ον</w> <w xml:id="zoor0117-5" xml:lang="grc">Ὀεβάννος</w> <w xml:id="zoor0117-6" xml:lang="grc">Ζάβδα</w><w xml:id="zoor0117-7" xml:lang="grc"><supplied reason="undefined">ἀ</supplied></w><w xml:id="zoor0117-8" xml:lang="grc">ποθονόν</w><w xml:id="zoor0117-9" xml:lang="grc"><supplied reason="undefined">τ</supplied></w><w xml:id="zoor0117-10" xml:lang="grc">ος</w> <w xml:id="zoor0117-11" xml:lang="grc">ἐτῶν</w> <w xml:id="zoor0117-12" xml:lang="grc">πέν</w><w xml:id="zoor0117-13" xml:lang="grc"><supplied reason="undefined">τ</supplied></w><w xml:id="zoor0117-14" xml:lang="grc">ε</w> <w xml:id="zoor0117-15" xml:lang="grc">ἔτους</w> <w xml:id="zoor0117-16" xml:lang="grc">τρια</w> <w xml:id="zoor0117-17" xml:lang="grc">κοσσιαστοῦτριακοσιοστοῦ</w> <w xml:id="zoor0117-18" xml:lang="grc">τρίτου</w> <w xml:id="zoor0117-19" xml:lang="grc">καὶ</w> <w xml:id="zoor0117-20" xml:lang="grc">δεκάτου</w> <w xml:id="zoor0117-21" xml:lang="grc">μηνὸς</w> <w xml:id="zoor0117-22" xml:lang="grc">ἀγομένου</w> <w xml:id="zoor0117-23" xml:lang="grc">τετάρτοτυ</w> <w xml:id="zoor0117-24" xml:lang="grc">τετάρτου</w> <w xml:id="zoor0117-25" xml:lang="grc">Θάρσει</w> <w xml:id="zoor0117-26" xml:lang="grc">οὐδεὶς</w> <w xml:id="zoor0117-27" xml:lang="grc">ἀθάνατος</w></p>
 </div>
 </body>
       <back>

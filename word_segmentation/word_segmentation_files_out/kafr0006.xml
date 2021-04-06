@@ -120,14 +120,14 @@
 				</p>
          </div>
          <div type="edition" ana="#b1" subtype="transcription" xml:id="kafr0006.transcription" corresp="#kafr0006.diplomatic #kafr0006.translation">
-            <p>Νικί<lb/>ας
+            <p>Νικί<lb break="no"/>ας
 				</p>
          </div>
          <div type="translation" ana="#b1" xml:id="kafr0006.translation" corresp="#kafr0006.diplomatic #kafr0006.transcription">
             <p>Nikias
 				</p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="kafr0006-1" xml:lang="grc">Νικί</w> <w xml:id="kafr0006-2" xml:lang="grc">ας</w></p>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="kafr0006-1" xml:lang="grc">Νικίας</w></p>
 </div>
 </body>
       <back>

@@ -155,18 +155,18 @@
                   <reg>Μνημεῖον</reg>
                </choice>
                <lb/> Ζεβίνας Λ<lb break="no"/>ἀμπωνος,<lb/> παυσάμε<lb break="no"/>νος μετὰ<lb/> καλοῦ ἀνόματος καὶ
-                    καλῆς πίστε<lb break="no"/>ως ἐτῶν πςʹ, ἔτους <choice>
-                  <orig>τριακοσσι<lb/>αστοῦ</orig>
+                    καλῆς πίστε<lb break="no"/>ως ἐτῶν <num>πςʹ</num>, ἔτους <choice>
+                       <orig>τριακοσσι<lb break="no"/>αστοῦ</orig>
                   <reg>τριακοσιοστοῦ</reg>
                </choice>
-               <expan><abbr>τριακα<unclear>σ</unclear></abbr><ex>τοῦ</ex></expan>, μηνὸς Γαρπιέου εʹ,
+               <expan><abbr>τριακα<unclear>σ</unclear></abbr><ex>τοῦ</ex></expan>, μηνὸς Γαρπιέου <num>εʹ</num>,
                    <lb/> ἡμέρᾳ <lb/>
-               <expan><abbr>Κυ</abbr><ex>ρίου</ex></expan> ζʹ. <lb/>
+               <expan><abbr>Κυ</abbr><ex>ρίου</ex></expan> <num>ζʹ</num>. <lb/>
                <choice>
                   <orig>Θάρσι</orig>
                   <reg>Θάρσει</reg>
                </choice>, Ζεβίνα, <choice>
-                  <orig>οὐδὶ<lb/>ς</orig>
+                  <orig>οὐδὶ<lb break="no"/>ς</orig>
                   <reg>οὐδεὶς</reg>
                </choice>
                         ἀθάν<supplied reason="undefined">α</supplied>τος.<lb/> Γράψας ὁλά<lb break="no"/>γραφος <choice>
@@ -180,7 +180,7 @@
                     Gorpiaios, on (the) 7th day of (the) Lord (Saturday). Be of good cheer, Zebinas,
                     no one (is) immortal. (I or he) wrote (it) entirely in (my or his) own hand.</p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="zoor0145-1" xml:lang="grc">Μνημεῖον</w> <w xml:id="zoor0145-2" xml:lang="grc">Ζεβίνας</w> <w xml:id="zoor0145-3" xml:lang="grc">Λἀμπωνος</w> <w xml:id="zoor0145-4" xml:lang="grc">παυσάμενος</w> <w xml:id="zoor0145-5" xml:lang="grc">μετὰ</w> <w xml:id="zoor0145-6" xml:lang="grc">καλοῦ</w> <w xml:id="zoor0145-7" xml:lang="grc">ἀνόματος</w> <w xml:id="zoor0145-8" xml:lang="grc">καὶ</w> <w xml:id="zoor0145-9" xml:lang="grc">καλῆς</w> <w xml:id="zoor0145-10" xml:lang="grc">πίστεως</w> <w xml:id="zoor0145-11" xml:lang="grc">ἐτῶν</w> <w xml:id="zoor0145-12" xml:lang="grc">πς</w> <w xml:id="zoor0145-13" xml:lang="grc">ἔτους</w> <w xml:id="zoor0145-14" xml:lang="grc">τριακοσιοστοῦ</w><w xml:id="zoor0145-15" xml:lang="grc"><expan><abbr>τριακασ</abbr><ex>τοῦ</ex></expan></w><w xml:id="zoor0145-16" xml:lang="grc">μηνὸς</w> <w xml:id="zoor0145-17" xml:lang="grc">Γαρπιέου</w> <w xml:id="zoor0145-18" xml:lang="grc">ε</w> <w xml:id="zoor0145-19" xml:lang="grc">ἡμέρᾳ</w><w xml:id="zoor0145-20" xml:lang="grc"><expan><abbr>Κυ</abbr><ex>ρίου</ex></expan></w><w xml:id="zoor0145-21" xml:lang="grc">ζ</w> <w xml:id="zoor0145-22" xml:lang="grc">Θάρσει</w> <w xml:id="zoor0145-23" xml:lang="grc">Ζεβίνα</w> <w xml:id="zoor0145-24" xml:lang="grc">οὐδεὶς</w> <w xml:id="zoor0145-25" xml:lang="grc">ἀθάν</w><w xml:id="zoor0145-26" xml:lang="grc"><supplied reason="undefined">α</supplied></w><w xml:id="zoor0145-27" xml:lang="grc">τος</w> <w xml:id="zoor0145-28" xml:lang="grc">Γράψας</w> <w xml:id="zoor0145-29" xml:lang="grc">ὁλάγραφος</w> <w xml:id="zoor0145-30" xml:lang="grc">χειρί</w></p>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="zoor0145-1" xml:lang="grc">Μνημεῖον</w> <w xml:id="zoor0145-2" xml:lang="grc">Ζεβίνας</w> <w xml:id="zoor0145-3" xml:lang="grc">Λἀμπωνος</w> <w xml:id="zoor0145-4" xml:lang="grc">παυσάμενος</w> <w xml:id="zoor0145-5" xml:lang="grc">μετὰ</w> <w xml:id="zoor0145-6" xml:lang="grc">καλοῦ</w> <w xml:id="zoor0145-7" xml:lang="grc">ἀνόματος</w> <w xml:id="zoor0145-8" xml:lang="grc">καὶ</w> <w xml:id="zoor0145-9" xml:lang="grc">καλῆς</w> <w xml:id="zoor0145-10" xml:lang="grc">πίστεως</w> <w xml:id="zoor0145-11" xml:lang="grc">ἐτῶν</w><w xml:id="zoor0145-12" xml:lang="grc"><num>πςʹ</num></w><w xml:id="zoor0145-13" xml:lang="grc">ἔτους</w> <w xml:id="zoor0145-14" xml:lang="grc">τριακοσιοστοῦ</w><w xml:id="zoor0145-15" xml:lang="grc"><expan><abbr>τριακασ</abbr><ex>τοῦ</ex></expan></w><w xml:id="zoor0145-16" xml:lang="grc">μηνὸς</w> <w xml:id="zoor0145-17" xml:lang="grc">Γαρπιέου</w><w xml:id="zoor0145-18" xml:lang="grc"><num>εʹ</num></w><w xml:id="zoor0145-19" xml:lang="grc">ἡμέρᾳ</w><w xml:id="zoor0145-20" xml:lang="grc"><expan><abbr>Κυ</abbr><ex>ρίου</ex></expan></w><w xml:id="zoor0145-21" xml:lang="grc"><num>ζʹ</num></w><w xml:id="zoor0145-22" xml:lang="grc">Θάρσει</w> <w xml:id="zoor0145-23" xml:lang="grc">Ζεβίνα</w> <w xml:id="zoor0145-24" xml:lang="grc">οὐδεὶς</w> <w xml:id="zoor0145-25" xml:lang="grc">ἀθάν</w><w xml:id="zoor0145-26" xml:lang="grc"><supplied reason="undefined">α</supplied></w><w xml:id="zoor0145-27" xml:lang="grc">τος</w> <w xml:id="zoor0145-28" xml:lang="grc">Γράψας</w> <w xml:id="zoor0145-29" xml:lang="grc">ὁλάγραφος</w> <w xml:id="zoor0145-30" xml:lang="grc">χειρί</w></p>
 </div>
 </body>
       <back>

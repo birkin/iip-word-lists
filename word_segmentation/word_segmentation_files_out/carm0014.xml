@@ -119,12 +119,12 @@
       <body>
          <div type="edition" ana="#b1" xml:lang="grc" subtype="transcription" xml:id="carm0014.transcription" corresp="#carm0014.translation">
             <p>
-               <supplied reason="undefined">Μαξ</supplied>ίμον <lb/>γρά<lb/>μμα</p>
+               <supplied reason="undefined">Μαξ</supplied>ίμον <lb/>γρά<lb break="no"/>μμα</p>
          </div>
          <div type="translation" ana="#b1" xml:id="carm0014.translation" corresp="#carm0014.transcription">
             <p>[Max]imos Gramma</p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="carm0014-1" xml:lang="grc"><supplied reason="undefined">Μαξ</supplied></w><w xml:id="carm0014-2" xml:lang="grc">ίμον</w> <w xml:id="carm0014-3" xml:lang="grc">γρά</w> <w xml:id="carm0014-4" xml:lang="grc">μμα</w></p>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="carm0014-1" xml:lang="grc"><supplied reason="undefined">Μαξ</supplied></w><w xml:id="carm0014-2" xml:lang="grc">ίμον</w> <w xml:id="carm0014-3" xml:lang="grc">γράμμα</w></p>
 </div>
 </body>
       <back>

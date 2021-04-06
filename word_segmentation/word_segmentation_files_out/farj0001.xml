@@ -123,17 +123,13 @@
                 </p>
          </div>
          <div type="edition" ana="#b1" subtype="transcription" xml:id="farj0001.transcription" corresp="#farj0001.diplomatic #farj0001.translation">
-            <p>Δομιτ<lb/>
-                    τιάς Κλα<lb/>
-                    υδίου γυ<lb/>
-                    ναῖκα ἐ<lb/>
-                    τῶν λ´
+            <p>Δομιτ<lb break="no"/>τιάς Κλα<lb break="no"/>δίου γυ<lb break="no"/>ναῖκα ἐ<lb break="no"/>τῶν <num>λ´</num>
                 </p>
          </div>
          <div type="translation" ana="#b1" xml:id="farj0001.translation" corresp="#farj0001.diplomatic #farj0001.transcription">
             <p>Domittias, (the) wife of Claudius. Thirty years old.</p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="farj0001-1" xml:lang="grc">Δομιτ</w> <w xml:id="farj0001-2" xml:lang="grc">τιάς</w> <w xml:id="farj0001-3" xml:lang="grc">Κλα</w> <w xml:id="farj0001-4" xml:lang="grc">υδίου</w> <w xml:id="farj0001-5" xml:lang="grc">γυ</w> <w xml:id="farj0001-6" xml:lang="grc">ναῖκα</w> <w xml:id="farj0001-7" xml:lang="grc">ἐ</w> <w xml:id="farj0001-8" xml:lang="grc">τῶν</w> <w xml:id="farj0001-9" xml:lang="grc">λ´</w></p>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="farj0001-1" xml:lang="grc">Δομιττιάς</w> <w xml:id="farj0001-2" xml:lang="grc">Κλαδίου</w> <w xml:id="farj0001-3" xml:lang="grc">γυναῖκα</w> <w xml:id="farj0001-4" xml:lang="grc">ἐτῶν</w><w xml:id="farj0001-5" xml:lang="grc"><num>λ´</num></w></p>
 </div>
 </body>
       <back>

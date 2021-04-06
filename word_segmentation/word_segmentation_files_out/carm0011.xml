@@ -119,12 +119,12 @@
          <div type="edition" ana="#b1" xml:lang="grc" subtype="transcription" xml:id="carm0011.transcription" corresp="#carm0011.translation">
             <p>
                <supplied reason="undefined">Οἰ</supplied>
-               <lb/>κονό<lb/>ομος τῆ<lb/>ς ἐκκλη<lb/>σίας</p>
+               <lb/>κονό<lb break="no"/>ομος τῆ<lb break="no"/>ς ἐκκλη<lb break="no"/>σίας</p>
          </div>
          <div type="translation" ana="#b1" xml:id="carm0011.translation" corresp="#carm0011.transcription">
             <p>...Economist of the church</p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="carm0011-1" xml:lang="grc"><supplied reason="undefined">Οἰ</supplied></w><w xml:id="carm0011-2" xml:lang="grc">κονό</w> <w xml:id="carm0011-3" xml:lang="grc">ομος</w> <w xml:id="carm0011-4" xml:lang="grc">τῆ</w> <w xml:id="carm0011-5" xml:lang="grc">ς</w> <w xml:id="carm0011-6" xml:lang="grc">ἐκκλη</w> <w xml:id="carm0011-7" xml:lang="grc">σίας</w></p>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="carm0011-1" xml:lang="grc"><supplied reason="undefined">Οἰ</supplied></w><w xml:id="carm0011-2" xml:lang="grc">κονόομος</w> <w xml:id="carm0011-3" xml:lang="grc">τῆς</w> <w xml:id="carm0011-4" xml:lang="grc">ἐκκλησίας</w></p>
 </div>
 </body>
       <back>

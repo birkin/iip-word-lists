@@ -118,12 +118,12 @@
    <text>
       <body>
          <div type="edition" ana="#b1" xml:lang="grc" subtype="transcription" xml:id="carm0013.transcription" corresp="#carm0013.translation">
-            <p>Ἀνα<lb/>γνώσ<lb/>της</p>
+            <p>Ἀνα<lb break="no"/>γνώσ<lb break="no"/>της</p>
          </div>
          <div type="translation" ana="#b1" xml:id="carm0013.translation" corresp="#carm0013.transcription">
             <p>Reader</p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="carm0013-1" xml:lang="grc">Ἀνα</w> <w xml:id="carm0013-2" xml:lang="grc">γνώσ</w> <w xml:id="carm0013-3" xml:lang="grc">της</w></p>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="carm0013-1" xml:lang="grc">Ἀναγνώστης</w></p>
 </div>
 </body>
       <back>

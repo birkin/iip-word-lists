@@ -135,18 +135,18 @@
             <p>
                <choice><sic>Μνημῖον</sic><corr>Μνημεῖον</corr></choice> Μαγδί<unclear>ου</unclear>
                <lb/> Εὐφρασίου.
-                        <choice><sic>Ἐκυ<lb/>μέθε</sic><corr>Ἐκοιμήθη</corr></choice> ἐτῶν δύο,<lb/> ἐν ἔτει σϟθʹ,<lb/>
+               <choice><sic>Ἐκυ<lb break="no"/>μέθε</sic><corr>Ἐκοιμήθη</corr></choice> ἐτῶν δύο,<lb/> ἐν ἔτει <num>σϟθʹ</num>,<lb/>
                     μηνὶ <choice><sic>Δεσίου</sic><corr>Δαισίου</corr></choice>
-               <lb/> ηιʹ. Θάρσει,<lb/>
+               <lb/> <num>ηιʹ</num>. Θάρσει,<lb/>
                <choice><sic>οὐδὶς</sic><corr>οὐδείς</corr></choice>
-               <choice><sic>ἀθά<lb/>τος</sic><corr>ἀθάνατος</corr></choice>.</p>
+               <choice><sic>ἀθά<lb break="no"/>τος</sic><corr>ἀθάνατος</corr></choice>.</p>
          </div>
          <div type="translation" ana="#b1" xml:id="zoor0084.translation" corresp="#zoor0084.transcription">
             <p>Monument of Magdios, (son) of Euphrasios. He died (at the age) of two years, in
                     the year 299, on (the) 18th (day) of (the) month Daisios. Be of good cheer, no
                     one (is) immortal.</p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="zoor0084-1" xml:lang="grc">Μνημεῖον</w> <w xml:id="zoor0084-2" xml:lang="grc">Μαγδίου</w> <w xml:id="zoor0084-3" xml:lang="grc">Εὐφρασίου</w> <w xml:id="zoor0084-4" xml:lang="grc">Ἐκοιμήθη</w> <w xml:id="zoor0084-5" xml:lang="grc">ἐτῶν</w> <w xml:id="zoor0084-6" xml:lang="grc">δύο</w> <w xml:id="zoor0084-7" xml:lang="grc">ἐν</w> <w xml:id="zoor0084-8" xml:lang="grc">ἔτει</w> <w xml:id="zoor0084-9" xml:lang="grc">σϟθ</w> <w xml:id="zoor0084-10" xml:lang="grc">μηνὶ</w> <w xml:id="zoor0084-11" xml:lang="grc">Δαισίου</w> <w xml:id="zoor0084-12" xml:lang="grc">ηι</w> <w xml:id="zoor0084-13" xml:lang="grc">Θάρσει</w> <w xml:id="zoor0084-14" xml:lang="grc">οὐδείς</w> <w xml:id="zoor0084-15" xml:lang="grc">ἀθάνατος</w></p>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="zoor0084-1" xml:lang="grc">Μνημεῖον</w> <w xml:id="zoor0084-2" xml:lang="grc">Μαγδίου</w> <w xml:id="zoor0084-3" xml:lang="grc">Εὐφρασίου</w> <w xml:id="zoor0084-4" xml:lang="grc">Ἐκοιμήθη</w> <w xml:id="zoor0084-5" xml:lang="grc">ἐτῶν</w> <w xml:id="zoor0084-6" xml:lang="grc">δύο</w> <w xml:id="zoor0084-7" xml:lang="grc">ἐν</w> <w xml:id="zoor0084-8" xml:lang="grc">ἔτει</w><w xml:id="zoor0084-9" xml:lang="grc"><num>σϟθʹ</num></w><w xml:id="zoor0084-10" xml:lang="grc">μηνὶ</w> <w xml:id="zoor0084-11" xml:lang="grc">Δαισίου</w><w xml:id="zoor0084-12" xml:lang="grc"><num>ηιʹ</num></w><w xml:id="zoor0084-13" xml:lang="grc">Θάρσει</w> <w xml:id="zoor0084-14" xml:lang="grc">οὐδείς</w> <w xml:id="zoor0084-15" xml:lang="grc">ἀθάνατος</w></p>
 </div>
 </body>
       <back>

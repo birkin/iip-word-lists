@@ -118,12 +118,13 @@
             <p> ΙΗΣΟΥΣ<lb/> ΣΕΙΛΟΥ<lb/> ΕΤΩΝΞ </p>
          </div>
          <div type="edition" ana="#b1" subtype="transcription" xml:id="dabi0001.transcription" corresp="#dabi0001.diplomatic #dabi0001.translation">
-            <p> Ἰησοῦς<lb/> Σε<unclear>ι</unclear>λου<lb/> ἐτῶν ξ´ </p>
+            <p> Ἰησοῦς<lb/> Σε<unclear>ι</unclear>λου<lb/> ἐτῶν <num>ξ´</num>
+            </p>
          </div>
          <div type="translation" ana="#b1" xml:id="dabi0001.translation" corresp="#dabi0001.diplomatic #dabi0001.transcription">
             <p> Jesus (son of) Seilas. Sixty years old. </p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="dabi0001-1" xml:lang="grc">Ἰησοῦς</w> <w xml:id="dabi0001-2" xml:lang="grc">Σειλου</w> <w xml:id="dabi0001-3" xml:lang="grc">ἐτῶν</w> <w xml:id="dabi0001-4" xml:lang="grc">ξ´</w></p>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="dabi0001-1" xml:lang="grc">Ἰησοῦς</w> <w xml:id="dabi0001-2" xml:lang="grc">Σειλου</w> <w xml:id="dabi0001-3" xml:lang="grc">ἐτῶν</w><w xml:id="dabi0001-4" xml:lang="grc"><num>ξ´</num></w></p>
 </div>
 </body>
       <back>

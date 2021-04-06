@@ -121,13 +121,12 @@
       <body>
          <div type="edition" ana="#b1" xml:lang="grc" subtype="transcription" xml:id="zoor0268.transcription" corresp="#zoor0268.translation">
             <p>+ +<lb/>
-               <choice><sic>Μνημῖ<lb/>ν</sic><corr>Μνημεῖον</corr></choice> Ὀκεύ<lb/>λου, <choice><sic>Φ<unclear>αι</unclear>
-                     <lb/>νοισί</sic><corr>Φαινουσίου</corr></choice>.<lb/> +</p>
+               <choice><sic>Μνημῖ<lb break="no"/>ν</sic><corr>Μνημεῖον</corr></choice> Ὀκεύ<lb break="no"/>λου, <choice><sic>Φ<unclear>αι</unclear><lb break="no"/>νοισί</sic><corr>Φαινουσίου</corr></choice>.<lb/> +</p>
          </div>
          <div type="translation" ana="#b1" xml:id="zoor0268.translation" corresp="#zoor0268.transcription">
             <p>Monument of Okeilos from Feinan.</p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="zoor0268-1" xml:lang="grc">Μνημεῖον</w> <w xml:id="zoor0268-2" xml:lang="grc">Ὀκεύ</w> <w xml:id="zoor0268-3" xml:lang="grc">λου</w> <w xml:id="zoor0268-4" xml:lang="grc">Φαι</w> <w xml:id="zoor0268-5" xml:lang="grc">νοισίΦαινουσίου</w></p>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="zoor0268-1" xml:lang="grc">Μνημεῖον</w> <w xml:id="zoor0268-2" xml:lang="grc">Ὀκεύλου</w> <w xml:id="zoor0268-3" xml:lang="grc">Φαινουσίου</w></p>
 </div>
 </body>
       <back>

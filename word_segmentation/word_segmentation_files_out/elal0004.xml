@@ -125,20 +125,17 @@
                 </p>
          </div>
          <div type="edition" ana="#b1" subtype="transcription" xml:id="elal0004.transcription" corresp="#elal0004.diplomatic #elal0004.translation">
-            <p>
-                    θάρσ<unclear>ι</unclear>
-               <lb/>
-                    ᾽Αγά<unclear>θη</unclear>
+            <p> θάρσ<unclear>ι</unclear>
+               <lb/> Ἀγά<unclear>θη</unclear>
                <lb/>
                <expan><abbr>ἐτ</abbr><ex>ῶν</ex></expan>
-               <lb/>
-                    ι´
-                </p>
+               <lb/><num> ι´</num>
+            </p>
          </div>
          <div type="translation" ana="#b1" xml:id="elal0004.translation" corresp="#elal0004.diplomatic #elal0004.transcription">
             <p> Be of good courage, Agathe! Ten years old. </p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="elal0004-1" xml:lang="grc">θάρσι</w> <w xml:id="elal0004-2" xml:lang="grc">᾽Αγάθη</w><w xml:id="elal0004-3" xml:lang="grc"><expan><abbr>ἐτ</abbr><ex>ῶν</ex></expan></w><w xml:id="elal0004-4" xml:lang="grc">ι´</w></p>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="elal0004-1" xml:lang="grc">θάρσι</w> <w xml:id="elal0004-2" xml:lang="grc">Ἀγάθη</w><w xml:id="elal0004-3" xml:lang="grc"><expan><abbr>ἐτ</abbr><ex>ῶν</ex></expan></w><w xml:id="elal0004-4" xml:lang="grc"><num> ι´</num></w></p>
 </div>
 </body>
       <back>

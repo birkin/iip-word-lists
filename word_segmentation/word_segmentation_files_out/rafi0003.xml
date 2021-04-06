@@ -122,12 +122,12 @@
          <div type="edition" ana="#b1" subtype="transcription" xml:id="rafi0003.transcription" corresp="#rafi0003.diplomatic #rafi0003.translation">
             <p>+ <expan><abbr>Κύ</abbr><ex>ριος</ex></expan> φ<choice><corr>ῶ</corr><sic>ο</sic>
                </choice>ς ζ<choice><corr>ω</corr><sic>ο</sic>
-               </choice>ή <unclear>Μ</unclear> + + </p>
+               </choice>ή <orig><unclear>Μ</unclear></orig> + + </p>
          </div>
          <div type="translation" ana="#b1" xml:id="rafi0003.translation" corresp="#rafi0003.diplomatic #rafi0003.transcription">
             <p>+ Lord! Light! Life! M...+  +</p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="rafi0003-1" xml:lang="grc"><expan><abbr>Κύ</abbr><ex>ριος</ex></expan></w><w xml:id="rafi0003-2" xml:lang="grc">φῶ</w> <w xml:id="rafi0003-3" xml:lang="grc">ς</w> <w xml:id="rafi0003-4" xml:lang="grc">ζω</w> <w xml:id="rafi0003-5" xml:lang="grc">ή</w> <w xml:id="rafi0003-6" xml:lang="grc">Μ</w></p>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="rafi0003-1" xml:lang="grc"><expan><abbr>Κύ</abbr><ex>ριος</ex></expan></w><w xml:id="rafi0003-2" xml:lang="grc">φῶ</w> <w xml:id="rafi0003-3" xml:lang="grc">ς</w> <w xml:id="rafi0003-4" xml:lang="grc">ζω</w> <w xml:id="rafi0003-5" xml:lang="grc">ή</w></p>
 </div>
 </body>
       <back>

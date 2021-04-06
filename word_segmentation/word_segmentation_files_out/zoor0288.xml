@@ -120,14 +120,13 @@
    <text>
       <body>
          <div type="edition" ana="#b1" xml:lang="grc" subtype="transcription" xml:id="zoor0288.transcription" corresp="#zoor0288.translation">
-            <p>Ἐτῶν οʹ<lb/> οʹ. <choice><sic>Μνη<lb/>μίον</sic><corr>Μνημεῖον</corr></choice>
-                        Θε<lb/>
-               <unclear>οδ</unclear>ώρας</p>
+            <p>Ἐτῶν <num>οʹ</num><lb/> <num>οʹ</num>. <choice><sic>Μνη<lb break="no"/>μίον</sic><corr>Μνημεῖον</corr></choice>
+               Θε<lb break="no"/><unclear>οδ</unclear>ώρας</p>
          </div>
          <div type="translation" ana="#b1" xml:id="zoor0288.translation" corresp="#zoor0288.transcription">
             <p>70 years old. Monument of Theodora.</p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="zoor0288-1" xml:lang="grc">Ἐτῶν</w> <w xml:id="zoor0288-2" xml:lang="grc">ο</w> <w xml:id="zoor0288-3" xml:lang="grc">ο</w> <w xml:id="zoor0288-4" xml:lang="grc">Μνημεῖον</w> <w xml:id="zoor0288-5" xml:lang="grc">Θε</w> <w xml:id="zoor0288-6" xml:lang="grc">οδώρας</w></p>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="zoor0288-1" xml:lang="grc">Ἐτῶν</w><w xml:id="zoor0288-2" xml:lang="grc"><num>οʹ</num></w><w xml:id="zoor0288-3" xml:lang="grc"><num>οʹ</num></w><w xml:id="zoor0288-4" xml:lang="grc">Μνημεῖον</w> <w xml:id="zoor0288-5" xml:lang="grc">Θεοδώρας</w></p>
 </div>
 </body>
       <back>

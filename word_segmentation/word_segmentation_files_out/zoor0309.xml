@@ -122,19 +122,18 @@
                <lb/><choice><sic>Μνημῖον</sic><corr>Μνημεῖον</corr></choice>
                <lb/>Ἀλουφάθης
                <lb/>Π<unclear>α</unclear>λλ<unclear>α</unclear>δίου<lb/> ἀποθανούσης
-               <lb/>μετὰ καλοῦ ὀνό<lb/>ματος καὶ καλῆ<unclear>ς</unclear>
+               <lb/>μετὰ καλοῦ ὀνό<lb break="no"/>ματος καὶ καλῆ<unclear>ς</unclear>
                <lb/><supplied reason="undefined">πί</supplied><unclear>σ</unclear>τεως 
                ἐν <choice><sic>ἔτι</sic><corr>ἔτει</corr></choice>
                <lb/><supplied reason="undefined"><expan><abbr>μη</abbr><ex>νὸς</ex></expan></supplied>
-               <supplied reason="undefined">Γορ</supplied><unclear>π</unclear>ιέ<unclear>ο</unclear>
-               <supplied reason="undefined">υ</supplied>.</p>
+               <supplied reason="undefined">Γορ</supplied><unclear>π</unclear>ιέ<unclear>ο</unclear><supplied reason="undefined">υ</supplied>.</p>
          </div>
          <div type="translation" ana="#b1" xml:id="zoor0309.translation" corresp="#zoor0309.transcription">
             <p>One (is) the God, the Lord of all. Monument of Aloufathe, (daughter) of
                     Palladios, who died having a good name and good faith in the year [..., in
                     (the)... (day) of (the) month] Gorpaios (?)...</p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="zoor0309-1" xml:lang="grc">Εἷς</w> <w xml:id="zoor0309-2" xml:lang="grc">Θεός</w> <w xml:id="zoor0309-3" xml:lang="grc">ὁ</w> <w xml:id="zoor0309-4" xml:lang="grc">πάντων</w> <w xml:id="zoor0309-5" xml:lang="grc">Δεσπότης</w> <w xml:id="zoor0309-6" xml:lang="grc">Μνημεῖον</w> <w xml:id="zoor0309-7" xml:lang="grc">Ἀλουφάθης</w> <w xml:id="zoor0309-8" xml:lang="grc">Παλλαδίου</w> <w xml:id="zoor0309-9" xml:lang="grc">ἀποθανούσης</w> <w xml:id="zoor0309-10" xml:lang="grc">μετὰ</w> <w xml:id="zoor0309-11" xml:lang="grc">καλοῦ</w> <w xml:id="zoor0309-12" xml:lang="grc">ὀνό</w> <w xml:id="zoor0309-13" xml:lang="grc">ματος</w> <w xml:id="zoor0309-14" xml:lang="grc">καὶ</w> <w xml:id="zoor0309-15" xml:lang="grc">καλῆς</w><w xml:id="zoor0309-16" xml:lang="grc"><supplied reason="undefined">πί</supplied></w><w xml:id="zoor0309-17" xml:lang="grc">στεως</w> <w xml:id="zoor0309-18" xml:lang="grc">ἐν</w> <w xml:id="zoor0309-19" xml:lang="grc">ἔτει</w><w xml:id="zoor0309-20" xml:lang="grc"><supplied reason="undefined"><w xml:id="zoor0309-21" xml:lang="grc"><expan><abbr>μη</abbr><ex>νὸς</ex></expan></w></supplied></w><w xml:id="zoor0309-22" xml:lang="grc"><supplied reason="undefined">Γορ</supplied></w><w xml:id="zoor0309-23" xml:lang="grc">πιέο</w><w xml:id="zoor0309-24" xml:lang="grc"><supplied reason="undefined">υ</supplied></w></p>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="zoor0309-1" xml:lang="grc">Εἷς</w> <w xml:id="zoor0309-2" xml:lang="grc">Θεός</w> <w xml:id="zoor0309-3" xml:lang="grc">ὁ</w> <w xml:id="zoor0309-4" xml:lang="grc">πάντων</w> <w xml:id="zoor0309-5" xml:lang="grc">Δεσπότης</w> <w xml:id="zoor0309-6" xml:lang="grc">Μνημεῖον</w> <w xml:id="zoor0309-7" xml:lang="grc">Ἀλουφάθης</w> <w xml:id="zoor0309-8" xml:lang="grc">Παλλαδίου</w> <w xml:id="zoor0309-9" xml:lang="grc">ἀποθανούσης</w> <w xml:id="zoor0309-10" xml:lang="grc">μετὰ</w> <w xml:id="zoor0309-11" xml:lang="grc">καλοῦ</w> <w xml:id="zoor0309-12" xml:lang="grc">ὀνόματος</w> <w xml:id="zoor0309-13" xml:lang="grc">καὶ</w> <w xml:id="zoor0309-14" xml:lang="grc">καλῆς</w><w xml:id="zoor0309-15" xml:lang="grc"><supplied reason="undefined">πί</supplied></w><w xml:id="zoor0309-16" xml:lang="grc">στεως</w> <w xml:id="zoor0309-17" xml:lang="grc">ἐν</w> <w xml:id="zoor0309-18" xml:lang="grc">ἔτει</w><w xml:id="zoor0309-19" xml:lang="grc"><supplied reason="undefined"><w xml:id="zoor0309-20" xml:lang="grc"><expan><abbr>μη</abbr><ex>νὸς</ex></expan></w></supplied></w><w xml:id="zoor0309-21" xml:lang="grc"><supplied reason="undefined">Γορ</supplied></w><w xml:id="zoor0309-22" xml:lang="grc">πιέο</w><w xml:id="zoor0309-23" xml:lang="grc"><supplied reason="undefined">υ</supplied></w></p>
 </div>
 </body>
       <back>

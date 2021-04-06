@@ -169,8 +169,9 @@
                 <p/>
             </div>
             <div type="edition" subtype="transcription" ana="b1">
-                <p>Επι Αγαθο<gap reason="lost" extent="unknown" unit="character"/> Κνί<supplied reason="lost">διον</supplied>
-            </p>
+                <p>ἐπὶ <orig>Ἀγαθο</orig><gap reason="lost" extent="unknown" unit="character"/>
+                        Κνί<supplied reason="lost">διον</supplied>
+                </p>
             </div>
             <div type="translation" ana="b1">
                 <p/>
@@ -181,7 +182,7 @@
             </div>
             <!-- The bibl has more contained elements. What is the possible list of values of the biblScope/@type? 
              -->
-        <div type="edition" subtype="transcription_segmented"><p><w xml:id="mare0012-1" xml:lang="grc">Επι</w> <w xml:id="mare0012-2" xml:lang="grc">Αγαθο</w> <w xml:id="mare0012-3" xml:lang="grc">Κνί</w><w xml:id="mare0012-4" xml:lang="grc"><supplied reason="lost">διον</supplied></w></p>
+        <div type="edition" subtype="transcription_segmented"><p><w xml:id="mare0012-1" xml:lang="grc">ἐπὶ</w> <w xml:id="mare0012-2" xml:lang="grc">Κνί</w><w xml:id="mare0012-3" xml:lang="grc"><supplied reason="lost">διον</supplied></w></p>
 </div>
 </body>
         <back>

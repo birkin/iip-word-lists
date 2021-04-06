@@ -118,12 +118,12 @@
    <text>
       <body>
          <div type="edition" ana="#b1" xml:lang="grc" subtype="transcription" xml:id="carm0008.transcription" corresp="#carm0008.translation">
-            <p> Ἄππα<lb/>ς διάκ<lb/>ων γρά<lb/>μμα</p>
+            <p> Ἄππα<lb break="no"/>ς διάκ<lb break="no"/>ων γρά<lb break="no"/>μμα</p>
          </div>
          <div type="translation" ana="#b1" xml:id="carm0008.translation" corresp="#carm0008.transcription">
             <p>Appas Deacon Gramma</p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="carm0008-1" xml:lang="grc">Ἄππα</w> <w xml:id="carm0008-2" xml:lang="grc">ς</w> <w xml:id="carm0008-3" xml:lang="grc">διάκ</w> <w xml:id="carm0008-4" xml:lang="grc">ων</w> <w xml:id="carm0008-5" xml:lang="grc">γρά</w> <w xml:id="carm0008-6" xml:lang="grc">μμα</w></p>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="carm0008-1" xml:lang="grc">Ἄππας</w> <w xml:id="carm0008-2" xml:lang="grc">διάκων</w> <w xml:id="carm0008-3" xml:lang="grc">γράμμα</w></p>
 </div>
 </body>
       <back>

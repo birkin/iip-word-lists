@@ -127,21 +127,17 @@
             <p>+ Εἶς <unclear>θεός</unclear>,<lb/>
                <unclear>ὁ</unclear>
                <unclear>πάντων</unclear>
-               <unclear>Δε</unclear>
-               <lb/>
-               <unclear>σπότης</unclear>.
-                        <unclear>Ἐν</unclear>
-               <lb/>
-               <unclear>θά</unclear>δε
+               <unclear>Δε</unclear><lb break="no"/><unclear>σπότης</unclear>.
+                        <unclear>Ἐν</unclear><lb break="no"/><unclear>θά</unclear>δε
                     κε<unclear>ῖται</unclear>
                <lb/> Εὐσέβι<unclear>o</unclear>ς.<lb/>
                         ζήσ<unclear>α</unclear>ς ἔ<unclear>τη</unclear>
-               <unclear>ξ</unclear>ʹ<lb/>
+               <num><unclear>ξ</unclear>ʹ</num><lb/>
                <choice><sic>ἑξίκο<unclear>ντα</unclear>
                   </sic><corr>ἑξήκνοτα</corr></choice>
                <expan><abbr>μη</abbr><ex>νὸς</ex></expan>
                <expan><abbr>Ἀρτ</abbr><ex>εμισίου</ex></expan>
-               <lb/> βκʹ, τϟζʹ. Θάρ<lb/>σει οὐδεὶς.<lb/>
+               <lb/> <num>βκʹ</num>, <num>τϟζʹ</num>. Θάρ<lb break="no"/>σει οὐδεὶς.<lb/>
                <choice><sic>ἀθάντος</sic><corr>ἀθάνατος</corr></choice>.</p>
          </div>
          <div type="translation" ana="#b1" xml:id="zoor0253.translation" corresp="#zoor0253.transcription">
@@ -149,7 +145,7 @@
                     (and died) on the 22nd (day) of (the) month Artemisios, (in the year) 397. Be of
                     good cheer, no one (is) immortal.</p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="zoor0253-1" xml:lang="grc">Εἶς</w> <w xml:id="zoor0253-2" xml:lang="grc">θεός</w> <w xml:id="zoor0253-3" xml:lang="grc">ὁ</w> <w xml:id="zoor0253-4" xml:lang="grc">πάντων</w> <w xml:id="zoor0253-5" xml:lang="grc">Δε</w> <w xml:id="zoor0253-6" xml:lang="grc">σπότης</w> <w xml:id="zoor0253-7" xml:lang="grc">Ἐν</w> <w xml:id="zoor0253-8" xml:lang="grc">θάδε</w> <w xml:id="zoor0253-9" xml:lang="grc">κεῖται</w> <w xml:id="zoor0253-10" xml:lang="grc">Εὐσέβιoς</w> <w xml:id="zoor0253-11" xml:lang="grc">ζήσας</w> <w xml:id="zoor0253-12" xml:lang="grc">ἔτη</w> <w xml:id="zoor0253-13" xml:lang="grc">ξ</w> <w xml:id="zoor0253-14" xml:lang="grc">ἑξίκοντα</w> <w xml:id="zoor0253-15" xml:lang="grc">ἑξήκνοτα</w><w xml:id="zoor0253-16" xml:lang="grc"><expan><abbr>μη</abbr><ex>νὸς</ex></expan></w><w xml:id="zoor0253-17" xml:lang="grc"><expan><abbr>Ἀρτ</abbr><ex>εμισίου</ex></expan></w><w xml:id="zoor0253-18" xml:lang="grc">βκ</w> <w xml:id="zoor0253-19" xml:lang="grc">τϟζ</w> <w xml:id="zoor0253-20" xml:lang="grc">Θάρ</w> <w xml:id="zoor0253-21" xml:lang="grc">σει</w> <w xml:id="zoor0253-22" xml:lang="grc">οὐδεὶς</w> <w xml:id="zoor0253-23" xml:lang="grc">ἀθάνατος</w></p>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="zoor0253-1" xml:lang="grc">Εἶς</w> <w xml:id="zoor0253-2" xml:lang="grc">θεός</w> <w xml:id="zoor0253-3" xml:lang="grc">ὁ</w> <w xml:id="zoor0253-4" xml:lang="grc">πάντων</w> <w xml:id="zoor0253-5" xml:lang="grc">Δεσπότης</w> <w xml:id="zoor0253-6" xml:lang="grc">Ἐνθάδε</w> <w xml:id="zoor0253-7" xml:lang="grc">κεῖται</w> <w xml:id="zoor0253-8" xml:lang="grc">Εὐσέβιoς</w> <w xml:id="zoor0253-9" xml:lang="grc">ζήσας</w> <w xml:id="zoor0253-10" xml:lang="grc">ἔτη</w><w xml:id="zoor0253-11" xml:lang="grc"><num>ξʹ</num></w><w xml:id="zoor0253-12" xml:lang="grc">ἑξίκοντα</w> <w xml:id="zoor0253-13" xml:lang="grc">ἑξήκνοτα</w><w xml:id="zoor0253-14" xml:lang="grc"><expan><abbr>μη</abbr><ex>νὸς</ex></expan></w><w xml:id="zoor0253-15" xml:lang="grc"><expan><abbr>Ἀρτ</abbr><ex>εμισίου</ex></expan></w><w xml:id="zoor0253-16" xml:lang="grc"><num>βκʹ</num></w><w xml:id="zoor0253-17" xml:lang="grc"><num>τϟζʹ</num></w><w xml:id="zoor0253-18" xml:lang="grc">Θάρσει</w> <w xml:id="zoor0253-19" xml:lang="grc">οὐδεὶς</w> <w xml:id="zoor0253-20" xml:lang="grc">ἀθάνατος</w></p>
 </div>
 </body>
       <back>

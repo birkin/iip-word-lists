@@ -122,17 +122,15 @@
                 </p>
          </div>
          <div type="edition" ana="#b1" subtype="transcription" xml:id="farj0004.transcription" corresp="#farj0004.diplomatic #farj0004.translation">
-            <p>Εχωμ<lb/>
-                    α Βαρ<lb/>
-                    νέβο<unclear>υ</unclear>
+            <p>Εχωμ<lb break="no"/>α Βαρ<lb break="no"/>έβο<unclear>υ</unclear>
                <lb/>
-               <expan><abbr>ἐτῶ</abbr><ex>ν</ex></expan> π´
+               <expan><abbr>ἐτῶ</abbr><ex>ν</ex></expan> <num>π´</num>
                 </p>
          </div>
          <div type="translation" ana="#b1" xml:id="farj0004.translation" corresp="#farj0004.diplomatic #farj0004.transcription">
             <p>Echoma, daughter(?) of Barnebus.</p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="farj0004-1" xml:lang="grc">Εχωμ</w> <w xml:id="farj0004-2" xml:lang="grc">α</w> <w xml:id="farj0004-3" xml:lang="grc">Βαρ</w> <w xml:id="farj0004-4" xml:lang="grc">νέβου</w><w xml:id="farj0004-5" xml:lang="grc"><expan><abbr>ἐτῶ</abbr><ex>ν</ex></expan></w><w xml:id="farj0004-6" xml:lang="grc">π´</w></p>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="farj0004-1" xml:lang="grc">Εχωμα</w> <w xml:id="farj0004-2" xml:lang="grc">Βαρέβου</w><w xml:id="farj0004-3" xml:lang="grc"><expan><abbr>ἐτῶ</abbr><ex>ν</ex></expan></w><w xml:id="farj0004-4" xml:lang="grc"><num>π´</num></w></p>
 </div>
 </body>
       <back>

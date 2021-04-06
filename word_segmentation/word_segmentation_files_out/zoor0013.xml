@@ -121,13 +121,20 @@
       <body>
          <div type="edition" ana="#b1" xml:lang="grc" subtype="transcription" xml:id="zoor0013.transcription" corresp="#zoor0013.translation">
             <p>
-               <choice><sic>Μνημῖ<lb break="no"/>ον</sic><corr>Μνημεῖον</corr></choice> Σί<unclear>λ</unclear>θ<lb break="no"/>ας Ζην<unclear>ό</unclear><lb break="no"/>βις <choice><sic>ἀπο<lb break="no"/>θανόν<lb break="no"/>τας</sic><corr>ἀποθανόντος</corr></choice> ἐτῶν <lb/>ηʹ +<lb/> ἔτου<supplied reason="omitted">ς</supplied> σνʹ</p>
+               <choice>
+                  <sic>Μνημῖ<lb break="no"/>ον</sic>
+                  <corr>Μνημεῖον</corr>
+               </choice> Σί<unclear>λ</unclear>θ<lb break="no"/>ας Ζην<unclear>ό</unclear><lb break="no"/>βις <choice>
+                  <sic>ἀπο<lb break="no"/>θανόν<lb break="no"/>τας</sic>
+                  <corr>ἀποθανόντος</corr>
+               </choice> ἐτῶν <lb/><num>ηʹ</num> +<lb/> ἔτου<supplied reason="omitted">ς</supplied>
+               <num>σνʹ</num></p>
          </div>
          <div type="translation" ana="#b1" xml:id="zoor0013.translation" corresp="#zoor0013.transcription">
             <p>Monument of Siltha, (daughter) of Zenobi(o)s, who died (at the age) of 8 years,
                     in (the) year 250.</p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="zoor0013-1" xml:lang="grc">Μνημεῖον</w> <w xml:id="zoor0013-2" xml:lang="grc">Σίλθας</w> <w xml:id="zoor0013-3" xml:lang="grc">Ζηνόβις</w> <w xml:id="zoor0013-4" xml:lang="grc">ἀποθανόντος</w> <w xml:id="zoor0013-5" xml:lang="grc">ἐτῶν</w> <w xml:id="zoor0013-6" xml:lang="grc">η</w> <w xml:id="zoor0013-7" xml:lang="grc">ἔτου</w><w xml:id="zoor0013-8" xml:lang="grc"><supplied reason="omitted">ς</supplied></w><w xml:id="zoor0013-9" xml:lang="grc">σν</w></p>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="zoor0013-1" xml:lang="grc">Μνημεῖον</w> <w xml:id="zoor0013-2" xml:lang="grc">Σίλθας</w> <w xml:id="zoor0013-3" xml:lang="grc">Ζηνόβις</w> <w xml:id="zoor0013-4" xml:lang="grc">ἀποθανόντος</w> <w xml:id="zoor0013-5" xml:lang="grc">ἐτῶν</w><w xml:id="zoor0013-6" xml:lang="grc"><num>ηʹ</num></w><w xml:id="zoor0013-7" xml:lang="grc">ἔτου</w><w xml:id="zoor0013-8" xml:lang="grc"><supplied reason="omitted">ς</supplied></w><w xml:id="zoor0013-9" xml:lang="grc"><num>σνʹ</num></w></p>
 </div>
 </body>
       <back>

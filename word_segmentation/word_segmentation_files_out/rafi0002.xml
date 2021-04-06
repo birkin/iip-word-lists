@@ -123,25 +123,20 @@
                 </p>
          </div>
          <div type="edition" ana="#b1" subtype="transcription" xml:id="rafi0002.transcription" corresp="#rafi0002.diplomatic #rafi0002.translation">
-            <p>+ εἷς <expan><abbr>θ</abbr><ex>εό</ex><abbr>ς</abbr></expan> ὁ<lb/>
-                    βοηθῶν<lb/>
-                    Σεργωνᾶ<lb/>
+            <p><g type="cross">+</g> εἷς <expan><abbr>θ</abbr><ex>εό</ex><abbr>ς</abbr></expan> ὁ<lb/> βοηθῶν<lb/> Σεργωνᾶ<lb/>
                <expan><abbr>Χ</abbr><ex>ριστός</ex></expan>
                <expan><abbr>Μ</abbr><ex>αρίας</ex></expan>
                <expan><abbr>γ</abbr><ex>εννηθείς</ex></expan>
                <lb/>
-                    Α Ω<lb/>
-                    τούτῳ<lb/>
-                    νίκα + <expan><abbr>κτίστ</abbr><ex>ης</ex></expan>
-               <lb/>
-                    Αβελαθουτω
-                </p>
+               <orig>Α Ω</orig><lb/> τούτῳ<lb/> νίκα <g type="cross">+</g>
+               <expan><abbr>κτίστ</abbr><ex>ης</ex></expan>
+               <lb/> Ἀβελαθουτω </p>
          </div>
          <div type="translation" ana="#b1" xml:id="rafi0002.translation" corresp="#rafi0002.diplomatic #rafi0002.transcription">
             <p>(There is) one God who lends aid to Sergonas. Christ, born of Mary. 
                     (alpha-omega) In this (sign) +  conquer. Abelathos (Abelathouto?) is the builder.</p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="rafi0002-1" xml:lang="grc">εἷς</w><w xml:id="rafi0002-2" xml:lang="grc"><expan><abbr>θ</abbr><ex>εό</ex><abbr>ς</abbr></expan></w><w xml:id="rafi0002-3" xml:lang="grc">ὁ</w> <w xml:id="rafi0002-4" xml:lang="grc">βοηθῶν</w> <w xml:id="rafi0002-5" xml:lang="grc">Σεργωνᾶ</w><w xml:id="rafi0002-6" xml:lang="grc"><expan><abbr>Χ</abbr><ex>ριστός</ex></expan></w><w xml:id="rafi0002-7" xml:lang="grc"><expan><abbr>Μ</abbr><ex>αρίας</ex></expan></w><w xml:id="rafi0002-8" xml:lang="grc"><expan><abbr>γ</abbr><ex>εννηθείς</ex></expan></w><w xml:id="rafi0002-9" xml:lang="grc">Α</w> <w xml:id="rafi0002-10" xml:lang="grc">Ω</w> <w xml:id="rafi0002-11" xml:lang="grc">τούτῳ</w> <w xml:id="rafi0002-12" xml:lang="grc">νίκα</w><w xml:id="rafi0002-13" xml:lang="grc"><expan><abbr>κτίστ</abbr><ex>ης</ex></expan></w><w xml:id="rafi0002-14" xml:lang="grc">Αβελαθουτω</w></p>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="rafi0002-1" xml:lang="grc">εἷς</w><w xml:id="rafi0002-2" xml:lang="grc"><expan><abbr>θ</abbr><ex>εό</ex><abbr>ς</abbr></expan></w><w xml:id="rafi0002-3" xml:lang="grc">ὁ</w> <w xml:id="rafi0002-4" xml:lang="grc">βοηθῶν</w> <w xml:id="rafi0002-5" xml:lang="grc">Σεργωνᾶ</w><w xml:id="rafi0002-6" xml:lang="grc"><expan><abbr>Χ</abbr><ex>ριστός</ex></expan></w><w xml:id="rafi0002-7" xml:lang="grc"><expan><abbr>Μ</abbr><ex>αρίας</ex></expan></w><w xml:id="rafi0002-8" xml:lang="grc"><expan><abbr>γ</abbr><ex>εννηθείς</ex></expan></w><w xml:id="rafi0002-9" xml:lang="grc">τούτῳ</w> <w xml:id="rafi0002-10" xml:lang="grc">νίκα</w><w xml:id="rafi0002-11" xml:lang="grc"><expan><abbr>κτίστ</abbr><ex>ης</ex></expan></w><w xml:id="rafi0002-12" xml:lang="grc">Ἀβελαθουτω</w></p>
 </div>
 </body>
       <back>

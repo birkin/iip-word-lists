@@ -129,12 +129,10 @@
       <body>
          <div type="edition" ana="#b1" xml:lang="grc" subtype="transcription" xml:id="zoor0061.transcription" corresp="#zoor0061.translation">
             <p>+<lb/>
-               <choice><sic>Μνημῖ<lb/>ον</sic><corr>Μνημεῖον</corr></choice> Ἀμαθ<lb/>ήσου Ἀβδι<lb/>σάρου,
-                    ἀπο<lb/>θανόντος <lb/>ἐν <choice><sic>ὁσιότε<lb/>
-                     <unclear>τ</unclear>ι</sic><corr>ὁσιότητι</corr></choice>
-               <choice><sic>ἔτε</sic><corr>ἔτη</corr></choice> κʹ, ἔ<lb/>
-               <unclear>τ</unclear>ους σπ<unclear>δ</unclear>ʹ,<lb/>μηνὸς
-                    <choice><sic>Πο<lb/>νέμο<hi rend="ligature">υς</hi>
+               <choice><sic>Μνημῖ<lb break="no"/>ον</sic><corr>Μνημεῖον</corr></choice> Ἀμαθ<lb break="no"/>ήσου Ἀβδι<lb break="no"/>σάρου,
+               ἀπο<lb break="no"/>θανόντος <lb/>ἐν <choice><sic>ὁσιότε<lb break="no"/><unclear>τ</unclear>ι</sic><corr>ὁσιότητι</corr></choice>
+               <choice><sic>ἔτε</sic><corr>ἔτη</corr></choice> <num>κʹ</num>, ἔ<lb break="no"/><unclear>τ</unclear>ους <num>σπ<unclear>δ</unclear>ʹ</num>,<lb/>μηνὸς
+               <choice><sic>Πο<lb break="no"/>νέμο<hi rend="ligature">υς</hi>
                   </sic><corr>Πανήμου</corr></choice>. <lb/>
                <choice><sic>Θάρσι</sic><corr>Θάρσει</corr></choice>, <choice><sic>οὐδὶς</sic><corr>οὐδείς</corr></choice>
                <lb/>ἀθάνατος.<lb/>+</p>
@@ -142,7 +140,7 @@
          <div type="translation" ana="#b1" xml:id="zoor0061.translation" corresp="#zoor0061.transcription">
             <p>Monument of Amathesos, (son) of Abdisharos, who died in holiness (at the age) of 20 years, in (the) year 284, in (the) month of Panemos. Be of good cheer, no one (is) immortal.</p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="zoor0061-1" xml:lang="grc">Μνημεῖον</w> <w xml:id="zoor0061-2" xml:lang="grc">Ἀμαθ</w> <w xml:id="zoor0061-3" xml:lang="grc">ήσου</w> <w xml:id="zoor0061-4" xml:lang="grc">Ἀβδι</w> <w xml:id="zoor0061-5" xml:lang="grc">σάρου</w> <w xml:id="zoor0061-6" xml:lang="grc">ἀπο</w> <w xml:id="zoor0061-7" xml:lang="grc">θανόντος</w> <w xml:id="zoor0061-8" xml:lang="grc">ἐν</w> <w xml:id="zoor0061-9" xml:lang="grc">ὁσιότε</w> <w xml:id="zoor0061-10" xml:lang="grc">τιὁσιότητι</w> <w xml:id="zoor0061-11" xml:lang="grc">ἔτη</w> <w xml:id="zoor0061-12" xml:lang="grc">κ</w> <w xml:id="zoor0061-13" xml:lang="grc">ἔ</w> <w xml:id="zoor0061-14" xml:lang="grc">τους</w> <w xml:id="zoor0061-15" xml:lang="grc">σπδ</w> <w xml:id="zoor0061-16" xml:lang="grc">μηνὸς</w> <w xml:id="zoor0061-17" xml:lang="grc">Πο</w> <w xml:id="zoor0061-18" xml:lang="grc">νέμο</w><w xml:id="zoor0061-19" xml:lang="grc">Πανήμου</w> <w xml:id="zoor0061-20" xml:lang="grc">Θάρσει</w> <w xml:id="zoor0061-21" xml:lang="grc">οὐδείς</w> <w xml:id="zoor0061-22" xml:lang="grc">ἀθάνατος</w></p>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="zoor0061-1" xml:lang="grc">Μνημεῖον</w> <w xml:id="zoor0061-2" xml:lang="grc">Ἀμαθήσου</w> <w xml:id="zoor0061-3" xml:lang="grc">Ἀβδισάρου</w> <w xml:id="zoor0061-4" xml:lang="grc">ἀποθανόντος</w> <w xml:id="zoor0061-5" xml:lang="grc">ἐν</w> <w xml:id="zoor0061-6" xml:lang="grc">ὁσιότητι</w> <w xml:id="zoor0061-7" xml:lang="grc">ἔτη</w><w xml:id="zoor0061-8" xml:lang="grc"><num>κʹ</num></w><w xml:id="zoor0061-9" xml:lang="grc">ἔτους</w><w xml:id="zoor0061-10" xml:lang="grc"><num>σπδʹ</num></w><w xml:id="zoor0061-11" xml:lang="grc">μηνὸς</w> <w xml:id="zoor0061-12" xml:lang="grc">Πονέμο</w><w xml:id="zoor0061-13" xml:lang="grc">Πανήμου</w> <w xml:id="zoor0061-14" xml:lang="grc">Θάρσει</w> <w xml:id="zoor0061-15" xml:lang="grc">οὐδείς</w> <w xml:id="zoor0061-16" xml:lang="grc">ἀθάνατος</w></p>
 </div>
 </body>
       <back>

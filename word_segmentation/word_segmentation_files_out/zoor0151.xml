@@ -145,9 +145,7 @@
                <choice><sic>
                      <unclear>ἀ</unclear>ποθονόντος</sic><corr>ἀποθανόντος</corr></choice>
                <lb/>
-               <unclear>ἐτ</unclear>ῶν <num value="12">ιβʹ</num>, ἐν <choice><sic>ἔτ<lb/>
-                     <unclear>ι</unclear>
-                  </sic><corr>ἔτει</corr></choice> <num value="331">τλαʹ</num>, μηνὸς<lb/>
+               <unclear>ἐτ</unclear>ῶν <num value="12">ιβʹ</num>, ἐν <choice><sic>ἔτ<lb break="no"/><unclear>ι</unclear></sic><corr>ἔτει</corr></choice> <num value="331">τλαʹ</num>, μηνὸς<lb/>
                <choice><sic>
                      <unclear>Α</unclear>ὐδονέου</sic><corr>Αὐδυναίου</corr></choice>
                <lb/> <num value="6">ςʹ</num>, ἡμέρᾳ<lb/> Κυρίου <num value="3">γʹ</num>.</p>
@@ -157,7 +155,7 @@
                     6th (day) of (the) month Audynaios, on (the) 3rd day of (the) Lord
                     (Tuesday).</p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="zoor0151-1" xml:lang="grc">Μνημεῖον</w> <w xml:id="zoor0151-2" xml:lang="grc">Ζάβας</w> <w xml:id="zoor0151-3" xml:lang="grc">ἀποθονόντοςἀποθανόντος</w> <w xml:id="zoor0151-4" xml:lang="grc">ἐτῶν</w><w xml:id="zoor0151-5" xml:lang="grc"><num value="12">ιβʹ</num></w><w xml:id="zoor0151-6" xml:lang="grc">ἐν</w> <w xml:id="zoor0151-7" xml:lang="grc">ἔτ</w> <w xml:id="zoor0151-8" xml:lang="grc">ι</w> <w xml:id="zoor0151-9" xml:lang="grc">ἔτει</w><w xml:id="zoor0151-10" xml:lang="grc"><num value="331">τλαʹ</num></w><w xml:id="zoor0151-11" xml:lang="grc">μηνὸς</w> <w xml:id="zoor0151-12" xml:lang="grc">ΑὐδονέουΑὐδυναίου</w><w xml:id="zoor0151-13" xml:lang="grc"><num value="6">ςʹ</num></w><w xml:id="zoor0151-14" xml:lang="grc">ἡμέρᾳ</w> <w xml:id="zoor0151-15" xml:lang="grc">Κυρίου</w><w xml:id="zoor0151-16" xml:lang="grc"><num value="3">γʹ</num></w></p>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="zoor0151-1" xml:lang="grc">Μνημεῖον</w> <w xml:id="zoor0151-2" xml:lang="grc">Ζάβας</w> <w xml:id="zoor0151-3" xml:lang="grc">ἀποθονόντοςἀποθανόντος</w> <w xml:id="zoor0151-4" xml:lang="grc">ἐτῶν</w><w xml:id="zoor0151-5" xml:lang="grc"><num value="12">ιβʹ</num></w><w xml:id="zoor0151-6" xml:lang="grc">ἐν</w> <w xml:id="zoor0151-7" xml:lang="grc">ἔτει</w><w xml:id="zoor0151-8" xml:lang="grc"><num value="331">τλαʹ</num></w><w xml:id="zoor0151-9" xml:lang="grc">μηνὸς</w> <w xml:id="zoor0151-10" xml:lang="grc">ΑὐδονέουΑὐδυναίου</w><w xml:id="zoor0151-11" xml:lang="grc"><num value="6">ςʹ</num></w><w xml:id="zoor0151-12" xml:lang="grc">ἡμέρᾳ</w> <w xml:id="zoor0151-13" xml:lang="grc">Κυρίου</w><w xml:id="zoor0151-14" xml:lang="grc"><num value="3">γʹ</num></w></p>
 </div>
 </body>
       <back>

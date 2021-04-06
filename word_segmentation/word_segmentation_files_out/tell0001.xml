@@ -124,14 +124,14 @@
          <div type="edition" ana="#b1" subtype="transcription" xml:id="tell0001.transcription" corresp="#tell0001.diplomatic #tell0001.translation">
             <p>θάρσι<lb/>
                     Ἀντωνία<lb/>
-               <expan><abbr>ἐτ</abbr><ex>ῶν</ex></expan> κ´<unclear>ζ</unclear>´
+               <expan><abbr>ἐτ</abbr><ex>ῶν</ex></expan> <num>κ´<unclear>ζ</unclear>´</num>
                 </p>
          </div>
          <div type="translation" ana="#b1" xml:id="tell0001.translation" corresp="#tell0001.diplomatic #tell0001.transcription">
             <p>Be of good courage, Antonia! Twenty-seven years old.
                 </p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="tell0001-1" xml:lang="grc">θάρσι</w> <w xml:id="tell0001-2" xml:lang="grc">Ἀντωνία</w><w xml:id="tell0001-3" xml:lang="grc"><expan><abbr>ἐτ</abbr><ex>ῶν</ex></expan></w><w xml:id="tell0001-4" xml:lang="grc">κ´ζ´</w></p>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="tell0001-1" xml:lang="grc">θάρσι</w> <w xml:id="tell0001-2" xml:lang="grc">Ἀντωνία</w><w xml:id="tell0001-3" xml:lang="grc"><expan><abbr>ἐτ</abbr><ex>ῶν</ex></expan></w><w xml:id="tell0001-4" xml:lang="grc"><num>κ´ζ´</num></w></p>
 </div>
 </body>
       <back>

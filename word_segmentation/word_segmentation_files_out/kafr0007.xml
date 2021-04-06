@@ -120,8 +120,8 @@
             </p>
          </div>
          <div type="edition" ana="#b1" subtype="transcription" xml:id="kafr0007.transcription" corresp="#kafr0007.diplomatic #kafr0007.translation">
-            <p>Ἀντο<lb/>νῖνος<lb/>Γερμο<lb/>σα<lb/>
-               <unclear>π</unclear>λ<unclear>ε</unclear>
+            <p>Ἀντο<lb break="no"/>νῖνος<lb/>Γερμο<lb break="no"/>σα<lb/>
+               <orig><unclear>π</unclear>λ<unclear>ε</unclear></orig>
                <gap reason="illegible" quantity="3" unit="character"/>
             </p>
          </div>
@@ -129,7 +129,7 @@
             <p>Antoninus Germosa...
 				</p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="kafr0007-1" xml:lang="grc">Ἀντο</w> <w xml:id="kafr0007-2" xml:lang="grc">νῖνος</w> <w xml:id="kafr0007-3" xml:lang="grc">Γερμο</w> <w xml:id="kafr0007-4" xml:lang="grc">σα</w> <w xml:id="kafr0007-5" xml:lang="grc">πλε</w></p>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="kafr0007-1" xml:lang="grc">Ἀντονῖνος</w> <w xml:id="kafr0007-2" xml:lang="grc">Γερμοσα</w></p>
 </div>
 </body>
       <back>

@@ -120,8 +120,8 @@
          <div type="edition" ana="#b1" xml:lang="grc" subtype="transcription" xml:id="zoor0272.transcription" corresp="#zoor0272.translation">
             <p>+ + +<lb/>
                <choice><sic>Μνημῖον<lb/>
-                  </sic><corr>Μνημεῖον</corr></choice> Ὀλεφος Θέ<lb/>μου, ἀποθα<lb/>νόντος
-                    ἐτῶ<lb/>ν βʹ. ἐν μηνὶ<lb/> Πανένμῳ <num value="30">λʹ</num>.<lb/>
+               </sic><corr>Μνημεῖον</corr></choice> Ὀλεφος Θέ<lb break="no"/>μου, ἀποθα<lb break="no"/>νόντος
+               ἐτῶ<lb break="no"/>ν <num>βʹ</num>. ἐν μηνὶ<lb/> Πανένμῳ <num value="30">λʹ</num>.<lb/>
                <choice><sic> Θάρσι</sic><corr>Θάρσει</corr></choice>
                <choice><sic>οὐδὶς</sic><corr>οὐδείς</corr></choice>
                <lb/> ἀθάνατος.</p>
@@ -130,7 +130,7 @@
             <p>Monument of Olefos, (son) of Themos, who died (at the age) of 2 years, on (the)
                     30th (day) of the month Panemos. Be of good cheer, no one (is) immortal.</p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="zoor0272-1" xml:lang="grc">Μνημῖον</w> <w xml:id="zoor0272-2" xml:lang="grc">Μνημεῖον</w> <w xml:id="zoor0272-3" xml:lang="grc">Ὀλεφος</w> <w xml:id="zoor0272-4" xml:lang="grc">Θέ</w> <w xml:id="zoor0272-5" xml:lang="grc">μου</w> <w xml:id="zoor0272-6" xml:lang="grc">ἀποθα</w> <w xml:id="zoor0272-7" xml:lang="grc">νόντος</w> <w xml:id="zoor0272-8" xml:lang="grc">ἐτῶ</w> <w xml:id="zoor0272-9" xml:lang="grc">ν</w> <w xml:id="zoor0272-10" xml:lang="grc">β</w> <w xml:id="zoor0272-11" xml:lang="grc">ἐν</w> <w xml:id="zoor0272-12" xml:lang="grc">μηνὶ</w> <w xml:id="zoor0272-13" xml:lang="grc">Πανένμῳ</w><w xml:id="zoor0272-14" xml:lang="grc"><num value="30">λʹ</num></w><w xml:id="zoor0272-15" xml:lang="grc">Θάρσει</w> <w xml:id="zoor0272-16" xml:lang="grc">οὐδείς</w> <w xml:id="zoor0272-17" xml:lang="grc">ἀθάνατος</w></p>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="zoor0272-1" xml:lang="grc">Μνημῖον</w> <w xml:id="zoor0272-2" xml:lang="grc">Μνημεῖον</w> <w xml:id="zoor0272-3" xml:lang="grc">Ὀλεφος</w> <w xml:id="zoor0272-4" xml:lang="grc">Θέμου</w> <w xml:id="zoor0272-5" xml:lang="grc">ἀποθανόντος</w> <w xml:id="zoor0272-6" xml:lang="grc">ἐτῶν</w><w xml:id="zoor0272-7" xml:lang="grc"><num>βʹ</num></w><w xml:id="zoor0272-8" xml:lang="grc">ἐν</w> <w xml:id="zoor0272-9" xml:lang="grc">μηνὶ</w> <w xml:id="zoor0272-10" xml:lang="grc">Πανένμῳ</w><w xml:id="zoor0272-11" xml:lang="grc"><num value="30">λʹ</num></w><w xml:id="zoor0272-12" xml:lang="grc">Θάρσει</w> <w xml:id="zoor0272-13" xml:lang="grc">οὐδείς</w> <w xml:id="zoor0272-14" xml:lang="grc">ἀθάνατος</w></p>
 </div>
 </body>
       <back>

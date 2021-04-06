@@ -122,12 +122,12 @@
                <gap reason="lost" unit="character" extent="unknown"/>
                <lb/>
                <gap reason="illegible" unit="line" quantity="1"/>
-               <lb/>Ἀφαί<lb/>ου</p>
+               <lb/>Ἀφαί<lb break="no"/>ου</p>
          </div>
          <div type="translation" ana="#b1" xml:id="carm0017.translation" corresp="#carm0017.transcription">
             <p>... Aphaeos</p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="carm0017-1" xml:lang="grc">Ἀφαί</w> <w xml:id="carm0017-2" xml:lang="grc">ου</w></p>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="carm0017-1" xml:lang="grc">Ἀφαίου</w></p>
 </div>
 </body>
       <back>

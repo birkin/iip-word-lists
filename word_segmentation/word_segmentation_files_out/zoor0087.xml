@@ -129,22 +129,22 @@
             <p>
                <gap reason="lost" unit="character" extent="unknown"/>
                <lb/>
-               <gap reason="lost" unit="character" extent="unknown"/> ΟΣ<lb/>
-               <gap reason="lost" unit="character" extent="unknown"/> Α<lb/>
+               <gap reason="lost" unit="character" extent="unknown"/> <orig>ΟΣ</orig><lb/>
+               <gap reason="lost" unit="character" extent="unknown"/> <orig>Α</orig><lb/>
                <gap reason="illegible" unit="line" quantity="1"/>
                <lb/>
-               <gap reason="lost" unit="character" extent="unknown"/> Ο<unclear>Τ</unclear>
+               <gap reason="lost" unit="character" extent="unknown"/> <orig>Ο<unclear>Τ</unclear></orig>
                <gap reason="lost" unit="character" extent="unknown"/>
-               <lb/> ἔτους σ<gap reason="illegible" quantity="2" unit="character"/>, <choice><sic>με<lb/>νὸς</sic><corr>μηνός</corr></choice>
-               <choice><sic>Ἀπελλέου</sic><corr>Ἀπελλαίου</corr></choice> εκʹ,<lb/> ἡμέρᾳ Ἀφροδίτης.<lb/>
+               <lb/> ἔτους σ<gap reason="illegible" quantity="2" unit="character"/>, <choice><sic>με<lb break="no"/>νὸς</sic><corr>μηνός</corr></choice>
+               <choice><sic>Ἀπελλέου</sic><corr>Ἀπελλαίου</corr></choice> <num>εκʹ</num>,<lb/> ἡμέρᾳ Ἀφροδίτης.<lb/>
                <choice><sic>Θάρσι</sic><corr>Θάρσει</corr></choice>, <choice><sic>οὐδὶς</sic><corr>οὐδείς</corr></choice>
-               <choice><sic>ὀθά<lb/>νατος</sic><corr>ἀθάνατος</corr></choice>.</p>
+               <choice><sic>ὀθά<lb break="no"/>νατος</sic><corr>ἀθάνατος</corr></choice>.</p>
          </div>
          <div type="translation" ana="#b1" xml:id="zoor0087.translation" corresp="#zoor0087.transcription">
             <p>.......in (the) year 2.., on (the) 25th (day) of (the) month Apellaios, on (the)
                     day of Venus (Friday). Be of good cheer, no one (is) immortal.</p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="zoor0087-1" xml:lang="grc">ΟΣ</w> <w xml:id="zoor0087-2" xml:lang="grc">Α</w> <w xml:id="zoor0087-3" xml:lang="grc">ΟΤ</w> <w xml:id="zoor0087-4" xml:lang="grc">ἔτους</w> <w xml:id="zoor0087-5" xml:lang="grc">σ</w> <w xml:id="zoor0087-6" xml:lang="grc">μηνός</w> <w xml:id="zoor0087-7" xml:lang="grc">Ἀπελλαίου</w> <w xml:id="zoor0087-8" xml:lang="grc">εκ</w> <w xml:id="zoor0087-9" xml:lang="grc">ἡμέρᾳ</w> <w xml:id="zoor0087-10" xml:lang="grc">Ἀφροδίτης</w> <w xml:id="zoor0087-11" xml:lang="grc">Θάρσει</w> <w xml:id="zoor0087-12" xml:lang="grc">οὐδείς</w> <w xml:id="zoor0087-13" xml:lang="grc">ἀθάνατος</w></p>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="zoor0087-1" xml:lang="grc">ἔτους</w> <w xml:id="zoor0087-2" xml:lang="grc">σ</w> <w xml:id="zoor0087-3" xml:lang="grc">μηνός</w> <w xml:id="zoor0087-4" xml:lang="grc">Ἀπελλαίου</w><w xml:id="zoor0087-5" xml:lang="grc"><num>εκʹ</num></w><w xml:id="zoor0087-6" xml:lang="grc">ἡμέρᾳ</w> <w xml:id="zoor0087-7" xml:lang="grc">Ἀφροδίτης</w> <w xml:id="zoor0087-8" xml:lang="grc">Θάρσει</w> <w xml:id="zoor0087-9" xml:lang="grc">οὐδείς</w> <w xml:id="zoor0087-10" xml:lang="grc">ἀθάνατος</w></p>
 </div>
 </body>
       <back>

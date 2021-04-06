@@ -130,18 +130,15 @@
          <div type="edition" ana="#b1" xml:lang="grc" subtype="transcription" xml:id="zoor0118.transcription" corresp="#zoor0118.translation">
             <p>+<lb/>
                <choice><sic>Μνημῖον</sic><corr>Μνημεῖον</corr></choice>
-               <lb/> Βεσαμέας<lb/> Γερμανοῦ,<lb/> ἐτῶν κζʹ,<lb/>
-               <unclear>ἔ</unclear>του<unclear>ς</unclear> τιδʹ,<lb/> μηνὸς
-                        Ἀρ<lb/>
-               <unclear>τεμησί</unclear>
-               <lb/>
-               <supplied reason="undefined">ου</supplied> δʹ.</p>
+               <lb/> Βεσαμέας<lb/> Γερμανοῦ,<lb/> ἐτῶν <num>κζʹ</num>,<lb/>
+               <unclear>ἔ</unclear>του<unclear>ς</unclear> <num>τιδʹ</num>,<lb/> μηνὸς
+               Ἀρ<lb break="no"/><unclear>τεμησί</unclear><lb break="no"/><supplied reason="undefined">ου</supplied> <num>δʹ</num>.</p>
          </div>
          <div type="translation" ana="#b1" xml:id="zoor0118.translation" corresp="#zoor0118.transcription">
             <p>Monument of Besamea(s), (son or daughter) of Germanus, (who died at the age) of
                     27 years, in (the) year 314, on the 4th (day) of (the) month Artemisios.</p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="zoor0118-1" xml:lang="grc">Μνημεῖον</w> <w xml:id="zoor0118-2" xml:lang="grc">Βεσαμέας</w> <w xml:id="zoor0118-3" xml:lang="grc">Γερμανοῦ</w> <w xml:id="zoor0118-4" xml:lang="grc">ἐτῶν</w> <w xml:id="zoor0118-5" xml:lang="grc">κζ</w> <w xml:id="zoor0118-6" xml:lang="grc">ἔτους</w> <w xml:id="zoor0118-7" xml:lang="grc">τιδ</w> <w xml:id="zoor0118-8" xml:lang="grc">μηνὸς</w> <w xml:id="zoor0118-9" xml:lang="grc">Ἀρ</w> <w xml:id="zoor0118-10" xml:lang="grc">τεμησί</w><w xml:id="zoor0118-11" xml:lang="grc"><supplied reason="undefined">ου</supplied></w><w xml:id="zoor0118-12" xml:lang="grc">δ</w></p>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="zoor0118-1" xml:lang="grc">Μνημεῖον</w> <w xml:id="zoor0118-2" xml:lang="grc">Βεσαμέας</w> <w xml:id="zoor0118-3" xml:lang="grc">Γερμανοῦ</w> <w xml:id="zoor0118-4" xml:lang="grc">ἐτῶν</w><w xml:id="zoor0118-5" xml:lang="grc"><num>κζʹ</num></w><w xml:id="zoor0118-6" xml:lang="grc">ἔτους</w><w xml:id="zoor0118-7" xml:lang="grc"><num>τιδʹ</num></w><w xml:id="zoor0118-8" xml:lang="grc">μηνὸς</w> <w xml:id="zoor0118-9" xml:lang="grc">Ἀρτεμησί</w><w xml:id="zoor0118-10" xml:lang="grc"><supplied reason="undefined">ου</supplied></w><w xml:id="zoor0118-11" xml:lang="grc"><num>δʹ</num></w></p>
 </div>
 </body>
       <back>

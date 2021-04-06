@@ -114,15 +114,18 @@
       <body>
          <div type="edition" ana="#b1" xml:lang="heb" subtype="transcription" xml:id="mari0004.transcription" corresp="#mari0004.translation">
             <p>
-               <lb/> דכיר <lb/> לטב קורים <lb/> ? <lb/>
-               <gap reason="lost" unit="character" extent="unknown"/>עיי ניח נפש <lb/> בר אוכסנטים <lb/> <gap reason="lost" extent="unknown" unit="character"/> <lb/> ליקרה דבנישראל <lb/> שלום </p>
+               <lb/> דכיר <lb/> לטב קורים <lb/>
+               <gap reason="lost" extent="1" unit="line"/><lb/>
+               <gap reason="lost" unit="character" extent="unknown"/>עיי ניח נפש <lb/> בר אוכסנטים <lb/>
+               <gap reason="lost" extent="unknown" unit="character"/>
+               <lb/> ליקרה דבנישראל <lb/> שלום </p>
          </div>
          <div type="translation" ana="#b1" xml:id="mari0004.translation" corresp="#mari0004.transcription">
             <p> Be remembered With a blessing the Lord ... peace upon his soul The son of
                     Auxentios Who built (or bought) this column In honor of the Children of Israel
                     Peace.</p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="mari0004-1" xml:lang="he">דכיר</w> <w xml:id="mari0004-2" xml:lang="he">לטב</w> <w xml:id="mari0004-3" xml:lang="he">קורים</w> <w xml:id="mari0004-4" xml:lang="he">?</w> <w xml:id="mari0004-5" xml:lang="he">עיי</w> <w xml:id="mari0004-6" xml:lang="he">ניח</w> <w xml:id="mari0004-7" xml:lang="he">נפש</w> <w xml:id="mari0004-8" xml:lang="he">בר</w> <w xml:id="mari0004-9" xml:lang="he">אוכסנטים</w> <w xml:id="mari0004-10" xml:lang="he">ליקרה</w> <w xml:id="mari0004-11" xml:lang="he">דבנישראל</w> <w xml:id="mari0004-12" xml:lang="he">שלום</w></p>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="mari0004-1" xml:lang="he">דכיר</w> <w xml:id="mari0004-2" xml:lang="he">לטב</w> <w xml:id="mari0004-3" xml:lang="he">קורים</w> <w xml:id="mari0004-4" xml:lang="he">עיי</w> <w xml:id="mari0004-5" xml:lang="he">ניח</w> <w xml:id="mari0004-6" xml:lang="he">נפש</w> <w xml:id="mari0004-7" xml:lang="he">בר</w> <w xml:id="mari0004-8" xml:lang="he">אוכסנטים</w> <w xml:id="mari0004-9" xml:lang="he">ליקרה</w> <w xml:id="mari0004-10" xml:lang="he">דבנישראל</w> <w xml:id="mari0004-11" xml:lang="he">שלום</w></p>
 </div>
 </body>
       <back>
