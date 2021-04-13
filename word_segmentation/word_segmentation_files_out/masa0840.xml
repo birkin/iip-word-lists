@@ -169,9 +169,9 @@
             </div>
             <div type="edition" subtype="transcription" ana="b1">
                 <p>
-               <gap reason="lost" extent="unknown" unit="character"/>
-               <gap reason="illegible" quantity="1" unit="character"/>LOL<gap reason="lost" extent="unknown" unit="character"/>
-            </p>
+                    <gap reason="lost" extent="unknown" unit="character"/>
+                    <gap reason="illegible" quantity="1" unit="character"/><orig>LOL</orig><gap reason="lost" extent="unknown" unit="character"/>
+                </p>
             </div>
             <div type="translation" ana="b1">
                 <p/>
@@ -179,7 +179,7 @@
             <div type="commentary" ana="b1">
                 <p>The inscription was incised after firing the vessel.</p>
             </div>
-        <div type="edition" subtype="transcription_segmented"><p><w xml:id="masa0840-1" xml:lang="la">LOL</w></p>
+        <div type="edition" subtype="transcription_segmented"><p/>
 </div>
 </body>
         <back>

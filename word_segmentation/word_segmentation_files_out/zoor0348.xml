@@ -122,10 +122,7 @@
       <body>
          <div type="edition" ana="b1" xml:lang="grc" subtype="transcription" xml:id="zoor0348.transcription" corresp="#zoor0348.translation">
             <p>
-               <choice>
-                  <reg>Μνημεῖον</reg>
-                  <orig>Μνημῖον</orig>
-               </choice>
+               <choice><reg>Μνημεῖον</reg><orig>Μνημῖον</orig></choice>
                <space quantity="1" unit="character"/>
                <lb/>Ἀλού<surplus>ου</surplus>φα 
                <expan><abbr>Ἀ<lb break="no"/>βδ</abbr><ex>άλ</ex><abbr>γου</abbr></expan>
@@ -141,7 +138,7 @@
             <p>Monument of Aloufas, (son) of Abdalges, and of Siltha and of her virgin daughter
                Enne.</p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="zoor0348-1" xml:lang="grc">Μνημεῖον</w> <w xml:id="zoor0348-2" xml:lang="grc">Ἀλού</w><w xml:id="zoor0348-3" xml:lang="grc">φα</w><w xml:id="zoor0348-4" xml:lang="grc"><expan><abbr>Ἀβδ</abbr><ex>άλ</ex><abbr>γου</abbr></expan></w><w xml:id="zoor0348-5" xml:lang="grc">καὶ</w> <w xml:id="zoor0348-6" xml:lang="grc">Σίλθας</w> <w xml:id="zoor0348-7" xml:lang="grc">καὶ</w> <w xml:id="zoor0348-8" xml:lang="grc">Ἔννης</w> <w xml:id="zoor0348-9" xml:lang="grc">θυγατρός</w> <w xml:id="zoor0348-10" xml:lang="grc">αὐτῆ</w><w xml:id="zoor0348-11" xml:lang="grc"><supplied reason="omitted">ς</supplied></w><w xml:id="zoor0348-12" xml:lang="grc">παρθένου</w></p>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="zoor0348-1" xml:lang="grc"><choice>Μνημεῖον</choice></w><w xml:id="zoor0348-2" xml:lang="grc">Ἀλού</w><w xml:id="zoor0348-3" xml:lang="grc">φα</w><w xml:id="zoor0348-4" xml:lang="grc"><expan><abbr>Ἀβδ</abbr><ex>άλ</ex><abbr>γου</abbr></expan></w><w xml:id="zoor0348-5" xml:lang="grc"><choice>καὶ</choice></w><w xml:id="zoor0348-6" xml:lang="grc"><choice>Σίλθας</choice></w><w xml:id="zoor0348-7" xml:lang="grc"><choice>καὶ</choice></w><w xml:id="zoor0348-8" xml:lang="grc"><choice>Ἔννης</choice></w><w xml:id="zoor0348-9" xml:lang="grc"><choice>θυγατρός</choice></w><w xml:id="zoor0348-10" xml:lang="grc">αὐτῆ</w><w xml:id="zoor0348-11" xml:lang="grc"><choice>παρθένου</choice></w></p>
 </div>
 </body>
       <back>

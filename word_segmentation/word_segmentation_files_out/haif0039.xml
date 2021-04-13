@@ -176,8 +176,7 @@
                <lb/>ΤΑ<space/>ΣΤΡΑΤΙΩΤΗΣ<lb/>ΚΑΙΗΣΥΝΒΙΟΣ<lb/>ΑΥΤΟΥΣΩΣΙΠΑΤΡΑ</p>
             </div>
             <div type="edition" subtype="transcription" ana="b1">
-                <p>Μνησθῇ<lb/>Γερμανός <lb/>στρατιώτης<lb/>καί ἡ σύ<choice><corr>μ</corr><sic>ν</sic>
-                    </choice>βιος <lb/>αὐτοῦ Σωσιπάτρα καὶ<lb/>τὰ<lb/>τέ<choice><sic>χ</sic><corr>κ</corr></choice>να</p>
+                <p>Μνησθῇ<lb/>Γερμανός <lb/>στρατιώτης<lb/>καί ἡ σύ<choice><corr>μ</corr><sic>ν</sic></choice>βιος <lb/>αὐτοῦ Σωσιπάτρα καὶ<lb/>τὰ<lb/>τέ<choice><sic>χ</sic><corr>κ</corr></choice>να</p>
             </div>
             <div type="translation" ana="b1">
                 <p>Remembered Germanus, soldier, and his<lb/>wife Sosipatra. <lb/>And the children. </p>
@@ -187,7 +186,7 @@
             </div>
             <!-- The bibl has more contained elements. What is the possible list of values of the biblScope/@type? 
              -->
-        <div type="edition" subtype="transcription_segmented"><p><w xml:id="haif0039-1" xml:lang="grc">Μνησθῇ</w> <w xml:id="haif0039-2" xml:lang="grc">Γερμανός</w> <w xml:id="haif0039-3" xml:lang="grc">στρατιώτης</w> <w xml:id="haif0039-4" xml:lang="grc">καί</w> <w xml:id="haif0039-5" xml:lang="grc">ἡ</w> <w xml:id="haif0039-6" xml:lang="grc">σύμ</w> <w xml:id="haif0039-7" xml:lang="grc">βιος</w> <w xml:id="haif0039-8" xml:lang="grc">αὐτοῦ</w> <w xml:id="haif0039-9" xml:lang="grc">Σωσιπάτρα</w> <w xml:id="haif0039-10" xml:lang="grc">καὶ</w> <w xml:id="haif0039-11" xml:lang="grc">τὰ</w> <w xml:id="haif0039-12" xml:lang="grc">τέ</w> <w xml:id="haif0039-13" xml:lang="grc">κ</w> <w xml:id="haif0039-14" xml:lang="grc">να</w></p>
+        <div type="edition" subtype="transcription_segmented"><p><w xml:id="haif0039-1" xml:lang="grc">Μνησθῇ</w> <w xml:id="haif0039-2" xml:lang="grc">Γερμανός</w> <w xml:id="haif0039-3" xml:lang="grc">στρατιώτης</w> <w xml:id="haif0039-4" xml:lang="grc">καί</w> <w xml:id="haif0039-5" xml:lang="grc">ἡ</w> <w xml:id="haif0039-6" xml:lang="grc">σύ</w><w xml:id="haif0039-7" xml:lang="grc"><choice>μ</choice></w><w xml:id="haif0039-8" xml:lang="grc">βιος</w> <w xml:id="haif0039-9" xml:lang="grc">αὐτοῦ</w> <w xml:id="haif0039-10" xml:lang="grc">Σωσιπάτρα</w> <w xml:id="haif0039-11" xml:lang="grc">καὶ</w> <w xml:id="haif0039-12" xml:lang="grc">τὰ</w> <w xml:id="haif0039-13" xml:lang="grc">τέ</w><w xml:id="haif0039-14" xml:lang="grc"><choice>κ</choice></w><w xml:id="haif0039-15" xml:lang="grc">να</w></p>
 </div>
 </body>
         <back>

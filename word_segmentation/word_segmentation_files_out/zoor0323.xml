@@ -121,20 +121,11 @@
       <body>
          <div type="edition" ana="b2" xml:lang="grc" subtype="transcription" xml:id="zoor0323.transcription" corresp="#zoor0323.translation">
             <p>
-               <choice>
-                  <orig>Μνημῖον</orig>
-                  <reg>Μνημεῖον</reg>
-               </choice>
+               <choice><orig>Μνημῖον</orig><reg>Μνημεῖον</reg></choice>
                <lb/>
-               <choice>
-                  <orig>Σελαμίη</orig>
-                  <reg>Σελαμίης</reg>
-               </choice> Πέ<lb break="no"/>τρου, ἀποθα<lb break="no"/>νοῦσης ἐτῶν <num value="55">νε</num>, ἔτους <num value="250">σν</num>,<lb/>μηνὸς Ξανθι<lb break="no"/>κοῦ
+               <choice><orig>Σελαμίη</orig><reg>Σελαμίης</reg></choice> Πέ<lb break="no"/>τρου, ἀποθα<lb break="no"/>νοῦσης ἐτῶν <num value="55">νε</num>, ἔτους <num value="250">σν</num>,<lb/>μηνὸς Ξανθι<lb break="no"/>κοῦ
                   <num value="22">βκ</num>. <choice><sic>Θάρσι</sic><corr>Θάρσει</corr></choice>,<lb/>
-               <choice>
-                  <orig>Σελάμι</orig>
-                  <reg>Σελαμίη</reg>
-               </choice>, ὁ βίος<lb/> ταῦ<space unit="character" quantity="1"/>τα.<lb/>
+               <choice><orig>Σελάμι</orig><reg>Σελαμίη</reg></choice>, ὁ βίος<lb/> ταῦ<space unit="character" quantity="1"/>τα.<lb/>
                <g type="cross"/>
                <g type="cross"/>
             </p>
@@ -144,7 +135,7 @@
                (the) year 250, on (the) 22nd (day) of (the) month Xanthikos. Be of good cheer,
                Selami(e), that (is) life.</p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="zoor0323-1" xml:lang="grc">Μνημεῖον</w> <w xml:id="zoor0323-2" xml:lang="grc">Σελαμίης</w> <w xml:id="zoor0323-3" xml:lang="grc">Πέτρου</w> <w xml:id="zoor0323-4" xml:lang="grc">ἀποθανοῦσης</w> <w xml:id="zoor0323-5" xml:lang="grc">ἐτῶν</w><w xml:id="zoor0323-6" xml:lang="grc"><num value="55">νε</num></w><w xml:id="zoor0323-7" xml:lang="grc">ἔτους</w><w xml:id="zoor0323-8" xml:lang="grc"><num value="250">σν</num></w><w xml:id="zoor0323-9" xml:lang="grc">μηνὸς</w> <w xml:id="zoor0323-10" xml:lang="grc">Ξανθικοῦ</w><w xml:id="zoor0323-11" xml:lang="grc"><num value="22">βκ</num></w><w xml:id="zoor0323-12" xml:lang="grc">Θάρσει</w> <w xml:id="zoor0323-13" xml:lang="grc">Σελαμίη</w> <w xml:id="zoor0323-14" xml:lang="grc">ὁ</w> <w xml:id="zoor0323-15" xml:lang="grc">βίος</w> <w xml:id="zoor0323-16" xml:lang="grc">ταῦτα</w></p>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="zoor0323-1" xml:lang="grc"><choice>Μνημεῖον</choice></w><w xml:id="zoor0323-2" xml:lang="grc"><choice>Σελαμίης</choice></w><w xml:id="zoor0323-3" xml:lang="grc">Πέτρου</w> <w xml:id="zoor0323-4" xml:lang="grc">ἀποθανοῦσης</w> <w xml:id="zoor0323-5" xml:lang="grc">ἐτῶν</w><num value="55">νε</num><w xml:id="zoor0323-6" xml:lang="grc">ἔτους</w><num value="250">σν</num><w xml:id="zoor0323-7" xml:lang="grc">μηνὸς</w> <w xml:id="zoor0323-8" xml:lang="grc">Ξανθικοῦ</w><num value="22">βκ</num><w xml:id="zoor0323-9" xml:lang="grc"><choice>Θάρσει</choice></w><w xml:id="zoor0323-10" xml:lang="grc"><choice>Σελαμίη</choice></w><w xml:id="zoor0323-11" xml:lang="grc">ὁ</w> <w xml:id="zoor0323-12" xml:lang="grc">βίος</w> <w xml:id="zoor0323-13" xml:lang="grc">ταῦτα</w></p>
 </div>
 </body>
       <back>

@@ -131,7 +131,7 @@
             <div type="commentary">
                 <p/>
             </div>
-        <div type="edition" subtype="transcription_segmented"><p><w xml:id="szio0001-1" xml:lang="grc"><supplied reason="lost">χ</supplied></w><w xml:id="szio0001-2" xml:lang="grc">ωρεπισκό</w><w xml:id="szio0001-3" xml:lang="grc"><supplied reason="lost">πων</supplied></w><w xml:id="szio0001-4" xml:lang="grc"><expan><abbr>κ</abbr><ex>αὶ</ex></expan></w><w xml:id="szio0001-5" xml:lang="grc">ἐν</w><w xml:id="szio0001-6" xml:lang="grc"><expan><abbr>μη</abbr><ex>νὶ</ex></expan></w><w xml:id="szio0001-7" xml:lang="grc">Περιτίου</w></p>
+        <div type="edition" subtype="transcription_segmented"><p><w xml:id="szio0001-1" xml:lang="grc"><supplied reason="lost">χ</supplied>ωρεπισκό<supplied reason="lost">πων</supplied></w><w xml:id="szio0001-2" xml:lang="grc"><expan><abbr>κ</abbr><ex>αὶ</ex></expan></w><w xml:id="szio0001-3" xml:lang="grc">ἐν</w><w xml:id="szio0001-4" xml:lang="grc"><expan><abbr>μη</abbr><ex>νὶ</ex></expan></w><w xml:id="szio0001-5" xml:lang="grc">Περιτίου</w></p>
 </div>
 </body>
         <back>

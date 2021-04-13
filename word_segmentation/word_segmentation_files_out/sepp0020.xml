@@ -130,15 +130,14 @@
          </div>
          <div type="edition" ana="#b1" xml:lang="grc" subtype="transcription" xml:id="sepp0020.transcription" corresp="#sepp0020.diplomatic #sepp0020.translation">
             <p>
-               <choice><corr>Ἐα</corr><sic>αε</sic>
-               </choice>ρινὴ τροπή<lb/>
+               <choice><corr>Ἐα</corr><sic>αε</sic></choice>ρινὴ τροπή<lb/>
                <foreign xml:lang="heb"> תקופת ניסן </foreign>
             </p>
          </div>
          <div type="translation" ana="#b1" xml:id="sepp0020.translation" corresp="#sepp0020.diplomatic #sepp0020.transcription">
             <p>Spring equinox</p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="sepp0020-1" xml:lang="grc">Ἐα</w> <w xml:id="sepp0020-2" xml:lang="grc">ρινὴ</w> <w xml:id="sepp0020-3" xml:lang="grc">τροπή</w></p>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="sepp0020-1" xml:lang="grc"><choice>Ἐα</choice></w><w xml:id="sepp0020-2" xml:lang="grc">ρινὴ</w> <w xml:id="sepp0020-3" xml:lang="grc">τροπή</w></p>
 </div>
 </body>
       <back>

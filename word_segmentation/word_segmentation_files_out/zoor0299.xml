@@ -123,7 +123,7 @@
          <div type="translation" ana="#b1" xml:id="zoor0299.translation" corresp="#zoor0299.transcription">
             <p>[Monument of?] Namos, (son) of Natiras.</p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="zoor0299-1" xml:lang="grc">Νάαμος</w> <w xml:id="zoor0299-2" xml:lang="grc">Νατίρα</w></p>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="zoor0299-1" xml:lang="grc"><choice>Νάαμος</choice></w><w xml:id="zoor0299-2" xml:lang="grc">Νατίρα</w></p>
 </div>
 </body>
       <back>

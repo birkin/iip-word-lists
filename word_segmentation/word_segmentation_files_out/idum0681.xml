@@ -156,9 +156,7 @@
                     <unclear>כסף</unclear>
                     <unclear>ש</unclear>
                     <num value="13"><g type="phoen-10"/><g type="three-vertical-strokes"/></num><lb/><gap reason="lost" extent="unknown" unit="character"/>
-                    <choice>
-                        <unclear>ד</unclear><unclear>ר</unclear>
-                    </choice>
+                    <choice><unclear>ד</unclear><unclear>ר</unclear></choice>
                     <num value="3"><g type="three-vertical-strokes"/></num><gap reason="lost" extent="unknown" unit="character"/></p>
             </div>
             <div type="translation" ana="b1">
@@ -168,7 +166,7 @@
                 <p/>
             </div>
 
-        <div type="edition" subtype="transcription_segmented"><p><w xml:id="idum0681-1" xml:lang="arc">מקבל</w> <w xml:id="idum0681-2" xml:lang="arc">נתינו</w> <w xml:id="idum0681-3" xml:lang="arc">מן</w> <w xml:id="idum0681-4" xml:lang="arc">תע</w> <w xml:id="idum0681-5" xml:lang="arc">כסף</w> <w xml:id="idum0681-6" xml:lang="arc">ש</w><w xml:id="idum0681-7" xml:lang="arc"><num value="13"><g type="phoen-10"/><g type="three-vertical-strokes"/></num></w><w xml:id="idum0681-8" xml:lang="arc">דר</w><w xml:id="idum0681-9" xml:lang="arc"><num value="3"><g type="three-vertical-strokes"/></num></w></p>
+        <div type="edition" subtype="transcription_segmented"><p><w xml:id="idum0681-1" xml:lang="arc">מקבל</w> <w xml:id="idum0681-2" xml:lang="arc">נתינו</w> <w xml:id="idum0681-3" xml:lang="arc">מן</w> <w xml:id="idum0681-4" xml:lang="arc">תע</w> <w xml:id="idum0681-5" xml:lang="arc">כסף</w> <w xml:id="idum0681-6" xml:lang="arc">ש</w><num value="13"><g type="phoen-10"/><g type="three-vertical-strokes"/></num><w xml:id="idum0681-7" xml:lang="arc"><choice>דר</choice></w><num value="3"><g type="three-vertical-strokes"/></num></p>
 </div>
 </body>
         <back>

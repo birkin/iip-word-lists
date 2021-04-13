@@ -170,9 +170,7 @@
             <div type="edition" subtype="transcription" ana="b1" xml:lang="heb">
                 <p>
                <gap reason="lost" extent="unknown" unit="character"/>
-               <choice>
-                  <unclear>ו</unclear><unclear>י</unclear>
-               </choice>דע</p>
+               <choice><unclear>ו</unclear><unclear>י</unclear></choice>דע</p>
             </div>
             <div type="edition" subtype="diplomatic" ana="b1" xml:lang="heb">
                 <p/>
@@ -185,7 +183,7 @@
             </div>
             <!-- The bibl has more contained elements. What is the possible list of values of the biblScope/@type? 
              -->
-        <div type="edition" subtype="transcription_segmented"><p><w xml:id="mger0289-1" xml:lang="arc">וי</w> <w xml:id="mger0289-2" xml:lang="arc">דע</w></p>
+        <div type="edition" subtype="transcription_segmented"><p><w xml:id="mger0289-1" xml:lang="arc"><choice>וי</choice></w><w xml:id="mger0289-2" xml:lang="arc">דע</w></p>
 </div>
 </body>
         <back>

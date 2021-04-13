@@ -169,12 +169,12 @@
                 <p/>
             </div>
             <div type="edition" subtype="transcription" ana="b1">
-                <p>
-               <gap reason="lost" unit="character" extent="unknown"/><unclear>SU</unclear>
-               <gap reason="illegible" unit="character" quantity="1"/><unclear>N</unclear>
-               <gap reason="illegible" unit="character" quantity="2"/>
-               <gap reason="lost" unit="character" extent="unknown"/>
-            </p>
+                <p><orig>
+                        <gap reason="lost" unit="character" extent="unknown"/><unclear>SU</unclear>
+                        <gap reason="illegible" unit="character" quantity="1"/><unclear>N</unclear>
+                        <gap reason="illegible" unit="character" quantity="2"/>
+                        <gap reason="lost" unit="character" extent="unknown"/>
+                    </orig></p>
             </div>
             <div type="translation" ana="b1">
                 <p/>
@@ -182,7 +182,7 @@
             <div type="commentary" ana="b1">
                 <p>The only legible letter could be a Latin O.</p>
             </div>
-        <div type="edition" subtype="transcription_segmented"><p><w xml:id="masa0923-1" xml:lang="la">SU</w> <w xml:id="masa0923-2" xml:lang="la">N</w></p>
+        <div type="edition" subtype="transcription_segmented"><p/>
 </div>
 </body>
         <back>

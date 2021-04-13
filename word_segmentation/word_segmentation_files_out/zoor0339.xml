@@ -137,36 +137,18 @@
                <g type="vine"/>
                <g type="bird"/>
                <lb/>
-               <choice>
-                  <orig>Μνημῖον</orig>
-                  <reg>Μνημεῖον</reg>
-               </choice> Κύρας<lb/>Διονυσίου, <choice>
-                  <orig>ἀ <space unit="character" quantity="1"/><lb break="no"/>παθανοῦσαις</orig>
-                  <reg>ἀποθανούσης</reg>
-               </choice>
+               <choice><orig>Μνημῖον</orig><reg>Μνημεῖον</reg></choice> Κύρας<lb/>Διονυσίου, <choice><orig>ἀ <space unit="character" quantity="1"/><lb break="no"/>παθανοῦσαις</orig><reg>ἀποθανούσης</reg></choice>
                <lb/>μετὰ καλοῦ <space unit="character" quantity="1"/>
                <lb/>ὀνόματος
                καὶ<lb/>καλῆς πίστεως<lb/>ἐτῶν ὀκτὼ
                      μικρῷ<lb/>
                <expan><abbr>προσ</abbr><ex cert="low">θεν</ex></expan>, τοῦ ἔτους<lb/>τριακοσσιοστοῦ<lb/>
-               <choice>
-                  <orig>πεντηκαστοῦ</orig>
-                  <reg>πεντηκοστοῦ</reg>
-               </choice> πρώ<lb break="no"/>του, <expan><abbr>μη</abbr><ex>νὸς</ex></expan>
-               <choice>
-                  <orig>Ἀπελλέου</orig>
-                  <reg>Ἀπελλαίου</reg>
-               </choice>
+               <choice><orig>πεντηκαστοῦ</orig><reg>πεντηκοστοῦ</reg></choice> πρώ<lb break="no"/>του, <expan><abbr>μη</abbr><ex>νὸς</ex></expan>
+               <choice><orig>Ἀπελλέου</orig><reg>Ἀπελλαίου</reg></choice>
                <num value="15">ιε</num>,<lb/>
                <expan><abbr>ἡμ</abbr><ex>έρᾳ</ex></expan>
                <expan><abbr>Κυ</abbr><ex>ρίου</ex></expan>
-               <num value="7">ζ</num>. <choice>
-                  <orig>Θάρσι</orig>
-                  <reg>θάρσει</reg>
-               </choice>, <choice>
-                  <orig>οὐδὶς</orig>
-                  <reg>οὑδείς</reg>
-               </choice>
+               <num value="7">ζ</num>. <choice><orig>Θάρσι</orig><reg>θάρσει</reg></choice>, <choice><orig>οὐδὶς</orig><reg>οὑδείς</reg></choice>
                <lb/>
                <space unit="character" quantity="1"/> ἀθάνατος. <g type="cross"/>
             </p>
@@ -177,7 +159,7 @@
                (the) 15th (day) of (the) month Apellaios, on (the) 7th day of (the) Lord (Saturday).
                Be of good cheer, no one (is) immortal.</p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="zoor0339-1" xml:lang="grc">Μνημεῖον</w> <w xml:id="zoor0339-2" xml:lang="grc">Κύρας</w> <w xml:id="zoor0339-3" xml:lang="grc">Διονυσίου</w> <w xml:id="zoor0339-4" xml:lang="grc">ἀποθανούσης</w> <w xml:id="zoor0339-5" xml:lang="grc">μετὰ</w> <w xml:id="zoor0339-6" xml:lang="grc">καλοῦ</w> <w xml:id="zoor0339-7" xml:lang="grc">ὀνόματος</w> <w xml:id="zoor0339-8" xml:lang="grc">καὶ</w> <w xml:id="zoor0339-9" xml:lang="grc">καλῆς</w> <w xml:id="zoor0339-10" xml:lang="grc">πίστεως</w> <w xml:id="zoor0339-11" xml:lang="grc">ἐτῶν</w> <w xml:id="zoor0339-12" xml:lang="grc">ὀκτὼ</w> <w xml:id="zoor0339-13" xml:lang="grc">μικρῷ</w><w xml:id="zoor0339-14" xml:lang="grc"><expan><abbr>προσ</abbr><ex cert="low">θεν</ex></expan></w><w xml:id="zoor0339-15" xml:lang="grc">τοῦ</w> <w xml:id="zoor0339-16" xml:lang="grc">ἔτους</w> <w xml:id="zoor0339-17" xml:lang="grc">τριακοσσιοστοῦ</w> <w xml:id="zoor0339-18" xml:lang="grc">πεντηκοστοῦ</w> <w xml:id="zoor0339-19" xml:lang="grc">πρώτου</w><w xml:id="zoor0339-20" xml:lang="grc"><expan><abbr>μη</abbr><ex>νὸς</ex></expan></w><w xml:id="zoor0339-21" xml:lang="grc">Ἀπελλαίου</w><w xml:id="zoor0339-22" xml:lang="grc"><num value="15">ιε</num></w><w xml:id="zoor0339-23" xml:lang="grc"><expan><abbr>ἡμ</abbr><ex>έρᾳ</ex></expan></w><w xml:id="zoor0339-24" xml:lang="grc"><expan><abbr>Κυ</abbr><ex>ρίου</ex></expan></w><w xml:id="zoor0339-25" xml:lang="grc"><num value="7">ζ</num></w><w xml:id="zoor0339-26" xml:lang="grc">θάρσει</w> <w xml:id="zoor0339-27" xml:lang="grc">οὑδείς</w> <w xml:id="zoor0339-28" xml:lang="grc">ἀθάνατος</w></p>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="zoor0339-1" xml:lang="grc"><choice>Μνημεῖον</choice></w><w xml:id="zoor0339-2" xml:lang="grc">Κύρας</w> <w xml:id="zoor0339-3" xml:lang="grc">Διονυσίου</w><w xml:id="zoor0339-4" xml:lang="grc"><choice>ἀποθανούσης</choice></w><w xml:id="zoor0339-5" xml:lang="grc">μετὰ</w> <w xml:id="zoor0339-6" xml:lang="grc">καλοῦ</w> <w xml:id="zoor0339-7" xml:lang="grc">ὀνόματος</w> <w xml:id="zoor0339-8" xml:lang="grc">καὶ</w> <w xml:id="zoor0339-9" xml:lang="grc">καλῆς</w> <w xml:id="zoor0339-10" xml:lang="grc">πίστεως</w> <w xml:id="zoor0339-11" xml:lang="grc">ἐτῶν</w> <w xml:id="zoor0339-12" xml:lang="grc">ὀκτὼ</w> <w xml:id="zoor0339-13" xml:lang="grc">μικρῷ</w><w xml:id="zoor0339-14" xml:lang="grc"><expan><abbr>προσ</abbr><ex cert="low">θεν</ex></expan></w><w xml:id="zoor0339-15" xml:lang="grc">τοῦ</w> <w xml:id="zoor0339-16" xml:lang="grc">ἔτους</w> <w xml:id="zoor0339-17" xml:lang="grc">τριακοσσιοστοῦ</w><w xml:id="zoor0339-18" xml:lang="grc"><choice>πεντηκοστοῦ</choice></w><w xml:id="zoor0339-19" xml:lang="grc">πρώτου</w><w xml:id="zoor0339-20" xml:lang="grc"><expan><abbr>μη</abbr><ex>νὸς</ex></expan></w><w xml:id="zoor0339-21" xml:lang="grc"><choice>Ἀπελλαίου</choice></w><num value="15">ιε</num><w xml:id="zoor0339-22" xml:lang="grc"><expan><abbr>ἡμ</abbr><ex>έρᾳ</ex></expan></w><w xml:id="zoor0339-23" xml:lang="grc"><expan><abbr>Κυ</abbr><ex>ρίου</ex></expan></w><num value="7">ζ</num><w xml:id="zoor0339-24" xml:lang="grc"><choice>θάρσει</choice></w><w xml:id="zoor0339-25" xml:lang="grc"><choice>οὑδείς</choice></w><w xml:id="zoor0339-26" xml:lang="grc">ἀθάνατος</w></p>
 </div>
 </body>
       <back>

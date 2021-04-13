@@ -134,9 +134,9 @@ for strTextFullPath in vTextFullPaths:
 		# strXMLText = re.sub(r"<supplied(([^>]+|\s)*?)/>", r" ", strXMLText)
 		# strXMLText = re.sub(r'<supplied reason="undefined"/>', r" ", strXMLText)
 
-		strXMLText = re.sub(r"<supplied>", r"<w><supplied>", strXMLText)
-		strXMLText = re.sub(r"<supplied (([^>]+|\s)*?)>", r"<w><supplied \2>", strXMLText)
-		strXMLText = re.sub(r"</supplied>", r"</supplied></w>", strXMLText)
+		strXMLText = re.sub(r"(\s+)<supplied>", r"\1<w><supplied>", strXMLText)
+		strXMLText = re.sub(r"(\s+)<supplied (([^>]+|\s)*?)>", r"\1<w><supplied \2>", strXMLText)
+		strXMLText = re.sub(r"</supplied>(\s+)", r"</supplied></w>\1", strXMLText)
 		# Supplied
 
 		strXMLText = re.sub(r"<unclear([^>]*?)>(.*?)</unclear>", r"\2", strXMLText)
@@ -164,9 +164,12 @@ for strTextFullPath in vTextFullPaths:
 		strXMLText = re.sub(r"<add(([^>]|\s)*?)>(.*?)</add>", r"\2", strXMLText)
 
 		# Choice: <choice>
-		strXMLText = re.sub(r"<choice>(.*?)</choice>", r"§\1§", strXMLText)
-		strXMLText = re.sub(r"<choice([^>]*?)>(.*?)</choice>", r"§\2§", strXMLText)
-		strXMLText = re.sub(r"<([/]*)choice([/]*)>", "", strXMLText)
+		# strXMLText = re.sub(r"<choice>(.*?)</choice>", r"§\1§", strXMLText)
+		# strXMLText = re.sub(r"<choice([^>]*?)>(.*?)</choice>", r"§\2§", strXMLText)
+		# strXMLText = re.sub(r"<([/]*)choice([/]*)>", "", strXMLText)
+		strXMLText = re.sub(r"(\s*)<choice([^>]*?)>", r"<w><choice \1>", strXMLText)
+		strXMLText = re.sub(r"</choice>(\s*)", r"</choice></w>", strXMLText)
+
 		strXMLText = re.sub(r"<sic([^>]*?)>(.*?)</sic>", r"", strXMLText)
 		strXMLText = re.sub(r"<([/]*)sic([/]*)>", "", strXMLText)
 		strXMLText = re.sub(r"<corr([^>]*?)>(.*?)</corr>", r"\2", strXMLText)
@@ -184,8 +187,8 @@ for strTextFullPath in vTextFullPaths:
 		# strXMLText = re.sub(r"</foreign>", r"</foreign></w>", strXMLText)
 
 		# Deal with word breaks and <num ...>
-		strXMLText = re.sub(r"<num([^>]*?)>", r"<w><num \1>", strXMLText)
-		strXMLText = re.sub(r"</num>", r"</num></w>", strXMLText)
+		# strXMLText = re.sub(r"<num([^>]*?)>", r"<w><num \1>", strXMLText)
+		# strXMLText = re.sub(r"</num>", r"</num></w>", strXMLText)
 
 		# Deal with <expan>
 		# strXMLText = re.sub(r"<expan>(.*?)</expan>", r"<w><expan>\1</expan></w>", strXMLText)
@@ -262,7 +265,6 @@ for strTextFullPath in vTextFullPaths:
 			node = node.replace("´", "")
 			node = node.replace("ֿ", "") # The niqqud point rafe
 
-
 			# Segment words on just the spaces
 			words = [word for word in node.split(" ") if len(word.strip())]
 
@@ -280,6 +282,7 @@ for strTextFullPath in vTextFullPaths:
 				editionSegmented.append(node)
 
 
+	## all child nodes should have ids
 	wordElems = editionSegmented.findall(".//tei:w", namespaces=nsmap)
 	for i, wordElem in enumerate(wordElems):
 		wordElem.attrib[XML_NS + 'id'] = '{}-{}'.format(os.path.splitext(strTextFilename)[0], i + 1)

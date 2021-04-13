@@ -149,7 +149,7 @@
             <div type="commentary" ana="b1">
                 <p/>
             </div>
-        <div type="edition" subtype="transcription_segmented"><p><w xml:id="mare0218-1" xml:lang="grc">ἀγορανομούντων</w><w xml:id="mare0218-2" xml:lang="grc"><expan><abbr><am>L</am></abbr><ex>ἔτους</ex></expan></w><w xml:id="mare0218-3" xml:lang="grc"><num value="8">η</num></w><w xml:id="mare0218-4" xml:lang="grc">Μενεκράτου</w> <w xml:id="mare0218-5" xml:lang="grc">Ἀθηνοδώρου</w></p>
+        <div type="edition" subtype="transcription_segmented"><p><w xml:id="mare0218-1" xml:lang="grc">ἀγορανομούντων</w><w xml:id="mare0218-2" xml:lang="grc"><expan><abbr><am>L</am></abbr><ex>ἔτους</ex></expan></w><num value="8">η</num><w xml:id="mare0218-3" xml:lang="grc">Μενεκράτου</w> <w xml:id="mare0218-4" xml:lang="grc">Ἀθηνοδώρου</w></p>
 </div>
 </body>
         <back>

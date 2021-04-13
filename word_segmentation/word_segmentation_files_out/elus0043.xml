@@ -123,8 +123,8 @@
          <div type="translation" ana="#b1" xml:id="elus0043.translation" corresp="#elus0043.transcription">
             <p>Here lies Umm Musa. 11th indiction.</p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="elus0043-1" xml:lang="grc">Ἀναπάη</w> <w xml:id="elus0043-2" xml:lang="grc">Ὀμμο</w> <w xml:id="elus0043-3" xml:lang="grc">μεύση</w><w xml:id="elus0043-4" xml:lang="grc"><expan><abbr><w xml:id="elus0043-5" xml:lang="grc"><supplied reason="undefined">ἰ</supplied></w>νδ</abbr><ex>ικτιῶνος</ex></expan></w><w xml:id="elus0043-6" xml:lang="grc"><num value="11">ια
-               </num></w></p>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="elus0043-1" xml:lang="grc">Ἀναπάη</w> <w xml:id="elus0043-2" xml:lang="grc">Ὀμμο</w> <w xml:id="elus0043-3" xml:lang="grc">μεύση</w><w xml:id="elus0043-4" xml:lang="grc"><expan><abbr><supplied reason="undefined">ἰ</supplied>νδ</abbr><ex>ικτιῶνος</ex></expan></w><num value="11">ια
+               </num></p>
 </div>
 </body>
       <back>

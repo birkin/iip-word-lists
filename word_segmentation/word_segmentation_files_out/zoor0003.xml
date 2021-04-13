@@ -112,9 +112,7 @@
             <p>
                <choice><sic>Μνημ<supplied reason="undefined">ῖο</supplied>ν</sic><corr>Μνημεῖον</corr></choice> Παύλο<unclear>υ</unclear>
                <lb/><unclear>Γ</unclear>εμέλλου τελευ<lb break="no"/>τήσαντος ἐτῶ<unclear>ν</unclear>
-               <lb/>δεκαοκτώ ἔτο<lb break="no"/>υς <choice>
-                  <expan><abbr>δια<unclear>κ</unclear><supplied reason="undefined">οσ</supplied></abbr><ex>ιστοῦ</ex></expan>
-               </choice> <num>ιηʹ</num>
+               <lb/>δεκαοκτώ ἔτο<lb break="no"/>υς <choice><expan><abbr>δια<unclear>κ</unclear><supplied reason="undefined">οσ</supplied></abbr><ex>ιστοῦ</ex></expan></choice> <num>ιηʹ</num>
                         μη<lb break="no"/>ν<unclear>ὸς</unclear>
                <unclear>Αὐδ</unclear><supplied reason="undefined">οναίου</supplied><gap reason="lost" unit="character" extent="unknown"/>
                <lb/><gap reason="illegible" unit="line" quantity="3"/>
@@ -125,7 +123,7 @@
                     in (the) two hundred and 18th year, on (the) .. (day) of (the) month
                     Audynaios...</p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="zoor0003-1" xml:lang="grc">Μνημεῖον</w> <w xml:id="zoor0003-2" xml:lang="grc">Παύλου</w> <w xml:id="zoor0003-3" xml:lang="grc">Γεμέλλου</w> <w xml:id="zoor0003-4" xml:lang="grc">τελευτήσαντος</w> <w xml:id="zoor0003-5" xml:lang="grc">ἐτῶν</w> <w xml:id="zoor0003-6" xml:lang="grc">δεκαοκτώ</w> <w xml:id="zoor0003-7" xml:lang="grc">ἔτους</w><w xml:id="zoor0003-8" xml:lang="grc"><expan><abbr>διακ<w xml:id="zoor0003-9" xml:lang="grc"><supplied reason="undefined">οσ</supplied></w></abbr><ex>ιστοῦ</ex></expan></w><w xml:id="zoor0003-10" xml:lang="grc"><num>ιηʹ</num></w><w xml:id="zoor0003-11" xml:lang="grc">μηνὸς</w> <w xml:id="zoor0003-12" xml:lang="grc">Αὐδ</w><w xml:id="zoor0003-13" xml:lang="grc"><supplied reason="undefined">οναίου</supplied></w></p>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="zoor0003-1" xml:lang="grc"><choice>Μνημεῖον</choice></w><w xml:id="zoor0003-2" xml:lang="grc">Παύλου</w> <w xml:id="zoor0003-3" xml:lang="grc">Γεμέλλου</w> <w xml:id="zoor0003-4" xml:lang="grc">τελευτήσαντος</w> <w xml:id="zoor0003-5" xml:lang="grc">ἐτῶν</w> <w xml:id="zoor0003-6" xml:lang="grc">δεκαοκτώ</w> <w xml:id="zoor0003-7" xml:lang="grc">ἔτους</w><w xml:id="zoor0003-8" xml:lang="grc"><choice><w xml:id="zoor0003-9" xml:lang="grc"><expan><abbr>διακ<supplied reason="undefined">οσ</supplied></abbr><ex>ιστοῦ</ex></expan></w></choice></w><num>ιηʹ</num><w xml:id="zoor0003-10" xml:lang="grc">μηνὸς</w> <w xml:id="zoor0003-11" xml:lang="grc">Αὐδ</w></p>
 </div>
 </body>
       <back>

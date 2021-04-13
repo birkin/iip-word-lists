@@ -125,12 +125,8 @@
                 <p/>
             </div>
             <div type="edition" subtype="transcription" ana="b1" xml:lang="heb">
-                <p>גיו<choice>
-                        <unclear>ר</unclear><unclear>י</unclear>
-                    </choice>
-               <choice>
-                        <unclear>ה</unclear><unclear>א</unclear>
-                    </choice>
+                <p>גיו<choice><unclear>ר</unclear><unclear>י</unclear></choice>
+               <choice><unclear>ה</unclear><unclear>א</unclear></choice>
             </p>
             </div>
             <div type="translation" ana="b1">
@@ -139,7 +135,7 @@
             <div type="commentary" ana="b1">
                 <p/>
             </div>
-        <div type="edition" subtype="transcription_segmented"><p><w xml:id="jeru0459-1" xml:lang="he">גיו</w> <w xml:id="jeru0459-2" xml:lang="he">רי</w> <w xml:id="jeru0459-3" xml:lang="he">הא</w></p>
+        <div type="edition" subtype="transcription_segmented"><p><w xml:id="jeru0459-1" xml:lang="he">גיו</w><w xml:id="jeru0459-2" xml:lang="he"><choice>רי</choice></w><w xml:id="jeru0459-3" xml:lang="he"><choice>הא</choice></w></p>
 </div>
 </body>
         <back>

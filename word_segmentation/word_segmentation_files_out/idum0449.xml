@@ -165,9 +165,7 @@
             <div type="edition" subtype="transcription" ana="b1" xml:lang="heb">
                 <p>ב<num value="16"><g type="sixteen-vertical-strokes"/></num> לסיון
                     שנת <num value="3"><g type="three-vertical-strokes"/></num><lb/>ע<unclear>ב</unclear>דא<unclear>ד</unclear>ה בר
-                        ע<unclear>י</unclear><choice>
-                        <unclear>ד</unclear><unclear>ר</unclear>
-                    </choice>ן<lb/>למ<unclear>ס</unclear>כנת מנקדה<lb/>שס <num value="12"><g type="twelve-vertical-strokes"/></num> ק <num value="2"><g type="two-vertical-strokes"/></num>
+                        ע<unclear>י</unclear><choice><unclear>ד</unclear><unclear>ר</unclear></choice>ן<lb/>למ<unclear>ס</unclear>כנת מנקדה<lb/>שס <num value="12"><g type="twelve-vertical-strokes"/></num> ק <num value="2"><g type="two-vertical-strokes"/></num>
                     <unclear>ר</unclear>
                     <num value="1"><g type="one-vertical-stroke"/></num></p>
             </div>
@@ -181,7 +179,7 @@
             </div>
             <!-- The bibl has more contained elements. What is the possible list of values of the biblScope/@type? 
              -->
-        <div type="edition" subtype="transcription_segmented"><p><w xml:id="idum0449-1" xml:lang="arc">ב</w><w xml:id="idum0449-2" xml:lang="arc"><num value="16"><g type="sixteen-vertical-strokes"/></num></w><w xml:id="idum0449-3" xml:lang="arc">לסיון</w> <w xml:id="idum0449-4" xml:lang="arc">שנת</w><w xml:id="idum0449-5" xml:lang="arc"><num value="3"><g type="three-vertical-strokes"/></num></w><w xml:id="idum0449-6" xml:lang="arc">עבדאדה</w> <w xml:id="idum0449-7" xml:lang="arc">בר</w> <w xml:id="idum0449-8" xml:lang="arc">עי</w> <w xml:id="idum0449-9" xml:lang="arc">דר</w> <w xml:id="idum0449-10" xml:lang="arc">ן</w> <w xml:id="idum0449-11" xml:lang="arc">למסכנת</w> <w xml:id="idum0449-12" xml:lang="arc">מנקדה</w> <w xml:id="idum0449-13" xml:lang="arc">שס</w><w xml:id="idum0449-14" xml:lang="arc"><num value="12"><g type="twelve-vertical-strokes"/></num></w><w xml:id="idum0449-15" xml:lang="arc">ק</w><w xml:id="idum0449-16" xml:lang="arc"><num value="2"><g type="two-vertical-strokes"/></num></w><w xml:id="idum0449-17" xml:lang="arc">ר</w><w xml:id="idum0449-18" xml:lang="arc"><num value="1"><g type="one-vertical-stroke"/></num></w></p>
+        <div type="edition" subtype="transcription_segmented"><p><w xml:id="idum0449-1" xml:lang="arc">ב</w><num value="16"><g type="sixteen-vertical-strokes"/></num><w xml:id="idum0449-2" xml:lang="arc">לסיון</w> <w xml:id="idum0449-3" xml:lang="arc">שנת</w><num value="3"><g type="three-vertical-strokes"/></num><w xml:id="idum0449-4" xml:lang="arc">עבדאדה</w> <w xml:id="idum0449-5" xml:lang="arc">בר</w> <w xml:id="idum0449-6" xml:lang="arc">עי</w><w xml:id="idum0449-7" xml:lang="arc"><choice>דר</choice></w><w xml:id="idum0449-8" xml:lang="arc">ן</w> <w xml:id="idum0449-9" xml:lang="arc">למסכנת</w> <w xml:id="idum0449-10" xml:lang="arc">מנקדה</w> <w xml:id="idum0449-11" xml:lang="arc">שס</w><num value="12"><g type="twelve-vertical-strokes"/></num><w xml:id="idum0449-12" xml:lang="arc">ק</w><num value="2"><g type="two-vertical-strokes"/></num><w xml:id="idum0449-13" xml:lang="arc">ר</w><num value="1"><g type="one-vertical-stroke"/></num></p>
 </div>
 </body>
         <back>

@@ -119,8 +119,7 @@
                <lb/>
                     <orig>ΟΣΙΟΣ</orig><gap reason="lost" unit="character" extent="unknown"/> Α<gap reason="lost" unit="character" extent="unknown"/>
                <lb/> <orig>ΟΣΙ</orig> πάντες <gap reason="lost" unit="character" extent="unknown"/><orig>Ε</orig><lb/> ἔχοντες<gap reason="lost" unit="character" extent="unknown"/> τ<lb/>οῦ
-                        Κυ<unclear>ρ</unclear>ίου ἡ <choice><sic>γ<unclear>ε</unclear>
-                  </sic><corr>γῇ</corr></choice>
+                        Κυ<unclear>ρ</unclear>ίου ἡ <choice><sic>γ<unclear>ε</unclear></sic><corr>γῇ</corr></choice>
                <lb/>
                     καὶ <choice><sic>τὰ</sic><corr>τό</corr></choice>
                <choice><sic>πλέ<unclear>ρ</unclear>ο<lb/>μα</sic><corr>πλήρωμα</corr></choice>
@@ -134,7 +133,7 @@
                     earth (is) the Lord's and the fullness thereof, the world, and all that dwell in
                     it.</p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="zoor0296-1" xml:lang="grc">Μνημείον</w> <w xml:id="zoor0296-2" xml:lang="grc">Φασέλης</w> <w xml:id="zoor0296-3" xml:lang="grc">Α</w> <w xml:id="zoor0296-4" xml:lang="grc">πάντες</w> <w xml:id="zoor0296-5" xml:lang="grc">ἔχοντες</w> <w xml:id="zoor0296-6" xml:lang="grc">τ</w> <w xml:id="zoor0296-7" xml:lang="grc">οῦ</w> <w xml:id="zoor0296-8" xml:lang="grc">Κυρίου</w> <w xml:id="zoor0296-9" xml:lang="grc">ἡ</w> <w xml:id="zoor0296-10" xml:lang="grc">γε</w> <w xml:id="zoor0296-11" xml:lang="grc">γῇ</w> <w xml:id="zoor0296-12" xml:lang="grc">καὶ</w> <w xml:id="zoor0296-13" xml:lang="grc">τό</w> <w xml:id="zoor0296-14" xml:lang="grc">πλήρωμα</w> <w xml:id="zoor0296-15" xml:lang="grc">αὐτῆς</w> <w xml:id="zoor0296-16" xml:lang="grc">οἰ</w> <w xml:id="zoor0296-17" xml:lang="grc">οἰκουμένη</w> <w xml:id="zoor0296-18" xml:lang="grc">καὶ</w> <w xml:id="zoor0296-19" xml:lang="grc">πάντες</w> <w xml:id="zoor0296-20" xml:lang="grc">οἰ</w> <w xml:id="zoor0296-21" xml:lang="grc">κατοικοῦντες</w> <w xml:id="zoor0296-22" xml:lang="grc">ἐν</w> <w xml:id="zoor0296-23" xml:lang="grc">αὐτῇ</w></p>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="zoor0296-1" xml:lang="grc"><choice>Μνημείον</choice></w><w xml:id="zoor0296-2" xml:lang="grc"><choice>Φασέλης</choice></w><w xml:id="zoor0296-3" xml:lang="grc">Α</w> <w xml:id="zoor0296-4" xml:lang="grc">πάντες</w> <w xml:id="zoor0296-5" xml:lang="grc">ἔχοντες</w> <w xml:id="zoor0296-6" xml:lang="grc">τ</w> <w xml:id="zoor0296-7" xml:lang="grc">οῦ</w> <w xml:id="zoor0296-8" xml:lang="grc">Κυρίου</w> <w xml:id="zoor0296-9" xml:lang="grc">ἡ</w><w xml:id="zoor0296-10" xml:lang="grc"><choice>γῇ</choice></w><w xml:id="zoor0296-11" xml:lang="grc">καὶ</w><w xml:id="zoor0296-12" xml:lang="grc"><choice>τό</choice></w><w xml:id="zoor0296-13" xml:lang="grc"><choice>πλήρωμα</choice></w><w xml:id="zoor0296-14" xml:lang="grc"><choice>αὐτῆς</choice></w><w xml:id="zoor0296-15" xml:lang="grc">οἰ</w><w xml:id="zoor0296-16" xml:lang="grc"><choice>οἰκουμένη</choice></w><w xml:id="zoor0296-17" xml:lang="grc">καὶ</w><w xml:id="zoor0296-18" xml:lang="grc"><choice>πάντες</choice></w><w xml:id="zoor0296-19" xml:lang="grc">οἰ</w><w xml:id="zoor0296-20" xml:lang="grc"><choice>κατοικοῦντες</choice></w><w xml:id="zoor0296-21" xml:lang="grc">ἐν</w><w xml:id="zoor0296-22" xml:lang="grc"><choice>αὐτῇ</choice></w></p>
 </div>
 </body>
       <back>

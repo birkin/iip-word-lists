@@ -182,7 +182,7 @@
             </div>
             <!-- The bibl has more contained elements. What is the possible list of values of the biblScope/@type? 
              -->
-        <div type="edition" subtype="transcription_segmented"><p><w xml:id="idum0172-1" xml:lang="arc">קוסעדר</w> <w xml:id="idum0172-2" xml:lang="arc">לבני</w> <w xml:id="idum0172-3" xml:lang="arc">עלבעל</w> <w xml:id="idum0172-4" xml:lang="arc">שנת</w><w xml:id="idum0172-5" xml:lang="arc"><num value="7">7</num></w><w xml:id="idum0172-6" xml:lang="arc">משח</w> <w xml:id="idum0172-7" xml:lang="arc">ק</w><w xml:id="idum0172-8" xml:lang="arc"><num value="2">2</num></w><w xml:id="idum0172-9" xml:lang="arc">ף</w></p>
+        <div type="edition" subtype="transcription_segmented"><p><w xml:id="idum0172-1" xml:lang="arc">קוסעדר</w> <w xml:id="idum0172-2" xml:lang="arc">לבני</w> <w xml:id="idum0172-3" xml:lang="arc">עלבעל</w> <w xml:id="idum0172-4" xml:lang="arc">שנת</w><num value="7">7</num><w xml:id="idum0172-5" xml:lang="arc">משח</w> <w xml:id="idum0172-6" xml:lang="arc">ק</w><num value="2">2</num><w xml:id="idum0172-7" xml:lang="arc">ף</w></p>
 </div>
 </body>
         <back>

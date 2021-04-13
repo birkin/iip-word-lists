@@ -140,27 +140,12 @@
             </div>
             <div type="edition" subtype="transcription" ana="b1">
                 <p>
-               <choice>
-                        <orig>Μνημῖον</orig>
-                        <reg>μνημεῖον</reg>
-                    </choice>
+               <choice><orig>Μνημῖον</orig><reg>μνημεῖον</reg></choice>
                <lb/>
-               <choice>
-                        <orig>Ἄννα</orig>
-                        <reg>Ἄννης</reg>
-                    </choice>
-                    <choice>
-                        <orig>Πιθο<lb break="no"/>λάου</orig>
-                        <reg>Πειθολάου</reg>
-                    </choice>,τελευ<lb break="no"/>τησάσης με<lb break="no"/>τᾶ καλοῦ ὀνό<lb break="no"/>ματος ἐτῶν<lb/>πεντήκοντα<lb/>πέντε, ἔτουσ <num value="285">σπε</num>
+               <choice><orig>Ἄννα</orig><reg>Ἄννης</reg></choice>
+                    <choice><orig>Πιθο<lb break="no"/>λάου</orig><reg>Πειθολάου</reg></choice>,τελευ<lb break="no"/>τησάσης με<lb break="no"/>τᾶ καλοῦ ὀνό<lb break="no"/>ματος ἐτῶν<lb/>πεντήκοντα<lb/>πέντε, ἔτουσ <num value="285">σπε</num>
                <lb/>μηνὸς Δίου πρώτῃ.<lb/>
-               <choice>
-                        <orig>Θάρσι</orig>
-                        <reg>θάρσει</reg>
-                    </choice>, <choice>
-                        <orig>οὺδὶς</orig>
-                        <reg>οὐδείς</reg>
-                    </choice> ἀθά<lb break="no"/>νατος. Ἡμέρᾳ Ἡλίου.</p>
+               <choice><orig>Θάρσι</orig><reg>θάρσει</reg></choice>, <choice><orig>οὺδὶς</orig><reg>οὐδείς</reg></choice> ἀθά<lb break="no"/>νατος. Ἡμέρᾳ Ἡλίου.</p>
             </div>
             <div type="translation" ana="b1">
                 <p>Monument of Anna, (daughter) of P(e)itholaos, who died having a good name (at the
@@ -171,7 +156,7 @@
             <div type="commentary" ana="b1">
                 <p/>
             </div>
-        <div type="edition" subtype="transcription_segmented"><p><w xml:id="zoor0367-1" xml:lang="grc">μνημεῖον</w> <w xml:id="zoor0367-2" xml:lang="grc">Ἄννης</w> <w xml:id="zoor0367-3" xml:lang="grc">Πειθολάου</w> <w xml:id="zoor0367-4" xml:lang="grc">τελευτησάσης</w> <w xml:id="zoor0367-5" xml:lang="grc">μετᾶ</w> <w xml:id="zoor0367-6" xml:lang="grc">καλοῦ</w> <w xml:id="zoor0367-7" xml:lang="grc">ὀνόματος</w> <w xml:id="zoor0367-8" xml:lang="grc">ἐτῶν</w> <w xml:id="zoor0367-9" xml:lang="grc">πεντήκοντα</w> <w xml:id="zoor0367-10" xml:lang="grc">πέντε</w> <w xml:id="zoor0367-11" xml:lang="grc">ἔτουσ</w><w xml:id="zoor0367-12" xml:lang="grc"><num value="285">σπε</num></w><w xml:id="zoor0367-13" xml:lang="grc">μηνὸς</w> <w xml:id="zoor0367-14" xml:lang="grc">Δίου</w> <w xml:id="zoor0367-15" xml:lang="grc">πρώτῃ</w> <w xml:id="zoor0367-16" xml:lang="grc">θάρσει</w> <w xml:id="zoor0367-17" xml:lang="grc">οὐδείς</w> <w xml:id="zoor0367-18" xml:lang="grc">ἀθάνατος</w> <w xml:id="zoor0367-19" xml:lang="grc">Ἡμέρᾳ</w> <w xml:id="zoor0367-20" xml:lang="grc">Ἡλίου</w></p>
+        <div type="edition" subtype="transcription_segmented"><p><w xml:id="zoor0367-1" xml:lang="grc"><choice>μνημεῖον</choice></w><w xml:id="zoor0367-2" xml:lang="grc"><choice>Ἄννης</choice></w><w xml:id="zoor0367-3" xml:lang="grc"><choice>Πειθολάου</choice></w><w xml:id="zoor0367-4" xml:lang="grc">τελευτησάσης</w> <w xml:id="zoor0367-5" xml:lang="grc">μετᾶ</w> <w xml:id="zoor0367-6" xml:lang="grc">καλοῦ</w> <w xml:id="zoor0367-7" xml:lang="grc">ὀνόματος</w> <w xml:id="zoor0367-8" xml:lang="grc">ἐτῶν</w> <w xml:id="zoor0367-9" xml:lang="grc">πεντήκοντα</w> <w xml:id="zoor0367-10" xml:lang="grc">πέντε</w> <w xml:id="zoor0367-11" xml:lang="grc">ἔτουσ</w><num value="285">σπε</num><w xml:id="zoor0367-12" xml:lang="grc">μηνὸς</w> <w xml:id="zoor0367-13" xml:lang="grc">Δίου</w> <w xml:id="zoor0367-14" xml:lang="grc">πρώτῃ</w><w xml:id="zoor0367-15" xml:lang="grc"><choice>θάρσει</choice></w><w xml:id="zoor0367-16" xml:lang="grc"><choice>οὐδείς</choice></w><w xml:id="zoor0367-17" xml:lang="grc">ἀθάνατος</w> <w xml:id="zoor0367-18" xml:lang="grc">Ἡμέρᾳ</w> <w xml:id="zoor0367-19" xml:lang="grc">Ἡλίου</w></p>
 </div>
 </body>
         <back>

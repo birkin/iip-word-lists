@@ -136,19 +136,14 @@
                <gap reason="lost" unit="character" extent="unknown"/>
                <lb/>
                <orig>Μ<gap reason="lost" unit="character" extent="unknown"/>Ο<lb/> ΠΑ<gap reason="lost" unit="character" extent="unknown"/>ΚΑΓ</orig><lb/>
-               <choice>
-                  <sic>
-                     <unclear>Θάρσι</unclear>
-                  </sic>
-                  <corr>Θάρσει</corr>
-               </choice>
+               <choice><sic><unclear>Θάρσι</unclear></sic><corr>Θάρσει</corr></choice>
                <gap reason="lost" unit="character" extent="unknown"/>
             </p>
          </div>
          <div type="translation" ana="#b1" xml:id="zoor0320.translation" corresp="#zoor0320.transcription">
             <p>... Be of good cheer?</p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="zoor0320-1" xml:lang="grc">Θάρσι</w> <w xml:id="zoor0320-2" xml:lang="grc">Θάρσει</w></p>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="zoor0320-1" xml:lang="grc"><choice>Θάρσει</choice></w></p>
 </div>
 </body>
       <back>

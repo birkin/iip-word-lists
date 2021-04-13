@@ -169,9 +169,7 @@
             </div>
             <div type="edition" subtype="transcription" ana="b1" xml:lang="heb">
                 <p>
-               <choice>
-                        <unclear>מ</unclear><unclear>ס</unclear>
-                    </choice>רור</p>
+               <choice><unclear>מ</unclear><unclear>ס</unclear></choice>רור</p>
             </div>
             <div type="translation" ana="b1">
                 <p/>
@@ -181,7 +179,7 @@
                     <lb/>Not written on jars.</p>
             </div>
             
-        <div type="edition" subtype="transcription_segmented"><p><w xml:id="masa0549-1" xml:lang="he">מס</w> <w xml:id="masa0549-2" xml:lang="he">רור</w></p>
+        <div type="edition" subtype="transcription_segmented"><p><w xml:id="masa0549-1" xml:lang="he"><choice>מס</choice></w><w xml:id="masa0549-2" xml:lang="he">רור</w></p>
 </div>
 </body>
         <back>

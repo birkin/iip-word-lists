@@ -123,14 +123,8 @@
                 <p/>
             </div>
             <div type="edition" subtype="transcription" ana="b1">
-                <p> προσφορὰ <lb/><choice>
-                        <corr>Σιμωνίου</corr>
-                        <orig>Σιμονίου</orig>
-                    </choice>
-                    <choice>
-                        <corr>πρ<lb break="no"/>εσβυτέρου</corr>
-                        <orig>πρ<lb break="no"/>εσβίτερος</orig>
-                    </choice></p>
+                <p> προσφορὰ <lb/><choice><corr>Σιμωνίου</corr><orig>Σιμονίου</orig></choice>
+                    <choice><corr>πρ<lb break="no"/>εσβυτέρου</corr><orig>πρ<lb break="no"/>εσβίτερος</orig></choice></p>
             </div>
             <div type="translation" ana="b1">
                 <p>Offering of Simonios, the priest.</p>
@@ -139,7 +133,7 @@
                 <p>Staab and Eisenberg understand this church to be a martyrion dedicated to
                     Theodoros Tiron of Amaseia. </p>
             </div>
-        <div type="edition" subtype="transcription_segmented"><p><w xml:id="susi0012-1" xml:lang="grc">προσφορὰ</w> <w xml:id="susi0012-2" xml:lang="grc">Σιμωνίου</w> <w xml:id="susi0012-3" xml:lang="grc">πρεσβυτέρου</w></p>
+        <div type="edition" subtype="transcription_segmented"><p><w xml:id="susi0012-1" xml:lang="grc">προσφορὰ</w><w xml:id="susi0012-2" xml:lang="grc"><choice>Σιμωνίου</choice></w><w xml:id="susi0012-3" xml:lang="grc"><choice>πρεσβυτέρου</choice></w></p>
 </div>
 </body>
         <back>

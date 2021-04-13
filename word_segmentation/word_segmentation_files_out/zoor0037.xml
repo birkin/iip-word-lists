@@ -140,15 +140,9 @@
                <lb/>
                <unclear>καλῆς πίςτεως</unclear>
                <lb/> ἐτῶν <num>κʹ</num>, <expan><abbr>ἔτ<am>ϛ</am></abbr><ex>ους</ex></expan>
-               <lb/> <num>σοβʹ</num>, μηνὶ Περι<lb break="no"/>τίου <num>ιγʹ</num>, <choice>
-                  <reg>ἡμήρᾳ</reg>
-                  <orig>ἡμέρα</orig>
-               </choice>
+               <lb/> <num>σοβʹ</num>, μηνὶ Περι<lb break="no"/>τίου <num>ιγʹ</num>, <choice><reg>ἡμήρᾳ</reg><orig>ἡμέρα</orig></choice>
                <lb/>
-               <expan><abbr>Κυ</abbr><ex>ρίου</ex></expan> <num>γʹ</num>. <choice>
-                  <orig>Θάρσι</orig>
-                  <reg>Θάρσει</reg>
-               </choice>, <choice><sic>οὐ<lb break="no"/>δὶς</sic><corr>οὐδείς</corr></choice> ἀθάνατο<lb break="no"/>ς <lb/> 
+               <expan><abbr>Κυ</abbr><ex>ρίου</ex></expan> <num>γʹ</num>. <choice><orig>Θάρσι</orig><reg>Θάρσει</reg></choice>, <choice><sic>οὐ<lb break="no"/>δὶς</sic><corr>οὐδείς</corr></choice> ἀθάνατο<lb break="no"/>ς <lb/> 
                <g type="bird"/>
             </p>
          </div>
@@ -157,7 +151,7 @@
                     272, on (the) 13th (day) of (the) month Peritios, on (the) 3rd day of (the) Lord
                     (Tuesday). Be of good cheer, no one (is) immortal.</p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="zoor0037-1" xml:lang="grc"><supplied reason="lost">μετά</supplied></w><w xml:id="zoor0037-2" xml:lang="grc"><supplied reason="lost">καλοῦ</supplied></w><w xml:id="zoor0037-3" xml:lang="grc"><supplied reason="lost">ὀνόματος</supplied></w><w xml:id="zoor0037-4" xml:lang="grc"><supplied reason="lost">καὶ</supplied></w><w xml:id="zoor0037-5" xml:lang="grc">καλῆς</w> <w xml:id="zoor0037-6" xml:lang="grc">πίςτεως</w> <w xml:id="zoor0037-7" xml:lang="grc">ἐτῶν</w><w xml:id="zoor0037-8" xml:lang="grc"><num>κʹ</num></w><w xml:id="zoor0037-9" xml:lang="grc"><expan><abbr>ἔτ<am>ϛ</am></abbr><ex>ους</ex></expan></w><w xml:id="zoor0037-10" xml:lang="grc"><num>σοβʹ</num></w><w xml:id="zoor0037-11" xml:lang="grc">μηνὶ</w> <w xml:id="zoor0037-12" xml:lang="grc">Περιτίου</w><w xml:id="zoor0037-13" xml:lang="grc"><num>ιγʹ</num></w><w xml:id="zoor0037-14" xml:lang="grc">ἡμήρᾳ</w><w xml:id="zoor0037-15" xml:lang="grc"><expan><abbr>Κυ</abbr><ex>ρίου</ex></expan></w><w xml:id="zoor0037-16" xml:lang="grc"><num>γʹ</num></w><w xml:id="zoor0037-17" xml:lang="grc">Θάρσει</w> <w xml:id="zoor0037-18" xml:lang="grc">οὐδείς</w> <w xml:id="zoor0037-19" xml:lang="grc">ἀθάνατος</w></p>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="zoor0037-1" xml:lang="grc"><supplied reason="lost">μετά</supplied></w><w xml:id="zoor0037-2" xml:lang="grc"><supplied reason="lost">καλοῦ</supplied></w><w xml:id="zoor0037-3" xml:lang="grc"><supplied reason="lost">ὀνόματος</supplied></w><w xml:id="zoor0037-4" xml:lang="grc"><supplied reason="lost">καὶ</supplied></w><w xml:id="zoor0037-5" xml:lang="grc">καλῆς</w> <w xml:id="zoor0037-6" xml:lang="grc">πίςτεως</w> <w xml:id="zoor0037-7" xml:lang="grc">ἐτῶν</w><num>κʹ</num><w xml:id="zoor0037-8" xml:lang="grc"><expan><abbr>ἔτ<am>ϛ</am></abbr><ex>ους</ex></expan></w><num>σοβʹ</num><w xml:id="zoor0037-9" xml:lang="grc">μηνὶ</w> <w xml:id="zoor0037-10" xml:lang="grc">Περιτίου</w><num>ιγʹ</num><w xml:id="zoor0037-11" xml:lang="grc"><choice>ἡμήρᾳ</choice></w><w xml:id="zoor0037-12" xml:lang="grc"><expan><abbr>Κυ</abbr><ex>ρίου</ex></expan></w><num>γʹ</num><w xml:id="zoor0037-13" xml:lang="grc"><choice>Θάρσει</choice></w><w xml:id="zoor0037-14" xml:lang="grc"><choice>οὐδείς</choice></w><w xml:id="zoor0037-15" xml:lang="grc">ἀθάνατος</w></p>
 </div>
 </body>
       <back>

@@ -115,11 +115,10 @@
       <body>
          <div type="edition" ana="#b1" subtype="transcription" xml:id="beth0168.transcription">
             <p>Κούφα<lb/>
-               <choice><corr>γ</corr><sic>ι</sic>
-               </choice> ῆ
+               <choice><corr>γ</corr><sic>ι</sic></choice> ῆ
                 </p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="beth0168-1" xml:lang="grc">Κούφα</w> <w xml:id="beth0168-2" xml:lang="grc">γ</w> <w xml:id="beth0168-3" xml:lang="grc">ῆ</w></p>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="beth0168-1" xml:lang="grc">Κούφα</w><w xml:id="beth0168-2" xml:lang="grc"><choice>γ</choice></w><w xml:id="beth0168-3" xml:lang="grc">ῆ</w></p>
 </div>
 </body>
       <back>

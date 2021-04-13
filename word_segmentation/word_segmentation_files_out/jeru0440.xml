@@ -126,15 +126,9 @@
                 <p/>
             </div>
             <div type="edition" subtype="transcription" ana="b1">
-                <p>Ἐνθάδε <choice>
-                        <orig>κῖτε</orig>
-                        <reg>κεῖται</reg>
-                    </choice>
+                <p>Ἐνθάδε <choice><orig>κῖτε</orig><reg>κεῖται</reg></choice>
                <lb/>Ἄναμος
-                        <choice>
-                  <orig>κλιβανάρις</orig>
-                  <reg>κλιβανάριος</reg>
-               </choice>
+                        <choice><orig>κλιβανάρις</orig><reg>κλιβανάριος</reg></choice>
                <lb/>
                <unclear>τρίτος</unclear>
                     Παλμύρας</p>
@@ -145,7 +139,7 @@
             <div type="commentary" ana="b1">
                 <p/>
             </div>
-        <div type="edition" subtype="transcription_segmented"><p><w xml:id="jeru0440-1" xml:lang="grc">Ἐνθάδε</w> <w xml:id="jeru0440-2" xml:lang="grc">κεῖται</w> <w xml:id="jeru0440-3" xml:lang="grc">Ἄναμος</w> <w xml:id="jeru0440-4" xml:lang="grc">κλιβανάριος</w> <w xml:id="jeru0440-5" xml:lang="grc">τρίτος</w> <w xml:id="jeru0440-6" xml:lang="grc">Παλμύρας</w></p>
+        <div type="edition" subtype="transcription_segmented"><p><w xml:id="jeru0440-1" xml:lang="grc">Ἐνθάδε</w><w xml:id="jeru0440-2" xml:lang="grc"><choice>κεῖται</choice></w><w xml:id="jeru0440-3" xml:lang="grc">Ἄναμος</w><w xml:id="jeru0440-4" xml:lang="grc"><choice>κλιβανάριος</choice></w><w xml:id="jeru0440-5" xml:lang="grc">τρίτος</w> <w xml:id="jeru0440-6" xml:lang="grc">Παλμύρας</w></p>
 </div>
 </body>
         <back>

@@ -126,9 +126,7 @@
             <div type="edition" subtype="transcription" ana="b1" xml:lang="heb">
                 <p>
                     <gap reason="lost" unit="character" extent="unknown"/>יר<g type="word-dividing-dot"/>בן<g type="word-dividing-dot"/>א<gap reason="lost" unit="character" extent="unknown"/>
-               <lb/>י<g type="word-dividing-dot"/>א<choice>
-                        <unclear>ד</unclear><unclear>ג</unclear>
-                    </choice>
+               <lb/>י<g type="word-dividing-dot"/>א<choice><unclear>ד</unclear><unclear>ג</unclear></choice>
             </p>
             </div>
             <div type="translation" ana="b1">
@@ -137,7 +135,7 @@
             <div type="commentary" ana="b1">
                 <p/>
             </div>
-        <div type="edition" subtype="transcription_segmented"><p><w xml:id="jeru0490-1" xml:lang="he">יר</w><w xml:id="jeru0490-2" xml:lang="he">בן</w><w xml:id="jeru0490-3" xml:lang="he">א</w> <w xml:id="jeru0490-4" xml:lang="he">י</w><w xml:id="jeru0490-5" xml:lang="he">א</w> <w xml:id="jeru0490-6" xml:lang="he">דג</w></p>
+        <div type="edition" subtype="transcription_segmented"><p><w xml:id="jeru0490-1" xml:lang="he">יר</w><w xml:id="jeru0490-2" xml:lang="he">בן</w><w xml:id="jeru0490-3" xml:lang="he">א</w> <w xml:id="jeru0490-4" xml:lang="he">י</w><w xml:id="jeru0490-5" xml:lang="he">א</w><w xml:id="jeru0490-6" xml:lang="he"><choice>דג</choice></w></p>
 </div>
 </body>
         <back>

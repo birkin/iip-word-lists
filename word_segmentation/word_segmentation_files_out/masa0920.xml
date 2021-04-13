@@ -169,8 +169,9 @@
                 <p/>
             </div>
             <div type="edition" subtype="transcription" ana="b1">
-                <p>S <gap reason="lost" unit="character" extent="unknown"/>
-            </p>
+                <p><orig>S</orig>
+                    <gap reason="lost" unit="character" extent="unknown"/>
+                </p>
             </div>
             <div type="translation" ana="b1">
                 <p/>
@@ -178,7 +179,7 @@
             <div type="commentary" ana="b1">
                 <p>Probably a monograph instead.</p>
             </div>
-        <div type="edition" subtype="transcription_segmented"><p><w xml:id="masa0920-1" xml:lang="la">S</w></p>
+        <div type="edition" subtype="transcription_segmented"><p/>
 </div>
 </body>
         <back>

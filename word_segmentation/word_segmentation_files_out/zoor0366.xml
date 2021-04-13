@@ -149,10 +149,7 @@
                <g type="cross"/>
                <g type="cross-rho"/>
                <lb/>
-               <choice>
-                        <orig>Μνημῖον</orig>
-                        <reg>μνημεῖον</reg>
-                    </choice>
+               <choice><orig>Μνημῖον</orig><reg>μνημεῖον</reg></choice>
                <lb/>Σαμιράββου<lb/>Ἀβδισάρου,<lb/>ἀποθανόν<lb break="no"/>τος ἐν
                         ὁσιό<lb break="no"/>τητι <expan><abbr>ἐτ</abbr><ex>ῶν</ex></expan>
                     <num value="25">κε</num>, ἐν<lb/>
@@ -160,10 +157,7 @@
                     <num value="13">γι</num>, <expan><abbr>ἔτ</abbr><ex>ους</ex></expan>
                     <num value="279">σοθ</num>,<lb/>
                <expan><abbr>μην</abbr><ex>ὸς</ex></expan>
-                    <choice>
-                        <orig>Πονέμου</orig>
-                        <reg>Πανήμου</reg>
-                    </choice>
+                    <choice><orig>Πονέμου</orig><reg>Πανήμου</reg></choice>
                     <num value="12">βι</num>,<lb/>ἡμέρᾳ Σελή<lb break="no"/>
                <space quantity="2" unit="character"/> νης. <g type="cross"/>
             </p>
@@ -183,7 +177,7 @@
                     inverted) but should instead be ιβ. This could be due to the original author's
                     own mistake, or could reflect the use of the Egyptian indictional system.</p>
             </div>
-        <div type="edition" subtype="transcription_segmented"><p><w xml:id="zoor0366-1" xml:lang="grc">μνημεῖον</w> <w xml:id="zoor0366-2" xml:lang="grc">Σαμιράββου</w> <w xml:id="zoor0366-3" xml:lang="grc">Ἀβδισάρου</w> <w xml:id="zoor0366-4" xml:lang="grc">ἀποθανόντος</w> <w xml:id="zoor0366-5" xml:lang="grc">ἐν</w> <w xml:id="zoor0366-6" xml:lang="grc">ὁσιότητι</w><w xml:id="zoor0366-7" xml:lang="grc"><expan><abbr>ἐτ</abbr><ex>ῶν</ex></expan></w><w xml:id="zoor0366-8" xml:lang="grc"><num value="25">κε</num></w><w xml:id="zoor0366-9" xml:lang="grc">ἐν</w><w xml:id="zoor0366-10" xml:lang="grc"><expan><abbr><w xml:id="zoor0366-11" xml:lang="grc"><supplied reason="omitted">ι</supplied></w>νδ</abbr><ex>ικτιῶνι</ex></expan></w><w xml:id="zoor0366-12" xml:lang="grc"><num value="13">γι</num></w><w xml:id="zoor0366-13" xml:lang="grc"><expan><abbr>ἔτ</abbr><ex>ους</ex></expan></w><w xml:id="zoor0366-14" xml:lang="grc"><num value="279">σοθ</num></w><w xml:id="zoor0366-15" xml:lang="grc"><expan><abbr>μην</abbr><ex>ὸς</ex></expan></w><w xml:id="zoor0366-16" xml:lang="grc">Πανήμου</w><w xml:id="zoor0366-17" xml:lang="grc"><num value="12">βι</num></w><w xml:id="zoor0366-18" xml:lang="grc">ἡμέρᾳ</w> <w xml:id="zoor0366-19" xml:lang="grc">Σελή</w> <w xml:id="zoor0366-20" xml:lang="grc">νης</w></p>
+        <div type="edition" subtype="transcription_segmented"><p><w xml:id="zoor0366-1" xml:lang="grc"><choice>μνημεῖον</choice></w><w xml:id="zoor0366-2" xml:lang="grc">Σαμιράββου</w> <w xml:id="zoor0366-3" xml:lang="grc">Ἀβδισάρου</w> <w xml:id="zoor0366-4" xml:lang="grc">ἀποθανόντος</w> <w xml:id="zoor0366-5" xml:lang="grc">ἐν</w> <w xml:id="zoor0366-6" xml:lang="grc">ὁσιότητι</w><w xml:id="zoor0366-7" xml:lang="grc"><expan><abbr>ἐτ</abbr><ex>ῶν</ex></expan></w><num value="25">κε</num><w xml:id="zoor0366-8" xml:lang="grc">ἐν</w><w xml:id="zoor0366-9" xml:lang="grc"><expan><abbr><supplied reason="omitted">ι</supplied>νδ</abbr><ex>ικτιῶνι</ex></expan></w><num value="13">γι</num><w xml:id="zoor0366-10" xml:lang="grc"><expan><abbr>ἔτ</abbr><ex>ους</ex></expan></w><num value="279">σοθ</num><w xml:id="zoor0366-11" xml:lang="grc"><expan><abbr>μην</abbr><ex>ὸς</ex></expan></w><w xml:id="zoor0366-12" xml:lang="grc"><choice>Πανήμου</choice></w><num value="12">βι</num><w xml:id="zoor0366-13" xml:lang="grc">ἡμέρᾳ</w> <w xml:id="zoor0366-14" xml:lang="grc">Σελή</w> <w xml:id="zoor0366-15" xml:lang="grc">νης</w></p>
 </div>
 </body>
         <back>

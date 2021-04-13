@@ -172,9 +172,7 @@
             <div type="edition" subtype="transcription" ana="b1" xml:lang="heb">
                 <p>
                <gap reason="lost" unit="character" extent="unknown"/>
-               <choice>
-                        <unclear>מן</unclear><unclear>מז</unclear>
-                    </choice>בלסנה</p>
+               <choice><unclear>מן</unclear><unclear>מז</unclear></choice>בלסנה</p>
             </div>
             <div type="translation" ana="b1">
                 <p>... of the balsam</p>
@@ -187,7 +185,7 @@
                     אפובלסמון and then corrupted to אפרסמון and אפרסמה.</p>
             </div>
             
-        <div type="edition" subtype="transcription_segmented"><p><w xml:id="masa0544-1" xml:lang="he">מןמז</w> <w xml:id="masa0544-2" xml:lang="he">בלסנה</w></p>
+        <div type="edition" subtype="transcription_segmented"><p><w xml:id="masa0544-1" xml:lang="he"><choice>מןמז</choice></w><w xml:id="masa0544-2" xml:lang="he">בלסנה</w></p>
 </div>
 </body>
         <back>

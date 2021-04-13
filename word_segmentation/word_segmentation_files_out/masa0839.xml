@@ -170,7 +170,7 @@
             <div type="edition" subtype="transcription" ana="b1">
                 <p>
                <gap reason="lost" unit="character" extent="unknown"/>
-               <unclear>O</unclear>L<unclear>C</unclear>
+               <orig><unclear>O</unclear>L<unclear>C</unclear></orig>
                <gap reason="lost" unit="character" extent="unknown"/>
             </p>
             </div>
@@ -182,7 +182,7 @@
                     first letter there is a part of a diagonal stroke, potentially indicating a
                     second line.</p>
             </div>
-        <div type="edition" subtype="transcription_segmented"><p><w xml:id="masa0839-1" xml:lang="la">OLC</w></p>
+        <div type="edition" subtype="transcription_segmented"><p/>
 </div>
 </body>
         <back>

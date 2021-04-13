@@ -111,15 +111,9 @@
       <body>
          <div type="edition" ana="#b1" xml:lang="grc" subtype="transcription" xml:id="zoor0008.transcription" corresp="#zoor0008.translation">
             <p>
-               <choice>
-                  <sic>Μνημῖον</sic>
-                  <corr>μνημεῖον</corr>
-               </choice>
+               <choice><sic>Μνημῖον</sic><corr>μνημεῖον</corr></choice>
                <lb/>
-               <choice>
-                  <sic>Τροείλλα</sic>
-                  <corr>Τρωΐλα</corr>
-               </choice>
+               <choice><sic>Τροείλλα</sic><corr>Τρωΐλα</corr></choice>
                <lb/>Αὐξιβίου ἀ<lb break="no"/>ποθανού<lb break="no"/>σης ἐτῶν <lb/><num>λεʹ</num> ἔτους
                   <lb/><num>σμαʹ</num></p>
          </div>
@@ -127,7 +121,7 @@
             <p>Monument of Troila, (daughter) of Auxibios, who died (at the age) of 35 years, in
                     (the) year 241.</p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="zoor0008-1" xml:lang="grc">μνημεῖον</w> <w xml:id="zoor0008-2" xml:lang="grc">Τρωΐλα</w> <w xml:id="zoor0008-3" xml:lang="grc">Αὐξιβίου</w> <w xml:id="zoor0008-4" xml:lang="grc">ἀποθανούσης</w> <w xml:id="zoor0008-5" xml:lang="grc">ἐτῶν</w><w xml:id="zoor0008-6" xml:lang="grc"><num>λεʹ</num></w><w xml:id="zoor0008-7" xml:lang="grc">ἔτους</w><w xml:id="zoor0008-8" xml:lang="grc"><num>σμαʹ</num></w></p>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="zoor0008-1" xml:lang="grc"><choice>μνημεῖον</choice></w><w xml:id="zoor0008-2" xml:lang="grc"><choice>Τρωΐλα</choice></w><w xml:id="zoor0008-3" xml:lang="grc">Αὐξιβίου</w> <w xml:id="zoor0008-4" xml:lang="grc">ἀποθανούσης</w> <w xml:id="zoor0008-5" xml:lang="grc">ἐτῶν</w><num>λεʹ</num><w xml:id="zoor0008-6" xml:lang="grc">ἔτους</w><num>σμαʹ</num></p>
 </div>
 </body>
       <back>

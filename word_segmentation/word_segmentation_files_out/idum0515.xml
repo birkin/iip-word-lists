@@ -150,9 +150,7 @@
                 <p/>
             </div>
             <div type="edition" subtype="transcription" ana="b1" xml:lang="heb">
-                <p>עי<choice>
-                        <unclear>ד</unclear><unclear>ר</unclear>
-                    </choice>ו בר ע<unclear>נ</unclear>וי תבן<lb/>משתל <num value="1"><g type="one-vertical-stroke"/></num></p>
+                <p>עי<choice><unclear>ד</unclear><unclear>ר</unclear></choice>ו בר ע<unclear>נ</unclear>וי תבן<lb/>משתל <num value="1"><g type="one-vertical-stroke"/></num></p>
             </div>
             <div type="translation" ana="b1">
                 <p>Aydu/Iyadu/Ghayru son of Annui: chaff,<lb/>BUNDLE, 1.</p>
@@ -161,7 +159,7 @@
                 <p>The reading/translation of "bundle" is uncertain.</p>
             </div>
 
-        <div type="edition" subtype="transcription_segmented"><p><w xml:id="idum0515-1" xml:lang="arc">עי</w> <w xml:id="idum0515-2" xml:lang="arc">דר</w> <w xml:id="idum0515-3" xml:lang="arc">ו</w> <w xml:id="idum0515-4" xml:lang="arc">בר</w> <w xml:id="idum0515-5" xml:lang="arc">ענוי</w> <w xml:id="idum0515-6" xml:lang="arc">תבן</w> <w xml:id="idum0515-7" xml:lang="arc">משתל</w><w xml:id="idum0515-8" xml:lang="arc"><num value="1"><g type="one-vertical-stroke"/></num></w></p>
+        <div type="edition" subtype="transcription_segmented"><p><w xml:id="idum0515-1" xml:lang="arc">עי</w><w xml:id="idum0515-2" xml:lang="arc"><choice>דר</choice></w><w xml:id="idum0515-3" xml:lang="arc">ו</w> <w xml:id="idum0515-4" xml:lang="arc">בר</w> <w xml:id="idum0515-5" xml:lang="arc">ענוי</w> <w xml:id="idum0515-6" xml:lang="arc">תבן</w> <w xml:id="idum0515-7" xml:lang="arc">משתל</w><num value="1"><g type="one-vertical-stroke"/></num></p>
 </div>
 </body>
         <back>

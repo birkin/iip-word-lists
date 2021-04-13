@@ -147,9 +147,7 @@
                 <p/>
             </div>
             <div type="edition" subtype="transcription" ana="b1" xml:lang="heb">
-                <p>ב <num value="26"><g type="phoen-20"/><g type="six-vertical-strokes"/></num> לאלול ש<supplied reason="lost">נת</supplied><gap reason="lost" extent="unknown" unit="character"/><lb/>קוסעי<choice>
-                        <unclear>ד</unclear><unclear>ר</unclear>
-                    </choice>
+                <p>ב <num value="26"><g type="phoen-20"/><g type="six-vertical-strokes"/></num> לאלול ש<supplied reason="lost">נת</supplied><gap reason="lost" extent="unknown" unit="character"/><lb/>קוסעי<choice><unclear>ד</unclear><unclear>ר</unclear></choice>
                     <unclear>מן</unclear>
                     <gap reason="illegible" quantity="1" unit="character"/><gap reason="lost" extent="unknown" unit="character"/><lb/><gap reason="lost" extent="unknown" unit="character"/><num value="3"><g type="three-vertical-strokes"/></num>
                         ק<gap reason="illegible" quantity="1" unit="character"/><gap reason="lost" extent="unknown" unit="character"/></p>
@@ -161,7 +159,7 @@
                 <p/>
             </div>
 
-        <div type="edition" subtype="transcription_segmented"><p><w xml:id="idum0641-1" xml:lang="arc">ב</w><w xml:id="idum0641-2" xml:lang="arc"><num value="26"><g type="phoen-20"/><g type="six-vertical-strokes"/></num></w><w xml:id="idum0641-3" xml:lang="arc">לאלול</w> <w xml:id="idum0641-4" xml:lang="arc">ש</w><w xml:id="idum0641-5" xml:lang="arc"><supplied reason="lost">נת</supplied></w><w xml:id="idum0641-6" xml:lang="arc">קוסעי</w> <w xml:id="idum0641-7" xml:lang="arc">דר</w> <w xml:id="idum0641-8" xml:lang="arc">מן</w><w xml:id="idum0641-9" xml:lang="arc"><num value="3"><g type="three-vertical-strokes"/></num></w><w xml:id="idum0641-10" xml:lang="arc">ק</w></p>
+        <div type="edition" subtype="transcription_segmented"><p><w xml:id="idum0641-1" xml:lang="arc">ב</w><num value="26"><g type="phoen-20"/><g type="six-vertical-strokes"/></num><w xml:id="idum0641-2" xml:lang="arc">לאלול</w> <w xml:id="idum0641-3" xml:lang="arc">ש</w><w xml:id="idum0641-4" xml:lang="arc">קוסעי</w><w xml:id="idum0641-5" xml:lang="arc"><choice>דר</choice></w><w xml:id="idum0641-6" xml:lang="arc">מן</w><num value="3"><g type="three-vertical-strokes"/></num><w xml:id="idum0641-7" xml:lang="arc">ק</w></p>
 </div>
 </body>
         <back>

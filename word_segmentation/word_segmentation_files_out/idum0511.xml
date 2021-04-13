@@ -150,9 +150,7 @@
                 <p/>
             </div>
             <div type="edition" subtype="transcription" ana="b1" xml:lang="heb">
-                <p>עי<choice>
-                        <unclear>ד</unclear><unclear>ר</unclear>
-                    </choice>ו חס<unclear>א</unclear>ן עשרן <unclear>ק</unclear><gap reason="lost" extent="unknown" unit="character"/><lb/>מן <gap reason="illegible" quantity="4" unit="character"/> קוס <unclear>ב</unclear>ש<gap reason="lost" extent="unknown" unit="character"/></p>
+                <p>עי<choice><unclear>ד</unclear><unclear>ר</unclear></choice>ו חס<unclear>א</unclear>ן עשרן <unclear>ק</unclear><gap reason="lost" extent="unknown" unit="character"/><lb/>מן <gap reason="illegible" quantity="4" unit="character"/> קוס <unclear>ב</unclear>ש<gap reason="lost" extent="unknown" unit="character"/></p>
             </div>
             <div type="translation" ana="b1">
                 <p>Aydu/Iyadu/Ghayru: w(heat), seahs, twenty; q(abs)[…],<lb/>from …. [?]qos,
@@ -162,7 +160,7 @@
                 <p/>
             </div>
 
-        <div type="edition" subtype="transcription_segmented"><p><w xml:id="idum0511-1" xml:lang="arc">עי</w> <w xml:id="idum0511-2" xml:lang="arc">דר</w> <w xml:id="idum0511-3" xml:lang="arc">ו</w> <w xml:id="idum0511-4" xml:lang="arc">חסאן</w> <w xml:id="idum0511-5" xml:lang="arc">עשרן</w> <w xml:id="idum0511-6" xml:lang="arc">ק</w> <w xml:id="idum0511-7" xml:lang="arc">מן</w> <w xml:id="idum0511-8" xml:lang="arc">קוס</w> <w xml:id="idum0511-9" xml:lang="arc">בש</w></p>
+        <div type="edition" subtype="transcription_segmented"><p><w xml:id="idum0511-1" xml:lang="arc">עי</w><w xml:id="idum0511-2" xml:lang="arc"><choice>דר</choice></w><w xml:id="idum0511-3" xml:lang="arc">ו</w> <w xml:id="idum0511-4" xml:lang="arc">חסאן</w> <w xml:id="idum0511-5" xml:lang="arc">עשרן</w> <w xml:id="idum0511-6" xml:lang="arc">ק</w> <w xml:id="idum0511-7" xml:lang="arc">מן</w> <w xml:id="idum0511-8" xml:lang="arc">קוס</w> <w xml:id="idum0511-9" xml:lang="arc">בש</w></p>
 </div>
 </body>
         <back>

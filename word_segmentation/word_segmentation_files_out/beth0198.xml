@@ -114,10 +114,7 @@
       <body>
          <div type="edition" ana="#b1" subtype="transcription" xml:id="beth0198.transcription" corresp="#beth0198.translation">
             <p>
-               <choice>
-                  <orig>Μεωνιτον</orig>
-                  <reg>Μεωνιτῶν</reg>
-               </choice>
+               <choice><orig>Μεωνιτον</orig><reg>Μεωνιτῶν</reg></choice>
             </p>
          </div>
          <div type="translation" ana="#b1" xml:id="beth0198.translation" corresp="#beth0198.transcription">
@@ -126,7 +123,7 @@
                </rs>
             </p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="beth0198-1" xml:lang="grc">Μεωνιτῶν</w></p>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="beth0198-1" xml:lang="grc"><choice>Μεωνιτῶν</choice></w></p>
 </div>
 </body>
       <back>

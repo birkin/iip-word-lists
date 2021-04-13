@@ -118,7 +118,7 @@
          <div type="translation" ana="#b1" xml:id="elus0053.translation" corresp="#elus0053.transcription">
             <p>Courage, Abbeos, no one is immortal.</p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="elus0053-1" xml:lang="grc">Θάρσι</w> <w xml:id="elus0053-2" xml:lang="grc">Ἀββέος</w> <w xml:id="elus0053-3" xml:lang="grc">οὐδὶς</w> <w xml:id="elus0053-4" xml:lang="grc">ἀθάνατος</w></p>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="elus0053-1" xml:lang="grc"><choice>Θάρσι</choice></w><w xml:id="elus0053-2" xml:lang="grc">Ἀββέος</w> <w xml:id="elus0053-3" xml:lang="grc">οὐδὶς</w> <w xml:id="elus0053-4" xml:lang="grc">ἀθάνατος</w></p>
 </div>
 </body>
       <back>

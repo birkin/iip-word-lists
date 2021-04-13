@@ -128,37 +128,19 @@
       <body>
          <div type="edition" ana="b2" xml:lang="grc" subtype="transcription" xml:id="zoor0333.transcription" corresp="#zoor0333.translation">
             <p>
-               <choice>
-                  <orig>Μνημῖον</orig>
-                  <reg>Μνημεῖον</reg>
-               </choice> Σίλθας<lb/>
-               <choice>
-                  <orig>Αἰνίου</orig>
-                  <reg>Αἰνείου</reg>
-               </choice>, <choice>
-                  <orig>ἀποθανοῦ<lb break="no"/>σα</orig>
-                  <reg>ἀποθανούσης</reg>
-               </choice> μετὰ καλοῦ ὀνό<lb break="no"/>ματος ἐτῶν <num value="50">ν</num>, <choice>
-                  <orig>ἐν ἔ<lb break="no"/>τι</orig>
-                  <reg>ἐν ἔτει</reg>
-               </choice>
+               <choice><orig>Μνημῖον</orig><reg>Μνημεῖον</reg></choice> Σίλθας<lb/>
+               <choice><orig>Αἰνίου</orig><reg>Αἰνείου</reg></choice>, <choice><orig>ἀποθανοῦ<lb break="no"/>σα</orig><reg>ἀποθανούσης</reg></choice> μετὰ καλοῦ ὀνό<lb break="no"/>ματος ἐτῶν <num value="50">ν</num>, <choice><orig>ἐν ἔ<lb break="no"/>τι</orig><reg>ἐν ἔτει</reg></choice>
                <num value="317">τιζ</num>, <expan><abbr>μη</abbr><ex>νὸς</ex></expan>
-               <choice>
-                  <orig>Πανέμου</orig>
-                  <reg>Πανήμου</reg>
-               </choice>
+               <choice><orig>Πανέμου</orig><reg>Πανήμου</reg></choice>
                <num value="4">δ</num>,<lb/>ἡμέρᾳ Κυρίου <space unit="character" quantity="1"/>
-               <num value="6">ς</num>.<lb/> Θάρσει, <choice>
-                  <orig>οὐδὶς</orig>
-                  <reg>οὐδείς</reg>
-               </choice> ἀθά<lb break="no"/>νατος. </p>
+               <num value="6">ς</num>.<lb/> Θάρσει, <choice><orig>οὐδὶς</orig><reg>οὐδείς</reg></choice> ἀθά<lb break="no"/>νατος. </p>
          </div>
          <div type="translation" ana="b2" xml:id="zoor0333.translation" corresp="#zoor0333.transcription">
             <p>Monument of Siltha, (daughter) of Aeneas, who died having a good name (at the age) of
                50 years, in (the) year 317, on (the) 4th (day) of the month Panemos, on (the) 6th
                day of (the) Lord (Friday). Be of good cheer, no one (is) immortal.</p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="zoor0333-1" xml:lang="grc">Μνημεῖον</w> <w xml:id="zoor0333-2" xml:lang="grc">Σίλθας</w> <w xml:id="zoor0333-3" xml:lang="grc">Αἰνείου</w> <w xml:id="zoor0333-4" xml:lang="grc">ἀποθανούσης</w> <w xml:id="zoor0333-5" xml:lang="grc">μετὰ</w> <w xml:id="zoor0333-6" xml:lang="grc">καλοῦ</w> <w xml:id="zoor0333-7" xml:lang="grc">ὀνόματος</w> <w xml:id="zoor0333-8" xml:lang="grc">ἐτῶν</w><w xml:id="zoor0333-9" xml:lang="grc"><num value="50">ν</num></w><w xml:id="zoor0333-10" xml:lang="grc">ἐν</w> <w xml:id="zoor0333-11" xml:lang="grc">ἔτει</w><w xml:id="zoor0333-12" xml:lang="grc"><num value="317">τιζ</num></w><w xml:id="zoor0333-13" xml:lang="grc"><expan><abbr>μη</abbr><ex>νὸς</ex></expan></w><w xml:id="zoor0333-14" xml:lang="grc">Πανήμου</w><w xml:id="zoor0333-15" xml:lang="grc"><num value="4">δ</num></w><w xml:id="zoor0333-16" xml:lang="grc">ἡμέρᾳ</w> <w xml:id="zoor0333-17" xml:lang="grc">Κυρίου</w><w xml:id="zoor0333-18" xml:lang="grc"><num value="6">ς</num></w><w xml:id="zoor0333-19" xml:lang="grc">Θάρσει</w> <w xml:id="zoor0333-20" xml:lang="grc">οὐδείς</w> <w xml:id="zoor0333-21" xml:lang="grc">ἀθάνατος</w></p>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="zoor0333-1" xml:lang="grc"><choice>Μνημεῖον</choice></w><w xml:id="zoor0333-2" xml:lang="grc">Σίλθας</w><w xml:id="zoor0333-3" xml:lang="grc"><choice>Αἰνείου</choice></w><w xml:id="zoor0333-4" xml:lang="grc"><choice>ἀποθανούσης</choice></w><w xml:id="zoor0333-5" xml:lang="grc">μετὰ</w> <w xml:id="zoor0333-6" xml:lang="grc">καλοῦ</w> <w xml:id="zoor0333-7" xml:lang="grc">ὀνόματος</w> <w xml:id="zoor0333-8" xml:lang="grc">ἐτῶν</w><num value="50">ν</num><w xml:id="zoor0333-9" xml:lang="grc"><choice>ἐν ἔτει</choice></w><num value="317">τιζ</num><w xml:id="zoor0333-10" xml:lang="grc"><expan><abbr>μη</abbr><ex>νὸς</ex></expan></w><w xml:id="zoor0333-11" xml:lang="grc"><choice>Πανήμου</choice></w><num value="4">δ</num><w xml:id="zoor0333-12" xml:lang="grc">ἡμέρᾳ</w> <w xml:id="zoor0333-13" xml:lang="grc">Κυρίου</w><num value="6">ς</num><w xml:id="zoor0333-14" xml:lang="grc">Θάρσει</w><w xml:id="zoor0333-15" xml:lang="grc"><choice>οὐδείς</choice></w><w xml:id="zoor0333-16" xml:lang="grc">ἀθάνατος</w></p>
 </div>
 </body>
       <back>

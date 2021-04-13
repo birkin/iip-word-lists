@@ -140,20 +140,14 @@
                <supplied reason="undefined">Χανθι</supplied>
                <unclear>κ</unclear>οῦ <num value="30">λʹ</num> <expan><abbr>ἡ<unclear>μ</unclear></abbr><ex>έρᾳ</ex></expan>
                <lb/>
-               <expan><abbr>Κυ</abbr><ex>ρίου</ex></expan> <num>δʹ</num> <choice>
-                  <orig>Θάρσι</orig>
-                  <reg>Θάρσει</reg>
-               </choice>,<lb/> Ἰσίδωρε,
-                        <choice>
-                  <orig>οὐδὶς</orig>
-                  <reg>οὐδείς</reg>
-               </choice> ἀ<lb break="no"/>θάνατος </p>
+               <expan><abbr>Κυ</abbr><ex>ρίου</ex></expan> <num>δʹ</num> <choice><orig>Θάρσι</orig><reg>Θάρσει</reg></choice>,<lb/> Ἰσίδωρε,
+                        <choice><orig>οὐδὶς</orig><reg>οὐδείς</reg></choice> ἀ<lb break="no"/>θάνατος </p>
          </div>
          <div type="translation" ana="#b1" xml:id="zoor0289.translation" corresp="#zoor0289.transcription">
             <p>... on (the) 30th (day) [of (the) month] Xanthikos (?), on (the) 4th day of (the)
                     Lord (Wednesday). Be of good cheer, Isidoros, no one (is) immortal.</p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="zoor0289-1" xml:lang="grc"><supplied reason="undefined">Χανθι</supplied></w><w xml:id="zoor0289-2" xml:lang="grc">κοῦ</w><w xml:id="zoor0289-3" xml:lang="grc"><num value="30">λʹ</num></w><w xml:id="zoor0289-4" xml:lang="grc"><expan><abbr>ἡμ</abbr><ex>έρᾳ</ex></expan></w><w xml:id="zoor0289-5" xml:lang="grc"><expan><abbr>Κυ</abbr><ex>ρίου</ex></expan></w><w xml:id="zoor0289-6" xml:lang="grc"><num>δʹ</num></w><w xml:id="zoor0289-7" xml:lang="grc">Θάρσει</w> <w xml:id="zoor0289-8" xml:lang="grc">Ἰσίδωρε</w> <w xml:id="zoor0289-9" xml:lang="grc">οὐδείς</w> <w xml:id="zoor0289-10" xml:lang="grc">ἀθάνατος</w></p>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="zoor0289-1" xml:lang="grc"><supplied reason="undefined">Χανθι</supplied></w><w xml:id="zoor0289-2" xml:lang="grc">κοῦ</w><num value="30">λʹ</num><w xml:id="zoor0289-3" xml:lang="grc"><expan><abbr>ἡμ</abbr><ex>έρᾳ</ex></expan></w><w xml:id="zoor0289-4" xml:lang="grc"><expan><abbr>Κυ</abbr><ex>ρίου</ex></expan></w><num>δʹ</num><w xml:id="zoor0289-5" xml:lang="grc"><choice>Θάρσει</choice></w><w xml:id="zoor0289-6" xml:lang="grc">Ἰσίδωρε</w><w xml:id="zoor0289-7" xml:lang="grc"><choice>οὐδείς</choice></w><w xml:id="zoor0289-8" xml:lang="grc">ἀθάνατος</w></p>
 </div>
 </body>
       <back>

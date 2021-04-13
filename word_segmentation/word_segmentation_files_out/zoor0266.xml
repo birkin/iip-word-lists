@@ -134,7 +134,7 @@
          <div type="translation" ana="#b1" xml:id="zoor0266.translation" corresp="#zoor0266.transcription">
             <p>Monument of Kyrilla, (daughter) of Elpidios, who died. </p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="zoor0266-1" xml:lang="grc">Μνημεῖον</w> <w xml:id="zoor0266-2" xml:lang="grc">Κυρίλλα</w> <w xml:id="zoor0266-3" xml:lang="grc">Ἐλπιδίου</w> <w xml:id="zoor0266-4" xml:lang="grc">ἀποθανόντας</w></p>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="zoor0266-1" xml:lang="grc"><choice>Μνημεῖον</choice></w><w xml:id="zoor0266-2" xml:lang="grc"><choice>Κυρίλλα</choice></w><w xml:id="zoor0266-3" xml:lang="grc"><choice>Ἐλπιδίου</choice></w><w xml:id="zoor0266-4" xml:lang="grc">ἀποθανόντας</w></p>
 </div>
 </body>
       <back>

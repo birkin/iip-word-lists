@@ -160,7 +160,7 @@
                 <p/>
             </div>
 
-        <div type="edition" subtype="transcription_segmented"><p><w xml:id="caes0556-1" xml:lang="grc"><expan><abbr>Ἔτ</abbr><ex>ους</ex></expan></w><w xml:id="caes0556-2" xml:lang="grc"><num value="12">βι</num></w><w xml:id="caes0556-3" xml:lang="grc">Τιβερίου</w> <w xml:id="caes0556-4" xml:lang="grc">Κλαυδίου</w><w xml:id="caes0556-5" xml:lang="grc"><expan><abbr>ἀγ<w xml:id="caes0556-6" xml:lang="grc"><supplied reason="lost">ο</supplied></w>ρα</abbr><ex cert="medium">νόμου</ex></expan></w><w xml:id="caes0556-7" xml:lang="grc">Ἀμουτος</w><w xml:id="caes0556-8" xml:lang="grc"><expan><abbr>Γαοκοσι</abbr><ex cert="low">ου</ex></expan></w></p>
+        <div type="edition" subtype="transcription_segmented"><p><w xml:id="caes0556-1" xml:lang="grc"><expan><abbr>Ἔτ</abbr><ex>ους</ex></expan></w><num value="12">βι</num><w xml:id="caes0556-2" xml:lang="grc">Τιβερίου</w> <w xml:id="caes0556-3" xml:lang="grc">Κλαυδίου</w><w xml:id="caes0556-4" xml:lang="grc"><expan><abbr>ἀγ<supplied reason="lost">ο</supplied>ρα</abbr><ex cert="medium">νόμου</ex></expan></w><w xml:id="caes0556-5" xml:lang="grc">Ἀμουτος</w><w xml:id="caes0556-6" xml:lang="grc"><expan><abbr>Γαοκοσι</abbr><ex cert="low">ου</ex></expan></w></p>
 </div>
 </body>
         <back>

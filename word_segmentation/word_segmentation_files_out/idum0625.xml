@@ -150,9 +150,7 @@
                 <p/>
             </div>
             <div type="edition" subtype="transcription" ana="b1" xml:lang="heb">
-                <p>ב <num value="15"><g type="phoen-10"/><g type="five-vertical-strokes"/></num> לתמוז שנת <num value="9"><g type="nine-vertical-strokes"/></num><lb/>עדי<choice>
-                        <unclear>ד</unclear><unclear>ר</unclear>
-                    </choice>ו חכ <num value="1"><g type="one-vertical-stroke"/></num>
+                <p>ב <num value="15"><g type="phoen-10"/><g type="five-vertical-strokes"/></num> לתמוז שנת <num value="9"><g type="nine-vertical-strokes"/></num><lb/>עדי<choice><unclear>ד</unclear><unclear>ר</unclear></choice>ו חכ <num value="1"><g type="one-vertical-stroke"/></num>
                     <unclear>ס</unclear>
                     <num value="6"><g type="six-vertical-strokes"/></num><lb/>שס <num value="19"><g type="phoen-10"/><g type="nine-vertical-strokes"/></num></p>
             </div>
@@ -164,7 +162,7 @@
                 <p/>
             </div>
 
-        <div type="edition" subtype="transcription_segmented"><p><w xml:id="idum0625-1" xml:lang="arc">ב</w><w xml:id="idum0625-2" xml:lang="arc"><num value="15"><g type="phoen-10"/><g type="five-vertical-strokes"/></num></w><w xml:id="idum0625-3" xml:lang="arc">לתמוז</w> <w xml:id="idum0625-4" xml:lang="arc">שנת</w><w xml:id="idum0625-5" xml:lang="arc"><num value="9"><g type="nine-vertical-strokes"/></num></w><w xml:id="idum0625-6" xml:lang="arc">עדי</w> <w xml:id="idum0625-7" xml:lang="arc">דר</w> <w xml:id="idum0625-8" xml:lang="arc">ו</w> <w xml:id="idum0625-9" xml:lang="arc">חכ</w><w xml:id="idum0625-10" xml:lang="arc"><num value="1"><g type="one-vertical-stroke"/></num></w><w xml:id="idum0625-11" xml:lang="arc">ס</w><w xml:id="idum0625-12" xml:lang="arc"><num value="6"><g type="six-vertical-strokes"/></num></w><w xml:id="idum0625-13" xml:lang="arc">שס</w><w xml:id="idum0625-14" xml:lang="arc"><num value="19"><g type="phoen-10"/><g type="nine-vertical-strokes"/></num></w></p>
+        <div type="edition" subtype="transcription_segmented"><p><w xml:id="idum0625-1" xml:lang="arc">ב</w><num value="15"><g type="phoen-10"/><g type="five-vertical-strokes"/></num><w xml:id="idum0625-2" xml:lang="arc">לתמוז</w> <w xml:id="idum0625-3" xml:lang="arc">שנת</w><num value="9"><g type="nine-vertical-strokes"/></num><w xml:id="idum0625-4" xml:lang="arc">עדי</w><w xml:id="idum0625-5" xml:lang="arc"><choice>דר</choice></w><w xml:id="idum0625-6" xml:lang="arc">ו</w> <w xml:id="idum0625-7" xml:lang="arc">חכ</w><num value="1"><g type="one-vertical-stroke"/></num><w xml:id="idum0625-8" xml:lang="arc">ס</w><num value="6"><g type="six-vertical-strokes"/></num><w xml:id="idum0625-9" xml:lang="arc">שס</w><num value="19"><g type="phoen-10"/><g type="nine-vertical-strokes"/></num></p>
 </div>
 </body>
         <back>

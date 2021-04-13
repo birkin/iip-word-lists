@@ -142,19 +142,15 @@
    <text>
       <body>
          <div type="edition" ana="#b1" xml:lang="heb" subtype="transcription" xml:id="jeri0011.transcription" corresp="#jeri0011.translation">
-            <p>מריה ברית נתאל <choice>
-                  <unclear>שלמצין</unclear><unclear> שלמשן</unclear>
-               </choice>
-               <lb/> מריה ברת נתאל בת <choice>
-                  <unclear>שלמצין</unclear><unclear> שלמשן</unclear>
-               </choice>
+            <p>מריה ברית נתאל <choice><unclear>שלמצין</unclear><unclear> שלמשן</unclear></choice>
+               <lb/> מריה ברת נתאל בת <choice><unclear>שלמצין</unclear><unclear> שלמשן</unclear></choice>
                <lb/> מריה ברת <gap reason="lost" unit="character" extent="unknown"/>
             </p>
          </div>
          <div type="translation" ana="#b1" xml:id="jeri0011.translation" corresp="#jeri0011.transcription">
             <p>Marya, daughter of Neta'el, Shlamẓin (Shlomshn?). Marya, daughter of Neta'el, daughter of Shlamẓin (Shlomshn?). Marya, daughter of [</p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="jeri0011-1" xml:lang="arc">מריה</w> <w xml:id="jeri0011-2" xml:lang="arc">ברית</w> <w xml:id="jeri0011-3" xml:lang="arc">נתאל</w> <w xml:id="jeri0011-4" xml:lang="arc">שלמצין</w> <w xml:id="jeri0011-5" xml:lang="arc">שלמשן</w> <w xml:id="jeri0011-6" xml:lang="arc">מריה</w> <w xml:id="jeri0011-7" xml:lang="arc">ברת</w> <w xml:id="jeri0011-8" xml:lang="arc">נתאל</w> <w xml:id="jeri0011-9" xml:lang="arc">בת</w> <w xml:id="jeri0011-10" xml:lang="arc">שלמצין</w> <w xml:id="jeri0011-11" xml:lang="arc">שלמשן</w> <w xml:id="jeri0011-12" xml:lang="arc">מריה</w> <w xml:id="jeri0011-13" xml:lang="arc">ברת</w></p>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="jeri0011-1" xml:lang="arc">מריה</w> <w xml:id="jeri0011-2" xml:lang="arc">ברית</w> <w xml:id="jeri0011-3" xml:lang="arc">נתאל</w><w xml:id="jeri0011-4" xml:lang="arc"><choice>שלמצין שלמשן</choice></w><w xml:id="jeri0011-5" xml:lang="arc">מריה</w> <w xml:id="jeri0011-6" xml:lang="arc">ברת</w> <w xml:id="jeri0011-7" xml:lang="arc">נתאל</w> <w xml:id="jeri0011-8" xml:lang="arc">בת</w><w xml:id="jeri0011-9" xml:lang="arc"><choice>שלמצין שלמשן</choice></w><w xml:id="jeri0011-10" xml:lang="arc">מריה</w> <w xml:id="jeri0011-11" xml:lang="arc">ברת</w></p>
 </div>
 </body>
       <back>

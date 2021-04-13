@@ -147,9 +147,7 @@
                 <p/>
             </div>
             <div type="edition" subtype="transcription" ana="b1" xml:lang="heb">
-                <p>ב <num value="13"><g type="phoen-10"/><g type="three-vertical-strokes"/></num> לאלול שנת<lb/><num value="17"><g type="phoen-10"/><g type="seven-vertical-strokes"/></num> עי<choice>
-                        <unclear>ד</unclear><unclear>ר</unclear>
-                    </choice>ו חס <num value="10"><g type="phoen-10"/></num><lb/>ק <num value="3"><g type="three-vertical-strokes"/></num></p>
+                <p>ב <num value="13"><g type="phoen-10"/><g type="three-vertical-strokes"/></num> לאלול שנת<lb/><num value="17"><g type="phoen-10"/><g type="seven-vertical-strokes"/></num> עי<choice><unclear>ד</unclear><unclear>ר</unclear></choice>ו חס <num value="10"><g type="phoen-10"/></num><lb/>ק <num value="3"><g type="three-vertical-strokes"/></num></p>
             </div>
             <div type="translation" ana="b1">
                 <p>On the 13th of Elul, year<lb/>17, Aydu/Iyadu/Ghayru: w(heat), s(eahs),
@@ -159,7 +157,7 @@
                 <p/>
             </div>
 
-        <div type="edition" subtype="transcription_segmented"><p><w xml:id="idum0509-1" xml:lang="arc">ב</w><w xml:id="idum0509-2" xml:lang="arc"><num value="13"><g type="phoen-10"/><g type="three-vertical-strokes"/></num></w><w xml:id="idum0509-3" xml:lang="arc">לאלול</w> <w xml:id="idum0509-4" xml:lang="arc">שנת</w><w xml:id="idum0509-5" xml:lang="arc"><num value="17"><g type="phoen-10"/><g type="seven-vertical-strokes"/></num></w><w xml:id="idum0509-6" xml:lang="arc">עי</w> <w xml:id="idum0509-7" xml:lang="arc">דר</w> <w xml:id="idum0509-8" xml:lang="arc">ו</w> <w xml:id="idum0509-9" xml:lang="arc">חס</w><w xml:id="idum0509-10" xml:lang="arc"><num value="10"><g type="phoen-10"/></num></w><w xml:id="idum0509-11" xml:lang="arc">ק</w><w xml:id="idum0509-12" xml:lang="arc"><num value="3"><g type="three-vertical-strokes"/></num></w></p>
+        <div type="edition" subtype="transcription_segmented"><p><w xml:id="idum0509-1" xml:lang="arc">ב</w><num value="13"><g type="phoen-10"/><g type="three-vertical-strokes"/></num><w xml:id="idum0509-2" xml:lang="arc">לאלול</w> <w xml:id="idum0509-3" xml:lang="arc">שנת</w><num value="17"><g type="phoen-10"/><g type="seven-vertical-strokes"/></num><w xml:id="idum0509-4" xml:lang="arc">עי</w><w xml:id="idum0509-5" xml:lang="arc"><choice>דר</choice></w><w xml:id="idum0509-6" xml:lang="arc">ו</w> <w xml:id="idum0509-7" xml:lang="arc">חס</w><num value="10"><g type="phoen-10"/></num><w xml:id="idum0509-8" xml:lang="arc">ק</w><num value="3"><g type="three-vertical-strokes"/></num></p>
 </div>
 </body>
         <back>

@@ -164,7 +164,7 @@
                 <p/>
             </div>
 
-        <div type="edition" subtype="transcription_segmented"><p><w xml:id="idum0586-1" xml:lang="arc">קוסרם</w> <w xml:id="idum0586-2" xml:lang="arc">בר</w> <w xml:id="idum0586-3" xml:lang="arc">סל</w> <w xml:id="idum0586-4" xml:lang="arc">חסאן</w><w xml:id="idum0586-5" xml:lang="arc"><num value="24"><g type="phoen-20"/><g type="four-vertical-strokes"/></num></w><w xml:id="idum0586-6" xml:lang="arc">בשנת</w><w xml:id="idum0586-7" xml:lang="arc"><num value="6"><g type="six-vertical-strokes"/></num></w><w xml:id="idum0586-8" xml:lang="arc">קחס</w> <w xml:id="idum0586-9" xml:lang="arc">תי</w><w xml:id="idum0586-10" xml:lang="arc"><num value="21"><g type="phoen-20"/><g type="one-vertical-stroke"/></num></w></p>
+        <div type="edition" subtype="transcription_segmented"><p><w xml:id="idum0586-1" xml:lang="arc">קוסרם</w> <w xml:id="idum0586-2" xml:lang="arc">בר</w> <w xml:id="idum0586-3" xml:lang="arc">סל</w> <w xml:id="idum0586-4" xml:lang="arc">חסאן</w><num value="24"><g type="phoen-20"/><g type="four-vertical-strokes"/></num><w xml:id="idum0586-5" xml:lang="arc">בשנת</w><num value="6"><g type="six-vertical-strokes"/></num><w xml:id="idum0586-6" xml:lang="arc">קחס</w> <w xml:id="idum0586-7" xml:lang="arc">תי</w><num value="21"><g type="phoen-20"/><g type="one-vertical-stroke"/></num></p>
 </div>
 </body>
         <back>

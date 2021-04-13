@@ -112,9 +112,7 @@
          <div type="edition" ana="#b1" xml:lang="grc" subtype="transcription" xml:id="zoor0274.transcription" corresp="#zoor0274.translation">
             <p>
                <choice><sic>Μνημῖ<lb break="no"/>ον</sic><corr>Μνημεῖον</corr></choice>
-               <choice>
-                  <sic/>
-                  <corr>Ζηνοβίου</corr></choice>Ζην<lb/>οβίω Ὠρί<lb break="no"/>ωνος,
+               <choice><sic/><corr>Ζηνοβίου</corr></choice>Ζην<lb/>οβίω Ὠρί<lb break="no"/>ωνος,
                ἀπο<lb break="no"/>θα<unclear>νό</unclear><supplied reason="undefined">ντος</supplied>
                <lb/>
                <supplied reason="undefined">ἐτῶν</supplied>
@@ -123,7 +121,7 @@
          <div type="translation" ana="#b1" xml:id="zoor0274.translation" corresp="#zoor0274.transcription">
             <p>Monument of Zenobios, (son) of Orion, who died [(at the age)] of... years.</p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="zoor0274-1" xml:lang="grc">Μνημεῖον</w> <w xml:id="zoor0274-2" xml:lang="grc">ΖηνοβίουΖην</w> <w xml:id="zoor0274-3" xml:lang="grc">οβίω</w> <w xml:id="zoor0274-4" xml:lang="grc">Ὠρίωνος</w> <w xml:id="zoor0274-5" xml:lang="grc">ἀποθανό</w><w xml:id="zoor0274-6" xml:lang="grc"><supplied reason="undefined">ντος</supplied></w><w xml:id="zoor0274-7" xml:lang="grc"><supplied reason="undefined">ἐτῶν</supplied></w></p>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="zoor0274-1" xml:lang="grc">Μνημεῖον</w> <w xml:id="zoor0274-2" xml:lang="grc">Ζηνοβίου</w> <w xml:id="zoor0274-3" xml:lang="grc">Ζην</w> <w xml:id="zoor0274-4" xml:lang="grc">οβίω</w> <w xml:id="zoor0274-5" xml:lang="grc">Ὠρίωνος</w> <w xml:id="zoor0274-6" xml:lang="grc">ἀποθανό</w><w xml:id="zoor0274-7" xml:lang="grc"><supplied reason="undefined">ντος</supplied></w><w xml:id="zoor0274-8" xml:lang="grc"><supplied reason="undefined">ἐτῶν</supplied></w></p>
 </div>
 </body>
       <back>

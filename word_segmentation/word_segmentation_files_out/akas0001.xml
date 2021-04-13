@@ -130,7 +130,7 @@
          <div type="translation" ana="#b1" xml:id="akas0001.translation" corresp="#akas0001.diplomatic #akas0001.transcription">
             <p>Be of good courage, Seeos! Seventy years old.</p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="akas0001-1" xml:lang="grc">θάρσι</w> <w xml:id="akas0001-2" xml:lang="grc">Σηεος</w><w xml:id="akas0001-3" xml:lang="grc"><expan><abbr>ἐτ</abbr><ex>ῶν</ex></expan></w><w xml:id="akas0001-4" xml:lang="grc"><num value="70">οʹ</num></w></p>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="akas0001-1" xml:lang="grc">θάρσι</w> <w xml:id="akas0001-2" xml:lang="grc">Σηεος</w><w xml:id="akas0001-3" xml:lang="grc"><expan><abbr>ἐτ</abbr><ex>ῶν</ex></expan></w><num value="70">οʹ</num></p>
 </div>
 </body>
       <back>

@@ -187,14 +187,18 @@
             </div>
             <div type="translation" ana="b1">
                 <p>And blessed<lb/>[are all the people of the town?] who<lb/>adhere to
-                    all<lb/>commandments. So may be<lb/>your labor and Ame[n Se]la[h]<lb/>P]eace</p>
+                    all<lb/>commandments. So may be<lb/>your labor and Ame[n
+                    Se]la[h]<lb/>[P]eace</p>
             </div>
             <div type="commentary" ana="b1">
                 <p/>
             </div>
             <!-- The bibl has more contained elements. What is the possible list of values of the biblScope/@type? 
              -->
-        <div type="edition" subtype="transcription_segmented"><p><w xml:id="huqo0001-1" xml:lang="he"><supplied reason="lost">וברוכי</supplied></w><w xml:id="huqo0001-2" xml:lang="he">ן</w><w xml:id="huqo0001-3" xml:lang="he"><supplied reason="lost" cert="low">כל בני העיר</supplied></w><w xml:id="huqo0001-4" xml:lang="he">שהן</w> <w xml:id="huqo0001-5" xml:lang="he">מתח</w><w xml:id="huqo0001-6" xml:lang="he"><supplied reason="lost">זקי</supplied></w><w xml:id="huqo0001-7" xml:lang="he">ן</w> <w xml:id="huqo0001-8" xml:lang="he">בכל</w> <w xml:id="huqo0001-9" xml:lang="he">מצות</w> <w xml:id="huqo0001-10" xml:lang="he">כן</w> <w xml:id="huqo0001-11" xml:lang="he">יהא</w> <w xml:id="huqo0001-12" xml:lang="he">ענלכן</w> <w xml:id="huqo0001-13" xml:lang="he">ואמ</w><w xml:id="huqo0001-14" xml:lang="he"><supplied reason="lost">ן ס</supplied></w><w xml:id="huqo0001-15" xml:lang="he">ל</w><w xml:id="huqo0001-16" xml:lang="he"><supplied reason="lost">ה</supplied></w><w xml:id="huqo0001-17" xml:lang="he"><supplied reason="lost">ש</supplied></w><w xml:id="huqo0001-18" xml:lang="he">ל</w><w xml:id="huqo0001-19" xml:lang="he"><supplied reason="lost">ום</supplied></w></p>
+        <div type="edition" subtype="transcription_segmented"><p><w xml:id="huqo0001-1" xml:lang="he"><supplied reason="lost">וברוכי</supplied>ן 
+                    <w xml:id="huqo0001-2" xml:lang="he"><supplied reason="lost" cert="low">כל בני העיר</supplied></w>
+                        שהן מתח<supplied reason="lost">זקי</supplied>ן בכל מצות כן יהא ענלכן
+                        ואמ<supplied reason="lost">ן ס</supplied>ל<supplied reason="lost">ה</supplied></w><w xml:id="huqo0001-3" xml:lang="he"><supplied reason="lost">ש</supplied>ל<supplied reason="lost">ום</supplied></w></p>
 </div>
 </body>
         <back>

@@ -126,10 +126,7 @@
             </div>
             <div type="edition" subtype="transcription" ana="b1">
                 <p>
-               <choice>
-                        <orig>Ναδουι</orig>
-                        <reg>Ἰουδάν</reg>
-                    </choice>
+               <choice><orig>Ναδουι</orig><reg>Ἰουδάν</reg></choice>
             </p>
             </div>
             <div type="translation" ana="b1">
@@ -142,7 +139,7 @@
                     may have read the name as one would in Hebrew, from left to right instead of
                     from right to left.</p>
             </div>
-        <div type="edition" subtype="transcription_segmented"><p><w xml:id="jeru0513-1" xml:lang="grc">Ἰουδάν</w></p>
+        <div type="edition" subtype="transcription_segmented"><p><w xml:id="jeru0513-1" xml:lang="grc"><choice>Ἰουδάν</choice></w></p>
 </div>
 </body>
         <back>

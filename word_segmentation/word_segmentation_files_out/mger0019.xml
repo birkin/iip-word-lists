@@ -185,9 +185,7 @@
                <gap reason="lost" extent="unknown" unit="character"/>
                <lb/>
                <gap reason="lost" extent="unknown" unit="character"/>
-               <choice>
-                        <unclear>ו</unclear><unclear>י</unclear>
-                    </choice>
+               <choice><unclear>ו</unclear><unclear>י</unclear></choice>
                <unclear>ה</unclear>
                <gap reason="lost" extent="unknown" unit="character"/>
             </p>
@@ -200,7 +198,7 @@
             </div>
             <!-- The bibl has more contained elements. What is the possible list of values of the biblScope/@type? 
              -->
-        <div type="edition" subtype="transcription_segmented"><p><w xml:id="mger0019-1" xml:lang="arc"><supplied reason="lost">ז</supplied></w><w xml:id="mger0019-2" xml:lang="arc">י</w> <w xml:id="mger0019-3" xml:lang="arc">הקר</w><w xml:id="mger0019-4" xml:lang="arc"><supplied reason="lost">בת</supplied></w><w xml:id="mger0019-5" xml:lang="arc">אנתת</w> <w xml:id="mger0019-6" xml:lang="arc">אל</w> <w xml:id="mger0019-7" xml:lang="arc">וי</w> <w xml:id="mger0019-8" xml:lang="arc">ה</w></p>
+        <div type="edition" subtype="transcription_segmented"><p><w xml:id="mger0019-1" xml:lang="arc"><supplied reason="lost">ז</supplied>י הקר<supplied reason="lost">בת</supplied></w><w xml:id="mger0019-2" xml:lang="arc">אנתת</w> <w xml:id="mger0019-3" xml:lang="arc">אל</w><w xml:id="mger0019-4" xml:lang="arc"><choice>וי</choice></w><w xml:id="mger0019-5" xml:lang="arc">ה</w></p>
 </div>
 </body>
         <back>

@@ -174,9 +174,7 @@
                <num value="2">2</num>
                         ל<unclear>כסלו</unclear> ֿ<gap reason="lost" unit="character" extent="unknown"/>
                <supplied reason="lost">
-                  <choice>
-                            <unclear>לבני</unclear><unclear>לבית</unclear>
-                        </choice>
+                  <choice><unclear>לבני</unclear><unclear>לבית</unclear></choice>
                </supplied>
                <lb/>
                <supplied reason="lost">ע</supplied>לבעל חס 6<gap reason="lost" unit="character" extent="unknown" cert="low"/>
@@ -192,9 +190,7 @@
             <!-- The bibl has more contained elements. What is the possible list of values of the biblScope/@type? 
              -->
         <div type="edition" subtype="transcription_segmented"><p><w xml:id="idum0174-1" xml:lang="arc"><supplied reason="lost">ב</supplied></w><w xml:id="idum0174-2" xml:lang="arc"><num value="2">2</num></w><w xml:id="idum0174-3" xml:lang="arc">לכסלו</w><w xml:id="idum0174-4" xml:lang="arc"><supplied reason="lost">
-                  
-                            לבנילבית
-                        
+                   לבנילבית 
                </supplied></w><w xml:id="idum0174-5" xml:lang="arc"><supplied reason="lost">ע</supplied></w><w xml:id="idum0174-6" xml:lang="arc">לבעל</w> <w xml:id="idum0174-7" xml:lang="arc">חס</w></p>
 </div>
 </body>

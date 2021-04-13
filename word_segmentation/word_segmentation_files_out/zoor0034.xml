@@ -127,7 +127,7 @@
             <p>Monument of Ommabie, (daughter) of Silanus, who died (at the age) of 13 years, in
                     the year 270. Be of good cheer, no on (is) immortal.</p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="zoor0034-1" xml:lang="grc">μνημεῖον</w> <w xml:id="zoor0034-2" xml:lang="grc">Ὀμμαβίης</w> <w xml:id="zoor0034-3" xml:lang="grc">Σιλανοῦ</w> <w xml:id="zoor0034-4" xml:lang="grc">τελευτησάσης</w> <w xml:id="zoor0034-5" xml:lang="grc">ἐτῶν</w><w xml:id="zoor0034-6" xml:lang="grc"><num>ιγʹ</num></w><w xml:id="zoor0034-7" xml:lang="grc">ἐν</w> <w xml:id="zoor0034-8" xml:lang="grc">ἔτει</w><w xml:id="zoor0034-9" xml:lang="grc"><num>σοʹ</num></w><w xml:id="zoor0034-10" xml:lang="grc">Θάρσει</w> <w xml:id="zoor0034-11" xml:lang="grc">οὐδεὶς</w> <w xml:id="zoor0034-12" xml:lang="grc">ἀθάνατος</w></p>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="zoor0034-1" xml:lang="grc"><choice>μνημεῖον</choice></w><w xml:id="zoor0034-2" xml:lang="grc">Ὀμμαβίης</w> <w xml:id="zoor0034-3" xml:lang="grc">Σιλανοῦ</w> <w xml:id="zoor0034-4" xml:lang="grc">τελευτησάσης</w> <w xml:id="zoor0034-5" xml:lang="grc">ἐτῶν</w><num>ιγʹ</num><w xml:id="zoor0034-6" xml:lang="grc">ἐν</w><w xml:id="zoor0034-7" xml:lang="grc"><choice>ἔτει</choice></w><num>σοʹ</num><w xml:id="zoor0034-8" xml:lang="grc"><choice>Θάρσει</choice></w><w xml:id="zoor0034-9" xml:lang="grc">οὐδεὶς</w> <w xml:id="zoor0034-10" xml:lang="grc">ἀθάνατος</w></p>
 </div>
 </body>
       <back>

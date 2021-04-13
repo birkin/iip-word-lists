@@ -135,7 +135,7 @@
                 <p>LE denotes "year five". The stone likely refers to the fifth year of Agrippa I's
                     reign.</p>
             </div>
-        <div type="edition" subtype="transcription_segmented"><p><w xml:id="jeru0321-1" xml:lang="grc"><expan><abbr><am>L</am></abbr><ex>ἔτους</ex></expan></w><w xml:id="jeru0321-2" xml:lang="grc"><num value="5">ε</num></w><w xml:id="jeru0321-3" xml:lang="grc">βασιλέως</w></p>
+        <div type="edition" subtype="transcription_segmented"><p><w xml:id="jeru0321-1" xml:lang="grc"><expan><abbr><am>L</am></abbr><ex>ἔτους</ex></expan></w><num value="5">ε</num><w xml:id="jeru0321-2" xml:lang="grc">βασιλέως</w></p>
 </div>
 </body>
         <back>

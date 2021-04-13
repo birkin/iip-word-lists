@@ -147,9 +147,7 @@
                 <p/>
             </div>
             <div type="edition" subtype="transcription" ana="b1" xml:lang="heb">
-                <p>ב <num value="1"><g type="one-vertical-stroke"/></num> לאב שנת <num value="13"><g type="phoen-10"/><g type="three-vertical-strokes"/></num> קוסעי<choice>
-                        <unclear>ד</unclear><unclear>ר</unclear>
-                    </choice><lb/>שס <num value="10"><g type="phoen-10"/></num> ק <num value="1"><g type="one-vertical-stroke"/></num></p>
+                <p>ב <num value="1"><g type="one-vertical-stroke"/></num> לאב שנת <num value="13"><g type="phoen-10"/><g type="three-vertical-strokes"/></num> קוסעי<choice><unclear>ד</unclear><unclear>ר</unclear></choice><lb/>שס <num value="10"><g type="phoen-10"/></num> ק <num value="1"><g type="one-vertical-stroke"/></num></p>
             </div>
             <div type="translation" ana="b1">
                 <p>On the 1st of Ab, year 13, Qosghayr:<lb/>b(arley), s(eahs), 10, q(ab), 1.</p>
@@ -158,7 +156,7 @@
                 <p/>
             </div>
 
-        <div type="edition" subtype="transcription_segmented"><p><w xml:id="idum0642-1" xml:lang="arc">ב</w><w xml:id="idum0642-2" xml:lang="arc"><num value="1"><g type="one-vertical-stroke"/></num></w><w xml:id="idum0642-3" xml:lang="arc">לאב</w> <w xml:id="idum0642-4" xml:lang="arc">שנת</w><w xml:id="idum0642-5" xml:lang="arc"><num value="13"><g type="phoen-10"/><g type="three-vertical-strokes"/></num></w><w xml:id="idum0642-6" xml:lang="arc">קוסעי</w> <w xml:id="idum0642-7" xml:lang="arc">דר</w> <w xml:id="idum0642-8" xml:lang="arc">שס</w><w xml:id="idum0642-9" xml:lang="arc"><num value="10"><g type="phoen-10"/></num></w><w xml:id="idum0642-10" xml:lang="arc">ק</w><w xml:id="idum0642-11" xml:lang="arc"><num value="1"><g type="one-vertical-stroke"/></num></w></p>
+        <div type="edition" subtype="transcription_segmented"><p><w xml:id="idum0642-1" xml:lang="arc">ב</w><num value="1"><g type="one-vertical-stroke"/></num><w xml:id="idum0642-2" xml:lang="arc">לאב</w> <w xml:id="idum0642-3" xml:lang="arc">שנת</w><num value="13"><g type="phoen-10"/><g type="three-vertical-strokes"/></num><w xml:id="idum0642-4" xml:lang="arc">קוסעי</w><w xml:id="idum0642-5" xml:lang="arc"><choice>דר</choice></w><w xml:id="idum0642-6" xml:lang="arc">שס</w><num value="10"><g type="phoen-10"/></num><w xml:id="idum0642-7" xml:lang="arc">ק</w><num value="1"><g type="one-vertical-stroke"/></num></p>
 </div>
 </body>
         <back>

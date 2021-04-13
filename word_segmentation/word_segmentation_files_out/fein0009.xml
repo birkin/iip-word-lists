@@ -127,19 +127,12 @@
       <body>
          <div type="edition" ana="#b1" xml:lang="grc" subtype="transcription" xml:id="zoor0361.transcription" corresp="#zoor0361.translation">
             <p>Στέ <g type="cross">+</g> φανο<hi rend="stacked">ς</hi>
-               <lb/>ἔνθα <choice>
-                  <orig>
-                     <reg>
-                        <expan><abbr>κεῖτ</abbr><ex>αι</ex></expan>
-                     </reg>
-                     <expan><abbr>κῖτ</abbr><ex>αι</ex></expan>
-                  </orig>
-               </choice>.</p>
+               <lb/>ἔνθα <choice><orig><reg><expan><abbr>κεῖτ</abbr><ex>αι</ex></expan></reg><expan><abbr>κῖτ</abbr><ex>αι</ex></expan></orig></choice>.</p>
          </div>
          <div type="translation" ana="#b1" xml:id="zoor0361.translation" corresp="#zoor0361.transcription">
             <p>Stephanos<lb/>lies here.</p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="fein0009-1" xml:lang="grc">Στέ</w><w xml:id="fein0009-2" xml:lang="grc">φανο</w><w xml:id="fein0009-3" xml:lang="grc">ἔνθα</w></p>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="fein0009-1" xml:lang="grc">Στέ</w><w xml:id="fein0009-2" xml:lang="grc">φανο</w><w xml:id="fein0009-3" xml:lang="grc">ἔνθα</w><w xml:id="fein0009-4" xml:lang="grc"><choice/></w></p>
 </div>
 </body>
       <back>

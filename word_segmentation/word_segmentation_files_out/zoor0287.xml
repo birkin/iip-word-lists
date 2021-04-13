@@ -122,14 +122,13 @@
          <div type="edition" ana="#b1" xml:lang="grc" subtype="transcription" xml:id="zoor0287.transcription" corresp="#zoor0287.translation">
             <p>
                <choice><sic>Μνημίον</sic><corr>Μνημεῖον</corr></choice> Μα<lb break="no"/>τρώνης <unclear>Ἀλ</unclear><lb break="no"/>φίου,
-               ἀποθ<lb break="no"/>αν<unclear>ο</unclear>ύσης<lb/> ἐτῶν <num>λεʹ</num>,<lb/> μηνὶ <choice><sic>Αὐδο<lb break="no"/>νέ<unclear>ῳ</unclear>
-                  </sic><corr>Αὐδυναίῳ</corr></choice> <num>κβʹ</num>.</p>
+               ἀποθ<lb break="no"/>αν<unclear>ο</unclear>ύσης<lb/> ἐτῶν <num>λεʹ</num>,<lb/> μηνὶ <choice><sic>Αὐδο<lb break="no"/>νέ<unclear>ῳ</unclear></sic><corr>Αὐδυναίῳ</corr></choice> <num>κβʹ</num>.</p>
          </div>
          <div type="translation" ana="#b1" xml:id="zoor0287.translation" corresp="#zoor0287.transcription">
             <p>Monument of Matrona, (daughter) of Alphios, who died (at the age) of 35 years, on
                     (the) 22nd (day) of the month Audynaios.</p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="zoor0287-1" xml:lang="grc">Μνημεῖον</w> <w xml:id="zoor0287-2" xml:lang="grc">Ματρώνης</w> <w xml:id="zoor0287-3" xml:lang="grc">Ἀλφίου</w> <w xml:id="zoor0287-4" xml:lang="grc">ἀποθανούσης</w> <w xml:id="zoor0287-5" xml:lang="grc">ἐτῶν</w><w xml:id="zoor0287-6" xml:lang="grc"><num>λεʹ</num></w><w xml:id="zoor0287-7" xml:lang="grc">μηνὶ</w> <w xml:id="zoor0287-8" xml:lang="grc">Αὐδονέῳ</w> <w xml:id="zoor0287-9" xml:lang="grc">Αὐδυναίῳ</w><w xml:id="zoor0287-10" xml:lang="grc"><num>κβʹ</num></w></p>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="zoor0287-1" xml:lang="grc"><choice>Μνημεῖον</choice></w><w xml:id="zoor0287-2" xml:lang="grc">Ματρώνης</w> <w xml:id="zoor0287-3" xml:lang="grc">Ἀλφίου</w> <w xml:id="zoor0287-4" xml:lang="grc">ἀποθανούσης</w> <w xml:id="zoor0287-5" xml:lang="grc">ἐτῶν</w><num>λεʹ</num><w xml:id="zoor0287-6" xml:lang="grc">μηνὶ</w><w xml:id="zoor0287-7" xml:lang="grc"><choice>Αὐδυναίῳ</choice></w><num>κβʹ</num></p>
 </div>
 </body>
       <back>

@@ -153,26 +153,15 @@
                <g type="cross"/> Εἷς
                             <expan><abbr>Θ</abbr><ex>εό</ex><abbr>ς</abbr></expan>,
                         <unclear>ὁ</unclear>
-                    <choice>
-                        <reg>
-                     <unclear>πά</unclear>ντων</reg>
-                        <orig>
-                     <unclear>πά</unclear>ντον</orig>
-                    </choice>
+                    <choice><reg><unclear>πά</unclear>ντων</reg><orig><unclear>πά</unclear>ντον</orig></choice>
                <lb/>
                <expan><abbr>Δεσπ</abbr><ex>ότης</ex></expan>.
-                        <unclear>Ἐνθάδ</unclear>ε <choice>
-                        <reg>κεῖται</reg>
-                        <orig>κῖτε</orig>
-                    </choice>
+                        <unclear>Ἐνθάδ</unclear>ε <choice><reg>κεῖται</reg><orig>κῖτε</orig></choice>
                <lb/>ὁ μακάρι<unclear>ος</unclear>
                         π<unclear>ά</unclear>πα<lb/>
                <orig>ϹΟΝΟϹ</orig>, ζήσ<unclear>α</unclear>ς ἔτη
                         <num value="55">νε</num>,<lb/>
-               <choice>
-                        <reg>ἀποθανών</reg>
-                        <orig>ἀποθαν<unclear>ὸ</unclear>ν</orig>
-                    </choice>
+               <choice><reg>ἀποθανών</reg><orig>ἀποθαν<unclear>ὸ</unclear>ν</orig></choice>
                     <expan><abbr>ἡμ</abbr><ex>έ</ex><abbr>ρ</abbr><ex>ᾳ</ex></expan>
                     <num value="6">ς</num>,<lb/>
                <expan><abbr>μη</abbr><ex>νὸς</ex></expan> Περιτίου
@@ -197,7 +186,7 @@
                     version of the names Αἰῶν, Αἰῶνις, or Αἰῶνος. Given the epithet πάπας, the
                     deceased was likely a member of the local clergy.</p>
             </div>
-        <div type="edition" subtype="transcription_segmented"><p><w xml:id="zoor0385-1" xml:lang="grc">Εἷς</w><w xml:id="zoor0385-2" xml:lang="grc"><expan><abbr>Θ</abbr><ex>εό</ex><abbr>ς</abbr></expan></w><w xml:id="zoor0385-3" xml:lang="grc">ὁ</w><w xml:id="zoor0385-4" xml:lang="grc"><expan><abbr>Δεσπ</abbr><ex>ότης</ex></expan></w><w xml:id="zoor0385-5" xml:lang="grc">Ἐνθάδε</w> <w xml:id="zoor0385-6" xml:lang="grc">κεῖται</w> <w xml:id="zoor0385-7" xml:lang="grc">ὁ</w> <w xml:id="zoor0385-8" xml:lang="grc">μακάριος</w> <w xml:id="zoor0385-9" xml:lang="grc">πάπα</w> <w xml:id="zoor0385-10" xml:lang="grc">ζήσας</w> <w xml:id="zoor0385-11" xml:lang="grc">ἔτη</w><w xml:id="zoor0385-12" xml:lang="grc"><num value="55">νε</num></w><w xml:id="zoor0385-13" xml:lang="grc">ἀποθανών</w><w xml:id="zoor0385-14" xml:lang="grc"><expan><abbr>ἡμ</abbr><ex>έ</ex><abbr>ρ</abbr><ex>ᾳ</ex></expan></w><w xml:id="zoor0385-15" xml:lang="grc"><num value="6">ς</num></w><w xml:id="zoor0385-16" xml:lang="grc"><expan><abbr>μη</abbr><ex>νὸς</ex></expan></w><w xml:id="zoor0385-17" xml:lang="grc">Περιτίου</w><w xml:id="zoor0385-18" xml:lang="grc"><num value="1">α</num></w><w xml:id="zoor0385-19" xml:lang="grc"><expan><abbr>ἰνδ</abbr><ex>ικτιῶνος</ex></expan></w><w xml:id="zoor0385-20" xml:lang="grc"><num value="10">ι</num></w><w xml:id="zoor0385-21" xml:lang="grc">τοῦ</w> <w xml:id="zoor0385-22" xml:lang="grc">ἔτους</w><w xml:id="zoor0385-23" xml:lang="grc"><num value="471">υοα</num></w></p>
+        <div type="edition" subtype="transcription_segmented"><p><w xml:id="zoor0385-1" xml:lang="grc">Εἷς</w><w xml:id="zoor0385-2" xml:lang="grc"><expan><abbr>Θ</abbr><ex>εό</ex><abbr>ς</abbr></expan></w><w xml:id="zoor0385-3" xml:lang="grc">ὁ</w><w xml:id="zoor0385-4" xml:lang="grc"><choice>πάντων</choice></w><w xml:id="zoor0385-5" xml:lang="grc"><expan><abbr>Δεσπ</abbr><ex>ότης</ex></expan></w><w xml:id="zoor0385-6" xml:lang="grc">Ἐνθάδε</w><w xml:id="zoor0385-7" xml:lang="grc"><choice>κεῖται</choice></w><w xml:id="zoor0385-8" xml:lang="grc">ὁ</w> <w xml:id="zoor0385-9" xml:lang="grc">μακάριος</w> <w xml:id="zoor0385-10" xml:lang="grc">πάπα</w> <w xml:id="zoor0385-11" xml:lang="grc">ζήσας</w> <w xml:id="zoor0385-12" xml:lang="grc">ἔτη</w><num value="55">νε</num><w xml:id="zoor0385-13" xml:lang="grc"><choice>ἀποθανών</choice></w><w xml:id="zoor0385-14" xml:lang="grc"><expan><abbr>ἡμ</abbr><ex>έ</ex><abbr>ρ</abbr><ex>ᾳ</ex></expan></w><num value="6">ς</num><w xml:id="zoor0385-15" xml:lang="grc"><expan><abbr>μη</abbr><ex>νὸς</ex></expan></w><w xml:id="zoor0385-16" xml:lang="grc">Περιτίου</w><num value="1">α</num><w xml:id="zoor0385-17" xml:lang="grc"><expan><abbr>ἰνδ</abbr><ex>ικτιῶνος</ex></expan></w><num value="10">ι</num><w xml:id="zoor0385-18" xml:lang="grc">τοῦ</w> <w xml:id="zoor0385-19" xml:lang="grc">ἔτους</w><num value="471">υοα</num></p>
 </div>
 </body>
         <back>

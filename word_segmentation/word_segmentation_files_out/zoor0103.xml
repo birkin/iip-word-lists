@@ -119,8 +119,7 @@
             <p>
                <choice><sic>Μνημῖον</sic><corr>Μνημεῖον</corr></choice>
                <lb/> Παῦλον <choice><sic>Ἀρα<lb break="no"/>βιονοῦ</sic><corr>Ἀραβιανοῦ</corr></choice>, <choice><sic>ὀποθα<lb break="no"/>νόντος</sic><corr>ἀποθανόντος</corr></choice> ἐτῶν<lb/>
-               <num><unclear>ξ</unclear>ʹ</num>, ἔτους <num><unclear>ξ</unclear> <num>τηʹ</num></num> <orig>ξ</orig>,<lb/> μηνὸς <choice><sic>
-                     <unclear>Ξ</unclear>ανδι<lb/>τοῦ</sic><corr>Ξανδικοῦ</corr></choice> <orig>κδʹ</orig>, <choice><sic>ἡμήρᾳ</sic><corr>ἡμέρᾳ</corr></choice>
+               <num><unclear>ξ</unclear>ʹ</num>, ἔτους <num><unclear>ξ</unclear> <num>τηʹ</num></num> <orig>ξ</orig>,<lb/> μηνὸς <choice><sic><unclear>Ξ</unclear>ανδι<lb break="no"/>τοῦ</sic><corr>Ξανδικοῦ</corr></choice> <num>κδʹ</num>, <choice><sic>ἡμήρᾳ</sic><corr>ἡμέρᾳ</corr></choice>
                <expan><abbr>Κυ</abbr><ex>ρίου</ex></expan> <orig>βʹ</orig>. <choice><sic>Θάρσι</sic><corr>Θάρσει</corr></choice>, <choice><sic>οὐ<lb break="no"/>δὶς</sic><corr>ουδεὶς</corr></choice>
                <choice><sic>ἀ<supplied reason="undefined">θ</supplied>άνοτος</sic><corr>ἀθάνατος</corr></choice>.</p>
          </div>
@@ -129,7 +128,7 @@
                     (the) year 308, on (the) 24th (day) of (the) month Xandikos, on the (2nd) day of
                     (the) Lord (Monday). Be of good cheer, no one (is) immortal.</p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="zoor0103-1" xml:lang="grc">Μνημεῖον</w> <w xml:id="zoor0103-2" xml:lang="grc">Παῦλον</w> <w xml:id="zoor0103-3" xml:lang="grc">Ἀραβιανοῦ</w> <w xml:id="zoor0103-4" xml:lang="grc">ἀποθανόντος</w> <w xml:id="zoor0103-5" xml:lang="grc">ἐτῶν</w><w xml:id="zoor0103-6" xml:lang="grc"><num>ξʹ</num></w><w xml:id="zoor0103-7" xml:lang="grc">ἔτους</w><w xml:id="zoor0103-8" xml:lang="grc"><num>ξ <w xml:id="zoor0103-9" xml:lang="grc"><num>τηʹ</num></w></num></w><w xml:id="zoor0103-10" xml:lang="grc">μηνὸς</w> <w xml:id="zoor0103-11" xml:lang="grc">Ξανδι</w> <w xml:id="zoor0103-12" xml:lang="grc">τοῦΞανδικοῦ</w> <w xml:id="zoor0103-13" xml:lang="grc">ἡμέρᾳ</w><w xml:id="zoor0103-14" xml:lang="grc"><expan><abbr>Κυ</abbr><ex>ρίου</ex></expan></w><w xml:id="zoor0103-15" xml:lang="grc">Θάρσει</w> <w xml:id="zoor0103-16" xml:lang="grc">ουδεὶς</w> <w xml:id="zoor0103-17" xml:lang="grc">ἀθάνατος</w></p>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="zoor0103-1" xml:lang="grc"><choice>Μνημεῖον</choice></w><w xml:id="zoor0103-2" xml:lang="grc">Παῦλον</w><w xml:id="zoor0103-3" xml:lang="grc"><choice>Ἀραβιανοῦ</choice></w><w xml:id="zoor0103-4" xml:lang="grc"><choice>ἀποθανόντος</choice></w><w xml:id="zoor0103-5" xml:lang="grc">ἐτῶν</w><num>ξʹ</num><w xml:id="zoor0103-6" xml:lang="grc">ἔτους</w><num>ξ <num>τηʹ</num></num><w xml:id="zoor0103-7" xml:lang="grc">μηνὸς</w><w xml:id="zoor0103-8" xml:lang="grc"><choice>Ξανδικοῦ</choice></w><num>κδʹ</num><w xml:id="zoor0103-9" xml:lang="grc"><choice>ἡμέρᾳ</choice></w><w xml:id="zoor0103-10" xml:lang="grc"><expan><abbr>Κυ</abbr><ex>ρίου</ex></expan></w><w xml:id="zoor0103-11" xml:lang="grc"><choice>Θάρσει</choice></w><w xml:id="zoor0103-12" xml:lang="grc"><choice>ουδεὶς</choice></w><w xml:id="zoor0103-13" xml:lang="grc"><choice>ἀθάνατος</choice></w></p>
 </div>
 </body>
       <back>

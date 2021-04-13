@@ -149,9 +149,7 @@
                 <p/>
             </div>
             <div type="edition" subtype="transcription" ana="b1" xml:lang="heb">
-                <p><gap reason="lost" extent="unknown" unit="character"/>ת<lb/><gap reason="lost" extent="unknown" unit="character"/><unclear>ח</unclear>ו<choice>
-                        <unclear>ד</unclear><unclear>ר</unclear>
-                    </choice>ן בר קוסעני מובלן <num value="3"><g type="three-vertical-strokes"/></num></p>
+                <p><gap reason="lost" extent="unknown" unit="character"/>ת<lb/><gap reason="lost" extent="unknown" unit="character"/><unclear>ח</unclear>ו<choice><unclear>ד</unclear><unclear>ר</unclear></choice>ן בר קוסעני מובלן <num value="3"><g type="three-vertical-strokes"/></num></p>
             </div>
             <div type="translation" ana="b1">
                 <p>t<lb/>[…]Hauran son of Qosani: loads, 3.</p>
@@ -160,7 +158,7 @@
                 <p/>
             </div>
 
-        <div type="edition" subtype="transcription_segmented"><p><w xml:id="idum0583-1" xml:lang="arc">ת</w> <w xml:id="idum0583-2" xml:lang="arc">חו</w> <w xml:id="idum0583-3" xml:lang="arc">דר</w> <w xml:id="idum0583-4" xml:lang="arc">ן</w> <w xml:id="idum0583-5" xml:lang="arc">בר</w> <w xml:id="idum0583-6" xml:lang="arc">קוסעני</w> <w xml:id="idum0583-7" xml:lang="arc">מובלן</w><w xml:id="idum0583-8" xml:lang="arc"><num value="3"><g type="three-vertical-strokes"/></num></w></p>
+        <div type="edition" subtype="transcription_segmented"><p><w xml:id="idum0583-1" xml:lang="arc">ת</w> <w xml:id="idum0583-2" xml:lang="arc">חו</w><w xml:id="idum0583-3" xml:lang="arc"><choice>דר</choice></w><w xml:id="idum0583-4" xml:lang="arc">ן</w> <w xml:id="idum0583-5" xml:lang="arc">בר</w> <w xml:id="idum0583-6" xml:lang="arc">קוסעני</w> <w xml:id="idum0583-7" xml:lang="arc">מובלן</w><num value="3"><g type="three-vertical-strokes"/></num></p>
 </div>
 </body>
         <back>

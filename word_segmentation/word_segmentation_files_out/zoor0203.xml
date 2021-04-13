@@ -130,22 +130,23 @@
       <body>
          <div type="edition" ana="#b1" xml:lang="grc" subtype="transcription" xml:id="zoor0203.transcription" corresp="#zoor0203.translation">
             <p><g type="crosses">+ +</g><lb/>
-               <unclear>Εἶς θεός</unclear>. <choice>
-                  <orig>Μνημ<lb break="no"/>ιον</orig>
-                  <reg>Μνημεῖον</reg>
-               </choice>
+               <unclear>Εἶς θεός</unclear>. <choice><orig>Μνημ<lb break="no"/>ιον</orig><reg>Μνημεῖον</reg></choice>
                <gap reason="illegible" quantity="5" unit="character"/> Ἰωάννου,<lb/>
                <unclear>ἀποθανόντος</unclear> μετὰ<lb/>
-               <supplied reason="undefined">καλοῦ</supplied> <supplied reason="undefined">ὀνόματοσς</supplied>
+               <supplied reason="undefined">καλοῦ</supplied>
+               <supplied reason="undefined">ὀνόματος</supplied>
                <lb/>
-               <supplied reason="undefined">και</supplied> <supplied reason="undefined">καλῆς</supplied> <supplied reason="undefined">πίστεως</supplied>
+               <supplied reason="undefined">και</supplied>
+               <supplied reason="undefined">καλῆς</supplied>
+               <supplied reason="undefined">πίστεως</supplied>
                <unclear>ἐτ</unclear><supplied reason="undefined">ῶν</supplied>
                <gap reason="lost" extent="unknown" unit="character"/>
                <supplied reason="undefined">ἕτους</supplied>
                <num><unclear>τνʹ</unclear></num>
                <lb/>
                <expan><abbr><unclear>μη</unclear></abbr><ex>νὸς</ex></expan>
-               <unclear>Ἀπελέου</unclear> <g>ιεʹ</g><lb/>
+               <unclear>Ἀπελέου</unclear>
+               <g>ιεʹ</g><lb/>
                <expan><abbr><unclear>ἠμ</unclear></abbr><ex>ερᾳ</ex></expan>
                <expan><abbr>Κ<unclear>υ</unclear></abbr><ex>ριόυ</ex></expan>
                <num><unclear>δʹ</unclear></num>
@@ -161,7 +162,7 @@
                     (day) of (the) month Apellaios, on (the) 4th day of (the) Lord (Wednesday). [Be
                     of good cheer, no one (is)] immortal. </p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="zoor0203-1" xml:lang="grc">Εἶς</w> <w xml:id="zoor0203-2" xml:lang="grc">θεός</w> <w xml:id="zoor0203-3" xml:lang="grc">Μνημεῖον</w> <w xml:id="zoor0203-4" xml:lang="grc">Ἰωάννου</w> <w xml:id="zoor0203-5" xml:lang="grc">ἀποθανόντος</w> <w xml:id="zoor0203-6" xml:lang="grc">μετὰ</w><w xml:id="zoor0203-7" xml:lang="grc"><supplied reason="undefined">καλοῦ</supplied></w><w xml:id="zoor0203-8" xml:lang="grc"><supplied reason="undefined">ὀνόματοσς</supplied></w><w xml:id="zoor0203-9" xml:lang="grc"><supplied reason="undefined">και</supplied></w><w xml:id="zoor0203-10" xml:lang="grc"><supplied reason="undefined">καλῆς</supplied></w><w xml:id="zoor0203-11" xml:lang="grc"><supplied reason="undefined">πίστεως</supplied></w><w xml:id="zoor0203-12" xml:lang="grc">ἐτ</w><w xml:id="zoor0203-13" xml:lang="grc"><supplied reason="undefined">ῶν</supplied></w><w xml:id="zoor0203-14" xml:lang="grc"><supplied reason="undefined">ἕτους</supplied></w><w xml:id="zoor0203-15" xml:lang="grc"><num>τνʹ</num></w><w xml:id="zoor0203-16" xml:lang="grc"><expan><abbr>μη</abbr><ex>νὸς</ex></expan></w><w xml:id="zoor0203-17" xml:lang="grc">Ἀπελέου</w><w xml:id="zoor0203-18" xml:lang="grc"><expan><abbr>ἠμ</abbr><ex>ερᾳ</ex></expan></w><w xml:id="zoor0203-19" xml:lang="grc"><expan><abbr>Κυ</abbr><ex>ριόυ</ex></expan></w><w xml:id="zoor0203-20" xml:lang="grc"><num>δʹ</num></w><w xml:id="zoor0203-21" xml:lang="grc"><supplied reason="undefined">θάρσει</supplied></w><w xml:id="zoor0203-22" xml:lang="grc"><supplied reason="undefined">οὐδεις</supplied></w><w xml:id="zoor0203-23" xml:lang="grc">ἀθάνατος</w></p>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="zoor0203-1" xml:lang="grc">Εἶς</w> <w xml:id="zoor0203-2" xml:lang="grc">θεός</w> <w xml:id="zoor0203-3" xml:lang="grc">Μνημεῖον</w> <w xml:id="zoor0203-4" xml:lang="grc">Ἰωάννου</w> <w xml:id="zoor0203-5" xml:lang="grc">ἀποθανόντος</w> <w xml:id="zoor0203-6" xml:lang="grc">μετὰ</w><w xml:id="zoor0203-7" xml:lang="grc"><supplied reason="undefined">καλοῦ</supplied></w><w xml:id="zoor0203-8" xml:lang="grc"><supplied reason="undefined">ὀνόματος</supplied></w><w xml:id="zoor0203-9" xml:lang="grc"><supplied reason="undefined">και</supplied></w><w xml:id="zoor0203-10" xml:lang="grc"><supplied reason="undefined">καλῆς</supplied></w><w xml:id="zoor0203-11" xml:lang="grc"><supplied reason="undefined">πίστεως</supplied></w><w xml:id="zoor0203-12" xml:lang="grc">ἐτ</w><w xml:id="zoor0203-13" xml:lang="grc"><supplied reason="undefined">ῶν</supplied></w><w xml:id="zoor0203-14" xml:lang="grc"><supplied reason="undefined">ἕτους</supplied></w><w xml:id="zoor0203-15" xml:lang="grc"><num>τνʹ</num></w><w xml:id="zoor0203-16" xml:lang="grc"><expan><abbr>μη</abbr><ex>νὸς</ex></expan></w><w xml:id="zoor0203-17" xml:lang="grc">Ἀπελέου</w><w xml:id="zoor0203-18" xml:lang="grc"><expan><abbr>ἠμ</abbr><ex>ερᾳ</ex></expan></w><w xml:id="zoor0203-19" xml:lang="grc"><expan><abbr>Κυ</abbr><ex>ριόυ</ex></expan></w><w xml:id="zoor0203-20" xml:lang="grc"><num>δʹ</num></w><w xml:id="zoor0203-21" xml:lang="grc"><supplied reason="undefined">θάρσει</supplied></w><w xml:id="zoor0203-22" xml:lang="grc"><supplied reason="undefined">οὐδεις</supplied></w><w xml:id="zoor0203-23" xml:lang="grc">ἀθάνατος</w></p>
 </div>
 </body>
       <back>

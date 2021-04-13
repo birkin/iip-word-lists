@@ -129,7 +129,7 @@
                <gap reason="lost" extent="unknown" unit="character"/>
             </p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="caes0033-1" xml:lang="la"><expan><abbr><w xml:id="caes0033-2" xml:lang="la"><supplied reason="lost">pr</supplied></w>ovinc</abbr><ex>iae</ex></expan></w><w xml:id="caes0033-3" xml:lang="la"><expan><abbr>Syr</abbr><ex>iae</ex></expan></w><w xml:id="caes0033-4" xml:lang="la"><expan><abbr>P<w xml:id="caes0033-5" xml:lang="la"><supplied reason="lost">al</supplied></w></abbr><ex>aestinae</ex></expan></w></p>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="caes0033-1" xml:lang="la"><expan><abbr><supplied reason="lost">pr</supplied>ovinc</abbr><ex>iae</ex></expan></w><w xml:id="caes0033-2" xml:lang="la"><expan><abbr>Syr</abbr><ex>iae</ex></expan></w><w xml:id="caes0033-3" xml:lang="la"><expan><abbr>P<supplied reason="lost">al</supplied></abbr><ex>aestinae</ex></expan></w></p>
 </div>
 </body>
       <back>

@@ -163,9 +163,7 @@
                 <p/>
             </div>
             <div type="edition" subtype="transcription" ana="b1" xml:lang="heb">
-                <p>קוסמלך לאבאנש<choice>
-                        <unclear>י</unclear><unclear>ו</unclear>
-                    </choice><lb/>מובל<unclear> חדה</unclear>
+                <p>קוסמלך לאבאנש<choice><unclear>י</unclear><unclear>ו</unclear></choice><lb/>מובל<unclear> חדה</unclear>
                     <g type="archaic-aleph"/></p>
             </div>
             <div type="translation" ana="b1">
@@ -176,7 +174,7 @@
             </div>
             <!-- The bibl has more contained elements. What is the possible list of values of the biblScope/@type? 
              -->
-        <div type="edition" subtype="transcription_segmented"><p><w xml:id="idum0430-1" xml:lang="arc">קוסמלך</w> <w xml:id="idum0430-2" xml:lang="arc">לאבאנש</w> <w xml:id="idum0430-3" xml:lang="arc">יו</w> <w xml:id="idum0430-4" xml:lang="arc">מובל</w> <w xml:id="idum0430-5" xml:lang="arc">חדה</w></p>
+        <div type="edition" subtype="transcription_segmented"><p><w xml:id="idum0430-1" xml:lang="arc">קוסמלך</w> <w xml:id="idum0430-2" xml:lang="arc">לאבאנש</w><w xml:id="idum0430-3" xml:lang="arc"><choice>יו</choice></w><w xml:id="idum0430-4" xml:lang="arc">מובל</w> <w xml:id="idum0430-5" xml:lang="arc">חדה</w></p>
 </div>
 </body>
         <back>

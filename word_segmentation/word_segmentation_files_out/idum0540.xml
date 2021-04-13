@@ -162,7 +162,7 @@
                 <p/>
             </div>
 
-        <div type="edition" subtype="transcription_segmented"><p><w xml:id="idum0540-1" xml:lang="arc">ב</w><w xml:id="idum0540-2" xml:lang="arc"><num value="14"><g type="phoen-20"/><g type="four-vertical-strokes"/></num></w><w xml:id="idum0540-3" xml:lang="arc">לטבת</w> <w xml:id="idum0540-4" xml:lang="arc">שעידו</w> <w xml:id="idum0540-5" xml:lang="arc">מושך</w><w xml:id="idum0540-6" xml:lang="arc"><num value="1"><g type="one-vertical-stroke"/></num></w></p>
+        <div type="edition" subtype="transcription_segmented"><p><w xml:id="idum0540-1" xml:lang="arc">ב</w><num value="14"><g type="phoen-20"/><g type="four-vertical-strokes"/></num><w xml:id="idum0540-2" xml:lang="arc">לטבת</w> <w xml:id="idum0540-3" xml:lang="arc">שעידו</w> <w xml:id="idum0540-4" xml:lang="arc">מושך</w><num value="1"><g type="one-vertical-stroke"/></num></p>
 </div>
 </body>
         <back>

@@ -131,12 +131,7 @@
             </div>
             <div type="edition" subtype="transcription" ana="b1">
                 <p>
-               <choice>
-                        <orig>Μνημ<unclear>ῖον</unclear>
-                  </orig>
-                        <reg>μνημε<unclear>ῖον</unclear>
-                  </reg>
-                    </choice>
+               <choice><orig>Μνημ<unclear>ῖον</unclear></orig><reg>μνημε<unclear>ῖον</unclear></reg></choice>
                     <gap reason="lost" unit="character" quantity="1"/>
                <lb/>
                <orig>μ<gap reason="lost" unit="character" quantity="1"/>λ<gap reason="lost" unit="character" quantity="1"/>μ<unclear>α</unclear>
@@ -162,9 +157,9 @@
             <div type="commentary" ana="b1">
                 <p>7? Dystros 251 E.P.A = 21 February 357 CE. </p>
             </div>
-        <div type="edition" subtype="transcription_segmented"><p><w xml:id="zoor0365-1" xml:lang="grc">ἀποθανόντος</w> <w xml:id="zoor0365-2" xml:lang="grc">ἐτῶν</w><w xml:id="zoor0365-3" xml:lang="grc"><num value="6">ς</num></w><w xml:id="zoor0365-4" xml:lang="grc">ἔτους</w><w xml:id="zoor0365-5" xml:lang="grc"><num value="251">σνα</num></w><w xml:id="zoor0365-6" xml:lang="grc"><expan><abbr>μη</abbr><ex>νὸς</ex></expan></w><w xml:id="zoor0365-7" xml:lang="grc"><expan><abbr>Δύστ</abbr><ex>ρου</ex></expan></w><w xml:id="zoor0365-8" xml:lang="grc"><num value="7">
+        <div type="edition" subtype="transcription_segmented"><p><w xml:id="zoor0365-1" xml:lang="grc"><choice>μνημεῖον</choice></w><w xml:id="zoor0365-2" xml:lang="grc">ἀποθανόντος</w> <w xml:id="zoor0365-3" xml:lang="grc">ἐτῶν</w><num value="6">ς</num><w xml:id="zoor0365-4" xml:lang="grc">ἔτους</w><num value="251">σνα</num><w xml:id="zoor0365-5" xml:lang="grc"><expan><abbr>μη</abbr><ex>νὸς</ex></expan></w><w xml:id="zoor0365-6" xml:lang="grc"><expan><abbr>Δύστ</abbr><ex>ρου</ex></expan></w><num value="7">
                   ζ
-               </num></w></p>
+               </num></p>
 </div>
 </body>
         <back>

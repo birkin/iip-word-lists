@@ -126,10 +126,7 @@
             </div>
             <div type="edition" subtype="transcription" ana="b1">
                 <p>
-               <choice>
-                        <orig>Θάρσι</orig>
-                        <reg>Θάρσει</reg>
-                    </choice>, Εὐθήρι,<lb/>οὐδεὶς ἀθάνατος</p>
+               <choice><orig>Θάρσι</orig><reg>Θάρσει</reg></choice>, Εὐθήρι,<lb/>οὐδεὶς ἀθάνατος</p>
             </div>
             <div type="translation" ana="b1">
                 <p>Be of good cheer, Eutherios! No one is immortal.</p>
@@ -137,7 +134,7 @@
             <div type="commentary" ana="b1">
                 <p/>
             </div>
-        <div type="edition" subtype="transcription_segmented"><p><w xml:id="jeru0441-1" xml:lang="grc">Θάρσει</w> <w xml:id="jeru0441-2" xml:lang="grc">Εὐθήρι</w> <w xml:id="jeru0441-3" xml:lang="grc">οὐδεὶς</w> <w xml:id="jeru0441-4" xml:lang="grc">ἀθάνατος</w></p>
+        <div type="edition" subtype="transcription_segmented"><p><w xml:id="jeru0441-1" xml:lang="grc"><choice>Θάρσει</choice></w><w xml:id="jeru0441-2" xml:lang="grc">Εὐθήρι</w> <w xml:id="jeru0441-3" xml:lang="grc">οὐδεὶς</w> <w xml:id="jeru0441-4" xml:lang="grc">ἀθάνατος</w></p>
 </div>
 </body>
         <back>

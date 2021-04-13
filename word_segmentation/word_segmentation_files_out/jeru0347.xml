@@ -127,9 +127,7 @@
             </div>
             <div type="edition" subtype="transcription" ana="b1" xml:lang="heb">
                 <p>
-               <gap reason="illegible" quantity="2" unit="character"/>ל<choice>
-                        <unclear>ד</unclear><unclear>ר</unclear>
-                    </choice>
+               <gap reason="illegible" quantity="2" unit="character"/>ל<choice><unclear>ד</unclear><unclear>ר</unclear></choice>
                <gap reason="illegible" unit="character" quantity="3"/>
             </p>
             </div>
@@ -139,7 +137,7 @@
             <div type="commentary" ana="b1">
                 <p/>
             </div>
-        <div type="edition" subtype="transcription_segmented"><p><w xml:id="jeru0347-1" xml:lang="he">ל</w> <w xml:id="jeru0347-2" xml:lang="he">דר</w></p>
+        <div type="edition" subtype="transcription_segmented"><p><w xml:id="jeru0347-1" xml:lang="he">ל</w><w xml:id="jeru0347-2" xml:lang="he"><choice>דר</choice></w></p>
 </div>
 </body>
         <back>

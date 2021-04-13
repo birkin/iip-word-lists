@@ -127,7 +127,7 @@
             <p>Monument of Ouictorinos (Victorinus), the tribune, who died in the year 266. Be
                     of good cheer, oh good man.</p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="zoor0030-1" xml:lang="grc">μνημεῖον</w> <w xml:id="zoor0030-2" xml:lang="grc">Οὐϊκτωρίνου</w> <w xml:id="zoor0030-3" xml:lang="grc">τριβούνου</w> <w xml:id="zoor0030-4" xml:lang="grc">τελευτήσαντος</w> <w xml:id="zoor0030-5" xml:lang="grc">ἐν</w> <w xml:id="zoor0030-6" xml:lang="grc">ἔτει</w><w xml:id="zoor0030-7" xml:lang="grc"><num>σξςʹ</num></w><w xml:id="zoor0030-8" xml:lang="grc">Εὐψύχει</w> <w xml:id="zoor0030-9" xml:lang="grc">καλὲ</w> <w xml:id="zoor0030-10" xml:lang="grc">ἄνθρωπε</w></p>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="zoor0030-1" xml:lang="grc"><choice>μνημεῖον</choice></w><w xml:id="zoor0030-2" xml:lang="grc">Οὐϊκτωρίνου</w> <w xml:id="zoor0030-3" xml:lang="grc">τριβούνου</w> <w xml:id="zoor0030-4" xml:lang="grc">τελευτήσαντος</w> <w xml:id="zoor0030-5" xml:lang="grc">ἐν</w><w xml:id="zoor0030-6" xml:lang="grc"><choice>ἔτει</choice></w><num>σξςʹ</num><w xml:id="zoor0030-7" xml:lang="grc"><choice>Εὐψύχει</choice></w><w xml:id="zoor0030-8" xml:lang="grc">καλὲ</w> <w xml:id="zoor0030-9" xml:lang="grc">ἄνθρωπε</w></p>
 </div>
 </body>
       <back>

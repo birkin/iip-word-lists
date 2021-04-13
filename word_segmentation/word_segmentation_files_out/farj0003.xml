@@ -139,7 +139,9 @@
          <div type="translation" ana="#b1" xml:id="farj0003.translation" corresp="#farj0003.diplomatic #farj0003.transcription">
             <p>John, son of Anatolius, giving thanks, made...</p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="farj0003-1" xml:lang="grc"><supplied reason="undefined">Ἰω</supplied></w><w xml:id="farj0003-2" xml:lang="grc">άννη</w><w xml:id="farj0003-3" xml:lang="grc"><supplied reason="undefined">ς</supplied></w><w xml:id="farj0003-4" xml:lang="grc"><supplied reason="undefined">Ἀνα</supplied></w><w xml:id="farj0003-5" xml:lang="grc">τόλι</w><w xml:id="farj0003-6" xml:lang="grc"><supplied reason="undefined">ο</supplied></w><w xml:id="farj0003-7" xml:lang="grc">υ</w> <w xml:id="farj0003-8" xml:lang="grc">εὐχαρ</w><w xml:id="farj0003-9" xml:lang="grc"><supplied reason="undefined">ι</supplied></w><w xml:id="farj0003-10" xml:lang="grc">στῶν</w> <w xml:id="farj0003-11" xml:lang="grc">ἐπ</w><w xml:id="farj0003-12" xml:lang="grc"><supplied reason="undefined">οί</supplied></w><w xml:id="farj0003-13" xml:lang="grc">ησ</w><w xml:id="farj0003-14" xml:lang="grc"><supplied reason="undefined">εν</supplied></w></p>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="farj0003-1" xml:lang="grc"><supplied reason="undefined">Ἰω</supplied>άννη<supplied reason="undefined">ς</supplied></w><w xml:id="farj0003-2" xml:lang="grc"><supplied reason="undefined">Ἀνα</supplied>τόλι<supplied reason="undefined">ο</supplied>υ 
+               εὐχαρ<supplied reason="undefined">ι</supplied>στῶν
+               ἐπ<supplied reason="undefined">οί</supplied>ησ<supplied reason="undefined">εν</supplied></w></p>
 </div>
 </body>
       <back>

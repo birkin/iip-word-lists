@@ -126,7 +126,7 @@
          <div type="translation" ana="#b1" xml:id="caes0412.translation" corresp="#caes0412.transcription">
             <p>Tomb of Elias son of Ent(o)lios from Krunoi(?)</p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="caes0412-1" xml:lang="grc">Θήκη</w> <w xml:id="caes0412-2" xml:lang="grc">Ἠλ</w> <w xml:id="caes0412-3" xml:lang="grc">ίας</w> <w xml:id="caes0412-4" xml:lang="grc">Ἐντ</w> <w xml:id="caes0412-5" xml:lang="grc">ουλίου</w> <w xml:id="caes0412-6" xml:lang="grc">Κρουνίου</w></p>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="caes0412-1" xml:lang="grc">Θήκη</w> <w xml:id="caes0412-2" xml:lang="grc">Ἠλ</w> <w xml:id="caes0412-3" xml:lang="grc">ίας</w> <w xml:id="caes0412-4" xml:lang="grc">Ἐντ</w> <w xml:id="caes0412-5" xml:lang="grc">ουλίου</w><w xml:id="caes0412-6" xml:lang="grc"><choice>Κρουνίου</choice></w></p>
 </div>
 </body>
       <back>

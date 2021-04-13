@@ -128,9 +128,9 @@
          <div type="translation" ana="#b1" xml:id="elus0044.translation" corresp="#elus0044.transcription">
             <p>Twenty-fourth of Dystros, 4th indiction, year 465</p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="elus0044-1" xml:lang="grc"><expan><abbr><w xml:id="elus0044-2" xml:lang="grc"><supplied reason="undefined">μ</supplied></w>εν</abbr><ex>νὶ</ex></expan></w><w xml:id="elus0044-3" xml:lang="grc">Δύ</w><w xml:id="elus0044-4" xml:lang="grc"><supplied reason="undefined">στρ</supplied></w><w xml:id="elus0044-5" xml:lang="grc">ου</w><w xml:id="elus0044-6" xml:lang="grc"><num value="24">κδ</num></w><w xml:id="elus0044-7" xml:lang="grc"><expan><abbr>ἰνδ</abbr><ex>ικτιῶνος</ex></expan></w><w xml:id="elus0044-8" xml:lang="grc"><num value="4">
-                  <w xml:id="elus0044-9" xml:lang="grc"><supplied reason="undefined">δ</supplied></w>
-               </num></w><w xml:id="elus0044-10" xml:lang="grc">ἔτους</w><w xml:id="elus0044-11" xml:lang="grc"><num value="465">υξε</num></w></p>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="elus0044-1" xml:lang="grc"><expan><abbr><supplied reason="undefined">μ</supplied>εν</abbr><ex>νὶ</ex></expan></w><w xml:id="elus0044-2" xml:lang="grc">Δύ</w><w xml:id="elus0044-3" xml:lang="grc">ου</w><num value="24">κδ</num><w xml:id="elus0044-4" xml:lang="grc"><expan><abbr>ἰνδ</abbr><ex>ικτιῶνος</ex></expan></w><num value="4">
+                  <w xml:id="elus0044-5" xml:lang="grc"><supplied reason="undefined">δ</supplied></w>
+               </num><w xml:id="elus0044-6" xml:lang="grc">ἔτους</w><num value="465">υξε</num></p>
 </div>
 </body>
       <back>

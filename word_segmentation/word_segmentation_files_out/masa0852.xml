@@ -169,7 +169,7 @@
                 <p/>
             </div>
             <div type="edition" subtype="transcription" ana="b1">
-                <p>COL</p>
+                <p><orig>COL</orig></p>
             </div>
             <div type="translation" ana="b1">
                 <p/>
@@ -178,7 +178,7 @@
                 <p>Proposed expansions for the abbreviation include colatus, coloniae, and
                     columbi.</p>
             </div>
-        <div type="edition" subtype="transcription_segmented"><p><w xml:id="masa0852-1" xml:lang="la">COL</w></p>
+        <div type="edition" subtype="transcription_segmented"><p/>
 </div>
 </body>
         <back>

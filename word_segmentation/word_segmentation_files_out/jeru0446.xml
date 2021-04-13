@@ -141,13 +141,13 @@
             <div type="commentary" ana="b1">
                 <p/>
             </div>
-        <div type="edition" subtype="transcription_segmented"><p><w xml:id="jeru0446-1" xml:lang="arc">ב</w><w xml:id="jeru0446-2" xml:lang="arc"><num value="27">
+        <div type="edition" subtype="transcription_segmented"><p><w xml:id="jeru0446-1" xml:lang="arc">ב</w><num value="27">
                   <g type="numeral-glyph"/>
                   <g type="seven-slanted-strokes"/>
-                </num></w><w xml:id="jeru0446-3" xml:lang="arc">ל</w> <w xml:id="jeru0446-4" xml:lang="arc">ב</w><w xml:id="jeru0446-5" xml:lang="arc"><num value="24">
+                </num><w xml:id="jeru0446-2" xml:lang="arc">ל</w> <w xml:id="jeru0446-3" xml:lang="arc">ב</w><num value="24">
                   <g type="numeral-glyph"/>
                   <g type="four-slanted-strokes"/>
-               </num></w><w xml:id="jeru0446-6" xml:lang="arc">לאלול</w> <w xml:id="jeru0446-7" xml:lang="arc">שגת</w></p>
+               </num><w xml:id="jeru0446-4" xml:lang="arc">לאלול</w> <w xml:id="jeru0446-5" xml:lang="arc">שגת</w></p>
 </div>
 </body>
         <back>

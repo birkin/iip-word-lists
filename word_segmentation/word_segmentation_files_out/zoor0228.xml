@@ -125,8 +125,7 @@
                         Σε<unclear>ου</unclear><lb break="no"/>ήρου, <unclear>ἀ</unclear>ποθα<lb break="no"/>νόντος
                μετὰ<lb/> καλοῦ ὀνό<unclear>μ</unclear>α<lb break="no"/>τος, ζήσας ε<lb break="no"/>τῶν <num>οʹ</num>,
                         μη<unclear>ν</unclear>ὸς<lb/>
-               <choice><sic>
-                     <unclear>Ἀ</unclear>πελλέου</sic><corr>Ἀπελλαίου</corr></choice>
+               <choice><sic><unclear>Ἀ</unclear>πελλέου</sic><corr>Ἀπελλαίου</corr></choice>
                     <num>κ<unclear>α</unclear>ʹ</num>,<lb/> τοῦ <num>τξθʹ</num>. Θάρ<unclear>σει</unclear>,<lb/> οὐδεὶς
                         ἀθάν<unclear>ατος</unclear>.</p>
          </div>
@@ -135,7 +134,7 @@
                     having lived 70 years, - on (the) 21st (day) of (the) month Apellaios, in the
                     (year) 369. Be of good cheer, no one (is) immortal. </p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="zoor0228-1" xml:lang="grc">Μνημεῖον</w> <w xml:id="zoor0228-2" xml:lang="grc">Μαρκέλλα</w> <w xml:id="zoor0228-3" xml:lang="grc">Σεουήρου</w> <w xml:id="zoor0228-4" xml:lang="grc">ἀποθανόντος</w> <w xml:id="zoor0228-5" xml:lang="grc">μετὰ</w> <w xml:id="zoor0228-6" xml:lang="grc">καλοῦ</w> <w xml:id="zoor0228-7" xml:lang="grc">ὀνόματος</w> <w xml:id="zoor0228-8" xml:lang="grc">ζήσας</w> <w xml:id="zoor0228-9" xml:lang="grc">ετῶν</w><w xml:id="zoor0228-10" xml:lang="grc"><num>οʹ</num></w><w xml:id="zoor0228-11" xml:lang="grc">μηνὸς</w> <w xml:id="zoor0228-12" xml:lang="grc">ἈπελλέουἈπελλαίου</w><w xml:id="zoor0228-13" xml:lang="grc"><num>καʹ</num></w><w xml:id="zoor0228-14" xml:lang="grc">τοῦ</w><w xml:id="zoor0228-15" xml:lang="grc"><num>τξθʹ</num></w><w xml:id="zoor0228-16" xml:lang="grc">Θάρσει</w> <w xml:id="zoor0228-17" xml:lang="grc">οὐδεὶς</w> <w xml:id="zoor0228-18" xml:lang="grc">ἀθάνατος</w></p>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="zoor0228-1" xml:lang="grc"><choice>Μνημεῖον</choice></w><w xml:id="zoor0228-2" xml:lang="grc">Μαρκέλλα</w> <w xml:id="zoor0228-3" xml:lang="grc">Σεουήρου</w> <w xml:id="zoor0228-4" xml:lang="grc">ἀποθανόντος</w> <w xml:id="zoor0228-5" xml:lang="grc">μετὰ</w> <w xml:id="zoor0228-6" xml:lang="grc">καλοῦ</w> <w xml:id="zoor0228-7" xml:lang="grc">ὀνόματος</w> <w xml:id="zoor0228-8" xml:lang="grc">ζήσας</w> <w xml:id="zoor0228-9" xml:lang="grc">ετῶν</w><num>οʹ</num><w xml:id="zoor0228-10" xml:lang="grc">μηνὸς</w><w xml:id="zoor0228-11" xml:lang="grc"><choice>Ἀπελλαίου</choice></w><num>καʹ</num><w xml:id="zoor0228-12" xml:lang="grc">τοῦ</w><num>τξθʹ</num><w xml:id="zoor0228-13" xml:lang="grc">Θάρσει</w> <w xml:id="zoor0228-14" xml:lang="grc">οὐδεὶς</w> <w xml:id="zoor0228-15" xml:lang="grc">ἀθάνατος</w></p>
 </div>
 </body>
       <back>

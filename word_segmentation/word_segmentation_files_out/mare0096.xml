@@ -156,17 +156,17 @@
                 <p>Line 1: following the lamed there probably was a proper name, now lost; line 2:
                     the samekh might also be read as gimel or heh</p>
             </div>
-        <div type="edition" subtype="transcription_segmented"><p><w xml:id="mare0096-1" xml:lang="arc">ל</w><w xml:id="mare0096-2" xml:lang="arc"><num value="4">
+        <div type="edition" subtype="transcription_segmented"><p><w xml:id="mare0096-1" xml:lang="arc">ל</w><num value="4">
                   <g type="three-right-slanted-strokes"/>
                   <g type="one-left-slanted-stroke"/>
-               </num></w><w xml:id="mare0096-3" xml:lang="arc">ס</w><w xml:id="mare0096-4" xml:lang="arc"><num value="44">
+               </num><w xml:id="mare0096-2" xml:lang="arc">ס</w><num value="44">
                   <g type="one-right-slanted-stroke"/>
                   <g type="phoen-20"/>
-               </num></w><w xml:id="mare0096-5" xml:lang="arc">א</w><w xml:id="mare0096-6" xml:lang="arc"><num>
+               </num><w xml:id="mare0096-3" xml:lang="arc">א</w><num>
                   <g type="phoen-20"/>
                   <g type="three-right-slanted-strokes"/>
                   <g type="one-left-slanted-stroke"/>
-               </num></w></p>
+               </num></p>
 </div>
 </body>
         <back>

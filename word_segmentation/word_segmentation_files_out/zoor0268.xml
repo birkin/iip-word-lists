@@ -126,7 +126,7 @@
          <div type="translation" ana="#b1" xml:id="zoor0268.translation" corresp="#zoor0268.transcription">
             <p>Monument of Okeilos from Feinan.</p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="zoor0268-1" xml:lang="grc">Μνημεῖον</w> <w xml:id="zoor0268-2" xml:lang="grc">Ὀκεύλου</w> <w xml:id="zoor0268-3" xml:lang="grc">Φαινουσίου</w></p>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="zoor0268-1" xml:lang="grc"><choice>Μνημεῖον</choice></w><w xml:id="zoor0268-2" xml:lang="grc">Ὀκεύλου</w><w xml:id="zoor0268-3" xml:lang="grc"><choice>Φαινουσίου</choice></w></p>
 </div>
 </body>
       <back>

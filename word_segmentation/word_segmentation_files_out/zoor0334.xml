@@ -130,31 +130,13 @@
             <p>
                <g type="sun-disc"/>
                <lb/>Εἷς Θεός.<lb/>Ἀνάπαυσον<lb/>τὸν δοῦλόν<lb/>Σου
-                  Σιλουαν<supplied reason="omitted">ὸ</supplied>ν <lb/>Παύλου, <choice>
-                  <orig>ἀποθανόντος</orig>
-                  <reg>ἀποθανόντα</reg>
-               </choice>
+                  Σιλουαν<supplied reason="omitted">ὸ</supplied>ν <lb/>Παύλου, <choice><orig>ἀποθανόντος</orig><reg>ἀποθανόντα</reg></choice>
                <lb/> μετὰ καλοῦ ὀνόματος<lb/> ἐτῶν πέντε, ἐν ἔτει<lb/>
-               <choice>
-                  <orig>τριακοσσειοστοῦ</orig>
-                  <reg>τριακοσιοστῷ</reg>
-               </choice>
-               <choice>
-                  <orig>εἰκοσ<lb break="no"/>τοῦ</orig>
-                  <reg>εἰκοστῷ</reg>
-               </choice>
-               <choice>
-                  <orig>δευτέρου</orig>
-                  <reg>δευτέρῷ</reg>
-               </choice>, ἐν μην<unclear>ὶ</unclear>
+               <choice><orig>τριακοσσειοστοῦ</orig><reg>τριακοσιοστῷ</reg></choice>
+               <choice><orig>εἰκοσ<lb break="no"/>τοῦ</orig><reg>εἰκοστῷ</reg></choice>
+               <choice><orig>δευτέρου</orig><reg>δευτέρῷ</reg></choice>, ἐν μην<unclear>ὶ</unclear>
                <lb/>
-               <choice>
-                  <orig>Δεσείου</orig>
-                  <reg>Δαισίῳ</reg>
-               </choice> τρι<lb break="no"/>τῃ καὶ <choice>
-                  <orig>εἰκάς</orig>
-                  <reg>εἰκοστῇ</reg>
-               </choice>,<lb/> ἡμέρᾳ <expan><abbr>Κυ</abbr><ex>ρίου</ex></expan>
+               <choice><orig>Δεσείου</orig><reg>Δαισίῳ</reg></choice> τρι<lb break="no"/>τῃ καὶ <choice><orig>εἰκάς</orig><reg>εἰκοστῇ</reg></choice>,<lb/> ἡμέρᾳ <expan><abbr>Κυ</abbr><ex>ρίου</ex></expan>
                <num value="1">α</num>,<lb/>
                <choice><sic>Θάρσι</sic><corr>Θάρσει</corr></choice>, <choice><sic>οὐδὶς</sic><corr>οὐδείς</corr></choice>
                <lb/>
@@ -166,7 +148,7 @@
                twenty-second year, on (the) twenty-third (day) of the month Daisios, on (the) 1st
                day of (the) Lord (Sunday). Be of good cheer, no one (is) immortal.</p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="zoor0334-1" xml:lang="grc">Εἷς</w> <w xml:id="zoor0334-2" xml:lang="grc">Θεός</w> <w xml:id="zoor0334-3" xml:lang="grc">Ἀνάπαυσον</w> <w xml:id="zoor0334-4" xml:lang="grc">τὸν</w> <w xml:id="zoor0334-5" xml:lang="grc">δοῦλόν</w> <w xml:id="zoor0334-6" xml:lang="grc">Σου</w> <w xml:id="zoor0334-7" xml:lang="grc">Σιλουαν</w><w xml:id="zoor0334-8" xml:lang="grc"><supplied reason="omitted">ὸ</supplied></w><w xml:id="zoor0334-9" xml:lang="grc">ν</w> <w xml:id="zoor0334-10" xml:lang="grc">Παύλου</w> <w xml:id="zoor0334-11" xml:lang="grc">ἀποθανόντα</w> <w xml:id="zoor0334-12" xml:lang="grc">μετὰ</w> <w xml:id="zoor0334-13" xml:lang="grc">καλοῦ</w> <w xml:id="zoor0334-14" xml:lang="grc">ὀνόματος</w> <w xml:id="zoor0334-15" xml:lang="grc">ἐτῶν</w> <w xml:id="zoor0334-16" xml:lang="grc">πέντε</w> <w xml:id="zoor0334-17" xml:lang="grc">ἐν</w> <w xml:id="zoor0334-18" xml:lang="grc">ἔτει</w> <w xml:id="zoor0334-19" xml:lang="grc">τριακοσιοστῷ</w> <w xml:id="zoor0334-20" xml:lang="grc">εἰκοστῷ</w> <w xml:id="zoor0334-21" xml:lang="grc">δευτέρῷ</w> <w xml:id="zoor0334-22" xml:lang="grc">ἐν</w> <w xml:id="zoor0334-23" xml:lang="grc">μηνὶ</w> <w xml:id="zoor0334-24" xml:lang="grc">Δαισίῳ</w> <w xml:id="zoor0334-25" xml:lang="grc">τριτῃ</w> <w xml:id="zoor0334-26" xml:lang="grc">καὶ</w> <w xml:id="zoor0334-27" xml:lang="grc">εἰκοστῇ</w> <w xml:id="zoor0334-28" xml:lang="grc">ἡμέρᾳ</w><w xml:id="zoor0334-29" xml:lang="grc"><expan><abbr>Κυ</abbr><ex>ρίου</ex></expan></w><w xml:id="zoor0334-30" xml:lang="grc"><num value="1">α</num></w><w xml:id="zoor0334-31" xml:lang="grc">Θάρσει</w> <w xml:id="zoor0334-32" xml:lang="grc">οὐδείς</w> <w xml:id="zoor0334-33" xml:lang="grc">ἀθάν</w><w xml:id="zoor0334-34" xml:lang="grc"><supplied reason="omitted">α</supplied></w><w xml:id="zoor0334-35" xml:lang="grc">τ</w><w xml:id="zoor0334-36" xml:lang="grc"><supplied reason="omitted">ο</supplied></w><w xml:id="zoor0334-37" xml:lang="grc">ς</w></p>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="zoor0334-1" xml:lang="grc">Εἷς</w> <w xml:id="zoor0334-2" xml:lang="grc">Θεός</w> <w xml:id="zoor0334-3" xml:lang="grc">Ἀνάπαυσον</w> <w xml:id="zoor0334-4" xml:lang="grc">τὸν</w> <w xml:id="zoor0334-5" xml:lang="grc">δοῦλόν</w> <w xml:id="zoor0334-6" xml:lang="grc">Σου</w> <w xml:id="zoor0334-7" xml:lang="grc">Σιλουαν</w><w xml:id="zoor0334-8" xml:lang="grc">ν</w> <w xml:id="zoor0334-9" xml:lang="grc">Παύλου</w><w xml:id="zoor0334-10" xml:lang="grc"><choice>ἀποθανόντα</choice></w><w xml:id="zoor0334-11" xml:lang="grc">μετὰ</w> <w xml:id="zoor0334-12" xml:lang="grc">καλοῦ</w> <w xml:id="zoor0334-13" xml:lang="grc">ὀνόματος</w> <w xml:id="zoor0334-14" xml:lang="grc">ἐτῶν</w> <w xml:id="zoor0334-15" xml:lang="grc">πέντε</w> <w xml:id="zoor0334-16" xml:lang="grc">ἐν</w> <w xml:id="zoor0334-17" xml:lang="grc">ἔτει</w><w xml:id="zoor0334-18" xml:lang="grc"><choice>τριακοσιοστῷ</choice></w><w xml:id="zoor0334-19" xml:lang="grc"><choice>εἰκοστῷ</choice></w><w xml:id="zoor0334-20" xml:lang="grc"><choice>δευτέρῷ</choice></w><w xml:id="zoor0334-21" xml:lang="grc">ἐν</w> <w xml:id="zoor0334-22" xml:lang="grc">μηνὶ</w><w xml:id="zoor0334-23" xml:lang="grc"><choice>Δαισίῳ</choice></w><w xml:id="zoor0334-24" xml:lang="grc">τριτῃ</w> <w xml:id="zoor0334-25" xml:lang="grc">καὶ</w><w xml:id="zoor0334-26" xml:lang="grc"><choice>εἰκοστῇ</choice></w><w xml:id="zoor0334-27" xml:lang="grc">ἡμέρᾳ</w><w xml:id="zoor0334-28" xml:lang="grc"><expan><abbr>Κυ</abbr><ex>ρίου</ex></expan></w><num value="1">α</num><w xml:id="zoor0334-29" xml:lang="grc"><choice>Θάρσει</choice></w><w xml:id="zoor0334-30" xml:lang="grc"><choice>οὐδείς</choice></w><w xml:id="zoor0334-31" xml:lang="grc">ἀθάν</w><w xml:id="zoor0334-32" xml:lang="grc">τ</w><w xml:id="zoor0334-33" xml:lang="grc">ς</w></p>
 </div>
 </body>
       <back>

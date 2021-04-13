@@ -131,14 +131,8 @@
       <body>
          <div type="edition" ana="#b1" xml:lang="grc" subtype="transcription" xml:id="zoor0354.transcription" corresp="#zoor0354.translation">
             <p>
-               <choice>
-                  <reg>Μνημεῖον</reg>
-                  <orig>Μνημῖον</orig>
-               </choice>
-               <choice>
-                  <reg>Ἰωάννου</reg>
-                  <orig>Ἰωάνης</orig>
-               </choice>
+               <choice><reg>Μνημεῖον</reg><orig>Μνημῖον</orig></choice>
+               <choice><reg>Ἰωάννου</reg><orig>Ἰωάνης</orig></choice>
                <lb/> Ἰσιδώρου, ἀποθα<lb break="no"/>νόντος μηνῶν <unclear>δέ</unclear>
                <lb/>
                <supplied reason="lost">κα</supplied>
@@ -151,7 +145,7 @@
             <p> Monument of Ioannes <lb/>(son) of Isidoros,<lb/> who died ten<lb/> months
                old<lb/>............</p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="zoor0354-1" xml:lang="grc">Μνημεῖον</w> <w xml:id="zoor0354-2" xml:lang="grc">Ἰωάννου</w> <w xml:id="zoor0354-3" xml:lang="grc">Ἰσιδώρου</w> <w xml:id="zoor0354-4" xml:lang="grc">ἀποθανόντος</w> <w xml:id="zoor0354-5" xml:lang="grc">μηνῶν</w> <w xml:id="zoor0354-6" xml:lang="grc">δέ</w><w xml:id="zoor0354-7" xml:lang="grc"><supplied reason="lost">κα</supplied></w></p>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="zoor0354-1" xml:lang="grc"><choice>Μνημεῖον</choice></w><w xml:id="zoor0354-2" xml:lang="grc"><choice>Ἰωάννου</choice></w><w xml:id="zoor0354-3" xml:lang="grc">Ἰσιδώρου</w> <w xml:id="zoor0354-4" xml:lang="grc">ἀποθανόντος</w> <w xml:id="zoor0354-5" xml:lang="grc">μηνῶν</w> <w xml:id="zoor0354-6" xml:lang="grc">δέ</w><w xml:id="zoor0354-7" xml:lang="grc"><supplied reason="lost">κα</supplied></w></p>
 </div>
 </body>
       <back>

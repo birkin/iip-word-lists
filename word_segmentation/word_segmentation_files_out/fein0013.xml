@@ -127,20 +127,13 @@
                <g type="cross">+</g>Ἐμ<supplied reason="omitted">ὶ </supplied>τοῦ
                         <expan><abbr>ὁσι<unclear>ωτ</unclear></abbr><ex>άτου</ex></expan>
                <expan><abbr><unclear>ἐ</unclear><lb break="no"/>πισκ</abbr><ex>όπου</ex></expan> Θεοδώρου<lb/>
-               <choice>
-                  <reg>ἐγ<unclear>έ</unclear>νετο τὸ
-                     <expan><abbr>ἔργο</abbr><ex>ν</ex></expan>
-                  </reg>
-                  <orig>ἐγ<unclear>έ</unclear>νετω τὼ
-                     <expan><abbr>ἔργω</abbr><ex>ν</ex></expan>
-                  </orig>
-               </choice>
+               <choice><reg>ἐγ<unclear>έ</unclear>νετο τὸ
+                     <expan><abbr>ἔργο</abbr><ex>ν</ex></expan></reg><orig>ἐγ<unclear>έ</unclear>νετω τὼ
+                     <expan><abbr>ἔργω</abbr><ex>ν</ex></expan></orig></choice>
                <lb/>
                <expan><abbr>ἔ</abbr><ex>τους</ex></expan>
                <num value="482">υπβ´</num>
-               <lb/>ἰνδικτιῶνος <choice>
-                  <unclear>έ</unclear><unclear>ς´</unclear>
-               </choice>
+               <lb/>ἰνδικτιῶνος <choice><unclear>έ</unclear><unclear>ς´</unclear></choice>
                <g type="cross">+</g>
             </p>
          </div>
@@ -148,7 +141,7 @@
             <p>In the days of the most holy bishop Theodoros this work was accomplished, (in the
                year) 482, in the 5th (or) 6th indiction.</p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="fein0013-1" xml:lang="grc">Ἐμ</w><w xml:id="fein0013-2" xml:lang="grc"><supplied reason="omitted">ὶ </supplied></w><w xml:id="fein0013-3" xml:lang="grc">τοῦ</w><w xml:id="fein0013-4" xml:lang="grc"><expan><abbr>ὁσιωτ</abbr><ex>άτου</ex></expan></w><w xml:id="fein0013-5" xml:lang="grc"><expan><abbr>ἐπισκ</abbr><ex>όπου</ex></expan></w><w xml:id="fein0013-6" xml:lang="grc">Θεοδώρου</w><w xml:id="fein0013-7" xml:lang="grc"><expan><abbr>ἔ</abbr><ex>τους</ex></expan></w><w xml:id="fein0013-8" xml:lang="grc"><num value="482">υπβ´</num></w><w xml:id="fein0013-9" xml:lang="grc">ἰνδικτιῶνος</w> <w xml:id="fein0013-10" xml:lang="grc">ές´</w></p>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="fein0013-1" xml:lang="grc">Ἐμ</w><w xml:id="fein0013-2" xml:lang="grc">τοῦ</w><w xml:id="fein0013-3" xml:lang="grc"><expan><abbr>ὁσιωτ</abbr><ex>άτου</ex></expan></w><w xml:id="fein0013-4" xml:lang="grc"><expan><abbr>ἐπισκ</abbr><ex>όπου</ex></expan></w><w xml:id="fein0013-5" xml:lang="grc">Θεοδώρου</w><w xml:id="fein0013-6" xml:lang="grc"><choice><reg>ἐγένετο τὸ<w xml:id="fein0013-7" xml:lang="grc"><expan><abbr>ἔργο</abbr><ex>ν</ex></expan></w></reg><orig>ἐγένετω τὼ<w xml:id="fein0013-8" xml:lang="grc"><expan><abbr>ἔργω</abbr><ex>ν</ex></expan></w></orig></choice></w><w xml:id="fein0013-9" xml:lang="grc"><expan><abbr>ἔ</abbr><ex>τους</ex></expan></w><num value="482">υπβ´</num><w xml:id="fein0013-10" xml:lang="grc">ἰνδικτιῶνος</w><w xml:id="fein0013-11" xml:lang="grc"><choice>ές´</choice></w></p>
 </div>
 </body>
       <back>

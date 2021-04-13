@@ -172,10 +172,7 @@
                 <p>
                <supplied reason="lost">ש</supplied>
                <unclear>ע</unclear>
-               <choice>
-                  <unclear>ע</unclear>
-                  <unclear>ר</unclear>
-               </choice>
+               <choice><unclear>ע</unclear><unclear>ר</unclear></choice>
                <unclear>ו ל</unclear>
                <supplied reason="lost">בנ</supplied>
                <unclear>י גור</unclear>
@@ -191,7 +188,7 @@
             </div>
             <!-- The bibl has more contained elements. What is the possible list of values of the biblScope/@type? 
              -->
-        <div type="edition" subtype="transcription_segmented"><p><w xml:id="idum0095-1" xml:lang="arc"><supplied reason="lost">ש</supplied></w><w xml:id="idum0095-2" xml:lang="arc">ע</w> <w xml:id="idum0095-3" xml:lang="arc">ע</w> <w xml:id="idum0095-4" xml:lang="arc">ר</w> <w xml:id="idum0095-5" xml:lang="arc">ו</w> <w xml:id="idum0095-6" xml:lang="arc">ל</w><w xml:id="idum0095-7" xml:lang="arc"><supplied reason="lost">בנ</supplied></w><w xml:id="idum0095-8" xml:lang="arc">י</w> <w xml:id="idum0095-9" xml:lang="arc">גור</w><w xml:id="idum0095-10" xml:lang="arc"><supplied reason="lost">מ</supplied></w><w xml:id="idum0095-11" xml:lang="arc">שח</w> <w xml:id="idum0095-12" xml:lang="arc">ר</w><w xml:id="idum0095-13" xml:lang="arc"><num value="1">1</num></w></p>
+        <div type="edition" subtype="transcription_segmented"><p><w xml:id="idum0095-1" xml:lang="arc"><supplied reason="lost">ש</supplied></w><w xml:id="idum0095-2" xml:lang="arc">ע</w> <w xml:id="idum0095-3" xml:lang="arc">ער</w> <w xml:id="idum0095-4" xml:lang="arc">ו</w> <w xml:id="idum0095-5" xml:lang="arc">ל</w><w xml:id="idum0095-6" xml:lang="arc"><supplied reason="lost">בנ</supplied></w><w xml:id="idum0095-7" xml:lang="arc">י</w> <w xml:id="idum0095-8" xml:lang="arc">גור</w><w xml:id="idum0095-9" xml:lang="arc"><supplied reason="lost">מ</supplied></w><w xml:id="idum0095-10" xml:lang="arc">שח</w> <w xml:id="idum0095-11" xml:lang="arc">ר</w><w xml:id="idum0095-12" xml:lang="arc"><num value="1">1</num></w></p>
 </div>
 </body>
         <back>

@@ -148,9 +148,7 @@
             </div>
             <div type="edition" subtype="transcription" ana="b1" xml:lang="heb">
                 <p>ב <num value="8"><g type="eight-vertical-strokes"/></num>
-                        לנ<unclear>יס</unclear>ן<lb/>עדי<choice>
-                        <unclear>ד</unclear><unclear>ר</unclear>
-                    </choice>ו משח ק <num value="4"><g type="four-vertical-strokes"/></num></p>
+                        לנ<unclear>יס</unclear>ן<lb/>עדי<choice><unclear>ד</unclear><unclear>ר</unclear></choice>ו משח ק <num value="4"><g type="four-vertical-strokes"/></num></p>
             </div>
             <div type="translation" ana="b1">
                 <p>On the 8th of Nisan,<lb/>Udayd/ru: oil, q(abs), 4.</p>
@@ -159,7 +157,7 @@
                 <p/>
             </div>
 
-        <div type="edition" subtype="transcription_segmented"><p><w xml:id="idum0627-1" xml:lang="arc">ב</w><w xml:id="idum0627-2" xml:lang="arc"><num value="8"><g type="eight-vertical-strokes"/></num></w><w xml:id="idum0627-3" xml:lang="arc">לניסן</w> <w xml:id="idum0627-4" xml:lang="arc">עדי</w> <w xml:id="idum0627-5" xml:lang="arc">דר</w> <w xml:id="idum0627-6" xml:lang="arc">ו</w> <w xml:id="idum0627-7" xml:lang="arc">משח</w> <w xml:id="idum0627-8" xml:lang="arc">ק</w><w xml:id="idum0627-9" xml:lang="arc"><num value="4"><g type="four-vertical-strokes"/></num></w></p>
+        <div type="edition" subtype="transcription_segmented"><p><w xml:id="idum0627-1" xml:lang="arc">ב</w><num value="8"><g type="eight-vertical-strokes"/></num><w xml:id="idum0627-2" xml:lang="arc">לניסן</w> <w xml:id="idum0627-3" xml:lang="arc">עדי</w><w xml:id="idum0627-4" xml:lang="arc"><choice>דר</choice></w><w xml:id="idum0627-5" xml:lang="arc">ו</w> <w xml:id="idum0627-6" xml:lang="arc">משח</w> <w xml:id="idum0627-7" xml:lang="arc">ק</w><num value="4"><g type="four-vertical-strokes"/></num></p>
 </div>
 </body>
         <back>

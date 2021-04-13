@@ -179,8 +179,7 @@
                 <p/>
             </div>
             <div type="edition" subtype="transcription" ana="b1">
-                <p>Ἰ<choice><corr>ω</corr><sic>υ</sic>
-                    </choice>σης<lb break="no"/>Λουλα <lb/>Βου</p>
+                <p>Ἰ<choice><corr>ω</corr><sic>υ</sic></choice>σης<lb break="no"/>Λουλα <lb/>Βου</p>
             </div>
             <div type="translation" ana="b1">
                 <p>Ioses, (son) of Loulabos.</p>
@@ -190,7 +189,7 @@
             </div>
             <!-- The bibl has more contained elements. What is the possible list of values of the biblScope/@type? 
              -->
-        <div type="edition" subtype="transcription_segmented"><p><w xml:id="jaff0044-1" xml:lang="grc">Ἰω</w> <w xml:id="jaff0044-2" xml:lang="grc">σηςΛουλα</w> <w xml:id="jaff0044-3" xml:lang="grc">Βου</w></p>
+        <div type="edition" subtype="transcription_segmented"><p><w xml:id="jaff0044-1" xml:lang="grc">Ἰ</w><w xml:id="jaff0044-2" xml:lang="grc"><choice>ω</choice></w><w xml:id="jaff0044-3" xml:lang="grc">σηςΛουλα</w> <w xml:id="jaff0044-4" xml:lang="grc">Βου</w></p>
 </div>
 </body>
         <back>

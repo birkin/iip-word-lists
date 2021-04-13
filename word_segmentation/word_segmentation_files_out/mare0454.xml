@@ -131,7 +131,7 @@
             <div type="commentary">
                 <p/>
             </div>
-        <div type="edition" subtype="transcription_segmented"><p><w xml:id="mare0454-1" xml:lang="grc"><num value="3">γ</num></w><w xml:id="mare0454-2" xml:lang="grc">Ληλίου</w></p>
+        <div type="edition" subtype="transcription_segmented"><p><num value="3">γ</num><w xml:id="mare0454-1" xml:lang="grc">Ληλίου</w></p>
 </div>
 </body>
         <back>

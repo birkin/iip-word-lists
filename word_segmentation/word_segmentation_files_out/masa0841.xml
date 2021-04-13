@@ -169,7 +169,7 @@
             </div>
             <div type="edition" subtype="transcription" ana="b1">
                 <p>
-               <gap reason="lost" unit="character" extent="unknown"/><unclear>S</unclear>O<unclear>CE</unclear>
+               <gap reason="lost" unit="character" extent="unknown"/><orig><unclear>S</unclear>O<unclear>CE</unclear></orig>
             </p>
             </div>
             <div type="translation" ana="b1">
@@ -178,7 +178,7 @@
             <div type="commentary" ana="b1">
                 <p/>
             </div>
-        <div type="edition" subtype="transcription_segmented"><p><w xml:id="masa0841-1" xml:lang="la">SOCE</w></p>
+        <div type="edition" subtype="transcription_segmented"><p/>
 </div>
 </body>
         <back>

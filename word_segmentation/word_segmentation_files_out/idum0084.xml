@@ -169,9 +169,7 @@
                 <p/>
             </div>
             <div type="edition" subtype="transcription" ana="b1" xml:lang="heb">
-                <p>ב <num value="10">13</num> לשבט עי<choice>
-                  <unclear>ד</unclear><unclear>ר</unclear>
-               </choice>ו<lb/>לבני גורו גזיר <num value="1">1</num>
+                <p>ב <num value="10">13</num> לשבט עי<choice><unclear>ד</unclear><unclear>ר</unclear></choice>ו<lb/>לבני גורו גזיר <num value="1">1</num>
                <lb/>ל<unclear>יד</unclear>
                <gap reason="lost" extent="unknown" unit="character"/>ן</p>
             </div>
@@ -189,7 +187,7 @@
             </div>
             <!-- The bibl has more contained elements. What is the possible list of values of the biblScope/@type? 
              -->
-        <div type="edition" subtype="transcription_segmented"><p><w xml:id="idum0084-1" xml:lang="arc">ב</w><w xml:id="idum0084-2" xml:lang="arc"><num value="10">13</num></w><w xml:id="idum0084-3" xml:lang="arc">לשבט</w> <w xml:id="idum0084-4" xml:lang="arc">עי</w> <w xml:id="idum0084-5" xml:lang="arc">דר</w> <w xml:id="idum0084-6" xml:lang="arc">ו</w> <w xml:id="idum0084-7" xml:lang="arc">לבני</w> <w xml:id="idum0084-8" xml:lang="arc">גורו</w> <w xml:id="idum0084-9" xml:lang="arc">גזיר</w><w xml:id="idum0084-10" xml:lang="arc"><num value="1">1</num></w><w xml:id="idum0084-11" xml:lang="arc">ליד</w> <w xml:id="idum0084-12" xml:lang="arc">ן</w></p>
+        <div type="edition" subtype="transcription_segmented"><p><w xml:id="idum0084-1" xml:lang="arc">ב</w><num value="10">13</num><w xml:id="idum0084-2" xml:lang="arc">לשבט</w> <w xml:id="idum0084-3" xml:lang="arc">עי</w><w xml:id="idum0084-4" xml:lang="arc"><choice>דר</choice></w><w xml:id="idum0084-5" xml:lang="arc">ו</w> <w xml:id="idum0084-6" xml:lang="arc">לבני</w> <w xml:id="idum0084-7" xml:lang="arc">גורו</w> <w xml:id="idum0084-8" xml:lang="arc">גזיר</w><num value="1">1</num><w xml:id="idum0084-9" xml:lang="arc">ליד</w> <w xml:id="idum0084-10" xml:lang="arc">ן</w></p>
 </div>
 </body>
         <back>

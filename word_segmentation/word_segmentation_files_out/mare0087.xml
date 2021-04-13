@@ -145,13 +145,13 @@
             <div type="commentary" ana="b1">
                 <p/>
             </div>
-        <div type="edition" subtype="transcription_segmented"><p><w xml:id="mare0087-1" xml:lang="arc">ח</w> <w xml:id="mare0087-2" xml:lang="arc">ס</w><w xml:id="mare0087-3" xml:lang="arc"><num value="1">
+        <div type="edition" subtype="transcription_segmented"><p><w xml:id="mare0087-1" xml:lang="arc">ח</w> <w xml:id="mare0087-2" xml:lang="arc">ס</w><num value="1">
                   <g type="one-slanted-stroke"/>
-               </num></w><w xml:id="mare0087-4" xml:lang="arc">ס</w><w xml:id="mare0087-5" xml:lang="arc"><num value="1">
+               </num><w xml:id="mare0087-3" xml:lang="arc">ס</w><num value="1">
                   <g type="one-slanted-stroke"/>
-               </num></w><w xml:id="mare0087-6" xml:lang="arc">ר</w><w xml:id="mare0087-7" xml:lang="arc"><num value=".75">
+               </num><w xml:id="mare0087-4" xml:lang="arc">ר</w><num value=".75">
                   <g type="three-slanted-strokes"/>
-               </num></w></p>
+               </num></p>
 </div>
 </body>
         <back>

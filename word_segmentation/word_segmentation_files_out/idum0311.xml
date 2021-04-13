@@ -179,11 +179,7 @@
                <gap reason="lost" unit="character" extent="unknown"/>
                <num value="43">43</num>
                <gap reason="lost" unit="character" extent="unknown"/>
-               <lb/>לש<unclear>מ</unclear>תו <choice>
-                        <unclear>ד</unclear><unclear>ר</unclear>
-                    </choice>ק<supplied reason="lost">י<choice>
-                            <unclear>ר</unclear><unclear>ד</unclear>
-                        </choice>
+               <lb/>לש<unclear>מ</unclear>תו <choice><unclear>ד</unclear><unclear>ר</unclear></choice>ק<supplied reason="lost">י<choice><unclear>ר</unclear><unclear>ד</unclear></choice>
                </supplied>
                <gap reason="lost" unit="character" extent="unknown"/>
                <lb/>ק <num value="3">3</num> ר <num value="1">1</num> ל<gap reason="lost" unit="character" extent="unknown"/>
@@ -207,9 +203,7 @@
             </div>
             <!-- The bibl has more contained elements. What is the possible list of values of the biblScope/@type? 
              -->
-        <div type="edition" subtype="transcription_segmented"><p><w xml:id="idum0311-1" xml:lang="arc">ב</w><w xml:id="idum0311-2" xml:lang="arc"><num value="30">30</num></w><w xml:id="idum0311-3" xml:lang="arc">ל</w> <w xml:id="idum0311-4" xml:lang="arc">ש</w><w xml:id="idum0311-5" xml:lang="arc"><supplied reason="lost">נת</supplied></w><w xml:id="idum0311-6" xml:lang="arc"><num value="43">43</num></w><w xml:id="idum0311-7" xml:lang="arc">לשמתו</w> <w xml:id="idum0311-8" xml:lang="arc">דר</w> <w xml:id="idum0311-9" xml:lang="arc">ק</w><w xml:id="idum0311-10" xml:lang="arc"><supplied reason="lost">י
-                            רד
-                        
+        <div type="edition" subtype="transcription_segmented"><p><w xml:id="idum0311-1" xml:lang="arc">ב</w><w xml:id="idum0311-2" xml:lang="arc"><num value="30">30</num></w><w xml:id="idum0311-3" xml:lang="arc">ל</w> <w xml:id="idum0311-4" xml:lang="arc">ש</w><w xml:id="idum0311-5" xml:lang="arc"><supplied reason="lost">נת</supplied></w><w xml:id="idum0311-6" xml:lang="arc"><num value="43">43</num></w><w xml:id="idum0311-7" xml:lang="arc">לשמתו</w> <w xml:id="idum0311-8" xml:lang="arc">דר</w> <w xml:id="idum0311-9" xml:lang="arc">ק</w><w xml:id="idum0311-10" xml:lang="arc"><supplied reason="lost">י רד 
                </supplied></w><w xml:id="idum0311-11" xml:lang="arc">ק</w><w xml:id="idum0311-12" xml:lang="arc"><num value="3">3</num></w><w xml:id="idum0311-13" xml:lang="arc">ר</w><w xml:id="idum0311-14" xml:lang="arc"><num value="1">1</num></w><w xml:id="idum0311-15" xml:lang="arc">ל</w></p>
 </div>
 </body>

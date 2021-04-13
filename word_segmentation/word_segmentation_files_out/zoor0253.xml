@@ -133,8 +133,7 @@
                <lb/> Εὐσέβι<unclear>o</unclear>ς.<lb/>
                         ζήσ<unclear>α</unclear>ς ἔ<unclear>τη</unclear>
                <num><unclear>ξ</unclear>ʹ</num><lb/>
-               <choice><sic>ἑξίκο<unclear>ντα</unclear>
-                  </sic><corr>ἑξήκνοτα</corr></choice>
+               <choice><sic>ἑξίκο<unclear>ντα</unclear></sic><corr>ἑξήκνοτα</corr></choice>
                <expan><abbr>μη</abbr><ex>νὸς</ex></expan>
                <expan><abbr>Ἀρτ</abbr><ex>εμισίου</ex></expan>
                <lb/> <num>βκʹ</num>, <num>τϟζʹ</num>. Θάρ<lb break="no"/>σει οὐδεὶς.<lb/>
@@ -145,7 +144,7 @@
                     (and died) on the 22nd (day) of (the) month Artemisios, (in the year) 397. Be of
                     good cheer, no one (is) immortal.</p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="zoor0253-1" xml:lang="grc">Εἶς</w> <w xml:id="zoor0253-2" xml:lang="grc">θεός</w> <w xml:id="zoor0253-3" xml:lang="grc">ὁ</w> <w xml:id="zoor0253-4" xml:lang="grc">πάντων</w> <w xml:id="zoor0253-5" xml:lang="grc">Δεσπότης</w> <w xml:id="zoor0253-6" xml:lang="grc">Ἐνθάδε</w> <w xml:id="zoor0253-7" xml:lang="grc">κεῖται</w> <w xml:id="zoor0253-8" xml:lang="grc">Εὐσέβιoς</w> <w xml:id="zoor0253-9" xml:lang="grc">ζήσας</w> <w xml:id="zoor0253-10" xml:lang="grc">ἔτη</w><w xml:id="zoor0253-11" xml:lang="grc"><num>ξʹ</num></w><w xml:id="zoor0253-12" xml:lang="grc">ἑξίκοντα</w> <w xml:id="zoor0253-13" xml:lang="grc">ἑξήκνοτα</w><w xml:id="zoor0253-14" xml:lang="grc"><expan><abbr>μη</abbr><ex>νὸς</ex></expan></w><w xml:id="zoor0253-15" xml:lang="grc"><expan><abbr>Ἀρτ</abbr><ex>εμισίου</ex></expan></w><w xml:id="zoor0253-16" xml:lang="grc"><num>βκʹ</num></w><w xml:id="zoor0253-17" xml:lang="grc"><num>τϟζʹ</num></w><w xml:id="zoor0253-18" xml:lang="grc">Θάρσει</w> <w xml:id="zoor0253-19" xml:lang="grc">οὐδεὶς</w> <w xml:id="zoor0253-20" xml:lang="grc">ἀθάνατος</w></p>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="zoor0253-1" xml:lang="grc">Εἶς</w> <w xml:id="zoor0253-2" xml:lang="grc">θεός</w> <w xml:id="zoor0253-3" xml:lang="grc">ὁ</w> <w xml:id="zoor0253-4" xml:lang="grc">πάντων</w> <w xml:id="zoor0253-5" xml:lang="grc">Δεσπότης</w> <w xml:id="zoor0253-6" xml:lang="grc">Ἐνθάδε</w> <w xml:id="zoor0253-7" xml:lang="grc">κεῖται</w> <w xml:id="zoor0253-8" xml:lang="grc">Εὐσέβιoς</w> <w xml:id="zoor0253-9" xml:lang="grc">ζήσας</w> <w xml:id="zoor0253-10" xml:lang="grc">ἔτη</w><num>ξʹ</num><w xml:id="zoor0253-11" xml:lang="grc"><choice>ἑξήκνοτα</choice></w><w xml:id="zoor0253-12" xml:lang="grc"><expan><abbr>μη</abbr><ex>νὸς</ex></expan></w><w xml:id="zoor0253-13" xml:lang="grc"><expan><abbr>Ἀρτ</abbr><ex>εμισίου</ex></expan></w><num>βκʹ</num><num>τϟζʹ</num><w xml:id="zoor0253-14" xml:lang="grc">Θάρσει</w> <w xml:id="zoor0253-15" xml:lang="grc">οὐδεὶς</w><w xml:id="zoor0253-16" xml:lang="grc"><choice>ἀθάνατος</choice></w></p>
 </div>
 </body>
       <back>
