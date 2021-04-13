@@ -125,6 +125,9 @@ Setup for step3:
 2. for both, follow the links in the readme to compile
 3. when compiling PerseusDL/morpheus, follow instructions here https://github.com/PerseusDL/morpheus/issues/16 if running make produces an error
 
+Possible errors for morpheus:
+1. if running make produces an Fclose error, go into the each of the makefiles of the subdirectories (anal, auto, gener, gkdict, etc) and replace the line "CC = gcc" with "CC=gcc -Wno-return-type"
+
 ## Running the scripts
 
 To run the scripts, just calling "python [filename]" should be sufficient - running "python [filename] --help" also gives a list of commands.
