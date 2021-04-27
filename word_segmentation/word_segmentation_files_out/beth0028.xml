@@ -129,7 +129,7 @@
                <persName xml:lang="hbo " ref="persons.xml#beth0028p01">Yosi</persName>, <rs type="formula" ana="interpretations.xml#shalom" xml:lang="hbo">shalom </rs>
             </p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="beth0028-1" xml:lang="grc">Σαλόμ</w> <w xml:id="beth0028-2" xml:lang="grc">Ἰωσῆ</w> <w xml:id="beth0028-3" xml:lang="grc">ὁ</w><w xml:id="beth0028-4" xml:lang="grc">μικκός</w></p>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="beth0028-1" xml:lang="grc">Σαλόμ</w> <w xml:id="beth0028-2" xml:lang="grc">Ἰωσῆ</w><w xml:id="beth0028-3" xml:lang="grc"><unclear>ὁ</unclear></w><w xml:id="beth0028-4" xml:lang="grc">μικκός</w></p>
 </div>
 </body>
       <back>

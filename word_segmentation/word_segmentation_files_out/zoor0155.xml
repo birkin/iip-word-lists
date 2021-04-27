@@ -116,20 +116,35 @@
    <text>
       <body>
          <div type="edition" ana="#b1" xml:lang="grc" subtype="transcription" xml:id="zoor0155.transcription" corresp="#zoor0155.translation">
-            <p>+<lb/>
-               <choice><sic>Μνημῖον</sic><corr>Μνημεῖον</corr></choice>
-               <lb/> Ἰωάννου, <choice><sic>παυ<lb break="no"/>σομένου</sic><corr>παυσαμένου</corr></choice> μετὰ<lb/> καλοῦ
-                    <choice><sic>ὀνότος</sic><corr>ὀνόματος</corr></choice>
-               <lb/> καὶ καλῆς πίσ<lb break="no"/>τεως ἐτῶν <num>κθʹ</num>, +<lb/>
-                    ἐν <expan><abbr>μη</abbr><ex>νὶ</ex></expan> Ξανθικοῦ <num>βʹ</num>,<lb/> τοῦ ἔτους <num>τλβʹ</num>.<lb/>
-               <choice><sic>Θάρσι</sic><corr>Θάρσει</corr></choice>, <choice><sic>οὐδὶς</sic><corr>οὐδεὶς</corr></choice> ἀ<lb break="no"/>θάνατος. +</p>
+            <p><g type="cross">+</g><lb/>
+               <choice>
+                  <sic>Μνημῖον</sic>
+                  <corr>Μνημεῖον</corr>
+               </choice>
+               <lb/> Ἰωάννου, <choice>
+                  <sic>παυ<lb break="no"/>σομένου</sic>
+                  <corr>παυσαμένου</corr>
+               </choice> μετὰ<lb/> καλοῦ <choice>
+                  <sic>ὀνότος</sic>
+                  <corr>ὀνόματος</corr>
+               </choice>
+               <lb/> καὶ καλῆς πίσ<lb break="no"/>τεως ἐτῶν <num>κθʹ</num>, +<lb/> ἐν
+                     <expan><abbr>μη</abbr><ex>νὶ</ex></expan> Ξανθικοῦ <num>βʹ</num>,<lb/> τοῦ
+               ἔτους <num>τλβʹ</num>.<lb/>
+               <choice>
+                  <sic>Θάρσι</sic>
+                  <corr>Θάρσει</corr>
+               </choice>, <choice>
+                  <sic>οὐδὶς</sic>
+                  <corr>οὐδεὶς</corr>
+               </choice> ἀ<lb break="no"/>θάνατος. <g type="cross">+</g></p>
          </div>
          <div type="translation" ana="#b1" xml:id="zoor0155.translation" corresp="#zoor0155.transcription">
             <p>Monument of Ioannes, who died having a good name and good faith (at the age) of
                     29 years, on (the) 2nd (day) of (the) month Xanthikos, in the year 332. Be of
                     good cheer, no one (is) immortal.</p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="zoor0155-1" xml:lang="grc"><choice>Μνημεῖον</choice></w><w xml:id="zoor0155-2" xml:lang="grc">Ἰωάννου</w><w xml:id="zoor0155-3" xml:lang="grc"><choice>παυσαμένου</choice></w><w xml:id="zoor0155-4" xml:lang="grc">μετὰ</w> <w xml:id="zoor0155-5" xml:lang="grc">καλοῦ</w><w xml:id="zoor0155-6" xml:lang="grc"><choice>ὀνόματος</choice></w><w xml:id="zoor0155-7" xml:lang="grc">καὶ</w> <w xml:id="zoor0155-8" xml:lang="grc">καλῆς</w> <w xml:id="zoor0155-9" xml:lang="grc">πίστεως</w> <w xml:id="zoor0155-10" xml:lang="grc">ἐτῶν</w><num>κθʹ</num><w xml:id="zoor0155-11" xml:lang="grc">ἐν</w><w xml:id="zoor0155-12" xml:lang="grc"><expan><abbr>μη</abbr><ex>νὶ</ex></expan></w><w xml:id="zoor0155-13" xml:lang="grc">Ξανθικοῦ</w><num>βʹ</num><w xml:id="zoor0155-14" xml:lang="grc">τοῦ</w> <w xml:id="zoor0155-15" xml:lang="grc">ἔτους</w><num>τλβʹ</num><w xml:id="zoor0155-16" xml:lang="grc"><choice>Θάρσει</choice></w><w xml:id="zoor0155-17" xml:lang="grc"><choice>οὐδεὶς</choice></w><w xml:id="zoor0155-18" xml:lang="grc">ἀθάνατος</w></p>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="zoor0155-1" xml:lang="grc">Ἰωάννου</w><w xml:id="zoor0155-2" xml:lang="grc">μετὰ</w> <w xml:id="zoor0155-3" xml:lang="grc">καλοῦ</w><w xml:id="zoor0155-4" xml:lang="grc">καὶ</w> <w xml:id="zoor0155-5" xml:lang="grc">καλῆς</w> <w xml:id="zoor0155-6" xml:lang="grc">πίστεως</w> <w xml:id="zoor0155-7" xml:lang="grc">ἐτῶν</w><num>κθʹ</num><w xml:id="zoor0155-8" xml:lang="grc">ἐν</w><w xml:id="zoor0155-9" xml:lang="grc"><expan><abbr>μη</abbr><ex>νὶ</ex></expan></w><w xml:id="zoor0155-10" xml:lang="grc">Ξανθικοῦ</w><num>βʹ</num><w xml:id="zoor0155-11" xml:lang="grc">τοῦ</w> <w xml:id="zoor0155-12" xml:lang="grc">ἔτους</w><num>τλβʹ</num><w xml:id="zoor0155-13" xml:lang="grc">ἀθάνατος</w></p>
 </div>
 </body>
       <back>

@@ -142,7 +142,7 @@
          <div type="translation" ana="b1" xml:id="zoor0349.translation" corresp="#zoor0349.transcription">
             <p> Monument of Okeilos, from Phaeno.</p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="zoor0349-1" xml:lang="grc"><choice>Μνημεῖον</choice></w><w xml:id="zoor0349-2" xml:lang="grc">Ὀκεΰλου</w> <w xml:id="zoor0349-3" xml:lang="grc">Φαινοισί</w></p>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="zoor0349-1" xml:lang="grc"><choice><reg>Μνημεῖον</reg><orig>Μνημῖον</orig></choice></w><w xml:id="zoor0349-2" xml:lang="grc">Ὀκεΰλου</w> <w xml:id="zoor0349-3" xml:lang="grc">Φαινοισί</w></p>
 </div>
 </body>
       <back>

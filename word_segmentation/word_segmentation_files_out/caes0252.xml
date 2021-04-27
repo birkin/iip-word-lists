@@ -116,11 +116,11 @@
          <div type="edition" ana="#b1" subtype="transcription" xml:id="caes0252.transcription">
             <p>θεσίδεν <gap reason="illegible" quantity="2" unit="character"/>
                <lb/>
-Γλυπ<unclear>τ</unclear>
+               <orig>Γλυπ<unclear>τ</unclear></orig>
                <gap reason="illegible" quantity="2" unit="character"/>
             </p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="caes0252-1" xml:lang="grc">θεσίδεν</w> <w xml:id="caes0252-2" xml:lang="grc">Γλυπτ</w></p>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="caes0252-1" xml:lang="grc">θεσίδεν</w></p>
 </div>
 </body>
       <back>

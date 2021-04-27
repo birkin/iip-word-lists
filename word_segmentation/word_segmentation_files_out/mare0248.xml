@@ -142,7 +142,7 @@
                     case given in the diplomatic transcription reflects the choice of the
                     editor.</p>
             </div>
-        <div type="edition" subtype="transcription_segmented"><p><w xml:id="mare0248-1" xml:lang="grc"><expan><abbr><am>ζ</am></abbr><ex>δραχμή</ex></expan></w></p>
+        <div type="edition" subtype="transcription_segmented"><p><w xml:id="mare0248-1" xml:lang="grc"><expan><abbr><am><unclear>ζ</unclear></am></abbr><ex>δραχμή</ex></expan></w></p>
 </div>
 </body>
         <back>

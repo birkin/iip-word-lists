@@ -120,21 +120,40 @@
    <text>
       <body>
          <div type="edition" ana="#b1" xml:lang="grc" subtype="transcription" xml:id="zoor0191.transcription" corresp="#zoor0191.translation">
-            <p>+<lb/>
-               <choice><sic>Μνημῖον</sic><corr>Μνημεῖον</corr></choice> Κ<unclear>α</unclear>ϊάμου<lb/> Ἀβιδακάρου,
-               <choice><sic>ἀποθο<lb break="no"/>νόντος </sic><corr>ἀποθανόντος</corr></choice>μετὰ καλοῦ ὀ<lb break="no"/>νόματος καὶ
-                        κ<unclear>αλ</unclear>ῆς πίσ<lb/>τεως ἐτῶν <num>λθʹ</num>,<lb/> ἐν <choice><sic>ἔτι</sic><corr>ἔτει</corr></choice> <num>τμςʹ</num>, ἐν<lb/>
+            <p><g type="cross">+</g><lb/>
+               <choice>
+                  <sic>Μνημῖον</sic>
+                  <corr>Μνημεῖον</corr>
+               </choice> Κ<unclear>α</unclear>ϊάμου<lb/> Ἀβιδακάρου, <choice>
+                  <sic>ἀποθο<lb break="no"/>νόντος </sic>
+                  <corr>ἀποθανόντος</corr>
+               </choice>μετὰ καλοῦ ὀ<lb break="no"/>νόματος καὶ κ<unclear>αλ</unclear>ῆς
+               πίσ<lb/>τεως ἐτῶν <num>λθʹ</num>,<lb/> ἐν <choice>
+                  <sic>ἔτι</sic>
+                  <corr>ἔτει</corr>
+               </choice>
+               <num>τμςʹ</num>, ἐν<lb/>
                <expan><abbr>μη</abbr><ex>νὶ</ex></expan>
-               <choice><sic>Πιριτίου</sic><corr>Περιτίου</corr></choice> <num>ηʹ</num>. <choice><sic>Θά<lb/>ρσι</sic><corr>Θάρσει</corr></choice>,
-                        <choice><sic>οὐδὶς</sic><corr>οὐδεὶς</corr></choice>
-               <lb/> ἀθά<lb break="no"/>νατος. +<lb/> +</p>
+               <choice>
+                  <sic>Πιριτίου</sic>
+                  <corr>Περιτίου</corr>
+               </choice>
+               <num>ηʹ</num>. <choice>
+                  <sic>Θά<lb/>ρσι</sic>
+                  <corr>Θάρσει</corr>
+               </choice>, <choice>
+                  <sic>οὐδὶς</sic>
+                  <corr>οὐδεὶς</corr>
+               </choice>
+               <lb/> ἀθά<lb break="no"/>νατος. <g type="cross">+</g><lb/>
+               <g type="cross">+</g></p>
          </div>
          <div type="translation" ana="#b1" xml:id="zoor0191.translation" corresp="#zoor0191.transcription">
             <p>Monument of Kaiamos, (son) of Abidakaros, who died having a good name and good
                     faith (at the age) of 39 years, in the year 346, on (the) 8th (day) of (the)
                     month Peritios. Be of good cheer, no one (is) immortal.</p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="zoor0191-1" xml:lang="grc"><choice>Μνημεῖον</choice></w><w xml:id="zoor0191-2" xml:lang="grc">Καϊάμου</w> <w xml:id="zoor0191-3" xml:lang="grc">Ἀβιδακάρου</w><w xml:id="zoor0191-4" xml:lang="grc"><choice>ἀποθανόντος</choice></w><w xml:id="zoor0191-5" xml:lang="grc">μετὰ</w> <w xml:id="zoor0191-6" xml:lang="grc">καλοῦ</w> <w xml:id="zoor0191-7" xml:lang="grc">ὀνόματος</w> <w xml:id="zoor0191-8" xml:lang="grc">καὶ</w> <w xml:id="zoor0191-9" xml:lang="grc">καλῆς</w> <w xml:id="zoor0191-10" xml:lang="grc">πίσ</w> <w xml:id="zoor0191-11" xml:lang="grc">τεως</w> <w xml:id="zoor0191-12" xml:lang="grc">ἐτῶν</w><num>λθʹ</num><w xml:id="zoor0191-13" xml:lang="grc">ἐν</w><w xml:id="zoor0191-14" xml:lang="grc"><choice>ἔτει</choice></w><num>τμςʹ</num><w xml:id="zoor0191-15" xml:lang="grc">ἐν</w><w xml:id="zoor0191-16" xml:lang="grc"><expan><abbr>μη</abbr><ex>νὶ</ex></expan></w><w xml:id="zoor0191-17" xml:lang="grc"><choice>Περιτίου</choice></w><num>ηʹ</num><w xml:id="zoor0191-18" xml:lang="grc"><choice>Θάρσει</choice></w><w xml:id="zoor0191-19" xml:lang="grc"><choice>οὐδεὶς</choice></w><w xml:id="zoor0191-20" xml:lang="grc">ἀθάνατος</w></p>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="zoor0191-1" xml:lang="grc">Κ</w><w xml:id="zoor0191-2" xml:lang="grc">ϊάμου</w> <w xml:id="zoor0191-3" xml:lang="grc">Ἀβιδακάρου</w><w xml:id="zoor0191-4" xml:lang="grc">μετὰ</w> <w xml:id="zoor0191-5" xml:lang="grc">καλοῦ</w> <w xml:id="zoor0191-6" xml:lang="grc">ὀνόματος</w> <w xml:id="zoor0191-7" xml:lang="grc">καὶ</w> <w xml:id="zoor0191-8" xml:lang="grc">κ</w><w xml:id="zoor0191-9" xml:lang="grc">ῆς</w> <w xml:id="zoor0191-10" xml:lang="grc">πίσ</w> <w xml:id="zoor0191-11" xml:lang="grc">τεως</w> <w xml:id="zoor0191-12" xml:lang="grc">ἐτῶν</w><num>λθʹ</num><w xml:id="zoor0191-13" xml:lang="grc">ἐν</w><num>τμςʹ</num><w xml:id="zoor0191-14" xml:lang="grc">ἐν</w><w xml:id="zoor0191-15" xml:lang="grc"><expan><abbr>μη</abbr><ex>νὶ</ex></expan></w><num>ηʹ</num><w xml:id="zoor0191-16" xml:lang="grc">ἀθάνατος</w></p>
 </div>
 </body>
       <back>

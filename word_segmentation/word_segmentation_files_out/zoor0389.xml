@@ -130,9 +130,7 @@
             <p>
                <g type="palm-branch"/>
                <g type="cross-rho"/>
-               <supplied reason="lost" cert="medium">
-                  <g type="palm-branch"/>
-               </supplied>
+               <supplied reason="lost" cert="medium"><g type="palm-branch"/></supplied>
                <lb/>
                <choice><reg>Μνημεῖ<supplied reason="lost">ον</supplied></reg><orig>Μνημῖ<supplied reason="lost">ον</supplied></orig></choice>
                <supplied reason="lost">Κλαυ</supplied><lb break="no"/>δίου Ὠρ<unclear>ί</unclear><supplied reason="lost">ωνος</supplied>,
@@ -145,9 +143,7 @@
             <p>Monument of Claudius (?),<lb/>(son) of Orion, who<lb/>died having a good<lb/>[name]
                .............</p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="zoor0389-1" xml:lang="grc"><supplied reason="lost" cert="medium">
-                  <g type="palm-branch"/>
-               </supplied></w><w xml:id="zoor0389-2" xml:lang="grc">Μνημεῖ</w><w xml:id="zoor0389-3" xml:lang="grc"><supplied reason="lost">ον</supplied></w><w xml:id="zoor0389-4" xml:lang="grc"><supplied reason="lost">Κλαυ</supplied></w><w xml:id="zoor0389-5" xml:lang="grc">δίου</w> <w xml:id="zoor0389-6" xml:lang="grc">Ὠρί</w><w xml:id="zoor0389-7" xml:lang="grc"><supplied reason="lost">ωνος</supplied></w><w xml:id="zoor0389-8" xml:lang="grc">άποθα</w><w xml:id="zoor0389-9" xml:lang="grc"><supplied reason="lost">νόντος</supplied></w><w xml:id="zoor0389-10" xml:lang="grc">μετά</w> <w xml:id="zoor0389-11" xml:lang="grc">κ</w><w xml:id="zoor0389-12" xml:lang="grc"><supplied reason="lost">αλοῦ</supplied></w><w xml:id="zoor0389-13" xml:lang="grc"><supplied reason="lost">ὀν</supplied></w><w xml:id="zoor0389-14" xml:lang="grc"><supplied reason="lost">όματος</supplied></w></p>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="zoor0389-1" xml:lang="grc"><supplied reason="lost" cert="medium"><g type="palm-branch"/></supplied></w><w xml:id="zoor0389-2" xml:lang="grc"><choice><reg>Μνημεῖ<supplied reason="lost">ον</supplied></reg><orig>Μνημῖ<supplied reason="lost">ον</supplied></orig></choice></w><w xml:id="zoor0389-3" xml:lang="grc">δίου</w> <w xml:id="zoor0389-4" xml:lang="grc">Ὠρ</w><w xml:id="zoor0389-5" xml:lang="grc">άποθα</w><w xml:id="zoor0389-6" xml:lang="grc">μετά</w><w xml:id="zoor0389-7" xml:lang="grc"><supplied reason="lost">ὀν</supplied><supplied reason="lost">όματος</supplied></w></p>
 </div>
 </body>
       <back>

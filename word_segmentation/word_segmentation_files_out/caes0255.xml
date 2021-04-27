@@ -117,7 +117,8 @@
             <p>
                <supplied reason="undefined">μν</supplied>ῆμα <gap reason="illegible" quantity="2" unit="character"/>
                <lb/>
-               <gap reason="illegible" quantity="1" unit="character"/> Θεω<unclear>δ</unclear>
+               <gap reason="illegible" quantity="1" unit="character"/>
+               <orig>Θεω<unclear>δ</unclear></orig>
                <gap reason="illegible" quantity="2" unit="character"/>
             </p>
          </div>
@@ -125,7 +126,7 @@
             <p>The memorial of...Theod----...
 				</p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="caes0255-1" xml:lang="grc"><supplied reason="undefined">μν</supplied></w><w xml:id="caes0255-2" xml:lang="grc">ῆμα</w> <w xml:id="caes0255-3" xml:lang="grc">Θεωδ</w></p>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="caes0255-1" xml:lang="grc">ῆμα</w></p>
 </div>
 </body>
       <back>

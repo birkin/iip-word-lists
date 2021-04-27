@@ -123,7 +123,7 @@
                <rs type="formula" ana="interpretations.xml#lies">lies here </rs>
             </p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="beth0037-1" xml:lang="grc">Με</w><w xml:id="beth0037-2" xml:lang="grc"><supplied reason="lost">ναὴ</supplied></w><w xml:id="beth0037-3" xml:lang="grc"><supplied reason="lost">υ</supplied></w><w xml:id="beth0037-4" xml:lang="grc">ἱὸ</w><w xml:id="beth0037-5" xml:lang="grc"><supplied reason="lost">ς</supplied></w><w xml:id="beth0037-6" xml:lang="grc">ὧδε</w> <w xml:id="beth0037-7" xml:lang="grc">κ</w><w xml:id="beth0037-8" xml:lang="grc"><supplied reason="lost">ῖτε</supplied></w></p>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="beth0037-1" xml:lang="grc">Με</w><w xml:id="beth0037-2" xml:lang="grc"><supplied reason="lost">υ</supplied>ἱὸ<supplied reason="lost">ς</supplied></w><w xml:id="beth0037-3" xml:lang="grc">ὧδε</w> <w xml:id="beth0037-4" xml:lang="grc">κ</w></p>
 </div>
 </body>
       <back>

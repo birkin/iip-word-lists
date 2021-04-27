@@ -112,12 +112,12 @@
    <text>
       <body>
          <div type="edition" ana="#b1" xml:lang="grc" subtype="transcription" xml:id="elus0004.transcription" corresp="#elus0004.translation">
-            <p>Θάρσι, οὐ<lb/>δίς ἀθάνατ<lb/>ος</p>
+            <p>Θάρσι, οὐ<lb break="no"/>δίς ἀθάνατ<lb break="no"/>ος</p>
          </div>
          <div type="translation" ana="#b1" xml:id="elus0004.translation" corresp="#elus0004.transcription">
             <p>Courage, no one is immortal</p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="elus0004-1" xml:lang="grc">Θάρσι</w> <w xml:id="elus0004-2" xml:lang="grc">οὐ</w> <w xml:id="elus0004-3" xml:lang="grc">δίς</w> <w xml:id="elus0004-4" xml:lang="grc">ἀθάνατ</w> <w xml:id="elus0004-5" xml:lang="grc">ος</w></p>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="elus0004-1" xml:lang="grc">Θάρσι</w> <w xml:id="elus0004-2" xml:lang="grc">οὐδίς</w> <w xml:id="elus0004-3" xml:lang="grc">ἀθάνατος</w></p>
 </div>
 </body>
       <back>

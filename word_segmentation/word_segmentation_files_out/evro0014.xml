@@ -26,7 +26,7 @@
                </msIdentifier>
                <!-- ********* <msContents> ********* -->
                <msContents>
-                  <textLang mainLang="arc"/>
+                  <textLang mainLang="syc"/>
                   <msItem class="#invocation" ana="#christian">
                      <p>Western Galilee. Evron, 415 CE. Mosaic. Invocation.</p>
                   </msItem>
@@ -125,7 +125,7 @@
          <div type="translation" ana="#b1" xml:id="evro0014.translation" corresp="#evro0014.transcription">
             <p>Let them live - Claudius/a, Susanna, Nehemiah(?), Boselos.</p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="evro0014-1" xml:lang="arc">יתחיון</w><w xml:id="evro0014-2" xml:lang="arc"><expan><abbr>קלודי</abbr><ex cert="low">וס</ex></expan></w><w xml:id="evro0014-3" xml:lang="arc">שושן</w> <w xml:id="evro0014-4" xml:lang="arc">מר</w> <w xml:id="evro0014-5" xml:lang="arc">נאהמנו</w> <w xml:id="evro0014-6" xml:lang="arc">בסלו</w></p>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="evro0014-1" xml:lang="syc">יתחיון</w><w xml:id="evro0014-2" xml:lang="syc"><expan><abbr>קלודי</abbr><ex cert="low">וס</ex></expan></w><w xml:id="evro0014-3" xml:lang="syc">שושן</w> <w xml:id="evro0014-4" xml:lang="syc">מר</w> <w xml:id="evro0014-5" xml:lang="syc">נאהמ</w><w xml:id="evro0014-6" xml:lang="syc">ו</w> <w xml:id="evro0014-7" xml:lang="syc">בסלו</w></p>
 </div>
 </body>
       <back>

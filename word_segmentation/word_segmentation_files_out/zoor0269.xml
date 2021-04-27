@@ -121,7 +121,7 @@
          <div type="translation" ana="#b1" xml:id="zoor0269.translation" corresp="#zoor0269.transcription">
             <p>Be of good cheer. Monument of Olefos, who died...</p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="zoor0269-1" xml:lang="grc">Θάρσει</w> <w xml:id="zoor0269-2" xml:lang="grc">μνημεῖον</w> <w xml:id="zoor0269-3" xml:lang="grc">Ὀλέφου</w> <w xml:id="zoor0269-4" xml:lang="grc">ἀπ</w><w xml:id="zoor0269-5" xml:lang="grc"><supplied reason="lost">ο</supplied></w><w xml:id="zoor0269-6" xml:lang="grc">θανόντ</w><w xml:id="zoor0269-7" xml:lang="grc"><supplied reason="lost">ος</supplied></w></p>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="zoor0269-1" xml:lang="grc"><choice><orig>Θάρσι</orig><reg>Θάρσει</reg></choice></w><w xml:id="zoor0269-2" xml:lang="grc">Ὀλέφου</w> <w xml:id="zoor0269-3" xml:lang="grc">ἀ</w><w xml:id="zoor0269-4" xml:lang="grc">όν</w></p>
 </div>
 </body>
       <back>

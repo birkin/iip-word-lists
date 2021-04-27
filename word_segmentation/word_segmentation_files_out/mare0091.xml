@@ -147,10 +147,10 @@
                     the context, it seems to be a name, hitherto unknown. It might be connected with
                     Arabian name MRTM or with the Biblical מרמות, Meremoth, found also in Arad.</p>
             </div>
-        <div type="edition" subtype="transcription_segmented"><p><w xml:id="mare0091-1" xml:lang="arc">מרמאת</w> <w xml:id="mare0091-2" xml:lang="arc">ש</w> <w xml:id="mare0091-3" xml:lang="arc">ס</w><num value="21">
+        <div type="edition" subtype="transcription_segmented"><p><w xml:id="mare0091-1" xml:lang="arc">מ</w><w xml:id="mare0091-2" xml:lang="arc">מאת</w> <w xml:id="mare0091-3" xml:lang="arc">ש</w><w xml:id="mare0091-4" xml:lang="arc"><unclear cert="low">ס</unclear></w><num value="21">
                   <g type="phoen-20"/>
                   <g type="one-slanted-stroke"/>
-               </num><w xml:id="mare0091-4" xml:lang="arc">על</w> <w xml:id="mare0091-5" xml:lang="arc">יתוע</w> <w xml:id="mare0091-6" xml:lang="arc">ש</w> <w xml:id="mare0091-7" xml:lang="arc">ס</w><num value="5">
+               </num><w xml:id="mare0091-5" xml:lang="arc">ל</w> <w xml:id="mare0091-6" xml:lang="arc">יתוע</w> <w xml:id="mare0091-7" xml:lang="arc">ש</w> <w xml:id="mare0091-8" xml:lang="arc">ס</w><num value="5">
                   <g type="five-slanted-strokes"/>
                </num></p>
 </div>

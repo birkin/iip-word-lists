@@ -115,16 +115,32 @@
    <text>
       <body>
          <div type="edition" ana="#b1" xml:lang="grc" subtype="transcription" xml:id="zoor0029.transcription" corresp="#zoor0029.translation">
-            <p>+ <choice><sic>Μνημῖαν</sic><corr>μνημεῖον</corr></choice>
-               <choice><sic>Θηά<g>+</g><lb break="no"/>θη</sic><corr>Θηάθη</corr></choice> Ῥούφου, παυ<lb break="no"/>σαμένη ἐτῶ<lb break="no"/>ν <num>ιεʹ</num>, ἐν ἔτο<lb break="no"/>υς <num>σξεʹ</num>, <choice><sic>μηνὶ</sic><corr>μηνός</corr></choice>
+            <p><g type="cross">+</g>
+               <choice>
+                  <sic>Μνημῖαν</sic>
+                  <corr>μνημεῖον</corr>
+               </choice>
+               <choice>
+                  <sic>Θηά<g>+</g><lb break="no"/>θη</sic>
+                  <corr>Θηάθη</corr>
+               </choice> Ῥούφου, παυ<lb break="no"/>σαμένη ἐτῶ<lb break="no"/>ν <num>ιεʹ</num>, ἐν
+                  ἔτο<lb break="no"/>υς <num>σξεʹ</num>, <choice>
+                  <sic>μηνὶ</sic>
+                  <corr>μηνός</corr>
+               </choice>
                <lb/>
-               <choice><sic>Ὑπερβερετέ<lb/>ου</sic><corr>Ὑπερβερεταίου</corr></choice> ηʹ. +<lb/> + +</p>
+               <choice>
+                  <sic>Ὑπερβερετέ<lb/>ου</sic>
+                  <corr>Ὑπερβερεταίου</corr>
+               </choice> ηʹ. <g type="cross">+</g><lb/>
+               <g type="cross">+</g>
+               <g type="cross">+</g></p>
          </div>
          <div type="translation" ana="#b1" xml:id="zoor0029.translation" corresp="#zoor0029.transcription">
             <p>Monument of Theathe, (daughter) of Rufus, who died (at the age) of 15 years, in
                     the year 265, on (the) 8th (day) of (the) month Hyperberetaios.</p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="zoor0029-1" xml:lang="grc"><choice>μνημεῖον</choice></w><w xml:id="zoor0029-2" xml:lang="grc"><choice>Θηάθη</choice></w><w xml:id="zoor0029-3" xml:lang="grc">Ῥούφου</w> <w xml:id="zoor0029-4" xml:lang="grc">παυσαμένη</w> <w xml:id="zoor0029-5" xml:lang="grc">ἐτῶν</w><num>ιεʹ</num><w xml:id="zoor0029-6" xml:lang="grc">ἐν</w> <w xml:id="zoor0029-7" xml:lang="grc">ἔτους</w><num>σξεʹ</num><w xml:id="zoor0029-8" xml:lang="grc"><choice>μηνός</choice></w><w xml:id="zoor0029-9" xml:lang="grc"><choice>Ὑπερβερεταίου</choice></w><w xml:id="zoor0029-10" xml:lang="grc">η</w></p>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="zoor0029-1" xml:lang="grc">Ῥούφου</w> <w xml:id="zoor0029-2" xml:lang="grc">παυσαμένη</w> <w xml:id="zoor0029-3" xml:lang="grc">ἐτῶν</w><num>ιεʹ</num><w xml:id="zoor0029-4" xml:lang="grc">ἐν</w> <w xml:id="zoor0029-5" xml:lang="grc">ἔτους</w><num>σξεʹ</num><w xml:id="zoor0029-6" xml:lang="grc">η</w></p>
 </div>
 </body>
       <back>

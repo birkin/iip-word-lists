@@ -136,22 +136,40 @@
    <text>
       <body>
          <div type="edition" ana="#b1" xml:lang="grc" subtype="transcription" xml:id="zoor0137.transcription" corresp="#zoor0137.translation">
-            <p>+<lb/>
-               <choice><sic>Μνημῖον</sic><corr>Μνημεῖον</corr></choice>
-               <choice><sic>Ἀλουλά<lb break="no"/>φο</sic><corr>Ἀλουλάφου</corr></choice> Οὐλπιανοῦ,<lb/>
-               ἀποθανό<unclear>ν</unclear>τος ἐ<lb break="no"/>τῶν<num> <unclear>λ</unclear>θʹ</num>, ἔτους<lb/>
-                    <num>τκςʹ</num>, μ<unclear>ηνὶ</unclear>
-               <unclear>Λ</unclear>ῴου <num>γʹ</num>,<lb/> ἡμέρᾳ <expan><abbr>Κυ</abbr><ex>ρίου</ex></expan>
-               <lb/> <num>γʹ</num>.<lb/>
-               <choice><sic>Θάρ<lb break="no"/>σι</sic><corr>Θάρσει</corr></choice>, <choice><sic>οὐδὶς</sic><corr>οὐδεὶς</corr></choice>
-               <choice><sic>ἀθάνο<lb break="no"/>τος</sic><corr>ἀθάνατος</corr></choice>.</p>
+            <p><g type="cross">+</g><lb/>
+               <choice>
+                  <sic>Μνημῖον</sic>
+                  <corr>Μνημεῖον</corr>
+               </choice>
+               <choice>
+                  <sic>Ἀλουλά<lb break="no"/>φο</sic>
+                  <corr>Ἀλουλάφου</corr>
+               </choice> Οὐλπιανοῦ,<lb/> ἀποθανό<unclear>ν</unclear>τος ἐ<lb break="no"/>τῶν<num>
+                  <unclear>λ</unclear>θʹ</num>, ἔτους<lb/>
+               <num>τκςʹ</num>, μ<unclear>ηνὶ</unclear>
+               <unclear>Λ</unclear>ῴου <num>γʹ</num>,<lb/> ἡμέρᾳ
+                  <expan><abbr>Κυ</abbr><ex>ρίου</ex></expan>
+               <lb/>
+               <num>γʹ</num>.<lb/>
+               <choice>
+                  <sic>Θάρ<lb break="no"/>σι</sic>
+                  <corr>Θάρσει</corr>
+               </choice>, <choice>
+                  <sic>οὐδὶς</sic>
+                  <corr>οὐδεὶς</corr>
+               </choice>
+               <choice>
+                  <sic>ἀθάνο<lb break="no"/>τος</sic>
+                  <corr>ἀθάνατος</corr>
+               </choice>.</p>
          </div>
          <div type="translation" ana="#b1" xml:id="zoor0137.translation" corresp="#zoor0137.transcription">
             <p>Monument of Aloulafos, (son) of Ulpianus, who died (at the age) of 39 years, in
                     (the) year 326, on the 3rd (day) of (the) month Loos, on (the) 3rd day of (the)
                     Lord (Tuesday). Be of good cheer, no one (is) immortal.</p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="zoor0137-1" xml:lang="grc"><choice>Μνημεῖον</choice></w><w xml:id="zoor0137-2" xml:lang="grc"><choice>Ἀλουλάφου</choice></w><w xml:id="zoor0137-3" xml:lang="grc">Οὐλπιανοῦ</w> <w xml:id="zoor0137-4" xml:lang="grc">ἀποθανόντος</w> <w xml:id="zoor0137-5" xml:lang="grc">ἐτῶν</w><num> λθʹ</num><w xml:id="zoor0137-6" xml:lang="grc">ἔτους</w><num>τκςʹ</num><w xml:id="zoor0137-7" xml:lang="grc">μηνὶ</w> <w xml:id="zoor0137-8" xml:lang="grc">Λῴου</w><num>γʹ</num><w xml:id="zoor0137-9" xml:lang="grc">ἡμέρᾳ</w><w xml:id="zoor0137-10" xml:lang="grc"><expan><abbr>Κυ</abbr><ex>ρίου</ex></expan></w><num>γʹ</num><w xml:id="zoor0137-11" xml:lang="grc"><choice>Θάρσει</choice></w><w xml:id="zoor0137-12" xml:lang="grc"><choice>οὐδεὶς</choice></w><w xml:id="zoor0137-13" xml:lang="grc"><choice>ἀθάνατος</choice></w></p>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="zoor0137-1" xml:lang="grc">Οὐλπιανοῦ</w> <w xml:id="zoor0137-2" xml:lang="grc">ἀποθανό</w><w xml:id="zoor0137-3" xml:lang="grc">τος</w> <w xml:id="zoor0137-4" xml:lang="grc">ἐτῶν</w><num>
+                  <unclear>λ</unclear>θʹ</num><w xml:id="zoor0137-5" xml:lang="grc">ἔτους</w><num>τκςʹ</num><w xml:id="zoor0137-6" xml:lang="grc">μ</w><w xml:id="zoor0137-7" xml:lang="grc">ῴου</w><num>γʹ</num><w xml:id="zoor0137-8" xml:lang="grc">ἡμέρᾳ</w><w xml:id="zoor0137-9" xml:lang="grc"><expan><abbr>Κυ</abbr><ex>ρίου</ex></expan></w><num>γʹ</num></p>
 </div>
 </body>
       <back>

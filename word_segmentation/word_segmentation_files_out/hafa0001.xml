@@ -122,8 +122,7 @@
                 </p>
          </div>
          <div type="edition" ana="#b1" subtype="transcription" xml:id="hafa0001.transcription" corresp="#hafa0001.diplomatic #hafa0001.translation">
-            <p>Ἅγι<lb/>
-                    ος <lb/>
+            <p>Ἅγι<lb break="no"/>ος <lb/>
                <expan><abbr>Κ</abbr><ex>ύριο</ex><abbr>ς</abbr></expan>
                <lb/>
                     Α Ω
@@ -132,7 +131,7 @@
          <div type="translation" ana="#b1" xml:id="hafa0001.translation" corresp="#hafa0001.diplomatic #hafa0001.transcription">
             <p>Holy Lord...</p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="hafa0001-1" xml:lang="grc">Ἅγι</w> <w xml:id="hafa0001-2" xml:lang="grc">ος</w><w xml:id="hafa0001-3" xml:lang="grc"><expan><abbr>Κ</abbr><ex>ύριο</ex><abbr>ς</abbr></expan></w><w xml:id="hafa0001-4" xml:lang="grc">Α</w> <w xml:id="hafa0001-5" xml:lang="grc">Ω</w></p>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="hafa0001-1" xml:lang="grc">Ἅγιος</w><w xml:id="hafa0001-2" xml:lang="grc"><expan><abbr>Κ</abbr><ex>ύριο</ex><abbr>ς</abbr></expan></w><w xml:id="hafa0001-3" xml:lang="grc">Α</w> <w xml:id="hafa0001-4" xml:lang="grc">Ω</w></p>
 </div>
 </body>
       <back>

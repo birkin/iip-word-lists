@@ -114,13 +114,12 @@
          <div type="edition" ana="#b1" xml:lang="grc" subtype="transcription" xml:id="elus0069.transcription" corresp="#elus0069.translation">
             <p>
                <gap reason="lost" unit="character" extent="unknown"/>
-               <unclear>Χ</unclear>Ι <supplied reason="undefined">ο</supplied>
-               <lb/>ὐδὶς ἀθά<lb/>νατος</p>
+               <orig><unclear>Χ</unclear>Ι</orig> <supplied reason="undefined">ο</supplied><lb break="no"/>ὐδὶς ἀθά<lb break="no"/>νατος</p>
          </div>
          <div type="translation" ana="#b1" xml:id="elus0069.translation" corresp="#elus0069.transcription">
             <p>...no one is immortal</p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="elus0069-1" xml:lang="grc">ΧΙ</w><w xml:id="elus0069-2" xml:lang="grc"><supplied reason="undefined">ο</supplied></w><w xml:id="elus0069-3" xml:lang="grc">ὐδὶς</w> <w xml:id="elus0069-4" xml:lang="grc">ἀθά</w> <w xml:id="elus0069-5" xml:lang="grc">νατος</w></p>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="elus0069-1" xml:lang="grc">ὐδὶς</w> <w xml:id="elus0069-2" xml:lang="grc">ἀθάνατος</w></p>
 </div>
 </body>
       <back>

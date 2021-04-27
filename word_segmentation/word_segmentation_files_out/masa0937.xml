@@ -171,7 +171,7 @@
                 </p>
             </div>
             <div type="edition" subtype="transcription" ana="b1">
-                <p> </p>
+                <p> <expan><abbr>le<unclear>g</unclear></abbr><ex>io</ex></expan> <num value="10">X</num> <supplied reason="lost">Fretensis</supplied></p>
             </div>
             <div type="translation" ana="b1">
                 <p/>
@@ -179,7 +179,7 @@
             <div type="commentary" ana="b1">
                 <p/>
             </div>
-        <div type="edition" subtype="transcription_segmented"><p/>
+        <div type="edition" subtype="transcription_segmented"><p><w xml:id="masa0937-1" xml:lang="la"><expan><abbr>le<unclear>g</unclear></abbr><ex>io</ex></expan></w><num value="10">X</num></p>
 </div>
 </body>
         <back>

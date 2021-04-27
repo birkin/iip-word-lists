@@ -115,15 +115,17 @@
    <text>
       <body>
          <div type="edition" ana="#b1" subtype="transcription" xml:id="caes0202.transcription" corresp="#caes0202.translation">
-            <p>+ θήκη ἀβᾶ Θεοτέ<lb break="no"/>κνου <expan><abbr>διακ</abbr><ex>όνου</ex></expan> παρα<lb break="no"/>μοναρίου. +
-</p>
+            <p><g type="cross">+</g> θήκη ἀβ<supplied reason="omitted">β</supplied>ᾶ Θεοτέ<lb break="no"/>κνου
+                  <expan><abbr>διακ</abbr><ex>όνου</ex></expan> παρα<lb break="no"/>μοναρίου.
+                  <g type="cross">+</g>
+            </p>
          </div>
          <div type="translation" ana="#b1" xml:id="caes0202.translation" corresp="#caes0202.transcription">
             <p>The tomb of <rs type="religTitle">Father </rs>
                <persName xml:lang="grc " ref="persons.xml#caes0202p01">Theoteknos</persName>, <rs type="religTitle">deacon  </rs> and <rs type="religTitle">administrator</rs>.
 		  </p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="caes0202-1" xml:lang="grc">θήκη</w> <w xml:id="caes0202-2" xml:lang="grc">ἀβᾶ</w> <w xml:id="caes0202-3" xml:lang="grc">Θεοτέκνου</w><w xml:id="caes0202-4" xml:lang="grc"><expan><abbr>διακ</abbr><ex>όνου</ex></expan></w><w xml:id="caes0202-5" xml:lang="grc">παραμοναρίου</w></p>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="caes0202-1" xml:lang="grc">θήκη</w> <w xml:id="caes0202-2" xml:lang="grc">ἀβ</w><w xml:id="caes0202-3" xml:lang="grc">ᾶ</w> <w xml:id="caes0202-4" xml:lang="grc">Θεοτέκνου</w><w xml:id="caes0202-5" xml:lang="grc"><expan><abbr>διακ</abbr><ex>όνου</ex></expan></w><w xml:id="caes0202-6" xml:lang="grc">παραμοναρίου</w></p>
 </div>
 </body>
       <back>

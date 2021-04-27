@@ -175,7 +175,7 @@
             </div>
             <!-- The bibl has more contained elements. What is the possible list of values of the biblScope/@type? 
              -->
-        <div type="edition" subtype="transcription_segmented"><p><w xml:id="idum0422-1" xml:lang="arc">קוסמלך</w><w xml:id="idum0422-2" xml:lang="arc"><choice>דקררקד</choice></w><w xml:id="idum0422-3" xml:lang="arc">ס</w><num value="3"><g type="three-vertical-strokes"/></num><w xml:id="idum0422-4" xml:lang="arc">ף</w> <w xml:id="idum0422-5" xml:lang="arc">ב</w><num value="9"><g type="nine-vertical-strokes"/></num><w xml:id="idum0422-6" xml:lang="arc">לאב</w> <w xml:id="idum0422-7" xml:lang="arc">שנת</w><num value="6"><g type="six-vertical-strokes"/></num></p>
+        <div type="edition" subtype="transcription_segmented"><p><w xml:id="idum0422-1" xml:lang="arc">קוסמלך</w><w xml:id="idum0422-2" xml:lang="arc"><choice><unclear>דקר</unclear><unclear>רקד</unclear></choice></w><w xml:id="idum0422-3" xml:lang="arc">ס</w><num value="3"><g type="three-vertical-strokes"/></num><w xml:id="idum0422-4" xml:lang="arc">ף</w> <w xml:id="idum0422-5" xml:lang="arc">ב</w><num value="9"><g type="nine-vertical-strokes"/></num><w xml:id="idum0422-6" xml:lang="arc">לאב</w> <w xml:id="idum0422-7" xml:lang="arc">שנת</w><num value="6"><g type="six-vertical-strokes"/></num></p>
 </div>
 </body>
         <back>

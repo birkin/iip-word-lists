@@ -127,11 +127,11 @@
                <lb/>
                <gap reason="lost" extent="unknown" unit="character"/>
                <gap reason="illegible" quantity="3" unit="character"/>
-               <unclear>Ι</unclear>
+               <orig><unclear>Ι</unclear></orig>
                <gap reason="lost" extent="unknown" unit="character"/>
             </p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="caes0298-1" xml:lang="grc"><supplied reason="undefined">Ἰ</supplied>ωάνο<supplied reason="undefined">υ</supplied></w><w xml:id="caes0298-2" xml:lang="grc">Ι</w></p>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="caes0298-1" xml:lang="grc"><supplied reason="undefined">Ἰ</supplied>ωάνο<supplied reason="undefined">υ</supplied></w></p>
 </div>
 </body>
       <back>

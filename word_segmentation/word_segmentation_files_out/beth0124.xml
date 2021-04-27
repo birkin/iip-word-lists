@@ -129,7 +129,7 @@
                   <persName type="patr" xml:lang="hbo " ref="persons.xml#beth0124p03">Yose </persName>
                </name>. (This is the grave) of Samuel, the <rs type="religTitle" ana="interpretations.xml#teacher">teacher</rs>. </p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="beth0124-1" xml:lang="grc">Ἰάδις</w> <w xml:id="beth0124-2" xml:lang="grc">εὔμυρος</w> <w xml:id="beth0124-3" xml:lang="grc">Σαμουήλου</w> <w xml:id="beth0124-4" xml:lang="grc">υἱὼς</w> <w xml:id="beth0124-5" xml:lang="grc">Ἰωσῆ</w> <w xml:id="beth0124-6" xml:lang="grc">Σαμουῆλοςδιδάσ</w><w xml:id="beth0124-7" xml:lang="grc"><supplied reason="lost">καλος</supplied></w></p>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="beth0124-1" xml:lang="grc">Ἰάδις</w> <w xml:id="beth0124-2" xml:lang="grc">εὔμυρος</w><w xml:id="beth0124-3" xml:lang="grc">α</w><w xml:id="beth0124-4" xml:lang="grc">ουήλου</w> <w xml:id="beth0124-5" xml:lang="grc">υἱὼς</w> <w xml:id="beth0124-6" xml:lang="grc">Ἰωσῆ</w> <w xml:id="beth0124-7" xml:lang="grc">Σαμουῆλοςδιδάσ</w></p>
 </div>
 </body>
       <back>

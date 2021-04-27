@@ -166,7 +166,7 @@
                 <p/>
             </div>
 
-        <div type="edition" subtype="transcription_segmented"><p><w xml:id="idum0593-1" xml:lang="arc">זבד</w><w xml:id="idum0593-2" xml:lang="arc">ל</w> <w xml:id="idum0593-3" xml:lang="arc">בר</w> <w xml:id="idum0593-4" xml:lang="arc">צחרא</w> <w xml:id="idum0593-5" xml:lang="arc">שס</w><num value="10"><g type="phoen-10"/></num><w xml:id="idum0593-6" xml:lang="arc">ב</w><num value="20"><g type="phoen-20"/></num><w xml:id="idum0593-7" xml:lang="arc">לפלקוס</w></p>
+        <div type="edition" subtype="transcription_segmented"><p><w xml:id="idum0593-1" xml:lang="arc">ל</w> <w xml:id="idum0593-2" xml:lang="arc">ב</w><w xml:id="idum0593-3" xml:lang="arc"><unclear>צח</unclear>רא <unclear>שס</unclear></w><num value="10"><g type="phoen-10"/></num><w xml:id="idum0593-4" xml:lang="arc"><unclear>ב</unclear></w><num value="20"><g type="phoen-20"/></num><w xml:id="idum0593-5" xml:lang="arc">לפלקו</w></p>
 </div>
 </body>
         <back>

@@ -129,16 +129,23 @@
       <body>
          <div type="edition" ana="#b1" xml:lang="grc" subtype="transcription" xml:id="zoor0285.transcription" corresp="#zoor0285.translation">
             <p>
-               <choice><sic>Μνημῖον</sic><corr>Μνημεῖον</corr></choice>
+               <choice>
+                  <sic>Μνημῖον</sic>
+                  <corr>Μνημεῖον</corr>
+               </choice>
                <lb/>
-               <choice><sic>Αἰνίας</sic><corr>Αἰνείας</corr></choice> Ἀρι<lb break="no"/>στώνειν ἀ<lb break="no"/>ποθανόν<lb break="no"/>τος
-               μην<lb break="no"/>ὸς Περιτί<lb break="no"/>ου <num>γʹ</num> ἐτ<lb break="no"/>ῶν εʹ.</p>
+               <choice>
+                  <sic>Αἰνίας</sic>
+                  <corr>Αἰνείας</corr>
+               </choice> Ἀρι<lb break="no"/>στώνειν ἀ<lb break="no"/>ποθανόν<lb break="no"/>τος
+                  μην<lb break="no"/>ὸς Περιτί<lb break="no"/>ου <num>γʹ</num> ἐτ<lb break="no"/>ῶν
+                  <num>εʹ</num>.</p>
          </div>
          <div type="translation" ana="#b1" xml:id="zoor0285.translation" corresp="#zoor0285.transcription">
             <p>Monument of Aeneas, (son) of Aristonios (or Ariston), who died on the 3rd (day)
                     of (the) month Peritios, (at the age) of 5 years.</p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="zoor0285-1" xml:lang="grc"><choice>Μνημεῖον</choice></w><w xml:id="zoor0285-2" xml:lang="grc"><choice>Αἰνείας</choice></w><w xml:id="zoor0285-3" xml:lang="grc">Ἀριστώνειν</w> <w xml:id="zoor0285-4" xml:lang="grc">ἀποθανόντος</w> <w xml:id="zoor0285-5" xml:lang="grc">μηνὸς</w> <w xml:id="zoor0285-6" xml:lang="grc">Περιτίου</w><num>γʹ</num><w xml:id="zoor0285-7" xml:lang="grc">ἐτῶν</w> <w xml:id="zoor0285-8" xml:lang="grc">ε</w></p>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="zoor0285-1" xml:lang="grc">Ἀριστώνειν</w> <w xml:id="zoor0285-2" xml:lang="grc">ἀποθανόντος</w> <w xml:id="zoor0285-3" xml:lang="grc">μηνὸς</w> <w xml:id="zoor0285-4" xml:lang="grc">Περιτίου</w><num>γʹ</num><w xml:id="zoor0285-5" xml:lang="grc">ἐτῶν</w><num>εʹ</num></p>
 </div>
 </body>
       <back>

@@ -148,14 +148,14 @@
             <div type="translation" ana="b1">
                 <p>13 seah […]<lb/>3<lb/>[…] 10</p>
             </div>
-        <div type="edition" subtype="transcription_segmented"><p><w xml:id="mare0086-1" xml:lang="arc">ס</w><num value="13">
+        <div type="edition" subtype="transcription_segmented"><p><w xml:id="mare0086-1" xml:lang="arc"><unclear cert="low">ס</unclear></w><num value="13">
                   <g type="phoen-10"/>
                   <g type="two-slanted-strokes"/>
-                  <g type="one-slanted-stroke"/>
+                  <w xml:id="mare0086-2" xml:lang="arc"><unclear><g type="one-slanted-stroke"/></unclear></w>
                </num><num value="3">
                   <g type="three-slanted-strokes"/>
                </num><num value="10">
-                  <g type="phoen-10"/>
+                  <w xml:id="mare0086-3" xml:lang="arc"><unclear><g type="phoen-10"/></unclear></w>
                </num></p>
 </div>
 </body>

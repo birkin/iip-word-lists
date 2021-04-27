@@ -121,18 +121,17 @@
                <supplied reason="undefined">θήκ</supplied>η Λεο<unclear>ν</unclear>
                <gap reason="illegible" quantity="2" unit="character"/>
                <lb/>
-               <gap reason="illegible" quantity="1" unit="character"/><supplied reason="undefined">κα</supplied>ὶ Ἀλε<gap reason="illegible" quantity="2" unit="character"/>
+               <gap reason="illegible" quantity="1" unit="character"/><supplied reason="undefined">κα</supplied>ὶ <orig>Ἀλε</orig><gap reason="illegible" quantity="2" unit="character"/>
                <lb/>
                <gap reason="illegible" quantity="2" unit="character"/>
-               <unclear>κα</unclear>
-               <supplied reason="undefined">ὶ</supplied>
+               <unclear>κα</unclear><supplied reason="undefined">ὶ</supplied>
                <gap reason="illegible" quantity="3" unit="character"/>
             </p>
          </div>
          <div type="translation" ana="#b1" xml:id="caes0266.translation" corresp="#caes0266.transcription">
             <p>The tomb of Leon-- and Ale-- and ....</p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="caes0266-1" xml:lang="grc"><supplied reason="undefined">θήκ</supplied></w><w xml:id="caes0266-2" xml:lang="grc">η</w> <w xml:id="caes0266-3" xml:lang="grc">Λεον</w><w xml:id="caes0266-4" xml:lang="grc"><supplied reason="undefined">κα</supplied></w><w xml:id="caes0266-5" xml:lang="grc">ὶ</w> <w xml:id="caes0266-6" xml:lang="grc">Ἀλε</w> <w xml:id="caes0266-7" xml:lang="grc">κα</w><w xml:id="caes0266-8" xml:lang="grc"><supplied reason="undefined">ὶ</supplied></w></p>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="caes0266-1" xml:lang="grc">η</w> <w xml:id="caes0266-2" xml:lang="grc">Λεο</w><w xml:id="caes0266-3" xml:lang="grc">ὶ</w></p>
 </div>
 </body>
       <back>

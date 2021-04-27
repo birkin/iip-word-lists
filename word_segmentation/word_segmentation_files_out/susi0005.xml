@@ -131,7 +131,7 @@
          <div type="translation" ana="#b1" xml:id="susi0005.translation" corresp="#susi0005.transcription #susi0005.diplomatic">
             <p>(of the) Baptistery (in the month) January (Indiction.....) In the year 654.</p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="susi0005-1" xml:lang="grc"><supplied reason="undefined">φωτι</supplied></w><w xml:id="susi0005-2" xml:lang="grc">στηρίου</w><w xml:id="susi0005-3" xml:lang="grc"><supplied reason="undefined">ἐν</supplied></w><w xml:id="susi0005-4" xml:lang="grc"><supplied reason="undefined">μηνί</supplied></w><w xml:id="susi0005-5" xml:lang="grc"><supplied reason="undefined">Ἰαν</supplied></w><w xml:id="susi0005-6" xml:lang="grc">ουαρίῳ</w> <w xml:id="susi0005-7" xml:lang="grc">Ἰ</w><w xml:id="susi0005-8" xml:lang="grc"><supplied reason="undefined">νδικτιῶνος</supplied></w><w xml:id="susi0005-9" xml:lang="grc"><expan><abbr>ἔτ</abbr><ex>ους</ex></expan></w><w xml:id="susi0005-10" xml:lang="grc"><num value="654">δνχ</num></w></p>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="susi0005-1" xml:lang="grc">στηρίου</w><w xml:id="susi0005-2" xml:lang="grc"><supplied reason="undefined">ἐν</supplied></w><w xml:id="susi0005-3" xml:lang="grc"><supplied reason="undefined">Ἰαν</supplied>ουαρίῳ Ἰ<supplied reason="undefined">νδικτιῶνος</supplied></w><w xml:id="susi0005-4" xml:lang="grc"><expan><abbr>ἔτ</abbr><ex>ους</ex></expan></w><num value="654">δνχ</num></p>
 </div>
 </body>
       <back>

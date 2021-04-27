@@ -109,9 +109,9 @@
       <body>
          <div type="edition" ana="#b1" xml:lang="grc" subtype="transcription" xml:id="elus0102.transcription">
             <p>
-               <gap reason="illegible" quantity="2" unit="character"/>ΥΦΣΙΔ</p>
+               <gap reason="illegible" quantity="2" unit="character"/><orig>ΥΦΣΙΔ</orig></p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="elus0102-1" xml:lang="grc">ΥΦΣΙΔ</w></p>
+      <div type="edition" subtype="transcription_segmented"><p/>
 </div>
 </body>
       <back>

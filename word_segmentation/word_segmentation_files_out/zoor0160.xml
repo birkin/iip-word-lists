@@ -129,19 +129,33 @@
    <text>
       <body>
          <div type="edition" ana="#b1" xml:lang="grc" subtype="transcription" xml:id="zoor0160.transcription" corresp="#zoor0160.translation">
-            <p>+<lb/>
-               <choice><sic>Μνημῖον</sic><corr>Μνημεῖον</corr></choice>
-               <choice><sic>Θεο<g>+</g><lb break="no"/>δούλου</sic><corr>Θεοδούλου</corr></choice> Ἀλέσου,<lb/>
-               ἀποθανό<unclear>ν</unclear>τ<lb break="no"/>ος μετὰ καλο<lb break="no"/>ῦ ὀνόματος<lb/> ἐτῶν <num>ξαʹ</num>,
-                    τοῦ<lb/> ἐν <choice><sic>ἔτι</sic><corr>ἔτει</corr></choice> <num>τλδʹ</num>,<unclear>μη</unclear><lb break="no"/>νὶ <choice><sic>Γορπιέου</sic><corr>Γορπιαίῳ</corr></choice> <num>θκʹ</num>,<lb/> ἡμέρ<unclear>ᾳ</unclear>
-               <expan><abbr>Κυ</abbr><ex>ρίου</ex></expan> <num>ζʹ</num>.<lb/> +</p>
+            <p><g type="cross">+</g><lb/>
+               <choice>
+                  <sic>Μνημῖον</sic>
+                  <corr>Μνημεῖον</corr>
+               </choice>
+               <choice>
+                  <sic>Θεο<g>+</g><lb break="no"/>δούλου</sic>
+                  <corr>Θεοδούλου</corr>
+               </choice> Ἀλέσου,<lb/> ἀποθανό<unclear>ν</unclear>τ<lb break="no"/>ος μετὰ καλο<lb break="no"/>ῦ ὀνόματος<lb/> ἐτῶν <num>ξαʹ</num>, τοῦ<lb/> ἐν <choice>
+                  <sic>ἔτι</sic>
+                  <corr>ἔτει</corr>
+               </choice>
+               <num>τλδʹ</num>,<unclear>μη</unclear><lb break="no"/>νὶ <choice>
+                  <sic>Γορπιέου</sic>
+                  <corr>Γορπιαίῳ</corr>
+               </choice>
+               <num>θκʹ</num>,<lb/> ἡμέρ<unclear>ᾳ</unclear>
+               <expan><abbr>Κυ</abbr><ex>ρίου</ex></expan>
+               <num>ζʹ</num>.<lb/>
+               <g type="cross">+</g></p>
          </div>
          <div type="translation" ana="#b1" xml:id="zoor0160.translation" corresp="#zoor0160.transcription">
             <p>Monument of Theodoulos, (son) of Alesos, who died having a good name (at the age)
                     of 61 years, in the year 334, on (the) 29th (day) of the month Gorpiaios, on
                     (the) 7th day of (the) Lord (Saturday).</p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="zoor0160-1" xml:lang="grc"><choice>Μνημεῖον</choice></w><w xml:id="zoor0160-2" xml:lang="grc"><choice>Θεοδούλου</choice></w><w xml:id="zoor0160-3" xml:lang="grc">Ἀλέσου</w> <w xml:id="zoor0160-4" xml:lang="grc">ἀποθανόντος</w> <w xml:id="zoor0160-5" xml:lang="grc">μετὰ</w> <w xml:id="zoor0160-6" xml:lang="grc">καλοῦ</w> <w xml:id="zoor0160-7" xml:lang="grc">ὀνόματος</w> <w xml:id="zoor0160-8" xml:lang="grc">ἐτῶν</w><num>ξαʹ</num><w xml:id="zoor0160-9" xml:lang="grc">τοῦ</w> <w xml:id="zoor0160-10" xml:lang="grc">ἐν</w><w xml:id="zoor0160-11" xml:lang="grc"><choice>ἔτει</choice></w><num>τλδʹ</num><w xml:id="zoor0160-12" xml:lang="grc">μηνὶ</w><w xml:id="zoor0160-13" xml:lang="grc"><choice>Γορπιαίῳ</choice></w><num>θκʹ</num><w xml:id="zoor0160-14" xml:lang="grc">ἡμέρᾳ</w><w xml:id="zoor0160-15" xml:lang="grc"><expan><abbr>Κυ</abbr><ex>ρίου</ex></expan></w><num>ζʹ</num></p>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="zoor0160-1" xml:lang="grc">Ἀλέσου</w> <w xml:id="zoor0160-2" xml:lang="grc">ἀποθανό</w><w xml:id="zoor0160-3" xml:lang="grc">τος</w> <w xml:id="zoor0160-4" xml:lang="grc">μετὰ</w> <w xml:id="zoor0160-5" xml:lang="grc">καλοῦ</w> <w xml:id="zoor0160-6" xml:lang="grc">ὀνόματος</w> <w xml:id="zoor0160-7" xml:lang="grc">ἐτῶν</w><num>ξαʹ</num><w xml:id="zoor0160-8" xml:lang="grc">τοῦ</w> <w xml:id="zoor0160-9" xml:lang="grc">ἐν</w><num>τλδʹ</num><w xml:id="zoor0160-10" xml:lang="grc">νὶ</w><num>θκʹ</num><w xml:id="zoor0160-11" xml:lang="grc">ἡμέρ</w><w xml:id="zoor0160-12" xml:lang="grc"><expan><abbr>Κυ</abbr><ex>ρίου</ex></expan></w><num>ζʹ</num></p>
 </div>
 </body>
       <back>

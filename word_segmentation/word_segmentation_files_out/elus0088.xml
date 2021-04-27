@@ -108,17 +108,17 @@
    <text>
       <body>
          <div type="edition" ana="#b1" xml:lang="grc" subtype="transcription" xml:id="elus0088.transcription" corresp="#elus0088.translation">
-            <p>Λ<gap reason="illegible" quantity="1" unit="character"/>
-               <gap reason="lost" unit="character" extent="unknown"/>
-               <lb/>ΠΛΗΣ<gap reason="lost" unit="character" extent="unknown"/>
-               <lb/>ψωμὶ ἀπο<gap reason="lost" unit="character" extent="unknown"/>
+            <p><orig>Λ<gap reason="illegible" quantity="1" unit="character"/>
+                  <gap reason="lost" unit="character" extent="unknown"/>
+                  <lb/>ΠΛΗΣ<gap reason="lost" unit="character" extent="unknown"/>
+               </orig><lb/>ψωμὶ ἀπο<gap reason="lost" unit="character" extent="unknown"/>
                <lb/>λάχανα<gap reason="lost" unit="character" extent="unknown"/>
-               <lb/>ΚΑΙΤ</p>
+               <lb/><orig>ΚΑΙΤ</orig></p>
          </div>
          <div type="translation" ana="#b1" xml:id="elus0088.translation" corresp="#elus0088.transcription">
             <p>...bread...vegetables</p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="elus0088-1" xml:lang="grc">Λ</w> <w xml:id="elus0088-2" xml:lang="grc">ΠΛΗΣ</w> <w xml:id="elus0088-3" xml:lang="grc">ψωμὶ</w> <w xml:id="elus0088-4" xml:lang="grc">ἀπο</w> <w xml:id="elus0088-5" xml:lang="grc">λάχανα</w> <w xml:id="elus0088-6" xml:lang="grc">ΚΑΙΤ</w></p>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="elus0088-1" xml:lang="grc">ψωμὶ</w> <w xml:id="elus0088-2" xml:lang="grc">ἀπο</w> <w xml:id="elus0088-3" xml:lang="grc">λάχανα</w></p>
 </div>
 </body>
       <back>

@@ -128,16 +128,58 @@
    <text>
       <body>
          <div type="edition" ana="#b1" xml:lang="grc" subtype="transcription" xml:id="zoor0229.transcription" corresp="#zoor0229.translation">
-            <p>+<lb/> Εἷς Θεός, <choice><sic>ἁ</sic><corr>ὁ</corr></choice>
-               <choice><sic>πόν<lb break="no"/>των</sic><corr>πάντων</corr></choice>
-               <choice><sic>Δεσπάτης</sic><corr>Δεσπότης</corr></choice>.<lb/>
-               <choice><sic>Μνημῖαν</sic><corr>Μνημεῖον</corr></choice>
-               <choice><sic>Ναγα<lb break="no"/>δέλη</sic><corr>Μαγαδέλη</corr></choice> Φυάλου,<lb/>
-               <choice><sic>ἀπαθανοῦσα</sic><corr>ἀποθανοῦσα</corr></choice>
-               <choice><sic>ἐτῶ<g>+</g>lb break="no"/&gt;ν</sic><corr>ἐτῶν</corr></choice>
-               <choice><sic>δεκαπένται</sic><corr>δεκαπέντε,</corr></choice> ἒ<lb break="no"/>τους <num>τοʹ</num>, <choice><sic>μηνὰς</sic><corr>μηνὸς</corr></choice>
-               <choice><sic>Παν<lb break="no"/>έμου</sic><corr>Πανήμου</corr></choice>, <choice><sic>ἡνέρᾳ</sic><corr>ἡμέρᾳ</corr></choice>
-               <choice><sic>τεγάρ<lb break="no"/>τῃ</sic><corr>τετάρτῃ</corr></choice>. <choice><sic>Θάρσι</sic><corr>Θάρσει</corr></choice>, <choice><sic>οὐδὶς</sic><corr>οὐδείς</corr></choice> ἀθάνατος.</p>
+            <p><g type="cross">+</g><lb/> Εἷς Θεός, <choice>
+                  <sic>ἁ</sic>
+                  <corr>ὁ</corr>
+               </choice>
+               <choice>
+                  <sic>πόν<lb break="no"/>των</sic>
+                  <corr>πάντων</corr>
+               </choice>
+               <choice>
+                  <sic>Δεσπάτης</sic>
+                  <corr>Δεσπότης</corr>
+               </choice>.<lb/>
+               <choice>
+                  <sic>Μνημῖαν</sic>
+                  <corr>Μνημεῖον</corr>
+               </choice>
+               <choice>
+                  <sic>Ναγα<lb break="no"/>δέλη</sic>
+                  <corr>Μαγαδέλη</corr>
+               </choice> Φυάλου,<lb/>
+               <choice>
+                  <sic>ἀπαθανοῦσα</sic>
+                  <corr>ἀποθανοῦσα</corr>
+               </choice>
+               <choice>
+                  <sic>ἐτῶ<g>+</g>lb break="no"/&gt;ν</sic>
+                  <corr>ἐτῶν</corr>
+               </choice>
+               <choice>
+                  <sic>δεκαπένται</sic>
+                  <corr>δεκαπέντε,</corr>
+               </choice> ἒ<lb break="no"/>τους <num>τοʹ</num>, <choice>
+                  <sic>μηνὰς</sic>
+                  <corr>μηνὸς</corr>
+               </choice>
+               <choice>
+                  <sic>Παν<lb break="no"/>έμου</sic>
+                  <corr>Πανήμου</corr>
+               </choice>, <choice>
+                  <sic>ἡνέρᾳ</sic>
+                  <corr>ἡμέρᾳ</corr>
+               </choice>
+               <choice>
+                  <sic>τεγάρ<lb break="no"/>τῃ</sic>
+                  <corr>τετάρτῃ</corr>
+               </choice>. <choice>
+                  <sic>Θάρσι</sic>
+                  <corr>Θάρσει</corr>
+               </choice>, <choice>
+                  <sic>οὐδὶς</sic>
+                  <corr>οὐδείς</corr>
+               </choice> ἀθάνατος.</p>
          </div>
          <div type="translation" ana="#b1" xml:id="zoor0229.translation" corresp="#zoor0229.transcription">
             <p> One (is) the God, the Lord of all. Monument of Magadele, (daughter) of Phialos,
@@ -145,7 +187,7 @@
                     Panemos, on (the) fourth day (Wednesday). Be of good cheer, no one (is)
                     immortal.</p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="zoor0229-1" xml:lang="grc">Εἷς</w> <w xml:id="zoor0229-2" xml:lang="grc">Θεός</w><w xml:id="zoor0229-3" xml:lang="grc"><choice>ὁ</choice></w><w xml:id="zoor0229-4" xml:lang="grc"><choice>πάντων</choice></w><w xml:id="zoor0229-5" xml:lang="grc"><choice>Δεσπότης</choice></w><w xml:id="zoor0229-6" xml:lang="grc"><choice>Μνημεῖον</choice></w><w xml:id="zoor0229-7" xml:lang="grc"><choice>Μαγαδέλη</choice></w><w xml:id="zoor0229-8" xml:lang="grc">Φυάλου</w><w xml:id="zoor0229-9" xml:lang="grc"><choice>ἀποθανοῦσα</choice></w><w xml:id="zoor0229-10" xml:lang="grc"><choice>ἐτῶν</choice></w><w xml:id="zoor0229-11" xml:lang="grc"><choice>δεκαπέντε,</choice></w><w xml:id="zoor0229-12" xml:lang="grc">ἒτους</w><num>τοʹ</num><w xml:id="zoor0229-13" xml:lang="grc"><choice>μηνὸς</choice></w><w xml:id="zoor0229-14" xml:lang="grc"><choice>Πανήμου</choice></w><w xml:id="zoor0229-15" xml:lang="grc"><choice>ἡμέρᾳ</choice></w><w xml:id="zoor0229-16" xml:lang="grc"><choice>τετάρτῃ</choice></w><w xml:id="zoor0229-17" xml:lang="grc"><choice>Θάρσει</choice></w><w xml:id="zoor0229-18" xml:lang="grc"><choice>οὐδείς</choice></w><w xml:id="zoor0229-19" xml:lang="grc">ἀθάνατος</w></p>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="zoor0229-1" xml:lang="grc">Εἷς</w> <w xml:id="zoor0229-2" xml:lang="grc">Θεός</w><w xml:id="zoor0229-3" xml:lang="grc">Φυάλου</w><w xml:id="zoor0229-4" xml:lang="grc">ἒτους</w><num>τοʹ</num><w xml:id="zoor0229-5" xml:lang="grc">ἀθάνατος</w></p>
 </div>
 </body>
       <back>

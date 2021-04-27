@@ -125,7 +125,9 @@
                 <p><gap reason="lost" extent="unknown" unit="character"/>Σ ΕΙΡ</p>
             </div>
             <div type="edition" subtype="transcription" ana="b1">
-                <p><gap reason="lost" extent="unknown" unit="character"/><supplied reason="lost">εἰ</supplied>ς εἰρ<supplied reason="lost">ήνην</supplied><gap reason="lost" extent="unknown" unit="character"/></p>
+                <p><gap reason="lost" extent="unknown" unit="character"/>
+                    <supplied reason="lost">εἰ</supplied>ς εἰρ<supplied reason="lost">ήνην</supplied>
+                    <gap reason="lost" extent="unknown" unit="character"/></p>
             </div>
             <div type="translation" ana="b1">
                 <p>(Go) in peace.</p>
@@ -134,7 +136,7 @@
                 <p>The text might reflect a biblical passage, since it is found on a chancel screen,
                     but most of the inscription is uncertain and cannot be restored.</p>
             </div>
-        <div type="edition" subtype="transcription_segmented"><p><w xml:id="caes0431-1" xml:lang="grc">ς</w> <w xml:id="caes0431-2" xml:lang="grc">εἰρ</w></p>
+        <div type="edition" subtype="transcription_segmented"><p><w xml:id="caes0431-1" xml:lang="grc"><supplied reason="lost">εἰ</supplied>ς εἰρ<supplied reason="lost">ήνην</supplied></w></p>
 </div>
 </body>
         <back>

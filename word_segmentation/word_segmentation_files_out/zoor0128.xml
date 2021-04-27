@@ -125,12 +125,42 @@
       <body>
          <div type="edition" ana="#b1" xml:lang="grc" subtype="transcription" xml:id="zoor0128.transcription" corresp="#zoor0128.translation">
             <p>
-               <choice><sic>Μνεμῖον</sic><corr>Μνημεῖον</corr></choice> Ἀκλαύδις <choice><sic>Θεό<lb break="no"/>δο<unclear>ρ</unclear>ος</sic><corr>Θεόδωρος</corr></choice>, <choice><sic>ἀποθονώντος</sic><corr>ἀποθανόντος</corr></choice>
+               <choice>
+                  <sic>Μνεμῖον</sic>
+                  <corr>Μνημεῖον</corr>
+               </choice> Ἀκλαύδις <choice>
+                  <sic>Θεό<lb break="no"/>δο<unclear>ρ</unclear>ος</sic>
+                  <corr>Θεόδωρος</corr>
+               </choice>, <choice>
+                  <sic>ἀποθονώντος</sic>
+                  <corr>ἀποθανόντος</corr>
+               </choice>
                <lb/> ἐτῶν <num>λςʹ</num>,<lb/>
-               <choice><sic>διὰ ἔτους</sic><corr>ἐν ἔτει</corr></choice>
-               <choice><sic>τριακοσσυοσ<lb/>τοῦ</sic><corr>τριακοσιοστῷ</corr></choice> <num>θʹ</num> καὶ <choice><sic>δεκότου</sic><corr>δεκάτῳ</corr></choice>,<lb/>
-               <choice><sic>μενὸς</sic><corr>μηνὸς</corr></choice> Περιτίου <num>δκʹ</num>,<lb/>
-               <choice><sic>ἑμέρᾳ</sic><corr>ἡμέρᾳ</corr></choice> Κυρίου <num>βʹ</num>,<lb/> ὥρᾳ <choice><sic>πέντε</sic><corr>πέμπτῃ</corr></choice>.<lb/> + +</p>
+               <choice>
+                  <sic>διὰ ἔτους</sic>
+                  <corr>ἐν ἔτει</corr>
+               </choice>
+               <choice>
+                  <sic>τριακοσσυοσ<lb/>τοῦ</sic>
+                  <corr>τριακοσιοστῷ</corr>
+               </choice>
+               <num>θʹ</num> καὶ <choice>
+                  <sic>δεκότου</sic>
+                  <corr>δεκάτῳ</corr>
+               </choice>,<lb/>
+               <choice>
+                  <sic>μενὸς</sic>
+                  <corr>μηνὸς</corr>
+               </choice> Περιτίου <num>δκʹ</num>,<lb/>
+               <choice>
+                  <sic>ἑμέρᾳ</sic>
+                  <corr>ἡμέρᾳ</corr>
+               </choice> Κυρίου <num>βʹ</num>,<lb/> ὥρᾳ <choice>
+                  <sic>πέντε</sic>
+                  <corr>πέμπτῃ</corr>
+               </choice>.<lb/>
+               <g type="cross">+</g>
+               <g type="cross">+</g></p>
          </div>
          <div type="translation" ana="#b1" xml:id="zoor0128.translation" corresp="#zoor0128.transcription">
             <p>Monument of Aklaudi(o)s (Claudius?) (son) of Theodoros, who died (at the age) of
@@ -138,7 +168,7 @@
                     month Peritios, on (the) 2nd day of (the) Lord (Monday), at (the) fifth
                     hour.</p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="zoor0128-1" xml:lang="grc"><choice>Μνημεῖον</choice></w><w xml:id="zoor0128-2" xml:lang="grc">Ἀκλαύδις</w><w xml:id="zoor0128-3" xml:lang="grc"><choice>Θεόδωρος</choice></w><w xml:id="zoor0128-4" xml:lang="grc"><choice>ἀποθανόντος</choice></w><w xml:id="zoor0128-5" xml:lang="grc">ἐτῶν</w><num>λςʹ</num><w xml:id="zoor0128-6" xml:lang="grc"><choice>ἐν ἔτει</choice></w><w xml:id="zoor0128-7" xml:lang="grc"><choice>τριακοσιοστῷ</choice></w><num>θʹ</num><w xml:id="zoor0128-8" xml:lang="grc">καὶ</w><w xml:id="zoor0128-9" xml:lang="grc"><choice>δεκάτῳ</choice></w><w xml:id="zoor0128-10" xml:lang="grc"><choice>μηνὸς</choice></w><w xml:id="zoor0128-11" xml:lang="grc">Περιτίου</w><num>δκʹ</num><w xml:id="zoor0128-12" xml:lang="grc"><choice>ἡμέρᾳ</choice></w><w xml:id="zoor0128-13" xml:lang="grc">Κυρίου</w><num>βʹ</num><w xml:id="zoor0128-14" xml:lang="grc">ὥρᾳ</w><w xml:id="zoor0128-15" xml:lang="grc"><choice>πέμπτῃ</choice></w></p>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="zoor0128-1" xml:lang="grc">Ἀκλαύδις</w><w xml:id="zoor0128-2" xml:lang="grc">ἐτῶν</w><num>λςʹ</num><num>θʹ</num><w xml:id="zoor0128-3" xml:lang="grc">καὶ</w><w xml:id="zoor0128-4" xml:lang="grc">Περιτίου</w><num>δκʹ</num><w xml:id="zoor0128-5" xml:lang="grc">Κυρίου</w><num>βʹ</num><w xml:id="zoor0128-6" xml:lang="grc">ὥρᾳ</w></p>
 </div>
 </body>
       <back>

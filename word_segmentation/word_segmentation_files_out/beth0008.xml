@@ -120,7 +120,7 @@
                <persName xml:lang="hbo " ref="persons.xml#beth0008p01">Mariamene </persName>
             </p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="beth0008-1" xml:lang="grc">Μαριαμμένη</w></p>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="beth0008-1" xml:lang="grc">Μαρ</w><w xml:id="beth0008-2" xml:lang="grc">αμμένη</w></p>
 </div>
 </body>
       <back>

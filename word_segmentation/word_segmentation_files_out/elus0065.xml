@@ -114,10 +114,10 @@
          <div type="edition" ana="#b1" xml:lang="grc" subtype="transcription" xml:id="elus0065.transcription">
             <p>
                <gap reason="lost" unit="character" extent="unknown"/>
-               <unclear>Γ</unclear>ΙΑ<gap reason="lost" unit="character" extent="unknown"/>
+               <orig><unclear>Γ</unclear>ΙΑ</orig><gap reason="lost" unit="character" extent="unknown"/>
             </p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="elus0065-1" xml:lang="grc">ΓΙΑ</w></p>
+      <div type="edition" subtype="transcription_segmented"><p/>
 </div>
 </body>
       <back>

@@ -133,15 +133,21 @@
    <text>
       <body>
          <div type="edition" ana="#b1" xml:lang="grc" subtype="transcription" xml:id="zoor0169.transcription" corresp="#zoor0169.translation">
-            <p>+ + +<lb/>
-               Μνημ<supplied reason="omitted">ε</supplied>ῖον Κύρα +<lb/> Ραβιβήλου, <choice><sic>ἀπο<g>+</g><lb break="no"/>θ<unclear>α</unclear>νοῦσα</sic><corr>ἀποθανοῦσα</corr></choice> μετὰ κα<lb break="no"/>λοῦ ὀνόματος
-                    καὶ<lb/> καλῆς πίστεως <choice><sic>ἐ<height>+</height><lb break="no"/>τῶν</sic><corr>ἐτῶν</corr></choice> <num value="15">ιεʹ</num>, ἐν ἔτ<supplied reason="omitted">ε</supplied>ι
-               <choice><sic>τρια<lb break="no"/>κοσσιοστοῦ</sic><corr>τριακοσιοστοῦ</corr></choice> τρια<lb break="no"/>κοστοῦ ἑκτοῦ,
-                        μη<lb break="no"/><supplied reason="undefined">ν</supplied><unclear>ὸ</unclear>ς Περιτίου <num value="6">ηʹ</num>, +<lb/>
-               <supplied reason="lost">ἡμέρᾳ</supplied> Κυρίου <num value="6">ςʹ</num>. +<lb/>
-               <supplied reason="lost">Θάρσει</supplied>, <supplied reason="omitted">ο</supplied><unclear>ὐ</unclear>δὶς
-                        ἀθά<lb break="no"/><supplied reason="lost">νατος</supplied>.
-            </p>
+            <p><g type="cross">+</g>
+               <g type="cross">+</g>
+               <g type="cross">+</g><lb/> Μνημ<supplied reason="omitted">ε</supplied>ῖον Κύρα <g type="cross">+</g><lb/> Ραβιβήλου, <choice>
+                  <sic>ἀπο<g>+</g><lb break="no"/>θ<unclear>α</unclear>νοῦσα</sic>
+                  <corr>ἀποθανοῦσα</corr>
+               </choice> μετὰ κα<lb break="no"/>λοῦ ὀνόματος καὶ<lb/> καλῆς πίστεως <choice>
+                  <sic>ἐ<height>+</height><lb break="no"/>τῶν</sic>
+                  <corr>ἐτῶν</corr>
+               </choice>
+               <num value="15">ιεʹ</num>, ἐν ἔτ<supplied reason="omitted">ε</supplied>ι <choice>
+                  <sic>τρια<lb break="no"/>κοσσιοστοῦ</sic>
+                  <corr>τριακοσιοστοῦ</corr>
+               </choice> τρια<lb break="no"/>κοστοῦ ἑκτοῦ, μη<lb break="no"/><supplied reason="undefined">ν</supplied><unclear>ὸ</unclear>ς Περιτίου <num value="6">ηʹ</num>, <g type="cross">+</g><lb/>
+               <supplied reason="lost">ἡμέρᾳ</supplied> Κυρίου <num value="6">ςʹ</num>. <g type="cross">+</g><lb/>
+               <supplied reason="lost">Θάρσει</supplied>, <supplied reason="omitted">ο</supplied><unclear>ὐ</unclear>δὶς ἀθά<lb break="no"/><supplied reason="lost">νατος</supplied>. </p>
          </div>
          <div type="translation" ana="#b1" xml:id="zoor0169.translation" corresp="#zoor0169.transcription">
             <p>Monument of Kyra, (daughter) of Rabibelos, who died having a good name and good
@@ -149,7 +155,7 @@
                     (the) 8th (day) of (the) month Peritios, on (the) 6th [day] of the Lord
                     (Friday). [Be of good cheer], no one (is) immortal.</p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="zoor0169-1" xml:lang="grc">Μνημ</w><w xml:id="zoor0169-2" xml:lang="grc"><supplied reason="omitted">ε</supplied></w><w xml:id="zoor0169-3" xml:lang="grc">ῖον</w> <w xml:id="zoor0169-4" xml:lang="grc">Κύρα</w> <w xml:id="zoor0169-5" xml:lang="grc">Ραβιβήλου</w> <w xml:id="zoor0169-6" xml:lang="grc">ἀποθανοῦσα</w> <w xml:id="zoor0169-7" xml:lang="grc">μετὰ</w> <w xml:id="zoor0169-8" xml:lang="grc">καλοῦ</w> <w xml:id="zoor0169-9" xml:lang="grc">ὀνόματος</w> <w xml:id="zoor0169-10" xml:lang="grc">καὶ</w> <w xml:id="zoor0169-11" xml:lang="grc">καλῆς</w> <w xml:id="zoor0169-12" xml:lang="grc">πίστεως</w> <w xml:id="zoor0169-13" xml:lang="grc">ἐτῶν</w><w xml:id="zoor0169-14" xml:lang="grc"><num value="15">ιεʹ</num></w><w xml:id="zoor0169-15" xml:lang="grc">ἐν</w> <w xml:id="zoor0169-16" xml:lang="grc">ἔτ</w><w xml:id="zoor0169-17" xml:lang="grc"><supplied reason="omitted">ε</supplied></w><w xml:id="zoor0169-18" xml:lang="grc">ι</w> <w xml:id="zoor0169-19" xml:lang="grc">τριακοσιοστοῦ</w> <w xml:id="zoor0169-20" xml:lang="grc">τριακοστοῦ</w> <w xml:id="zoor0169-21" xml:lang="grc">ἑκτοῦ</w> <w xml:id="zoor0169-22" xml:lang="grc">μη</w><w xml:id="zoor0169-23" xml:lang="grc"><supplied reason="undefined">ν</supplied></w><w xml:id="zoor0169-24" xml:lang="grc">ὸς</w> <w xml:id="zoor0169-25" xml:lang="grc">Περιτίου</w><w xml:id="zoor0169-26" xml:lang="grc"><num value="6">ηʹ</num></w><w xml:id="zoor0169-27" xml:lang="grc"><supplied reason="lost">ἡμέρᾳ</supplied></w><w xml:id="zoor0169-28" xml:lang="grc">Κυρίου</w><w xml:id="zoor0169-29" xml:lang="grc"><num value="6">ςʹ</num></w><w xml:id="zoor0169-30" xml:lang="grc"><supplied reason="lost">Θάρσει</supplied></w><w xml:id="zoor0169-31" xml:lang="grc"><supplied reason="omitted">ο</supplied></w><w xml:id="zoor0169-32" xml:lang="grc">ὐδὶς</w> <w xml:id="zoor0169-33" xml:lang="grc">ἀθά</w><w xml:id="zoor0169-34" xml:lang="grc"><supplied reason="lost">νατος</supplied></w></p>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="zoor0169-1" xml:lang="grc">Μνημ</w><w xml:id="zoor0169-2" xml:lang="grc">ῖον</w> <w xml:id="zoor0169-3" xml:lang="grc">Κύρα</w><w xml:id="zoor0169-4" xml:lang="grc">Ραβιβήλου</w><w xml:id="zoor0169-5" xml:lang="grc">μετὰ</w> <w xml:id="zoor0169-6" xml:lang="grc">καλοῦ</w> <w xml:id="zoor0169-7" xml:lang="grc">ὀνόματος</w> <w xml:id="zoor0169-8" xml:lang="grc">καὶ</w> <w xml:id="zoor0169-9" xml:lang="grc">καλῆς</w> <w xml:id="zoor0169-10" xml:lang="grc">πίστεως</w><num value="15">ιεʹ</num><w xml:id="zoor0169-11" xml:lang="grc">ἐν</w> <w xml:id="zoor0169-12" xml:lang="grc">ἔτ</w><w xml:id="zoor0169-13" xml:lang="grc">ι</w><w xml:id="zoor0169-14" xml:lang="grc">τριακοστοῦ</w> <w xml:id="zoor0169-15" xml:lang="grc">ἑκτοῦ</w> <w xml:id="zoor0169-16" xml:lang="grc">μη</w><w xml:id="zoor0169-17" xml:lang="grc">ς</w> <w xml:id="zoor0169-18" xml:lang="grc">Περιτίου</w><num value="6">ηʹ</num><w xml:id="zoor0169-19" xml:lang="grc"><supplied reason="lost">ἡμέρᾳ</supplied></w><w xml:id="zoor0169-20" xml:lang="grc">Κυρίου</w><num value="6">ςʹ</num><w xml:id="zoor0169-21" xml:lang="grc">δὶς</w> <w xml:id="zoor0169-22" xml:lang="grc">ἀθά</w></p>
 </div>
 </body>
       <back>

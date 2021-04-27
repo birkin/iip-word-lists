@@ -180,7 +180,7 @@
             </div>
             <!-- The bibl has more contained elements. What is the possible list of values of the biblScope/@type? 
              -->
-        <div type="edition" subtype="transcription_segmented"><p><w xml:id="idum0122-1" xml:lang="arc">ב</w><num value="8">8</num><w xml:id="idum0122-2" xml:lang="arc">לתמוז</w> <w xml:id="idum0122-3" xml:lang="arc">שנת</w><num value="10">10</num><w xml:id="idum0122-4" xml:lang="arc">שכוי</w> <w xml:id="idum0122-5" xml:lang="arc">לחזהאל</w><w xml:id="idum0122-6" xml:lang="arc">בני</w> <w xml:id="idum0122-7" xml:lang="arc">קוצי</w> <w xml:id="idum0122-8" xml:lang="arc">שס</w><num value="2">2</num><w xml:id="idum0122-9" xml:lang="arc">ק</w><num value="3">3</num></p>
+        <div type="edition" subtype="transcription_segmented"><p><w xml:id="idum0122-1" xml:lang="arc">ב</w><num value="8">8</num><w xml:id="idum0122-2" xml:lang="arc">לתמוז</w> <w xml:id="idum0122-3" xml:lang="arc">שנת</w><num value="10">10</num><w xml:id="idum0122-4" xml:lang="arc">שכוי</w> <w xml:id="idum0122-5" xml:lang="arc">לחזהאל</w><w xml:id="idum0122-6" xml:lang="arc"><hi rend="supraline">מן</hi></w><w xml:id="idum0122-7" xml:lang="arc">בני</w> <w xml:id="idum0122-8" xml:lang="arc">קוצי</w> <w xml:id="idum0122-9" xml:lang="arc">שס</w><num value="2">2</num><w xml:id="idum0122-10" xml:lang="arc">ק</w><num value="3">3</num></p>
 </div>
 </body>
         <back>

@@ -116,10 +116,11 @@
          <div type="edition" ana="#b1" subtype="transcription" xml:id="caes0378.transcription">
             <p>
                <gap reason="illegible" quantity="2" unit="character"/>ταυρί<unclear>σ</unclear>κου<lb/>
-               <gap reason="illegible" quantity="2" unit="character"/>ότου τοῖς τ<gap reason="illegible" atLeast="1" atMost="3" unit="character"/>
+               <gap reason="illegible" quantity="2" unit="character"/><orig>ότου</orig> τοῖς
+                  <orig>τ</orig><gap reason="illegible" atLeast="1" atMost="3" unit="character"/>
             </p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="caes0378-1" xml:lang="grc">ταυρίσκου</w> <w xml:id="caes0378-2" xml:lang="grc">ότου</w> <w xml:id="caes0378-3" xml:lang="grc">τοῖς</w> <w xml:id="caes0378-4" xml:lang="grc">τ</w></p>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="caes0378-1" xml:lang="grc">ταυρί</w><w xml:id="caes0378-2" xml:lang="grc">κου</w><w xml:id="caes0378-3" xml:lang="grc">τοῖς</w></p>
 </div>
 </body>
       <back>

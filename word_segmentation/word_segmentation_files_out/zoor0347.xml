@@ -128,7 +128,7 @@
             <p>Here lies Theodoros, (son) of Georgios, who lived five days (and died) in the
                     month of Xanthikos, in the year 479.</p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="zoor0347-1" xml:lang="grc">Ἐνθάδε</w> <w xml:id="zoor0347-2" xml:lang="grc">κῖτε</w><w xml:id="zoor0347-3" xml:lang="grc"><choice> Θεόδωρος</choice></w><w xml:id="zoor0347-4" xml:lang="grc">Γεωργίου</w> <w xml:id="zoor0347-5" xml:lang="grc">ζήσας</w> <w xml:id="zoor0347-6" xml:lang="grc">ἠμέρας</w><w xml:id="zoor0347-7" xml:lang="grc"><expan><abbr>π</abbr><ex>έν</ex><abbr>τε</abbr></expan></w><w xml:id="zoor0347-8" xml:lang="grc">ἐν</w><w xml:id="zoor0347-9" xml:lang="grc"><expan><abbr>μη</abbr><ex>νὶ</ex></expan></w><w xml:id="zoor0347-10" xml:lang="grc"><choice>Ξαθικοῦ</choice></w><w xml:id="zoor0347-11" xml:lang="grc">τοῦ</w><w xml:id="zoor0347-12" xml:lang="grc"><choice>ἔτους</choice></w><w xml:id="zoor0347-13" xml:lang="grc">υοθ</w></p>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="zoor0347-1" xml:lang="grc">Ἐνθάδε</w> <w xml:id="zoor0347-2" xml:lang="grc">κῖτε</w><w xml:id="zoor0347-3" xml:lang="grc"><choice> Θεόδωρος</choice></w><w xml:id="zoor0347-4" xml:lang="grc">Γεωργίου</w> <w xml:id="zoor0347-5" xml:lang="grc">ζήσας</w> <w xml:id="zoor0347-6" xml:lang="grc">ἠμέρας</w><w xml:id="zoor0347-7" xml:lang="grc"><expan><abbr>π</abbr><ex>έν</ex><abbr>τε</abbr></expan>, ἐν <expan><abbr>μη</abbr><ex>νὶ</ex></expan></w><w xml:id="zoor0347-8" xml:lang="grc"><choice>Ξαθικοῦ</choice>, τοῦ <choice>ἔτους</choice></w><w xml:id="zoor0347-9" xml:lang="grc">υοθ</w></p>
 </div>
 </body>
       <back>

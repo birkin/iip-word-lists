@@ -149,10 +149,10 @@
             </div>
         <div type="edition" subtype="transcription_segmented"><p><w xml:id="mare0078-1" xml:lang="arc">ב</w><num value="22">
                   <g type="phoen-20"/>
-                        <g type="two-slanted-strokes"/>
-               </num><w xml:id="mare0078-2" xml:lang="arc">ק</w><num value="5">
+                        <w xml:id="mare0078-2" xml:lang="arc"><unclear><g type="two-slanted-strokes"/></unclear></w>
+               </num><w xml:id="mare0078-3" xml:lang="arc">ק</w><num value="5">
                   <g type="five-slanted-strokes"/>
-               </num><w xml:id="mare0078-3" xml:lang="arc">פ</w></p>
+               </num><w xml:id="mare0078-4" xml:lang="arc"><unclear cert="low">פ</unclear></w></p>
 </div>
 </body>
         <back>

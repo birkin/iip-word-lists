@@ -139,7 +139,7 @@
                 <p>A short formula or a broken context missing details of both names or products</p>
             </div>
         <div type="edition" subtype="transcription_segmented"><p><w xml:id="mare0089-1" xml:lang="arc">ס</w><num value="20">
-                  <g type="phoen-20"/>
+                  <w xml:id="mare0089-2" xml:lang="arc"><unclear><g type="phoen-20"/></unclear></w>
                </num></p>
 </div>
 </body>

@@ -136,21 +136,50 @@
    <text>
       <body>
          <div type="edition" ana="#b1" xml:lang="grc" subtype="transcription" xml:id="zoor0172.transcription" corresp="#zoor0172.translation">
-            <p>+<lb/>
-               <choice><sic>Μνημῖον</sic><corr>Μνημεῖον</corr></choice> Κύρας<lb/> Ἀλφίου, <choice><sic>ἀπαθα<lb break="no"/>νόντος</sic><corr>ἀποθανόντος</corr></choice> μετὰ <choice><sic>κ<lb break="no"/>ολοῦ</sic><corr>καλοῦ</corr></choice>
-               <choice><sic>ἀνάματος</sic><corr>ὀνόματος</corr></choice>
-               <lb/> ἐτῶν <num>ιζʹ</num>, ἐν<lb/> <num>τληʹ</num>, ἐν <choice><sic>μενὶ</sic><corr>μηνὶ</corr></choice>
+            <p><g type="cross">+</g><lb/>
+               <choice>
+                  <sic>Μνημῖον</sic>
+                  <corr>Μνημεῖον</corr>
+               </choice> Κύρας<lb/> Ἀλφίου, <choice>
+                  <sic>ἀπαθα<lb break="no"/>νόντος</sic>
+                  <corr>ἀποθανόντος</corr>
+               </choice> μετὰ <choice>
+                  <sic>κ<lb break="no"/>ολοῦ</sic>
+                  <corr>καλοῦ</corr>
+               </choice>
+               <choice>
+                  <sic>ἀνάματος</sic>
+                  <corr>ὀνόματος</corr>
+               </choice>
+               <lb/> ἐτῶν <num>ιζʹ</num>, ἐν<lb/>
+               <num>τληʹ</num>, ἐν <choice>
+                  <sic>μενὶ</sic>
+                  <corr>μηνὶ</corr>
+               </choice>
                <lb/>
-               <choice><sic>Πανέμου</sic><corr>Πανήμου</corr></choice> <num>ηκʹ</num>.<lb/>
-               <choice><sic>Θάρσι</sic><corr>Θάρσει</corr></choice>, <choice><sic>οὐδὶς</sic><corr>οὐδεὶς</corr></choice>
-               <choice><sic>ἀθάν<lb break="no"/>τος</sic><corr>ἀθάνατος</corr></choice>.</p>
+               <choice>
+                  <sic>Πανέμου</sic>
+                  <corr>Πανήμου</corr>
+               </choice>
+               <num>ηκʹ</num>.<lb/>
+               <choice>
+                  <sic>Θάρσι</sic>
+                  <corr>Θάρσει</corr>
+               </choice>, <choice>
+                  <sic>οὐδὶς</sic>
+                  <corr>οὐδεὶς</corr>
+               </choice>
+               <choice>
+                  <sic>ἀθάν<lb break="no"/>τος</sic>
+                  <corr>ἀθάνατος</corr>
+               </choice>.</p>
          </div>
          <div type="translation" ana="#b1" xml:id="zoor0172.translation" corresp="#zoor0172.transcription">
             <p>Monument of Kyra, (daughter) of Alphios, who died having a good name (at the age)
                     of 17 years, in (the year) 338, on (the) 28th (day) of the month Panemos. Be of good cheer, no one (is)
                     immortal.</p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="zoor0172-1" xml:lang="grc"><choice>Μνημεῖον</choice></w><w xml:id="zoor0172-2" xml:lang="grc">Κύρας</w> <w xml:id="zoor0172-3" xml:lang="grc">Ἀλφίου</w><w xml:id="zoor0172-4" xml:lang="grc"><choice>ἀποθανόντος</choice></w><w xml:id="zoor0172-5" xml:lang="grc">μετὰ</w><w xml:id="zoor0172-6" xml:lang="grc"><choice>καλοῦ</choice></w><w xml:id="zoor0172-7" xml:lang="grc"><choice>ὀνόματος</choice></w><w xml:id="zoor0172-8" xml:lang="grc">ἐτῶν</w><num>ιζʹ</num><w xml:id="zoor0172-9" xml:lang="grc">ἐν</w><num>τληʹ</num><w xml:id="zoor0172-10" xml:lang="grc">ἐν</w><w xml:id="zoor0172-11" xml:lang="grc"><choice>μηνὶ</choice></w><w xml:id="zoor0172-12" xml:lang="grc"><choice>Πανήμου</choice></w><num>ηκʹ</num><w xml:id="zoor0172-13" xml:lang="grc"><choice>Θάρσει</choice></w><w xml:id="zoor0172-14" xml:lang="grc"><choice>οὐδεὶς</choice></w><w xml:id="zoor0172-15" xml:lang="grc"><choice>ἀθάνατος</choice></w></p>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="zoor0172-1" xml:lang="grc">Κύρας</w> <w xml:id="zoor0172-2" xml:lang="grc">Ἀλφίου</w><w xml:id="zoor0172-3" xml:lang="grc">μετὰ</w><w xml:id="zoor0172-4" xml:lang="grc">ἐτῶν</w><num>ιζʹ</num><w xml:id="zoor0172-5" xml:lang="grc">ἐν</w><num>τληʹ</num><w xml:id="zoor0172-6" xml:lang="grc">ἐν</w><num>ηκʹ</num></p>
 </div>
 </body>
       <back>

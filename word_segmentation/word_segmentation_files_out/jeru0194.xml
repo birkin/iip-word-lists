@@ -129,11 +129,7 @@
          <div type="translation" ana="#b1" xml:id="jeru0194.translation" corresp="#jeru0194.transcription">
             <p>drachma 1, obol 4</p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="jeru0194-1" xml:lang="he">ר</w><w xml:id="jeru0194-2" xml:lang="he"><supplied reason="undefined">
-                        בע
-                    </supplied></w><w xml:id="jeru0194-3" xml:lang="he">מ</w><w xml:id="jeru0194-4" xml:lang="he"><supplied reason="undefined">
-                       עה
-                   </supplied></w></p>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="jeru0194-1" xml:lang="he">ר</w><w xml:id="jeru0194-2" xml:lang="he">מ</w></p>
 </div>
 </body>
       <back>

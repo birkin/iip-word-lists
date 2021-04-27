@@ -193,7 +193,7 @@
             </div>
             <!-- The bibl has more contained elements. What is the possible list of values of the biblScope/@type? 
              -->
-        <div type="edition" subtype="transcription_segmented"><p><w xml:id="masa0555-1" xml:lang="arc">שב</w><w xml:id="masa0555-2" xml:lang="arc"><supplied reason="lost" cert="low">ר</supplied></w><w xml:id="masa0555-3" xml:lang="arc">נש</w> <w xml:id="masa0555-4" xml:lang="arc">ם</w> <w xml:id="masa0555-5" xml:lang="arc">עם</w> <w xml:id="masa0555-6" xml:lang="arc">ר</w> <w xml:id="masa0555-7" xml:lang="arc">תנתן</w> <w xml:id="masa0555-8" xml:lang="arc">לרוב</w> <w xml:id="masa0555-9" xml:lang="arc">חנ</w><w xml:id="masa0555-10" xml:lang="arc"><supplied reason="lost" cert="low">ט</supplied></w><w xml:id="masa0555-11" xml:lang="arc">ין</w> <w xml:id="masa0555-12" xml:lang="arc">מ</w><w xml:id="masa0555-13" xml:lang="arc"><supplied reason="lost" cert="low">ן</supplied></w><w xml:id="masa0555-14" xml:lang="arc"><supplied reason="lost" cert="low">ל</supplied></w><w xml:id="masa0555-15" xml:lang="arc">עו</w></p>
+        <div type="edition" subtype="transcription_segmented"><p><w xml:id="masa0555-1" xml:lang="arc">שב</w><w xml:id="masa0555-2" xml:lang="arc">נש</w> <w xml:id="masa0555-3" xml:lang="arc">ם</w> <w xml:id="masa0555-4" xml:lang="arc">עם</w> <w xml:id="masa0555-5" xml:lang="arc">ר</w> <w xml:id="masa0555-6" xml:lang="arc">תנתן</w> <w xml:id="masa0555-7" xml:lang="arc">לרוב</w> <w xml:id="masa0555-8" xml:lang="arc">חנ</w><w xml:id="masa0555-9" xml:lang="arc">ין</w> <w xml:id="masa0555-10" xml:lang="arc">מ</w><w xml:id="masa0555-11" xml:lang="arc"><supplied reason="lost" cert="low">ל</supplied></w><w xml:id="masa0555-12" xml:lang="arc">עו</w></p>
 </div>
 </body>
         <back>

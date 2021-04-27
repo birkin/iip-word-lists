@@ -140,12 +140,12 @@
             <p>ΠΑΠΟϹ<lb/>ΠΑΠΟϹ</p>
          </div>
          <div type="edition" ana="#b1" xml:lang="grc" subtype="transcription" xml:id="jeru0001.transcription" corresp="#jeru0001.diplomatic #jeru0001.translation">
-            <p>Πἁποϲ<lb/>Πἁποϲ</p>
+            <p>Πἁπος<lb/>Πἁπος</p>
          </div>
          <div type="translation" ana="#b1" xml:id="jeru0001.translation" corresp="#jeru0001.diplomatic #jeru0001.transcription">
             <p>Pap(p)os Pap(p)os</p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="jeru0001-1" xml:lang="grc">Πἁποϲ</w> <w xml:id="jeru0001-2" xml:lang="grc">Πἁποϲ</w></p>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="jeru0001-1" xml:lang="grc">Πἁπος</w> <w xml:id="jeru0001-2" xml:lang="grc">Πἁπος</w></p>
 </div>
 </body>
       <back>

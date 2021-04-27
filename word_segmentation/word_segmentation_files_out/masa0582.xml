@@ -187,10 +187,10 @@
             </div>
             <!-- The bibl has more contained elements. What is the possible list of values of the biblScope/@type? 
              -->
-        <div type="edition" subtype="transcription_segmented"><p><w xml:id="masa0582-1" xml:lang="arc"><supplied reason="lost">ב</supplied></w><w xml:id="masa0582-2" xml:lang="arc"><supplied reason="lost"> לא</supplied></w><w xml:id="masa0582-3" xml:lang="arc">יר</w> <w xml:id="masa0582-4" xml:lang="arc">לחם</w> <w xml:id="masa0582-5" xml:lang="arc">הב</w> <w xml:id="masa0582-6" xml:lang="arc">ל</w><w xml:id="masa0582-7" xml:lang="arc"><supplied reason="lost">מ</supplied></w><w xml:id="masa0582-8" xml:lang="arc">אתין</w><w xml:id="masa0582-9" xml:lang="arc"><num value="16">
+        <div type="edition" subtype="transcription_segmented"><p><w xml:id="masa0582-1" xml:lang="arc"><supplied reason="lost">ב</supplied><supplied reason="lost"> לא</supplied></w><w xml:id="masa0582-2" xml:lang="arc">ר</w> <w xml:id="masa0582-3" xml:lang="arc">לחם</w> <w xml:id="masa0582-4" xml:lang="arc">הב</w> <w xml:id="masa0582-5" xml:lang="arc">ל</w><w xml:id="masa0582-6" xml:lang="arc">אתין</w><num value="16">
                   <g type="phoen-20"/>
                   <g type="six-vertical-strokes"/>
-               </num></w></p>
+               </num></p>
 </div>
 </body>
         <back>

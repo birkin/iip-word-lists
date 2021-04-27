@@ -120,12 +120,30 @@
    <text>
       <body>
          <div type="edition" ana="#b1" xml:lang="grc" subtype="transcription" xml:id="zoor0248.transcription" corresp="#zoor0248.translation">
-            <p>+<lb/> Εἶς θεός ὁ πάν<lb break="no"/>των Δεσπότης.<lb/>
-               <choice><sic>Μνημῖον</sic><corr>Μνημεῖον</corr></choice> Μαρθό<lb break="no"/>νης Ἀλφίου, ἀποθα<lb break="no"/>νούσης μετὰ
-                    καλοῦ<lb/> ὀνόματος καὶ καλ<lb/>ῆς πίστεως ἐτῶν<lb/> <num>κβʹ</num>, ἕτους <num>τπθʹ</num> <expan><abbr>μη</abbr><ex>νὸς</ex></expan>
+            <p><g type="cross">+</g><lb/> Εἶς θεός ὁ πάν<lb break="no"/>των Δεσπότης.<lb/>
+               <choice>
+                  <sic>Μνημῖον</sic>
+                  <corr>Μνημεῖον</corr>
+               </choice> Μαρθό<lb break="no"/>νης Ἀλφίου, ἀποθα<lb break="no"/>νούσης μετὰ
+               καλοῦ<lb/> ὀνόματος καὶ καλ<lb/>ῆς πίστεως ἐτῶν<lb/>
+               <num>κβʹ</num>, ἕτους <num>τπθʹ</num>
+               <expan><abbr>μη</abbr><ex>νὸς</ex></expan>
                <lb/>
-               <choice><sic>Γορπιέου</sic><corr>Γορπιαίου</corr></choice> <num>ιδʹ</num> <expan><abbr>ἰνδικ</abbr><ex>τιῶνος</ex></expan>
-               <lb/> <num>γʹ</num>. <choice><sic>Θάρσι</sic><corr>Θάρσει</corr></choice>, <choice><sic>οὐδὶς</sic><corr>οὐδείς</corr></choice> ἀ<lb break="no"/>θανατος. +<lb/> +</p>
+               <choice>
+                  <sic>Γορπιέου</sic>
+                  <corr>Γορπιαίου</corr>
+               </choice>
+               <num>ιδʹ</num>
+               <expan><abbr>ἰνδικ</abbr><ex>τιῶνος</ex></expan>
+               <lb/>
+               <num>γʹ</num>. <choice>
+                  <sic>Θάρσι</sic>
+                  <corr>Θάρσει</corr>
+               </choice>, <choice>
+                  <sic>οὐδὶς</sic>
+                  <corr>οὐδείς</corr>
+               </choice> ἀ<lb break="no"/>θανατος. <g type="cross">+</g><lb/>
+               <g type="cross">+</g></p>
          </div>
          <div type="translation" ana="#b1" xml:id="zoor0248.translation" corresp="#zoor0248.transcription">
             <p>One (is) the God, the Lord of all. Monument of Marthone, (daughter) of Alfios,
@@ -133,7 +151,7 @@
                     389, on (the) 14th (day) of (the) month Gorpiaios, in the third indiction. Be of
                     good cheer, no one (is) immortal. </p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="zoor0248-1" xml:lang="grc">Εἶς</w> <w xml:id="zoor0248-2" xml:lang="grc">θεός</w> <w xml:id="zoor0248-3" xml:lang="grc">ὁ</w> <w xml:id="zoor0248-4" xml:lang="grc">πάντων</w> <w xml:id="zoor0248-5" xml:lang="grc">Δεσπότης</w><w xml:id="zoor0248-6" xml:lang="grc"><choice>Μνημεῖον</choice></w><w xml:id="zoor0248-7" xml:lang="grc">Μαρθόνης</w> <w xml:id="zoor0248-8" xml:lang="grc">Ἀλφίου</w> <w xml:id="zoor0248-9" xml:lang="grc">ἀποθανούσης</w> <w xml:id="zoor0248-10" xml:lang="grc">μετὰ</w> <w xml:id="zoor0248-11" xml:lang="grc">καλοῦ</w> <w xml:id="zoor0248-12" xml:lang="grc">ὀνόματος</w> <w xml:id="zoor0248-13" xml:lang="grc">καὶ</w> <w xml:id="zoor0248-14" xml:lang="grc">καλ</w> <w xml:id="zoor0248-15" xml:lang="grc">ῆς</w> <w xml:id="zoor0248-16" xml:lang="grc">πίστεως</w> <w xml:id="zoor0248-17" xml:lang="grc">ἐτῶν</w><num>κβʹ</num><w xml:id="zoor0248-18" xml:lang="grc">ἕτους</w><num>τπθʹ</num><w xml:id="zoor0248-19" xml:lang="grc"><expan><abbr>μη</abbr><ex>νὸς</ex></expan></w><w xml:id="zoor0248-20" xml:lang="grc"><choice>Γορπιαίου</choice></w><num>ιδʹ</num><w xml:id="zoor0248-21" xml:lang="grc"><expan><abbr>ἰνδικ</abbr><ex>τιῶνος</ex></expan></w><num>γʹ</num><w xml:id="zoor0248-22" xml:lang="grc"><choice>Θάρσει</choice></w><w xml:id="zoor0248-23" xml:lang="grc"><choice>οὐδείς</choice></w><w xml:id="zoor0248-24" xml:lang="grc">ἀθανατος</w></p>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="zoor0248-1" xml:lang="grc">Εἶς</w> <w xml:id="zoor0248-2" xml:lang="grc">θεός</w> <w xml:id="zoor0248-3" xml:lang="grc">ὁ</w> <w xml:id="zoor0248-4" xml:lang="grc">πάντων</w> <w xml:id="zoor0248-5" xml:lang="grc">Δεσπότης</w><w xml:id="zoor0248-6" xml:lang="grc">Μαρθόνης</w> <w xml:id="zoor0248-7" xml:lang="grc">Ἀλφίου</w> <w xml:id="zoor0248-8" xml:lang="grc">ἀποθανούσης</w> <w xml:id="zoor0248-9" xml:lang="grc">μετὰ</w> <w xml:id="zoor0248-10" xml:lang="grc">καλοῦ</w> <w xml:id="zoor0248-11" xml:lang="grc">ὀνόματος</w> <w xml:id="zoor0248-12" xml:lang="grc">καὶ</w> <w xml:id="zoor0248-13" xml:lang="grc">καλ</w> <w xml:id="zoor0248-14" xml:lang="grc">ῆς</w> <w xml:id="zoor0248-15" xml:lang="grc">πίστεως</w> <w xml:id="zoor0248-16" xml:lang="grc">ἐτῶν</w><num>κβʹ</num><w xml:id="zoor0248-17" xml:lang="grc">ἕτους</w><num>τπθʹ</num><w xml:id="zoor0248-18" xml:lang="grc"><expan><abbr>μη</abbr><ex>νὸς</ex></expan></w><num>ιδʹ</num><w xml:id="zoor0248-19" xml:lang="grc"><expan><abbr>ἰνδικ</abbr><ex>τιῶνος</ex></expan></w><num>γʹ</num><w xml:id="zoor0248-20" xml:lang="grc">ἀθανατος</w></p>
 </div>
 </body>
       <back>

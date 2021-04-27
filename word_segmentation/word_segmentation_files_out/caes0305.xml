@@ -117,10 +117,10 @@
             <p>
                <gap reason="illegible" quantity="2" unit="character"/> <supplied reason="undefined">Πρ</supplied><unclear>ο</unclear>κοπίο<unclear>υ</unclear>
                <gap reason="illegible" quantity="2" unit="character"/>
-               <lb/><gap reason="illegible" quantity="3" unit="character"/><unclear>υκαὶ</unclear><gap reason="illegible" quantity="3" unit="character"/>
+               <lb/><gap reason="illegible" quantity="3" unit="character"/><orig><unclear>υκαὶ</unclear></orig><gap reason="illegible" quantity="3" unit="character"/>
             </p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="caes0305-1" xml:lang="grc"><supplied reason="undefined">Πρ</supplied></w><w xml:id="caes0305-2" xml:lang="grc">οκοπίου</w> <w xml:id="caes0305-3" xml:lang="grc">υκαὶ</w></p>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="caes0305-1" xml:lang="grc">κοπίο</w></p>
 </div>
 </body>
       <back>

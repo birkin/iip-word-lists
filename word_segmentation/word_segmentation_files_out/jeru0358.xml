@@ -137,7 +137,7 @@
             <div type="commentary" ana="b1">
                 <p/>
             </div>
-        <div type="edition" subtype="transcription_segmented"><p><w xml:id="jeru0358-1" xml:lang="he">י</w> <w xml:id="jeru0358-2" xml:lang="he">ב</w><w xml:id="jeru0358-3" xml:lang="he"><choice>דרן</choice></w></p>
+        <div type="edition" subtype="transcription_segmented"><p><w xml:id="jeru0358-1" xml:lang="he"><unclear cert="low">י</unclear></w><w xml:id="jeru0358-2" xml:lang="he"><choice><unclear>ד</unclear><unclear>ר</unclear><unclear>ן</unclear></choice></w></p>
 </div>
 </body>
         <back>

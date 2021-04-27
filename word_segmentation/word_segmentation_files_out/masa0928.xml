@@ -169,7 +169,7 @@
                 <p/>
             </div>
             <div type="edition" subtype="transcription" ana="b1">
-                <p>φιλο</p>
+                <p><orig>φιλο</orig></p>
             </div>
             <div type="translation" ana="b1">
                 <p/>
@@ -178,7 +178,7 @@
                 <p>The inscription is most likely a proper name, either Philon or one of its
                     composita.</p>
             </div>
-        <div type="edition" subtype="transcription_segmented"><p><w xml:id="masa0928-1" xml:lang="grc">φιλο</w></p>
+        <div type="edition" subtype="transcription_segmented"><p/>
 </div>
 </body>
         <back>

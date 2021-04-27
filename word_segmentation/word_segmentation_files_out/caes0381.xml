@@ -118,15 +118,15 @@
       <body>
          <div type="edition" ana="#b1" subtype="transcription" xml:id="caes0381.transcription">
             <p>
-               <gap reason="lost" extent="unknown" unit="character"/>ΡΤΑΡ <gap reason="illegible" quantity="1" unit="character"/>
+               <gap reason="lost" extent="unknown" unit="character"/><orig>ΡΤΑΡ</orig> <gap reason="illegible" quantity="1" unit="character"/>
                <gap reason="lost" extent="unknown" unit="character"/>
                <lb/>
                <gap reason="lost" extent="unknown" unit="character"/>
-               <unclear>ς καὶ </unclear>
+               <unclear><orig>ς</orig> καὶ </unclear>
                <gap reason="lost" extent="unknown" unit="character"/>
             </p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="caes0381-1" xml:lang="grc">ΡΤΑΡ</w> <w xml:id="caes0381-2" xml:lang="grc">ς</w> <w xml:id="caes0381-3" xml:lang="grc">καὶ</w></p>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="caes0381-1" xml:lang="grc"><unclear><orig>ς</orig> καὶ </unclear></w></p>
 </div>
 </body>
       <back>

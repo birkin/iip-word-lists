@@ -159,7 +159,7 @@
          <div type="translation" ana="#b1" xml:id="akas0002.translation" corresp="#akas0002.diplomatic #akas0002.transcription">
             <p>Remember the presbyter Alaph...</p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="akas0002-1" xml:lang="grc"><expan><abbr>μν</abbr><ex>η</ex><abbr>σ</abbr><ex>θῇ</ex></expan></w><w xml:id="akas0002-2" xml:lang="grc">ὁ</w><w xml:id="akas0002-3" xml:lang="grc"><expan><abbr>πρε</abbr><ex>σβύτερος</ex></expan></w></p>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="akas0002-1" xml:lang="grc"><expan><abbr>μν</abbr><ex>η</ex><abbr>σ</abbr><ex>θῇ</ex></expan></w><w xml:id="akas0002-2" xml:lang="grc">ὁ</w><w xml:id="akas0002-3" xml:lang="grc"><expan><abbr><unclear>πρ</unclear>ε</abbr><ex>σβύτερος</ex></expan></w></p>
 </div>
 </body>
       <back>

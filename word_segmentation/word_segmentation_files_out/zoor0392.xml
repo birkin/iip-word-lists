@@ -28,7 +28,7 @@
                </msIdentifier>
                <!-- ********* <msContents> ********* -->
                <msContents>
-                  <textLang mainLang="grc"/>
+                  <textLang mainLang="grc" otherLangs="la"/>
                   <msItem class="#text_other" ana="#christian">
                      <p>Zoora, 4th-5th century CE. Slab. Other (board game).</p>
                   </msItem>
@@ -138,13 +138,13 @@
                <lb/>
                <space quantity="1" unit="character"/> δὸς <space extent="unknown" unit="character"/>
                <lb/>χάρησμα <expan><abbr>β</abbr><ex>όλια</ex></expan>
-               <num value="2">I<unclear>I</unclear></num>
+               <foreign xml:lang="lat"><num value="2">I<unclear>I</unclear></num></foreign>
             </p>
          </div>
          <div type="translation" ana="#b1" xml:id="zoor0357.translation" corresp="#zoor0357.transcription">
             <p>Lord, grant the person<lb/>who wrote (this)<lb/>two throws of the dice.</p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="zoor0392-1" xml:lang="grc"><expan><abbr>Κ</abbr><ex>ύρι</ex><abbr>ε</abbr></expan></w><w xml:id="zoor0392-2" xml:lang="grc"><choice>τῷ γράψαντι</choice></w><w xml:id="zoor0392-3" xml:lang="grc">δὸς</w> <w xml:id="zoor0392-4" xml:lang="grc">χάρησμα</w><w xml:id="zoor0392-5" xml:lang="grc"><expan><abbr>β</abbr><ex>όλια</ex></expan></w><num value="2">II</num></p>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="zoor0392-1" xml:lang="grc"><choice><reg>τῷ γράψαντι</reg><orig>ὁ γράψας</orig></choice></w><w xml:id="zoor0392-2" xml:lang="grc">δὸς</w> <w xml:id="zoor0392-3" xml:lang="grc">χάρησμα</w><w xml:id="zoor0392-4" xml:lang="grc"><expan><abbr>β</abbr><ex>όλια</ex></expan></w></p>
 </div>
 </body>
       <back>

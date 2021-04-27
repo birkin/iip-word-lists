@@ -132,7 +132,7 @@
          <div type="translation" ana="#b1" xml:id="caes0046.translation" corresp="#caes0046.transcription">
             <p>A detachment of the twenty-second legion Deiotariana.</p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="caes0046-1" xml:lang="la"><supplied reason="lost">Vexillatio</supplied></w><w xml:id="caes0046-2" xml:lang="la">le</w><w xml:id="caes0046-3" xml:lang="la"><supplied reason="lost">gionis</supplied></w><w xml:id="caes0046-4" xml:lang="la"><num value="22"><w xml:id="caes0046-5" xml:lang="la"><supplied reason="lost">XXI</supplied></w>I</num></w><w xml:id="caes0046-6" xml:lang="la">D</w><w xml:id="caes0046-7" xml:lang="la"><supplied reason="lost">eio</supplied></w><w xml:id="caes0046-8" xml:lang="la">t</w><w xml:id="caes0046-9" xml:lang="la"><supplied reason="lost">arian</supplied></w><w xml:id="caes0046-10" xml:lang="la">a</w></p>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="caes0046-1" xml:lang="la"><supplied reason="lost">Vexillatio</supplied></w><w xml:id="caes0046-2" xml:lang="la">e</w><num value="22"><supplied reason="lost">XXI</supplied>I</num><w xml:id="caes0046-3" xml:lang="la">a</w></p>
 </div>
 </body>
       <back>

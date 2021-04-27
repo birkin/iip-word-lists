@@ -131,7 +131,7 @@
             <p>Work of <persName xml:lang="x-Semitic " ref="persons.xml#hamm0043p01">Olepius </persName>
                <rs type="occupation">the engraver</rs></p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="hamm0043-1" xml:lang="grc">Ἔργ</w><w xml:id="hamm0043-2" xml:lang="grc"><supplied reason="omitted">ον</supplied></w><w xml:id="hamm0043-3" xml:lang="grc"><expan><abbr>Ὀλεπί</abbr><ex>ο</ex><abbr>υ</abbr></expan></w><w xml:id="hamm0043-4" xml:lang="grc"><expan><abbr>γ</abbr><ex>λύπτου</ex></expan></w></p>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="hamm0043-1" xml:lang="grc">Ἔργ</w><w xml:id="hamm0043-2" xml:lang="grc"><expan><abbr>Ὀλεπί</abbr><ex>ο</ex><abbr>υ</abbr></expan></w></p>
 </div>
 </body>
       <back>

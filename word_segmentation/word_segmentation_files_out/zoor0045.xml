@@ -129,14 +129,19 @@
       <body>
          <div type="edition" ana="#b1" xml:lang="grc" subtype="transcription" xml:id="zoor0045.transcription" corresp="#zoor0045.translation">
             <p>
-               <choice><sic>Μνημῖον</sic><corr>Μνημεῖον</corr></choice> Οὐαλε<lb break="no"/>ντίου Ζεβίνα, ἀ<lb break="no"/>ποθανόντος ἐ<lb break="no"/>τῶν τρῖς, ἔτους<lb/> <num>σοηʹ</num>, <expan><abbr>μη</abbr><ex>νὸς</ex></expan> Ἀπελλέ<lb break="no"/>ου <num>ζιʹ</num>,<lb/> ἡμέρᾳ Ἡλί<lb break="no"/>ου. +</p>
+               <choice>
+                  <sic>Μνημῖον</sic>
+                  <corr>Μνημεῖον</corr>
+               </choice> Οὐαλε<lb break="no"/>ντίου Ζεβίνα, ἀ<lb break="no"/>ποθανόντος ἐ<lb break="no"/>τῶν τρῖς, ἔτους<lb/>
+               <num>σοηʹ</num>, <expan><abbr>μη</abbr><ex>νὸς</ex></expan> Ἀπελλέ<lb break="no"/>ου
+                  <num>ζιʹ</num>,<lb/> ἡμέρᾳ Ἡλί<lb break="no"/>ου. <g type="cross">+</g></p>
          </div>
          <div type="translation" ana="#b1" xml:id="zoor0045.translation" corresp="#zoor0045.transcription">
             <p>Monument of Valentinus, (son) of Zebinas, who died (at the age) of three years,
                     in (the) year 278, on (the) 17th (day) of (the) month Apellaios, on (the) day of
                     (the) Sun (Sunday). </p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="zoor0045-1" xml:lang="grc"><choice>Μνημεῖον</choice></w><w xml:id="zoor0045-2" xml:lang="grc">Οὐαλεντίου</w> <w xml:id="zoor0045-3" xml:lang="grc">Ζεβίνα</w> <w xml:id="zoor0045-4" xml:lang="grc">ἀποθανόντος</w> <w xml:id="zoor0045-5" xml:lang="grc">ἐτῶν</w> <w xml:id="zoor0045-6" xml:lang="grc">τρῖς</w> <w xml:id="zoor0045-7" xml:lang="grc">ἔτους</w><num>σοηʹ</num><w xml:id="zoor0045-8" xml:lang="grc"><expan><abbr>μη</abbr><ex>νὸς</ex></expan></w><w xml:id="zoor0045-9" xml:lang="grc">Ἀπελλέου</w><num>ζιʹ</num><w xml:id="zoor0045-10" xml:lang="grc">ἡμέρᾳ</w> <w xml:id="zoor0045-11" xml:lang="grc">Ἡλίου</w></p>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="zoor0045-1" xml:lang="grc">Οὐαλεντίου</w> <w xml:id="zoor0045-2" xml:lang="grc">Ζεβίνα</w> <w xml:id="zoor0045-3" xml:lang="grc">ἀποθανόντος</w> <w xml:id="zoor0045-4" xml:lang="grc">ἐτῶν</w> <w xml:id="zoor0045-5" xml:lang="grc">τρῖς</w> <w xml:id="zoor0045-6" xml:lang="grc">ἔτους</w><num>σοηʹ</num><w xml:id="zoor0045-7" xml:lang="grc"><expan><abbr>μη</abbr><ex>νὸς</ex></expan></w><w xml:id="zoor0045-8" xml:lang="grc">Ἀπελλέου</w><num>ζιʹ</num><w xml:id="zoor0045-9" xml:lang="grc">ἡμέρᾳ</w> <w xml:id="zoor0045-10" xml:lang="grc">Ἡλίου</w></p>
 </div>
 </body>
       <back>

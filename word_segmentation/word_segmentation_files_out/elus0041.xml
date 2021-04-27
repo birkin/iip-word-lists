@@ -114,12 +114,13 @@
    <text>
       <body>
          <div type="edition" ana="#b1" xml:lang="grc" subtype="transcription" xml:id="elus0041.transcription" corresp="#elus0041.translation">
-            <p>Ζ +</p>
+            <p><orig>Ζ</orig>
+               <g>+</g></p>
          </div>
          <div type="translation" ana="#b1" xml:id="elus0041.translation" corresp="#elus0041.transcription">
             <p>perhaps Ζ<supplied reason="undefined">ο</supplied>ναῖνος 'Zunain', or Ζ<supplied reason="undefined">η</supplied>νόβιος 'Zenobius' ?</p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="elus0041-1" xml:lang="grc">Ζ</w></p>
+      <div type="edition" subtype="transcription_segmented"><p/>
 </div>
 </body>
       <back>

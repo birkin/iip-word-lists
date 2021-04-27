@@ -112,12 +112,12 @@
    <text>
       <body>
          <div type="edition" ana="#b1" xml:lang="grc" subtype="transcription" xml:id="elus0007.transcription" corresp="#elus0007.translation">
-            <p>Ζονα<lb/>ῖνος</p>
+            <p>Ζονα<lb break="no"/>ῖνος</p>
          </div>
          <div type="translation" ana="#b1" xml:id="elus0007.translation" corresp="#elus0007.transcription">
             <p>Zunain</p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="elus0007-1" xml:lang="grc">Ζονα</w> <w xml:id="elus0007-2" xml:lang="grc">ῖνος</w></p>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="elus0007-1" xml:lang="grc">Ζοναῖνος</w></p>
 </div>
 </body>
       <back>

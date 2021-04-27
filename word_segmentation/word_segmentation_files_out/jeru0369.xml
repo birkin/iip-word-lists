@@ -158,18 +158,18 @@
                 <p>The first character supplied could be עד or כ. The potential translations would
                     be "until" or "on the 18th..."</p>
             </div>
-        <div type="edition" subtype="transcription_segmented"><p><w xml:id="jeru0369-1" xml:lang="he"><supplied reason="lost">ב</supplied></w><w xml:id="jeru0369-2" xml:lang="he"><num value="18">
+        <div type="edition" subtype="transcription_segmented"><p><w xml:id="jeru0369-1" xml:lang="he"><supplied reason="lost">ב</supplied></w><num value="18">
                   <g type="horizonal-mark"/>
                   <g type="eight-vertical-strokes"/>
-               </num></w><w xml:id="jeru0369-3" xml:lang="he">לאדר</w> <w xml:id="jeru0369-4" xml:lang="he">נפק</w> <w xml:id="jeru0369-5" xml:lang="he">ס</w><w xml:id="jeru0369-6" xml:lang="he"><num value="35">
+               </num><w xml:id="jeru0369-2" xml:lang="he">לאדר</w> <w xml:id="jeru0369-3" xml:lang="he">נפק</w> <w xml:id="jeru0369-4" xml:lang="he">ס</w><num value="35">
                   <g type="curved-numeral"/>
                   <g type="horizontal-line"/>
                   <g type="five-vertical-strokes"/>
-               </num></w><w xml:id="jeru0369-7" xml:lang="he"><supplied reason="lost">ש</supplied></w><w xml:id="jeru0369-8" xml:lang="he">עריא</w> <w xml:id="jeru0369-9" xml:lang="he">ס</w><w xml:id="jeru0369-10" xml:lang="he"><num value="2">
+               </num><w xml:id="jeru0369-5" xml:lang="he">עריא</w> <w xml:id="jeru0369-6" xml:lang="he">ס</w><num value="2">
                   <g type="two-vertical-strokes"/>
-               </num></w><w xml:id="jeru0369-11" xml:lang="he">לנפת</w> <w xml:id="jeru0369-12" xml:lang="he">ס</w><w xml:id="jeru0369-13" xml:lang="he"><num value="3">
+               </num><w xml:id="jeru0369-7" xml:lang="he">לנפת</w> <w xml:id="jeru0369-8" xml:lang="he">ס</w><num value="3">
                   <g type="three-vertical-strokes"/>
-               </num></w><w xml:id="jeru0369-14" xml:lang="he">ס</w></p>
+               </num><w xml:id="jeru0369-9" xml:lang="he">ס</w></p>
 </div>
 </body>
         <back>

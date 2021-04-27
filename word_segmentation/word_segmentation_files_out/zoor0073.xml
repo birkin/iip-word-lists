@@ -125,22 +125,38 @@
       <body>
          <div type="edition" ana="#b1" xml:lang="grc" subtype="transcription" xml:id="zoor0073.transcription" corresp="#zoor0073.translation">
             <p>
-               <choice><sic>Μνημῖον</sic><corr>Μνημεῖον</corr></choice>
-                        Θό<unclear>ψ</unclear>η<lb/>
-               <unclear>Ἑλ</unclear>λίου, ἀποθα<lb break="no"/>νόντος <expan><abbr>ἐτ</abbr><ex>ῶν</ex></expan> <num>κʹ</num>,<lb/> ἔτους <num>σϟʹ</num>, ἐν<lb/> μηνὶ Λῷου
-                        <num>βιʹ</num>, <lb/>
+               <choice>
+                  <sic>Μνημῖον</sic>
+                  <corr>Μνημεῖον</corr>
+               </choice> Θό<unclear>ψ</unclear>η<lb/>
+               <unclear>Ἑλ</unclear>λίου, ἀποθα<lb break="no"/>νόντος
+                     <expan><abbr>ἐτ</abbr><ex>ῶν</ex></expan>
+               <num>κʹ</num>,<lb/> ἔτους <num>σϟʹ</num>, ἐν<lb/> μηνὶ Λῷου <num>βιʹ</num>, <lb/>
                <unclear>ἡμέρᾳ</unclear> Κυρίου <lb/>
-               <choice><sic>πέντῃ</sic><corr>πέμπτῃ</corr></choice>.
-                        <choice><sic>Θάρσι</sic><corr>Θάρσει</corr></choice>, <lb/>
-               <choice><sic>οὐδὶς</sic><corr>οὐδείς</corr></choice>
-               <choice><sic>ἀθάνα<lb break="no"/>+τος.</sic><corr>ἀθάναντος</corr></choice> + <lb/>+</p>
+               <choice>
+                  <sic>πέντῃ</sic>
+                  <corr>πέμπτῃ</corr>
+               </choice>. <choice>
+                  <sic>Θάρσι</sic>
+                  <corr>Θάρσει</corr>
+               </choice>, <lb/>
+               <choice>
+                  <sic>οὐδὶς</sic>
+                  <corr>οὐδείς</corr>
+               </choice>
+               <choice>
+                  <sic>ἀθάνα<lb break="no"/><g type="cross">+</g>τος.</sic>
+                  <corr>ἀθάναντος</corr>
+               </choice>
+               <g type="cross">+</g>
+               <lb/><g type="cross">+</g></p>
          </div>
          <div type="translation" ana="#b1" xml:id="zoor0073.translation" corresp="#zoor0073.transcription">
             <p>Monument of Thopse, (daughter) of Ellios, who died (at the age) of 20 years, in
                     (the) year 290, on (the) 12th (day) of (the) month Loos, on (the) fifth day of
                     the Lord (Thursday). Be of good cheer, no one (is) immortal.</p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="zoor0073-1" xml:lang="grc"><choice>Μνημεῖον</choice></w><w xml:id="zoor0073-2" xml:lang="grc">Θόψη</w> <w xml:id="zoor0073-3" xml:lang="grc">Ἑλλίου</w> <w xml:id="zoor0073-4" xml:lang="grc">ἀποθανόντος</w><w xml:id="zoor0073-5" xml:lang="grc"><expan><abbr>ἐτ</abbr><ex>ῶν</ex></expan></w><num>κʹ</num><w xml:id="zoor0073-6" xml:lang="grc">ἔτους</w><num>σϟʹ</num><w xml:id="zoor0073-7" xml:lang="grc">ἐν</w> <w xml:id="zoor0073-8" xml:lang="grc">μηνὶ</w> <w xml:id="zoor0073-9" xml:lang="grc">Λῷου</w><num>βιʹ</num><w xml:id="zoor0073-10" xml:lang="grc">ἡμέρᾳ</w> <w xml:id="zoor0073-11" xml:lang="grc">Κυρίου</w><w xml:id="zoor0073-12" xml:lang="grc"><choice>πέμπτῃ</choice></w><w xml:id="zoor0073-13" xml:lang="grc"><choice>Θάρσει</choice></w><w xml:id="zoor0073-14" xml:lang="grc"><choice>οὐδείς</choice></w><w xml:id="zoor0073-15" xml:lang="grc"><choice>ἀθάναντος</choice></w></p>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="zoor0073-1" xml:lang="grc">Θό</w><w xml:id="zoor0073-2" xml:lang="grc">η</w><w xml:id="zoor0073-3" xml:lang="grc">λίου</w> <w xml:id="zoor0073-4" xml:lang="grc">ἀποθανόντος</w><w xml:id="zoor0073-5" xml:lang="grc"><expan><abbr>ἐτ</abbr><ex>ῶν</ex></expan></w><num>κʹ</num><w xml:id="zoor0073-6" xml:lang="grc">ἔτους</w><num>σϟʹ</num><w xml:id="zoor0073-7" xml:lang="grc">ἐν</w> <w xml:id="zoor0073-8" xml:lang="grc">μηνὶ</w> <w xml:id="zoor0073-9" xml:lang="grc">Λῷου</w><num>βιʹ</num><w xml:id="zoor0073-10" xml:lang="grc"><unclear>ἡμέρᾳ</unclear></w><w xml:id="zoor0073-11" xml:lang="grc">Κυρίου</w></p>
 </div>
 </body>
       <back>

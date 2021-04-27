@@ -118,14 +118,14 @@
             <p>μιμόρ<supplied reason="undefined">ιον</supplied> 
             <supplied reason="undefined">διαφ</supplied><lb break="no"/>έροντ<supplied reason="undefined">α</supplied> <gap reason="illegible" quantity="3" unit="character"/>
                <lb/>Λεο<unclear>ν</unclear> <gap reason="illegible" quantity="4" unit="character"/>
-               <lb/><unclear>ου</unclear> <gap reason="illegible" quantity="4" unit="character"/>
+               <lb/><orig><unclear>ου</unclear></orig><gap reason="illegible" quantity="4" unit="character"/>
             </p>
          </div>
          <div type="translation" ana="#b1" xml:id="caes0249.translation" corresp="#caes0249.transcription">
             <p>The memorial belonging to Leon----....
 				</p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="caes0249-1" xml:lang="grc">μιμόρ</w><w xml:id="caes0249-2" xml:lang="grc"><supplied reason="undefined">ιον</supplied></w><w xml:id="caes0249-3" xml:lang="grc"><supplied reason="undefined">διαφ</supplied></w><w xml:id="caes0249-4" xml:lang="grc">έροντ</w><w xml:id="caes0249-5" xml:lang="grc"><supplied reason="undefined">α</supplied></w><w xml:id="caes0249-6" xml:lang="grc">Λεον</w> <w xml:id="caes0249-7" xml:lang="grc">ου</w></p>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="caes0249-1" xml:lang="grc">μιμόρ</w><w xml:id="caes0249-2" xml:lang="grc"><supplied reason="undefined">διαφ</supplied>έροντ<supplied reason="undefined">α</supplied></w><w xml:id="caes0249-3" xml:lang="grc">Λεο</w></p>
 </div>
 </body>
       <back>

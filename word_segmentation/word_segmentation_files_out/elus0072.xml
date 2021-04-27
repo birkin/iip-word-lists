@@ -112,18 +112,17 @@
    <text>
       <body>
          <div type="edition" ana="#b1" xml:lang="grc" subtype="transcription" xml:id="elus0072.transcription" corresp="#elus0072.translation">
-            <p>Θάρ<unclear>σ</unclear>
+            <p>Θάρ<unclear>σ</unclear><supplied reason="undefined">ει</supplied>
                <gap reason="lost" unit="character" extent="unknown"/>
-               <supplied reason="undefined">ει</supplied>
-               <lb/>ΝΑ<gap reason="illegible" quantity="1"/>
+               <lb/><orig>ΝΑ<gap reason="illegible" quantity="1"/>
                <gap reason="lost" unit="character" extent="unknown"/>
-               <lb/>Ο<gap reason="illegible" quantity="1"/><gap reason="lost" unit="character" extent="unknown"/>
+               <lb/>Ο</orig><gap reason="illegible" quantity="1"/><gap reason="lost" unit="character" extent="unknown"/>
             </p>
          </div>
          <div type="translation" ana="#b1" xml:id="elus0072.translation" corresp="#elus0072.transcription">
             <p>Courage...</p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="elus0072-1" xml:lang="grc">Θάρσ</w><w xml:id="elus0072-2" xml:lang="grc"><supplied reason="undefined">ει</supplied></w><w xml:id="elus0072-3" xml:lang="grc">ΝΑ</w> <w xml:id="elus0072-4" xml:lang="grc">Ο</w></p>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="elus0072-1" xml:lang="grc">Θάρ</w></p>
 </div>
 </body>
       <back>

@@ -147,7 +147,7 @@
             <div type="commentary" ana="b1">
                 <p/>
             </div>
-        <div type="edition" subtype="transcription_segmented"><p><w xml:id="mare0088-1" xml:lang="arc">י</w> <w xml:id="mare0088-2" xml:lang="arc">ב</w><num value="100">
+        <div type="edition" subtype="transcription_segmented"><p><w xml:id="mare0088-1" xml:lang="arc"><unclear>י</unclear></w><w xml:id="mare0088-2" xml:lang="arc">ב</w><num value="100">
                   <g type="one-slanted-stroke"/>
                   <g type="phoen-100"/>
                </num><w xml:id="mare0088-3" xml:lang="arc">ואל</w></p>

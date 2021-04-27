@@ -137,7 +137,7 @@
             <div type="commentary" ana="b1">
                 <p>Verse is from Psalm 118:20.</p>
             </div>
-        <div type="edition" subtype="transcription_segmented"><p><w xml:id="tbas0002-1" xml:lang="grc"><supplied reason="lost">Αὔτη</supplied></w><w xml:id="tbas0002-2" xml:lang="grc"><supplied reason="lost">ἡ</supplied></w><w xml:id="tbas0002-3" xml:lang="grc"><supplied reason="lost">πύλη</supplied></w><w xml:id="tbas0002-4" xml:lang="grc"><supplied reason="omitted">τοῦ</supplied></w><w xml:id="tbas0002-5" xml:lang="grc"><supplied reason="lost">Κυρίου</supplied></w><w xml:id="tbas0002-6" xml:lang="grc"><expan><abbr><w xml:id="tbas0002-7" xml:lang="grc"><supplied reason="lost">δί</supplied></w>κ</abbr><ex>αιοι</ex></expan></w><w xml:id="tbas0002-8" xml:lang="grc"><expan><abbr>εἰσελεύσ</abbr><ex>ονται</ex></expan></w><w xml:id="tbas0002-9" xml:lang="grc">ἐν</w> <w xml:id="tbas0002-10" xml:lang="grc">αὐτῇ</w></p>
+        <div type="edition" subtype="transcription_segmented"><p><w xml:id="tbas0002-1" xml:lang="grc"><supplied reason="lost">ἡ</supplied></w><w xml:id="tbas0002-2" xml:lang="grc"><supplied reason="omitted">τοῦ</supplied></w><w xml:id="tbas0002-3" xml:lang="grc"><expan><abbr><supplied reason="lost">δί</supplied>κ</abbr><ex>αιοι</ex></expan></w><w xml:id="tbas0002-4" xml:lang="grc">ἐν</w> <w xml:id="tbas0002-5" xml:lang="grc">αὐτῇ</w></p>
 </div>
 </body>
         <back>

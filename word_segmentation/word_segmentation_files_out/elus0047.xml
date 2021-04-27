@@ -113,13 +113,13 @@
    <text>
       <body>
          <div type="edition" ana="#b1" xml:lang="grc" subtype="transcription" xml:id="elus0047.transcription">
-            <p>ΡΩ<lb/>
-               <unclear>Ν</unclear>
-               <lb/>
-               <unclear>Α</unclear>
-            </p>
+            <p><orig>ΡΩ<lb/>
+                  <unclear>Ν</unclear>
+                  <lb/>
+                  <unclear>Α</unclear>
+               </orig></p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="elus0047-1" xml:lang="grc">ΡΩ</w> <w xml:id="elus0047-2" xml:lang="grc">Ν</w> <w xml:id="elus0047-3" xml:lang="grc">Α</w></p>
+      <div type="edition" subtype="transcription_segmented"><p/>
 </div>
 </body>
       <back>

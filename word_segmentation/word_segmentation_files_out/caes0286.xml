@@ -120,9 +120,9 @@
             <p>
                <supplied reason="undefined">θήκ</supplied>η<lb/>
                <gap reason="illegible" quantity="2" unit="character"/>
-               <unclear>ί</unclear>ου</p>
+               <orig><unclear>ί</unclear>ου</orig></p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="caes0286-1" xml:lang="grc"><supplied reason="undefined">θήκ</supplied></w><w xml:id="caes0286-2" xml:lang="grc">η</w> <w xml:id="caes0286-3" xml:lang="grc">ίου</w></p>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="caes0286-1" xml:lang="grc">η</w></p>
 </div>
 </body>
       <back>

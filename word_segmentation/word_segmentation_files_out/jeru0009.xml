@@ -146,7 +146,7 @@
          <div type="translation" ana="#b1" xml:id="jeru0009.translation" corresp="#jeru0009.transcription">
             <p>Yo'ezer, [son of Ye]hosef</p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="jeru0009-1" xml:lang="arc">יועזר</w><w xml:id="jeru0009-2" xml:lang="arc">הוסף</w></p>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="jeru0009-1" xml:lang="arc">יועזר</w><w xml:id="jeru0009-2" xml:lang="arc"><hi rend="superscript">בר י</hi></w><w xml:id="jeru0009-3" xml:lang="arc">הוסף</w></p>
 </div>
 </body>
       <back>

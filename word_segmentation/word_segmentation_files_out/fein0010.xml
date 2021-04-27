@@ -134,7 +134,7 @@
          <div type="translation" ana="#b1" xml:id="zoor0361.translation" corresp="#zoor0361.transcription">
             <p>Lord, give<lb/>rest to<lb/>Stephanos,<lb/>(son) of<lb/>Azizos.</p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="fein0010-1" xml:lang="grc"><expan><abbr>Κ</abbr><ex>ύρι</ex><abbr>ε</abbr></expan></w><w xml:id="fein0010-2" xml:lang="grc">ἀνάπαυσον</w> <w xml:id="fein0010-3" xml:lang="grc">Στέφανον</w> <w xml:id="fein0010-4" xml:lang="grc">Ἀζίζου</w></p>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="fein0010-1" xml:lang="grc">ἀ</w><w xml:id="fein0010-2" xml:lang="grc">παυσον</w> <w xml:id="fein0010-3" xml:lang="grc">Στέφανον</w> <w xml:id="fein0010-4" xml:lang="grc">Ἀζίζου</w><w xml:id="fein0010-5" xml:lang="grc"><unclear><g type="linear-cross">+</g></unclear></w></p>
 </div>
 </body>
       <back>

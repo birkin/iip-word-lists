@@ -129,7 +129,7 @@
                <persName xml:lang="la " ref="persons.xml#beth0213p01">Auitus</persName>, <rs type="religTitle" ana="interpretations.xml#archisynagogos">head of [the synagogue] </rs>
             </p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="beth0213-1" xml:lang="grc">Ἀυῖτο</w><w xml:id="beth0213-2" xml:lang="grc"><supplied reason="lost">ς</supplied></w><w xml:id="beth0213-3" xml:lang="grc"><supplied reason="lost">τοῦ</supplied></w><w xml:id="beth0213-4" xml:lang="grc"><supplied reason="lost">δεῖνα</supplied></w><w xml:id="beth0213-5" xml:lang="grc">ἀρχ</w><w xml:id="beth0213-6" xml:lang="grc"><supplied reason="lost">ισυνάγωγος</supplied></w></p>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="beth0213-1" xml:lang="grc">Ἀυῖτο</w><w xml:id="beth0213-2" xml:lang="grc"><supplied reason="lost">τοῦ</supplied></w><w xml:id="beth0213-3" xml:lang="grc">ἀρχ</w></p>
 </div>
 </body>
       <back>

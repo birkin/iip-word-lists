@@ -117,17 +117,15 @@
             <p>
                <gap reason="illegible" quantity="2" unit="character"/>
                <supplied reason="undefined">τέ</supplied>κνα<lb/>
-               <gap reason="illegible" quantity="3" unit="character"/>χίας<lb/>
-               <foreign xml:lang="heb">		
-						שלום ע 
-					<supplied reason="undefined">ל ישראל</supplied>
+               <gap reason="illegible" quantity="3" unit="character"/><orig>χίας</orig><lb/>
+               <foreign xml:lang="heb"> שלום ע <supplied reason="undefined">ל ישראל</supplied>
                </foreign>
             </p>
          </div>
          <div type="translation" ana="#b1" xml:id="caes0183.translation" corresp="#caes0183.transcription">
             <p>...<rs type="family">children </rs> of....Peace unto Israel!</p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="caes0183-1" xml:lang="grc"><supplied reason="undefined">τέ</supplied></w><w xml:id="caes0183-2" xml:lang="grc">κνα</w> <w xml:id="caes0183-3" xml:lang="grc">χίας</w></p>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="caes0183-1" xml:lang="grc">κνα</w></p>
 </div>
 </body>
       <back>

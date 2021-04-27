@@ -1,860 +1,1566 @@
-,9,"<w   xml:id=""beth0247-8"" xml:lang=""he""><supplied reason=""undefined"">
-               </supplied></w>","<w   xml:id=""jeru0369-2"" xml:lang=""he""><num value=""18"">
-                  <g type=""horizonal-mark""/>
-                  <g type=""eight-vertical-strokes""/>
-               </num></w>","<w   xml:id=""jeru0369-6"" xml:lang=""he""><num value=""35"">
-                  <g type=""curved-numeral""/>
-                  <g type=""horizontal-line""/>
-                  <g type=""five-vertical-strokes""/>
-               </num></w>","<w   xml:id=""jeru0369-10"" xml:lang=""he""><num value=""2"">
-                  <g type=""two-vertical-strokes""/>
-               </num></w>","<w   xml:id=""jeru0369-13"" xml:lang=""he""><num value=""3"">
-                  <g type=""three-vertical-strokes""/>
-               </num></w>","<w   xml:id=""jeru0370-2"" xml:lang=""he""><supplied reason=""lost"">
-                  <num value=""1"">
-                     <g type=""numeral""/>
-                  </num>
-               </supplied></w>","<w   xml:id=""jeru0372-2"" xml:lang=""he""><num value=""16"">
-                  <g type=""horizontal-stroke""/>
-                  <g type=""six-slanted-strokes""/>
-               </num></w>","<w   xml:id=""masa0395-5"" xml:lang=""he""><num value=""3"">
-                  <g type=""three-slanted-strokes""/>
-               </num></w>","<w   xml:id=""masa0595-3"" xml:lang=""he""><num value=""23"">
-                        <g type=""phoen-20""/>
-                        <g type=""three-vertical-strokes""/>
-                    </num></w>"
-א,25,"<w   xml:id=""jeru0357-20"" xml:lang=""he"">א</w>","<w   xml:id=""jeru0357-26"" xml:lang=""he"">א</w>","<w   xml:id=""jeru0394-1"" xml:lang=""he""><supplied reason=""lost"">א</supplied></w>","<w   xml:id=""jeru0490-3"" xml:lang=""he"">א</w>","<w   xml:id=""jeru0490-5"" xml:lang=""he"">א</w>","<w   xml:id=""jeru0492-5"" xml:lang=""he"">א</w>","<w   xml:id=""jeru0507-1"" xml:lang=""he""><supplied reason=""lost"">א</supplied></w>","<w   xml:id=""jord0001-64"" xml:lang=""he""><supplied reason=""undefined"">א</supplied></w>","<w   xml:id=""jord0001-78"" xml:lang=""he"">א</w>","<w   xml:id=""jord0001-202"" xml:lang=""he"">א</w>","<w   xml:id=""jord0001-219"" xml:lang=""he"">א</w>","<w   xml:id=""jord0001-227"" xml:lang=""he"">א</w>","<w   xml:id=""jord0001-231"" xml:lang=""he"">א</w>","<w   xml:id=""jord0001-236"" xml:lang=""he"">א</w>","<w   xml:id=""jord0001-243"" xml:lang=""he"">א</w>","<w   xml:id=""jord0001-317"" xml:lang=""he"">א</w>","<w   xml:id=""jord0001-320"" xml:lang=""he"">א</w>","<w   xml:id=""jord0001-322"" xml:lang=""he"">א</w>","<w   xml:id=""jord0001-379"" xml:lang=""he"">א</w>","<w   xml:id=""jord0001-440"" xml:lang=""he"">א</w>","<w   xml:id=""jord0001-441"" xml:lang=""he"">א</w>","<w   xml:id=""jord0001-467"" xml:lang=""he"">א</w>","<w   xml:id=""jord0001-469"" xml:lang=""he"">א</w>","<w   xml:id=""mger0150-12"" xml:lang=""he""><supplied reason=""lost"">א</supplied></w>","<w   xml:id=""unkn0102-1"" xml:lang=""he"">א</w>"
-אב,2,"<w   xml:id=""beth0234-1"" xml:lang=""he"">אב</w>","<w   xml:id=""jord0001-321"" xml:lang=""he"">אב</w>"
-אבא,3,"<w   xml:id=""akld0023-3"" xml:lang=""he"">אבא</w>","<w   xml:id=""jeru0492-2"" xml:lang=""he"">אבא</w>","<w   xml:id=""jeru0492-12"" xml:lang=""he"">אבא</w>"
-אבגדה,1,"<w   xml:id=""jeru0363-1"" xml:lang=""he"">אבגדה</w>"
-אבי,1,"<w   xml:id=""masa0389-1"" xml:lang=""he"">אבי</w>"
-אדם,1,"<w   xml:id=""jeru0534-2"" xml:lang=""he"">אדם</w>"
-אהרנ,1,"<w   xml:id=""jeru0492-9"" xml:lang=""he"">אהרנ</w>"
-אובן,1,"<w   xml:id=""jeru0374-2"" xml:lang=""he"">אובן</w>"
-אוהבין,1,"<w   xml:id=""jord0001-346"" xml:lang=""he"">אוהבין</w>"
-אוכסנטים,1,"<w   xml:id=""mari0004-8"" xml:lang=""he"">אוכסנטים</w>"
-אומר,1,"<w   xml:id=""jord0001-366"" xml:lang=""he"">אומר</w>"
-אושעיה,1,"<w   xml:id=""masa0384-1"" xml:lang=""he"">אושעיה</w>"
-אותגלות,1,"<w   xml:id=""jord0001-222"" xml:lang=""he"">אותגלות</w>"
-אז,1,"<w   xml:id=""jord0001-465"" xml:lang=""he"">אז</w>"
-אזביא,2,"<w   xml:id=""jeru0456-2"" xml:lang=""he"">אזביא</w>","<w   xml:id=""jeru0456-4"" xml:lang=""he"">אזביא</w>"
-אחד,1,"<w   xml:id=""jord0001-178"" xml:lang=""he"">אחד</w>"
-אחיא,1,"<w   xml:id=""akld0023-2"" xml:lang=""he"">אחיא</w>"
-אחיה,1,"<w   xml:id=""beth0235-1"" xml:lang=""he"">אחיה</w>"
-אטיו,1,"<w   xml:id=""beth0237-4"" xml:lang=""he"">אטיו</w>"
-אטיון,1,"<w   xml:id=""beth0238-6"" xml:lang=""he"">אטיון</w>"
-אי,1,"<w   xml:id=""jord0001-218"" xml:lang=""he"">אי</w>"
-איי,1,"<w   xml:id=""jeru0449-8"" xml:lang=""he"">איי</w>"
-אין,2,"<w   xml:id=""caes0500-1"" xml:lang=""he"">אין</w>","<w   xml:id=""caes0552b-1"" xml:lang=""he"">אין</w>"
-איש,1,"<w   xml:id=""jord0001-210"" xml:lang=""he"">איש</w>"
-אל,8,"<w   xml:id=""jeru0342-1"" xml:lang=""he""><supplied reason=""lost"">
-                        אל</supplied></w>","<w   xml:id=""jeru0454-4"" xml:lang=""he"">אל</w>","<w   xml:id=""jord0001-128"" xml:lang=""he"">אל</w>","<w   xml:id=""jord0001-186"" xml:lang=""he"">אל</w>","<w   xml:id=""jord0001-304"" xml:lang=""he"">אל</w>","<w   xml:id=""jord0001-350"" xml:lang=""he"">אל</w>","<w   xml:id=""jord0001-362"" xml:lang=""he"">אל</w>","<w   xml:id=""jord0001-463"" xml:lang=""he"">אל</w>"
-אלא,1,"<w   xml:id=""jeru0379-1"" xml:lang=""he"">אלא</w>"
-אלה,2,"<w   xml:id=""jord0001-153"" xml:lang=""he"">אלה</w>","<w   xml:id=""jord0001-279"" xml:lang=""he"">אלה</w>"
-אלהי,9,"<w   xml:id=""bloy0001-2"" xml:lang=""he"">אלהי</w>","<w   xml:id=""jord0001-52"" xml:lang=""he"">אלהי</w>","<w   xml:id=""jord0001-92"" xml:lang=""he"">אלהי</w>","<w   xml:id=""jord0001-106"" xml:lang=""he"">אלהי</w>","<w   xml:id=""jord0001-151"" xml:lang=""he"">אלהי</w>","<w   xml:id=""jord0001-176"" xml:lang=""he"">אלהי</w>","<w   xml:id=""jord0001-294"" xml:lang=""he"">אלהי</w>","<w   xml:id=""jord0001-300"" xml:lang=""he"">אלהי</w>","<w   xml:id=""jord0001-357"" xml:lang=""he"">אלהי</w>"
-אלהים,6,"<w   xml:id=""jord0001-41"" xml:lang=""he"">אלהים</w>","<w   xml:id=""jord0001-104"" xml:lang=""he"">אלהים</w>","<w   xml:id=""jord0001-133"" xml:lang=""he"">אלהים</w>","<w   xml:id=""jord0001-149"" xml:lang=""he"">אלהים</w>","<w   xml:id=""jord0001-174"" xml:lang=""he"">אלהים</w>","<w   xml:id=""jord0001-225"" xml:lang=""he"">אלהים</w>"
-אלהנו,1,"<w   xml:id=""unkn0103-2"" xml:lang=""he"">אלהנו</w>"
-אלו,1,"<w   xml:id=""beth0239-1"" xml:lang=""he"">אלו</w>"
-אליעזר,3,"<w   xml:id=""beth0248-9"" xml:lang=""he"">אליעזר</w>","<w   xml:id=""dabb0006-5"" xml:lang=""he"">אליעזר</w>","<w   xml:id=""masa0390-1"" xml:lang=""he"">אליעזר</w>"
-אלכסנ,1,"<w   xml:id=""jaff0057-6"" xml:lang=""he""><supplied reason=""lost"" cert=""low"">אלכסנ</supplied></w>"
-אלע,1,"<w   xml:id=""masa0511-1"" xml:lang=""he"">אלע</w>"
-אלעזר,10,"<w   xml:id=""jeru0303-5"" xml:lang=""he"">אלעזר</w>","<w   xml:id=""jeru0385-3"" xml:lang=""he"">אלעזר</w>","<w   xml:id=""jeru0387-1"" xml:lang=""he"">אלעזר</w>","<w   xml:id=""jeru0559-3"" xml:lang=""he"">אלעזר</w>","<w   xml:id=""jeru0559-6"" xml:lang=""he"">אלעזר</w>","<w   xml:id=""masa0381-1"" xml:lang=""he"">אלעזר</w>","<w   xml:id=""masa0469-1"" xml:lang=""he"">אלעזר</w>","<w   xml:id=""masa0470-3"" xml:lang=""he"">אלעזר</w>","<w   xml:id=""masa0476-1"" xml:lang=""he"">אלעזר</w>","<w   xml:id=""masa0510-1"" xml:lang=""he"">אלעזר</w>"
-אלעסה,1,"<w   xml:id=""jeru0423-1"" xml:lang=""he"">אלעסה</w>"
-אלף,1,"<w   xml:id=""jeru0449-2"" xml:lang=""he"">אלף</w>"
-אלקסדרין,1,"<w   xml:id=""jeru0508-1"" xml:lang=""he"">אלקסדרין</w>"
-אם,3,"<w   xml:id=""jeru0419-2"" xml:lang=""he"">אם</w>","<w   xml:id=""jord0001-397"" xml:lang=""he"">אם</w>","<w   xml:id=""jord0001-400"" xml:lang=""he"">אם</w>"
-אמא,1,"<w   xml:id=""akld0023-4"" xml:lang=""he"">אמא</w>"
-אמות,2,"<w   xml:id=""masa0585-2"" xml:lang=""he"">אמות</w>","<w   xml:id=""masa0585-5"" xml:lang=""he"">אמות</w>"
-אמן,1,"<w   xml:id=""jeru0453-1"" xml:lang=""he"">אמן</w>"
-אמר,10,"<w   xml:id=""jord0001-40"" xml:lang=""he"">אמר</w>","<w   xml:id=""jord0001-50"" xml:lang=""he"">אמר</w>","<w   xml:id=""jord0001-88"" xml:lang=""he"">אמר</w>","<w   xml:id=""jord0001-102"" xml:lang=""he"">אמר</w>","<w   xml:id=""jord0001-172"" xml:lang=""he"">אמר</w>","<w   xml:id=""jord0001-190"" xml:lang=""he"">אמר</w>","<w   xml:id=""jord0001-290"" xml:lang=""he"">אמר</w>","<w   xml:id=""jord0001-297"" xml:lang=""he"">אמר</w>","<w   xml:id=""jord0001-334"" xml:lang=""he"">אמר</w>","<w   xml:id=""jord0001-354"" xml:lang=""he"">אמר</w>"
-אןה,1,"<w   xml:id=""jeru0492-11"" xml:lang=""he"">אןה</w>"
-אנא,1,"<w   xml:id=""jeru0492-1"" xml:lang=""he"">אנא</w>"
-אנחנו,1,"<w   xml:id=""jord0001-336"" xml:lang=""he"">אנחנו</w>"
-אני,5,"<w   xml:id=""jord0001-83"" xml:lang=""he"">אני</w>","<w   xml:id=""jord0001-216"" xml:lang=""he"">אני</w>","<w   xml:id=""jord0001-407"" xml:lang=""he"">אני</w>","<w   xml:id=""jord0001-431"" xml:lang=""he"">אני</w>","<w   xml:id=""jord0001-459"" xml:lang=""he"">אני</w>"
-אניאנה,1,"<w   xml:id=""beth0239-7"" xml:lang=""he"">אניאנה</w>"
-אניות,1,"<w   xml:id=""jeru0449-7"" xml:lang=""he"">אניות</w>"
-אנינא,1,"<w   xml:id=""beth0233-1"" xml:lang=""he"">אנינא</w>"
-אנכי,1,"<w   xml:id=""jord0001-406"" xml:lang=""he"">אנכי</w>"
-אנשים,1,"<w   xml:id=""jord0001-386"" xml:lang=""he"">אנשים</w>"
-אפלגנה,1,"<w   xml:id=""unkn0101-3"" xml:lang=""he"">אפלגנה</w>"
-אפמי,1,"<w   xml:id=""akld0020-2"" xml:lang=""he"">אפמי</w>"
-אפמלס,1,"<w   xml:id=""seph0100-1"" xml:lang=""he"">אפמלס</w>"
-אק,1,"<w   xml:id=""jord0001-427"" xml:lang=""he"">אק</w>"
-ארבגלא,1,"<w   xml:id=""erra0002-1"" xml:lang=""he"">ארבגלא</w>"
-ארבע,2,"<w   xml:id=""masa0585-1"" xml:lang=""he"">ארבע</w>","<w   xml:id=""masa0586-1"" xml:lang=""he"">ארבע</w>"
-ארבעה,1,"<w   xml:id=""jord0001-181"" xml:lang=""he"">ארבעה</w>"
-ארבעין,1,"<w   xml:id=""jord0001-68"" xml:lang=""he"">ארבעין</w>"
-ארו,1,"<w   xml:id=""beth0246-2"" xml:lang=""he"">ארו</w>"
-ארובות,1,"<w   xml:id=""jord0001-438"" xml:lang=""he"">ארובות</w>"
-ארונו,3,"<w   xml:id=""beth0245-2"" xml:lang=""he"">ארונו</w>","<w   xml:id=""beth0248-2"" xml:lang=""he"">ארונו</w>","<w   xml:id=""beth0250-2"" xml:lang=""he"">ארונו</w>"
-ארונות,1,"<w   xml:id=""beth0239-2"" xml:lang=""he"">ארונות</w>"
-ארונן,1,"<w   xml:id=""beth0244-2"" xml:lang=""he"">ארונן</w>"
-אריה,1,"<w   xml:id=""tibe0001-5"" xml:lang=""he"">אריה</w>"
-אריסטון,1,"<w   xml:id=""akld0020-1"" xml:lang=""he"">אריסטון</w>"
-ארס,1,"<w   xml:id=""jord0001-7"" xml:lang=""he"">ארס</w>"
-ארסטון,1,"<w   xml:id=""akld0024-3"" xml:lang=""he"">ארסטון</w>"
-אש,2,"<w   xml:id=""mger0150-7"" xml:lang=""he""><supplied reason=""lost"">אש</supplied></w>","<w   xml:id=""tdor0002-3"" xml:lang=""he"">אש</w>"
-אשעיה,1,"<w   xml:id=""masa0411-1"" xml:lang=""he"">אשעיה</w>"
-אשר,1,"<w   xml:id=""mger0150-1"" xml:lang=""he""><supplied reason=""lost"">אשר</supplied></w>"
-אשריא,1,"<w   xml:id=""jord0001-313"" xml:lang=""he"">אשריא</w>"
-אשת,3,"<w   xml:id=""jeru0017-2"" xml:lang=""he"">אשת</w>","<w   xml:id=""jeru0390-3"" xml:lang=""he"">אשת</w>","<w   xml:id=""masa0400-1"" xml:lang=""he"">אשת</w>"
-אשתו,1,"<w   xml:id=""beth0246-8"" xml:lang=""he"">אשתו</w>"
-את,5,"<w   xml:id=""beth0250-11"" xml:lang=""he"">את</w>","<w   xml:id=""jord0001-142"" xml:lang=""he"">את</w>","<w   xml:id=""jord0001-380"" xml:lang=""he"">את</w>","<w   xml:id=""qumr0001-11"" xml:lang=""he"">את</w>","<w   xml:id=""qumr0001-30"" xml:lang=""he"">את</w>"
-אתגלות,1,"<w   xml:id=""jord0001-223"" xml:lang=""he"">אתגלות</w>"
-אתה,3,"<w   xml:id=""bloy0002-2"" xml:lang=""he"">אתה</w>","<w   xml:id=""jord0001-37"" xml:lang=""he"">אתה</w>","<w   xml:id=""jord0001-123"" xml:lang=""he"">אתה</w>"
-ב,22,"<w   xml:id=""caes0518-4"" xml:lang=""he"">ב</w>","<w   xml:id=""jent0001-1"" xml:lang=""he"">ב</w>","<w   xml:id=""jeru0341-1"" xml:lang=""he"">ב</w>","<w   xml:id=""jeru0349-2"" xml:lang=""he"">ב</w>","<w   xml:id=""jeru0358-2"" xml:lang=""he"">ב</w>","<w   xml:id=""jeru0369-1"" xml:lang=""he""><supplied reason=""lost"">ב</supplied></w>","<w   xml:id=""jord0001-4"" xml:lang=""he"">ב</w>","<w   xml:id=""jord0001-17"" xml:lang=""he"">ב</w>","<w   xml:id=""jord0001-18"" xml:lang=""he"">ב</w>","<w   xml:id=""jord0001-247"" xml:lang=""he"">ב</w>","<w   xml:id=""jord0001-318"" xml:lang=""he"">ב</w>","<w   xml:id=""jord0001-373"" xml:lang=""he"">ב</w>","<w   xml:id=""jord0001-420"" xml:lang=""he"">ב</w>","<w   xml:id=""jord0001-451"" xml:lang=""he"">ב</w>","<w   xml:id=""jord0001-471"" xml:lang=""he"">ב</w>","<w   xml:id=""masa0401-1"" xml:lang=""he"">ב</w>","<w   xml:id=""masa0449-4"" xml:lang=""he""><supplied reason=""lost"">ב</supplied></w>","<w   xml:id=""masa0464-2"" xml:lang=""he"">ב</w>","<w   xml:id=""masa0539-2"" xml:lang=""he""><supplied reason=""lost"">ב</supplied></w>","<w   xml:id=""qumr0001-6"" xml:lang=""he"">ב</w>","<w   xml:id=""qumr0002-9"" xml:lang=""he""><supplied reason=""lost"">ב</supplied></w>","<w   xml:id=""unkn0102-2"" xml:lang=""he"">ב</w>"
-באלף,1,"<w   xml:id=""jeru0449-4"" xml:lang=""he"">באלף</w>"
-בגדולות,1,"<w   xml:id=""jord0001-47"" xml:lang=""he"">בגדולות</w>"
-בגדלות,1,"<w   xml:id=""jord0001-201"" xml:lang=""he"">בגדלות</w>"
-בגטה,1,"<w   xml:id=""jeru0492-31"" xml:lang=""he"">בגטה</w>"
-בה,4,"<w   xml:id=""jeru0534-3"" xml:lang=""he"">בה</w>","<w   xml:id=""jord0001-316"" xml:lang=""he"">בה</w>","<w   xml:id=""masa0450-6"" xml:lang=""he"">בה</w>","<w   xml:id=""masa0451-4"" xml:lang=""he""><supplied reason=""lost"">בה</supplied></w>"
-בוטא,1,"<w   xml:id=""unkn0100-1"" xml:lang=""he"">בוטא</w>"
-בז,1,"<w   xml:id=""jeru0395-2"" xml:lang=""he""><supplied reason=""lost"" cert=""low"">בז</supplied></w>"
-בטוחין,1,"<w   xml:id=""jord0001-337"" xml:lang=""he"">בטוחין</w>"
-ביב,1,"<w   xml:id=""jord0001-325"" xml:lang=""he"">ביב</w>"
-בירבי,1,"<w   xml:id=""beth0238-3"" xml:lang=""he"">בירבי</w>"
-בירושׁלם,1,"<w   xml:id=""jeru0492-18"" xml:lang=""he"">בירושׁלם</w>"
-בירחו,1,"<w   xml:id=""qumr0001-3"" xml:lang=""he"">בירחו</w>"
-ביריבי,1,"<w   xml:id=""beth0258-4"" xml:lang=""he"">ביריבי</w>"
-בית,1,"<w   xml:id=""dabb0006-2"" xml:lang=""he"">בית</w>"
-בכ,2,"<w   xml:id=""jeru0362-1"" xml:lang=""he"">בכ</w>","<w   xml:id=""jeru0450-2"" xml:lang=""he""><choice>בכ</choice></w>"
-בכול,1,"<w   xml:id=""jord0001-246"" xml:lang=""he"">בכול</w>"
-בלה,6,"<w   xml:id=""masa0527-2"" xml:lang=""he"">בלה</w>","<w   xml:id=""masa0529-2"" xml:lang=""he"">בלה</w>","<w   xml:id=""masa0533-2"" xml:lang=""he"">בלה</w>","<w   xml:id=""masa0535-2"" xml:lang=""he"">בלה</w>","<w   xml:id=""masa0536-2"" xml:lang=""he""><supplied reason=""lost"">בלה</supplied></w>","<w   xml:id=""masa0540-4"" xml:lang=""he""><supplied reason=""lost"">בלה</supplied></w>"
-בלסנה,1,"<w   xml:id=""masa0544-2"" xml:lang=""he"">בלסנה</w>"
-במ,2,"<w   xml:id=""jeru0492-28"" xml:lang=""he"">במ</w>","<w   xml:id=""jord0001-220"" xml:lang=""he"">במ</w>"
-במקדש,1,"<w   xml:id=""mger0150-14"" xml:lang=""he"">במקדש</w>"
-בן,42,"<w   xml:id=""akld0021-2"" xml:lang=""he"">בן</w>","<w   xml:id=""anna0003-2"" xml:lang=""he"">בן</w>","<w   xml:id=""anna0004-2"" xml:lang=""he"">בן</w>","<w   xml:id=""beth0227-5"" xml:lang=""he"">בן</w>","<w   xml:id=""beth0227-17"" xml:lang=""he"">בן</w>","<w   xml:id=""beth0228-5"" xml:lang=""he"">בן</w>","<w   xml:id=""beth0237-9"" xml:lang=""he"">בן</w>","<w   xml:id=""beth0238-5"" xml:lang=""he"">בן</w>","<w   xml:id=""beth0246-12"" xml:lang=""he"">בן</w>","<w   xml:id=""beth0248-11"" xml:lang=""he"">בן</w>","<w   xml:id=""beth0258-2"" xml:lang=""he"">בן</w>","<w   xml:id=""beth0259-4"" xml:lang=""he"">בן</w>","<w   xml:id=""erra0001-2"" xml:lang=""he"">בן</w>","<w   xml:id=""erra0002-2"" xml:lang=""he"">בן</w>","<w   xml:id=""haif0010-4"" xml:lang=""he"">בן</w>","<w   xml:id=""jaff0054-7"" xml:lang=""he"">בן</w>","<w   xml:id=""jaff0057-2"" xml:lang=""he"">בן</w>","<w   xml:id=""jeru0303-13"" xml:lang=""he"">בן</w>","<w   xml:id=""jeru0353-1"" xml:lang=""he"">בן</w>","<w   xml:id=""jeru0354-1"" xml:lang=""he"">בן</w>","<w   xml:id=""jeru0355-1"" xml:lang=""he"">בן</w>","<w   xml:id=""jeru0365-1"" xml:lang=""he"">בן</w>","<w   xml:id=""jeru0381-2"" xml:lang=""he"">בן</w>","<w   xml:id=""jeru0413-2"" xml:lang=""he"">בן</w>","<w   xml:id=""jeru0435-2"" xml:lang=""he"">בן</w>","<w   xml:id=""jeru0490-2"" xml:lang=""he"">בן</w>","<w   xml:id=""jeru0543-1"" xml:lang=""he"">בן</w>","<w   xml:id=""juda0001-2"" xml:lang=""he"">בן</w>","<w   xml:id=""masa0406-1"" xml:lang=""he"">בן</w>","<w   xml:id=""masa0407-1"" xml:lang=""he"">בן</w>","<w   xml:id=""masa0429-1"" xml:lang=""he"">בן</w>","<w   xml:id=""masa0430-1"" xml:lang=""he"">בן</w>","<w   xml:id=""masa0435-1"" xml:lang=""he"">בן</w>","<w   xml:id=""masa0466-2"" xml:lang=""he"">בן</w>","<w   xml:id=""masa0472-1"" xml:lang=""he"">בן</w>","<w   xml:id=""mger0150-5"" xml:lang=""he""><supplied reason=""lost"">בן</supplied></w>","<w   xml:id=""mikh0001-2"" xml:lang=""he"">בן</w>","<w   xml:id=""mtsc0001-2"" xml:lang=""he"">בן</w>","<w   xml:id=""qumr0001-9"" xml:lang=""he"">בן</w>","<w   xml:id=""qumr0002-7"" xml:lang=""he"">בן</w>","<w   xml:id=""shap0002-2"" xml:lang=""he"">בן</w>","<w   xml:id=""shap0003-2"" xml:lang=""he"">בן</w>"
-בנ,1,"<w   xml:id=""jord0001-21"" xml:lang=""he"">בנ</w>"
-בנו,4,"<w   xml:id=""beth0237-22"" xml:lang=""he"">בנו</w>","<w   xml:id=""beth0244-9"" xml:lang=""he"">בנו</w>","<w   xml:id=""beth0248-6"" xml:lang=""he"">בנו</w>","<w   xml:id=""beth0250-6"" xml:lang=""he"">בנו</w>"
-בנותיה,1,"<w   xml:id=""beth0243-8"" xml:lang=""he"">בנותיה</w>"
-בני,4,"<w   xml:id=""jeru0303-11"" xml:lang=""he"">בני</w>","<w   xml:id=""jeru0303-17"" xml:lang=""he"">בני</w>","<w   xml:id=""jord0001-15"" xml:lang=""he"">בני</w>","<w   xml:id=""jord0001-402"" xml:lang=""he"">בני</w>"
-בניאיר,1,"<w   xml:id=""masa0437-1"" xml:lang=""he"">בניאיר</w>"
-בניו,3,"<w   xml:id=""beth0239-11"" xml:lang=""he"">בניו</w>","<w   xml:id=""beth0244-5"" xml:lang=""he"">בניו</w>","<w   xml:id=""mger0150-10"" xml:lang=""he"">בניו</w>"
-בנס,1,"<w   xml:id=""jord0001-121"" xml:lang=""he"">בנס</w>"
-בנת,1,"<w   xml:id=""jeru0450-1"" xml:lang=""he"">בנת</w>"
-בסי,1,"<w   xml:id=""masa0506-1"" xml:lang=""he"">בסי</w>"
-בע,1,"<w   xml:id=""jeru0194-2"" xml:lang=""he""><supplied reason=""undefined"">
-                        בע
-                    </supplied></w>"
-בצק,2,"<w   xml:id=""jeru0370-5"" xml:lang=""he"">בצק</w>","<w   xml:id=""masa0548-1"" xml:lang=""he"">בצק</w>"
-בקש,1,"<w   xml:id=""jord0001-75"" xml:lang=""he"">בקש</w>"
-בקשו,1,"<w   xml:id=""jord0001-169"" xml:lang=""he"">בקשו</w>"
-בר,27,"<w   xml:id=""beth0255-6"" xml:lang=""he"">בר</w>","<w   xml:id=""jent0006-2"" xml:lang=""he"">בר</w>","<w   xml:id=""jent0006-5"" xml:lang=""he"">בר</w>","<w   xml:id=""jeru0300-4"" xml:lang=""he"">בר</w>","<w   xml:id=""jeru0305-5"" xml:lang=""he"">בר</w>","<w   xml:id=""jeru0319-3"" xml:lang=""he"">בר</w>","<w   xml:id=""jeru0385-2"" xml:lang=""he"">בר</w>","<w   xml:id=""jeru0387-2"" xml:lang=""he"">בר</w>","<w   xml:id=""jeru0397-2"" xml:lang=""he"">בר</w>","<w   xml:id=""jeru0414-2"" xml:lang=""he"">בר</w>","<w   xml:id=""jeru0449-14"" xml:lang=""he"">בר</w>","<w   xml:id=""jeru0449-16"" xml:lang=""he"">בר</w>","<w   xml:id=""jeru0450-3"" xml:lang=""he"">בר</w>","<w   xml:id=""jeru0492-3"" xml:lang=""he"">בר</w>","<w   xml:id=""jeru0492-8"" xml:lang=""he"">בר</w>","<w   xml:id=""jeru0492-24"" xml:lang=""he"">בר</w>","<w   xml:id=""jeru0508-2"" xml:lang=""he"">בר</w>","<w   xml:id=""jord0001-372"" xml:lang=""he"">בר</w>","<w   xml:id=""mari0004-7"" xml:lang=""he"">בר</w>","<w   xml:id=""masa0414-1"" xml:lang=""he"">בר</w>","<w   xml:id=""masa0415-1"" xml:lang=""he"">בר</w>","<w   xml:id=""masa0462-2"" xml:lang=""he"">בר</w>","<w   xml:id=""masa0463-3"" xml:lang=""he"">בר</w>","<w   xml:id=""masa0468-2"" xml:lang=""he"">בר</w>","<w   xml:id=""masa0469-2"" xml:lang=""he"">בר</w>","<w   xml:id=""masa0470-2"" xml:lang=""he"">בר</w>","<w   xml:id=""masa0503-1"" xml:lang=""he"">בר</w>"
-ברב,1,"<w   xml:id=""jaff0052-7"" xml:lang=""he"">ברב</w>"
-ברוך,3,"<w   xml:id=""jord0001-130"" xml:lang=""he"">ברוך</w>","<w   xml:id=""jord0001-384"" xml:lang=""he"">ברוך</w>","<w   xml:id=""unkn0103-1"" xml:lang=""he"">ברוך</w>"
-ברכ,1,"<w   xml:id=""jord0001-368"" xml:lang=""he"">ברכ</w>"
-ברכה,1,"<w   xml:id=""masa0393-1"" xml:lang=""he"">ברכה</w>"
-ברמשא,1,"<w   xml:id=""jeru0357-8"" xml:lang=""he"">ברמשא</w>"
-ברת,2,"<w   xml:id=""jeru0300-2"" xml:lang=""he"">ברת</w>","<w   xml:id=""jeru0305-3"" xml:lang=""he"">ברת</w>"
-בשלום,3,"<w   xml:id=""beth0227-9"" xml:lang=""he"">בשלום</w>","<w   xml:id=""beth0227-14"" xml:lang=""he"">בשלום</w>","<w   xml:id=""beth0238-9"" xml:lang=""he"">בשלום</w>"
-בשנת,1,"<w   xml:id=""qumr0001-1"" xml:lang=""he"">בשנת</w>"
-בשר,2,"<w   xml:id=""jord0001-338"" xml:lang=""he"">בשר</w>","<w   xml:id=""masa0547-1"" xml:lang=""he"">בשר</w>"
-בת,12,"<w   xml:id=""akld0024-2"" xml:lang=""he"">בת</w>","<w   xml:id=""beth0237-13"" xml:lang=""he"">בת</w>","<w   xml:id=""beth0237-27"" xml:lang=""he"">בת</w>","<w   xml:id=""jeru0388-2"" xml:lang=""he"">בת</w>","<w   xml:id=""jeru0399-2"" xml:lang=""he""><supplied reason=""lost"">בת</supplied></w>","<w   xml:id=""jeru0449-12"" xml:lang=""he"">בת</w>","<w   xml:id=""jeru0454-2"" xml:lang=""he"">בת</w>","<w   xml:id=""jeru0454-5"" xml:lang=""he""><supplied reason=""omitted"">בת</supplied></w>","<w   xml:id=""jeru0559-2"" xml:lang=""he"">בת</w>","<w   xml:id=""jeru0559-5"" xml:lang=""he"">בת</w>","<w   xml:id=""masa0403-1"" xml:lang=""he"">בת</w>","<w   xml:id=""masa0405-1"" xml:lang=""he"">בת</w>"
-בתו,4,"<w   xml:id=""beth0237-5"" xml:lang=""he"">בתו</w>","<w   xml:id=""beth0237-18"" xml:lang=""he"">בתו</w>","<w   xml:id=""beth0243-2"" xml:lang=""he"">בתו</w>","<w   xml:id=""beth0247-4"" xml:lang=""he"">בתו</w>"
-בתולה,2,"<w   xml:id=""beth0237-12"" xml:lang=""he"">בתולה</w>","<w   xml:id=""tibe0001-6"" xml:lang=""he"">בתולה</w>"
-ג,5,"<w   xml:id=""jord0001-63"" xml:lang=""he"">ג</w>","<w   xml:id=""jord0001-230"" xml:lang=""he"">ג</w>","<w   xml:id=""jord0001-452"" xml:lang=""he"">ג</w>","<w   xml:id=""masa0360-2"" xml:lang=""he"">ג</w>","<w   xml:id=""unkn0102-3"" xml:lang=""he"">ג</w>"
-גבאבנ,1,"<w   xml:id=""jeru0449-10"" xml:lang=""he"">גבאבנ</w>"
-גברי,1,"<w   xml:id=""jeru0449-6"" xml:lang=""he"">גברי</w>"
-גבריאל,3,"<w   xml:id=""jord0001-408"" xml:lang=""he"">גבריאל</w>","<w   xml:id=""jord0001-432"" xml:lang=""he"">גבריאל</w>","<w   xml:id=""jord0001-460"" xml:lang=""he"">גבריאל</w>"
-גדי,1,"<w   xml:id=""tibe0001-8"" xml:lang=""he"">גדי</w>"
-גיו,1,"<w   xml:id=""jeru0459-1"" xml:lang=""he"">גיו</w>"
-גמליאל,3,"<w   xml:id=""beth0237-8"" xml:lang=""he"">גמליאל</w>","<w   xml:id=""beth0237-25"" xml:lang=""he"">גמליאל</w>","<w   xml:id=""beth0248-5"" xml:lang=""he"">גמליאל</w>"
-גנ,1,"<w   xml:id=""jeru0334-3"" xml:lang=""he"">גנ</w>"
-גנבי,1,"<w   xml:id=""jeru0465-2"" xml:lang=""he"">גנבי</w>"
-גני,1,"<w   xml:id=""jord0001-94"" xml:lang=""he"">גני</w>"
-גר,5,"<w   xml:id=""jord0001-416"" xml:lang=""he"">גר</w>","<w   xml:id=""masa0537-1"" xml:lang=""he"">גר</w>","<w   xml:id=""masa0537-2"" xml:lang=""he""><supplied reason=""lost"">גר</supplied></w>","<w   xml:id=""masa0540-1"" xml:lang=""he"">גר</w>","<w   xml:id=""masa0540-2"" xml:lang=""he""><supplied reason=""lost"">גר</supplied></w>"
-גרגר,2,"<w   xml:id=""masa0541-1"" xml:lang=""he"">גרגר</w>","<w   xml:id=""masa0542-1"" xml:lang=""he"">גרגר</w>"
-גרמלקרת,1,"<w   xml:id=""tana0001-1"" xml:lang=""he"">גרמלקרת</w>"
-ד,17,"<w   xml:id=""jeru0377-1"" xml:lang=""he"">ד</w>","<w   xml:id=""jord0001-22"" xml:lang=""he"">ד</w>","<w   xml:id=""jord0001-31"" xml:lang=""he"">ד</w>","<w   xml:id=""jord0001-193"" xml:lang=""he"">ד</w>","<w   xml:id=""jord0001-206"" xml:lang=""he"">ד</w>","<w   xml:id=""jord0001-256"" xml:lang=""he"">ד</w>","<w   xml:id=""jord0001-305"" xml:lang=""he"">ד</w>","<w   xml:id=""jord0001-319"" xml:lang=""he"">ד</w>","<w   xml:id=""jord0001-436"" xml:lang=""he"">ד</w>","<w   xml:id=""masa0527-1"" xml:lang=""he""><supplied reason=""lost"">ד</supplied></w>","<w   xml:id=""masa0529-1"" xml:lang=""he""><supplied reason=""lost"">ד</supplied></w>","<w   xml:id=""masa0533-1"" xml:lang=""he""><supplied reason=""lost"">ד</supplied></w>","<w   xml:id=""masa0535-1"" xml:lang=""he""><supplied reason=""lost"">ד</supplied></w>","<w   xml:id=""masa0536-1"" xml:lang=""he"">ד</w>","<w   xml:id=""masa0539-1"" xml:lang=""he"">ד</w>","<w   xml:id=""masa0540-3"" xml:lang=""he"">ד</w>","<w   xml:id=""unkn0102-4"" xml:lang=""he"">ד</w>"
-דא,1,"<w   xml:id=""jord0001-26"" xml:lang=""he"">דא</w>"
-דב,2,"<w   xml:id=""masa0530-1"" xml:lang=""he"">דב</w>","<w   xml:id=""masa0531-1"" xml:lang=""he""><supplied reason=""lost"">דב</supplied></w>"
-דבל,2,"<w   xml:id=""masa0525-1"" xml:lang=""he"">דבל</w>","<w   xml:id=""masa0537-3"" xml:lang=""he"">דבל</w>"
-דבלה,6,"<w   xml:id=""masa0516-1"" xml:lang=""he"">דבלה</w>","<w   xml:id=""masa0519-1"" xml:lang=""he"">דבלה</w>","<w   xml:id=""masa0522-1"" xml:lang=""he"">דבלה</w>","<w   xml:id=""masa0526-1"" xml:lang=""he"">דבלה</w>","<w   xml:id=""masa0528-1"" xml:lang=""he"">דבלה</w>","<w   xml:id=""masa0538-1"" xml:lang=""he"">דבלה</w>"
-דבני,1,"<w   xml:id=""mari0004-10"" xml:lang=""he"">דבני</w>"
-דבר,2,"<w   xml:id=""jord0001-27"" xml:lang=""he"">דבר</w>","<w   xml:id=""jord0001-371"" xml:lang=""he"">דבר</w>"
-דג,1,"<w   xml:id=""jeru0490-6"" xml:lang=""he""><choice>דג</choice></w>"
-דגים,1,"<w   xml:id=""tibe0001-10"" xml:lang=""he"">דגים</w>"
-דה,2,"<w   xml:id=""masa0484-15"" xml:lang=""he"">דה</w>","<w   xml:id=""masa0493-2"" xml:lang=""he"">דה</w>"
-דוגה,1,"<w   xml:id=""masa0553-1"" xml:lang=""he"">דוגה</w>"
-דוד,2,"<w   xml:id=""jord0001-74"" xml:lang=""he"">דוד</w>","<w   xml:id=""jord0001-376"" xml:lang=""he"">דוד</w>"
-דווו,1,"<w   xml:id=""masa0924-3"" xml:lang=""he"">דווו</w>"
-דומנה,1,"<w   xml:id=""beth0242-4"" xml:lang=""he"">דומנה</w>"
-דוסתס,1,"<w   xml:id=""masa0382-1"" xml:lang=""he"">דוסתס</w>"
-דזבנה,1,"<w   xml:id=""jeru0492-30"" xml:lang=""he"">דזבנה</w>"
-די,2,"<w   xml:id=""jeru0492-16"" xml:lang=""he"">די</w>","<w   xml:id=""qumr0001-32"" xml:lang=""he""><supplied reason=""lost"">די</supplied></w>"
-דכיר,1,"<w   xml:id=""mari0004-1"" xml:lang=""he"">דכיר</w>"
-דלי,1,"<w   xml:id=""tibe0001-9"" xml:lang=""he"">דלי</w>"
-דם,3,"<w   xml:id=""jord0001-241"" xml:lang=""he"">דם</w>","<w   xml:id=""jord0001-286"" xml:lang=""he"">דם</w>","<w   xml:id=""jord0001-341"" xml:lang=""he"">דם</w>"
-דמלי,1,"<w   xml:id=""masa0403-2"" xml:lang=""he"">דמלי</w>"
-דנטירא,1,"<w   xml:id=""akld0023-5"" xml:lang=""he"">דנטירא</w>"
-דני,1,"<w   xml:id=""mger0150-13"" xml:lang=""he"">דני</w>"
-דניאל,1,"<w   xml:id=""mtsc0001-3"" xml:lang=""he"">דניאל</w>"
-דסוי,1,"<w   xml:id=""hali0001-4"" xml:lang=""he"">דסוי</w>"
-דר,2,"<w   xml:id=""jeru0347-2"" xml:lang=""he""><choice>דר</choice></w>","<w   xml:id=""jord0001-267"" xml:lang=""he"">דר</w>"
-דריה,1,"<w   xml:id=""jaff0057-7"" xml:lang=""he"">דריה</w>"
-דרך,1,"<w   xml:id=""jord0001-122"" xml:lang=""he"">דרך</w>"
-דרן,1,"<w   xml:id=""jeru0358-3"" xml:lang=""he""><choice>דרן</choice></w>"
-ה,26,"<w   xml:id=""beth0245-6"" xml:lang=""he"">ה</w>","<w   xml:id=""jeru0486-2"" xml:lang=""he"">ה</w>","<w   xml:id=""jeru0492-26"" xml:lang=""he""><supplied reason=""omitted"">ה</supplied></w>","<w   xml:id=""jord0001-2"" xml:lang=""he"">ה</w>","<w   xml:id=""jord0001-6"" xml:lang=""he"">ה</w>","<w   xml:id=""jord0001-9"" xml:lang=""he"">ה</w>","<w   xml:id=""jord0001-29"" xml:lang=""he""><supplied reason=""lost"">ה</supplied></w>","<w   xml:id=""jord0001-203"" xml:lang=""he"">ה</w>","<w   xml:id=""jord0001-262"" xml:lang=""he"">ה</w>","<w   xml:id=""jord0001-272"" xml:lang=""he"">ה</w>","<w   xml:id=""jord0001-283"" xml:lang=""he"">ה</w>","<w   xml:id=""jord0001-323"" xml:lang=""he"">ה</w>","<w   xml:id=""jord0001-404"" xml:lang=""he"">ה</w>","<w   xml:id=""jord0001-446"" xml:lang=""he"">ה</w>","<w   xml:id=""masa0418-4"" xml:lang=""he"">ה</w>","<w   xml:id=""masa0449-5"" xml:lang=""he"">ה</w>","<w   xml:id=""masa0450-3"" xml:lang=""he""><supplied reason=""lost"">ה</supplied></w>","<w   xml:id=""masa0450-7"" xml:lang=""he"">ה</w>","<w   xml:id=""masa0454-3"" xml:lang=""he"">ה</w>","<w   xml:id=""masa0484-5"" xml:lang=""he""><supplied reason=""lost"">ה</supplied></w>","<w   xml:id=""masa0486-2"" xml:lang=""he""><supplied reason=""lost"">ה</supplied></w>","<w   xml:id=""masa0525-2"" xml:lang=""he""><supplied reason=""lost"">ה</supplied></w>","<w   xml:id=""masa0537-4"" xml:lang=""he""><supplied reason=""lost"">ה</supplied></w>","<w   xml:id=""masa0547-3"" xml:lang=""he""><supplied reason=""lost"">ה</supplied></w>","<w   xml:id=""mger0150-2"" xml:lang=""he""><supplied reason=""lost"">ה</supplied></w>","<w   xml:id=""unkn0102-5"" xml:lang=""he"">ה</w>"
-הא,3,"<w   xml:id=""jeru0459-3"" xml:lang=""he""><choice>הא</choice></w>","<w   xml:id=""jord0001-423"" xml:lang=""he"">הא</w>","<w   xml:id=""masa0454-2"" xml:lang=""he"">הא</w>"
-האות,1,"<w   xml:id=""jord0001-82"" xml:lang=""he"">האות</w>"
-האחרין,1,"<w   xml:id=""jord0001-168"" xml:lang=""he"">האחרין</w>"
-הארון,1,"<w   xml:id=""beth0247-1"" xml:lang=""he"">הארון</w>"
-הארץ,3,"<w   xml:id=""bloy0001-4"" xml:lang=""he"">הארץ</w>","<w   xml:id=""jord0001-145"" xml:lang=""he"">הארץ</w>","<w   xml:id=""jord0001-383"" xml:lang=""he"">הארץ</w>"
-הביט,1,"<w   xml:id=""qumr0001-23"" xml:lang=""he"">הביט</w>"
-הגאים,1,"<w   xml:id=""jord0001-56"" xml:lang=""he"">הגאים</w>"
-הגדול,1,"<w   xml:id=""jeru0543-3"" xml:lang=""he"">הגדול</w>"
-הגדל,1,"<w   xml:id=""jeru0305-8"" xml:lang=""he"">הגדל</w>"
-הגיור,1,"<w   xml:id=""akld0020-4"" xml:lang=""he"">הגיור</w>"
-הגירת,1,"<w   xml:id=""jeru0412-2"" xml:lang=""he"">הגירת</w>"
-הגלי,1,"<w   xml:id=""masa0404-2"" xml:lang=""he"">הגלי</w>"
-הדולקת,1,"<w   xml:id=""jeru0412-3"" xml:lang=""he"">הדולקת</w>"
-הו,3,"<w   xml:id=""bshe0101-2"" xml:lang=""he"">הו</w>","<w   xml:id=""jord0001-10"" xml:lang=""he"">הו</w>","<w   xml:id=""qumr0002-4"" xml:lang=""he"">הו</w>"
-הוא,3,"<w   xml:id=""jeru0472-2"" xml:lang=""he"">הוא</w>","<w   xml:id=""jord0001-126"" xml:lang=""he"">הוא</w>","<w   xml:id=""jord0001-278"" xml:lang=""he"">הוא</w>"
-הוה,2,"<w   xml:id=""jord0001-90"" xml:lang=""he"">הוה</w>","<w   xml:id=""jord0001-252"" xml:lang=""he"">הוה</w>"
-הזה,6,"<w   xml:id=""beth0247-2"" xml:lang=""he"">הזה</w>","<w   xml:id=""beth0255-2"" xml:lang=""he"">הזה</w>","<w   xml:id=""beth0261-2"" xml:lang=""he"">הזה</w>","<w   xml:id=""jaff0052-2"" xml:lang=""he"">הזה</w>","<w   xml:id=""jord0001-118"" xml:lang=""he"">הזה</w>","<w   xml:id=""qumr0001-15"" xml:lang=""he"">הזה</w>"
-הזו,2,"<w   xml:id=""beth0250-13"" xml:lang=""he"">הזו</w>","<w   xml:id=""masa0450-4"" xml:lang=""he""><supplied reason=""lost"">הזו</supplied></w>"
-הזות,3,"<w   xml:id=""masa0449-3"" xml:lang=""he"">הזות</w>","<w   xml:id=""masa0451-3"" xml:lang=""he""><supplied reason=""lost"">הזות</supplied></w>","<w   xml:id=""masa0452-3"" xml:lang=""he""><supplied reason=""lost"">הזות</supplied></w>"
-הזי,1,"<w   xml:id=""qumr0001-25"" xml:lang=""he"">הזי</w>"
-הח,1,"<w   xml:id=""jord0001-324"" xml:lang=""he"">הח</w>"
-החסידין,1,"<w   xml:id=""jord0001-72"" xml:lang=""he"">החסידין</w>"
-הטוב,1,"<w   xml:id=""beth0263-2"" xml:lang=""he"">הטוב</w>"
-היא,1,"<w   xml:id=""jord0001-139"" xml:lang=""he"">היא</w>"
-היוד,1,"<w   xml:id=""jeru0492-25"" xml:lang=""he"">היוד</w>"
-הכ,1,"<w   xml:id=""jaff0052-5"" xml:lang=""he"">הכ</w>"
-הכדין,1,"<w   xml:id=""masa0454-1"" xml:lang=""he"">הכדין</w>"
-הכהן,2,"<w   xml:id=""jeru0305-7"" xml:lang=""he"">הכהן</w>","<w   xml:id=""jeru0543-2"" xml:lang=""he"">הכהן</w>"
-הליל,1,"<w   xml:id=""beth0250-5"" xml:lang=""he"">הליל</w>"
-הלל,2,"<w   xml:id=""beth0238-4"" xml:lang=""he"">הלל</w>","<w   xml:id=""masa0473-1"" xml:lang=""he"">הלל</w>"
-הלנא,1,"<w   xml:id=""akld0016-1"" xml:lang=""he"">הלנא</w>"
-המוריה,1,"<w   xml:id=""bloy0002-1"" xml:lang=""he"">המוריה</w>"
-המל,1,"<w   xml:id=""jord0001-409"" xml:lang=""he"">המל</w>"
-המלאך,1,"<w   xml:id=""jord0001-125"" xml:lang=""he"">המלאך</w>"
-המערה,1,"<w   xml:id=""beth0250-12"" xml:lang=""he"">המערה</w>"
-המקום,2,"<w   xml:id=""beth0261-1"" xml:lang=""he"">המקום</w>","<w   xml:id=""jord0001-374"" xml:lang=""he"">המקום</w>"
-המרכבה,1,"<w   xml:id=""jord0001-343"" xml:lang=""he"">המרכבה</w>"
-המרכבות,1,"<w   xml:id=""jord0001-154"" xml:lang=""he"">המרכבות</w>"
-הן,1,"<w   xml:id=""beth0237-2"" xml:lang=""he"">הן</w>"
-הנא,1,"<w   xml:id=""jeru0502-2"" xml:lang=""he"">הנא</w>"
-הנגי,1,"<w   xml:id=""jord0001-245"" xml:lang=""he"">הנגי</w>"
-הנה,2,"<w   xml:id=""jord0001-54"" xml:lang=""he"">הנה</w>","<w   xml:id=""jord0001-146"" xml:lang=""he"">הנה</w>"
-הנהתּם,1,"<w   xml:id=""masa0429-2"" xml:lang=""he"">הנהתּם</w>"
-הנוסי,1,"<w   xml:id=""masa0473-2"" xml:lang=""he"">הנוסי</w>"
-הנזיר,1,"<w   xml:id=""jeru0486-4"" xml:lang=""he""><choice>הנזיר</choice></w>"
-הנני,1,"<w   xml:id=""masa0486-1"" xml:lang=""he"">הנני</w>"
-הנרא,1,"<w   xml:id=""jord0001-308"" xml:lang=""he"">הנרא</w>"
-הספר,2,"<w   xml:id=""jeru0384-2"" xml:lang=""he"">הספר</w>","<w   xml:id=""jeru0385-4"" xml:lang=""he"">הספר</w>"
-העולם,1,"<w   xml:id=""jord0001-329"" xml:lang=""he"">העולם</w>"
-העמקי,1,"<w   xml:id=""masa0434-1"" xml:lang=""he"">העמקי</w>"
-הפנימית,1,"<w   xml:id=""beth0239-3"" xml:lang=""he"">הפנימית</w>"
-הצדק,1,"<w   xml:id=""jord0001-111"" xml:lang=""he"">הצדק</w>"
-הציעתו,1,"<w   xml:id=""jaff0054-3"" xml:lang=""he"">הציעתו</w>"
-הצמח,1,"<w   xml:id=""jord0001-116"" xml:lang=""he"">הצמח</w>"
-הצץ,1,"<w   xml:id=""jord0001-191"" xml:lang=""he"">הצץ</w>"
-הקב,1,"<w   xml:id=""caes0518-1"" xml:lang=""he"">הקב</w>"
-הקבר,2,"<w   xml:id=""beth0255-1"" xml:lang=""he"">הקבר</w>","<w   xml:id=""jaff0052-1"" xml:lang=""he"">הקבר</w>"
-הקד,2,"<w   xml:id=""masa0449-13"" xml:lang=""he"">הקד</w>","<w   xml:id=""masa0451-7"" xml:lang=""he"">הקד</w>"
-הקדושים,1,"<w   xml:id=""beth0239-10"" xml:lang=""he"">הקדושים</w>"
-הקדש,2,"<w   xml:id=""masa0450-20"" xml:lang=""he""><supplied reason=""lost"">הקדש</supplied></w>","<w   xml:id=""masa0452-8"" xml:lang=""he"">הקדש</w>"
-הקטן,3,"<w   xml:id=""beth0233-2"" xml:lang=""he"">הקטן</w>","<w   xml:id=""beth0256-2"" xml:lang=""he"">הקטן</w>","<w   xml:id=""jord0001-457"" xml:lang=""he"">הקטן</w>"
-הקפר,1,"<w   xml:id=""dabb0006-6"" xml:lang=""he"">הקפר</w>"
-הרה,4,"<w   xml:id=""masa0449-1"" xml:lang=""he"">הרה</w>","<w   xml:id=""masa0450-1"" xml:lang=""he""><supplied reason=""lost"">הרה</supplied></w>","<w   xml:id=""masa0451-1"" xml:lang=""he"">הרה</w>","<w   xml:id=""masa0452-1"" xml:lang=""he"">הרה</w>"
-הרי,1,"<w   xml:id=""bloy0001-5"" xml:lang=""he"">הרי</w>"
-הרם,1,"<w   xml:id=""bshe0101-1"" xml:lang=""he"">הרם</w>"
-הרע,2,"<w   xml:id=""jord0001-109"" xml:lang=""he"">הרע</w>","<w   xml:id=""jord0001-117"" xml:lang=""he"">הרע</w>"
-הרת,2,"<w   xml:id=""masa0450-19"" xml:lang=""he""><supplied reason=""lost"">הרת</supplied></w>","<w   xml:id=""masa0453b-2"" xml:lang=""he""><supplied reason=""lost"">הרת</supplied></w>"
-השׁמעל,1,"<w   xml:id=""jeru0472-1"" xml:lang=""he"">השׁמעל</w>"
-השור,1,"<w   xml:id=""masa0450-2"" xml:lang=""he"">השור</w>"
-השורה,3,"<w   xml:id=""masa0449-2"" xml:lang=""he"">השורה</w>","<w   xml:id=""masa0451-2"" xml:lang=""he""><supplied reason=""lost"">השורה</supplied></w>","<w   xml:id=""masa0452-2"" xml:lang=""he"">השורה</w>"
-השמים,2,"<w   xml:id=""jord0001-143"" xml:lang=""he"">השמים</w>","<w   xml:id=""jord0001-381"" xml:lang=""he"">השמים</w>"
-השני,1,"<w   xml:id=""jord0001-196"" xml:lang=""he"">השני</w>"
-השרין,1,"<w   xml:id=""jord0001-435"" xml:lang=""he"">השרין</w>"
-התקעה,1,"<w   xml:id=""jeru0309-2"" xml:lang=""he"">התקעה</w>"
-ו,11,"<w   xml:id=""beth0246-4"" xml:lang=""he"">ו</w>","<w   xml:id=""jeru0357-6"" xml:lang=""he"">ו</w>","<w   xml:id=""jeru0363-2"" xml:lang=""he"">ו</w>","<w   xml:id=""jeru0365-3"" xml:lang=""he""><supplied reason=""omitted"">ו</supplied></w>","<w   xml:id=""jord0001-59"" xml:lang=""he"">ו</w>","<w   xml:id=""jord0001-71"" xml:lang=""he""><supplied reason=""lost"">ו</supplied></w>","<w   xml:id=""jord0001-249"" xml:lang=""he"">ו</w>","<w   xml:id=""jord0001-332"" xml:lang=""he"">ו</w>","<w   xml:id=""jord0001-444"" xml:lang=""he"">ו</w>","<w   xml:id=""masa0450-9"" xml:lang=""he""><supplied reason=""lost"">ו</supplied></w>","<w   xml:id=""unkn0102-6"" xml:lang=""he"">ו</w>"
-וא,1,"<w   xml:id=""qumr0001-20"" xml:lang=""he"">וא</w>"
-ואגדה,1,"<w   xml:id=""jord0001-46"" xml:lang=""he"">ואגדה</w>"
-ואגיד,1,"<w   xml:id=""jord0001-113"" xml:lang=""he"">ואגיד</w>"
-ואטיון,1,"<w   xml:id=""beth0237-17"" xml:lang=""he"">ואטיון</w>"
-ואינן,1,"<w   xml:id=""masa0449-7"" xml:lang=""he"">ואינן</w>"
-ואלוף,1,"<w   xml:id=""jord0001-195"" xml:lang=""he"">ואלוף</w>"
-ואלעזר,1,"<w   xml:id=""jeru0303-16"" xml:lang=""he"">ואלעזר</w>"
-ואני,2,"<w   xml:id=""jord0001-140"" xml:lang=""he"">ואני</w>","<w   xml:id=""jord0001-365"" xml:lang=""he"">ואני</w>"
-ואנן,1,"<w   xml:id=""masa0451-5"" xml:lang=""he"">ואנן</w>"
-ואסק,1,"<w   xml:id=""jeru0492-21"" xml:lang=""he"">ואסק</w>"
-ואראה,1,"<w   xml:id=""jord0001-229"" xml:lang=""he"">ואראה</w>"
-ואשתו,1,"<w   xml:id=""jeru0528-2"" xml:lang=""he"">ואשתו</w>"
-ואת,3,"<w   xml:id=""jord0001-144"" xml:lang=""he"">ואת</w>","<w   xml:id=""jord0001-382"" xml:lang=""he"">ואת</w>","<w   xml:id=""qumr0001-33"" xml:lang=""he"">ואת</w>"
-ובר,2,"<w   xml:id=""masa0506-2"" xml:lang=""he"">ובר</w>","<w   xml:id=""masa0507-2"" xml:lang=""he"">ובר</w>"
-"וברוכין 
-                    כל בני העיר
-                        שהן מתחזקין בכל מצות כן יהא ענלכן
-                        ואמן סלה",1,"<w   xml:id=""huqo0001-1"" xml:lang=""he""><supplied reason=""lost"">וברוכי</supplied>ן 
-                    <w xml:id=""huqo0001-2"" xml:lang=""he""><supplied reason=""lost"" cert=""low"">כל בני העיר</supplied></w>
-                        שהן מתח<supplied reason=""lost"">זקי</supplied>ן בכל מצות כן יהא ענלכן
-                        ואמ<supplied reason=""lost"">ן ס</supplied>ל<supplied reason=""lost"">ה</supplied></w>"
-וגלא,1,"<w   xml:id=""jeru0492-19"" xml:lang=""he"">וגלא</w>"
-וד,1,"<w   xml:id=""beth0263-1"" xml:lang=""he"">וד</w>"
-ודה,3,"<w   xml:id=""beth0265-2"" xml:lang=""he"">ודה</w>","<w   xml:id=""masa0484-12"" xml:lang=""he"">ודה</w>","<w   xml:id=""masa0491-2"" xml:lang=""he"">ודה</w>"
-וה,1,"<w   xml:id=""jord0001-450"" xml:lang=""he"">וה</w>"
-והו,1,"<w   xml:id=""jord0001-205"" xml:lang=""he"">והו</w>"
-והחיצונית,1,"<w   xml:id=""beth0239-4"" xml:lang=""he"">והחיצונית</w>"
-והנפש,1,"<w   xml:id=""jeru0303-3"" xml:lang=""he"">והנפש</w>"
-והשבין,1,"<w   xml:id=""jord0001-70"" xml:lang=""he"">והשבין</w>"
-והתאנים,1,"<w   xml:id=""qumr0001-24"" xml:lang=""he"">והתאנים</w>"
-וח,1,"<w   xml:id=""jeru0379-4"" xml:lang=""he"">וח</w>"
-וחנן,1,"<w   xml:id=""masa0417-2"" xml:lang=""he"">וחנן</w>"
-וטין,1,"<w   xml:id=""masa0453a-2"" xml:lang=""he""><supplied reason=""lost"">וטין</supplied></w>"
-וטפחים,2,"<w   xml:id=""masa0585-3"" xml:lang=""he"">וטפחים</w>","<w   xml:id=""masa0585-6"" xml:lang=""he"">וטפחים</w>"
-וי,3,"<w   xml:id=""jord0001-120"" xml:lang=""he"">וי</w>","<w   xml:id=""jord0001-212"" xml:lang=""he"">וי</w>","<w   xml:id=""jord0001-270"" xml:lang=""he"">וי</w>"
-וכמלותו,1,"<w   xml:id=""qumr0001-27"" xml:lang=""he"">וכמלותו</w>"
-וכרי,1,"<w   xml:id=""jord0001-95"" xml:lang=""he"">וכרי</w>"
-ול,1,"<w   xml:id=""qumr0001-18"" xml:lang=""he"">ול</w>"
-ולכול,1,"<w   xml:id=""jord0001-167"" xml:lang=""he"">ולכול</w>"
-ולם,1,"<w   xml:id=""jeru0343-2"" xml:lang=""he"">ולם</w>"
-ום,2,"<w   xml:id=""jaff0054-2"" xml:lang=""he"">ום</w>","<w   xml:id=""jaff0057-9"" xml:lang=""he"">ום</w>"
-ומחר,1,"<w   xml:id=""jord0001-271"" xml:lang=""he"">ומחר</w>"
-ומירים,1,"<w   xml:id=""beth0251-3"" xml:lang=""he"">ומירים</w>"
-ומעשות,1,"<w   xml:id=""ahma0001-5"" xml:lang=""he""><supplied reason=""lost"">ומעשות</supplied></w>"
-ון,3,"<w   xml:id=""jeru0350-1"" xml:lang=""he"">ון</w>","<w   xml:id=""jeru0464-2"" xml:lang=""he""><supplied reason=""lost"">ון</supplied></w>","<w   xml:id=""masa0467-2"" xml:lang=""he""><supplied reason=""lost"">ון</supplied></w>"
-ונ,1,"<w   xml:id=""jord0001-162"" xml:lang=""he"">ונ</w>"
-ועל,1,"<w   xml:id=""mger0150-9"" xml:lang=""he"">ועל</w>"
-ועצמותיכם,1,"<w   xml:id=""jeru0327-4"" xml:lang=""he""><choice>ועצמותיכם</choice></w>"
-ופר,1,"<w   xml:id=""masa0450-8"" xml:lang=""he"">ופר</w>"
-ופרוטין,1,"<w   xml:id=""masa0452-4"" xml:lang=""he"">ופרוטין</w>"
-ופרנשו,1,"<w   xml:id=""hali0001-2"" xml:lang=""he"">ופרנשו</w>"
-וקברתה,1,"<w   xml:id=""jeru0492-27"" xml:lang=""he"">וקברתה</w>"
-ור,1,"<w   xml:id=""jeru0359-1"" xml:lang=""he"">ור</w>"
-וראיתם,1,"<w   xml:id=""jeru0327-1"" xml:lang=""he"">וראיתם</w>"
-ורח,1,"<w   xml:id=""jord0001-240"" xml:lang=""he"">ורח</w>"
-וש,1,"<w   xml:id=""beth0239-8"" xml:lang=""he"">וש</w>"
-ושלום,3,"<w   xml:id=""jaff0054-11"" xml:lang=""he"">ושלום</w>","<w   xml:id=""jeru0532-2"" xml:lang=""he"">ושלום</w>","<w   xml:id=""jeru0533-2"" xml:lang=""he"">ושלום</w>"
-ושמעיה,1,"<w   xml:id=""jeru0451-2"" xml:lang=""he"">ושמעיה</w>"
-ושערי,1,"<w   xml:id=""jord0001-160"" xml:lang=""he"">ושערי</w>"
-ושש,1,"<w   xml:id=""jeru0327-2"" xml:lang=""he"">ושש</w>"
-וששה,1,"<w   xml:id=""beth0237-30"" xml:lang=""he"">וששה</w>"
-ושתי,1,"<w   xml:id=""masa0585-4"" xml:lang=""he"">ושתי</w>"
-ושתים,1,"<w   xml:id=""beth0237-15"" xml:lang=""he"">ושתים</w>"
-ות,3,"<w   xml:id=""jord0001-293"" xml:lang=""he""><supplied reason=""lost"">ות</supplied></w>","<w   xml:id=""jord0001-425"" xml:lang=""he"">ות</w>","<w   xml:id=""masa0454-5"" xml:lang=""he"">ות</w>"
-ותנן,2,"<w   xml:id=""masa0484-7"" xml:lang=""he"">ותנן</w>","<w   xml:id=""masa0487-2"" xml:lang=""he"">ותנן</w>"
-ז,3,"<w   xml:id=""jord0001-11"" xml:lang=""he"">ז</w>","<w   xml:id=""masa0418-1"" xml:lang=""he""><supplied reason=""lost"" cert=""low"">ז</supplied></w>","<w   xml:id=""unkn0102-7"" xml:lang=""he"">ז</w>"
-זבדיה,1,"<w   xml:id=""jeru0371-1"" xml:lang=""he"">זבדיה</w>"
-זבידו,1,"<w   xml:id=""masa0468-1"" xml:lang=""he"">זבידו</w>"
-זבנ,1,"<w   xml:id=""jeru0357-4"" xml:lang=""he"">זבנ</w>"
-זה,6,"<w   xml:id=""beth0227-1"" xml:lang=""he"">זה</w>","<w   xml:id=""beth0228-1"" xml:lang=""he"">זה</w>","<w   xml:id=""beth0248-1"" xml:lang=""he"">זה</w>","<w   xml:id=""dabb0006-1"" xml:lang=""he"">זה</w>","<w   xml:id=""jeru0303-1"" xml:lang=""he"">זה</w>","<w   xml:id=""jord0001-276"" xml:lang=""he"">זה</w>"
-זה מק,1,"<w   xml:id=""jaff0054-1"" xml:lang=""he""><supplied reason=""lost"">זה מק</supplied></w>"
-זו,5,"<w   xml:id=""beth0245-1"" xml:lang=""he"">זו</w>","<w   xml:id=""beth0246-1"" xml:lang=""he"">זו</w>","<w   xml:id=""beth0250-1"" xml:lang=""he"">זו</w>","<w   xml:id=""jord0001-189"" xml:lang=""he"">זו</w>","<w   xml:id=""jord0001-342"" xml:lang=""he"">זו</w>"
-זוא,1,"<w   xml:id=""beth0244-1"" xml:lang=""he"">זוא</w>"
-"זי הקרב
-                        פתו",1,"<w   xml:id=""mger0037-1"" xml:lang=""he""><supplied reason=""lost"">זי הק</supplied>רב
-                        פת<supplied reason=""lost"" cert=""low"">ו</supplied></w>"
-זכ,1,"<w   xml:id=""masa0477-1"" xml:lang=""he"">זכ</w>"
-זכר,2,"<w   xml:id=""beth0247-9"" xml:lang=""he"">זכר</w>","<w   xml:id=""beth0248-15"" xml:lang=""he"">זכר</w>"
-זכריה,1,"<w   xml:id=""erra0001-3"" xml:lang=""he"">זכריה</w>"
-זר,2,"<w   xml:id=""jeru0350-3"" xml:lang=""he"">זר</w>","<w   xml:id=""masa0511-2"" xml:lang=""he""><supplied reason=""lost"">זר</supplied></w>"
-ח,6,"<w   xml:id=""jeru0357-17"" xml:lang=""he"">ח</w>","<w   xml:id=""jeru0486-1"" xml:lang=""he"">ח</w>","<w   xml:id=""jord0001-12"" xml:lang=""he"">ח</w>","<w   xml:id=""masa0387-1"" xml:lang=""he"">ח</w>","<w   xml:id=""qumr0001-36"" xml:lang=""he"">ח</w>","<w   xml:id=""unkn0102-8"" xml:lang=""he"">ח</w>"
-חא,1,"<w   xml:id=""jord0001-430"" xml:lang=""he"">חא</w>"
-חבל,1,"<w   xml:id=""beth0261-5"" xml:lang=""he"">חבל</w>"
-חדד,1,"<w   xml:id=""masa0469-3"" xml:lang=""he"">חדד</w>"
-חודשים,1,"<w   xml:id=""beth0237-31"" xml:lang=""he"">חודשים</w>"
-חוני,1,"<w   xml:id=""masa0433-1"" xml:lang=""he"">חוני</w>"
-חוניה,1,"<w   xml:id=""masa0505-1"" xml:lang=""he"">חוניה</w>"
-חוקותיו,1,"<w   xml:id=""ahma0001-4"" xml:lang=""he""><supplied reason=""lost"">חוקותיו</supplied></w>"
-חזיר,1,"<w   xml:id=""jeru0303-21"" xml:lang=""he"">חזיר</w>"
-חזקיה,1,"<w   xml:id=""masa0385-1"" xml:lang=""he"">חזקיה</w>"
-חזקין,1,"<w   xml:id=""masa0386-1"" xml:lang=""he"">חזקין</w>"
-חזרעטיה,1,"<w   xml:id=""jeru0419-4"" xml:lang=""he"">חזרעטיה</w>"
-חכלה,1,"<w   xml:id=""masa0407-2"" xml:lang=""he"">חכלה</w>"
-חלון,1,"<w   xml:id=""qumr0001-39"" xml:lang=""he"">חלון</w>"
-חמשה,1,"<w   xml:id=""jord0001-182"" xml:lang=""he"">חמשה</w>"
-חנארו,1,"<w   xml:id=""jord0001-239"" xml:lang=""he"">חנארו</w>"
-חנה,2,"<w   xml:id=""akld0011-1"" xml:lang=""he"">חנה</w>","<w   xml:id=""akld0012-1"" xml:lang=""he"">חנה</w>"
-חנטי,1,"<w   xml:id=""jeru0357-11"" xml:lang=""he"">חנטי</w>"
-חני,2,"<w   xml:id=""masa0406-2"" xml:lang=""he"">חני</w>","<w   xml:id=""qumr0001-5"" xml:lang=""he"">חני</w>"
-חניה,2,"<w   xml:id=""jeru0303-6"" xml:lang=""he"">חניה</w>","<w   xml:id=""jeru0303-18"" xml:lang=""he"">חניה</w>"
-חנין,1,"<w   xml:id=""jeru0348-1"" xml:lang=""he"">חנין</w>"
-חנינא,2,"<w   xml:id=""masa0484-8"" xml:lang=""he"">חנינא</w>","<w   xml:id=""masa0488-1"" xml:lang=""he"">חנינא</w>"
-חנן,2,"<w   xml:id=""jeru0357-2"" xml:lang=""he"">חנן</w>","<w   xml:id=""jeru0357-23"" xml:lang=""he"">חנן</w>"
-חננ,1,"<w   xml:id=""jeru0375-1"" xml:lang=""he"">חננ</w>"
-חנניה,9,"<w   xml:id=""jaff0057-1"" xml:lang=""he"">חנניה</w>","<w   xml:id=""jeru0381-1"" xml:lang=""he"">חנניה</w>","<w   xml:id=""jeru0397-3"" xml:lang=""he"">חנניה</w>","<w   xml:id=""jeru0531-1"" xml:lang=""he"">חנניה</w>","<w   xml:id=""jeru0532-1"" xml:lang=""he"">חנניה</w>","<w   xml:id=""jeru0533-1"" xml:lang=""he"">חנניה</w>","<w   xml:id=""masa0392-1"" xml:lang=""he"">חנניה</w>","<w   xml:id=""shap0002-1"" xml:lang=""he"">חנניה</w>","<w   xml:id=""shap0003-1"" xml:lang=""he"">חנניה</w>"
-חננת,1,"<w   xml:id=""bloy0002-3"" xml:lang=""he"">חננת</w>"
-חס,1,"<w   xml:id=""qumr0001-31"" xml:lang=""he"">חס</w>"
-חסד,2,"<w   xml:id=""jord0001-388"" xml:lang=""he"">חסד</w>","<w   xml:id=""jord0001-391"" xml:lang=""he"">חסד</w>"
-חסדי,2,"<w   xml:id=""qumr0001-12"" xml:lang=""he"">חסדי</w>","<w   xml:id=""qumr0001-34"" xml:lang=""he"">חסדי</w>"
-חת,1,"<w   xml:id=""jord0001-65"" xml:lang=""he"">חת</w>"
-ט,2,"<w   xml:id=""masa0445-1"" xml:lang=""he"">ט</w>","<w   xml:id=""unkn0102-9"" xml:lang=""he"">ט</w>"
-טבחי,1,"<w   xml:id=""jord0001-287"" xml:lang=""he"">טבחי</w>"
-טבלה,1,"<w   xml:id=""beth0229-1"" xml:lang=""he"">טבלה</w>"
-טבת,1,"<w   xml:id=""tibe0009-2"" xml:lang=""he""><supplied reason=""undefined"">טבת</supplied></w>"
-טה,1,"<w   xml:id=""masa0450-15"" xml:lang=""he"">טה</w>"
-טהור,1,"<w   xml:id=""masa0456-1"" xml:lang=""he"">טהור</w>"
-טהר,1,"<w   xml:id=""masa0449-15"" xml:lang=""he"">טהר</w>"
-טובי,1,"<w   xml:id=""masa0409-1"" xml:lang=""he"">טובי</w>"
-טוהר,1,"<w   xml:id=""masa0457-2"" xml:lang=""he"">טוהר</w>"
-טח,1,"<w   xml:id=""jeru0372-3"" xml:lang=""he"">טח</w>"
-טיבו,1,"<w   xml:id=""masa0400-2"" xml:lang=""he"">טיבו</w>"
-טין,1,"<w   xml:id=""masa0450-10"" xml:lang=""he"">טין</w>"
-טיס,1,"<w   xml:id=""beth0272-2"" xml:lang=""he"">טיס</w>"
-טלה,1,"<w   xml:id=""tibe0001-1"" xml:lang=""he"">טלה</w>"
-י,17,"<w   xml:id=""beth0259-1"" xml:lang=""he"">י</w>","<w   xml:id=""haif0010-2"" xml:lang=""he""><supplied reason=""lost"">י</supplied></w>","<w   xml:id=""jeru0358-1"" xml:lang=""he"">י</w>","<w   xml:id=""jeru0490-4"" xml:lang=""he"">י</w>","<w   xml:id=""jeru0492-23"" xml:lang=""he"">י</w>","<w   xml:id=""jord0001-14"" xml:lang=""he"">י</w>","<w   xml:id=""jord0001-89"" xml:lang=""he""><supplied reason=""lost"">י</supplied></w>","<w   xml:id=""jord0001-251"" xml:lang=""he""><supplied reason=""lost"">י</supplied></w>","<w   xml:id=""jord0001-253"" xml:lang=""he"">י</w>","<w   xml:id=""jord0001-351"" xml:lang=""he"">י</w>","<w   xml:id=""jord0001-464"" xml:lang=""he"">י</w>","<w   xml:id=""mari0004-11"" xml:lang=""he""><supplied reason=""omitted"">י</supplied></w>","<w   xml:id=""masa0414-2"" xml:lang=""he""><supplied reason=""lost"">י</supplied></w>","<w   xml:id=""masa0418-3"" xml:lang=""he""><supplied reason=""lost"" cert=""low"">י</supplied></w>","<w   xml:id=""masa0518-1"" xml:lang=""he"">י</w>","<w   xml:id=""masa0546-1"" xml:lang=""he"">י</w>","<w   xml:id=""unkn0102-10"" xml:lang=""he"">י</w>"
-יאמר,1,"<w   xml:id=""jord0001-233"" xml:lang=""he"">יאמר</w>"
-יד,1,"<w   xml:id=""jord0001-32"" xml:lang=""he"">יד</w>"
-יה,12,"<w   xml:id=""beth0265-1"" xml:lang=""he"">יה</w>","<w   xml:id=""bloy0002-5"" xml:lang=""he"">יה</w>","<w   xml:id=""jeru0364-1"" xml:lang=""he"">יה</w>","<w   xml:id=""jeru0375-2"" xml:lang=""he""><supplied reason=""lost"" cert=""low"">יה</supplied></w>","<w   xml:id=""masa0417-1"" xml:lang=""he""><supplied reason=""lost"">יה</supplied></w>","<w   xml:id=""masa0484-6"" xml:lang=""he""><supplied reason=""lost"">יה</supplied></w>","<w   xml:id=""masa0484-11"" xml:lang=""he""><supplied reason=""lost"">יה</supplied></w>","<w   xml:id=""masa0487-1"" xml:lang=""he""><supplied reason=""lost"">יה</supplied></w>","<w   xml:id=""masa0491-1"" xml:lang=""he""><supplied reason=""lost"">יה</supplied></w>","<w   xml:id=""masa0503-2"" xml:lang=""he"">יה</w>","<w   xml:id=""masa0506-3"" xml:lang=""he""><supplied reason=""lost"">יה</supplied></w>","<w   xml:id=""masa0507-3"" xml:lang=""he""><supplied reason=""lost"">יה</supplied></w>"
-יהד,1,"<w   xml:id=""bloy0001-6"" xml:lang=""he"">יהד</w>"
-יהו,7,"<w   xml:id=""jord0001-28"" xml:lang=""he"">יהו</w>","<w   xml:id=""masa0395-1"" xml:lang=""he""><supplied reason=""lost"">יהו</supplied></w>","<w   xml:id=""masa0484-2"" xml:lang=""he"">יהו</w>","<w   xml:id=""masa0484-14"" xml:lang=""he""><supplied reason=""lost"">יהו</supplied></w>","<w   xml:id=""masa0485-1"" xml:lang=""he"">יהו</w>","<w   xml:id=""masa0493-1"" xml:lang=""he""><supplied reason=""lost"">יהו</supplied></w>","<w   xml:id=""masa0497-1"" xml:lang=""he""><supplied reason=""lost"">יהו</supplied></w>"
-יהוד,2,"<w   xml:id=""masa0547-2"" xml:lang=""he"">יהוד</w>","<w   xml:id=""thar0001-2"" xml:lang=""he"">יהוד</w>"
-יהודה,21,"<w   xml:id=""akld0020-3"" xml:lang=""he"">יהודה</w>","<w   xml:id=""beth0237-21"" xml:lang=""he"">יהודה</w>","<w   xml:id=""beth0249-1"" xml:lang=""he"">יהודה</w>","<w   xml:id=""beth0256-1"" xml:lang=""he"">יהודה</w>","<w   xml:id=""jeru0017-3"" xml:lang=""he"">יהודה</w>","<w   xml:id=""jeru0017-5"" xml:lang=""he"">יהודה</w>","<w   xml:id=""jeru0303-8"" xml:lang=""he"">יהודה</w>","<w   xml:id=""jeru0384-1"" xml:lang=""he"">יהודה</w>","<w   xml:id=""jeru0385-1"" xml:lang=""he"">יהודה</w>","<w   xml:id=""jeru0390-4"" xml:lang=""he"">יהודה</w>","<w   xml:id=""jeru0391-1"" xml:lang=""he"">יהודה</w>","<w   xml:id=""jeru0397-1"" xml:lang=""he"">יהודה</w>","<w   xml:id=""jeru0462-1"" xml:lang=""he"">יהודה</w>","<w   xml:id=""jord0001-161"" xml:lang=""he"">יהודה</w>","<w   xml:id=""masa0351-1"" xml:lang=""he"">יהודה</w>","<w   xml:id=""masa0484-9"" xml:lang=""he"">יהודה</w>","<w   xml:id=""masa0484-10"" xml:lang=""he"">יהודה</w>","<w   xml:id=""masa0484-13"" xml:lang=""he"">יהודה</w>","<w   xml:id=""masa0489-1"" xml:lang=""he"">יהודה</w>","<w   xml:id=""masa0490-1"" xml:lang=""he"">יהודה</w>","<w   xml:id=""masa0492-1"" xml:lang=""he"">יהודה</w>"
-יהודה בר בשמא,1,"<w   xml:id=""masa0471-1"" xml:lang=""he""><supplied reason=""lost"">יהו</supplied>דה בר בשמ<supplied reason=""lost"">א</supplied></w>"
-יהוה,14,"<w   xml:id=""bloy0001-1"" xml:lang=""he"">יהוה</w>","<w   xml:id=""bloy0002-6"" xml:lang=""he"">יהוה</w>","<w   xml:id=""jord0001-36"" xml:lang=""he"">יהוה</w>","<w   xml:id=""jord0001-51"" xml:lang=""he"">יהוה</w>","<w   xml:id=""jord0001-103"" xml:lang=""he"">יהוה</w>","<w   xml:id=""jord0001-132"" xml:lang=""he"">יהוה</w>","<w   xml:id=""jord0001-148"" xml:lang=""he"">יהוה</w>","<w   xml:id=""jord0001-173"" xml:lang=""he"">יהוה</w>","<w   xml:id=""jord0001-234"" xml:lang=""he"">יהוה</w>","<w   xml:id=""jord0001-291"" xml:lang=""he"">יהוה</w>","<w   xml:id=""jord0001-298"" xml:lang=""he"">יהוה</w>","<w   xml:id=""jord0001-355"" xml:lang=""he"">יהוה</w>","<w   xml:id=""jord0001-378"" xml:lang=""he"">יהוה</w>","<w   xml:id=""jord0001-461"" xml:lang=""he"">יהוה</w>"
-יהוח,1,"<w   xml:id=""masa0395-3"" xml:lang=""he""><supplied reason=""lost"">יהוח</supplied></w>"
-יהוחנ,1,"<w   xml:id=""masa0412-1"" xml:lang=""he"">יהוחנ</w>"
-יהוחנה,2,"<w   xml:id=""jeru0305-1"" xml:lang=""he"">יהוחנה</w>","<w   xml:id=""jeru0305-2"" xml:lang=""he"">יהוחנה</w>"
-יהוחנן,12,"<w   xml:id=""isaw0001-1"" xml:lang=""he"">יהוחנן</w>","<w   xml:id=""jeru0413-1"" xml:lang=""he"">יהוחנן</w>","<w   xml:id=""jeru0414-3"" xml:lang=""he"">יהוחנן</w>","<w   xml:id=""jeru0416-1"" xml:lang=""he"">יהוחנן</w>","<w   xml:id=""masa0302-1"" xml:lang=""he"">יהוחנן</w>","<w   xml:id=""masa0313-1"" xml:lang=""he"">יהוחנן</w>","<w   xml:id=""masa0329-1"" xml:lang=""he"">יהוחנן</w>","<w   xml:id=""masa0341-1"" xml:lang=""he"">יהוחנן</w>","<w   xml:id=""masa0396-1"" xml:lang=""he"">יהוחנן</w>","<w   xml:id=""masa0397-1"" xml:lang=""he"">יהוחנן</w>","<w   xml:id=""masa0484-3"" xml:lang=""he"">יהוחנן</w>","<w   xml:id=""masa0485-2"" xml:lang=""he"">יהוחנן</w>"
-יהונתן,2,"<w   xml:id=""jeru0457-2"" xml:lang=""he"">יהונתן</w>","<w   xml:id=""jeru0486-3"" xml:lang=""he"">יהונתן</w>"
-יהוס,1,"<w   xml:id=""qumr0002-5"" xml:lang=""he""><supplied reason=""lost"">יהוס</supplied></w>"
-יהוסף,17,"<w   xml:id=""anna0003-3"" xml:lang=""he"">יהוסף</w>","<w   xml:id=""jent0006-1"" xml:lang=""he"">יהוסף</w>","<w   xml:id=""jent0006-4"" xml:lang=""he"">יהוסף</w>","<w   xml:id=""jeru0326-1"" xml:lang=""he"">יהוסף</w>","<w   xml:id=""jeru0413-3"" xml:lang=""he"">יהוסף</w>","<w   xml:id=""jeru0414-1"" xml:lang=""he"">יהוסף</w>","<w   xml:id=""jeru0417-1"" xml:lang=""he"">יהוסף</w>","<w   xml:id=""jeru0418-1"" xml:lang=""he"">יהוסף</w>","<w   xml:id=""jeru0449-13"" xml:lang=""he"">יהוסף</w>","<w   xml:id=""jeru0465-1"" xml:lang=""he"">יהוסף</w>","<w   xml:id=""masa0463-4"" xml:lang=""he"">יהוסף</w>","<w   xml:id=""masa0470-1"" xml:lang=""he"">יהוסף</w>","<w   xml:id=""masa0474-1"" xml:lang=""he"">יהוסף</w>","<w   xml:id=""masa0494-1"" xml:lang=""he"">יהוסף</w>","<w   xml:id=""masa0495-1"" xml:lang=""he"">יהוסף</w>","<w   xml:id=""masa0496-1"" xml:lang=""he"">יהוסף</w>","<w   xml:id=""mtsc0001-1"" xml:lang=""he"">יהוסף</w>"
-יהועזר,2,"<w   xml:id=""jeru0456-1"" xml:lang=""he"">יהועזר</w>","<w   xml:id=""jeru0456-3"" xml:lang=""he"">יהועזר</w>"
-יהושוע,4,"<w   xml:id=""beth0238-2"" xml:lang=""he"">יהושוע</w>","<w   xml:id=""beth0246-11"" xml:lang=""he"">יהושוע</w>","<w   xml:id=""beth0247-7"" xml:lang=""he"">יהושוע</w>","<w   xml:id=""jaff0054-8"" xml:lang=""he"">יהושוע</w>"
-יהותנן,1,"<w   xml:id=""masa0484-1"" xml:lang=""he"">יהותנן</w>"
-יהי,1,"<w   xml:id=""beth0227-10"" xml:lang=""he"">יהי</w>"
-יהיוחנן,1,"<w   xml:id=""jeru0305-4"" xml:lang=""he"">יהיוחנן</w>"
-יודן,5,"<w   xml:id=""beth0227-4"" xml:lang=""he"">יודן</w>","<w   xml:id=""beth0227-16"" xml:lang=""he"">יודן</w>","<w   xml:id=""beth0228-4"" xml:lang=""he"">יודן</w>","<w   xml:id=""beth0244-8"" xml:lang=""he"">יודן</w>","<w   xml:id=""jaff0052-4"" xml:lang=""he"">יודן</w>"
-יוחנה,1,"<w   xml:id=""jeru0562-1"" xml:lang=""he"">יוחנה</w>"
-יוחנן,1,"<w   xml:id=""jeru0303-10"" xml:lang=""he"">יוחנן</w>"
-יויכיח,1,"<w   xml:id=""jeru0538-1"" xml:lang=""he"">יויכיח</w>"
-יוכן,1,"<w   xml:id=""jeru0355-2"" xml:lang=""he"">יוכן</w>"
-יונתן,1,"<w   xml:id=""beth0243-5"" xml:lang=""he"">יונתן</w>"
-יוסה,2,"<w   xml:id=""jeru0452-2"" xml:lang=""he"">יוסה</w>","<w   xml:id=""jeru0564-1"" xml:lang=""he"">יוסה</w>"
-יוסף,3,"<w   xml:id=""beth0258-3"" xml:lang=""he"">יוסף</w>","<w   xml:id=""beth0259-2"" xml:lang=""he"">יוסף</w>","<w   xml:id=""jeru0303-15"" xml:lang=""he"">יוסף</w>"
-יוספ,2,"<w   xml:id=""jeru0303-12"" xml:lang=""he"">יוספ</w>","<w   xml:id=""mger0150-4"" xml:lang=""he"">יוספ</w>"
-יועוד,1,"<w   xml:id=""masa0466-3"" xml:lang=""he"">יועוד</w>"
-יועזר,2,"<w   xml:id=""jeru0303-7"" xml:lang=""he"">יועזר</w>","<w   xml:id=""masa0383-1"" xml:lang=""he"">יועזר</w>"
-יושוע,1,"<w   xml:id=""beth0245-5"" xml:lang=""he"">יושוע</w>"
-יכ,1,"<w   xml:id=""jord0001-5"" xml:lang=""he"">יכ</w>"
-יליד,1,"<w   xml:id=""jeru0492-17"" xml:lang=""he"">יליד</w>"
-ילכ,1,"<w   xml:id=""jord0001-170"" xml:lang=""he"">ילכ</w>"
-ים,1,"<w   xml:id=""tibe0001-4"" xml:lang=""he"">ים</w>"
-ימין,3,"<w   xml:id=""jord0001-99"" xml:lang=""he"">ימין</w>","<w   xml:id=""jord0001-275"" xml:lang=""he"">ימין</w>","<w   xml:id=""jord0001-429"" xml:lang=""he"">ימין</w>"
-ין,2,"<w   xml:id=""jeru0372-4"" xml:lang=""he""><supplied reason=""lost"" cert=""low"">ין</supplied></w>","<w   xml:id=""masa0449-9"" xml:lang=""he""><supplied reason=""lost"">ין</supplied></w>"
-יני,1,"<w   xml:id=""jeru0344-1"" xml:lang=""he"">יני</w>"
-ינני,1,"<w   xml:id=""masa0484-4"" xml:lang=""he"">ינני</w>"
-יס,1,"<w   xml:id=""jeru0365-2"" xml:lang=""he"">יס</w>"
-יסן,2,"<w   xml:id=""jeru0353-2"" xml:lang=""he"">יסן</w>","<w   xml:id=""jeru0354-2"" xml:lang=""he"">יסן</w>"
-יעקוב,3,"<w   xml:id=""masa0499-1"" xml:lang=""he"">יעקוב</w>","<w   xml:id=""masa0500-1"" xml:lang=""he"">יעקוב</w>","<w   xml:id=""masa0501-1"" xml:lang=""he"">יעקוב</w>"
-יפה,2,"<w   xml:id=""masa0516-3"" xml:lang=""he"">יפה</w>","<w   xml:id=""masa0520-1"" xml:lang=""he"">יפה</w>"
-יצאו,1,"<w   xml:id=""jord0001-394"" xml:lang=""he"">יצאו</w>"
-יצחק,3,"<w   xml:id=""beth0255-5"" xml:lang=""he"">יצחק</w>","<w   xml:id=""beth0258-1"" xml:lang=""he"">יצחק</w>","<w   xml:id=""beth0259-3"" xml:lang=""he"">יצחק</w>"
-יר,1,"<w   xml:id=""jeru0490-1"" xml:lang=""he"">יר</w>"
-ירושלם,5,"<w   xml:id=""jord0001-48"" xml:lang=""he"">ירושלם</w>","<w   xml:id=""jord0001-58"" xml:lang=""he"">ירושלם</w>","<w   xml:id=""jord0001-159"" xml:lang=""he"">ירושלם</w>","<w   xml:id=""jord0001-232"" xml:lang=""he"">ירושלם</w>","<w   xml:id=""jord0001-288"" xml:lang=""he"">ירושלם</w>"
-ירשלם,2,"<w   xml:id=""bloy0001-9"" xml:lang=""he"">ירשלם</w>","<w   xml:id=""jord0001-199"" xml:lang=""he"">ירשלם</w>"
-יש,3,"<w   xml:id=""jeru0334-1"" xml:lang=""he""><supplied reason=""lost"">יש</supplied></w>","<w   xml:id=""jord0001-398"" xml:lang=""he"">יש</w>","<w   xml:id=""jord0001-401"" xml:lang=""he"">יש</w>"
-ישוע,3,"<w   xml:id=""jeru0300-3"" xml:lang=""he"">ישוע</w>","<w   xml:id=""jeru0415-1"" xml:lang=""he"">ישוע</w>","<w   xml:id=""masa0457-1"" xml:lang=""he"">ישוע</w>"
-ישמעל,1,"<w   xml:id=""masa0468-3"" xml:lang=""he"">ישמעל</w>"
-ישראל,12,"<w   xml:id=""jord0001-16"" xml:lang=""he"">ישראל</w>","<w   xml:id=""jord0001-45"" xml:lang=""he"">ישראל</w>","<w   xml:id=""jord0001-53"" xml:lang=""he"">ישראל</w>","<w   xml:id=""jord0001-93"" xml:lang=""he"">ישראל</w>","<w   xml:id=""jord0001-107"" xml:lang=""he"">ישראל</w>","<w   xml:id=""jord0001-152"" xml:lang=""he"">ישראל</w>","<w   xml:id=""jord0001-177"" xml:lang=""he"">ישראל</w>","<w   xml:id=""jord0001-295"" xml:lang=""he"">ישראל</w>","<w   xml:id=""jord0001-301"" xml:lang=""he"">ישראל</w>","<w   xml:id=""jord0001-352"" xml:lang=""he"">ישראל</w>","<w   xml:id=""jord0001-358"" xml:lang=""he"">ישראל</w>","<w   xml:id=""juda0001-5"" xml:lang=""he"">ישראל</w>"
-ישרון,2,"<w   xml:id=""caes0500-3"" xml:lang=""he"">ישרון</w>","<w   xml:id=""caes0552b-3"" xml:lang=""he"">ישרון</w>"
-ך,3,"<w   xml:id=""jord0001-1"" xml:lang=""he"">ך</w>","<w   xml:id=""jord0001-207"" xml:lang=""he"">ך</w>","<w   xml:id=""jord0001-257"" xml:lang=""he"">ך</w>"
-כ,3,"<w   xml:id=""masa0450-12"" xml:lang=""he"">כ</w>","<w   xml:id=""masa0517-1"" xml:lang=""he"">כ</w>","<w   xml:id=""unkn0102-11"" xml:lang=""he"">כ</w>"
-כאל,2,"<w   xml:id=""caes0500-2"" xml:lang=""he"">כאל</w>","<w   xml:id=""caes0552b-2"" xml:lang=""he"">כאל</w>"
-כאנובס,1,"<w   xml:id=""jeru0449-9"" xml:lang=""he"">כאנובס</w>"
-כבו,1,"<w   xml:id=""beth0238-8"" xml:lang=""he""><supplied reason=""undefined"">כבו</supplied></w>"
-כבוד,2,"<w   xml:id=""jord0001-131"" xml:lang=""he"">כבוד</w>","<w   xml:id=""jord0001-147"" xml:lang=""he"">כבוד</w>"
-כדשא,1,"<w   xml:id=""jeru0327-6"" xml:lang=""he"">כדשא</w>"
-כה,1,"<w   xml:id=""jord0001-353"" xml:lang=""he"">כה</w>"
-כהן,3,"<w   xml:id=""jeru0300-6"" xml:lang=""he"">כהן</w>","<w   xml:id=""jord0001-399"" xml:lang=""he"">כהן</w>","<w   xml:id=""masa0441-2"" xml:lang=""he"">כהן</w>"
-כהנה,2,"<w   xml:id=""jeru0451-3"" xml:lang=""he"">כהנה</w>","<w   xml:id=""jeru0492-4"" xml:lang=""he"">כהנה</w>"
-כהנים,1,"<w   xml:id=""jeru0303-19"" xml:lang=""he"">כהנים</w>"
-כוהנים,2,"<w   xml:id=""beth0260-1"" xml:lang=""he"">כוהנים</w>","<w   xml:id=""beth0261-4"" xml:lang=""he"">כוהנים</w>"
-כול,2,"<w   xml:id=""jeru0449-5"" xml:lang=""he"">כול</w>","<w   xml:id=""jord0001-55"" xml:lang=""he"">כול</w>"
-כוסבא,1,"<w   xml:id=""juda0001-3"" xml:lang=""he""><expan><abbr>כוס</abbr><ex>בא</ex></expan></w>"
-כי,5,"<w   xml:id=""jord0001-87"" xml:lang=""he"">כי</w>","<w   xml:id=""jord0001-101"" xml:lang=""he"">כי</w>","<w   xml:id=""jord0001-289"" xml:lang=""he"">כי</w>","<w   xml:id=""jord0001-296"" xml:lang=""he"">כי</w>","<w   xml:id=""jord0001-410"" xml:lang=""he"">כי</w>"
-כיסה,1,"<w   xml:id=""masa0546-2"" xml:lang=""he"">כיסה</w>"
-ככרן,1,"<w   xml:id=""jeru0370-1"" xml:lang=""he"">ככרן</w>"
-כל,2,"<w   xml:id=""bloy0001-3"" xml:lang=""he"">כל</w>","<w   xml:id=""jeru0534-1"" xml:lang=""he"">כל</w>"
-כלן,1,"<w   xml:id=""masa0450-11"" xml:lang=""he"">כלן</w>"
-כן,4,"<w   xml:id=""beth0237-1"" xml:lang=""he"">כן</w>","<w   xml:id=""jord0001-39"" xml:lang=""he"">כן</w>","<w   xml:id=""jord0001-49"" xml:lang=""he""><supplied reason=""lost"">כן</supplied></w>","<w   xml:id=""jord0001-171"" xml:lang=""he"">כן</w>"
-כנבון,1,"<w   xml:id=""masa0430-2"" xml:lang=""he"">כנבון</w>"
-כנסת,1,"<w   xml:id=""jeru0419-3"" xml:lang=""he""><expan><abbr>כנ</abbr><ex>סת</ex></expan></w>"
-כסמכך,1,"<w   xml:id=""jord0001-127"" xml:lang=""he"">כסמכך</w>"
-כסנדרוס,1,"<w   xml:id=""jeru0342-2"" xml:lang=""he"">כסנדרוס</w>"
-כסף,1,"<w   xml:id=""jeru0357-21"" xml:lang=""he"">כסף</w>"
-כר,1,"<w   xml:id=""masa0418-2"" xml:lang=""he"">כר</w>"
-כרה,1,"<w   xml:id=""jeru0357-10"" xml:lang=""he"">כרה</w>"
-כרוטין,1,"<w   xml:id=""masa0449-6"" xml:lang=""he"">כרוטין</w>"
-כרשנין,1,"<w   xml:id=""masa0543-1"" xml:lang=""he"">כרשנין</w>"
-כשיר,1,"<w   xml:id=""masa0449-8"" xml:lang=""he"">כשיר</w>"
-כשירי,1,"<w   xml:id=""masa0452-5"" xml:lang=""he"">כשירי</w>"
-כשירין לטהרת,1,"<w   xml:id=""masa0451-6"" xml:lang=""he""><supplied reason=""lost"">כשירין לטהרת</supplied></w>"
-כתושה,1,"<w   xml:id=""masa0516-2"" xml:lang=""he"">כתושה</w>"
-ל,34,"<w   xml:id=""beth0236-3"" xml:lang=""he""><supplied reason=""undefined"">ל</supplied></w>","<w   xml:id=""beth0241-3"" xml:lang=""he"">ל</w>","<w   xml:id=""beth0241-4"" xml:lang=""he"">ל</w>","<w   xml:id=""hali0001-1"" xml:lang=""he"">ל</w>","<w   xml:id=""jaff0054-5"" xml:lang=""he""><supplied reason=""omitted"">ל</supplied></w>","<w   xml:id=""jeru0347-1"" xml:lang=""he"">ל</w>","<w   xml:id=""jeru0449-18"" xml:lang=""he"">ל</w>","<w   xml:id=""jord0001-8"" xml:lang=""he"">ל</w>","<w   xml:id=""jord0001-20"" xml:lang=""he"">ל</w>","<w   xml:id=""jord0001-23"" xml:lang=""he"">ל</w>","<w   xml:id=""jord0001-24"" xml:lang=""he"">ל</w>","<w   xml:id=""jord0001-25"" xml:lang=""he"">ל</w>","<w   xml:id=""jord0001-119"" xml:lang=""he"">ל</w>","<w   xml:id=""jord0001-157"" xml:lang=""he"">ל</w>","<w   xml:id=""jord0001-164"" xml:lang=""he"">ל</w>","<w   xml:id=""jord0001-192"" xml:lang=""he"">ל</w>","<w   xml:id=""jord0001-237"" xml:lang=""he"">ל</w>","<w   xml:id=""jord0001-238"" xml:lang=""he"">ל</w>","<w   xml:id=""jord0001-255"" xml:lang=""he"">ל</w>","<w   xml:id=""jord0001-303"" xml:lang=""he"">ל</w>","<w   xml:id=""jord0001-311"" xml:lang=""he"">ל</w>","<w   xml:id=""jord0001-312"" xml:lang=""he"">ל</w>","<w   xml:id=""jord0001-326"" xml:lang=""he"">ל</w>","<w   xml:id=""jord0001-345"" xml:lang=""he"">ל</w>","<w   xml:id=""jord0001-369"" xml:lang=""he"">ל</w>","<w   xml:id=""jord0001-396"" xml:lang=""he"">ל</w>","<w   xml:id=""jord0001-433"" xml:lang=""he"">ל</w>","<w   xml:id=""jord0001-442"" xml:lang=""he"">ל</w>","<w   xml:id=""jord0001-468"" xml:lang=""he"">ל</w>","<w   xml:id=""jord0001-470"" xml:lang=""he"">ל</w>","<w   xml:id=""masa0450-14"" xml:lang=""he""><supplied reason=""lost"">ל</supplied></w>","<w   xml:id=""masa0450-17"" xml:lang=""he"">ל</w>","<w   xml:id=""qumr0001-16"" xml:lang=""he"">ל</w>","<w   xml:id=""unkn0102-12"" xml:lang=""he"">ל</w>"
-"ל
-                  רבי",1,"<w   xml:id=""beth0239-9"" xml:lang=""he""><supplied reason=""undefined"">ל
-                  רבי</supplied></w>"
-ל רבי,1,"<w   xml:id=""beth0248-4"" xml:lang=""he""><supplied reason=""undefined"">ל רבי</supplied></w>"
-לא,2,"<w   xml:id=""ahma0001-1"" xml:lang=""he""><supplied reason=""undefined"">לא</supplied></w>","<w   xml:id=""bshe0101-4"" xml:lang=""he"">לא</w>"
-לאדר,1,"<w   xml:id=""jeru0369-3"" xml:lang=""he"">לאדר</w>"
-לאה,1,"<w   xml:id=""jeru0449-11"" xml:lang=""he"">לאה</w>"
-לאונ,1,"<w   xml:id=""beth0272-1"" xml:lang=""he"">לאונ</w>"
-לאכים,1,"<w   xml:id=""jord0001-264"" xml:lang=""he"">לאכים</w>"
-לאלהי,1,"<w   xml:id=""bloy0001-8"" xml:lang=""he"">לאלהי</w>"
-לאלעזר,1,"<w   xml:id=""qumr0001-8"" xml:lang=""he"">לאלעזר</w>"
-לאלפים,1,"<w   xml:id=""jord0001-389"" xml:lang=""he"">לאלפים</w>"
-לאששא,1,"<w   xml:id=""jeru0526-1"" xml:lang=""he"">לאששא</w>"
-לב,1,"<w   xml:id=""jord0001-33"" xml:lang=""he"">לב</w>"
-לבבל,1,"<w   xml:id=""jeru0492-20"" xml:lang=""he"">לבבל</w>"
-לבבם,1,"<w   xml:id=""jeru0327-3"" xml:lang=""he"">לבבם</w>"
-לבית,1,"<w   xml:id=""jeru0309-1"" xml:lang=""he"">לבית</w>"
-לבעלצח,1,"<w   xml:id=""byam0001-1"" xml:lang=""he"">לבעלצח</w>"
-לברכה,2,"<w   xml:id=""beth0247-11"" xml:lang=""he"">לברכה</w>","<w   xml:id=""beth0248-17"" xml:lang=""he"">לברכה</w>"
-לג,4,"<w   xml:id=""masa0593-1"" xml:lang=""he"">לג</w>","<w   xml:id=""masa0594-1"" xml:lang=""he"">לג</w>","<w   xml:id=""masa0595-2"" xml:lang=""he"">לג</w>","<w   xml:id=""masa0924-2"" xml:lang=""he"">לג</w>"
-לה,3,"<w   xml:id=""masa0530-2"" xml:lang=""he""><supplied reason=""lost"">לה</supplied></w>","<w   xml:id=""masa0531-2"" xml:lang=""he"">לה</w>","<w   xml:id=""masa0539-3"" xml:lang=""he"">לה</w>"
-להכ,1,"<w   xml:id=""jeru0309-3"" xml:lang=""he"">להכ</w>"
-לו,4,"<w   xml:id=""bloy0001-7"" xml:lang=""he"">לו</w>","<w   xml:id=""jord0001-204"" xml:lang=""he"">לו</w>","<w   xml:id=""jord0001-339"" xml:lang=""he"">לו</w>","<w   xml:id=""qumr0001-29"" xml:lang=""he"">לו</w>"
-לוד,1,"<w   xml:id=""jaff0052-11"" xml:lang=""he"">לוד</w>"
-לווי,3,"<w   xml:id=""beth0228-6"" xml:lang=""he"">לווי</w>","<w   xml:id=""beth0246-13"" xml:lang=""he"">לווי</w>","<w   xml:id=""beth0250-9"" xml:lang=""he"">לווי</w>"
-לוי,3,"<w   xml:id=""beth0227-6"" xml:lang=""he"">לוי</w>","<w   xml:id=""beth0227-7"" xml:lang=""he"">לוי</w>","<w   xml:id=""beth0227-18"" xml:lang=""he"">לוי</w>"
-לות,3,"<w   xml:id=""jeru0357-1"" xml:lang=""he"">לות</w>","<w   xml:id=""jeru0357-16"" xml:lang=""he"">לות</w>","<w   xml:id=""jeru0357-25"" xml:lang=""he"">לות</w>"
-לחנונה,1,"<w   xml:id=""thar0001-1"" xml:lang=""he"">לחנונה</w>"
-לחנן,2,"<w   xml:id=""jeru0507-2"" xml:lang=""he"">לחנן</w>","<w   xml:id=""mikh0001-1"" xml:lang=""he"">לחנן</w>"
-לחנניה,1,"<w   xml:id=""jeru0370-4"" xml:lang=""he"">לחנניה</w>"
-לט,2,"<w   xml:id=""masa0450-18"" xml:lang=""he"">לט</w>","<w   xml:id=""masa0453b-1"" xml:lang=""he"">לט</w>"
-לטב,1,"<w   xml:id=""mari0004-2"" xml:lang=""he"">לטב</w>"
-לטה,1,"<w   xml:id=""masa0449-11"" xml:lang=""he"">לטה</w>"
-לטהרת,1,"<w   xml:id=""masa0452-7"" xml:lang=""he"">לטהרת</w>"
-לי,2,"<w   xml:id=""jord0001-411"" xml:lang=""he"">לי</w>","<w   xml:id=""jord0001-454"" xml:lang=""he"">לי</w>"
-ליהוה,1,"<w   xml:id=""jord0001-348"" xml:lang=""he"">ליהוה</w>"
-ליודן,1,"<w   xml:id=""beth0274-2"" xml:lang=""he"">ליודן</w>"
-ליחד,1,"<w   xml:id=""qumr0001-28"" xml:lang=""he"">ליחד</w>"
-ליקרה,1,"<w   xml:id=""mari0004-9"" xml:lang=""he"">ליקרה</w>"
-לישראל,2,"<w   xml:id=""jord0001-97"" xml:lang=""he"">לישראל</w>","<w   xml:id=""jord0001-395"" xml:lang=""he"">לישראל</w>"
-לית,1,"<w   xml:id=""masa0404-3"" xml:lang=""he""><supplied reason=""lost"">לית</supplied></w>"
-לך,1,"<w   xml:id=""jord0001-370"" xml:lang=""he"">לך</w>"
-לכה,1,"<w   xml:id=""jord0001-114"" xml:lang=""he"">לכה</w>"
-למ,1,"<w   xml:id=""masa0416-2"" xml:lang=""he"">למ</w>"
-למען,2,"<w   xml:id=""jord0001-163"" xml:lang=""he"">למען</w>","<w   xml:id=""jord0001-375"" xml:lang=""he"">למען</w>"
-למתת,1,"<w   xml:id=""jeru0492-22"" xml:lang=""he"">למתת</w>"
-לני,1,"<w   xml:id=""jord0001-306"" xml:lang=""he"">לני</w>"
-לנפת,1,"<w   xml:id=""jeru0369-11"" xml:lang=""he"">לנפת</w>"
-לעולם,1,"<w   xml:id=""beth0227-8"" xml:lang=""he"">לעולם</w>"
-"לעולם
-                        ברוך",1,"<w   xml:id=""unkn0103-3"" xml:lang=""he""><supplied reason=""lost"">ל</supplied>עולם
-                        ברו<supplied reason=""lost"">ך</supplied></w>"
-לעום,1,"<w   xml:id=""beth0228-7"" xml:lang=""he"">לעום</w>"
-לעז,1,"<w   xml:id=""jeru0492-6"" xml:lang=""he"">לעז</w>"
-לעזר,1,"<w   xml:id=""jeru0394-2"" xml:lang=""he"">לעזר</w>"
-לעשה,1,"<w   xml:id=""jeru0423-2"" xml:lang=""he"">לעשה</w>"
-לף,2,"<w   xml:id=""jeru0370-3"" xml:lang=""he"">לף</w>","<w   xml:id=""masa0589-2"" xml:lang=""he"">לף</w>"
-לפלליה,1,"<w   xml:id=""masa0419-1"" xml:lang=""he"">לפלליה</w>"
-לפני,2,"<w   xml:id=""jord0001-77"" xml:lang=""he"">לפני</w>","<w   xml:id=""mger0150-11"" xml:lang=""he""><supplied reason=""lost"">לפני</supplied></w>"
-לפנך,1,"<w   xml:id=""jord0001-86"" xml:lang=""he"">לפנך</w>"
-לקדש,2,"<w   xml:id=""masa0456-2"" xml:lang=""he"">לקדש</w>","<w   xml:id=""masa0457-3"" xml:lang=""he"">לקדש</w>"
-לקי,1,"<w   xml:id=""jeru0395-1"" xml:lang=""he"">לקי</w>"
-לרמשא,2,"<w   xml:id=""jeru0357-15"" xml:lang=""he"">לרמשא</w>","<w   xml:id=""jeru0357-24"" xml:lang=""he"">לרמשא</w>"
-לש,1,"<w   xml:id=""seph0100-2"" xml:lang=""he"">לש</w>"
-לשות,1,"<w   xml:id=""jord0001-418"" xml:lang=""he"">לשות</w>"
-לשלושת,1,"<w   xml:id=""jord0001-428"" xml:lang=""he"">לשלושת</w>"
-לשלשת,1,"<w   xml:id=""jord0001-98"" xml:lang=""he"">לשלשת</w>"
-לשנם,1,"<w   xml:id=""jord0001-447"" xml:lang=""he"">לשנם</w>"
-ם,4,"<w   xml:id=""jaff0057-4"" xml:lang=""he"">ם</w>","<w   xml:id=""jord0001-415"" xml:lang=""he"">ם</w>","<w   xml:id=""jord0001-417"" xml:lang=""he"">ם</w>","<w   xml:id=""qumr0001-19"" xml:lang=""he""><supplied reason=""lost"">ם</supplied></w>"
-מ,16,"<w   xml:id=""caes0519-1"" xml:lang=""he""><supplied reason=""lost"">מ</supplied></w>","<w   xml:id=""jeru0194-3"" xml:lang=""he"">מ</w>","<w   xml:id=""jeru0349-3"" xml:lang=""he"">מ</w>","<w   xml:id=""jeru0357-13"" xml:lang=""he""><supplied reason=""lost"">מ</supplied></w>","<w   xml:id=""jeru0378-1"" xml:lang=""he"">מ</w>","<w   xml:id=""jord0001-62"" xml:lang=""he"">מ</w>","<w   xml:id=""jord0001-263"" xml:lang=""he""><supplied reason=""lost"">מ</supplied></w>","<w   xml:id=""jord0001-359"" xml:lang=""he"">מ</w>","<w   xml:id=""jord0001-390"" xml:lang=""he"">מ</w>","<w   xml:id=""jord0001-448"" xml:lang=""he"">מ</w>","<w   xml:id=""jord0001-453"" xml:lang=""he"">מ</w>","<w   xml:id=""masa0589-1"" xml:lang=""he"">מ</w>","<w   xml:id=""masa0597-2"" xml:lang=""he"">מ</w>","<w   xml:id=""masa0598-2"" xml:lang=""he"">מ</w>","<w   xml:id=""masa0599-2"" xml:lang=""he"">מ</w>","<w   xml:id=""unkn0102-13"" xml:lang=""he"">מ</w>"
-מא,1,"<w   xml:id=""jord0001-302"" xml:lang=""he"">מא</w>"
-מאה,1,"<w   xml:id=""jeru0449-1"" xml:lang=""he"">מאה</w>"
-מאמא,1,"<w   xml:id=""jaff0054-10"" xml:lang=""he"">מאמא</w>"
-מאני,1,"<w   xml:id=""jeru0449-3"" xml:lang=""he"">מאני</w>"
-מבית,1,"<w   xml:id=""jeru0300-8"" xml:lang=""he"">מבית</w>"
-מביתי,1,"<w   xml:id=""jord0001-44"" xml:lang=""he"">מביתי</w>"
-מבמני,1,"<w   xml:id=""jeru0303-20"" xml:lang=""he"">מבמני</w>"
-מבקש,1,"<w   xml:id=""jord0001-84"" xml:lang=""he"">מבקש</w>"
-מגה,1,"<w   xml:id=""beth0246-7"" xml:lang=""he"">מגה</w>"
-מדרשו,1,"<w   xml:id=""dabb0006-3"" xml:lang=""he"">מדרשו</w>"
-מה,2,"<w   xml:id=""jord0001-115"" xml:lang=""he"">מה</w>","<w   xml:id=""jord0001-188"" xml:lang=""he"">מה</w>"
-מהיום,1,"<w   xml:id=""qumr0001-14"" xml:lang=""he"">מהיום</w>"
-מוזנים,1,"<w   xml:id=""tibe0001-7"" xml:lang=""he"">מוזנים</w>"
-מחולנ,1,"<w   xml:id=""qumr0001-13"" xml:lang=""he"">מחולנ</w>"
-מי,1,"<w   xml:id=""jord0001-405"" xml:lang=""he"">מי</w>"
-מיאשה,1,"<w   xml:id=""beth0244-12"" xml:lang=""he"">מיאשה</w>"
-מיה,1,"<w   xml:id=""jeru0504-2"" xml:lang=""he""><supplied reason=""lost"">מיה</supplied></w>"
-מיכאל,1,"<w   xml:id=""jord0001-166"" xml:lang=""he"">מיכאל</w>"
-מין,1,"<w   xml:id=""masa0449-10"" xml:lang=""he"">מין</w>"
-מירושלם,1,"<w   xml:id=""jeru0350-4"" xml:lang=""he"">מירושלם</w>"
-מל,2,"<w   xml:id=""jord0001-13"" xml:lang=""he"">מל</w>","<w   xml:id=""jord0001-412"" xml:lang=""he"">מל</w>"
-מלאכה,2,"<w   xml:id=""jord0001-165"" xml:lang=""he"">מלאכה</w>","<w   xml:id=""jord0001-187"" xml:lang=""he"">מלאכה</w>"
-מלכין,1,"<w   xml:id=""jeru0335-1"" xml:lang=""he"">מלכין</w>"
-מלכנ,1,"<w   xml:id=""tdor0002-1"" xml:lang=""he"">מלכנ</w>"
-מלפני,1,"<w   xml:id=""jord0001-110"" xml:lang=""he"">מלפני</w>"
-מלפניך,1,"<w   xml:id=""jord0001-421"" xml:lang=""he"">מלפניך</w>"
-ממירושלם,1,"<w   xml:id=""jord0001-215"" xml:lang=""he"">ממירושלם</w>"
-ממעזיה,1,"<w   xml:id=""jeru0300-7"" xml:lang=""he"">ממעזיה</w>"
-מן,8,"<w   xml:id=""jeru0357-22"" xml:lang=""he"">מן</w>","<w   xml:id=""jord0001-76"" xml:lang=""he"">מן</w>","<w   xml:id=""jord0001-85"" xml:lang=""he"">מן</w>","<w   xml:id=""jord0001-134"" xml:lang=""he"">מן</w>","<w   xml:id=""jord0001-265"" xml:lang=""he"">מן</w>","<w   xml:id=""jord0001-330"" xml:lang=""he"">מן</w>","<w   xml:id=""jord0001-455"" xml:lang=""he"">מן</w>","<w   xml:id=""qumr0001-38"" xml:lang=""he""><supplied reason=""lost"">
-                        מן</supplied></w>"
-מןמז,1,"<w   xml:id=""masa0544-1"" xml:lang=""he""><choice>מןמז</choice></w>"
-מנ,1,"<w   xml:id=""tdor0002-4"" xml:lang=""he""><supplied reason=""lost"">מנ</supplied></w>"
-מנה,1,"<w   xml:id=""jeru0376-1"" xml:lang=""he"">מנה</w>"
-מנוחתה,1,"<w   xml:id=""beth0242-1"" xml:lang=""he"">מנוחתה</w>"
-מנחות,1,"<w   xml:id=""beth0237-3"" xml:lang=""he"">מנחות</w>"
-מנחם,3,"<w   xml:id=""jeru0418-2"" xml:lang=""he"">מנחם</w>","<w   xml:id=""jeru0449-15"" xml:lang=""he"">מנחם</w>","<w   xml:id=""jeru0449-17"" xml:lang=""he"">מנחם</w>"
-מס,1,"<w   xml:id=""masa0549-1"" xml:lang=""he""><choice>מס</choice></w>"
-מעאל,1,"<w   xml:id=""jeru0334-2"" xml:lang=""he"">מעאל</w>"
-מעון,1,"<w   xml:id=""masa0463-2"" xml:lang=""he"">מעון</w>"
-מעט,1,"<w   xml:id=""jord0001-137"" xml:lang=""he"">מעט</w>"
-מעין,1,"<w   xml:id=""qumr0002-11"" xml:lang=""he"">מעין</w>"
-מעניה,1,"<w   xml:id=""jeru0492-13"" xml:lang=""he"">מעניה</w>"
-מערב,1,"<w   xml:id=""masa0550-1"" xml:lang=""he"">מערב</w>"
-מעשר,1,"<w   xml:id=""masa0441-1"" xml:lang=""he"">מעשר</w>"
-מפ,1,"<w   xml:id=""jord0001-79"" xml:lang=""he"">מפ</w>"
-מפט,1,"<w   xml:id=""jeru0350-6"" xml:lang=""he"">מפט</w>"
-מפנון,1,"<w   xml:id=""jeru0350-2"" xml:lang=""he"">מפנון</w>"
-מצוותיו,1,"<w   xml:id=""ahma0001-6"" xml:lang=""he""><supplied reason=""lost"">מצוותיו</supplied></w>"
-מק,2,"<w   xml:id=""jeru0501-1"" xml:lang=""he""><choice>מק</choice></w>","<w   xml:id=""jord0001-331"" xml:lang=""he"">מק</w>"
-מקומו,1,"<w   xml:id=""jord0001-135"" xml:lang=""he"">מקומו</w>"
-מקים,1,"<w   xml:id=""beth0255-7"" xml:lang=""he"">מקים</w>"
-מר,1,"<w   xml:id=""jeru0506-1"" xml:lang=""he""><supplied reason=""lost"">מר</supplied></w>"
-מרד,1,"<w   xml:id=""jeru0492-14"" xml:lang=""he"">מרד</w>"
-מריה,3,"<w   xml:id=""jeru0412-1"" xml:lang=""he"">מריה</w>","<w   xml:id=""jeru0452-1"" xml:lang=""he"">מריה</w>","<w   xml:id=""jeru0454-1"" xml:lang=""he"">מריה</w>"
-מרים,2,"<w   xml:id=""beth0243-1"" xml:lang=""he"">מרים</w>","<w   xml:id=""jeru0300-1"" xml:lang=""he"">מרים</w>"
-מרעיש,1,"<w   xml:id=""jord0001-141"" xml:lang=""he"">מרעיש</w>"
-מרתא,1,"<w   xml:id=""jeru0388-1"" xml:lang=""he"">מרתא</w>"
-מש,1,"<w   xml:id=""beth0238-7"" xml:lang=""he"">מש</w>"
-משח,1,"<w   xml:id=""jeru0357-27"" xml:lang=""he"">משח</w>"
-משכבו,3,"<w   xml:id=""beth0227-2"" xml:lang=""he"">משכבו</w>","<w   xml:id=""beth0227-13"" xml:lang=""he"">משכבו</w>","<w   xml:id=""beth0228-2"" xml:lang=""he"">משכבו</w>"
-משמר,1,"<w   xml:id=""ahma0001-3"" xml:lang=""he"">משמר</w>"
-מת,1,"<w   xml:id=""jeru0319-1"" xml:lang=""he""><supplied reason=""lost"">מת</supplied></w>"
-מתו,1,"<w   xml:id=""jord0001-61"" xml:lang=""he"">מתו</w>"
-מתיה,2,"<w   xml:id=""anna0001-1"" xml:lang=""he"">מתיה</w>","<w   xml:id=""masa0498-1"" xml:lang=""he"">מתיה</w>"
-מתכמתב,1,"<w   xml:id=""shap0004-2"" xml:lang=""he""><choice>מתכמתב</choice></w>"
-מתתיה,3,"<w   xml:id=""jeru0466-1"" xml:lang=""he"">מתתיה</w>","<w   xml:id=""jeru0466-2"" xml:lang=""he"">מתתיה</w>","<w   xml:id=""jeru0485-1"" xml:lang=""he""><expan><abbr>מת</abbr><ex>ת</ex><abbr>י</abbr><ex>ה</ex></expan></w>"
-ן,16,"<w   xml:id=""jaff0052-6"" xml:lang=""he"">ן</w>","<w   xml:id=""jeru0346-2"" xml:lang=""he"">ן</w>","<w   xml:id=""jeru0357-7"" xml:lang=""he"">ן</w>","<w   xml:id=""jeru0357-12"" xml:lang=""he""><supplied reason=""omitted"">ן</supplied></w>","<w   xml:id=""jeru0365-4"" xml:lang=""he"">ן</w>","<w   xml:id=""jeru0365-6"" xml:lang=""he""><supplied reason=""lost"">ן</supplied></w>","<w   xml:id=""jord0001-208"" xml:lang=""he"">ן</w>","<w   xml:id=""jord0001-228"" xml:lang=""he"">ן</w>","<w   xml:id=""jord0001-244"" xml:lang=""he"">ן</w>","<w   xml:id=""jord0001-261"" xml:lang=""he"">ן</w>","<w   xml:id=""jord0001-419"" xml:lang=""he"">ן</w>","<w   xml:id=""jord0001-437"" xml:lang=""he"">ן</w>","<w   xml:id=""jord0001-449"" xml:lang=""he"">ן</w>","<w   xml:id=""masa0412-2"" xml:lang=""he""><supplied reason=""lost"">ן</supplied></w>","<w   xml:id=""masa0452-6"" xml:lang=""he""><supplied reason=""lost"">ן</supplied></w>","<w   xml:id=""qumr0001-7"" xml:lang=""he""><supplied reason=""lost"">ן</supplied></w>"
-ן עם הצדיקים,1,"<w   xml:id=""beth0237-33"" xml:lang=""he""><supplied reason=""undefined"">ן עם הצדיקים</supplied></w>"
-ן פלוף,1,"<w   xml:id=""caes0518-5"" xml:lang=""he""><supplied reason=""lost"">ן פלוף</supplied></w>"
-נ,4,"<w   xml:id=""beth0246-3"" xml:lang=""he""><supplied reason=""undefined"">נ</supplied></w>","<w   xml:id=""beth0263-4"" xml:lang=""he"">נ</w>","<w   xml:id=""masa0401-4"" xml:lang=""he"">נ</w>","<w   xml:id=""unkn0102-14"" xml:lang=""he"">נ</w>"
-נא,1,"<w   xml:id=""jord0001-282"" xml:lang=""he"">נא</w>"
-נבי,1,"<w   xml:id=""jord0001-414"" xml:lang=""he"">נבי</w>"
-נביאים,1,"<w   xml:id=""jord0001-360"" xml:lang=""he"">נביאים</w>"
-נביאין,1,"<w   xml:id=""jord0001-69"" xml:lang=""he"">נביאין</w>"
-נה,1,"<w   xml:id=""masa0507-1"" xml:lang=""he"">נה</w>"
-נוה,1,"<w   xml:id=""bloy0002-4"" xml:lang=""he"">נוה</w>"
-נוח,1,"<w   xml:id=""jaff0052-8"" xml:lang=""he"">נוח</w>"
-נוטוס,1,"<w   xml:id=""masa0462-3"" xml:lang=""he"">נוטוס</w>"
-נח,1,"<w   xml:id=""jeru0504-1"" xml:lang=""he"">נח</w>"
-נחמיה,3,"<w   xml:id=""akld0021-3"" xml:lang=""he"">נחמיה</w>","<w   xml:id=""beth0237-10"" xml:lang=""he"">נחמיה</w>","<w   xml:id=""jeru0503-1"" xml:lang=""he"">נחמיה</w>"
-נחמני,1,"<w   xml:id=""qumr0001-10"" xml:lang=""he"">נחמני</w>"
-נטירא,1,"<w   xml:id=""akld0023-1"" xml:lang=""he"">נטירא</w>"
-ני,3,"<w   xml:id=""jeru0352-1"" xml:lang=""he"">ני</w>","<w   xml:id=""jord0001-43"" xml:lang=""he"">ני</w>","<w   xml:id=""qumr0001-37"" xml:lang=""he""><supplied reason=""lost"">ני</supplied></w>"
-ניו,1,"<w   xml:id=""qumr0002-10"" xml:lang=""he"">ניו</w>"
-ניח,1,"<w   xml:id=""mari0004-5"" xml:lang=""he"">ניח</w>"
-ניחמיה,1,"<w   xml:id=""beth0271-2"" xml:lang=""he"">ניחמיה</w>"
-ניסן,1,"<w   xml:id=""tibe0002-2"" xml:lang=""he"">ניסן</w>"
-נן,2,"<w   xml:id=""jeru0357-18"" xml:lang=""he"">נן</w>","<w   xml:id=""masa0395-4"" xml:lang=""he"">נן</w>"
-נסן,1,"<w   xml:id=""masa0479-2"" xml:lang=""he"">נסן</w>"
-נער,1,"<w   xml:id=""tdor0002-2"" xml:lang=""he"">נער</w>"
-נפק,1,"<w   xml:id=""jeru0369-4"" xml:lang=""he"">נפק</w>"
-נפש,3,"<w   xml:id=""beth0271-1"" xml:lang=""he"">נפש</w>","<w   xml:id=""jaff0052-9"" xml:lang=""he"">נפש</w>","<w   xml:id=""mari0004-6"" xml:lang=""he"">נפש</w>"
-נצח,1,"<w   xml:id=""masa0545-1"" xml:lang=""he"">נצח</w>"
-נשבר,1,"<w   xml:id=""jord0001-108"" xml:lang=""he"">נשבר</w>"
-נשיא,1,"<w   xml:id=""juda0001-4"" xml:lang=""he""><expan><abbr>נשי</abbr><ex>א</ex></expan></w>"
-נת,1,"<w   xml:id=""jeru0454-3"" xml:lang=""he"">נת</w>"
-נתי,1,"<w   xml:id=""jeru0387-3"" xml:lang=""he"">נתי</w>"
-נתן,2,"<w   xml:id=""qumr0001-4"" xml:lang=""he"">נתן</w>","<w   xml:id=""qumr0002-8"" xml:lang=""he"">נתן</w>"
-ס,6,"<w   xml:id=""jeru0369-5"" xml:lang=""he"">ס</w>","<w   xml:id=""jeru0369-9"" xml:lang=""he"">ס</w>","<w   xml:id=""jeru0369-12"" xml:lang=""he"">ס</w>","<w   xml:id=""jeru0369-14"" xml:lang=""he"">ס</w>","<w   xml:id=""jeru0371-4"" xml:lang=""he"">ס</w>","<w   xml:id=""masa0590-1"" xml:lang=""he"">ס</w>"
-סט,2,"<w   xml:id=""jeru0463-1"" xml:lang=""he"">סט</w>","<w   xml:id=""jeru0463-2"" xml:lang=""he"">סט</w>"
-סימי,1,"<w   xml:id=""jeru0457-1"" xml:lang=""he"">סימי</w>"
-סמון,1,"<w   xml:id=""masa0415-2"" xml:lang=""he"">סמון</w>"
-סמע,1,"<w   xml:id=""jeru0464-1"" xml:lang=""he"">סמע</w>"
-סף,2,"<w   xml:id=""masa0395-2"" xml:lang=""he"">סף</w>","<w   xml:id=""masa0497-2"" xml:lang=""he"">סף</w>"
-סתום,1,"<w   xml:id=""jord0001-285"" xml:lang=""he"">סתום</w>"
-ע,9,"<w   xml:id=""beth0236-2"" xml:lang=""he"">ע</w>","<w   xml:id=""jeru0343-1"" xml:lang=""he""><supplied reason=""lost"" cert=""low"">ע</supplied></w>","<w   xml:id=""jeru0349-1"" xml:lang=""he"">ע</w>","<w   xml:id=""jord0001-3"" xml:lang=""he"">ע</w>","<w   xml:id=""jord0001-156"" xml:lang=""he""><supplied reason=""lost"">ע</supplied></w>","<w   xml:id=""jord0001-226"" xml:lang=""he"">ע</w>","<w   xml:id=""jord0001-254"" xml:lang=""he"">ע</w>","<w   xml:id=""masa0696-1"" xml:lang=""he"">ע</w>","<w   xml:id=""qumr0001-17"" xml:lang=""he""><supplied reason=""omitted"">ע</supplied></w>"
-עב,1,"<w   xml:id=""masa0696-3"" xml:lang=""he"">עב</w>"
-עבד,2,"<w   xml:id=""jord0001-377"" xml:lang=""he"">עבד</w>","<w   xml:id=""qumr0001-35"" xml:lang=""he"">עבד</w>"
-עבדי,1,"<w   xml:id=""jord0001-73"" xml:lang=""he"">עבדי</w>"
-עה,3,"<w   xml:id=""jeru0194-4"" xml:lang=""he""><supplied reason=""undefined"">
-                       עה
-                   </supplied></w>","<w   xml:id=""jeru0346-1"" xml:lang=""he"">עה</w>","<w   xml:id=""jord0001-185"" xml:lang=""he"">עה</w>"
-עובד,2,"<w   xml:id=""jeru0303-14"" xml:lang=""he"">עובד</w>","<w   xml:id=""jord0001-211"" xml:lang=""he"">עובד</w>"
-עוד,1,"<w   xml:id=""jord0001-136"" xml:lang=""he"">עוד</w>"
-עוזרל,2,"<w   xml:id=""masa0595-1"" xml:lang=""he"">עוזרל</w>","<w   xml:id=""masa0924-1"" xml:lang=""he"">עוזרל</w>"
-עוך,1,"<w   xml:id=""jord0001-260"" xml:lang=""he"">עוך</w>"
-עומד,1,"<w   xml:id=""jord0001-124"" xml:lang=""he"">עומד</w>"
-עון,1,"<w   xml:id=""masa0478-2"" xml:lang=""he""><supplied reason=""lost"">עון</supplied></w>"
-עושה,1,"<w   xml:id=""jord0001-387"" xml:lang=""he"">עושה</w>"
-עזר,1,"<w   xml:id=""jaff0054-6"" xml:lang=""he"">עזר</w>"
-עזרה,2,"<w   xml:id=""masa0394-1"" xml:lang=""he"">עזרה</w>","<w   xml:id=""masa0472-2"" xml:lang=""he"">עזרה</w>"
-עיי,1,"<w   xml:id=""mari0004-4"" xml:lang=""he"">עיי</w>"
-על,9,"<w   xml:id=""beth0234-2"" xml:lang=""he"">על</w>","<w   xml:id=""jeru0362-2"" xml:lang=""he"">על</w>","<w   xml:id=""jord0001-57"" xml:lang=""he"">על</w>","<w   xml:id=""jord0001-198"" xml:lang=""he"">על</w>","<w   xml:id=""jord0001-217"" xml:lang=""he"">על</w>","<w   xml:id=""jord0001-266"" xml:lang=""he"">על</w>","<w   xml:id=""jord0001-268"" xml:lang=""he"">על</w>","<w   xml:id=""jord0001-340"" xml:lang=""he"">על</w>","<w   xml:id=""mger0150-6"" xml:lang=""he""><supplied reason=""lost"">על</supplied></w>"
-עליך,1,"<w   xml:id=""jord0001-335"" xml:lang=""he"">עליך</w>"
-עלם,1,"<w   xml:id=""jord0001-472"" xml:lang=""he"">עלם</w>"
-עלעזר,1,"<w   xml:id=""jeru0528-1"" xml:lang=""he"">עלעזר</w>"
-עם,1,"<w   xml:id=""beth0243-6"" xml:lang=""he"">עם</w>"
-עמ,1,"<w   xml:id=""jord0001-269"" xml:lang=""he"">עמ</w>"
-עמי,1,"<w   xml:id=""jord0001-363"" xml:lang=""he"">עמי</w>"
-עמידת,1,"<w   xml:id=""beth0237-32"" xml:lang=""he"">עמידת</w>"
-עמך,1,"<w   xml:id=""jord0001-258"" xml:lang=""he"">עמך</w>"
-עמרי,1,"<w   xml:id=""jeru0300-9"" xml:lang=""he"">עמרי</w>"
-עריא,1,"<w   xml:id=""jeru0369-8"" xml:lang=""he"">עריא</w>"
-ערתה,1,"<w   xml:id=""jeru0492-29"" xml:lang=""he"">ערתה</w>"
-עשירי,1,"<w   xml:id=""masa0588-1"" xml:lang=""he"">עשירי</w>"
-עשרה,1,"<w   xml:id=""beth0248-13"" xml:lang=""he"">עשרה</w>"
-עשרין,1,"<w   xml:id=""beth0237-14"" xml:lang=""he"">עשרין</w>"
-ף,1,"<w   xml:id=""qumr0002-6"" xml:lang=""he"">ף</w>"
-פאריגרי,1,"<w   xml:id=""beth0257-1"" xml:lang=""he"">פאריגרי</w>"
-פדא,1,"<w   xml:id=""jeru0392-1"" xml:lang=""he"">פדא</w>"
-פה,1,"<w   xml:id=""jeru0492-15"" xml:lang=""he"">פה</w>"
-פטי,2,"<w   xml:id=""masa0388-1"" xml:lang=""he"">פטי</w>","<w   xml:id=""masa0435-2"" xml:lang=""he"">פטי</w>"
-פינחס,1,"<w   xml:id=""jeru0451-1"" xml:lang=""he"">פינחס</w>"
-פכ,1,"<w   xml:id=""jord0001-194"" xml:lang=""he"">פכ</w>"
-פל,1,"<w   xml:id=""jeru0410-1"" xml:lang=""he"">פל</w>"
-פסו,1,"<w   xml:id=""masa0454-4"" xml:lang=""he"">פסו</w>"
-פסולא,1,"<w   xml:id=""masa0455-1"" xml:lang=""he"">פסולא</w>"
-פצכ,1,"<w   xml:id=""jeru0388-3"" xml:lang=""he"">פצכ</w>"
-פר,1,"<w   xml:id=""masa0453a-1"" xml:lang=""he"">פר</w>"
-פרס,1,"<w   xml:id=""hali0001-5"" xml:lang=""he"">פרס</w>"
-צ,1,"<w   xml:id=""jord0001-284"" xml:lang=""he"">צ</w>"
-צבא,1,"<w   xml:id=""jord0001-292"" xml:lang=""he"">צבא</w>"
-צבאות,7,"<w   xml:id=""jord0001-42"" xml:lang=""he"">צבאות</w>","<w   xml:id=""jord0001-91"" xml:lang=""he"">צבאות</w>","<w   xml:id=""jord0001-105"" xml:lang=""he"">צבאות</w>","<w   xml:id=""jord0001-150"" xml:lang=""he"">צבאות</w>","<w   xml:id=""jord0001-175"" xml:lang=""he"">צבאות</w>","<w   xml:id=""jord0001-235"" xml:lang=""he"">צבאות</w>","<w   xml:id=""jord0001-299"" xml:lang=""he"">צבאות</w>"
-צבאת,3,"<w   xml:id=""jord0001-349"" xml:lang=""he"">צבאת</w>","<w   xml:id=""jord0001-356"" xml:lang=""he"">צבאת</w>","<w   xml:id=""jord0001-462"" xml:lang=""he"">צבאת</w>"
-צדיק,1,"<w   xml:id=""beth0248-16"" xml:lang=""he"">צדיק</w>"
-צדיקים,1,"<w   xml:id=""beth0247-10"" xml:lang=""he"">צדיקים</w>"
-ציפון,1,"<w   xml:id=""masa0436-1"" xml:lang=""he"">ציפון</w>"
-צל,1,"<w   xml:id=""jord0001-224"" xml:lang=""he"">צל</w>"
-צרים,1,"<w   xml:id=""jord0001-439"" xml:lang=""he"">צרים</w>"
-צרין,1,"<w   xml:id=""jeru0379-3"" xml:lang=""he"">צרין</w>"
-ק,7,"<w   xml:id=""beth0251-1"" xml:lang=""he""><supplied reason=""undefined"">ק</supplied></w>","<w   xml:id=""jeru0349-4"" xml:lang=""he"">ק</w>","<w   xml:id=""jeru0371-2"" xml:lang=""he"">ק</w>","<w   xml:id=""jeru0371-5"" xml:lang=""he"">ק</w>","<w   xml:id=""jord0001-30"" xml:lang=""he"">ק</w>","<w   xml:id=""masa0459-1"" xml:lang=""he"">ק</w>","<w   xml:id=""qumr0002-1"" xml:lang=""he"">ק</w>"
-קבר,1,"<w   xml:id=""jeru0303-2"" xml:lang=""he"">קבר</w>"
-קד,2,"<w   xml:id=""masa0453c-1"" xml:lang=""he"">קד</w>","<w   xml:id=""masa0453d-1"" xml:lang=""he"">קד</w>"
-קדדין,1,"<w   xml:id=""masa0551-1"" xml:lang=""he"">קדדין</w>"
-קדושי,1,"<w   xml:id=""jord0001-328"" xml:lang=""he"">קדושי</w>"
-קדושים,1,"<w   xml:id=""jord0001-403"" xml:lang=""he"">קדושים</w>"
-קדשה,1,"<w   xml:id=""jord0001-96"" xml:lang=""he"">קדשה</w>"
-קומה,1,"<w   xml:id=""neta0001-1"" xml:lang=""he"">קומה</w>"
-קורים,1,"<w   xml:id=""mari0004-3"" xml:lang=""he"">קורים</w>"
-קורשא,1,"<w   xml:id=""jeru0381-3"" xml:lang=""he"">קורשא</w>"
-קיטוט,1,"<w   xml:id=""jord0001-138"" xml:lang=""he"">קיטוט</w>"
-קיפא,2,"<w   xml:id=""jent0006-3"" xml:lang=""he"">קיפא</w>","<w   xml:id=""jeru0300-5"" xml:lang=""he"">קיפא</w>"
-קירה,3,"<w   xml:id=""beth0241-1"" xml:lang=""he"">קירה</w>","<w   xml:id=""beth0242-3"" xml:lang=""he"">קירה</w>","<w   xml:id=""beth0246-6"" xml:lang=""he"">קירה</w>"
-קירילא,1,"<w   xml:id=""beth0240-1"" xml:lang=""he"">קירילא</w>"
-קני,1,"<w   xml:id=""masa0474-2"" xml:lang=""he"">קני</w>"
-קפא,1,"<w   xml:id=""jent0006-6"" xml:lang=""he"">קפא</w>"
-קצבא,1,"<w   xml:id=""masa0512-1"" xml:lang=""he"">קצבא</w>"
-קרב,1,"<w   xml:id=""jeru0365-5"" xml:lang=""he"">קרב</w>"
-קרבן,3,"<w   xml:id=""jeru0367-1"" xml:lang=""he"">קרבן</w>","<w   xml:id=""jeru0526-2"" xml:lang=""he"">קרבן</w>","<w   xml:id=""jeru0534-4"" xml:lang=""he"">קרבן</w>"
-קריב,1,"<w   xml:id=""mger0150-3"" xml:lang=""he"">קריב</w>"
-קרקס,1,"<w   xml:id=""jeru0393-1"" xml:lang=""he"">קרקס</w>"
-קתרא,1,"<w   xml:id=""masa0405-2"" xml:lang=""he"">קתרא</w>"
-ר,13,"<w   xml:id=""beth0263-3"" xml:lang=""he"">ר</w>","<w   xml:id=""jeru0194-1"" xml:lang=""he"">ר</w>","<w   xml:id=""jeru0374-1"" xml:lang=""he""><supplied reason=""lost"">ר</supplied></w>","<w   xml:id=""jeru0492-7"" xml:lang=""he""><supplied reason=""omitted"">ר</supplied></w>","<w   xml:id=""jord0001-221"" xml:lang=""he"">ר</w>","<w   xml:id=""masa0464-3"" xml:lang=""he""><supplied reason=""lost"">ר</supplied></w>","<w   xml:id=""masa0597-1"" xml:lang=""he"">ר</w>","<w   xml:id=""masa0598-1"" xml:lang=""he"">ר</w>","<w   xml:id=""masa0599-1"" xml:lang=""he"">ר</w>","<w   xml:id=""masa0600-1"" xml:lang=""he"">ר</w>","<w   xml:id=""masa0601-1"" xml:lang=""he"">ר</w>","<w   xml:id=""masa0602-1"" xml:lang=""he"">ר</w>","<w   xml:id=""masa0696-2"" xml:lang=""he"">ר</w>"
-ר הזה,1,"<w   xml:id=""caes0518-2"" xml:lang=""he""><supplied reason=""lost"">ר הזה</supplied></w>"
-רא,1,"<w   xml:id=""jord0001-443"" xml:lang=""he"">רא</w>"
-ראו,1,"<w   xml:id=""jord0001-281"" xml:lang=""he"">ראו</w>"
-ראובן,1,"<w   xml:id=""haif0010-5"" xml:lang=""he"">ראובן</w>"
-ראנא,1,"<w   xml:id=""jeru0357-3"" xml:lang=""he"">ראנא</w>"
-רב,1,"<w   xml:id=""jeru0502-1"" xml:lang=""he"">רב</w>"
-רבא,1,"<w   xml:id=""masa0391-1"" xml:lang=""he"">רבא</w>"
-רבה,1,"<w   xml:id=""jeru0492-10"" xml:lang=""he"">רבה</w>"
-רבי,18,"<w   xml:id=""beth0230-1"" xml:lang=""he"">רבי</w>","<w   xml:id=""beth0237-7"" xml:lang=""he"">רבי</w>","<w   xml:id=""beth0237-20"" xml:lang=""he"">רבי</w>","<w   xml:id=""beth0237-24"" xml:lang=""he"">רבי</w>","<w   xml:id=""beth0238-1"" xml:lang=""he"">רבי</w>","<w   xml:id=""beth0239-6"" xml:lang=""he"">רבי</w>","<w   xml:id=""beth0239-13"" xml:lang=""he""><supplied reason=""undefined"">רבי </supplied></w>","<w   xml:id=""beth0243-4"" xml:lang=""he"">רבי</w>","<w   xml:id=""beth0244-7"" xml:lang=""he"">רבי</w>","<w   xml:id=""beth0244-11"" xml:lang=""he"">רבי</w>","<w   xml:id=""beth0245-4"" xml:lang=""he"">רבי</w>","<w   xml:id=""beth0246-10"" xml:lang=""he"">רבי</w>","<w   xml:id=""beth0247-6"" xml:lang=""he"">רבי</w>","<w   xml:id=""beth0248-8"" xml:lang=""he"">רבי</w>","<w   xml:id=""beth0250-4"" xml:lang=""he"">רבי</w>","<w   xml:id=""beth0250-8"" xml:lang=""he"">רבי</w>","<w   xml:id=""beth0255-4"" xml:lang=""he"">רבי</w>","<w   xml:id=""jaff0057-3"" xml:lang=""he"">רבי</w>"
-רבים,1,"<w   xml:id=""jord0001-347"" xml:lang=""he"">רבים</w>"
-רד,1,"<w   xml:id=""jord0001-259"" xml:lang=""he"">רד</w>"
-רדכי,1,"<w   xml:id=""caes0519-2"" xml:lang=""he"">רדכי</w>"
-רה,1,"<w   xml:id=""jeru0350-7"" xml:lang=""he""><supplied reason=""lost"">רה</supplied></w>"
-רוח,1,"<w   xml:id=""jord0001-307"" xml:lang=""he"">רוח</w>"
-רועין,1,"<w   xml:id=""jord0001-393"" xml:lang=""he"">רועין</w>"
-רור,1,"<w   xml:id=""masa0549-2"" xml:lang=""he"">רור</w>"
-רות,2,"<w   xml:id=""beth0262-1"" xml:lang=""he"">רות</w>","<w   xml:id=""beth0262-2"" xml:lang=""he"">רות</w>"
-רי,2,"<w   xml:id=""jeru0459-2"" xml:lang=""he""><choice>רי</choice></w>","<w   xml:id=""masa0401-2"" xml:lang=""he""><choice>רי</choice></w>"
-ריה,2,"<w   xml:id=""jeru0501-2"" xml:lang=""he"">ריה</w>","<w   xml:id=""masa0477-2"" xml:lang=""he""><supplied reason=""lost"">ריה</supplied></w>"
-ריז,1,"<w   xml:id=""jeru0309-4"" xml:lang=""he""><supplied reason=""lost"">ריז</supplied></w>"
-רילס,1,"<w   xml:id=""beth0251-2"" xml:lang=""he"">רילס</w>"
-רים,1,"<w   xml:id=""jord0001-80"" xml:lang=""he"">רים</w>"
-רת,2,"<w   xml:id=""masa0449-12"" xml:lang=""he""><supplied reason=""lost"">רת</supplied></w>","<w   xml:id=""masa0450-16"" xml:lang=""he""><supplied reason=""lost"">רת</supplied></w>"
-ש,19,"<w   xml:id=""beth0239-12"" xml:lang=""he"">ש</w>","<w   xml:id=""beth0241-2"" xml:lang=""he"">ש</w>","<w   xml:id=""beth0248-3"" xml:lang=""he"">ש</w>","<w   xml:id=""jeru0369-7"" xml:lang=""he""><supplied reason=""lost"">ש</supplied></w>","<w   xml:id=""jeru0382-1"" xml:lang=""he"">ש</w>","<w   xml:id=""jeru0396-1"" xml:lang=""he"">ש</w>","<w   xml:id=""jord0001-19"" xml:lang=""he"">ש</w>","<w   xml:id=""jord0001-60"" xml:lang=""he"">ש</w>","<w   xml:id=""jord0001-248"" xml:lang=""he"">ש</w>","<w   xml:id=""jord0001-250"" xml:lang=""he"">ש</w>","<w   xml:id=""jord0001-315"" xml:lang=""he"">ש</w>","<w   xml:id=""jord0001-385"" xml:lang=""he"">ש</w>","<w   xml:id=""masa0416-3"" xml:lang=""he"">ש</w>","<w   xml:id=""masa0449-14"" xml:lang=""he""><supplied reason=""lost"">ש</supplied></w>","<w   xml:id=""masa0451-8"" xml:lang=""he""><supplied reason=""lost"">ש</supplied></w>","<w   xml:id=""masa0453c-2"" xml:lang=""he""><supplied reason=""lost"">ש</supplied></w>","<w   xml:id=""masa0453d-2"" xml:lang=""he""><supplied reason=""lost"">ש</supplied></w>","<w   xml:id=""masa0463-1"" xml:lang=""he""><supplied reason=""lost"">ש</supplied></w>","<w   xml:id=""qumr0002-2"" xml:lang=""he"">ש</w>"
-שׁלבידוד,1,"<w   xml:id=""jeru0500-1"" xml:lang=""he"">שׁלבידוד</w>"
-שׁלמסין,1,"<w   xml:id=""jeru0454-6"" xml:lang=""he"">שׁלמסין</w>"
-שׁלמציון,1,"<w   xml:id=""jeru0453-2"" xml:lang=""he"">שׁלמציון</w>"
-שׁמעון,1,"<w   xml:id=""jeru0501-3"" xml:lang=""he"">שׁמעון</w>"
-שאול,3,"<w   xml:id=""masa0410-1"" xml:lang=""he"">שאול</w>","<w   xml:id=""masa0509-1"" xml:lang=""he"">שאול</w>","<w   xml:id=""shap0004-1"" xml:lang=""he"">שאול</w>"
-שאל,1,"<w   xml:id=""masa0508-1"" xml:lang=""he"">שאל</w>"
-שאלני,2,"<w   xml:id=""jord0001-38"" xml:lang=""he"">שאלני</w>","<w   xml:id=""jord0001-112"" xml:lang=""he"">שאלני</w>"
-שאלת,1,"<w   xml:id=""jord0001-35"" xml:lang=""he"">שאלת</w>"
-שאמ,1,"<w   xml:id=""jord0001-277"" xml:lang=""he"">שאמ</w>"
-שב,1,"<w   xml:id=""jord0001-184"" xml:lang=""he""><supplied reason=""lost"">שב</supplied></w>"
-שבאה,1,"<w   xml:id=""jeru0562-2"" xml:lang=""he"">שבאה</w>"
-שבי,2,"<w   xml:id=""anna0003-1"" xml:lang=""he"">שבי</w>","<w   xml:id=""anna0004-1"" xml:lang=""he"">שבי</w>"
-שבע,2,"<w   xml:id=""beth0248-12"" xml:lang=""he"">שבע</w>","<w   xml:id=""jord0001-155"" xml:lang=""he"">שבע</w>"
-שבר,1,"<w   xml:id=""haif0010-1"" xml:lang=""he"">שבר</w>"
-שבתי,1,"<w   xml:id=""akld0021-1"" xml:lang=""he"">שבתי</w>"
-שג,1,"<w   xml:id=""jord0001-273"" xml:lang=""he"">שג</w>"
-שהוא,1,"<w   xml:id=""jord0001-213"" xml:lang=""he"">שהוא</w>"
-שהלרבי,1,"<w   xml:id=""dabb0006-4"" xml:lang=""he"">שהלרבי</w>"
-שוי,2,"<w   xml:id=""beth0227-11"" xml:lang=""he"">שוי</w>","<w   xml:id=""beth0227-12"" xml:lang=""he"">שוי</w>"
-שוע,1,"<w   xml:id=""masa0414-3"" xml:lang=""he"">שוע</w>"
-שור,1,"<w   xml:id=""tibe0001-2"" xml:lang=""he"">שור</w>"
-שח,1,"<w   xml:id=""jeru0357-14"" xml:lang=""he"">שח</w>"
-שיכת,1,"<w   xml:id=""jeru0350-5"" xml:lang=""he"">שיכת</w>"
-שים,1,"<w   xml:id=""jord0001-81"" xml:lang=""he"">שים</w>"
-שירין,1,"<w   xml:id=""masa0450-13"" xml:lang=""he""><supplied reason=""lost"">שירין</supplied></w>"
-שירם,1,"<w   xml:id=""jord0001-242"" xml:lang=""he"">שירם</w>"
-שכוי,1,"<w   xml:id=""mikh0001-3"" xml:lang=""he"">שכוי</w>"
-של,26,"<w   xml:id=""beth0227-3"" xml:lang=""he"">של</w>","<w   xml:id=""beth0227-15"" xml:lang=""he"">של</w>","<w   xml:id=""beth0228-3"" xml:lang=""he"">של</w>","<w   xml:id=""beth0237-6"" xml:lang=""he"">של</w>","<w   xml:id=""beth0237-19"" xml:lang=""he"">של</w>","<w   xml:id=""beth0237-23"" xml:lang=""he"">של</w>","<w   xml:id=""beth0239-5"" xml:lang=""he"">של</w>","<w   xml:id=""beth0242-2"" xml:lang=""he"">של</w>","<w   xml:id=""beth0243-3"" xml:lang=""he"">של</w>","<w   xml:id=""beth0244-3"" xml:lang=""he"">של</w>","<w   xml:id=""beth0244-6"" xml:lang=""he"">של</w>","<w   xml:id=""beth0244-10"" xml:lang=""he"">של</w>","<w   xml:id=""beth0245-3"" xml:lang=""he"">של</w>","<w   xml:id=""beth0246-5"" xml:lang=""he"">של</w>","<w   xml:id=""beth0246-9"" xml:lang=""he"">של</w>","<w   xml:id=""beth0247-3"" xml:lang=""he""><supplied reason=""undefined"">
-                        של
-                       </supplied></w>","<w   xml:id=""beth0247-5"" xml:lang=""he"">של</w>","<w   xml:id=""beth0248-7"" xml:lang=""he"">של</w>","<w   xml:id=""beth0250-3"" xml:lang=""he"">של</w>","<w   xml:id=""beth0250-7"" xml:lang=""he"">של</w>","<w   xml:id=""beth0255-3"" xml:lang=""he"">של</w>","<w   xml:id=""beth0261-3"" xml:lang=""he"">של</w>","<w   xml:id=""jaff0054-4"" xml:lang=""he"">של</w>","<w   xml:id=""jaff0057-8"" xml:lang=""he""><supplied reason=""lost"">של</supplied></w>","<w   xml:id=""jeru0303-4"" xml:lang=""he"">של</w>","<w   xml:id=""jord0001-280"" xml:lang=""he"">של</w>"
-שלהן,1,"<w   xml:id=""jord0001-344"" xml:lang=""he"">שלהן</w>"
-שלום,26,"<w   xml:id=""beth0236-1"" xml:lang=""he"">שלום</w>","<w   xml:id=""beth0241-5"" xml:lang=""he"">שלום</w>","<w   xml:id=""beth0246-14"" xml:lang=""he"">שלום</w>","<w   xml:id=""beth0255-8"" xml:lang=""he"">שלום</w>","<w   xml:id=""beth0266-1"" xml:lang=""he"">שלום</w>","<w   xml:id=""beth0268-1"" xml:lang=""he"">שלום</w>","<w   xml:id=""beth0269-1"" xml:lang=""he"">שלום</w>","<w   xml:id=""beth0270-1"" xml:lang=""he"">שלום</w>","<w   xml:id=""beth0274-1"" xml:lang=""he"">שלום</w>","<w   xml:id=""beth0276-1"" xml:lang=""he"">שלום</w>","<w   xml:id=""caes0518-3"" xml:lang=""he"">שלום</w>","<w   xml:id=""huqo0001-3"" xml:lang=""he""><supplied reason=""lost"">ש</supplied>ל<supplied reason=""lost"">ום</supplied></w>","<w   xml:id=""jaff0054-9"" xml:lang=""he"">שלום</w>","<w   xml:id=""jent0005-1"" xml:lang=""he"">שלום</w>","<w   xml:id=""jeru0017-1"" xml:lang=""he"">שלום</w>","<w   xml:id=""jeru0017-4"" xml:lang=""he"">שלום</w>","<w   xml:id=""jeru0351-1"" xml:lang=""he"">שלום</w>","<w   xml:id=""jeru0390-1"" xml:lang=""he"">שלום</w>","<w   xml:id=""jeru0390-2"" xml:lang=""he"">שלום</w>","<w   xml:id=""jeru0409-1"" xml:lang=""he""><choice>שלום</choice></w>","<w   xml:id=""jeru0419-1"" xml:lang=""he"">שלום</w>","<w   xml:id=""jeru0435-1"" xml:lang=""he"">שלום</w>","<w   xml:id=""jeru0443-1"" xml:lang=""he"">שלום</w>","<w   xml:id=""jord0001-333"" xml:lang=""he"">שלום</w>","<w   xml:id=""mari0004-13"" xml:lang=""he"">שלום</w>","<w   xml:id=""masa0404-1"" xml:lang=""he"">שלום</w>"
-שלומ,1,"<w   xml:id=""akld0024-1"" xml:lang=""he"">שלומ</w>"
-שלוש,1,"<w   xml:id=""jord0001-67"" xml:lang=""he"">שלוש</w>"
-שלושה,8,"<w   xml:id=""jord0001-180"" xml:lang=""he"">שלושה</w>","<w   xml:id=""jord0001-200"" xml:lang=""he"">שלושה</w>","<w   xml:id=""jord0001-327"" xml:lang=""he"">שלושה</w>","<w   xml:id=""jord0001-364"" xml:lang=""he"">שלושה</w>","<w   xml:id=""jord0001-392"" xml:lang=""he"">שלושה</w>","<w   xml:id=""jord0001-422"" xml:lang=""he"">שלושה</w>","<w   xml:id=""jord0001-426"" xml:lang=""he"">שלושה</w>","<w   xml:id=""jord0001-456"" xml:lang=""he"">שלושה</w>"
-שלושת,1,"<w   xml:id=""beth0244-4"" xml:lang=""he"">שלושת</w>"
-שלחתי,1,"<w   xml:id=""jord0001-361"" xml:lang=""he"">שלחתי</w>"
-שלמי,1,"<w   xml:id=""jeru0371-3"" xml:lang=""he"">שלמי</w>"
-שלמציון,3,"<w   xml:id=""akld0019-1"" xml:lang=""he"">שלמציון</w>","<w   xml:id=""jeru0398-1"" xml:lang=""he"">שלמציון</w>","<w   xml:id=""jeru0399-1"" xml:lang=""he"">שלמציון</w>"
-שלמצין,4,"<w   xml:id=""jeru0559-1"" xml:lang=""he"">שלמצין</w>","<w   xml:id=""jeru0559-4"" xml:lang=""he"">שלמצין</w>","<w   xml:id=""jeru0567-1"" xml:lang=""he"">שלמצין</w>","<w   xml:id=""jeru0567-2"" xml:lang=""he"">שלמצין</w>"
-שלקחתי,1,"<w   xml:id=""jord0001-458"" xml:lang=""he"">שלקחתי</w>"
-שלרב,1,"<w   xml:id=""jaff0052-3"" xml:lang=""he"">שלרב</w>"
-שלשת,1,"<w   xml:id=""jord0001-274"" xml:lang=""he"">שלשת</w>"
-שמ,2,"<w   xml:id=""jent0004-1"" xml:lang=""he"">שמ</w>","<w   xml:id=""masa0478-1"" xml:lang=""he"">שמ</w>"
-שמו לעולם,1,"<w   xml:id=""unkn0103-4"" xml:lang=""he""><supplied reason=""lost"">ש</supplied>מו ל<supplied reason=""lost"">עולם</supplied></w>"
-שמן,2,"<w   xml:id=""jaff0052-10"" xml:lang=""he"">שמן</w>","<w   xml:id=""jaff0057-5"" xml:lang=""he"">שמן</w>"
-שמעון,14,"<w   xml:id=""beth0230-2"" xml:lang=""he"">שמעון</w>","<w   xml:id=""erra0001-1"" xml:lang=""he"">שמעון</w>","<w   xml:id=""hali0001-3"" xml:lang=""he"">שמעון</w>","<w   xml:id=""jeru0303-9"" xml:lang=""he"">שמעון</w>","<w   xml:id=""jeru0356-1"" xml:lang=""he"">שמעון</w>","<w   xml:id=""juda0001-1"" xml:lang=""he"">שמעון</w>","<w   xml:id=""masa0360-1"" xml:lang=""he"">שמעון</w>","<w   xml:id=""masa0416-1"" xml:lang=""he"">שמעון</w>","<w   xml:id=""masa0464-1"" xml:lang=""he"">שמעון</w>","<w   xml:id=""masa0465-1"" xml:lang=""he"">שמעון</w>","<w   xml:id=""masa0466-1"" xml:lang=""he"">שמעון</w>","<w   xml:id=""masa0479-1"" xml:lang=""he"">שמעון</w>","<w   xml:id=""shap0002-3"" xml:lang=""he"">שמעון</w>","<w   xml:id=""shap0003-3"" xml:lang=""he"">שמעון</w>"
-שמעין,1,"<w   xml:id=""masa0462-1"" xml:lang=""he"">שמעין</w>"
-שמר,1,"<w   xml:id=""jord0001-197"" xml:lang=""he"">שמר</w>"
-שמת,1,"<w   xml:id=""beth0248-10"" xml:lang=""he""><supplied reason=""undefined"">שמת</supplied></w>"
-שמתה,2,"<w   xml:id=""beth0237-11"" xml:lang=""he"">שמתה</w>","<w   xml:id=""beth0237-26"" xml:lang=""he"">שמתה</w>"
-שנה,2,"<w   xml:id=""beth0237-16"" xml:lang=""he"">שנה</w>","<w   xml:id=""beth0248-14"" xml:lang=""he"">שנה</w>"
-שנים,2,"<w   xml:id=""beth0237-29"" xml:lang=""he"">שנים</w>","<w   xml:id=""masa0587-1"" xml:lang=""he"">שנים</w>"
-שנין,1,"<w   xml:id=""jord0001-179"" xml:lang=""he"">שנין</w>"
-שנת,1,"<w   xml:id=""jeru0372-1"" xml:lang=""he"">שנת</w>"
-שסמן,1,"<w   xml:id=""jord0001-214"" xml:lang=""he"">שסמן</w>"
-שער,1,"<w   xml:id=""jord0001-158"" xml:lang=""he"">שער</w>"
-שעשה,1,"<w   xml:id=""beth0250-10"" xml:lang=""he"">שעשה</w>"
-שפירה,2,"<w   xml:id=""unkn0101-1"" xml:lang=""he"">שפירה</w>","<w   xml:id=""unkn0101-2"" xml:lang=""he"">שפירה</w>"
-שצע,1,"<w   xml:id=""masa0467-1"" xml:lang=""he"">שצע</w>"
-שק,1,"<w   xml:id=""jord0001-310"" xml:lang=""he"">שק</w>"
-שר,1,"<w   xml:id=""jord0001-434"" xml:lang=""he"">שר</w>"
-שראה,1,"<w   xml:id=""jord0001-209"" xml:lang=""he"">שראה</w>"
-שראיתי,1,"<w   xml:id=""jord0001-367"" xml:lang=""he"">שראיתי</w>"
-שראל,2,"<w   xml:id=""haif0010-3"" xml:lang=""he"">שראל</w>","<w   xml:id=""mari0004-12"" xml:lang=""he"">שראל</w>"
-ששה,1,"<w   xml:id=""jord0001-183"" xml:lang=""he"">ששה</w>"
-שתי,1,"<w   xml:id=""beth0243-7"" xml:lang=""he"">שתי</w>"
-שתים,1,"<w   xml:id=""qumr0001-2"" xml:lang=""he"">שתים</w>"
-שתין,1,"<w   xml:id=""jord0001-66"" xml:lang=""he"">שתין</w>"
-ת,9,"<w   xml:id=""jeru0357-5"" xml:lang=""he"">ת</w>","<w   xml:id=""jeru0508-3"" xml:lang=""he"">ת</w>","<w   xml:id=""jord0001-424"" xml:lang=""he""><supplied reason=""lost"">ת</supplied></w>","<w   xml:id=""jord0001-445"" xml:lang=""he"">ת</w>","<w   xml:id=""masa0401-3"" xml:lang=""he"">ת</w>","<w   xml:id=""masa0442-1"" xml:lang=""he"">ת</w>","<w   xml:id=""masa0450-5"" xml:lang=""he"">ת</w>","<w   xml:id=""qumr0001-21"" xml:lang=""he""><supplied reason=""omitted"">ת</supplied></w>","<w   xml:id=""qumr0002-3"" xml:lang=""he"">ת</w>"
-תא,2,"<w   xml:id=""jeru0357-9"" xml:lang=""he"">תא</w>","<w   xml:id=""jeru0506-2"" xml:lang=""he"">תא</w>"
-תאומ,1,"<w   xml:id=""tibe0001-3"" xml:lang=""he""><supplied reason=""undefined"">
-                        תאומ
-                    </supplied></w>"
-תדע,1,"<w   xml:id=""jord0001-100"" xml:lang=""he"">תדע</w>"
-תו,1,"<w   xml:id=""mger0150-8"" xml:lang=""he"">תו</w>"
-תורה,1,"<w   xml:id=""jord0001-129"" xml:lang=""he"">תורה</w>"
-תזרה,1,"<w   xml:id=""bshe0101-3"" xml:lang=""he"">תזרה</w>"
-תחומי,1,"<w   xml:id=""qumr0001-22"" xml:lang=""he"">תחומי</w>"
-תחמגזר,8,"<w   xml:id=""geze0001-1"" xml:lang=""he"">תחמגזר</w>","<w   xml:id=""geze0002-1"" xml:lang=""he"">תחמגזר</w>","<w   xml:id=""geze0003-1"" xml:lang=""he"">תחמגזר</w>","<w   xml:id=""geze0004-1"" xml:lang=""he"">תחמגזר</w>","<w   xml:id=""geze0005-1"" xml:lang=""he"">תחמגזר</w>","<w   xml:id=""geze0006-1"" xml:lang=""he"">תחמגזר</w>","<w   xml:id=""geze0007-1"" xml:lang=""he"">תחמגזר</w>","<w   xml:id=""geze0008-1"" xml:lang=""he""><supplied reason=""lost"">ת</supplied>חמ<supplied reason=""lost"">גזר</supplied></w>"
-תיה,1,"<w   xml:id=""jeru0319-2"" xml:lang=""he"">תיה</w>"
-תים,2,"<w   xml:id=""jord0001-34"" xml:lang=""he"">תים</w>","<w   xml:id=""qumr0001-26"" xml:lang=""he""><supplied reason=""lost"">תים</supplied></w>"
-תמוז,1,"<w   xml:id=""tibe0007-2"" xml:lang=""he"">תמוז</w>"
-תמוש,1,"<w   xml:id=""ahma0001-2"" xml:lang=""he"">תמוש</w>"
-תמרי,1,"<w   xml:id=""jeru0357-19"" xml:lang=""he"">תמרי</w>"
-תן,1,"<w   xml:id=""jord0001-309"" xml:lang=""he"">תן</w>"
-תנסח,1,"<w   xml:id=""jeru0379-2"" xml:lang=""he"">תנסח</w>"
-תעמדו,1,"<w   xml:id=""jord0001-466"" xml:lang=""he"">תעמדו</w>"
-תפלה,2,"<w   xml:id=""anna0002-1"" xml:lang=""he"">תפלה</w>","<w   xml:id=""anna0002-2"" xml:lang=""he"">תפלה</w>"
-תפלוס,1,"<w   xml:id=""jeru0305-6"" xml:lang=""he"">תפלוס</w>"
-תפרחנה,1,"<w   xml:id=""jeru0327-5"" xml:lang=""he""><supplied reason=""omitted"">תפרחנה</supplied></w>"
-תץ,1,"<w   xml:id=""jord0001-314"" xml:lang=""he"">תץ</w>"
-תצילם,1,"<w   xml:id=""jord0001-413"" xml:lang=""he"">תצילם</w>"
-תצמח,1,"<w   xml:id=""bshe0101-5"" xml:lang=""he"">תצמח</w>"
-תקופת,4,"<w   xml:id=""tibe0002-1"" xml:lang=""he"">תקופת</w>","<w   xml:id=""tibe0007-1"" xml:lang=""he"">תקופת</w>","<w   xml:id=""tibe0008-1"" xml:lang=""he"">תקופת</w>","<w   xml:id=""tibe0009-1"" xml:lang=""he"">תקופת</w>"
-תשע,1,"<w   xml:id=""beth0237-28"" xml:lang=""he"">תשע</w>"
-תשרי,1,"<w   xml:id=""tibe0008-2"" xml:lang=""he"">תשרי</w>"
+ahma0001.xml,1,לא,he,0
+ahma0001.xml,2,תמוש,he,0
+ahma0001.xml,3,משמר,he,0
+ahma0001.xml,4,חוקותיו,he,0
+ahma0001.xml,5,מצוותיו,he,0
+akld0011.xml,1,חנה,he,0
+akld0012.xml,1,חנה,he,0
+akld0016.xml,1,הלנא,he,0
+akld0019.xml,1,שלמציון,he,0
+akld0020.xml,1,אריסטון,he,0
+akld0020.xml,2,אפמי,he,0
+akld0020.xml,3,יהודה,he,0
+akld0020.xml,4,הגיור,he,0
+akld0021.xml,1,שבתי,he,0
+akld0021.xml,2,בן,he,0
+akld0021.xml,3,נחמיה,he,0
+akld0023.xml,1,נטירא,he,0
+akld0023.xml,2,אחיא,he,0
+akld0023.xml,3,אבא,he,0
+akld0023.xml,4,אמא,he,0
+akld0023.xml,5,דנטירא,he,0
+akld0024.xml,1,שלומ,he,0
+akld0024.xml,2,בת,he,0
+akld0024.xml,3,ארסטון,he,0
+anna0001.xml,1,מתיה,he,0
+anna0002.xml,1,תפלה,he,0
+anna0002.xml,2,תפלה,he,0
+anna0003.xml,1,ש,he,0
+anna0003.xml,2,י,he,0
+anna0003.xml,3,בן,he,0
+anna0003.xml,4,יהוסף,he,0
+anna0004.xml,1,שבי,he,0
+anna0004.xml,2,בן,he,0
+beth0227.xml,1,זה,he,0
+beth0227.xml,2,משכבו,he,0
+beth0227.xml,3,של,he,0
+beth0227.xml,4,יודן,he,0
+beth0227.xml,5,בן,he,0
+beth0227.xml,6,לוי,he,0
+beth0227.xml,7,לוי,he,0
+beth0227.xml,8,לעולם,he,0
+beth0227.xml,9,בשלום,he,0
+beth0227.xml,10,יהי,he,0
+beth0227.xml,11,שוי,he,0
+beth0227.xml,12,שוי,he,0
+beth0227.xml,13,משכבו,he,0
+beth0227.xml,14,בשלום,he,0
+beth0227.xml,15,של,he,0
+beth0227.xml,16,יודן,he,0
+beth0227.xml,17,בן,he,0
+beth0227.xml,18,לוי,he,0
+beth0228.xml,1,זה,he,0
+beth0228.xml,2,משכבו,he,0
+beth0228.xml,3,של,he,0
+beth0228.xml,4,יודן,he,0
+beth0228.xml,5,בן,he,0
+beth0228.xml,6,לווי,he,0
+beth0228.xml,7,לעום,he,0
+beth0229.xml,1,טבלה,he,0
+beth0230.xml,1,רבי,he,0
+beth0230.xml,2,שמעון,he,0
+beth0233.xml,1,אנינא,he,0
+beth0233.xml,2,הקטן,he,0
+beth0234.xml,1,אב,he,0
+beth0234.xml,2,על,he,0
+beth0235.xml,1,אחיה,he,0
+beth0236.xml,1,שלום,he,0
+beth0236.xml,2,ע,he,0
+beth0236.xml,3,ל,he,0
+beth0237.xml,1,כן,he,0
+beth0237.xml,2,הן,he,0
+beth0237.xml,3,מנחות,he,0
+beth0237.xml,4,אטיו,he,0
+beth0237.xml,5,בתו,he,0
+beth0237.xml,6,של,he,0
+beth0237.xml,7,רבי,he,0
+beth0237.xml,8,גמליאל,he,0
+beth0237.xml,9,בן,he,0
+beth0237.xml,10,נחמיה,he,0
+beth0237.xml,11,שמתה,he,0
+beth0237.xml,12,בתולה,he,0
+beth0237.xml,13,בת,he,0
+beth0237.xml,14,עשרין,he,0
+beth0237.xml,15,ושתים,he,0
+beth0237.xml,16,שנה,he,0
+beth0237.xml,17,ואטיון,he,0
+beth0237.xml,18,בתו,he,0
+beth0237.xml,19,של,he,0
+beth0237.xml,20,רבי,he,0
+beth0237.xml,21,יהודה,he,0
+beth0237.xml,22,בנו,he,0
+beth0237.xml,23,של,he,0
+beth0237.xml,24,רבי,he,0
+beth0237.xml,25,גמליאל,he,0
+beth0237.xml,26,שמתה,he,0
+beth0237.xml,27,בת,he,0
+beth0237.xml,28,תשע,he,0
+beth0237.xml,29,שנים,he,0
+beth0237.xml,30,וששה,he,0
+beth0237.xml,31,חודשים,he,0
+beth0237.xml,32,עמידת,he,0
+beth0237.xml,33,ן עם הצדיקים,he,0
+beth0238.xml,1,רבי,he,0
+beth0238.xml,2,יהושוע,he,0
+beth0238.xml,3,בירבי,he,0
+beth0238.xml,4,הלל,he,0
+beth0238.xml,5,בן,he,0
+beth0238.xml,6,אטיון,he,0
+beth0238.xml,7,מש,he,0
+beth0238.xml,8,כבו,he,0
+beth0238.xml,9,בשלום,he,0
+beth0239.xml,1,אלו,he,0
+beth0239.xml,2,ארונות,he,0
+beth0239.xml,3,הפנימית,he,0
+beth0239.xml,4,והחיצונית,he,0
+beth0239.xml,5,של,he,0
+beth0239.xml,6,רבי,he,0
+beth0239.xml,7,אניאנה,he,0
+beth0239.xml,8,וש,he,0
+beth0239.xml,9,הקדושים,he,0
+beth0239.xml,10,בניו,he,0
+beth0239.xml,11,ש,he,0
+beth0239.xml,12,רבי,he,0
+beth0240.xml,1,קירילא,he,0
+beth0241.xml,1,קירה,he,0
+beth0241.xml,2,ש,he,0
+beth0241.xml,3,ל,he,0
+beth0241.xml,4,ל,he,0
+beth0241.xml,5,שלום,he,0
+beth0242.xml,1,מנוחתה,he,0
+beth0242.xml,2,של,he,0
+beth0242.xml,3,קירה,he,0
+beth0242.xml,4,דומנה,he,0
+beth0243.xml,1,מרים,he,0
+beth0243.xml,2,בתו,he,0
+beth0243.xml,3,של,he,0
+beth0243.xml,4,רבי,he,0
+beth0243.xml,5,יונתן,he,0
+beth0243.xml,6,עם,he,0
+beth0243.xml,7,שתי,he,0
+beth0243.xml,8,בנותיה,he,0
+beth0244.xml,1,זוא,he,0
+beth0244.xml,2,ארונן,he,0
+beth0244.xml,3,של,he,0
+beth0244.xml,4,שלושת,he,0
+beth0244.xml,5,בניו,he,0
+beth0244.xml,6,של,he,0
+beth0244.xml,7,רבי,he,0
+beth0244.xml,8,יודן,he,0
+beth0244.xml,9,בנו,he,0
+beth0244.xml,10,של,he,0
+beth0244.xml,11,רבי,he,0
+beth0244.xml,12,מיאשה,he,0
+beth0245.xml,1,זו,he,0
+beth0245.xml,2,ארונו,he,0
+beth0245.xml,3,של,he,0
+beth0245.xml,4,רבי,he,0
+beth0245.xml,5,יושוע,he,0
+beth0245.xml,6,ה,he,0
+beth0246.xml,1,זו,he,0
+beth0246.xml,2,ארו,he,0
+beth0246.xml,3,נ,he,0
+beth0246.xml,4,ו,he,0
+beth0246.xml,5,של,he,0
+beth0246.xml,6,קירה,he,0
+beth0246.xml,7,מגה,he,0
+beth0246.xml,8,אשתו,he,0
+beth0246.xml,9,של,he,0
+beth0246.xml,10,רבי,he,0
+beth0246.xml,11,יהושוע,he,0
+beth0246.xml,12,בן,he,0
+beth0246.xml,13,לווי,he,0
+beth0246.xml,14,שלום,he,0
+beth0247.xml,1,הארון,he,0
+beth0247.xml,2,הזה,he,0
+beth0247.xml,3,של,he,0
+beth0247.xml,4,בתו,he,0
+beth0247.xml,5,של,he,0
+beth0247.xml,6,רבי,he,0
+beth0247.xml,7,יהושוע,he,0
+beth0247.xml,8,זכר,he,0
+beth0247.xml,9,צדיקים,he,0
+beth0247.xml,10,לברכה,he,0
+beth0248.xml,1,זה,he,0
+beth0248.xml,2,ארונו,he,0
+beth0248.xml,3,ש,he,0
+beth0248.xml,4,ל רבי,he,0
+beth0248.xml,5,גמליאל,he,0
+beth0248.xml,6,בנו,he,0
+beth0248.xml,7,של,he,0
+beth0248.xml,8,רבי,he,0
+beth0248.xml,9,אליעזר,he,0
+beth0248.xml,10,שמת,he,0
+beth0248.xml,11,בן,he,0
+beth0248.xml,12,שבע,he,0
+beth0248.xml,13,עשרה,he,0
+beth0248.xml,14,שנה,he,0
+beth0248.xml,15,זכר,he,0
+beth0248.xml,16,צדיק,he,0
+beth0248.xml,17,לברכה,he,0
+beth0249.xml,1,יהודה,he,0
+beth0250.xml,1,זו,he,0
+beth0250.xml,2,ארונו,he,0
+beth0250.xml,3,של,he,0
+beth0250.xml,4,רבי,he,0
+beth0250.xml,5,הליל,he,0
+beth0250.xml,6,בנו,he,0
+beth0250.xml,7,של,he,0
+beth0250.xml,8,רבי,he,0
+beth0250.xml,9,לווי,he,0
+beth0250.xml,10,שעשה,he,0
+beth0250.xml,11,את,he,0
+beth0250.xml,12,המערה,he,0
+beth0250.xml,13,הזו,he,0
+beth0251.xml,1,ק,he,0
+beth0251.xml,2,רילס,he,0
+beth0251.xml,3,ומירים,he,0
+beth0255.xml,1,הקבר,he,0
+beth0255.xml,2,הזה,he,0
+beth0255.xml,3,של,he,0
+beth0255.xml,4,רבי,he,0
+beth0255.xml,5,יצחק,he,0
+beth0255.xml,6,בר,he,0
+beth0255.xml,7,מקים,he,0
+beth0255.xml,8,שלום,he,0
+beth0256.xml,1,יהודה,he,0
+beth0256.xml,2,הקטן,he,0
+beth0257.xml,1,פאריגרי,he,0
+beth0258.xml,1,יצחק,he,0
+beth0258.xml,2,בן,he,0
+beth0258.xml,3,יוסף,he,0
+beth0258.xml,4,ביריבי,he,0
+beth0259.xml,1,י,he,0
+beth0259.xml,2,יוסף,he,0
+beth0259.xml,3,יצחק,he,0
+beth0259.xml,4,בן,he,0
+beth0260.xml,1,כוהנים,he,0
+beth0261.xml,1,ה,he,0
+beth0261.xml,2,קו,he,0
+beth0261.xml,3,ה,he,0
+beth0261.xml,4,ה,he,0
+beth0261.xml,5,של,he,0
+beth0261.xml,6,כוהנ,he,0
+beth0261.xml,7,ם,he,0
+beth0261.xml,8,ח,he,0
+beth0262.xml,1,רות,he,0
+beth0262.xml,2,רות,he,0
+beth0263.xml,1,ו,he,0
+beth0263.xml,2,ד,he,0
+beth0263.xml,3,הטוב,he,0
+beth0263.xml,4,ר,he,0
+beth0265.xml,1,יה,he,0
+beth0265.xml,2,ודה,he,0
+beth0266.xml,1,ש,he,0
+beth0266.xml,2,לום,he,0
+beth0268.xml,1,שלום,he,0
+beth0269.xml,1,שלום,he,0
+beth0270.xml,1,שלום,he,0
+beth0271.xml,1,נ,he,0
+beth0271.xml,2,פש,he,0
+beth0271.xml,3,ניחמיה,he,0
+beth0272.xml,1,לאונ,he,0
+beth0272.xml,2,ט,he,0
+beth0272.xml,3,יס,he,0
+beth0274.xml,1,שלום,he,0
+beth0274.xml,2,ליודן,he,0
+beth0276.xml,1,ש,he,0
+beth0276.xml,2,ל,he,0
+beth0276.xml,3,ו,he,0
+beth0276.xml,4,ם,he,0
+bloy0001.xml,1,יהוה,he,0
+bloy0001.xml,2,אלהי,he,0
+bloy0001.xml,3,כל,he,0
+bloy0001.xml,4,הארץ,he,0
+bloy0001.xml,5,הר,he,0
+bloy0001.xml,6,יה,he,0
+bloy0001.xml,7,ו,he,0
+bloy0001.xml,8,לאל,he,0
+bloy0001.xml,9,י,he,0
+bloy0001.xml,10,ירשלם,he,0
+bloy0002.xml,1,ה,he,0
+bloy0002.xml,2,וריה,he,0
+bloy0002.xml,3,אתה,he,0
+bloy0002.xml,4,חננת,he,0
+bloy0002.xml,5,נוה,he,0
+bloy0002.xml,6,יה,he,0
+bloy0002.xml,7,יה,he,0
+bloy0002.xml,8,ה,he,0
+bshe0101.xml,1,הרם,he,0
+bshe0101.xml,2,הו,he,0
+bshe0101.xml,3,תזרה,he,0
+bshe0101.xml,4,לא,he,0
+bshe0101.xml,5,תצמח,he,0
+byam0001.xml,1,לבעלצח,he,0
+caes0500.xml,1,אין,he,0
+caes0500.xml,2,כאל,he,0
+caes0500.xml,3,ישרון,he,0
+caes0518.xml,1,הקב,he,0
+caes0518.xml,2,שלום,he,0
+caes0518.xml,3,ב,he,0
+caes0519.xml,1,רדכי,he,0
+caes0552b.xml,1,אין,he,0
+caes0552b.xml,2,כאל,he,0
+caes0552b.xml,3,ישרון,he,0
+dabb0006.xml,1,זה,he,0
+dabb0006.xml,2,בית,he,0
+dabb0006.xml,3,מדרשו,he,0
+dabb0006.xml,4,שהלרבי,he,0
+dabb0006.xml,5,אליעזר,he,0
+dabb0006.xml,6,הקפר,he,0
+erra0001.xml,1,שמעון,he,0
+erra0001.xml,2,בן,he,0
+erra0001.xml,3,זכריה,he,0
+erra0002.xml,1,ארבגלא,he,0
+erra0002.xml,2,בן,he,0
+geze0001.xml,1,תחמגזר,he,0
+geze0002.xml,1,תחמגזר,he,0
+geze0003.xml,1,תחמגזר,he,0
+geze0004.xml,1,תחמגזר,he,0
+geze0005.xml,1,תחמגזר,he,0
+geze0006.xml,1,תחמגזר,he,0
+geze0007.xml,1,תחמגזר,he,0
+geze0008.xml,1,תחמגזר,he,0
+haif0010.xml,1,שבר,he,0
+haif0010.xml,2,שראל,he,0
+haif0010.xml,3,בן,he,0
+haif0010.xml,4,ראובן,he,0
+hali0001.xml,1,ל,he,0
+hali0001.xml,2,ופרנשו,he,0
+hali0001.xml,3,שמעון,he,0
+hali0001.xml,4,דסוי,he,0
+hali0001.xml,5,פרס,he,0
+huqo0001.xml,1,ן,he,0
+huqo0001.xml,2,כל בני העיר,he,0
+huqo0001.xml,3,שהן,he,0
+huqo0001.xml,4,מ,he,0
+huqo0001.xml,5,בכל,he,0
+huqo0001.xml,6,מצות,he,0
+huqo0001.xml,7,כן,he,0
+huqo0001.xml,8,יהא,he,0
+huqo0001.xml,9,ענלכן,he,0
+huqo0001.xml,10,וא,he,0
+huqo0001.xml,11,שלום,he,0
+isaw0001.xml,1,יהוחנן,he,0
+jaff0052.xml,1,הקבר,he,0
+jaff0052.xml,2,הזה,he,0
+jaff0052.xml,3,שלרב,he,0
+jaff0052.xml,4,יודן,he,0
+jaff0052.xml,5,הכ,he,0
+jaff0052.xml,6,ן,he,0
+jaff0052.xml,7,ברב,he,0
+jaff0052.xml,8,נוח,he,0
+jaff0052.xml,9,נפש,he,0
+jaff0052.xml,10,שמן,he,0
+jaff0052.xml,11,לוד,he,0
+jaff0054.xml,1,ום,he,0
+jaff0054.xml,2,הציעתו,he,0
+jaff0054.xml,3,ל,he,0
+jaff0054.xml,4,עזר,he,0
+jaff0054.xml,5,בן,he,0
+jaff0054.xml,6,יהושוע,he,0
+jaff0054.xml,7,שלום,he,0
+jaff0054.xml,8,מאמא,he,0
+jaff0054.xml,9,שלום,he,0
+jaff0057.xml,1,חנניה,he,0
+jaff0057.xml,2,ן,he,0
+jaff0057.xml,3,רבי,he,0
+jaff0057.xml,4,ם,he,0
+jaff0057.xml,5,שמן,he,0
+jaff0057.xml,6,ריה,he,0
+jaff0057.xml,7,של,he,0
+jaff0057.xml,8,ם,he,0
+jent0001.xml,1,ב,he,0
+jent0004.xml,1,שמ,he,0
+jent0005.xml,1,שלום,he,0
+jent0006.xml,1,יהוסף,he,0
+jent0006.xml,2,בר,he,0
+jent0006.xml,3,קיפא,he,0
+jent0006.xml,4,יהוסף,he,0
+jent0006.xml,5,בר,he,0
+jent0006.xml,6,קפא,he,0
+jeru0017.xml,1,שלום,he,0
+jeru0017.xml,2,אשת,he,0
+jeru0017.xml,3,יהודה,he,0
+jeru0017.xml,4,שלום,he,0
+jeru0017.xml,5,יהודה,he,0
+jeru0194.xml,1,ר,he,0
+jeru0194.xml,2,מ,he,0
+jeru0300.xml,1,מרים,he,0
+jeru0300.xml,2,ברת,he,0
+jeru0300.xml,3,ישוע,he,0
+jeru0300.xml,4,בר,he,0
+jeru0300.xml,5,קיפא,he,0
+jeru0300.xml,6,כהן,he,0
+jeru0300.xml,7,ממעזיה,he,0
+jeru0300.xml,8,מבית,he,0
+jeru0300.xml,9,עמרי,he,0
+jeru0303.xml,1,זה,he,0
+jeru0303.xml,2,קבר,he,0
+jeru0303.xml,3,והנפש,he,0
+jeru0303.xml,4,של,he,0
+jeru0303.xml,5,אלעזר,he,0
+jeru0303.xml,6,חניה,he,0
+jeru0303.xml,7,יועזר,he,0
+jeru0303.xml,8,יהודה,he,0
+jeru0303.xml,9,שמעון,he,0
+jeru0303.xml,10,יוחנן,he,0
+jeru0303.xml,11,בני,he,0
+jeru0303.xml,12,יוספ,he,0
+jeru0303.xml,13,בן,he,0
+jeru0303.xml,14,עובד,he,0
+jeru0303.xml,15,יוסף,he,0
+jeru0303.xml,16,ואלעזר,he,0
+jeru0303.xml,17,בני,he,0
+jeru0303.xml,18,חניה,he,0
+jeru0303.xml,19,כהנים,he,0
+jeru0303.xml,20,מבמני,he,0
+jeru0303.xml,21,חזיר,he,0
+jeru0305.xml,1,יהוחנה,he,0
+jeru0305.xml,2,יהוחנה,he,0
+jeru0305.xml,3,ברת,he,0
+jeru0305.xml,4,יהיוחנן,he,0
+jeru0305.xml,5,בר,he,0
+jeru0305.xml,6,פלוס,he,0
+jeru0305.xml,7,הכהן,he,0
+jeru0305.xml,8,הגדל,he,0
+jeru0309.xml,1,לבית,he,0
+jeru0309.xml,2,התקעה,he,0
+jeru0309.xml,3,להכ,he,0
+jeru0319.xml,1,מת,he,0
+jeru0319.xml,2,תיה,he,0
+jeru0319.xml,3,בר,he,0
+jeru0326.xml,1,יהוסף,he,0
+jeru0327.xml,1,וראיתם,he,0
+jeru0327.xml,2,ושש,he,0
+jeru0327.xml,3,לבבם,he,0
+jeru0327.xml,4,ועצמותםועצמותיכם,he,0
+jeru0327.xml,5,תפרחנה,he,0
+jeru0327.xml,6,כדשא,he,0
+jeru0334.xml,1,מעאל,he,0
+jeru0334.xml,2,גנ,he,0
+jeru0335.xml,1,מלכין,he,0
+jeru0341.xml,1,ב,he,0
+jeru0342.xml,1,סנדרוס,he,0
+jeru0343.xml,1,ע,he,0
+jeru0343.xml,2,לם,he,0
+jeru0344.xml,1,יני,he,0
+jeru0346.xml,1,עה,he,0
+jeru0347.xml,1,ל,he,0
+jeru0348.xml,1,חנין,he,0
+jeru0349.xml,1,ע,he,0
+jeru0349.xml,2,ב,he,0
+jeru0349.xml,3,מ,he,0
+jeru0349.xml,4,ק,he,0
+jeru0350.xml,1,ון,he,0
+jeru0350.xml,2,מפנון,he,0
+jeru0350.xml,3,ר,he,0
+jeru0350.xml,4,מירושלם,he,0
+jeru0350.xml,5,שיכת מפט,he,0
+jeru0350.xml,6,רה,he,0
+jeru0351.xml,1,שלום,he,0
+jeru0352.xml,1,ני,he,0
+jeru0353.xml,1,בן,he,0
+jeru0353.xml,2,יסן,he,0
+jeru0354.xml,1,בן,he,0
+jeru0354.xml,2,יסן,he,0
+jeru0355.xml,1,בן,he,0
+jeru0355.xml,2,יוכן,he,0
+jeru0356.xml,1,שמעון,he,0
+jeru0357.xml,1,לות,he,0
+jeru0357.xml,2,חנן,he,0
+jeru0357.xml,3,ראנא,he,0
+jeru0357.xml,4,זב,he,0
+jeru0357.xml,5,ת,he,0
+jeru0357.xml,6,ן,he,0
+jeru0357.xml,7,רמשא,he,0
+jeru0357.xml,8,תא כרה חנטי,he,0
+jeru0357.xml,9,ן,he,0
+jeru0357.xml,10,מ,he,0
+jeru0357.xml,11,שח  לרמשא  לות,he,0
+jeru0357.xml,12,ן,he,0
+jeru0357.xml,13,תמרי,he,0
+jeru0357.xml,14,כסף,he,0
+jeru0357.xml,15,מן,he,0
+jeru0357.xml,16,חנן,he,0
+jeru0357.xml,17,לרמשא,he,0
+jeru0357.xml,18,לו,he,0
+jeru0357.xml,19,א,he,0
+jeru0357.xml,20,משח,he,0
+jeru0358.xml,1,י,he,0
+jeru0358.xml,2,דרן,he,0
+jeru0359.xml,1,ור,he,0
+jeru0362.xml,1,כ,he,0
+jeru0363.xml,1,אבגד,he,0
+jeru0363.xml,2,ו,he,0
+jeru0364.xml,1,יה,he,0
+jeru0365.xml,1,בן,he,0
+jeru0365.xml,2,יס,he,0
+jeru0365.xml,3,ן,he,0
+jeru0365.xml,4,קרב,he,0
+jeru0367.xml,1,קרבן,he,0
+jeru0369.xml,1,ב,he,0
+jeru0369.xml,2,לאדר,he,0
+jeru0369.xml,3,נפק,he,0
+jeru0369.xml,4,ס,he,0
+jeru0369.xml,5,עריא,he,0
+jeru0369.xml,6,ס,he,0
+jeru0369.xml,7,לנפת,he,0
+jeru0369.xml,8,ס,he,0
+jeru0369.xml,9,ס,he,0
+jeru0370.xml,1,ככרן,he,0
+jeru0370.xml,2,לף,he,0
+jeru0370.xml,3,לחנניה,he,0
+jeru0370.xml,4,בצק,he,0
+jeru0371.xml,1,זבדיה,he,0
+jeru0371.xml,2,ק,he,0
+jeru0371.xml,3,של,he,0
+jeru0371.xml,4,י,he,0
+jeru0371.xml,5,ס,he,0
+jeru0371.xml,6,ק,he,0
+jeru0372.xml,1,שנת,he,0
+jeru0372.xml,2,טח,he,0
+jeru0374.xml,1,ר,he,0
+jeru0374.xml,2,אובן,he,0
+jeru0375.xml,1,חנ,he,0
+jeru0375.xml,2,יה,he,0
+jeru0376.xml,1,מנה,he,0
+jeru0377.xml,1,ד,he,0
+jeru0378.xml,1,מ,he,0
+jeru0379.xml,1,אלא,he,0
+jeru0379.xml,2,תנסח,he,0
+jeru0379.xml,3,צרין,he,0
+jeru0379.xml,4,וח,he,0
+jeru0381.xml,1,ה,he,0
+jeru0381.xml,2,בן,he,0
+jeru0381.xml,3,קורשא,he,0
+jeru0382.xml,1,ש,he,0
+jeru0384.xml,1,יהודה,he,0
+jeru0384.xml,2,הספר,he,0
+jeru0385.xml,1,יהודה,he,0
+jeru0385.xml,2,בר,he,0
+jeru0385.xml,3,אלעזר,he,0
+jeru0385.xml,4,הספר,he,0
+jeru0387.xml,1,אלעזר,he,0
+jeru0387.xml,2,בר,he,0
+jeru0387.xml,3,נתי,he,0
+jeru0388.xml,1,מרתא,he,0
+jeru0388.xml,2,בת,he,0
+jeru0388.xml,3,פצכ,he,0
+jeru0390.xml,1,שלום,he,0
+jeru0390.xml,2,שלום,he,0
+jeru0390.xml,3,אשת,he,0
+jeru0390.xml,4,יהודה,he,0
+jeru0391.xml,1,יהודה,he,0
+jeru0392.xml,1,פדא,he,0
+jeru0393.xml,1,קרקס,he,0
+jeru0394.xml,1,לעזר,he,0
+jeru0395.xml,1,לקי,he,0
+jeru0396.xml,1,ש,he,0
+jeru0397.xml,1,יהודה בר חנניה,he,0
+jeru0398.xml,1,שלמציון,he,0
+jeru0399.xml,1,שלמציון,he,0
+jeru0399.xml,2,בת,he,0
+jeru0409.xml,1,מולששלום,he,0
+jeru0410.xml,1,פל,he,0
+jeru0412.xml,1,מריה,he,0
+jeru0412.xml,2,הגירת,he,0
+jeru0412.xml,3,הדולקת,he,0
+jeru0413.xml,1,יהוחנן,he,0
+jeru0413.xml,2,בן,he,0
+jeru0413.xml,3,יהוסף,he,0
+jeru0414.xml,1,יהוסף,he,0
+jeru0414.xml,2,בר,he,0
+jeru0414.xml,3,יהוחנן,he,0
+jeru0415.xml,1,ישוע,he,0
+jeru0416.xml,1,יהוחנן,he,0
+jeru0417.xml,1,יהוסף,he,0
+jeru0418.xml,1,יהוסף,he,0
+jeru0418.xml,2,מנחם,he,0
+jeru0419.xml,1,שלום,he,0
+jeru0419.xml,2,אם,he,0
+jeru0419.xml,3,כנסת,he,0
+jeru0419.xml,4,חזרעטיה,he,0
+jeru0423.xml,1,אלעסה,he,0
+jeru0423.xml,2,לעשה,he,0
+jeru0435.xml,1,שלום,he,0
+jeru0435.xml,2,בן,he,0
+jeru0443.xml,1,שלו,he,0
+jeru0449.xml,1,מאה,he,0
+jeru0449.xml,2,אלף,he,0
+jeru0449.xml,3,מאני,he,0
+jeru0449.xml,4,באלף,he,0
+jeru0449.xml,5,כול,he,0
+jeru0449.xml,6,גברי,he,0
+jeru0449.xml,7,אניות,he,0
+jeru0449.xml,8,איי,he,0
+jeru0449.xml,9,כאנובס,he,0
+jeru0449.xml,10,גבאבנ,he,0
+jeru0449.xml,11,לאה,he,0
+jeru0449.xml,12,בת,he,0
+jeru0449.xml,13,יהוסף,he,0
+jeru0449.xml,14,בר,he,0
+jeru0449.xml,15,מנחם,he,0
+jeru0449.xml,16,בר,he,0
+jeru0449.xml,17,מנחם,he,0
+jeru0449.xml,18,ל,he,0
+jeru0450.xml,1,בנת,he,0
+jeru0450.xml,2,בכ,he,0
+jeru0450.xml,3,בר,he,0
+jeru0451.xml,1,פינחס,he,0
+jeru0451.xml,2,ושמעיה,he,0
+jeru0451.xml,3,כהנה,he,0
+jeru0452.xml,1,מריה,he,0
+jeru0452.xml,2,יוסה,he,0
+jeru0453.xml,1,אמן,he,0
+jeru0453.xml,2,שׁלמציון,he,0
+jeru0454.xml,1,מריה,he,0
+jeru0454.xml,2,בת,he,0
+jeru0454.xml,3,נת,he,0
+jeru0454.xml,4,אל,he,0
+jeru0454.xml,5,בת,he,0
+jeru0454.xml,6,שׁלמסין,he,0
+jeru0456.xml,1,יהועזר,he,0
+jeru0456.xml,2,אזביא,he,0
+jeru0456.xml,3,יהועזר,he,0
+jeru0456.xml,4,אזביא,he,0
+jeru0457.xml,1,סימי,he,0
+jeru0457.xml,2,יהונתן,he,0
+jeru0459.xml,1,גיו,he,0
+jeru0459.xml,2,הא,he,0
+jeru0462.xml,1,יהודה,he,0
+jeru0463.xml,1,סט,he,0
+jeru0463.xml,2,סט,he,0
+jeru0464.xml,1,סמע,he,0
+jeru0465.xml,1,יהוסף,he,0
+jeru0465.xml,2,גנבי,he,0
+jeru0466.xml,1,מתתיה,he,0
+jeru0466.xml,2,מתתיה,he,0
+jeru0472.xml,1,השׁמעל,he,0
+jeru0472.xml,2,הוא,he,0
+jeru0485.xml,1,מתתיה,he,0
+jeru0486.xml,1,ח,he,0
+jeru0486.xml,2,ה,he,0
+jeru0486.xml,3,בר,he,0
+jeru0486.xml,4,יהונתן,he,0
+jeru0486.xml,5,הנזרהנזיר,he,0
+jeru0490.xml,1,יר,he,0
+jeru0490.xml,2,בן,he,0
+jeru0490.xml,3,א,he,0
+jeru0490.xml,4,י,he,0
+jeru0490.xml,5,א,he,0
+jeru0492.xml,1,אנא,he,0
+jeru0492.xml,2,אבא,he,0
+jeru0492.xml,3,בר,he,0
+jeru0492.xml,4,כהנה,he,0
+jeru0492.xml,5,א,he,0
+jeru0492.xml,6,לעז,he,0
+jeru0492.xml,7,בר,he,0
+jeru0492.xml,8,אהרנ,he,0
+jeru0492.xml,9,רבה,he,0
+jeru0492.xml,10,אןה,he,0
+jeru0492.xml,11,אבא,he,0
+jeru0492.xml,12,מעניה,he,0
+jeru0492.xml,13,מרד,he,0
+jeru0492.xml,14,פה,he,0
+jeru0492.xml,15,די,he,0
+jeru0492.xml,16,יליד,he,0
+jeru0492.xml,17,בירושׁלם,he,0
+jeru0492.xml,18,וגלא,he,0
+jeru0492.xml,19,לבבל,he,0
+jeru0492.xml,20,ואסק,he,0
+jeru0492.xml,21,למתת,he,0
+jeru0492.xml,22,י,he,0
+jeru0492.xml,23,בר,he,0
+jeru0492.xml,24,היוד,he,0
+jeru0492.xml,25,וקברתה,he,0
+jeru0492.xml,26,במ,he,0
+jeru0492.xml,27,ערתה,he,0
+jeru0492.xml,28,דזבנה,he,0
+jeru0492.xml,29,בגטה,he,0
+jeru0500.xml,1,שׁלבידוד,he,0
+jeru0501.xml,1,ריה,he,0
+jeru0501.xml,2,שׁמעון,he,0
+jeru0502.xml,1,רב,he,0
+jeru0502.xml,2,הנא,he,0
+jeru0503.xml,1,נחמיה,he,0
+jeru0504.xml,1,נח,he,0
+jeru0506.xml,1,תא,he,0
+jeru0507.xml,1,לחנן,he,0
+jeru0508.xml,1,אלקסדרין,he,0
+jeru0508.xml,2,בר,he,0
+jeru0508.xml,3,ת,he,0
+jeru0526.xml,1,לאששא,he,0
+jeru0526.xml,2,קרבן,he,0
+jeru0528.xml,1,עלעזר,he,0
+jeru0528.xml,2,ואשתו,he,0
+jeru0531.xml,1,חנניה,he,0
+jeru0532.xml,1,חנניה,he,0
+jeru0532.xml,2,ושלום,he,0
+jeru0533.xml,1,חנניה,he,0
+jeru0533.xml,2,ושלום,he,0
+jeru0534.xml,1,כל,he,0
+jeru0534.xml,2,אדם,he,0
+jeru0534.xml,3,בה,he,0
+jeru0534.xml,4,קרבן,he,0
+jeru0538.xml,1,יויכיח,he,0
+jeru0543.xml,1,בן,he,0
+jeru0543.xml,2,הכהן,he,0
+jeru0543.xml,3,הגדול,he,0
+jeru0559.xml,1,שלמצין,he,0
+jeru0559.xml,2,בת,he,0
+jeru0559.xml,3,אלעזר,he,0
+jeru0559.xml,4,שלמצין,he,0
+jeru0559.xml,5,בת,he,0
+jeru0559.xml,6,אלעזר,he,0
+jeru0562.xml,1,יוחנה,he,0
+jeru0562.xml,2,שבאה,he,0
+jeru0564.xml,1,יוסה,he,0
+jeru0567.xml,1,שלמצין,he,0
+jeru0567.xml,2,שלמצין,he,0
+jord0001.xml,1,ך,he,0
+jord0001.xml,2,ה,he,0
+jord0001.xml,3,ע,he,0
+jord0001.xml,4,ב,he,0
+jord0001.xml,5,יכ,he,0
+jord0001.xml,6,ה,he,0
+jord0001.xml,7,אר,he,0
+jord0001.xml,8,ל,he,0
+jord0001.xml,9,ה,he,0
+jord0001.xml,10,ה,he,0
+jord0001.xml,11,ז,he,0
+jord0001.xml,12,ח,he,0
+jord0001.xml,13,מל,he,0
+jord0001.xml,14,י,he,0
+jord0001.xml,15,בני,he,0
+jord0001.xml,16,ישראל,he,0
+jord0001.xml,17,ב,he,0
+jord0001.xml,18,ב,he,0
+jord0001.xml,19,ש,he,0
+jord0001.xml,20,ל,he,0
+jord0001.xml,21,בנ,he,0
+jord0001.xml,22,ד,he,0
+jord0001.xml,23,ל,he,0
+jord0001.xml,24,ל,he,0
+jord0001.xml,25,ל,he,0
+jord0001.xml,26,דא,he,0
+jord0001.xml,27,דבר,he,0
+jord0001.xml,28,יהו,he,0
+jord0001.xml,29,ה,he,0
+jord0001.xml,30,ק,he,0
+jord0001.xml,31,ד,he,0
+jord0001.xml,32,יד,he,0
+jord0001.xml,33,לב,he,0
+jord0001.xml,34,תים,he,0
+jord0001.xml,35,שאלת,he,0
+jord0001.xml,36,יהוה,he,0
+jord0001.xml,37,אתה,he,0
+jord0001.xml,38,שאלני,he,0
+jord0001.xml,39,כן,he,0
+jord0001.xml,40,אמר,he,0
+jord0001.xml,41,אלהים,he,0
+jord0001.xml,42,צבאות,he,0
+jord0001.xml,43,ני,he,0
+jord0001.xml,44,מבית,he,0
+jord0001.xml,45,ישראל,he,0
+jord0001.xml,46,ואגדה,he,0
+jord0001.xml,47,בגדולות,he,0
+jord0001.xml,48,ירושלם,he,0
+jord0001.xml,49,כן,he,0
+jord0001.xml,50,אמר,he,0
+jord0001.xml,51,יהוה,he,0
+jord0001.xml,52,אלהי,he,0
+jord0001.xml,53,ישראל,he,0
+jord0001.xml,54,הנה,he,0
+jord0001.xml,55,כול,he,0
+jord0001.xml,56,הגאים,he,0
+jord0001.xml,57,ל,he,0
+jord0001.xml,58,ירושלם,he,0
+jord0001.xml,59,ו,he,0
+jord0001.xml,60,ש,he,0
+jord0001.xml,61,מ,he,0
+jord0001.xml,62,ו,he,0
+jord0001.xml,63,מ,he,0
+jord0001.xml,64,ג,he,0
+jord0001.xml,65,א,he,0
+jord0001.xml,66,חת,he,0
+jord0001.xml,67,שתין,he,0
+jord0001.xml,68,שלוש,he,0
+jord0001.xml,69,ארבע,he,0
+jord0001.xml,70,נב,he,0
+jord0001.xml,71,אין,he,0
+jord0001.xml,72,והשבין,he,0
+jord0001.xml,73,ו,he,0
+jord0001.xml,74,החסידין עבדי דוד בקש מן לפני אמפרים,he,0
+jord0001.xml,75,האות,he,0
+jord0001.xml,76,אני,he,0
+jord0001.xml,77,מבקש,he,0
+jord0001.xml,78,מן,he,0
+jord0001.xml,79,לפנך,he,0
+jord0001.xml,80,כי,he,0
+jord0001.xml,81,אמר,he,0
+jord0001.xml,82,י,he,0
+jord0001.xml,83,הוה,he,0
+jord0001.xml,84,צבאות,he,0
+jord0001.xml,85,אלהי,he,0
+jord0001.xml,86,ישראל,he,0
+jord0001.xml,87,גני,he,0
+jord0001.xml,88,כרי,he,0
+jord0001.xml,89,קדשה,he,0
+jord0001.xml,90,לישראל,he,0
+jord0001.xml,91,לשלשת,he,0
+jord0001.xml,92,ימין,he,0
+jord0001.xml,93,תדע,he,0
+jord0001.xml,94,כי,he,0
+jord0001.xml,95,אמר,he,0
+jord0001.xml,96,יהוה,he,0
+jord0001.xml,97,אלהים,he,0
+jord0001.xml,98,צבאות,he,0
+jord0001.xml,99,אלהי,he,0
+jord0001.xml,100,ישראל,he,0
+jord0001.xml,101,נשבר,he,0
+jord0001.xml,102,הרע,he,0
+jord0001.xml,103,מלפני,he,0
+jord0001.xml,104,הצדק,he,0
+jord0001.xml,105,שאלני,he,0
+jord0001.xml,106,ואגיד,he,0
+jord0001.xml,107,לכה,he,0
+jord0001.xml,108,מה,he,0
+jord0001.xml,109,הצמח,he,0
+jord0001.xml,110,הרע,he,0
+jord0001.xml,111,הזה,he,0
+jord0001.xml,112,ל,he,0
+jord0001.xml,113,בנס,he,0
+jord0001.xml,114,אתה,he,0
+jord0001.xml,115,עומד,he,0
+jord0001.xml,116,המלאך,he,0
+jord0001.xml,117,הוא,he,0
+jord0001.xml,118,כסמכך,he,0
+jord0001.xml,119,אל,he,0
+jord0001.xml,120,תורה,he,0
+jord0001.xml,121,ברוך,he,0
+jord0001.xml,122,כבוד,he,0
+jord0001.xml,123,יהוה,he,0
+jord0001.xml,124,אלהים,he,0
+jord0001.xml,125,מן,he,0
+jord0001.xml,126,מקומו,he,0
+jord0001.xml,127,עוד,he,0
+jord0001.xml,128,מעט,he,0
+jord0001.xml,129,קיטוט,he,0
+jord0001.xml,130,היא,he,0
+jord0001.xml,131,ואני,he,0
+jord0001.xml,132,מרעיש,he,0
+jord0001.xml,133,את,he,0
+jord0001.xml,134,השמי,he,0
+jord0001.xml,135,ואת הארץ,he,0
+jord0001.xml,136,הנה,he,0
+jord0001.xml,137,כבוד,he,0
+jord0001.xml,138,יהוה,he,0
+jord0001.xml,139,אלהים,he,0
+jord0001.xml,140,צבאות,he,0
+jord0001.xml,141,אלהי,he,0
+jord0001.xml,142,ישראל,he,0
+jord0001.xml,143,אלה,he,0
+jord0001.xml,144,המרכבות,he,0
+jord0001.xml,145,ש,he,0
+jord0001.xml,146,ע,he,0
+jord0001.xml,147,ע,he,0
+jord0001.xml,148,ל,he,0
+jord0001.xml,149,ש,he,0
+jord0001.xml,150,ירושלם,he,0
+jord0001.xml,151,ושערי יהודה ונ,he,0
+jord0001.xml,152,למען,he,0
+jord0001.xml,153,ל,he,0
+jord0001.xml,154,מלאכ,he,0
+jord0001.xml,155,מיכ,he,0
+jord0001.xml,156,ל,he,0
+jord0001.xml,157,ולכול,he,0
+jord0001.xml,158,ה,he,0
+jord0001.xml,159,רין,he,0
+jord0001.xml,160,בקשו,he,0
+jord0001.xml,161,ילכ,he,0
+jord0001.xml,162,כן,he,0
+jord0001.xml,163,אמר,he,0
+jord0001.xml,164,יהוה,he,0
+jord0001.xml,165,אלהים,he,0
+jord0001.xml,166,צבאות,he,0
+jord0001.xml,167,אלהי,he,0
+jord0001.xml,168,ישראל,he,0
+jord0001.xml,169,אחד,he,0
+jord0001.xml,170,שנין,he,0
+jord0001.xml,171,שלושה,he,0
+jord0001.xml,172,ארבעה,he,0
+jord0001.xml,173,חמש,he,0
+jord0001.xml,174,ששה,he,0
+jord0001.xml,175,שב,he,0
+jord0001.xml,176,עה,he,0
+jord0001.xml,177,אל,he,0
+jord0001.xml,178,מלאכה,he,0
+jord0001.xml,179,מה,he,0
+jord0001.xml,180,זו,he,0
+jord0001.xml,181,אמר,he,0
+jord0001.xml,182,הצץ,he,0
+jord0001.xml,183,ל,he,0
+jord0001.xml,184,ד,he,0
+jord0001.xml,185,פכ,he,0
+jord0001.xml,186,ואלוף,he,0
+jord0001.xml,187,השני,he,0
+jord0001.xml,188,שמר,he,0
+jord0001.xml,189,על,he,0
+jord0001.xml,190,ירשלם,he,0
+jord0001.xml,191,שלושה,he,0
+jord0001.xml,192,בגדלות,he,0
+jord0001.xml,193,א,he,0
+jord0001.xml,194,ה,he,0
+jord0001.xml,195,לו,he,0
+jord0001.xml,196,והו,he,0
+jord0001.xml,197,ד,he,0
+jord0001.xml,198,ך,he,0
+jord0001.xml,199,ן,he,0
+jord0001.xml,200,שראה,he,0
+jord0001.xml,201,איש,he,0
+jord0001.xml,202,עו,he,0
+jord0001.xml,203,ד,he,0
+jord0001.xml,204,וי,he,0
+jord0001.xml,205,שהוא,he,0
+jord0001.xml,206,שסמן,he,0
+jord0001.xml,207,ממירושלם,he,0
+jord0001.xml,208,אני,he,0
+jord0001.xml,209,על,he,0
+jord0001.xml,210,אי,he,0
+jord0001.xml,211,א,he,0
+jord0001.xml,212,ר,he,0
+jord0001.xml,213,א,he,0
+jord0001.xml,214,תגלות,he,0
+jord0001.xml,215,א,he,0
+jord0001.xml,216,גלות,he,0
+jord0001.xml,217,צל,he,0
+jord0001.xml,218,אל,he,0
+jord0001.xml,219,ם,he,0
+jord0001.xml,220,ע,he,0
+jord0001.xml,221,א,he,0
+jord0001.xml,222,אראה,he,0
+jord0001.xml,223,ג,he,0
+jord0001.xml,224,א,he,0
+jord0001.xml,225,ירושלם,he,0
+jord0001.xml,226,יאמר,he,0
+jord0001.xml,227,יהוה,he,0
+jord0001.xml,228,צבאות,he,0
+jord0001.xml,229,א,he,0
+jord0001.xml,230,ל,he,0
+jord0001.xml,231,ל,he,0
+jord0001.xml,232,חנארו,he,0
+jord0001.xml,233,ורח,he,0
+jord0001.xml,234,דם,he,0
+jord0001.xml,235,שירם,he,0
+jord0001.xml,236,א,he,0
+jord0001.xml,237,ן,he,0
+jord0001.xml,238,הנגי,he,0
+jord0001.xml,239,כול,he,0
+jord0001.xml,240,ב,he,0
+jord0001.xml,241,ש,he,0
+jord0001.xml,242,ו,he,0
+jord0001.xml,243,ש,he,0
+jord0001.xml,244,י,he,0
+jord0001.xml,245,הוה,he,0
+jord0001.xml,246,י,he,0
+jord0001.xml,247,ע,he,0
+jord0001.xml,248,ל,he,0
+jord0001.xml,249,ד,he,0
+jord0001.xml,250,ך,he,0
+jord0001.xml,251,עמך,he,0
+jord0001.xml,252,ע,he,0
+jord0001.xml,253,ן,he,0
+jord0001.xml,254,לא,he,0
+jord0001.xml,255,מן,he,0
+jord0001.xml,256,על,he,0
+jord0001.xml,257,דר,he,0
+jord0001.xml,258,ל,he,0
+jord0001.xml,259,ע,he,0
+jord0001.xml,260,ומחר,he,0
+jord0001.xml,261,ש,he,0
+jord0001.xml,262,שלשת,he,0
+jord0001.xml,263,ה,he,0
+jord0001.xml,264,שאמ,he,0
+jord0001.xml,265,הוא,he,0
+jord0001.xml,266,אל,he,0
+jord0001.xml,267,של,he,0
+jord0001.xml,268,או,he,0
+jord0001.xml,269,נא,he,0
+jord0001.xml,270,ה,he,0
+jord0001.xml,271,צ,he,0
+jord0001.xml,272,סתום,he,0
+jord0001.xml,273,דם,he,0
+jord0001.xml,274,טבחי,he,0
+jord0001.xml,275,ירושלם,he,0
+jord0001.xml,276,כי,he,0
+jord0001.xml,277,אמר,he,0
+jord0001.xml,278,יהוה,he,0
+jord0001.xml,279,צבא,he,0
+jord0001.xml,280,ות,he,0
+jord0001.xml,281,אלהי,he,0
+jord0001.xml,282,ישראל,he,0
+jord0001.xml,283,כי,he,0
+jord0001.xml,284,אמר,he,0
+jord0001.xml,285,יהוה,he,0
+jord0001.xml,286,צבאות,he,0
+jord0001.xml,287,אלהי,he,0
+jord0001.xml,288,ישראל,he,0
+jord0001.xml,289,מא,he,0
+jord0001.xml,290,ל,he,0
+jord0001.xml,291,ל,he,0
+jord0001.xml,292,ד,he,0
+jord0001.xml,293,לני רוח הנרא,he,0
+jord0001.xml,294,ן,he,0
+jord0001.xml,295,שק,he,0
+jord0001.xml,296,ל,he,0
+jord0001.xml,297,ל,he,0
+jord0001.xml,298,אשריא,he,0
+jord0001.xml,299,תץ ש,he,0
+jord0001.xml,300,בה,he,0
+jord0001.xml,301,א,he,0
+jord0001.xml,302,ב ד,he,0
+jord0001.xml,303,א,he,0
+jord0001.xml,304,אב,he,0
+jord0001.xml,305,א,he,0
+jord0001.xml,306,ה,he,0
+jord0001.xml,307,ב,he,0
+jord0001.xml,308,ל,he,0
+jord0001.xml,309,שלושה,he,0
+jord0001.xml,310,קדושי,he,0
+jord0001.xml,311,העולם,he,0
+jord0001.xml,312,מן,he,0
+jord0001.xml,313,מק,he,0
+jord0001.xml,314,ו,he,0
+jord0001.xml,315,שלום,he,0
+jord0001.xml,316,אמר,he,0
+jord0001.xml,317,עליך,he,0
+jord0001.xml,318,אנחנו,he,0
+jord0001.xml,319,ב,he,0
+jord0001.xml,320,ין,he,0
+jord0001.xml,321,בשר,he,0
+jord0001.xml,322,לו,he,0
+jord0001.xml,323,על,he,0
+jord0001.xml,324,דם,he,0
+jord0001.xml,325,זו,he,0
+jord0001.xml,326,המרכבה,he,0
+jord0001.xml,327,שלהן,he,0
+jord0001.xml,328,ל,he,0
+jord0001.xml,329,אוהבין,he,0
+jord0001.xml,330,רבים,he,0
+jord0001.xml,331,ליהוה,he,0
+jord0001.xml,332,צבאת,he,0
+jord0001.xml,333,אל,he,0
+jord0001.xml,334,י,he,0
+jord0001.xml,335,ישראל,he,0
+jord0001.xml,336,כה,he,0
+jord0001.xml,337,אמר,he,0
+jord0001.xml,338,יהוה,he,0
+jord0001.xml,339,צבאת,he,0
+jord0001.xml,340,אלהי,he,0
+jord0001.xml,341,ישראל,he,0
+jord0001.xml,342,מ,he,0
+jord0001.xml,343,נביאים,he,0
+jord0001.xml,344,שלחתי,he,0
+jord0001.xml,345,אל,he,0
+jord0001.xml,346,עמי,he,0
+jord0001.xml,347,של,he,0
+jord0001.xml,348,ואני,he,0
+jord0001.xml,349,מר,he,0
+jord0001.xml,350,שראיתי,he,0
+jord0001.xml,351,ברכ,he,0
+jord0001.xml,352,ל,he,0
+jord0001.xml,353,לך,he,0
+jord0001.xml,354,דבר,he,0
+jord0001.xml,355,בר,he,0
+jord0001.xml,356,ב,he,0
+jord0001.xml,357,המקום,he,0
+jord0001.xml,358,ל,he,0
+jord0001.xml,359,דוד,he,0
+jord0001.xml,360,עבד,he,0
+jord0001.xml,361,יהוה,he,0
+jord0001.xml,362,א,he,0
+jord0001.xml,363,את,he,0
+jord0001.xml,364,השמים,he,0
+jord0001.xml,365,ואת,he,0
+jord0001.xml,366,הארץ,he,0
+jord0001.xml,367,ברוך,he,0
+jord0001.xml,368,ש,he,0
+jord0001.xml,369,עושה,he,0
+jord0001.xml,370,חסד,he,0
+jord0001.xml,371,לאלפים,he,0
+jord0001.xml,372,מ,he,0
+jord0001.xml,373,חסד,he,0
+jord0001.xml,374,שלושה,he,0
+jord0001.xml,375,רועין,he,0
+jord0001.xml,376,יצאו,he,0
+jord0001.xml,377,לישראל,he,0
+jord0001.xml,378,ל,he,0
+jord0001.xml,379,אם,he,0
+jord0001.xml,380,יש,he,0
+jord0001.xml,381,כהן,he,0
+jord0001.xml,382,אם,he,0
+jord0001.xml,383,יש,he,0
+jord0001.xml,384,בני,he,0
+jord0001.xml,385,קדושים,he,0
+jord0001.xml,386,ה,he,0
+jord0001.xml,387,מי אנכי,he,0
+jord0001.xml,388,אני,he,0
+jord0001.xml,389,גבריאל,he,0
+jord0001.xml,390,ה,he,0
+jord0001.xml,391,ל,he,0
+jord0001.xml,392,כי,he,0
+jord0001.xml,393,לי,he,0
+jord0001.xml,394,מל,he,0
+jord0001.xml,395,תצילם,he,0
+jord0001.xml,396,נבי,he,0
+jord0001.xml,397,ם,he,0
+jord0001.xml,398,ג,he,0
+jord0001.xml,399,ם,he,0
+jord0001.xml,400,לש,he,0
+jord0001.xml,401,ת,he,0
+jord0001.xml,402,ן,he,0
+jord0001.xml,403,ב,he,0
+jord0001.xml,404,מל,he,0
+jord0001.xml,405,ך,he,0
+jord0001.xml,406,שלושה,he,0
+jord0001.xml,407,הא ת ות,he,0
+jord0001.xml,408,שלושה,he,0
+jord0001.xml,409,א,he,0
+jord0001.xml,410,לשלושת,he,0
+jord0001.xml,411,ימין,he,0
+jord0001.xml,412,א,he,0
+jord0001.xml,413,אני,he,0
+jord0001.xml,414,גבריאל,he,0
+jord0001.xml,415,ל,he,0
+jord0001.xml,416,שר,he,0
+jord0001.xml,417,השרין,he,0
+jord0001.xml,418,ד,he,0
+jord0001.xml,419,ן,he,0
+jord0001.xml,420,אר,he,0
+jord0001.xml,421,צ,he,0
+jord0001.xml,422,ם,he,0
+jord0001.xml,423,א,he,0
+jord0001.xml,424,א,he,0
+jord0001.xml,425,ל,he,0
+jord0001.xml,426,רא ו,he,0
+jord0001.xml,427,ת,he,0
+jord0001.xml,428,ה,he,0
+jord0001.xml,429,ל,he,0
+jord0001.xml,430,ם,he,0
+jord0001.xml,431,מ,he,0
+jord0001.xml,432,ן,he,0
+jord0001.xml,433,וה,he,0
+jord0001.xml,434,ב,he,0
+jord0001.xml,435,ג,he,0
+jord0001.xml,436,מ,he,0
+jord0001.xml,437,ל,he,0
+jord0001.xml,438,מן,he,0
+jord0001.xml,439,שלושה,he,0
+jord0001.xml,440,הקטן,he,0
+jord0001.xml,441,שלקחתי,he,0
+jord0001.xml,442,אני,he,0
+jord0001.xml,443,גבריאל,he,0
+jord0001.xml,444,יהוה,he,0
+jord0001.xml,445,צבאת,he,0
+jord0001.xml,446,אל,he,0
+jord0001.xml,447,י,he,0
+jord0001.xml,448,אז,he,0
+jord0001.xml,449,תעמדו,he,0
+jord0001.xml,450,א,he,0
+jord0001.xml,451,ל,he,0
+jord0001.xml,452,א,he,0
+jord0001.xml,453,ל,he,0
+jord0001.xml,454,ב,he,0
+jord0001.xml,455,ם,he,0
+juda0001.xml,1,שמעון,he,0
+juda0001.xml,2,בן,he,0
+juda0001.xml,3,כוסבא,he,0
+juda0001.xml,4,ישראל,he,0
+masa0302.xml,1,יהוחנן,he,0
+masa0313.xml,1,יהוחנן,he,0
+masa0329.xml,1,יהוחנן,he,0
+masa0341.xml,1,יהוחנן,he,0
+masa0351.xml,1,יהודה,he,0
+masa0360.xml,1,שמעון,he,0
+masa0360.xml,2,ג,he,0
+masa0381.xml,1,אלעזר,he,0
+masa0382.xml,1,דוסתס,he,0
+masa0383.xml,1,יועזר,he,0
+masa0384.xml,1,ושעיה,he,0
+masa0385.xml,1,חזקיה,he,0
+masa0386.xml,1,חזקין,he,0
+masa0387.xml,1,ח,he,0
+masa0388.xml,1,פטי,he,0
+masa0389.xml,1,אבי,he,0
+masa0390.xml,1,אליעזר,he,0
+masa0391.xml,1,רבא,he,0
+masa0392.xml,1,חנניה,he,0
+masa0393.xml,1,ברכה,he,0
+masa0394.xml,1,עזרה,he,0
+masa0395.xml,1,סף,he,0
+masa0395.xml,2,נן,he,0
+masa0396.xml,1,יהוחנן,he,0
+masa0397.xml,1,יהוחנן,he,0
+masa0400.xml,1,אשת,he,0
+masa0400.xml,2,טיבו,he,0
+masa0401.xml,1,ב,he,0
+masa0401.xml,2,ת,he,0
+masa0401.xml,3,נ,he,0
+masa0403.xml,1,בת,he,0
+masa0403.xml,2,דמלי,he,0
+masa0404.xml,1,שלום,he,0
+masa0404.xml,2,הגלי,he,0
+masa0405.xml,1,בת,he,0
+masa0405.xml,2,קתרא,he,0
+masa0406.xml,1,בן,he,0
+masa0406.xml,2,חנ,he,0
+masa0407.xml,1,בן,he,0
+masa0407.xml,2,ח,he,0
+masa0407.xml,3,לה,he,0
+masa0409.xml,1,טובי,he,0
+masa0410.xml,1,שאול,he,0
+masa0411.xml,1,אשעיה,he,0
+masa0412.xml,1,יהוחנ,he,0
+masa0414.xml,1,בר,he,0
+masa0414.xml,2,שוע,he,0
+masa0415.xml,1,בר,he,0
+masa0415.xml,2,סמון,he,0
+masa0416.xml,1,שמעון,he,0
+masa0416.xml,2,למ,he,0
+masa0416.xml,3,ש,he,0
+masa0417.xml,1,וחנן,he,0
+masa0418.xml,1,כ,he,0
+masa0418.xml,2,ה,he,0
+masa0419.xml,1,ל,he,0
+masa0419.xml,2,לל,he,0
+masa0419.xml,3,ה,he,0
+masa0429.xml,1,בן,he,0
+masa0429.xml,2,הנהתּם,he,0
+masa0430.xml,1,בן,he,0
+masa0430.xml,2,כנבון,he,0
+masa0433.xml,1,חוני,he,0
+masa0434.xml,1,העמקי,he,0
+masa0435.xml,1,בן,he,0
+masa0435.xml,2,פטי,he,0
+masa0436.xml,1,ציפון,he,0
+masa0437.xml,1,בניאיר,he,0
+masa0441.xml,1,מעשר,he,0
+masa0441.xml,2,כהן,he,0
+masa0442.xml,1,ת,he,0
+masa0445.xml,1,ט,he,0
+masa0449.xml,1,הרה,he,0
+masa0449.xml,2,השורה,he,0
+masa0449.xml,3,הזות,he,0
+masa0449.xml,4,ה,he,0
+masa0449.xml,5,כרוטין,he,0
+masa0449.xml,6,ואינן,he,0
+masa0449.xml,7,כשיר,he,0
+masa0449.xml,8,מין,he,0
+masa0449.xml,9,לטה,he,0
+masa0449.xml,10,הקד,he,0
+masa0449.xml,11,טהר,he,0
+masa0450.xml,1,הרה,he,0
+masa0450.xml,2,השור,he,0
+masa0450.xml,3,ת,he,0
+masa0450.xml,4,בה,he,0
+masa0450.xml,5,ה,he,0
+masa0450.xml,6,ופר,he,0
+masa0450.xml,7,טין,he,0
+masa0450.xml,8,כלן,he,0
+masa0450.xml,9,כ,he,0
+masa0450.xml,10,לטהרת,he,0
+masa0450.xml,11,ל,he,0
+masa0450.xml,12,לט,he,0
+masa0450.xml,13,הקדש,he,0
+masa0451.xml,1,הרה,he,0
+masa0451.xml,2,השורה,he,0
+masa0451.xml,3,בה,he,0
+masa0451.xml,4,ואנן,he,0
+masa0451.xml,5,כשירין לטהרת,he,0
+masa0451.xml,6,הקד,he,0
+masa0452.xml,1,הרה,he,0
+masa0452.xml,2,השורה,he,0
+masa0452.xml,3,הזות,he,0
+masa0452.xml,4,ופרוטין,he,0
+masa0452.xml,5,כלן,he,0
+masa0452.xml,6,כשירי,he,0
+masa0452.xml,7,לטהרת,he,0
+masa0452.xml,8,הקדש,he,0
+masa0453a.xml,1,פר,he,0
+masa0453b.xml,1,לט,he,0
+masa0453c.xml,1,קד,he,0
+masa0453d.xml,1,ד,he,0
+masa0454.xml,1,הכדין,he,0
+masa0454.xml,2,הא,he,0
+masa0454.xml,3,ה,he,0
+masa0454.xml,4,פסו,he,0
+masa0454.xml,5,ות,he,0
+masa0455.xml,1,פסולא,he,0
+masa0456.xml,1,טהור,he,0
+masa0456.xml,2,לקדש,he,0
+masa0457.xml,1,ישוע,he,0
+masa0457.xml,2,טוהר,he,0
+masa0457.xml,3,לקדש,he,0
+masa0459.xml,1,ק,he,0
+masa0462.xml,1,שמעין,he,0
+masa0462.xml,2,בר,he,0
+masa0462.xml,3,נוטוס,he,0
+masa0463.xml,1,מעון,he,0
+masa0463.xml,2,בר,he,0
+masa0463.xml,3,יהוסף,he,0
+masa0464.xml,1,מעון,he,0
+masa0464.xml,2,ב,he,0
+masa0465.xml,1,שמעון,he,0
+masa0466.xml,1,שמעון,he,0
+masa0466.xml,2,בן,he,0
+masa0466.xml,3,יועוד,he,0
+masa0467.xml,1,שצע,he,0
+masa0468.xml,1,זבידו,he,0
+masa0468.xml,2,בר,he,0
+masa0468.xml,3,ישמעל,he,0
+masa0469.xml,1,אלעזר,he,0
+masa0469.xml,2,בר,he,0
+masa0469.xml,3,חדד,he,0
+masa0470.xml,1,יהוסף,he,0
+masa0470.xml,2,בר,he,0
+masa0470.xml,3,אלעזר,he,0
+masa0471.xml,1,יהודה בר בשמא,he,0
+masa0472.xml,1,בן,he,0
+masa0472.xml,2,עזרה,he,0
+masa0473.xml,1,הלל,he,0
+masa0473.xml,2,הנוסי,he,0
+masa0474.xml,1,יהוסף,he,0
+masa0474.xml,2,קני,he,0
+masa0476.xml,1,אלעזר,he,0
+masa0477.xml,1,זכ,he,0
+masa0478.xml,1,שמ,he,0
+masa0479.xml,1,שמעון,he,0
+masa0479.xml,2,נסן,he,0
+masa0484.xml,1,יהותנן,he,0
+masa0484.xml,2,יהו,he,0
+masa0484.xml,3,יהוחנן,he,0
+masa0484.xml,4,ינני,he,0
+masa0484.xml,5,ותנן,he,0
+masa0484.xml,6,חנינא,he,0
+masa0484.xml,7,יהודה,he,0
+masa0484.xml,8,יהודה,he,0
+masa0484.xml,9,ודה,he,0
+masa0484.xml,10,יהודה,he,0
+masa0484.xml,11,דה,he,0
+masa0485.xml,1,יהו,he,0
+masa0485.xml,2,יהוחנן,he,0
+masa0486.xml,1,הנני,he,0
+masa0487.xml,1,ותנן,he,0
+masa0488.xml,1,חנינא,he,0
+masa0489.xml,1,יהודה,he,0
+masa0490.xml,1,יהודה,he,0
+masa0491.xml,1,ודה,he,0
+masa0492.xml,1,יהודה,he,0
+masa0493.xml,1,דה,he,0
+masa0494.xml,1,יהוסף,he,0
+masa0495.xml,1,יהוסף,he,0
+masa0496.xml,1,יהוסף,he,0
+masa0497.xml,1,סף,he,0
+masa0498.xml,1,מתיה,he,0
+masa0499.xml,1,יעקוב,he,0
+masa0500.xml,1,יעקוב,he,0
+masa0501.xml,1,יעקוב,he,0
+masa0503.xml,1,בר,he,0
+masa0503.xml,2,יה,he,0
+masa0505.xml,1,חוניה,he,0
+masa0506.xml,1,בסי,he,0
+masa0506.xml,2,ובר,he,0
+masa0507.xml,1,נה,he,0
+masa0507.xml,2,ובר,he,0
+masa0508.xml,1,שאל,he,0
+masa0509.xml,1,שאול,he,0
+masa0510.xml,1,אלע,he,0
+masa0511.xml,1,אלע,he,0
+masa0512.xml,1,קצבא,he,0
+masa0516.xml,1,דבלה,he,0
+masa0516.xml,2,כתושה,he,0
+masa0516.xml,3,יפה,he,0
+masa0517.xml,1,כ,he,0
+masa0518.xml,1,י,he,0
+masa0519.xml,1,דבלה,he,0
+masa0520.xml,1,יפה,he,0
+masa0522.xml,1,דבלה,he,0
+masa0525.xml,1,דבל,he,0
+masa0526.xml,1,דבל,he,0
+masa0527.xml,1,בלה,he,0
+masa0528.xml,1,בלה,he,0
+masa0529.xml,1,ד,he,0
+masa0529.xml,2,לה,he,0
+masa0530.xml,1,דב,he,0
+masa0531.xml,1,ל,he,0
+masa0533.xml,1,בלה,he,0
+masa0535.xml,1,ד,he,0
+masa0535.xml,2,לה,he,0
+masa0536.xml,1,ד,he,0
+masa0537.xml,1,גר,he,0
+masa0537.xml,2,דב,he,0
+masa0537.xml,3,ה,he,0
+masa0538.xml,1,דבלה,he,0
+masa0539.xml,1,ד,he,0
+masa0539.xml,2,ה,he,0
+masa0540.xml,1,ג,he,0
+masa0540.xml,2,גר,he,0
+masa0540.xml,3,ד,he,0
+masa0541.xml,1,גרגר,he,0
+masa0542.xml,1,גרגר,he,0
+masa0543.xml,1,כרשנין,he,0
+masa0544.xml,1,בלסנה,he,0
+masa0545.xml,1,נצח,he,0
+masa0546.xml,1,י,he,0
+masa0546.xml,2,כיסה,he,0
+masa0547.xml,1,בשר,he,0
+masa0547.xml,2,יהו,he,0
+masa0547.xml,3,ה,he,0
+masa0548.xml,1,בצק,he,0
+masa0549.xml,1,רור,he,0
+masa0550.xml,1,מערב,he,0
+masa0551.xml,1,קדדין,he,0
+masa0553.xml,1,דוגה,he,0
+masa0585.xml,1,ארבע,he,0
+masa0585.xml,2,אמות,he,0
+masa0585.xml,3,וטפחים,he,0
+masa0585.xml,4,ושתי,he,0
+masa0585.xml,5,אמות,he,0
+masa0585.xml,6,וטפחים,he,0
+masa0586.xml,1,ארבע,he,0
+masa0587.xml,1,נים,he,0
+masa0588.xml,1,עשירי,he,0
+masa0589.xml,1,מ,he,0
+masa0589.xml,2,לף,he,0
+masa0590.xml,1,ס,he,0
+masa0593.xml,1,לג,he,0
+masa0594.xml,1,לג,he,0
+masa0597.xml,1,ר,he,0
+masa0597.xml,2,מ,he,0
+masa0598.xml,1,ר,he,0
+masa0598.xml,2,מ,he,0
+masa0599.xml,1,ר,he,0
+masa0599.xml,2,מ,he,0
+masa0600.xml,1,ר,he,0
+masa0601.xml,1,ר,he,0
+masa0602.xml,1,ר,he,0
+masa0696.xml,1,ע,he,0
+masa0696.xml,2,ר,he,0
+masa0696.xml,3,עב,he,0
+masa0924.xml,1,עוזרל,he,0
+masa0924.xml,2,לג,he,0
+masa0924.xml,3,דווו,he,0
+mger0037.xml,1,רב,he,0
+mger0037.xml,2,ת,he,0
+mger0150.xml,1,אשר,he,0
+mger0150.xml,2,קריב,he,0
+mger0150.xml,3,יוספ,he,0
+mger0150.xml,4,בן,he,0
+mger0150.xml,5,תו,he,0
+mger0150.xml,6,ועל,he,0
+mger0150.xml,7,בניו,he,0
+mger0150.xml,8,לפני,he,0
+mger0150.xml,9,דני,he,0
+mger0150.xml,10,במקדש,he,0
+mikh0001.xml,1,לחנן,he,0
+mikh0001.xml,2,בן,he,0
+mikh0001.xml,3,שכוי,he,0
+mtsc0001.xml,1,יהוסף,he,0
+mtsc0001.xml,2,בן,he,0
+mtsc0001.xml,3,דניאל,he,0
+neta0001.xml,1,קומה,he,0
+qumr0001.xml,1,בשנת,he,0
+qumr0001.xml,2,שתים,he,0
+qumr0001.xml,3,בירחו,he,0
+qumr0001.xml,4,נתן,he,0
+qumr0001.xml,5,חני,he,0
+qumr0001.xml,6,ב,he,0
+qumr0001.xml,7,לאלעזר,he,0
+qumr0001.xml,8,בן,he,0
+qumr0001.xml,9,נח,he,0
+qumr0001.xml,10,ני,he,0
+qumr0001.xml,11,את,he,0
+qumr0001.xml,12,חסדי,he,0
+qumr0001.xml,13,מחולנ,he,0
+qumr0001.xml,14,מ,he,0
+qumr0001.xml,15,יום,he,0
+qumr0001.xml,16,ה,he,0
+qumr0001.xml,17,ה,he,0
+qumr0001.xml,18,ל,he,0
+qumr0001.xml,19,ול,he,0
+qumr0001.xml,20,וא,he,0
+qumr0001.xml,21,תחומ,he,0
+qumr0001.xml,22,הביט,he,0
+qumr0001.xml,23,והתאנים,he,0
+qumr0001.xml,24,הזי,he,0
+qumr0001.xml,25,וכ,he,0
+qumr0001.xml,26,לותו,he,0
+qumr0001.xml,27,ליחד,he,0
+qumr0001.xml,28,לו,he,0
+qumr0001.xml,29,את,he,0
+qumr0001.xml,30,ואת,he,0
+qumr0001.xml,31,חסד,he,0
+qumr0001.xml,32,עבד,he,0
+qumr0001.xml,33,חלון,he,0
+qumr0002.xml,1,ק,he,0
+qumr0002.xml,2,ש,he,0
+qumr0002.xml,3,ת,he,0
+qumr0002.xml,4,הו,he,0
+qumr0002.xml,5,ף,he,0
+qumr0002.xml,6,בן,he,0
+qumr0002.xml,7,נת,he,0
+qumr0002.xml,8,ניו,he,0
+qumr0002.xml,9,מעי,he,0
+seph0100.xml,1,אפמלס,he,0
+seph0100.xml,2,לש,he,0
+shap0002.xml,1,חנניה,he,0
+shap0002.xml,2,בן,he,0
+shap0002.xml,3,שמעון,he,0
+shap0003.xml,1,חנניה,he,0
+shap0003.xml,2,בן,he,0
+shap0003.xml,3,שמעון,he,0
+shap0004.xml,1,שאול,he,0
+shap0004.xml,2,מתכמתב,he,0
+thar0001.xml,1,לחנונה,he,0
+thar0001.xml,2,יהוד,he,0
+tibe0001.xml,1,טלה,he,0
+tibe0001.xml,2,שור,he,0
+tibe0001.xml,3,ים,he,0
+tibe0001.xml,4,אריה,he,0
+tibe0001.xml,5,בתולה,he,0
+tibe0001.xml,6,מוזנים,he,0
+tibe0001.xml,7,גדי,he,0
+tibe0001.xml,8,דלי,he,0
+tibe0001.xml,9,דגים,he,0
+tibe0002.xml,1,תקופת,he,0
+tibe0002.xml,2,ניסן,he,0
+tibe0007.xml,1,תקופת,he,0
+tibe0007.xml,2,תמוז,he,0
+tibe0008.xml,1,תקופת,he,0
+tibe0008.xml,2,תשרי,he,0
+tibe0009.xml,1,תקופת,he,0
+tibe0009.xml,2,טבת,he,0
+unkn0100.xml,1,בוטא,he,0
+unkn0101.xml,1,שפירה,he,0
+unkn0101.xml,2,שפירה,he,0
+unkn0101.xml,3,אפלגנה,he,0
+unkn0102.xml,1,א,he,0
+unkn0102.xml,2,ב,he,0
+unkn0102.xml,3,ג,he,0
+unkn0102.xml,4,ד,he,0
+unkn0102.xml,5,ה,he,0
+unkn0102.xml,6,ו,he,0
+unkn0102.xml,7,ז,he,0
+unkn0102.xml,8,ח,he,0
+unkn0102.xml,9,ט,he,0
+unkn0102.xml,10,י,he,0
+unkn0102.xml,11,כ,he,0
+unkn0102.xml,12,ל,he,0
+unkn0102.xml,13,מ,he,0
+unkn0102.xml,14,נ,he,0
+unkn0103.xml,1,ברוך,he,0
+unkn0103.xml,2,אלהנו,he,0
+unkn0103.xml,3,עולם,he,0
+unkn0103.xml,4,ברו,he,0
+unkn0103.xml,5,שמו לעולם,he,0

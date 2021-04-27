@@ -186,10 +186,10 @@
             </div>
             <!-- The bibl has more contained elements. What is the possible list of values of the biblScope/@type? 
              -->
-        <div type="edition" subtype="transcription_segmented"><p><w xml:id="masa0561-1" xml:lang="arc"><supplied reason="lost">ב</supplied></w><w xml:id="masa0561-2" xml:lang="arc"><num value="14">
+        <div type="edition" subtype="transcription_segmented"><p><w xml:id="masa0561-1" xml:lang="arc"><supplied reason="lost">ב</supplied></w><num value="14">
                   <g type="phoen-10"/>
                   <g type="three-right-slanted-strokes-with-one-left-slanted-stroke-belowe-the-line"/>
-               </num></w><w xml:id="masa0561-3" xml:lang="arc">לאדר</w> <w xml:id="masa0561-4" xml:lang="arc">כל</w> <w xml:id="masa0561-5" xml:lang="arc">הב</w> <w xml:id="masa0561-6" xml:lang="arc">לסימו</w> <w xml:id="masa0561-7" xml:lang="arc">בניא</w> <w xml:id="masa0561-8" xml:lang="arc">מ</w><w xml:id="masa0561-9" xml:lang="arc"><supplied reason="lost">ן</supplied></w><w xml:id="masa0561-10" xml:lang="arc">לחם</w> <w xml:id="masa0561-11" xml:lang="arc">עשרין</w> <w xml:id="masa0561-12" xml:lang="arc">ושת</w></p>
+               </num><w xml:id="masa0561-2" xml:lang="arc">לאדר</w> <w xml:id="masa0561-3" xml:lang="arc">כל</w> <w xml:id="masa0561-4" xml:lang="arc">הב</w> <w xml:id="masa0561-5" xml:lang="arc">לסימו</w> <w xml:id="masa0561-6" xml:lang="arc">ב</w><w xml:id="masa0561-7" xml:lang="arc">מ</w><w xml:id="masa0561-8" xml:lang="arc">לחם</w> <w xml:id="masa0561-9" xml:lang="arc">עש</w><w xml:id="masa0561-10" xml:lang="arc">ושת</w></p>
 </div>
 </body>
         <back>

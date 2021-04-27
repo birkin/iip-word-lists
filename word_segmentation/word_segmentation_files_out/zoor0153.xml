@@ -132,11 +132,24 @@
    <text>
       <body>
          <div type="edition" ana="#b1" xml:lang="grc" subtype="transcription" xml:id="zoor0153.transcription" corresp="#zoor0153.translation">
-            <p>+<lb/> Εἷς Θεός.<lb/>
-               <choice><sic>Μνημῖον</sic><corr>Μνημεῖον</corr></choice> Ἰω<lb break="no"/>άννης Ὀλέ<lb break="no"/>φου, <choice><sic>κυμαθ<lb break="no"/>έντος</sic><corr>κοιμηθέντος</corr></choice> μετὰ <lb/> καλοῦ <choice><sic>ἀνάμα<lb break="no"/>τος</sic><corr>ὀνόματος</corr></choice> ἐτῶν <num>κεʹ</num>, ἐν<lb/> ἔτους <num>τλαʹ</num>,<lb/> μηνὸς
-               Δύστρο<lb break="no"/>υ <num>δκʹ</num>, ἡμέρᾳ <num>εʹ</num>.<lb/>
-               <choice><sic>Θάρσι</sic><corr>Θάρσει</corr></choice>, <choice><sic>οὐδὶς</sic><corr>οὐδεὶς</corr></choice>
-               ἀθά<lb break="no"/>νατος. +</p>
+            <p><g type="cross">+</g><lb/> Εἷς Θεός.<lb/>
+               <choice>
+                  <sic>Μνημῖον</sic>
+                  <corr>Μνημεῖον</corr>
+               </choice> Ἰω<lb break="no"/>άννης Ὀλέ<lb break="no"/>φου, <choice>
+                  <sic>κυμαθ<lb break="no"/>έντος</sic>
+                  <corr>κοιμηθέντος</corr>
+               </choice> μετὰ <lb/> καλοῦ <choice>
+                  <sic>ἀνάμα<lb break="no"/>τος</sic>
+                  <corr>ὀνόματος</corr>
+               </choice> ἐτῶν <num>κεʹ</num>, ἐν<lb/> ἔτους <num>τλαʹ</num>,<lb/> μηνὸς Δύστρο<lb break="no"/>υ <num>δκʹ</num>, ἡμέρᾳ <num>εʹ</num>.<lb/>
+               <choice>
+                  <sic>Θάρσι</sic>
+                  <corr>Θάρσει</corr>
+               </choice>, <choice>
+                  <sic>οὐδὶς</sic>
+                  <corr>οὐδεὶς</corr>
+               </choice> ἀθά<lb break="no"/>νατος. <g type="cross">+</g></p>
          </div>
          <div type="translation" ana="#b1" xml:id="zoor0153.translation" corresp="#zoor0153.transcription">
             <p>One (is) the God. Monument of Ioannes, (son) of Olefos, who slept having a good
@@ -144,7 +157,7 @@
                     month Dystros, on (the) 5th day (Thursday). Be of good cheer, no one (is)
                     immortal.</p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="zoor0153-1" xml:lang="grc">Εἷς</w> <w xml:id="zoor0153-2" xml:lang="grc">Θεός</w><w xml:id="zoor0153-3" xml:lang="grc"><choice>Μνημεῖον</choice></w><w xml:id="zoor0153-4" xml:lang="grc">Ἰωάννης</w> <w xml:id="zoor0153-5" xml:lang="grc">Ὀλέφου</w><w xml:id="zoor0153-6" xml:lang="grc"><choice>κοιμηθέντος</choice></w><w xml:id="zoor0153-7" xml:lang="grc">μετὰ</w> <w xml:id="zoor0153-8" xml:lang="grc">καλοῦ</w><w xml:id="zoor0153-9" xml:lang="grc"><choice>ὀνόματος</choice></w><w xml:id="zoor0153-10" xml:lang="grc">ἐτῶν</w><num>κεʹ</num><w xml:id="zoor0153-11" xml:lang="grc">ἐν</w> <w xml:id="zoor0153-12" xml:lang="grc">ἔτους</w><num>τλαʹ</num><w xml:id="zoor0153-13" xml:lang="grc">μηνὸς</w> <w xml:id="zoor0153-14" xml:lang="grc">Δύστρου</w><num>δκʹ</num><w xml:id="zoor0153-15" xml:lang="grc">ἡμέρᾳ</w><num>εʹ</num><w xml:id="zoor0153-16" xml:lang="grc"><choice>Θάρσει</choice></w><w xml:id="zoor0153-17" xml:lang="grc"><choice>οὐδεὶς</choice></w><w xml:id="zoor0153-18" xml:lang="grc">ἀθάνατος</w></p>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="zoor0153-1" xml:lang="grc">Εἷς</w> <w xml:id="zoor0153-2" xml:lang="grc">Θεός</w><w xml:id="zoor0153-3" xml:lang="grc">Ἰωάννης</w> <w xml:id="zoor0153-4" xml:lang="grc">Ὀλέφου</w><w xml:id="zoor0153-5" xml:lang="grc">μετὰ</w> <w xml:id="zoor0153-6" xml:lang="grc">καλοῦ</w><w xml:id="zoor0153-7" xml:lang="grc">ἐτῶν</w><num>κεʹ</num><w xml:id="zoor0153-8" xml:lang="grc">ἐν</w> <w xml:id="zoor0153-9" xml:lang="grc">ἔτους</w><num>τλαʹ</num><w xml:id="zoor0153-10" xml:lang="grc">μηνὸς</w> <w xml:id="zoor0153-11" xml:lang="grc">Δύστρου</w><num>δκʹ</num><w xml:id="zoor0153-12" xml:lang="grc">ἡμέρᾳ</w><num>εʹ</num><w xml:id="zoor0153-13" xml:lang="grc">ἀθάνατος</w></p>
 </div>
 </body>
       <back>

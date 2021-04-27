@@ -157,7 +157,7 @@
                 <p/>
             </div>
 
-        <div type="edition" subtype="transcription_segmented"><p><w xml:id="idum0633-1" xml:lang="arc">קוסלכן</w> <w xml:id="idum0633-2" xml:lang="arc">ל</w><w xml:id="idum0633-3" xml:lang="arc"><choice>בפדר</choice></w><w xml:id="idum0633-4" xml:lang="arc">אל</w> <w xml:id="idum0633-5" xml:lang="arc">ב</w><num value="13"><g type="phoen-10"/><g type="three-vertical-strokes"/></num><w xml:id="idum0633-6" xml:lang="arc">ש</w></p>
+        <div type="edition" subtype="transcription_segmented"><p><w xml:id="idum0633-1" xml:lang="arc">קוסלכ</w><w xml:id="idum0633-2" xml:lang="arc">ל</w><w xml:id="idum0633-3" xml:lang="arc">אל</w> <w xml:id="idum0633-4" xml:lang="arc">ב</w><num value="13"><g type="phoen-10"/><g type="three-vertical-strokes"/></num><w xml:id="idum0633-5" xml:lang="arc">ש</w></p>
 </div>
 </body>
         <back>

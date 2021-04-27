@@ -46,10 +46,16 @@ vNoLang = []
 vLangs = []
 vFoobarred = []
 
-vAllowedLangs = [ 'arc', 'grc', 'he', 'la' ]
+vAllowedLangs = [ 'arc', 'grc', 'he', 'la', 'x-unknown', 'syc', 'phn', 'xcl', 'Other', 'geo']
+transformationErrors = 0
 
 # Loop through the list of texts, parse XML, make data frames, save as CSV
 for strTextFullPath in vTextFullPaths:
+
+	# bypass the xxx inscriptions
+	if "xxx" in strTextFullPath:
+		continue
+
 	# Extract the filename for the current text
 	# Use the OS specific directory separator to split path and take the last element
 	strTextFilename = strTextFullPath.split(os.sep)[-1]
@@ -60,8 +66,13 @@ for strTextFullPath in vTextFullPaths:
 
 	try:
 		xmlText = etree.parse(strTextFullPath, parser)
-	except:
+	except Exception as e:
+		print('#' * 20)
+		print('Error with parsing text as XML:')
+		print(e)
 		print(strTextFilename)
+		print('#' * 20)
+		transformationErrors += 1
 		continue
 
 	nsmap = {'tei': "http://www.tei-c.org/ns/1.0"}
@@ -117,9 +128,6 @@ for strTextFullPath in vTextFullPaths:
 
 		strXMLText = etree.tostring(x[0], encoding='utf8', method='xml').decode('utf-8')
 
-		# TODO: Keep orig/reg, abbr, supplied
-		# keep foreign xml:lang="heb"
-
 		# remove all <lb>s
 		strXMLText = re.sub(r"<lb break=\"no\"(\s*)/>", "", strXMLText)
 		strXMLText = re.sub(r"(\s*)<lb break=\"no\"(\s*)/>(\s*)", "", strXMLText)
@@ -128,31 +136,22 @@ for strTextFullPath in vTextFullPaths:
 		# Just delete <note>...</note> right from the start. Shouldn't be there anyway.
 		strXMLText = re.sub(r"<note>([^<]*?)</note>", "", strXMLText)
 
-		# Keep stuff as is without worrying about the markup
-		# strXMLText = re.sub(r"<supplied>(.*?)</supplied>", r"<w><supplied>\1</supplied></w>", strXMLText)
-		# strXMLText = re.sub(r"<supplied (([^>]+|\s)*?)>(.*?)</supplied>", r"<w><supplied>\3</supplied></w>", strXMLText)
-		# strXMLText = re.sub(r"<supplied(([^>]+|\s)*?)/>", r" ", strXMLText)
-		# strXMLText = re.sub(r'<supplied reason="undefined"/>', r" ", strXMLText)
-
-		strXMLText = re.sub(r"(\s+)<supplied>", r"\1<w><supplied>", strXMLText)
-		strXMLText = re.sub(r"(\s+)<supplied (([^>]+|\s)*?)>", r"\1<w><supplied \2>", strXMLText)
-		strXMLText = re.sub(r"</supplied>(\s+)", r"</supplied></w>\1", strXMLText)
-		# Supplied
-
-		strXMLText = re.sub(r"<unclear([^>]*?)>(.*?)</unclear>", r"\2", strXMLText)
-		# strXMLText = re.sub(r"<hi ([^>]*?)>(.*?)</hi>", r"\2", strXMLText)
-
 		# Discard a bunch of stuff that we don't really care about in this context
 		strXMLText = re.sub(r"<([/]*)gap([/]*)>", "", strXMLText)
 		strXMLText = re.sub(r"<([/]*)gap ([^>]*?)>", "", strXMLText)
-		# strXMLText = re.sub(r"<g ([^>]*?)>([^<]*)</g>", "", strXMLText)
-		# strXMLText = re.sub(r"<g>([^<]*)</g>", "", strXMLText)
-		# strXMLText = re.sub(r"<g([^>]*?)>", "", strXMLText)
-		# strXMLText = re.sub(r"<surplus([^>]*?)>(.*?)</surplus>", "", strXMLText)
 		strXMLText = re.sub(r"<orgName>(.*?)</orgName>", "", strXMLText)
 		strXMLText = re.sub(r"<([/]*)handShift([^>]*?)>", "", strXMLText)
-		# strXMLText = re.sub(r"<unclear([^>]*?)>", "", strXMLText)
 		strXMLText = re.sub(r"<space([^>]*?)>", "", strXMLText)
+		strXMLText = re.sub(r"<sic([^>]*?)>(.*?)</sic>", r"", strXMLText)
+		strXMLText = re.sub(r"<([/]*)sic([/]*)>", "", strXMLText)
+		strXMLText = re.sub(r"<corr([^>]*?)>(.*?)</corr>", r"\2", strXMLText)
+
+		# Deal with <app>
+		strXMLText = re.sub(r"<app>(.*?)</app>", r"§\1§", strXMLText)
+		strXMLText = re.sub(r"<app([^>]*)>(.*?)</app>", r"\2", strXMLText)
+		strXMLText = re.sub(r"<lem>(.*?)</lem>", r"§\1§", strXMLText)
+		strXMLText = re.sub(r"<lem ([^>]*?)>(.*?)</lem>", r"§\2§", strXMLText)
+		strXMLText = re.sub(r"<rdg>(.*?)</rdg>", r"§ª\1§", strXMLText)
 
 		# Substitutions: <subst> <add>replacement</add> <del>erased</del> </subst>
 		strXMLText = re.sub(r"<subst([^>]*?)>(.*?)</subst>", r"\2", strXMLText)
@@ -163,89 +162,52 @@ for strTextFullPath in vTextFullPaths:
 		strXMLText = re.sub(r"<add>(.*?)</add>", r"\1", strXMLText)
 		strXMLText = re.sub(r"<add(([^>]|\s)*?)>(.*?)</add>", r"\2", strXMLText)
 
-		# Choice: <choice>
-		# strXMLText = re.sub(r"<choice>(.*?)</choice>", r"§\1§", strXMLText)
-		# strXMLText = re.sub(r"<choice([^>]*?)>(.*?)</choice>", r"§\2§", strXMLText)
-		# strXMLText = re.sub(r"<([/]*)choice([/]*)>", "", strXMLText)
-		strXMLText = re.sub(r"(\s*)<choice([^>]*?)>", r"<w><choice \1>", strXMLText)
-		strXMLText = re.sub(r"</choice>(\s*)", r"</choice></w>", strXMLText)
+		# Supplied, Orig/Reg, expan, abbr, unclear, hi, choice
+		strXMLText = re.sub(r'<supplied reason="\w+"/>', '', strXMLText)
+		strXMLText = re.sub(r'(\s+)<supplied([^>]*?)>(.*?)</supplied>(\s+)', r"\1<w><supplied \2>\3</supplied></w>\4", strXMLText)
+		strXMLText = re.sub(r'^\s+<supplied([^>]*?)>(.*?)</supplied>(\s+)', r"<w><supplied \1>\2</supplied></w>\3", strXMLText)
+		strXMLText = re.sub(r'(\s+)<supplied([^>]*?)>(.*?)</supplied>^\s+', r"\1<w><supplied \2>\3</supplied></w>", strXMLText)
 
-		strXMLText = re.sub(r"<sic([^>]*?)>(.*?)</sic>", r"", strXMLText)
-		strXMLText = re.sub(r"<([/]*)sic([/]*)>", "", strXMLText)
-		strXMLText = re.sub(r"<corr([^>]*?)>(.*?)</corr>", r"\2", strXMLText)
+		strXMLText = re.sub(r'(\s+)<reg([^>]*?)>(.*?)</reg>(\s+)', r"\1<w><reg \2>\3</reg></w>\4", strXMLText)
+		strXMLText = re.sub(r'^\s+<reg([^>]*?)>(.*?)</reg>(\s+)', r"<w><reg \1>\2</reg></w>\3", strXMLText)
+		strXMLText = re.sub(r'(\s+)<reg([^>]*?)>(.*?)</reg>^\s+', r"\1<w><reg \2>\3</reg></w>", strXMLText)
 
-		# Orig/Reg
-		strXMLText = re.sub(r"<orig([^>]*?)>(.*?)</orig>", r"", strXMLText)
-		strXMLText = re.sub(r"<reg([^>]*?)>(.*?)</reg>", r"\2", strXMLText)
+		strXMLText = re.sub(r'(\s+)<expan([^>]*?)>(.*?)</expan>(\s+)', r"\1<w><expan \2>\3</expan></w>\4", strXMLText)
+		strXMLText = re.sub(r'^\s+<expan([^>]*?)>(.*?)</expan>(\s+)', r"<w><expan \1>\2</expan></w>\3", strXMLText)
+		strXMLText = re.sub(r'(\s+)<expan([^>]*?)>(.*?)</expan>^\s+', r"\1<w><expan \2>\3</expan></w>", strXMLText)
 
-		# Deal roughly with word breaks and <foreign ...>
-		# Foreign may have one or more words with it
-		# strXMLText = re.sub(r"<foreign xml\:lang=\"(\w+)\">", r"<w><foreign xml:lang='\1'>", strXMLText)
-		# strXMLText = re.sub(r"<foreign xml\:lang=\"(\w+(?:-\w+))\">", r"<w><foreign xml:lang='\1'>", strXMLText)
-		# strXMLText = re.sub(r"<foreign\s*>", r"<w><foreign>", strXMLText)
-		# strXMLText = re.sub(r"<foreign>", r"<w><foreign>", strXMLText)
-		# strXMLText = re.sub(r"</foreign>", r"</foreign></w>", strXMLText)
+		strXMLText = re.sub(r'(\s+)<abbr([^>]*?)>(.*?)</abbr>(\s+)', r"\1<w><abbr \2>\3</abbr></w>\4", strXMLText)
+		strXMLText = re.sub(r'^\s+<abbr([^>]*?)>(.*?)</abbr>(\s+)', r"<w><abbr \1>\2</abbr></w>\3", strXMLText)
+		strXMLText = re.sub(r'(\s+)<abbr([^>]*?)>(.*?)</abbr>^\s+', r"\1<w><abbbr \2>\3</abbr></w>", strXMLText)
 
-		# Deal with word breaks and <num ...>
-		# strXMLText = re.sub(r"<num([^>]*?)>", r"<w><num \1>", strXMLText)
-		# strXMLText = re.sub(r"</num>", r"</num></w>", strXMLText)
+		strXMLText = re.sub(r'(\s+)<unclear([^>]*?)>(.*?)</unclear>(\s+)', r"\1<w><unclear \2>\3</unclear></w>\4", strXMLText)
+		strXMLText = re.sub(r'^\s+<unclear([^>]*?)>(.*?)</unclear>(\s+)', r"<w><unclear \1>\2</unclear></w>\3", strXMLText)
+		strXMLText = re.sub(r'(\s+)<unclear([^>]*?)>(.*?)</unclear>^\s+', r"\1<w><unclear \2>\3</unclear></w>", strXMLText)
 
-		# Deal with <expan>
-		# strXMLText = re.sub(r"<expan>(.*?)</expan>", r"<w><expan>\1</expan></w>", strXMLText)
-		# strXMLText = re.sub(r"<expan([^>]*?)>(.*?)</expan>", r"<w><expan \1>\2</expan></w>", strXMLText)
-		strXMLText = re.sub(r"(\s*)<expan([^>]*?)>", r"<w><expan \1>", strXMLText)
-		strXMLText = re.sub(r"</expan>(\s*)", r"</expan></w>", strXMLText)
-		#
-		# strXMLText = re.sub(r"<abbr>(.*?)</abbr>", r"§\1", strXMLText)
-		# strXMLText = re.sub(r"<([/]*)abbr([/]*)>", "", strXMLText)
+		strXMLText = re.sub(r'(\s+)<hi([^>]*?)>(.*?)</hi>(\s+)', r"\1<w><hi \2>\3</hi></w>\4", strXMLText)
+		strXMLText = re.sub(r'^\s+<hi([^>]*?)>(.*?)</hi>(\s+)', r"<w><hi \1>\2</hi></w>\3", strXMLText)
+		strXMLText = re.sub(r'(\s+)<hi([^>]*?)>(.*?)</hi>^\s+', r"\1<w><hi \2>\3</hi></w>", strXMLText)
 
-		# Deal with <app>
-		strXMLText = re.sub(r"<app>(.*?)</app>", r"§\1§", strXMLText)
-		strXMLText = re.sub(r"<app([^>]*)>(.*?)</app>", r"\2", strXMLText)
-		strXMLText = re.sub(r"<lem>(.*?)</lem>", r"§\1§", strXMLText)
-		strXMLText = re.sub(r"<lem ([^>]*?)>(.*?)</lem>", r"§\2§", strXMLText)
-		strXMLText = re.sub(r"<rdg>(.*?)</rdg>", r"§ª\1§", strXMLText)
-
-		# Normalized
-
-		# Expanding abbreviations and such
-		# strXMLText = re.sub(r"<am>(.*?)</am>", r"", strXMLText)
-		# strXMLText = re.sub(r"<am/>", r"", strXMLText)
-		# strXMLText = re.sub(r"<ex>(.*?)</ex>", r"\1§", strXMLText)
-		# strXMLText = re.sub(r"<ex ([^>]*?)>(.*?)</ex>", r"\2§", strXMLText)
-
-		# Replace all spaces as word breaks
-		# strXMLText = re.sub(r"\s+", "§", strXMLText)
-		# strXMLText = re.sub(r"[\.\,\;‧·⋅•∙]", "§", strXMLText)
-		# strXMLText = re.sub(r"§\?§", "§", strXMLText)
+		strXMLText = re.sub(r'(\s+)<choice([^>]*?)>(.*?)</choice>(\s+)', r"\1<w><choice \2>\3</choice></w>\4", strXMLText)
+		strXMLText = re.sub(r'^\s+<choice([^>]*?)>(.*?)</choice>(\s+)', r"<w><choice \1>\2</choice></w>\3", strXMLText)
+		strXMLText = re.sub(r'(\s+)<choice([^>]*?)>(.*?)</choice>^\s+', r"\1<w><choice \2>\3</choice></w>", strXMLText)
 
 
-		# TEMP ELIMINATE FOREIGN AND NUM
-		# strXMLText = re.sub(r"<foreign([^>]*?)>(.*?)</foreign>", r"\2", strXMLText)
-		# strXMLText = re.sub(r"<num([^>]*?)>(.*?)</num>", r"\2", strXMLText)
-		# strXMLText = re.sub(r"<num>(.*?)</num>", r"\1", strXMLText)
+		strXMLText = re.sub(r"§+", "§", strXMLText)
+		strXMLText = re.sub(r"§", " ", strXMLText)
 
+		editionInput = etree.XML(strXMLText, parser)
+	except Exception as e:
 
-		# Collapse word breaks and reinstate line breaks
-		# strXMLText = re.sub(r"¶", "\n", strXMLText)    # Reinstate line breaks
-		strXMLText = re.sub(r"§+", "§", strXMLText)    # Finally, collapse word breaks
-		# strXMLText = re.sub(r"§¶§", "§¶", strXMLText)  # Only one word break with line break
-
-		# With all tags removed, discard any remaining quotes
-		# strXMLText = re.sub(r"\"", "", strXMLText)
-
-		print('########')
-		print('########')
-		print('########')
+		print('#' * 20)
+		print('Error with parsing edition as XML:')
+		print(e)
 		print(strTextFullPath)
 		print(strXMLText)
-		print('########')
-		print('########')
-		print('########')
+		print('#' * 20)
 
-		strXMLText = re.sub(r"§", " ", strXMLText)    # Finally, collapse word breaks
-		editionInput = etree.XML(strXMLText, parser)
-	except:
+		transformationErrors += 1
+
 		continue
 
 	# iterate through both text and element nodes of the <p> element
@@ -348,33 +310,39 @@ for strSegmentedTextFullPath in vSegmentedTexts:
 		wordElemText = wordElemText.replace('xmlns="http://www.tei-c.org/ns/1.0"', "")
 		wordElemText = wordElemText.replace('xmlns:xi="http://www.w3.org/2001/XInclude"', "")
 
+		# check if <num> elem is in text (quick method)
+		wordIsNum = 0
+		if "<num" in wordElemText:
+			wordIsNum = 1
+
 		# add version to unique/alphabetize on
-		wordElemToken = ''.join(wordElem.itertext()).strip()
+		normalized = ''.join(wordElem.itertext()).strip()
 
 		if wordElemText and len(wordElemText):
+			wordParams = wordElem.attrib[XML_NS + 'id'].split('-')
+			text = "{}.xml".format(wordParams[0])
+			wordNumber = wordParams[1]
+
 			if wordElem.attrib[XML_NS + 'lang'] in WORD_LISTS:
-				if wordElemToken in WORD_LISTS[wordElem.attrib[XML_NS + 'lang']]:
-					WORD_LISTS[wordElem.attrib[XML_NS + 'lang']][wordElemToken].append(wordElemText)
-				else:
-					WORD_LISTS[wordElem.attrib[XML_NS + 'lang']][wordElemToken] = [wordElemText]
+				WORD_LISTS[wordElem.attrib[XML_NS + 'lang']].append([text, wordNumber, normalized, wordElem.attrib[XML_NS + 'lang'], wordIsNum])
 			else:
-				WORD_LISTS[wordElem.attrib[XML_NS + 'lang']] = {}
-				WORD_LISTS[wordElem.attrib[XML_NS + 'lang']][wordElemToken] = [wordElemText]
+				WORD_LISTS[wordElem.attrib[XML_NS + 'lang']] = [[text, wordNumber, normalized, wordElem.attrib[XML_NS + 'lang'], wordIsNum]]
+
+
 
 # Write word lists to CSV files
 for lang in WORD_LISTS:
 
-	# Sort alphabetically
-	sorted_lang_dict = collections.OrderedDict(sorted(WORD_LISTS[lang].items()))
-
 	# write to file
-	with open(strPathListOut + '/word_list_{}.csv'.format(lang), 'w') as csvfile:
+	with open(strPathListOut + '/word_list_{}.csv'.format(lang.lower()), 'w') as csvfile:
 		csvwriter = csv.writer(csvfile)
-		for word in sorted_lang_dict:
-			row = []
-			row.append(word)
-			row.append(len(sorted_lang_dict[word]))
-			row.extend(sorted_lang_dict[word])
-			csvwriter.writerow(row)
+		for word_row in WORD_LISTS[lang]:
+			csvwriter.writerow(word_row)
 
+print("#" * 20)
+print("#" * 20)
+print("Total word count:")
 print(WORD_COUNT)
+print("Transformation errors:")
+print(transformationErrors)
+print("#" * 20)

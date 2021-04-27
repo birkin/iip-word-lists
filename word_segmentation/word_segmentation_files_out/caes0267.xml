@@ -119,17 +119,17 @@
       <body>
          <div type="edition" ana="#b1" subtype="transcription" xml:id="caes0267.transcription" corresp="#caes0267.translation">
             <p>
-               <supplied reason="undefined">θ</supplied>
-               <unclear>ή</unclear>κη Ε<unclear>ὐ</unclear>
+               <supplied reason="undefined">θ</supplied><unclear>ή</unclear>κη
+                     <orig>Ε<unclear>ὐ</unclear></orig>
                <gap reason="illegible" quantity="2" unit="character"/>
                <lb/>
-               <supplied reason="undefined">ο</supplied>υ καὶ Μα<gap reason="illegible" quantity="2" unit="character"/>
+               <orig><supplied reason="undefined">ο</supplied>υ</orig> καὶ <orig>Μα</orig><gap reason="illegible" quantity="2" unit="character"/>
             </p>
          </div>
          <div type="translation" ana="#b1" xml:id="caes0267.translation" corresp="#caes0267.transcription">
             <p>The tomb of Eu-- and Ma-- ....</p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="caes0267-1" xml:lang="grc"><supplied reason="undefined">θ</supplied></w><w xml:id="caes0267-2" xml:lang="grc">ήκη</w> <w xml:id="caes0267-3" xml:lang="grc">Εὐ</w><w xml:id="caes0267-4" xml:lang="grc"><supplied reason="undefined">ο</supplied></w><w xml:id="caes0267-5" xml:lang="grc">υ</w> <w xml:id="caes0267-6" xml:lang="grc">καὶ</w> <w xml:id="caes0267-7" xml:lang="grc">Μα</w></p>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="caes0267-1" xml:lang="grc">κη</w><w xml:id="caes0267-2" xml:lang="grc">καὶ</w></p>
 </div>
 </body>
       <back>

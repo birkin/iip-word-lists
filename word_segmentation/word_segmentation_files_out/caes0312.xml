@@ -76,7 +76,7 @@
                         <settlement ref="http://pleiades.stoa.org/places/678401">Caesarea</settlement>
                         <geogName type="site"/>
                      </placeName>
-                     <p>Unknown.</p>
+                     <p>Unknown</p>
                   </origin>
                   <provenance>
                      <placeName> Unknown </placeName>
@@ -116,11 +116,11 @@
       <body>
          <div type="edition" ana="#b1" subtype="transcription" xml:id="caes0312.transcription">
             <p>
-               <gap reason="illegible" quantity="3" unit="character"/> Σωσιπόλε<lb break="no"/><supplied reason="undefined">ως</supplied>
+               <gap reason="illegible" quantity="3" unit="character"/> Σωσιπόλε<lb break="no"/><orig><supplied reason="undefined">ως</supplied></orig>
                <gap reason="illegible" quantity="6" unit="character"/>
             </p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="caes0312-1" xml:lang="grc">Σωσιπόλε</w><w xml:id="caes0312-2" xml:lang="grc"><supplied reason="undefined">ως</supplied></w></p>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="caes0312-1" xml:lang="grc">Σωσιπόλε</w></p>
 </div>
 </body>
       <back>

@@ -140,18 +140,27 @@
    <text>
       <body>
          <div type="edition" ana="#b1" xml:lang="grc" subtype="transcription" xml:id="zoor0051.transcription" corresp="#zoor0051.translation">
-            <p>+<choice><sic>Μνημῖον</sic><corr>Μνημεῖον</corr></choice> Μίλ<lb break="no"/>χι Μαξίμου, ἀπο<lb break="no"/>θανόντος
-               ἐτῶ<lb break="no"/>ν <num>νεʹ</num>, <expan><abbr>ἔτ</abbr><ex>ους</ex></expan> σπʹ, <lb/>
+            <p><g type="cross">+</g>
+               <choice>
+                  <sic>Μνημῖον</sic>
+                  <corr>Μνημεῖον</corr>
+               </choice> Μίλ<lb break="no"/>χι Μαξίμου, ἀπο<lb break="no"/>θανόντος ἐτῶ<lb break="no"/>ν <num>νεʹ</num>, <expan><abbr>ἔτ</abbr><ex>ους</ex></expan> σπʹ, <lb/>
                <expan><abbr>μη</abbr><ex>νὸς</ex></expan> Δύστρου <num>ειʹ</num>, <lb/>
                <expan><abbr>ἡμ</abbr><ex>έρα</ex></expan> Διός.<lb/>
-               <choice><sic>Θάρσι</sic><corr>θάρσει</corr></choice>, Μίλχι, <choice><sic>οὐ<lb break="no"/>δὶς</sic><corr>οὐδέις</corr></choice> ἀθάνατος.</p>
+               <choice>
+                  <sic>Θάρσι</sic>
+                  <corr>θάρσει</corr>
+               </choice>, Μίλχι, <choice>
+                  <sic>οὐ<lb break="no"/>δὶς</sic>
+                  <corr>οὐδέις</corr>
+               </choice> ἀθάνατος.</p>
          </div>
          <div type="translation" ana="#b1" xml:id="zoor0051.translation" corresp="#zoor0051.transcription">
             <p>Monument of Milchis, (son) of Maximus, who died (at the age) of 55 years, in
                     (the) year 280, on (the) 15th (day) of (the) month Dystros, on (the) day of
                     Jupiter (Thursday). Be of good cheer, Milchis, no one (is) immortal.</p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="zoor0051-1" xml:lang="grc"><choice>Μνημεῖον</choice></w><w xml:id="zoor0051-2" xml:lang="grc">Μίλχι</w> <w xml:id="zoor0051-3" xml:lang="grc">Μαξίμου</w> <w xml:id="zoor0051-4" xml:lang="grc">ἀποθανόντος</w> <w xml:id="zoor0051-5" xml:lang="grc">ἐτῶν</w><num>νεʹ</num><w xml:id="zoor0051-6" xml:lang="grc"><expan><abbr>ἔτ</abbr><ex>ους</ex></expan></w><w xml:id="zoor0051-7" xml:lang="grc">σπ</w><w xml:id="zoor0051-8" xml:lang="grc"><expan><abbr>μη</abbr><ex>νὸς</ex></expan></w><w xml:id="zoor0051-9" xml:lang="grc">Δύστρου</w><num>ειʹ</num><w xml:id="zoor0051-10" xml:lang="grc"><expan><abbr>ἡμ</abbr><ex>έρα</ex></expan></w><w xml:id="zoor0051-11" xml:lang="grc">Διός</w><w xml:id="zoor0051-12" xml:lang="grc"><choice>θάρσει</choice></w><w xml:id="zoor0051-13" xml:lang="grc">Μίλχι</w><w xml:id="zoor0051-14" xml:lang="grc"><choice>οὐδέις</choice></w><w xml:id="zoor0051-15" xml:lang="grc">ἀθάνατος</w></p>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="zoor0051-1" xml:lang="grc">Μίλχι</w> <w xml:id="zoor0051-2" xml:lang="grc">Μαξίμου</w> <w xml:id="zoor0051-3" xml:lang="grc">ἀποθανόντος</w> <w xml:id="zoor0051-4" xml:lang="grc">ἐτῶν</w><num>νεʹ</num><w xml:id="zoor0051-5" xml:lang="grc"><expan><abbr>ἔτ</abbr><ex>ους</ex></expan></w><w xml:id="zoor0051-6" xml:lang="grc">σπ</w><w xml:id="zoor0051-7" xml:lang="grc"><expan><abbr>μη</abbr><ex>νὸς</ex></expan></w><w xml:id="zoor0051-8" xml:lang="grc">Δύστρου</w><num>ειʹ</num><w xml:id="zoor0051-9" xml:lang="grc"><expan><abbr>ἡμ</abbr><ex>έρα</ex></expan></w><w xml:id="zoor0051-10" xml:lang="grc">Διός</w><w xml:id="zoor0051-11" xml:lang="grc">Μίλχι</w><w xml:id="zoor0051-12" xml:lang="grc">ἀθάνατος</w></p>
 </div>
 </body>
       <back>

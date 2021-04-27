@@ -191,7 +191,7 @@
             </div>
             <!-- The bibl has more contained elements. What is the possible list of values of the biblScope/@type? 
              -->
-        <div type="edition" subtype="transcription_segmented"><p><w xml:id="jaff0054-1" xml:lang="he"><supplied reason="lost">זה מק</supplied></w><w xml:id="jaff0054-2" xml:lang="he">ום</w> <w xml:id="jaff0054-3" xml:lang="he">הציעתו</w> <w xml:id="jaff0054-4" xml:lang="he">של</w><w xml:id="jaff0054-5" xml:lang="he"><supplied reason="omitted">ל</supplied></w><w xml:id="jaff0054-6" xml:lang="he">עזר</w> <w xml:id="jaff0054-7" xml:lang="he">בן</w> <w xml:id="jaff0054-8" xml:lang="he">יהושוע</w> <w xml:id="jaff0054-9" xml:lang="he">שלום</w> <w xml:id="jaff0054-10" xml:lang="he">מאמא</w> <w xml:id="jaff0054-11" xml:lang="he">ושלום</w></p>
+        <div type="edition" subtype="transcription_segmented"><p><w xml:id="jaff0054-1" xml:lang="he">ום</w> <w xml:id="jaff0054-2" xml:lang="he">הציעתו</w><w xml:id="jaff0054-3" xml:lang="he">ל</w><w xml:id="jaff0054-4" xml:lang="he">עזר</w> <w xml:id="jaff0054-5" xml:lang="he">בן</w> <w xml:id="jaff0054-6" xml:lang="he">יהושוע</w> <w xml:id="jaff0054-7" xml:lang="he">שלום</w><w xml:id="jaff0054-8" xml:lang="he"><unclear cert="low">מ</unclear>א<unclear cert="low">מא</unclear></w><w xml:id="jaff0054-9" xml:lang="he">שלום</w></p>
 </div>
 </body>
         <back>

@@ -113,12 +113,12 @@
    <text>
       <body>
          <div type="edition" ana="#b1" xml:lang="grc" subtype="transcription" xml:id="elus0003.transcription" corresp="#elus0003.translation">
-            <p>Θάρσι, Ἀβ<lb/>δαλγῆ, οὐδίς <lb/>ἀθάνατος ἐτῶ<lb/>ν ϛζʹ μηνὸς Δύσ<lb/>τρου διʹ</p>
+            <p>Θάρσι, Ἀβ<lb break="no"/>δαλγῆ, οὐδίς <lb/>ἀθάνατος ἐτῶ<lb break="no"/>ν <num value="66">ϛζʹ</num> μηνὸς Δύσ<lb break="no"/>τρου <num value="14">διʹ</num></p>
          </div>
          <div type="translation" ana="#b1" xml:id="elus0003.translation" corresp="#elus0003.transcription">
             <p>Courage, 'Abdalga, no one is immortal; aged 66, 14th of Dystros</p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="elus0003-1" xml:lang="grc">Θάρσι</w> <w xml:id="elus0003-2" xml:lang="grc">Ἀβ</w> <w xml:id="elus0003-3" xml:lang="grc">δαλγῆ</w> <w xml:id="elus0003-4" xml:lang="grc">οὐδίς</w> <w xml:id="elus0003-5" xml:lang="grc">ἀθάνατος</w> <w xml:id="elus0003-6" xml:lang="grc">ἐτῶ</w> <w xml:id="elus0003-7" xml:lang="grc">ν</w> <w xml:id="elus0003-8" xml:lang="grc">ϛζ</w> <w xml:id="elus0003-9" xml:lang="grc">μηνὸς</w> <w xml:id="elus0003-10" xml:lang="grc">Δύσ</w> <w xml:id="elus0003-11" xml:lang="grc">τρου</w> <w xml:id="elus0003-12" xml:lang="grc">δι</w></p>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="elus0003-1" xml:lang="grc">Θάρσι</w> <w xml:id="elus0003-2" xml:lang="grc">Ἀβδαλγῆ</w> <w xml:id="elus0003-3" xml:lang="grc">οὐδίς</w> <w xml:id="elus0003-4" xml:lang="grc">ἀθάνατος</w> <w xml:id="elus0003-5" xml:lang="grc">ἐτῶν</w><num value="66">ϛζʹ</num><w xml:id="elus0003-6" xml:lang="grc">μηνὸς</w> <w xml:id="elus0003-7" xml:lang="grc">Δύστρου</w><num value="14">διʹ</num></p>
 </div>
 </body>
       <back>

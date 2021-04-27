@@ -127,7 +127,7 @@
 						son of <persName type="patr" xml:lang="grc " ref="persons.xml#beth0091p02">Doron</persName>.</name>
             </p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="beth0091-1" xml:lang="grc">Σαλλὸμ</w> <w xml:id="beth0091-2" xml:lang="grc">Ἀταν</w> <w xml:id="beth0091-3" xml:lang="grc">Δώρου</w></p>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="beth0091-1" xml:lang="grc"><unclear>Σαλλὸμ</unclear></w><w xml:id="beth0091-2" xml:lang="grc">Ἀταν</w> <w xml:id="beth0091-3" xml:lang="grc">Δώρου</w></p>
 </div>
 </body>
       <back>

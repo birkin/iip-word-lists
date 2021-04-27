@@ -123,7 +123,7 @@
                </rs>
             </p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="beth0198-1" xml:lang="grc"><choice>Μεωνιτῶν</choice></w></p>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="beth0198-1" xml:lang="grc"><choice><orig>Μεωνιτον</orig><reg>Μεωνιτῶν</reg></choice></w></p>
 </div>
 </body>
       <back>

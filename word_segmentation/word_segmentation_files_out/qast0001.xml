@@ -133,7 +133,7 @@
             <p>"[Let so-and-so be remembered, who built this most beautiful (?)] house in this
                     village. Remember, O Lord, (the) sinner (lit. doer of foolishness) Leone!"</p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="qast0001-1" xml:lang="grc">ιστον</w> <w xml:id="qast0001-2" xml:lang="grc">τὸν</w> <w xml:id="qast0001-3" xml:lang="grc">οἶκον</w> <w xml:id="qast0001-4" xml:lang="grc">ἐν</w><w xml:id="qast0001-5" xml:lang="grc"><supplied reason="omitted">τ</supplied></w><w xml:id="qast0001-6" xml:lang="grc">ῆς</w> <w xml:id="qast0001-7" xml:lang="grc">κώμης</w> <w xml:id="qast0001-8" xml:lang="grc">ταύτης</w></p>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="qast0001-1" xml:lang="grc">ιστον</w> <w xml:id="qast0001-2" xml:lang="grc">τὸν</w><w xml:id="qast0001-3" xml:lang="grc"><choice>οἶκον</choice></w><w xml:id="qast0001-4" xml:lang="grc">ἐν</w><w xml:id="qast0001-5" xml:lang="grc"><choice>κώμης</choice></w></p>
 </div>
 </body>
       <back>

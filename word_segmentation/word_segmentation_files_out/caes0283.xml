@@ -123,12 +123,12 @@
                <gap reason="lost" extent="unknown" unit="character"/>
                <lb/>
                <gap reason="lost" extent="unknown" unit="character"/>
-               <unclear>ο</unclear>
+               <orig><unclear>ο</unclear></orig>
                <gap reason="illegible" quantity="1" unit="character"/>
                <gap reason="lost" extent="unknown" unit="character"/>
             </p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="caes0283-1" xml:lang="grc"><supplied reason="undefined">θ</supplied></w><w xml:id="caes0283-2" xml:lang="grc">ήκη</w> <w xml:id="caes0283-3" xml:lang="grc">ο</w></p>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="caes0283-1" xml:lang="grc">ήκη</w></p>
 </div>
 </body>
       <back>

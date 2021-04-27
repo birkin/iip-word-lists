@@ -135,7 +135,7 @@
          <div type="translation" ana="#b1" xml:id="elal0007.translation" corresp="#elal0007.diplomatic #elal0007.transcription">
             <p>Be of good courage, Antoninos! Twenty-five years old.</p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="elal0007-1" xml:lang="grc">θάρσι</w><w xml:id="elal0007-2" xml:lang="grc"><choice>Ἀν</choice></w><w xml:id="elal0007-3" xml:lang="grc">τωνῖνε</w><w xml:id="elal0007-4" xml:lang="grc"><expan><abbr><am>ι</am></abbr><ex cert="low">ἐτῶν</ex></expan></w><num value="25">κε</num></p>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="elal0007-1" xml:lang="grc">θάρσι</w><w xml:id="elal0007-2" xml:lang="grc">τωνῖνε</w><w xml:id="elal0007-3" xml:lang="grc"><expan><abbr><am>ι</am></abbr><ex cert="low">ἐτῶν</ex></expan></w><num value="25">κε</num></p>
 </div>
 </body>
       <back>

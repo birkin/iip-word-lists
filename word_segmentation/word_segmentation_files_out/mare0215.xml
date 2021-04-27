@@ -146,7 +146,7 @@
             <div type="commentary" ana="b1">
                 <p/>
             </div>
-        <div type="edition" subtype="transcription_segmented"><p><w xml:id="mare0215-1" xml:lang="grc"><expan><abbr><am>L</am></abbr><ex>ἔτους</ex></expan></w><num value="201">ασ´</num><w xml:id="mare0215-2" xml:lang="grc">ἀγορανομο</w><w xml:id="mare0215-3" xml:lang="grc">ντος</w> <w xml:id="mare0215-4" xml:lang="grc">Σωσιβ</w><w xml:id="mare0215-5" xml:lang="grc"><supplied reason="lost">ί</supplied></w><w xml:id="mare0215-6" xml:lang="grc">ου</w></p>
+        <div type="edition" subtype="transcription_segmented"><p><w xml:id="mare0215-1" xml:lang="grc"><expan><abbr><am>L</am></abbr><ex>ἔτους</ex></expan></w><num value="201">ασ´</num><w xml:id="mare0215-2" xml:lang="grc">ἀγορανομο</w><w xml:id="mare0215-3" xml:lang="grc">ντος</w> <w xml:id="mare0215-4" xml:lang="grc">Σ</w><w xml:id="mare0215-5" xml:lang="grc">σι</w><w xml:id="mare0215-6" xml:lang="grc"><supplied reason="lost">ί</supplied></w><w xml:id="mare0215-7" xml:lang="grc">υ</w></p>
 </div>
 </body>
         <back>

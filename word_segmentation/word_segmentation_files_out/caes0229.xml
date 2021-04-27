@@ -70,13 +70,13 @@
                <!-- ********* <history> ********* -->
                <history>
                   <origin>
-                     <date period="http://n2t.net/ark:/99152/p0m63njjcn4" notBefore="0300" notAfter="0650">300-650.</date>
+                     <date period="http://n2t.net/ark:/99152/p0m63njjcn4" notBefore="0300" notAfter="0650">300-650 CE</date>
                      <placeName>
                         <region>Coastal Plain</region>
                         <settlement ref="http://pleiades.stoa.org/places/678401">Caesarea</settlement>
                         <geogName type="site"/>
                      </placeName>
-                                       </origin>
+                  </origin>
                   <provenance>
                      <placeName> Unknown </placeName>
                      <date/>
@@ -115,14 +115,14 @@
       <body>
          <div type="edition" ana="#b1" subtype="transcription" xml:id="caes0229.transcription" corresp="#caes0229.translation">
             <p>
-               <supplied reason="undefined">θήκη</supplied>Γεωρ<lb break="no"/><supplied reason="undefined">γίου</supplied> <supplied reason="undefined">σ</supplied>ὺν Μαρ<lb break="no"/><supplied reason="undefined">ίᾳ</supplied> <supplied reason="undefined">κα</supplied>ὶ τέ<lb break="no"/><supplied reason="undefined">κνω</supplied>ν. +
+               <supplied reason="undefined">θήκη</supplied>Γεωρ<lb break="no"/><supplied reason="undefined">γίου</supplied> <supplied reason="undefined">σ</supplied>ὺν Μαρ<lb break="no"/><supplied reason="undefined">ίᾳ</supplied> <supplied reason="undefined">κα</supplied>ὶ τέ<lb break="no"/><supplied reason="undefined">κνω</supplied>ν. <g type="cross">+</g>
 </p>
          </div>
          <div type="translation" ana="#b1" xml:id="caes0229.translation" corresp="#caes0229.transcription">
             <p>The tomb of  <persName xml:lang="grc " ref="persons.xml#caes0229p01">Georgios </persName> with <persName ref="persons.xml#caes0229p02">Maria </persName> and their <rs type="family">children</rs>.
 				</p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="caes0229-1" xml:lang="grc"><supplied reason="undefined">θήκη</supplied></w><w xml:id="caes0229-2" xml:lang="grc">Γεωρ</w><w xml:id="caes0229-3" xml:lang="grc"><supplied reason="undefined">γίου</supplied></w><w xml:id="caes0229-4" xml:lang="grc"><supplied reason="undefined">σ</supplied></w><w xml:id="caes0229-5" xml:lang="grc">ὺν</w> <w xml:id="caes0229-6" xml:lang="grc">Μαρ</w><w xml:id="caes0229-7" xml:lang="grc"><supplied reason="undefined">ίᾳ</supplied></w><w xml:id="caes0229-8" xml:lang="grc"><supplied reason="undefined">κα</supplied></w><w xml:id="caes0229-9" xml:lang="grc">ὶ</w> <w xml:id="caes0229-10" xml:lang="grc">τέ</w><w xml:id="caes0229-11" xml:lang="grc"><supplied reason="undefined">κνω</supplied></w><w xml:id="caes0229-12" xml:lang="grc">ν</w></p>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="caes0229-1" xml:lang="grc"><supplied reason="undefined">θήκη</supplied>Γεωρ<supplied reason="undefined">γίου</supplied></w><w xml:id="caes0229-2" xml:lang="grc">ὺν</w> <w xml:id="caes0229-3" xml:lang="grc">Μαρ</w><w xml:id="caes0229-4" xml:lang="grc">ὶ</w> <w xml:id="caes0229-5" xml:lang="grc">τέ</w><w xml:id="caes0229-6" xml:lang="grc">ν</w></p>
 </div>
 </body>
       <back>

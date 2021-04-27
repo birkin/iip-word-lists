@@ -146,7 +146,8 @@
                      <date period="http://n2t.net/ark:/99152/p0m63njtmv8" notBefore="0270" notAfter="0325">270 CE to 325 CE</date>
                      <placeName>
                         <region>Galilee</region>
-                        <settlement>Hammath Tiberias<geo>32.7685,35.5485</geo></settlement>
+                        <settlement ref="https://pleiades.stoa.org/places/678431">Hammath
+                              Tiberias<geo>32.7685,35.5485</geo></settlement>
                         <geogName type="site">Synagogue of Severos</geogName>
                         <geogFeat type="locus">Nave</geogFeat>
                      </placeName>
@@ -223,9 +224,7 @@
             <p>Aries Taurus [Gemi]ni [Cancer] Leo Virgo Libra [Scorpio Sagittarius] Capricorn Aquarius Pisces
                 </p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="tibe0001-1" xml:lang="he">טלה</w> <w xml:id="tibe0001-2" xml:lang="he">שור</w><w xml:id="tibe0001-3" xml:lang="he"><supplied reason="undefined">
-                        תאומ
-                    </supplied></w><w xml:id="tibe0001-4" xml:lang="he">ים</w> <w xml:id="tibe0001-5" xml:lang="he">אריה</w> <w xml:id="tibe0001-6" xml:lang="he">בתולה</w> <w xml:id="tibe0001-7" xml:lang="he">מוזנים</w> <w xml:id="tibe0001-8" xml:lang="he">גדי</w> <w xml:id="tibe0001-9" xml:lang="he">דלי</w> <w xml:id="tibe0001-10" xml:lang="he">דגים</w></p>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="tibe0001-1" xml:lang="he">טלה</w> <w xml:id="tibe0001-2" xml:lang="he">שור</w><w xml:id="tibe0001-3" xml:lang="he">ים</w> <w xml:id="tibe0001-4" xml:lang="he">אריה</w> <w xml:id="tibe0001-5" xml:lang="he">בתולה</w> <w xml:id="tibe0001-6" xml:lang="he">מוזנים</w> <w xml:id="tibe0001-7" xml:lang="he">גדי</w> <w xml:id="tibe0001-8" xml:lang="he">דלי</w> <w xml:id="tibe0001-9" xml:lang="he">דגים</w></p>
 </div>
 </body>
       <back>

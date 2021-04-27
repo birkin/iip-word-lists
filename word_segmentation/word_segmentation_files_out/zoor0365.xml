@@ -157,8 +157,8 @@
             <div type="commentary" ana="b1">
                 <p>7? Dystros 251 E.P.A = 21 February 357 CE. </p>
             </div>
-        <div type="edition" subtype="transcription_segmented"><p><w xml:id="zoor0365-1" xml:lang="grc"><choice>μνημεῖον</choice></w><w xml:id="zoor0365-2" xml:lang="grc">ἀποθανόντος</w> <w xml:id="zoor0365-3" xml:lang="grc">ἐτῶν</w><num value="6">ς</num><w xml:id="zoor0365-4" xml:lang="grc">ἔτους</w><num value="251">σνα</num><w xml:id="zoor0365-5" xml:lang="grc"><expan><abbr>μη</abbr><ex>νὸς</ex></expan></w><w xml:id="zoor0365-6" xml:lang="grc"><expan><abbr>Δύστ</abbr><ex>ρου</ex></expan></w><num value="7">
-                  ζ
+        <div type="edition" subtype="transcription_segmented"><p><w xml:id="zoor0365-1" xml:lang="grc"><choice><orig>Μνημ<unclear>ῖον</unclear></orig><reg>μνημε<unclear>ῖον</unclear></reg></choice></w><w xml:id="zoor0365-2" xml:lang="grc">ἀποθανόντος</w> <w xml:id="zoor0365-3" xml:lang="grc">ἐτῶν</w><num value="6">ς</num><w xml:id="zoor0365-4" xml:lang="grc">ἔτους</w><num value="251">σνα</num><w xml:id="zoor0365-5" xml:lang="grc"><expan><abbr>μη</abbr><ex>νὸς</ex></expan></w><num value="7">
+                  <w xml:id="zoor0365-6" xml:lang="grc"><unclear>ζ</unclear></w>
                </num></p>
 </div>
 </body>

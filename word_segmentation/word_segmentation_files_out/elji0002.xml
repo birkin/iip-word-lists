@@ -137,7 +137,7 @@
          <div type="translation" ana="#b1" xml:id="elji0002.translation" corresp="#elji0002.transcription">
             <p>(Son) of Haddu (Haddan?)</p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="elji0002-1" xml:lang="arc"><supplied reason="lost">ב</supplied></w><w xml:id="elji0002-2" xml:lang="arc">ר</w><w xml:id="elji0002-3" xml:lang="arc"><choice>חדו חדן</choice></w></p>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="elji0002-1" xml:lang="arc"><supplied reason="lost">ב</supplied></w><w xml:id="elji0002-2" xml:lang="arc">ר</w><w xml:id="elji0002-3" xml:lang="arc"><choice><unclear>חדו </unclear><unclear>חדן</unclear></choice></w></p>
 </div>
 </body>
       <back>

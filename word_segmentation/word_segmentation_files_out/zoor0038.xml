@@ -131,17 +131,30 @@
       <body>
          <div type="edition" ana="#b1" xml:lang="grc" subtype="transcription" xml:id="zoor0038.transcription" corresp="#zoor0038.translation">
             <p>
-               <choice><sic>Μνημῖον</sic><corr>Μνημεῖον</corr></choice> +<lb/> Μερώσθα +<lb/> Ζηνοβίου,<lb/> παυσαμένη<lb/>
-               <expan><abbr>ἐτ</abbr><ex>ῶν</ex></expan> <num>κʹ</num>, ἔτους<lb/> <num>σοβʹ</num>, μηνὶ
-               +<lb/> Δύστρου <num value="30">λʹ</num>, +<lb/> ἡμέρᾳ Ἀφρο<lb break="no"/>δίτης. <choice><sic>Θάρσι</sic><corr>Θάρσει</corr></choice>,<lb/>
-               <choice><sic>οὐδὶς</sic><corr>οὐδείς</corr></choice> ἀθά<lb break="no"/>νατος. + +<lb/> +</p>
+               <choice>
+                  <sic>Μνημῖον</sic>
+                  <corr>Μνημεῖον</corr>
+               </choice>
+               <g type="cross">+</g><lb/> Μερώσθα +<lb/> Ζηνοβίου,<lb/> παυσαμένη<lb/>
+               <expan><abbr>ἐτ</abbr><ex>ῶν</ex></expan>
+               <num>κʹ</num>, ἔτους<lb/>
+               <num>σοβʹ</num>, μηνὶ <g type="cross">+</g><lb/> Δύστρου <num value="30">λʹ</num>, <g type="cross">+</g><lb/> ἡμέρᾳ Ἀφρο<lb break="no"/>δίτης. <choice>
+                  <sic>Θάρσι</sic>
+                  <corr>Θάρσει</corr>
+               </choice>,<lb/>
+               <choice>
+                  <sic>οὐδὶς</sic>
+                  <corr>οὐδείς</corr>
+               </choice> ἀθά<lb break="no"/>νατος. <g type="cross">+</g>
+               <g type="cross">+</g><lb/>
+               <g type="cross">+</g></p>
          </div>
          <div type="translation" ana="#b1" xml:id="zoor0038.translation" corresp="#zoor0038.transcription">
             <p>Monument of Merostha, (daughter) of Zenobios, who died (at the age) of 20 years,
                     in (the) year 272, on (the) 30th (day) of (the) month Dystros, on (the) day of
                     Venus (Friday). Be of good cheer, no one (is) immortal.</p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="zoor0038-1" xml:lang="grc"><choice>Μνημεῖον</choice></w><w xml:id="zoor0038-2" xml:lang="grc">Μερώσθα</w> <w xml:id="zoor0038-3" xml:lang="grc">Ζηνοβίου</w> <w xml:id="zoor0038-4" xml:lang="grc">παυσαμένη</w><w xml:id="zoor0038-5" xml:lang="grc"><expan><abbr>ἐτ</abbr><ex>ῶν</ex></expan></w><num>κʹ</num><w xml:id="zoor0038-6" xml:lang="grc">ἔτους</w><num>σοβʹ</num><w xml:id="zoor0038-7" xml:lang="grc">μηνὶ</w> <w xml:id="zoor0038-8" xml:lang="grc">Δύστρου</w><num value="30">λʹ</num><w xml:id="zoor0038-9" xml:lang="grc">ἡμέρᾳ</w> <w xml:id="zoor0038-10" xml:lang="grc">Ἀφροδίτης</w><w xml:id="zoor0038-11" xml:lang="grc"><choice>Θάρσει</choice></w><w xml:id="zoor0038-12" xml:lang="grc"><choice>οὐδείς</choice></w><w xml:id="zoor0038-13" xml:lang="grc">ἀθάνατος</w></p>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="zoor0038-1" xml:lang="grc">Μερώσθα</w> <w xml:id="zoor0038-2" xml:lang="grc">Ζηνοβίου</w> <w xml:id="zoor0038-3" xml:lang="grc">παυσαμένη</w><w xml:id="zoor0038-4" xml:lang="grc"><expan><abbr>ἐτ</abbr><ex>ῶν</ex></expan></w><num>κʹ</num><w xml:id="zoor0038-5" xml:lang="grc">ἔτους</w><num>σοβʹ</num><w xml:id="zoor0038-6" xml:lang="grc">μηνὶ</w><w xml:id="zoor0038-7" xml:lang="grc">Δύστρου</w><num value="30">λʹ</num><w xml:id="zoor0038-8" xml:lang="grc">ἡμέρᾳ</w> <w xml:id="zoor0038-9" xml:lang="grc">Ἀφροδίτης</w><w xml:id="zoor0038-10" xml:lang="grc">ἀθάνατος</w></p>
 </div>
 </body>
       <back>

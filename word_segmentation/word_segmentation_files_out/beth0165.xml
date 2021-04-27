@@ -128,7 +128,7 @@
                <persName xml:lang="grc " ref="persons.xml#beth0165p01">Eusebios </persName> the <rs type="epithet" ana="interpretations.xml#illustrious">most illustrious</rs>, <rs type="religTitle" ana="interpretations.xml#archisynagogos">head of the synagogue </rs> of the
 					people of <placeName>Beirut</placeName>.</p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="beth0165-1" xml:lang="grc">Ἔνθα</w> <w xml:id="beth0165-2" xml:lang="grc">κῖτε</w> <w xml:id="beth0165-3" xml:lang="grc">Εὐσέβις</w> <w xml:id="beth0165-4" xml:lang="grc">ὁ</w> <w xml:id="beth0165-5" xml:lang="grc">λαμπρότατοςἀρχισυνάγωγος</w> <w xml:id="beth0165-6" xml:lang="grc">ὤνΒηριτῶ</w><w xml:id="beth0165-7" xml:lang="grc"><supplied reason="lost">ν</supplied></w></p>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="beth0165-1" xml:lang="grc">Ἔνθα</w> <w xml:id="beth0165-2" xml:lang="grc">κῖτε</w><w xml:id="beth0165-3" xml:lang="grc">ὐσέβις</w> <w xml:id="beth0165-4" xml:lang="grc">ὁ</w> <w xml:id="beth0165-5" xml:lang="grc">λα</w><w xml:id="beth0165-6" xml:lang="grc">πρότατοςἀρχισυνάγωγος</w> <w xml:id="beth0165-7" xml:lang="grc">ὤνΒηριτῶ</w></p>
 </div>
 </body>
       <back>

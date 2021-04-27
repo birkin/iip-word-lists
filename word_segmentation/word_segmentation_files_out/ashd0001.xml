@@ -191,7 +191,7 @@
                 <p> </p>
             </div>
             
-        <div type="edition" subtype="transcription_segmented"><p><w xml:id="ashd0001-1" xml:lang="grc"><supplied reason="lost"> ὁ δεῖνατοῦ δεῖνος </supplied></w><w xml:id="ashd0001-2" xml:lang="grc"><supplied reason="lost">μ</supplied></w><w xml:id="ashd0001-3" xml:lang="grc">νισθῖ</w> <w xml:id="ashd0001-4" xml:lang="grc">εἰς</w> <w xml:id="ashd0001-5" xml:lang="grc">ἀ</w><w xml:id="ashd0001-6" xml:lang="grc"><supplied reason="lost">γ</supplied></w><w xml:id="ashd0001-7" xml:lang="grc">αθὸν</w> <w xml:id="ashd0001-8" xml:lang="grc">κὲ</w><w xml:id="ashd0001-9" xml:lang="grc"><expan><abbr>ἠ</abbr><ex>ς</ex></expan></w><w xml:id="ashd0001-10" xml:lang="grc">εὐλογίαν</w></p>
+        <div type="edition" subtype="transcription_segmented"><p><w xml:id="ashd0001-1" xml:lang="grc"><supplied reason="lost"><choice><unclear>ὁ δεῖνα</unclear><unclear>τοῦ δεῖνος</unclear></choice></supplied></w><w xml:id="ashd0001-2" xml:lang="grc">νισθῖ</w> <w xml:id="ashd0001-3" xml:lang="grc">εἰς</w> <w xml:id="ashd0001-4" xml:lang="grc">ἀ</w><w xml:id="ashd0001-5" xml:lang="grc">αθὸν</w> <w xml:id="ashd0001-6" xml:lang="grc">κὲ</w><w xml:id="ashd0001-7" xml:lang="grc"><expan><abbr>ἠ</abbr><ex>ς</ex></expan></w><w xml:id="ashd0001-8" xml:lang="grc">εὐλογίαν</w></p>
 </div>
 </body>
         <back>

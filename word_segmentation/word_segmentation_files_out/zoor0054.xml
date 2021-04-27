@@ -137,18 +137,31 @@
       <body>
          <div type="edition" ana="#b1" xml:lang="grc" subtype="transcription" xml:id="zoor0054.transcription" corresp="#zoor0054.translation">
             <p>
-               <choice><sic>Μνημῖον</sic><corr>Μνημεῖον</corr></choice>
-               <lb/> Ὠρίων <choice><sic>Κλυδίου</sic><corr>Κλαυδίου</corr></choice>,<lb/> ἀποθανόντος<lb/> μετὰ
-               καλοῦ <choice><sic>ὀ<lb break="no"/>νάματος</sic><corr>ὀνόματος</corr></choice> +<lb/> ἐτῶν <num value="30">λʹ</num>, + ἔ<lb break="no"/>τους σπαʹ,
-               ἐν<lb/> μηνὸς Ἀδωνέ<lb break="no"/>ου κηʹ. <choice><sic>Θάρ<lb/>σι</sic><corr>θάρσει</corr></choice>, <choice><sic>οὐδὶς</sic><corr>οὐδείς</corr></choice> ἀθάνα<lb break="no"/>τος.<lb/> Ἡμέρᾳ
-                    Ἄρεως.</p>
+               <choice>
+                  <sic>Μνημῖον</sic>
+                  <corr>Μνημεῖον</corr>
+               </choice>
+               <lb/> Ὠρίων <choice>
+                  <sic>Κλυδίου</sic>
+                  <corr>Κλαυδίου</corr>
+               </choice>,<lb/> ἀποθανόντος<lb/> μετὰ καλοῦ <choice>
+                  <sic>ὀ<lb break="no"/>νάματος</sic>
+                  <corr>ὀνόματος</corr>
+               </choice>
+               <g type="cross">+</g><lb/> ἐτῶν <num value="30">λʹ</num>, <g type="cross">+</g> ἔ<lb break="no"/>τους σπαʹ, ἐν<lb/> μηνὸς Ἀδωνέ<lb break="no"/>ου κηʹ. <choice>
+                  <sic>Θάρ<lb/>σι</sic>
+                  <corr>θάρσει</corr>
+               </choice>, <choice>
+                  <sic>οὐδὶς</sic>
+                  <corr>οὐδείς</corr>
+               </choice> ἀθάνα<lb break="no"/>τος.<lb/> Ἡμέρᾳ Ἄρεως.</p>
          </div>
          <div type="translation" ana="#b1" xml:id="zoor0054.translation" corresp="#zoor0054.transcription">
             <p>Monument of Orion, (son) of Claudius, who died having a good name (at the age) of
                     30 years, in (the) year 281, on the 28th (day) of (the) month Audynios. Be of
                     good cheer, no one (is) immortal. (He died) on (the) day of Mars (Tuesday).</p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="zoor0054-1" xml:lang="grc"><choice>Μνημεῖον</choice></w><w xml:id="zoor0054-2" xml:lang="grc">Ὠρίων</w><w xml:id="zoor0054-3" xml:lang="grc"><choice>Κλαυδίου</choice></w><w xml:id="zoor0054-4" xml:lang="grc">ἀποθανόντος</w> <w xml:id="zoor0054-5" xml:lang="grc">μετὰ</w> <w xml:id="zoor0054-6" xml:lang="grc">καλοῦ</w><w xml:id="zoor0054-7" xml:lang="grc"><choice>ὀνόματος</choice></w><w xml:id="zoor0054-8" xml:lang="grc">ἐτῶν</w><num value="30">λʹ</num><w xml:id="zoor0054-9" xml:lang="grc">ἔτους</w> <w xml:id="zoor0054-10" xml:lang="grc">σπα</w> <w xml:id="zoor0054-11" xml:lang="grc">ἐν</w> <w xml:id="zoor0054-12" xml:lang="grc">μηνὸς</w> <w xml:id="zoor0054-13" xml:lang="grc">Ἀδωνέου</w> <w xml:id="zoor0054-14" xml:lang="grc">κη</w><w xml:id="zoor0054-15" xml:lang="grc"><choice>θάρσει</choice></w><w xml:id="zoor0054-16" xml:lang="grc"><choice>οὐδείς</choice></w><w xml:id="zoor0054-17" xml:lang="grc">ἀθάνατος</w> <w xml:id="zoor0054-18" xml:lang="grc">Ἡμέρᾳ</w> <w xml:id="zoor0054-19" xml:lang="grc">Ἄρεως</w></p>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="zoor0054-1" xml:lang="grc">Ὠρίων</w><w xml:id="zoor0054-2" xml:lang="grc">ἀποθανόντος</w> <w xml:id="zoor0054-3" xml:lang="grc">μετὰ</w> <w xml:id="zoor0054-4" xml:lang="grc">καλοῦ</w><w xml:id="zoor0054-5" xml:lang="grc">ἐτῶν</w><num value="30">λʹ</num><w xml:id="zoor0054-6" xml:lang="grc">ἔτους</w> <w xml:id="zoor0054-7" xml:lang="grc">σπα</w> <w xml:id="zoor0054-8" xml:lang="grc">ἐν</w> <w xml:id="zoor0054-9" xml:lang="grc">μηνὸς</w> <w xml:id="zoor0054-10" xml:lang="grc">Ἀδωνέου</w> <w xml:id="zoor0054-11" xml:lang="grc">κη</w><w xml:id="zoor0054-12" xml:lang="grc">ἀθάνατος</w> <w xml:id="zoor0054-13" xml:lang="grc">Ἡμέρᾳ</w> <w xml:id="zoor0054-14" xml:lang="grc">Ἄρεως</w></p>
 </div>
 </body>
       <back>

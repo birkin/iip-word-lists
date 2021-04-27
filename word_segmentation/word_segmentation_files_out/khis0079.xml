@@ -130,7 +130,7 @@
             <p>Be of good courage, Porphyrius! Twenty(?) years old. 
 				</p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="khis0079-1" xml:lang="grc">θάρ</w><w xml:id="khis0079-2" xml:lang="grc"><supplied reason="undefined">σει</supplied></w><w xml:id="khis0079-3" xml:lang="grc">Πορφ</w><w xml:id="khis0079-4" xml:lang="grc"><supplied reason="undefined">ύριε</supplied></w><w xml:id="khis0079-5" xml:lang="grc"><expan><abbr>ἐτ</abbr><ex>ῶν</ex></expan></w><w xml:id="khis0079-6" xml:lang="grc"><num value="20">κ´</num></w></p>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="khis0079-1" xml:lang="grc">θάρ</w><w xml:id="khis0079-2" xml:lang="grc">Πορφ</w><w xml:id="khis0079-3" xml:lang="grc"><expan><abbr>ἐτ</abbr><ex>ῶν</ex></expan></w><num value="20"><unclear>κ´</unclear></num></p>
 </div>
 </body>
       <back>

@@ -130,7 +130,7 @@
          <div type="translation" ana="#b1" xml:id="squf0002.translation" corresp="#squf0002.diplomatic #squf0002.transcription">
             <p> Be of good courage, Sophonios! Forty years old. </p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="squf0002-1" xml:lang="grc">θάρσ</w><w xml:id="squf0002-2" xml:lang="grc"><supplied reason="undefined">ει</supplied></w><w xml:id="squf0002-3" xml:lang="grc">Σωφόνι</w><w xml:id="squf0002-4" xml:lang="grc"><expan><abbr>ἐτ</abbr><ex>ῶν</ex></expan></w><w xml:id="squf0002-5" xml:lang="grc"><num value="40">μ᾽</num></w></p>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="squf0002-1" xml:lang="grc">θάρσ</w><w xml:id="squf0002-2" xml:lang="grc">Σωφόνι</w><w xml:id="squf0002-3" xml:lang="grc"><expan><abbr>ἐτ</abbr><ex>ῶν</ex></expan></w><num value="40">μ᾽</num></p>
 </div>
 </body>
       <back>

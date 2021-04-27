@@ -185,9 +185,7 @@
                     <num value="3">Γ</num>
                     <lb/>
                     <foreign xml:lang="lat">
-                  <expan><abbr>Cae</abbr><ex>sare</ex></expan>
-               </foreign>
-                    <num value="7">VII</num>
+                  <expan><abbr>Cae</abbr><ex>sare</ex></expan> <num value="7">VII</num></foreign>
                 </p>
             </div>
             <div type="translation" ana="b1">
@@ -198,7 +196,7 @@
             </div>
             <!-- The bibl has more contained elements. What is the possible list of values of the biblScope/@type? 
              -->
-        <div type="edition" subtype="transcription_segmented"><p><w xml:id="masa0795-1" xml:lang="grc">Τ</w><w xml:id="masa0795-2" xml:lang="grc"><expan><abbr>Καίσ</abbr><ex>αρος</ex></expan></w><num value="7">Ζ</num><w xml:id="masa0795-3" xml:lang="grc"><expan><abbr>Ἀγρίπ</abbr><ex>πα</ex></expan></w><num value="3">Γ</num><num value="7">VII</num></p>
+        <div type="edition" subtype="transcription_segmented"><p><w xml:id="masa0795-1" xml:lang="grc"><unclear>Τ</unclear></w><w xml:id="masa0795-2" xml:lang="grc"><expan><abbr>Καίσ</abbr><ex>αρος</ex></expan></w><num value="7">Ζ</num><w xml:id="masa0795-3" xml:lang="grc"><expan><abbr>Ἀγρίπ</abbr><ex>πα</ex></expan></w><num value="3">Γ</num></p>
 </div>
 </body>
         <back>

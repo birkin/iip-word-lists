@@ -41,7 +41,7 @@
                     </msIdentifier>
                     <!--  *************************************  <msContents>  ********************************* -->
                     <msContents>
-                        <textLang mainLang="arc" otherLangs=""/>
+                        <textLang mainLang="phn" otherLangs=""/>
                         <!-- lat, grc, heb, arc -->
                         <!-- religion here? -->
                         <msItem class="#label" ana="#other_religion">
@@ -145,6 +145,7 @@
          <change when="2019-01-29" who="persons.xml#Elli_Mylonas">
                 adding period attribute to date element, with Periodo value.
             </change>
+            <change when="2021-04-08" who="Chris Zeichmann">changed language to phn</change>
       </revisionDesc>
     </teiHeader>
     <!--  *************************************  <facsimile>  *********************************
@@ -180,7 +181,7 @@
             </div>
             <!-- The bibl has more contained elements. What is the possible list of values of the biblScope/@type? 
              -->
-        <div type="edition" subtype="transcription_segmented"><p><w xml:id="gaza0101-1" xml:lang="arc">א</w> <w xml:id="gaza0101-2" xml:lang="arc">דנג</w> <w xml:id="gaza0101-3" xml:lang="arc">ין</w> <w xml:id="gaza0101-4" xml:lang="arc">עז</w> <w xml:id="gaza0101-5" xml:lang="arc">שבח</w> <w xml:id="gaza0101-6" xml:lang="arc">ב</w><w xml:id="gaza0101-7" xml:lang="arc"><supplied reason="lost">4</supplied></w><w xml:id="gaza0101-8" xml:lang="arc">למלך</w></p>
+        <div type="edition" subtype="transcription_segmented"><p><w xml:id="gaza0101-1" xml:lang="phn">א</w> <w xml:id="gaza0101-2" xml:lang="phn">דנג</w> <w xml:id="gaza0101-3" xml:lang="phn">ין</w> <w xml:id="gaza0101-4" xml:lang="phn">עז</w> <w xml:id="gaza0101-5" xml:lang="phn">שבח</w> <w xml:id="gaza0101-6" xml:lang="phn">ב</w><w xml:id="gaza0101-7" xml:lang="phn">למלך</w></p>
 </div>
 </body>
         <back>

@@ -154,7 +154,9 @@
                 <p>This epitaph is the earliest of those collected at Ghor es-Safi which bears the
                     symbol of the cross.</p>
             </div>
-        <div type="edition" subtype="transcription_segmented"><p><w xml:id="zoor0364-1" xml:lang="grc"><choice>μνημεῖον</choice></w><num><w xml:id="zoor0364-2" xml:lang="grc"><choice>Ἀντωνίνης</choice></w></num><w xml:id="zoor0364-3" xml:lang="grc">Ὀρίωνος</w><w xml:id="zoor0364-4" xml:lang="grc"><choice>ἀποθανούσης</choice></w><w xml:id="zoor0364-5" xml:lang="grc">ἐτῶν</w><num value="50">ν</num><w xml:id="zoor0364-6" xml:lang="grc">ἔτους</w><num value="237">σλζ</num></p>
+        <div type="edition" subtype="transcription_segmented"><p><w xml:id="zoor0364-1" xml:lang="grc"><choice><orig><expan><abbr>Μνημῖο</abbr><ex>ν</ex></expan></orig><reg>μνημεῖον</reg></choice></w><num>
+                  <w xml:id="zoor0364-2" xml:lang="grc"><choice><orig>Ἀντωνῖνα</orig><reg>Ἀντωνίνης</reg></choice></w>
+               </num><w xml:id="zoor0364-3" xml:lang="grc">Ὀρίωνος</w><w xml:id="zoor0364-4" xml:lang="grc"><choice><orig>ἀποθανοῦσα</orig><reg>ἀποθανούσης</reg></choice></w><w xml:id="zoor0364-5" xml:lang="grc">ἐτῶν</w><num value="50">ν</num><w xml:id="zoor0364-6" xml:lang="grc">ἔτους</w><num value="237">σλζ</num></p>
 </div>
 </body>
         <back>

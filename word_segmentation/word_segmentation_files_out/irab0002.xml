@@ -192,7 +192,7 @@
             </div>
             <!-- The bibl has more contained elements. What is the possible list of values of the biblScope/@type? 
              -->
-        <div type="edition" subtype="transcription_segmented"><p><w xml:id="irab0002-1" xml:lang="grc">Καὶ</w> <w xml:id="irab0002-2" xml:lang="grc">ἀνύξετή</w> <w xml:id="irab0002-3" xml:lang="grc">μοι</w> <w xml:id="irab0002-4" xml:lang="grc">πύλας</w> <w xml:id="irab0002-5" xml:lang="grc">δικεοσύνης·</w> <w xml:id="irab0002-6" xml:lang="grc">ἔργoν</w> <w xml:id="irab0002-7" xml:lang="grc">Εὐθυμίου</w> <w xml:id="irab0002-8" xml:lang="grc">δὶς</w> <w xml:id="irab0002-9" xml:lang="grc">κὲ</w> <w xml:id="irab0002-10" xml:lang="grc">Ἰωάνου</w><w xml:id="irab0002-11" xml:lang="grc"><expan><abbr>ψηφ</abbr><ex>ο</ex><abbr>θετ</abbr><ex>ῶν</ex></expan></w></p>
+        <div type="edition" subtype="transcription_segmented"><p><w xml:id="irab0002-1" xml:lang="grc">Καὶ</w> <w xml:id="irab0002-2" xml:lang="grc">ἀνύξετή</w> <w xml:id="irab0002-3" xml:lang="grc">μοι</w> <w xml:id="irab0002-4" xml:lang="grc">πύλας</w> <w xml:id="irab0002-5" xml:lang="grc">δικεοσύνης·</w> <w xml:id="irab0002-6" xml:lang="grc">ἔργoν</w> <w xml:id="irab0002-7" xml:lang="grc">Εὐθυμίου</w> <w xml:id="irab0002-8" xml:lang="grc">δὶς</w> <w xml:id="irab0002-9" xml:lang="grc">κὲ</w> <w xml:id="irab0002-10" xml:lang="grc">Ἰωάνου</w></p>
 </div>
 </body>
         <back>

@@ -135,7 +135,7 @@
             <div type="commentary" ana="b1">
                 <p>The name Epictetos suggests that this inscription is for a slave.</p>
             </div>
-        <div type="edition" subtype="transcription_segmented"><p><w xml:id="jeru0524-1" xml:lang="grc">ς</w> <w xml:id="jeru0524-2" xml:lang="grc">Φείδωνος</w> <w xml:id="jeru0524-3" xml:lang="grc">ὅς</w><w xml:id="jeru0524-4" xml:lang="grc"><choice>καί</choice></w><w xml:id="jeru0524-5" xml:lang="grc">Ἐπίχτητος</w> <w xml:id="jeru0524-6" xml:lang="grc">Κῶμα</w> <w xml:id="jeru0524-7" xml:lang="grc">τοῦ</w> <w xml:id="jeru0524-8" xml:lang="grc">Σητοῦ</w></p>
+        <div type="edition" subtype="transcription_segmented"><p><w xml:id="jeru0524-1" xml:lang="grc">ς</w> <w xml:id="jeru0524-2" xml:lang="grc">Φείδωνος</w> <w xml:id="jeru0524-3" xml:lang="grc">ὅς</w><w xml:id="jeru0524-4" xml:lang="grc"><choice><orig>χαὶ</orig><reg>καί</reg></choice></w><w xml:id="jeru0524-5" xml:lang="grc">Ἐπίχτητος</w> <w xml:id="jeru0524-6" xml:lang="grc">Κῶμα</w> <w xml:id="jeru0524-7" xml:lang="grc">τοῦ</w> <w xml:id="jeru0524-8" xml:lang="grc">Σητοῦ</w></p>
 </div>
 </body>
         <back>

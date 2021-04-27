@@ -120,7 +120,7 @@
                 <p><g type="cross"/>ΘΗΚΗ<lb/>ΑΝΑΤΑϹ<lb/>ΚΑΙΑΞΙΑ<g type="cross"/></p>
             </div>
             <div type="edition" subtype="transcription" ana="b1">
-                <p><g type="cross"/>Θήκη <supplied reason="lost">διαφέρουσα</supplied><lb/>Ἀναστασ<supplied reason="lost">ίου</supplied><lb/>καὶ Ἁξίας<g type="cross"/></p>
+                <p><g type="cross"/> Θήκη <supplied reason="lost">διαφέρουσα</supplied><lb/>Ἀναστασ<supplied reason="lost">ίου</supplied><lb/>καὶ Ἁξίας <g type="cross"/></p>
             </div>
             <div type="translation" ana="b1">
                 <p>Private tomb of Anastasius and Axia</p>
@@ -128,7 +128,7 @@
             <div type="commentary" ana="b1">
                 <p/>
             </div>
-        <div type="edition" subtype="transcription_segmented"><p><w xml:id="caes0531-1" xml:lang="grc">Θήκη</w><w xml:id="caes0531-2" xml:lang="grc"><supplied reason="lost">διαφέρουσα</supplied></w><w xml:id="caes0531-3" xml:lang="grc">Ἀναστασ</w><w xml:id="caes0531-4" xml:lang="grc"><supplied reason="lost">ίου</supplied></w><w xml:id="caes0531-5" xml:lang="grc">καὶ</w> <w xml:id="caes0531-6" xml:lang="grc">Ἁξίας</w></p>
+        <div type="edition" subtype="transcription_segmented"><p><w xml:id="caes0531-1" xml:lang="grc">Θήκη</w><w xml:id="caes0531-2" xml:lang="grc"><supplied reason="lost">διαφέρουσα</supplied></w><w xml:id="caes0531-3" xml:lang="grc">Ἀναστασ</w><w xml:id="caes0531-4" xml:lang="grc">καὶ</w> <w xml:id="caes0531-5" xml:lang="grc">Ἁξίας</w></p>
 </div>
 </body>
         <back>

@@ -135,7 +135,7 @@
          <div type="translation" ana="#b1" xml:id="sepp0015.translation" corresp="#sepp0015.transcription #sepp0015.diplomatic">
             <p>[So-and-so (son) of so-and-so made (this) following] a vow. [A blessing upon] him.</p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="sepp0015-1" xml:lang="grc">Μ</w> <w xml:id="sepp0015-2" xml:lang="grc">ἐ</w><w xml:id="sepp0015-3" xml:lang="grc"><supplied reason="undefined">ποίησεν</supplied></w><w xml:id="sepp0015-4" xml:lang="grc"><supplied reason="undefined">εὑ</supplied></w><w xml:id="sepp0015-5" xml:lang="grc">ξά</w><w xml:id="sepp0015-6" xml:lang="grc"><supplied reason="undefined">μενος</supplied></w><w xml:id="sepp0015-7" xml:lang="grc"><supplied reason="undefined">Εὐλογία</supplied></w><w xml:id="sepp0015-8" xml:lang="grc"><supplied reason="undefined">αὐτ</supplied></w><w xml:id="sepp0015-9" xml:lang="grc">ῷ</w></p>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="sepp0015-1" xml:lang="grc">Μ</w> <w xml:id="sepp0015-2" xml:lang="grc">ἐ</w><w xml:id="sepp0015-3" xml:lang="grc"><supplied reason="undefined">εὑ</supplied>ξά<supplied reason="undefined">μενος</supplied>. <supplied reason="undefined">Εὐλογία</supplied></w><w xml:id="sepp0015-4" xml:lang="grc">ῷ</w></p>
 </div>
 </body>
       <back>

@@ -132,7 +132,7 @@
             <p> Monument of Kosmas, (son) of Abdamochos, from Petra, who died (at the age) of 40
                     years. </p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="zoor0279-1" xml:lang="grc"><choice>Μνημεῖον</choice></w><w xml:id="zoor0279-2" xml:lang="grc"><choice>Κοσμᾶς</choice></w><w xml:id="zoor0279-3" xml:lang="grc"><choice>Ἀβδαμόχου</choice></w><w xml:id="zoor0279-4" xml:lang="grc"><choice>Πετραίος</choice></w><w xml:id="zoor0279-5" xml:lang="grc"><choice>ἀποθανόντος</choice></w><num>μʹ</num></p>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="zoor0279-1" xml:lang="grc"><choice>Μνημεῖον</choice></w><w xml:id="zoor0279-2" xml:lang="grc"><choice>Ἀβδαμόχου</choice>, <choice>Πετραίος</choice>, <choice>ἀποθανόντος</choice></w><num>μʹ</num></p>
 </div>
 </body>
       <back>

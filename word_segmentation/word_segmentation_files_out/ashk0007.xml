@@ -130,7 +130,7 @@
             <div type="commentary">
                 <p/>
             </div>
-        <div type="edition" subtype="transcription_segmented"><p><w xml:id="ashk0007-1" xml:lang="grc"><supplied reason="lost" cert="low"><w xml:id="ashk0007-2" xml:lang="grc"><expan><abbr>Κ</abbr><ex>ύρι</ex><abbr>ε</abbr></expan></w></supplied></w><w xml:id="ashk0007-3" xml:lang="grc"><supplied reason="lost">πρόσδεξαι</supplied></w><w xml:id="ashk0007-4" xml:lang="grc"><supplied reason="lost">τὴν</supplied></w><w xml:id="ashk0007-5" xml:lang="grc"><supplied reason="lost">προσφορὰ</supplied></w><w xml:id="ashk0007-6" xml:lang="grc">ν</w> <w xml:id="ashk0007-7" xml:lang="grc">Λεοντίου</w> <w xml:id="ashk0007-8" xml:lang="grc">ἡερέ</w> <w xml:id="ashk0007-9" xml:lang="grc">ιω</w><w xml:id="ashk0007-10" xml:lang="grc"><supplied reason="lost" cert="low">ς</supplied></w><w xml:id="ashk0007-11" xml:lang="grc"><supplied reason="lost">φρ</supplied></w><w xml:id="ashk0007-12" xml:lang="grc">οντίσαντος</w> <w xml:id="ashk0007-13" xml:lang="grc">ΔΙ</w> <w xml:id="ashk0007-14" xml:lang="grc">ΥΡΟΥ</w></p>
+        <div type="edition" subtype="transcription_segmented"><p><w xml:id="ashk0007-1" xml:lang="grc"><supplied reason="lost">πρόσδεξαι</supplied></w><w xml:id="ashk0007-2" xml:lang="grc"><supplied reason="lost">προσφορὰ</supplied>ν Λεοντίου ἡερέ<choice><unclear>ι</unclear><unclear>ω</unclear></choice><supplied reason="lost" cert="low">ς</supplied></w><w xml:id="ashk0007-3" xml:lang="grc">οντίσαντος</w> <w xml:id="ashk0007-4" xml:lang="grc">ΔΙ</w><w xml:id="ashk0007-5" xml:lang="grc">ΡΟΥ</w></p>
 </div>
 </body>
         <back>

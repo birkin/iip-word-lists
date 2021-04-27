@@ -120,20 +120,35 @@
    <text>
       <body>
          <div type="edition" ana="#b1" xml:lang="grc" subtype="transcription" xml:id="zoor0056.transcription" corresp="#zoor0056.translation">
-            <p>+<lb/>
-               <choice><sic>Μνημῖον</sic><corr>Μνημεῖον</corr></choice> Θοάϊει<lb/> Ἀλφίου, ἀποθανοῦ<lb break="no"/>σα ἐτῶν
-                    <num>ιηʹ</num>, ἐν ἤτι <num>σπβʹ</num>,<lb/>
-               <choice><sic>μενὸς</sic><corr>μηνὸς</corr></choice>
-               <choice><sic>Ὑπερβερε<lb break="no"/>τέου</sic><corr>Ὑπερβερεταίου</corr></choice> δεκάτην,
-                    ἡμέρᾳ<lb/> Σελήνης. <choice><sic>Θάρσι</sic><corr>Θάρσει</corr></choice>, <choice><sic>οὐδὶς</sic><corr>οὐδεὶς</corr></choice>
-               <lb/> ἀθάνατος.<lb/> +</p>
+            <p><g type="cross">+</g><lb/>
+               <choice>
+                  <sic>Μνημῖον</sic>
+                  <corr>Μνημεῖον</corr>
+               </choice> Θοάϊει<lb/> Ἀλφίου, ἀποθανοῦ<lb break="no"/>σα ἐτῶν <num>ιηʹ</num>, ἐν ἤτι
+                  <num>σπβʹ</num>,<lb/>
+               <choice>
+                  <sic>μενὸς</sic>
+                  <corr>μηνὸς</corr>
+               </choice>
+               <choice>
+                  <sic>Ὑπερβερε<lb break="no"/>τέου</sic>
+                  <corr>Ὑπερβερεταίου</corr>
+               </choice> δεκάτην, ἡμέρᾳ<lb/> Σελήνης. <choice>
+                  <sic>Θάρσι</sic>
+                  <corr>Θάρσει</corr>
+               </choice>, <choice>
+                  <sic>οὐδὶς</sic>
+                  <corr>οὐδεὶς</corr>
+               </choice>
+               <lb/> ἀθάνατος.<lb/>
+               <g type="cross">+</g></p>
          </div>
          <div type="translation" ana="#b1" xml:id="zoor0056.translation" corresp="#zoor0056.transcription">
             <p>Monument of Thoaiei, (daughter) of Alphios, who died (at the age) of 18 years, in
                     the year 282, on the tenth (day) of (the) month Hyperberetaios, on (the) day of
                     (the) Moon (Monday). Be of good cheer, no one (is) immortal.</p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="zoor0056-1" xml:lang="grc"><choice>Μνημεῖον</choice></w><w xml:id="zoor0056-2" xml:lang="grc">Θοάϊει</w> <w xml:id="zoor0056-3" xml:lang="grc">Ἀλφίου</w> <w xml:id="zoor0056-4" xml:lang="grc">ἀποθανοῦσα</w> <w xml:id="zoor0056-5" xml:lang="grc">ἐτῶν</w><num>ιηʹ</num><w xml:id="zoor0056-6" xml:lang="grc">ἐν</w> <w xml:id="zoor0056-7" xml:lang="grc">ἤτι</w><num>σπβʹ</num><w xml:id="zoor0056-8" xml:lang="grc"><choice>μηνὸς</choice></w><w xml:id="zoor0056-9" xml:lang="grc"><choice>Ὑπερβερεταίου</choice></w><w xml:id="zoor0056-10" xml:lang="grc">δεκάτην</w> <w xml:id="zoor0056-11" xml:lang="grc">ἡμέρᾳ</w> <w xml:id="zoor0056-12" xml:lang="grc">Σελήνης</w><w xml:id="zoor0056-13" xml:lang="grc"><choice>Θάρσει</choice></w><w xml:id="zoor0056-14" xml:lang="grc"><choice>οὐδεὶς</choice></w><w xml:id="zoor0056-15" xml:lang="grc">ἀθάνατος</w></p>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="zoor0056-1" xml:lang="grc">Θοάϊει</w> <w xml:id="zoor0056-2" xml:lang="grc">Ἀλφίου</w> <w xml:id="zoor0056-3" xml:lang="grc">ἀποθανοῦσα</w> <w xml:id="zoor0056-4" xml:lang="grc">ἐτῶν</w><num>ιηʹ</num><w xml:id="zoor0056-5" xml:lang="grc">ἐν</w> <w xml:id="zoor0056-6" xml:lang="grc">ἤτι</w><num>σπβʹ</num><w xml:id="zoor0056-7" xml:lang="grc">δεκάτην</w> <w xml:id="zoor0056-8" xml:lang="grc">ἡμέρᾳ</w> <w xml:id="zoor0056-9" xml:lang="grc">Σελήνης</w><w xml:id="zoor0056-10" xml:lang="grc">ἀθάνατος</w></p>
 </div>
 </body>
       <back>

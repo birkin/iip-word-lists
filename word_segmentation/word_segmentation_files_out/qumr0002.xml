@@ -193,7 +193,7 @@
             </div>
             <!-- The bibl has more contained elements. What is the possible list of values of the biblScope/@type? 
              -->
-        <div type="edition" subtype="transcription_segmented"><p><w xml:id="qumr0002-1" xml:lang="he">ק</w> <w xml:id="qumr0002-2" xml:lang="he">ש</w> <w xml:id="qumr0002-3" xml:lang="he">ת</w> <w xml:id="qumr0002-4" xml:lang="he">הו</w><w xml:id="qumr0002-5" xml:lang="he"><supplied reason="lost">יהוס</supplied></w><w xml:id="qumr0002-6" xml:lang="he">ף</w> <w xml:id="qumr0002-7" xml:lang="he">בן</w> <w xml:id="qumr0002-8" xml:lang="he">נתן</w><w xml:id="qumr0002-9" xml:lang="he"><supplied reason="lost">ב</supplied></w><w xml:id="qumr0002-10" xml:lang="he">ניו</w> <w xml:id="qumr0002-11" xml:lang="he">מעין</w></p>
+        <div type="edition" subtype="transcription_segmented"><p><w xml:id="qumr0002-1" xml:lang="he">ק</w><w xml:id="qumr0002-2" xml:lang="he"><unclear>ש</unclear></w><w xml:id="qumr0002-3" xml:lang="he">ת</w> <w xml:id="qumr0002-4" xml:lang="he">הו</w><w xml:id="qumr0002-5" xml:lang="he">ף</w> <w xml:id="qumr0002-6" xml:lang="he">בן</w> <w xml:id="qumr0002-7" xml:lang="he">נת</w><w xml:id="qumr0002-8" xml:lang="he">ניו</w> <w xml:id="qumr0002-9" xml:lang="he">מעי</w></p>
 </div>
 </body>
         <back>

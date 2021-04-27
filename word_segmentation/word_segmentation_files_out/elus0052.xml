@@ -112,9 +112,9 @@
    <text>
       <body>
          <div type="edition" ana="#b1" xml:lang="grc" subtype="transcription" xml:id="elus0052.transcription">
-            <p>+ <unclear>Ι</unclear>ΕΛΑ</p>
+            <p><g>+</g> <orig><unclear>Ι</unclear>ΕΛΑ</orig></p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="elus0052-1" xml:lang="grc">ΙΕΛΑ</w></p>
+      <div type="edition" subtype="transcription_segmented"><p/>
 </div>
 </body>
       <back>

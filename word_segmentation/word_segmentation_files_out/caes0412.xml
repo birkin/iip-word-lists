@@ -120,13 +120,13 @@
    <text>
       <body>
          <div type="edition" ana="#b1" xml:lang="grc" subtype="transcription" xml:id="caes0412.transcription" corresp="#caes0412.translation">
-            <p>Θήκη Ἠλ<lb/>ίας Ἐντ<lb/>ουλίου <choice><sic>Κρ<lb/>ουνου</sic><corr>Κρουνίου</corr></choice>
+            <p>Θήκη Ἠλ<lb break="no"/>ίας Ἐντ<lb break="no"/>ουλίου <choice><sic>Κρ<lb break="no"/>ουνου</sic><corr>Κρουνίου</corr></choice>
             </p>
          </div>
          <div type="translation" ana="#b1" xml:id="caes0412.translation" corresp="#caes0412.transcription">
             <p>Tomb of Elias son of Ent(o)lios from Krunoi(?)</p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="caes0412-1" xml:lang="grc">Θήκη</w> <w xml:id="caes0412-2" xml:lang="grc">Ἠλ</w> <w xml:id="caes0412-3" xml:lang="grc">ίας</w> <w xml:id="caes0412-4" xml:lang="grc">Ἐντ</w> <w xml:id="caes0412-5" xml:lang="grc">ουλίου</w><w xml:id="caes0412-6" xml:lang="grc"><choice>Κρουνίου</choice></w></p>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="caes0412-1" xml:lang="grc">Θήκη</w> <w xml:id="caes0412-2" xml:lang="grc">Ἠλίας</w> <w xml:id="caes0412-3" xml:lang="grc">Ἐντουλίου</w><w xml:id="caes0412-4" xml:lang="grc"><choice>Κρουνίου</choice></w></p>
 </div>
 </body>
       <back>

@@ -119,7 +119,7 @@
                <rs type="object" ana="interpretations.xml#tomb">Tomb </rs> of <persName xml:lang="hbo " ref="persons.xml#beth0271p01">Nehemiah </persName>
             </p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="beth0271-1" xml:lang="he">נפש</w> <w xml:id="beth0271-2" xml:lang="he">ניחמיה</w></p>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="beth0271-1" xml:lang="he"><unclear>נ</unclear></w><w xml:id="beth0271-2" xml:lang="he">פש</w> <w xml:id="beth0271-3" xml:lang="he">ניחמיה</w></p>
 </div>
 </body>
       <back>

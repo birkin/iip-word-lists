@@ -108,7 +108,7 @@
    <text>
       <body>
          <div type="edition" ana="#b1" xml:lang="grc" subtype="transcription" xml:id="elus0089.transcription" corresp="#elus0089.translation">
-            <p>των δι᾽ ἐφώδιον ε<gap reason="lost" unit="character" extent="unknown"/>
+            <p>τῶν δι᾽ ἐφώδιον ἐ<gap reason="lost" unit="character" extent="unknown"/>
                <lb/>
                <unclear>κο</unclear>ηβοχδο<gap reason="illegible" quantity="2" unit="character"/>
                <gap reason="lost" unit="character" extent="unknown"/>
@@ -121,7 +121,7 @@
          <div type="translation" ana="#b1" xml:id="elus0089.translation" corresp="#elus0089.transcription">
             <p>...for traveling expenses...</p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="elus0089-1" xml:lang="grc">των</w> <w xml:id="elus0089-2" xml:lang="grc">δι᾽</w> <w xml:id="elus0089-3" xml:lang="grc">ἐφώδιον</w> <w xml:id="elus0089-4" xml:lang="grc">ε</w> <w xml:id="elus0089-5" xml:lang="grc">κοηβοχδο</w></p>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="elus0089-1" xml:lang="grc">τῶν</w> <w xml:id="elus0089-2" xml:lang="grc">δι᾽</w> <w xml:id="elus0089-3" xml:lang="grc">ἐφώδιον</w> <w xml:id="elus0089-4" xml:lang="grc">ἐ</w><w xml:id="elus0089-5" xml:lang="grc">ηβοχδο</w></p>
 </div>
 </body>
       <back>

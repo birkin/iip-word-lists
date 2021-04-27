@@ -156,7 +156,7 @@
                 <p/>
             </div>
 
-        <div type="edition" subtype="transcription_segmented"><p><w xml:id="caes0555-1" xml:lang="grc"><supplied reason="lost" cert="low">Ἔτους</supplied></w><w xml:id="caes0555-2" xml:lang="grc"><supplied reason="lost">βασι</supplied></w><w xml:id="caes0555-3" xml:lang="grc">λ</w><w xml:id="caes0555-4" xml:lang="grc">ως</w><w xml:id="caes0555-5" xml:lang="grc"><supplied reason="lost">Ἀ</supplied></w><w xml:id="caes0555-6" xml:lang="grc">γρ</w><w xml:id="caes0555-7" xml:lang="grc"><supplied reason="lost"><hi rend="apex">ι</hi></supplied></w><w xml:id="caes0555-8" xml:lang="grc"><supplied reason="lost">π</supplied></w><w xml:id="caes0555-9" xml:lang="grc">πα</w><w xml:id="caes0555-10" xml:lang="grc"><supplied reason="lost">ἀ</supplied></w><w xml:id="caes0555-11" xml:lang="grc">γορ</w><w xml:id="caes0555-12" xml:lang="grc"><supplied reason="lost">α</supplied></w><w xml:id="caes0555-13" xml:lang="grc">ν</w><w xml:id="caes0555-14" xml:lang="grc">μων</w> <w xml:id="caes0555-15" xml:lang="grc">δώρο</w><w xml:id="caes0555-16" xml:lang="grc"><supplied reason="lost">υ</supplied></w></p>
+        <div type="edition" subtype="transcription_segmented"><p><w xml:id="caes0555-1" xml:lang="grc"><supplied reason="lost">βασι</supplied>λ<hi rend="apex">ε</hi>ως <supplied reason="lost">Ἀ</supplied>γρ<supplied reason="lost"><hi rend="apex">ι</hi></supplied><supplied reason="lost">π</supplied>πα <supplied reason="lost">ἀ</supplied>γορ<supplied reason="lost">α</supplied>ν<hi rend="apex">ο</hi>μων δώρο<supplied reason="lost">υ</supplied></w></p>
 </div>
 </body>
         <back>

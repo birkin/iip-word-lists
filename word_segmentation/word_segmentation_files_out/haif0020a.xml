@@ -182,7 +182,7 @@
             </div>
             <!-- The bibl has more contained elements. What is the possible list of values of the biblScope/@type? 
              -->
-        <div type="edition" subtype="transcription_segmented"><p><w xml:id="haif0020a-1" xml:lang="la">Caius</w> <w xml:id="haif0020a-2" xml:lang="la">votum</w> <w xml:id="haif0020a-3" xml:lang="la">Hest</w><w xml:id="haif0020a-4" xml:lang="la"><supplied reason="omitted">ia</supplied></w><w xml:id="haif0020a-5" xml:lang="la">mitia</w> <w xml:id="haif0020a-6" xml:lang="la">omni</w><w xml:id="haif0020a-7" xml:lang="la"><supplied reason="lost">a</supplied></w></p>
+        <div type="edition" subtype="transcription_segmented"><p><w xml:id="haif0020a-1" xml:lang="la">Caius</w> <w xml:id="haif0020a-2" xml:lang="la">votum</w> <w xml:id="haif0020a-3" xml:lang="la">Hest</w><w xml:id="haif0020a-4" xml:lang="la">mitia</w> <w xml:id="haif0020a-5" xml:lang="la">omni</w></p>
 </div>
 </body>
         <back>

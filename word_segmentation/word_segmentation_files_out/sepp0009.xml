@@ -122,7 +122,7 @@
                   <persName xml:lang="arc " ref="persons.xml#sepp0009p01">Shimon </persName>
                </name>...</p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="sepp0009-1" xml:lang="arc">שמע</w></p>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="sepp0009-1" xml:lang="arc"><unclear>ש</unclear></w><w xml:id="sepp0009-2" xml:lang="arc">מ</w><w xml:id="sepp0009-3" xml:lang="arc"><unclear>ע</unclear></w></p>
 </div>
 </body>
       <back>

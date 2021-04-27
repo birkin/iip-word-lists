@@ -194,7 +194,7 @@
             </div>
             <!-- The bibl has more contained elements. What is the possible list of values of the biblScope/@type? 
              -->
-        <div type="edition" subtype="transcription_segmented"><p><w xml:id="jaff0079-1" xml:lang="grc">Ῥαββὶ</w> <w xml:id="jaff0079-2" xml:lang="grc">Ϲαμου</w><w xml:id="jaff0079-3" xml:lang="grc"><supplied reason="lost">ηλ</supplied></w><w xml:id="jaff0079-4" xml:lang="grc">ἀρχησ</w><w xml:id="jaff0079-5" xml:lang="grc"><supplied reason="lost">υνάγωγος</supplied></w><w xml:id="jaff0079-6" xml:lang="grc"><supplied reason="lost">Φ</supplied></w><w xml:id="jaff0079-7" xml:lang="grc">ρύγιος</w> <w xml:id="jaff0079-8" xml:lang="grc">Δο</w><w xml:id="jaff0079-9" xml:lang="grc"><supplied reason="lost" cert="low">ρυλαεύς</supplied></w><w xml:id="jaff0079-10" xml:lang="grc">δόξασι</w> <w xml:id="jaff0079-11" xml:lang="grc">α</w><w xml:id="jaff0079-12" xml:lang="grc"><supplied reason="lost">ὐτὸν</supplied></w></p>
+        <div type="edition" subtype="transcription_segmented"><p><w xml:id="jaff0079-1" xml:lang="grc">Ῥαββὶ</w> <w xml:id="jaff0079-2" xml:lang="grc">Ϲαμου</w><w xml:id="jaff0079-3" xml:lang="grc">ἀρχησ</w><w xml:id="jaff0079-4" xml:lang="grc">ρύγιος</w> <w xml:id="jaff0079-5" xml:lang="grc">Δο</w><w xml:id="jaff0079-6" xml:lang="grc">δόξασι</w> <w xml:id="jaff0079-7" xml:lang="grc">α</w></p>
 </div>
 </body>
         <back>

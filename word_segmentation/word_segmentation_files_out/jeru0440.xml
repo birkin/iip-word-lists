@@ -139,7 +139,7 @@
             <div type="commentary" ana="b1">
                 <p/>
             </div>
-        <div type="edition" subtype="transcription_segmented"><p><w xml:id="jeru0440-1" xml:lang="grc">Ἐνθάδε</w><w xml:id="jeru0440-2" xml:lang="grc"><choice>κεῖται</choice></w><w xml:id="jeru0440-3" xml:lang="grc">Ἄναμος</w><w xml:id="jeru0440-4" xml:lang="grc"><choice>κλιβανάριος</choice></w><w xml:id="jeru0440-5" xml:lang="grc">τρίτος</w> <w xml:id="jeru0440-6" xml:lang="grc">Παλμύρας</w></p>
+        <div type="edition" subtype="transcription_segmented"><p><w xml:id="jeru0440-1" xml:lang="grc">Ἐνθάδε</w><w xml:id="jeru0440-2" xml:lang="grc"><choice><orig>κῖτε</orig><reg>κεῖται</reg></choice></w><w xml:id="jeru0440-3" xml:lang="grc">Ἄναμος</w><w xml:id="jeru0440-4" xml:lang="grc"><choice><orig>κλιβανάρις</orig><reg>κλιβανάριος</reg></choice></w><w xml:id="jeru0440-5" xml:lang="grc"><unclear>τρίτος</unclear></w><w xml:id="jeru0440-6" xml:lang="grc">Παλμύρας</w></p>
 </div>
 </body>
         <back>

@@ -192,7 +192,7 @@
             </div>
             <!-- The bibl has more contained elements. What is the possible list of values of the biblScope/@type? 
              -->
-        <div type="edition" subtype="transcription_segmented"><p><w xml:id="zoor0454-1" xml:lang="arc">תתניח</w> <w xml:id="zoor0454-2" xml:lang="arc">נפשה</w> <w xml:id="zoor0454-3" xml:lang="arc">דחגוון</w> <w xml:id="zoor0454-4" xml:lang="arc">בר</w> <w xml:id="zoor0454-5" xml:lang="arc">יודה</w><w xml:id="zoor0454-6" xml:lang="arc"><supplied reason="lost">דמי</supplied></w><w xml:id="zoor0454-7" xml:lang="arc">ת</w> <w xml:id="zoor0454-8" xml:lang="arc">ביום</w> <w xml:id="zoor0454-9" xml:lang="arc">תלתה</w> <w xml:id="zoor0454-10" xml:lang="arc">עשר</w> <w xml:id="zoor0454-11" xml:lang="arc">יומין</w><w xml:id="zoor0454-12" xml:lang="arc"><supplied reason="lost">בירח</supplied></w><w xml:id="zoor0454-13" xml:lang="arc"><supplied reason="lost">ב</supplied></w><w xml:id="zoor0454-14" xml:lang="arc">שתה</w></p>
+        <div type="edition" subtype="transcription_segmented"><p><w xml:id="zoor0454-1" xml:lang="arc">תתניח</w> <w xml:id="zoor0454-2" xml:lang="arc">נפשה</w> <w xml:id="zoor0454-3" xml:lang="arc">דחגוון</w> <w xml:id="zoor0454-4" xml:lang="arc">בר</w> <w xml:id="zoor0454-5" xml:lang="arc">יודה</w><w xml:id="zoor0454-6" xml:lang="arc">ת</w> <w xml:id="zoor0454-7" xml:lang="arc">ביום</w> <w xml:id="zoor0454-8" xml:lang="arc">תלתה</w> <w xml:id="zoor0454-9" xml:lang="arc">עשר</w> <w xml:id="zoor0454-10" xml:lang="arc">יומין</w><w xml:id="zoor0454-11" xml:lang="arc"><supplied reason="lost">בירח</supplied></w><w xml:id="zoor0454-12" xml:lang="arc">שתה</w></p>
 </div>
 </body>
         <back>

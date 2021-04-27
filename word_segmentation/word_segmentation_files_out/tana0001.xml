@@ -41,7 +41,7 @@
                     </msIdentifier>
                     <!--  *************************************  <msContents>  ********************************* -->
                     <msContents>
-                        <textLang mainLang="he" otherLangs=""/>
+                        <textLang mainLang="phn" otherLangs=""/>
                         <!-- lat, grc, heb, arc -->
                         <!-- religion here? -->
                         <msItem class="#label.ownership" ana="#other_religion">
@@ -148,6 +148,7 @@
          <change when="2019-01-29" who="persons.xml#Elli_Mylonas">
                 adding period attribute to date element, with Periodo value.
             </change>
+            <change when="2021-04-08" who="Chris Zeichmann">changed language to Phoenician</change>
       </revisionDesc>
     </teiHeader>
     <!--  *************************************  <facsimile>  *********************************
@@ -181,7 +182,7 @@
             </div>
             <!-- The bibl has more contained elements. What is the possible list of values of the biblScope/@type? 
              -->
-        <div type="edition" subtype="transcription_segmented"><p><w xml:id="tana0001-1" xml:lang="he">גרמלקרת</w></p>
+        <div type="edition" subtype="transcription_segmented"><p><w xml:id="tana0001-1" xml:lang="phn">גרמלקרת</w></p>
 </div>
 </body>
         <back>

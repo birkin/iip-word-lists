@@ -70,7 +70,7 @@
                <!-- ********* <history> ********* -->
                <history>
                   <origin>
-                     <date period="http://n2t.net/ark:/99152/p0m63njjcn4" notBefore="0300" notAfter="0650">300-650.</date>
+                     <date period="http://n2t.net/ark:/99152/p0m63njjcn4" notBefore="0300" notAfter="0650">300-650 CE</date>
                      <placeName>
                         <region>Coastal Plain</region>
                         <settlement ref="http://pleiades.stoa.org/places/678401">Caesarea</settlement>
@@ -115,11 +115,12 @@
    <text>
       <body>
          <div type="edition" ana="#b1" subtype="transcription" xml:id="caes0220.transcription">
-            <p>+ θή<supplied reason="undefined">κη</supplied> <gap reason="illegible" quantity="3" unit="character"/>
+            <p><g type="cross">+</g> θή<supplied reason="undefined">κη</supplied>
+               <gap reason="illegible" quantity="3" unit="character"/>
                <lb/>
             </p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="caes0220-1" xml:lang="grc">θή</w><w xml:id="caes0220-2" xml:lang="grc"><supplied reason="undefined">κη</supplied></w></p>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="caes0220-1" xml:lang="grc">θή</w></p>
 </div>
 </body>
       <back>

@@ -108,10 +108,10 @@
    <text>
       <body>
          <div type="edition" ana="#b1" xml:lang="grc" subtype="transcription" xml:id="elus0099.transcription">
-            <p>ΣΩ<gap reason="lost" unit="character" extent="unknown"/>
+            <p><orig>ΣΩ</orig><gap reason="lost" unit="character" extent="unknown"/>
             </p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="elus0099-1" xml:lang="grc">ΣΩ</w></p>
+      <div type="edition" subtype="transcription_segmented"><p/>
 </div>
 </body>
       <back>

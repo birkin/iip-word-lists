@@ -120,9 +120,9 @@
             <p>Γρηγω<supplied reason="undefined">ρίου</supplied>
                <gap reason="lost" extent="unknown" unit="character"/>
                <lb/>
-               <gap reason="illegible" quantity="1" unit="character"/>Κ</p>
+               <gap reason="illegible" quantity="1" unit="character"/><orig>Κ</orig></p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="caes0319-1" xml:lang="grc">Γρηγω</w><w xml:id="caes0319-2" xml:lang="grc"><supplied reason="undefined">ρίου</supplied></w><w xml:id="caes0319-3" xml:lang="grc">Κ</w></p>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="caes0319-1" xml:lang="grc">Γρηγω</w></p>
 </div>
 </body>
       <back>

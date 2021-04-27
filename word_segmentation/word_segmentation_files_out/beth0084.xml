@@ -122,7 +122,7 @@
                <rs type="formula" ana="interpretations.xml#courage">Have courage</rs>, <persName xml:lang="hbo " ref="persons.xml#beth0084p01">Isaac </persName>
             </p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="beth0084-1" xml:lang="grc">Θά</w><w xml:id="beth0084-2" xml:lang="grc"><supplied reason="lost">ρ</supplied></w><w xml:id="beth0084-3" xml:lang="grc">σι</w> <w xml:id="beth0084-4" xml:lang="grc">Εἰσάκ</w></p>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="beth0084-1" xml:lang="grc">Θ</w><w xml:id="beth0084-2" xml:lang="grc"><supplied reason="lost">ρ</supplied></w><w xml:id="beth0084-3" xml:lang="grc">ι</w> <w xml:id="beth0084-4" xml:lang="grc">Εἰσάκ</w></p>
 </div>
 </body>
       <back>

@@ -70,7 +70,7 @@
                <!-- ********* <history> ********* -->
                <history>
                   <origin>
-                     <date period="http://n2t.net/ark:/99152/p0m63njjcn4" notBefore="0300" notAfter="0650">300-650.</date>
+                     <date period="http://n2t.net/ark:/99152/p0m63njjcn4" notBefore="0300" notAfter="0650">300-650 CE</date>
                      <placeName>
                         <region>Coastal Plain</region>
                         <settlement ref="http://pleiades.stoa.org/places/678401">Caesarea</settlement>
@@ -117,9 +117,8 @@
          <div type="edition" ana="#b1" subtype="transcription" xml:id="caes0209.transcription" corresp="#caes0209.translation">
             <p>Ἀναστασίου<lb/>
                <expan><abbr>Ἀμιβέλλ</abbr><ex>ου</ex></expan>
-               <lb/> 
-θήκη. + 
-</p>
+               <lb/> θήκη. <g type="cross">+</g>
+            </p>
          </div>
          <div type="translation" ana="#b1" xml:id="caes0209.translation" corresp="#caes0209.transcription">
             <p>The tomb of  <persName xml:lang="grc " ref="persons.xml#caes0209p01">Anastasios</persName>, the <rs type="family">son </rs> of <persName xml:lang="grc " ref="persons.xml#caes0209p02">Amibellos</persName>.

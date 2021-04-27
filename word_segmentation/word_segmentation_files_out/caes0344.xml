@@ -117,17 +117,17 @@
       <body>
          <div type="edition" ana="#b1" subtype="transcription" xml:id="caes0344.transcription">
             <p>
-               <gap reason="illegible" quantity="2" unit="character"/>ιωη<gap reason="illegible" quantity="2" unit="character"/>
-               <lb/>
-               <gap reason="illegible" quantity="2" unit="character"/>φω<gap reason="illegible" quantity="2" unit="character"/>
-               <lb/>
-               <gap reason="illegible" quantity="2" unit="character"/>κεα<gap reason="illegible" quantity="2" unit="character"/>
-               <lb/>
-               <gap reason="illegible" quantity="2" unit="character"/>ταδ<gap reason="illegible" quantity="2" unit="character"/>
-               <lb/>
+               <orig><gap reason="illegible" quantity="2" unit="character"/>ιωη<gap reason="illegible" quantity="2" unit="character"/>
+                  <lb/>
+                  <gap reason="illegible" quantity="2" unit="character"/>φω<gap reason="illegible" quantity="2" unit="character"/>
+                  <lb/>
+                  <gap reason="illegible" quantity="2" unit="character"/>κεα<gap reason="illegible" quantity="2" unit="character"/>
+                  <lb/>
+                  <gap reason="illegible" quantity="2" unit="character"/>ταδ<gap reason="illegible" quantity="2" unit="character"/>
+               </orig><lb/>
             </p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="caes0344-1" xml:lang="grc">ιωη</w> <w xml:id="caes0344-2" xml:lang="grc">φω</w> <w xml:id="caes0344-3" xml:lang="grc">κεα</w> <w xml:id="caes0344-4" xml:lang="grc">ταδ</w></p>
+      <div type="edition" subtype="transcription_segmented"><p/>
 </div>
 </body>
       <back>

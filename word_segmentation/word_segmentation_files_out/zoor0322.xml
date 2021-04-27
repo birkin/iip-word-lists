@@ -126,7 +126,7 @@
             <p>Be of good cheer. Monument of Valentinus, son of Theodotos, who died in (the) year
                227.</p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="zoor0322-1" xml:lang="grc"><choice>Θάρσει</choice></w><w xml:id="zoor0322-2" xml:lang="grc"><choice>Μνημεῖον</choice></w><w xml:id="zoor0322-3" xml:lang="grc"><choice>Οὑαλεντίνου</choice></w><w xml:id="zoor0322-4" xml:lang="grc">Θεοδότου</w> <w xml:id="zoor0322-5" xml:lang="grc">ἀποθανόντος</w><w xml:id="zoor0322-6" xml:lang="grc"><expan><abbr>ἔτ</abbr><ex>ους</ex></expan></w><num value="227">σκζ</num></p>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="zoor0322-1" xml:lang="grc"><choice><orig>Μνημῖον</orig><reg>Μνημεῖον</reg></choice></w><w xml:id="zoor0322-2" xml:lang="grc">Θεοδότου</w> <w xml:id="zoor0322-3" xml:lang="grc">ἀποθανόντος</w><w xml:id="zoor0322-4" xml:lang="grc"><expan><abbr>ἔτ</abbr><ex>ους</ex></expan></w><num value="227">σκζ</num></p>
 </div>
 </body>
       <back>
