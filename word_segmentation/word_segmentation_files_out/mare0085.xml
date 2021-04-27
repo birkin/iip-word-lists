@@ -148,10 +148,8 @@
             </div>
         <div type="edition" subtype="transcription_segmented"><p><w xml:id="mare0085-1" xml:lang="arc">לנחום</w> <w xml:id="mare0085-2" xml:lang="arc">קמח</w> <w xml:id="mare0085-3" xml:lang="arc">ס</w><num value="1">
                   <g type="one-slanted-stroke"/>
-               </num><w xml:id="mare0085-4" xml:lang="arc"><unclear cert="low">שס</unclear></w><num value="1">
-                  <w xml:id="mare0085-5" xml:lang="arc"><unclear cert="low"><g type="one-slanted-stroke"/></unclear></w>
-               </num><w xml:id="mare0085-6" xml:lang="arc"><unclear cert="low">ק </unclear></w><num value="2">
-                  <w xml:id="mare0085-7" xml:lang="arc"><unclear cert="low"><g type="two-slanted-strokes"/></unclear></w>
+               </num><w xml:id="mare0085-4" xml:lang="arc"><unclear cert="low">שס</unclear></w><num value="1"> <w xml:id="mare0085-5" xml:lang="arc"><unclear cert="low"><g type="one-slanted-stroke"/></unclear></w> 
+               </num><w xml:id="mare0085-6" xml:lang="arc"><unclear cert="low">ק </unclear></w><num value="2"> <w xml:id="mare0085-7" xml:lang="arc"><unclear cert="low"><g type="two-slanted-strokes"/></unclear></w> 
                </num></p>
 </div>
 </body>

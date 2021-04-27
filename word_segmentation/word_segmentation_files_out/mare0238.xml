@@ -141,8 +141,7 @@
                 <p>The lower case given in the diplomatic transcription reflects the choice of the
                     editor.</p>
             </div>
-        <div type="edition" subtype="transcription_segmented"><p><num value="2">
-                  <w xml:id="mare0238-1" xml:lang="grc"><unclear>β</unclear></w>
+        <div type="edition" subtype="transcription_segmented"><p><num value="2"> <w xml:id="mare0238-1" xml:lang="grc"><unclear>β</unclear></w> 
                </num><w xml:id="mare0238-2" xml:lang="grc"><expan><abbr>σέ</abbr><ex>αι</ex></expan></w></p>
 </div>
 </body>

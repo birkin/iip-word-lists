@@ -144,8 +144,7 @@
             <div type="commentary" ana="b1">
                 <p/>
             </div>
-        <div type="edition" subtype="transcription_segmented"><p><w xml:id="mare0082-1" xml:lang="arc">כרם</w> <w xml:id="mare0082-2" xml:lang="arc">ט</w><w xml:id="mare0082-3" xml:lang="arc"><unclear>ב</unclear></w><num value="10">
-                  <w xml:id="mare0082-4" xml:lang="arc"><unclear><g type="phoen-10"/></unclear></w>
+        <div type="edition" subtype="transcription_segmented"><p><w xml:id="mare0082-1" xml:lang="arc">כרם</w> <w xml:id="mare0082-2" xml:lang="arc">ט</w><w xml:id="mare0082-3" xml:lang="arc"><unclear>ב</unclear></w><num value="10"> <w xml:id="mare0082-4" xml:lang="arc"><unclear><g type="phoen-10"/></unclear></w> 
                </num></p>
 </div>
 </body>

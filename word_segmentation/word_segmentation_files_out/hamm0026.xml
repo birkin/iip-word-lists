@@ -137,7 +137,7 @@
             <p>Christ, help <persName xml:lang="la " ref="persons.xml#hamm0026p01">Siricius </persName> the <rs type="ethnicon">Gazean </rs>
                     <rs type="admTitle">agens in rebus</rs>, and <persName xml:lang="la " ref="persons.xml#hamm0026p02">Antoninus</persName>.</p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="hamm0026-1" xml:lang="grc"><expan><abbr>Χρ</abbr><ex>ι</ex><abbr>στὲ</abbr></expan></w><w xml:id="hamm0026-2" xml:lang="grc">Ϲιρικίῳ</w> <w xml:id="hamm0026-3" xml:lang="grc">τῷ</w> <w xml:id="hamm0026-4" xml:lang="grc">μαγιστριανῷ</w> <w xml:id="hamm0026-5" xml:lang="grc">τῷ</w> <w xml:id="hamm0026-6" xml:lang="grc">Γαζαιῳ</w><w xml:id="hamm0026-7" xml:lang="grc">καὶ</w> <w xml:id="hamm0026-8" xml:lang="grc">Ἀντωνίνῳ</w></p>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="hamm0026-1" xml:lang="grc"><expan><abbr>Χρ</abbr><ex>ι</ex><abbr>στὲ</abbr></expan></w><w xml:id="hamm0026-2" xml:lang="grc"><expan><abbr>βοήθ</abbr><ex>ε</ex><abbr>ι</abbr></expan></w><w xml:id="hamm0026-3" xml:lang="grc">Ϲιρικίῳ</w> <w xml:id="hamm0026-4" xml:lang="grc">τῷ</w> <w xml:id="hamm0026-5" xml:lang="grc">μαγιστριανῷ</w> <w xml:id="hamm0026-6" xml:lang="grc">τῷ</w> <w xml:id="hamm0026-7" xml:lang="grc">Γαζαιῳ</w><w xml:id="hamm0026-8" xml:lang="grc">καὶ</w> <w xml:id="hamm0026-9" xml:lang="grc">Ἀντωνίνῳ</w></p>
 </div>
 </body>
       <back>

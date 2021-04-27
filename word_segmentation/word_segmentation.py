@@ -5,7 +5,7 @@ word_segmentation.py
 
 Segment words from the XML files with <w> elements and export a CSV of words
 
-DISCLAIMER - this is a prototype and not meant to be used in production 
+DISCLAIMER - this is a prototype and not meant to be used in production
 
 
 """
@@ -165,36 +165,13 @@ for strTextFullPath in vTextFullPaths:
 		strXMLText = re.sub(r"<add>(.*?)</add>", r"\1", strXMLText)
 		strXMLText = re.sub(r"<add(([^>]|\s)*?)>(.*?)</add>", r"\2", strXMLText)
 
-		# Supplied, Orig/Reg, expan, abbr, unclear, hi, choice
+		# Supplied, Reg, expan, abbr, unclear, hi, choice
 		strXMLText = re.sub(r'<supplied reason="\w+"/>', '', strXMLText)
-		strXMLText = re.sub(r'(\s+)<supplied([^>]*?)>(.*?)</supplied>(\s+)', r"\1<w><supplied \2>\3</supplied></w>\4", strXMLText)
-		strXMLText = re.sub(r'^\s+<supplied([^>]*?)>(.*?)</supplied>(\s+)', r"<w><supplied \1>\2</supplied></w>\3", strXMLText)
-		strXMLText = re.sub(r'(\s+)<supplied([^>]*?)>(.*?)</supplied>^\s+', r"\1<w><supplied \2>\3</supplied></w>", strXMLText)
 
-		strXMLText = re.sub(r'(\s+)<reg([^>]*?)>(.*?)</reg>(\s+)', r"\1<w><reg \2>\3</reg></w>\4", strXMLText)
-		strXMLText = re.sub(r'^\s+<reg([^>]*?)>(.*?)</reg>(\s+)', r"<w><reg \1>\2</reg></w>\3", strXMLText)
-		strXMLText = re.sub(r'(\s+)<reg([^>]*?)>(.*?)</reg>^\s+', r"\1<w><reg \2>\3</reg></w>", strXMLText)
+		elems_to_wrap = ["supplied", "reg", "expan", "abbr", "unclear", "hi", "choice"]
 
-		strXMLText = re.sub(r'(\s+)<expan([^>]*?)>(.*?)</expan>(\s+)', r"\1<w><expan \2>\3</expan></w>\4", strXMLText)
-		strXMLText = re.sub(r'^\s+<expan([^>]*?)>(.*?)</expan>(\s+)', r"<w><expan \1>\2</expan></w>\3", strXMLText)
-		strXMLText = re.sub(r'(\s+)<expan([^>]*?)>(.*?)</expan>^\s+', r"\1<w><expan \2>\3</expan></w>", strXMLText)
-
-		strXMLText = re.sub(r'(\s+)<abbr([^>]*?)>(.*?)</abbr>(\s+)', r"\1<w><abbr \2>\3</abbr></w>\4", strXMLText)
-		strXMLText = re.sub(r'^\s+<abbr([^>]*?)>(.*?)</abbr>(\s+)', r"<w><abbr \1>\2</abbr></w>\3", strXMLText)
-		strXMLText = re.sub(r'(\s+)<abbr([^>]*?)>(.*?)</abbr>^\s+', r"\1<w><abbbr \2>\3</abbr></w>", strXMLText)
-
-		strXMLText = re.sub(r'(\s+)<unclear([^>]*?)>(.*?)</unclear>(\s+)', r"\1<w><unclear \2>\3</unclear></w>\4", strXMLText)
-		strXMLText = re.sub(r'^\s+<unclear([^>]*?)>(.*?)</unclear>(\s+)', r"<w><unclear \1>\2</unclear></w>\3", strXMLText)
-		strXMLText = re.sub(r'(\s+)<unclear([^>]*?)>(.*?)</unclear>^\s+', r"\1<w><unclear \2>\3</unclear></w>", strXMLText)
-
-		strXMLText = re.sub(r'(\s+)<hi([^>]*?)>(.*?)</hi>(\s+)', r"\1<w><hi \2>\3</hi></w>\4", strXMLText)
-		strXMLText = re.sub(r'^\s+<hi([^>]*?)>(.*?)</hi>(\s+)', r"<w><hi \1>\2</hi></w>\3", strXMLText)
-		strXMLText = re.sub(r'(\s+)<hi([^>]*?)>(.*?)</hi>^\s+', r"\1<w><hi \2>\3</hi></w>", strXMLText)
-
-		strXMLText = re.sub(r'(\s+)<choice([^>]*?)>(.*?)</choice>(\s+)', r"\1<w><choice \2>\3</choice></w>\4", strXMLText)
-		strXMLText = re.sub(r'^\s+<choice([^>]*?)>(.*?)</choice>(\s+)', r"<w><choice \1>\2</choice></w>\3", strXMLText)
-		strXMLText = re.sub(r'(\s+)<choice([^>]*?)>(.*?)</choice>^\s+', r"\1<w><choice \2>\3</choice></w>", strXMLText)
-
+		for elem_to_wrap in elems_to_wrap:
+			strXMLText = re.sub(r'\s+<{}([^>]*?)>(.*?)</{}>(?=\s)'.format(elem_to_wrap, elem_to_wrap), r" <w><{}\1>\2</{}></w> ".format(elem_to_wrap, elem_to_wrap), strXMLText)
 
 		strXMLText = re.sub(r"§+", "§", strXMLText)
 		strXMLText = re.sub(r"§", " ", strXMLText)
@@ -327,9 +304,9 @@ for strSegmentedTextFullPath in vSegmentedTexts:
 			wordNumber = wordParams[1]
 
 			if wordElem.attrib[XML_NS + 'lang'] in WORD_LISTS:
-				WORD_LISTS[wordElem.attrib[XML_NS + 'lang']].append([text, wordNumber, normalized, wordElem.attrib[XML_NS + 'lang'], wordIsNum])
+				WORD_LISTS[wordElem.attrib[XML_NS + 'lang']].append([text, wordNumber, normalized, wordElem.attrib[XML_NS + 'lang'], wordIsNum, wordElemText])
 			else:
-				WORD_LISTS[wordElem.attrib[XML_NS + 'lang']] = [[text, wordNumber, normalized, wordElem.attrib[XML_NS + 'lang'], wordIsNum]]
+				WORD_LISTS[wordElem.attrib[XML_NS + 'lang']] = [[text, wordNumber, normalized, wordElem.attrib[XML_NS + 'lang'], wordIsNum, wordElemText]]
 
 
 

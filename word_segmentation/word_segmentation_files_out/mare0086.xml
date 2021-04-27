@@ -150,12 +150,10 @@
             </div>
         <div type="edition" subtype="transcription_segmented"><p><w xml:id="mare0086-1" xml:lang="arc"><unclear cert="low">ס</unclear></w><num value="13">
                   <g type="phoen-10"/>
-                  <g type="two-slanted-strokes"/>
-                  <w xml:id="mare0086-2" xml:lang="arc"><unclear><g type="one-slanted-stroke"/></unclear></w>
+                  <g type="two-slanted-strokes"/> <w xml:id="mare0086-2" xml:lang="arc"><unclear><g type="one-slanted-stroke"/></unclear></w> 
                </num><num value="3">
                   <g type="three-slanted-strokes"/>
-               </num><num value="10">
-                  <w xml:id="mare0086-3" xml:lang="arc"><unclear><g type="phoen-10"/></unclear></w>
+               </num><num value="10"> <w xml:id="mare0086-3" xml:lang="arc"><unclear><g type="phoen-10"/></unclear></w> 
                </num></p>
 </div>
 </body>

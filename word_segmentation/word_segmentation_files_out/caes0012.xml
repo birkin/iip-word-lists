@@ -147,7 +147,7 @@
                   <persName xml:lang="la " ref="persons.xml#caes0012p04" nymRef="names.xml#caes0012n04">Maximos </persName>
                </name>.</p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="caes0012-1" xml:lang="grc"><expan><abbr>Τ</abbr><ex>ίτον</ex></expan></w><w xml:id="caes0012-2" xml:lang="grc">Μάξιμον</w> <w xml:id="caes0012-3" xml:lang="grc">κουράτορ</w> <w xml:id="caes0012-4" xml:lang="grc">πλοί</w></p>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="caes0012-1" xml:lang="grc"><expan><abbr>Τ</abbr><ex>ίτον</ex></expan></w><w xml:id="caes0012-2" xml:lang="grc"><expan><abbr>Φλ</abbr><ex>άουιον</ex></expan></w><w xml:id="caes0012-3" xml:lang="grc">Μάξιμον</w> <w xml:id="caes0012-4" xml:lang="grc">κουράτορ</w> <w xml:id="caes0012-5" xml:lang="grc">πλοί</w></p>
 </div>
 </body>
       <back>
