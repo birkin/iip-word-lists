@@ -5,6 +5,9 @@ word_segmentation.py
 
 Segment words from the XML files with <w> elements and export a CSV of words
 
+DISCLAIMER - this is a prototype and not meant to be used in production 
+
+
 """
 
 import os
