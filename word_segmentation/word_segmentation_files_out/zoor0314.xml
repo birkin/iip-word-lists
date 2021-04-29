@@ -126,7 +126,7 @@
          <div type="translation" ana="#b1" xml:id="zoor0314.translation" corresp="#zoor0314.transcription">
             <p> Here lies Alfios, (son) of Soedos, who lived 11 years.</p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="zoor0314-1" xml:lang="grc"><supplied reason="undefined">+</supplied></w><w xml:id="zoor0314-2" xml:lang="grc"><choice>Ἐν</choice></w><w xml:id="zoor0314-3" xml:lang="grc"><choice>κεῖται</choice></w><w xml:id="zoor0314-4" xml:lang="grc">Ἄλφιος</w> <w xml:id="zoor0314-5" xml:lang="grc">Σοέδου</w> <w xml:id="zoor0314-6" xml:lang="grc">ζήσας</w> <w xml:id="zoor0314-7" xml:lang="grc">ἔτη</w><num>ιαʹ</num></p>
+      <div type="edition" subtype="transcription_segmented"><p/>
 </div>
 </body>
       <back>

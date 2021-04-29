@@ -122,7 +122,7 @@
                <rs type="formula" ana="interpretations.xml#lies">Here lies </rs>
                <persName xml:lang="la " ref="persons.xml#beth0160p01">Furia</persName>, the <rs type="family" ana="interpretations.xml#daughter">daughter</rs>.</p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="beth0160-1" xml:lang="grc">Ἔνθα</w> <w xml:id="beth0160-2" xml:lang="grc">κῖτε</w><w xml:id="beth0160-3" xml:lang="grc">Φ</w> <w xml:id="beth0160-4" xml:lang="grc">Φυρία</w> <w xml:id="beth0160-5" xml:lang="grc">θυγά</w></p>
+      <div type="edition" subtype="transcription_segmented"><p/>
 </div>
 </body>
       <back>

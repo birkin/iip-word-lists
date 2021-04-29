@@ -124,7 +124,7 @@
             <p>
                <rs type="formula" ana="interpretations.xml#lie">Here lie</rs>...the <rs type="epithet" ana="interpretations.xml#blessed">blessed </rs> deceased...and <persName xml:lang="hbo " ref="persons.xml#beth0177p01">Esther</persName>.</p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="beth0177-1" xml:lang="grc">Ὧδε</w> <w xml:id="beth0177-2" xml:lang="grc">κῖντε</w> <w xml:id="beth0177-3" xml:lang="grc">ἡ</w> <w xml:id="beth0177-4" xml:lang="grc">μακαρία</w><w xml:id="beth0177-5" xml:lang="grc"><supplied reason="lost">ἡ</supplied></w><w xml:id="beth0177-6" xml:lang="grc"><supplied reason="lost">δεῖνα</supplied></w><w xml:id="beth0177-7" xml:lang="grc"><supplied reason="lost">καί</supplied></w><w xml:id="beth0177-8" xml:lang="grc">Ἀστήρ</w></p>
+      <div type="edition" subtype="transcription_segmented"><p/>
 </div>
 </body>
       <back>

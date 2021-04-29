@@ -112,7 +112,7 @@
                <gap reason="lost" unit="character" extent="unknown"/><gap reason="illegible" quantity="1" unit="character"/>ΕΥ<gap reason="illegible" quantity="1" unit="character"/><gap reason="lost" unit="character" extent="unknown"/>
             </p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="elus0086-1" xml:lang="grc">ΕΥ</w></p>
+      <div type="edition" subtype="transcription_segmented"><p/>
 </div>
 </body>
       <back>

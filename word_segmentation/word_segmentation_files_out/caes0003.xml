@@ -145,7 +145,7 @@
                   <persName xml:lang="la " ref="persons.xml#caes0003p05" nymRef="names.xml#caes0003n05">Augustus </persName>
                </name>. By decree of the decurions and at public expense.</p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="caes0003-1" xml:lang="la"><expan><abbr>M</abbr><ex>arcum</ex></expan></w><w xml:id="caes0003-2" xml:lang="la"><expan><abbr>Fl</abbr><ex>avium</ex></expan></w><w xml:id="caes0003-3" xml:lang="la">Agrippam</w><w xml:id="caes0003-4" xml:lang="la"><expan><abbr>pontif</abbr><ex>icem</ex></expan></w><w xml:id="caes0003-5" xml:lang="la"><expan><abbr><am>II</am></abbr><ex>duum</ex><abbr>viral</abbr><ex>em</ex></expan></w><w xml:id="caes0003-6" xml:lang="la"><expan><abbr>col</abbr><ex>oniae</ex></expan></w><num value="1">I</num><w xml:id="caes0003-7" xml:lang="la"><expan><abbr>Fl</abbr><ex>aviae</ex></expan></w><w xml:id="caes0003-8" xml:lang="la"><expan><abbr>Aug</abbr><ex>ustae</ex></expan></w><w xml:id="caes0003-9" xml:lang="la">Caesareae</w> <w xml:id="caes0003-10" xml:lang="la">oratorem</w> <w xml:id="caes0003-11" xml:lang="la">ex</w><w xml:id="caes0003-12" xml:lang="la"><expan><abbr>dec</abbr><ex>reto</ex></expan></w><w xml:id="caes0003-13" xml:lang="la"><expan><abbr>dec</abbr><ex>urionum</ex></expan></w><w xml:id="caes0003-14" xml:lang="la"><expan><abbr>pec</abbr><ex>unia</ex></expan></w></p>
+      <div type="edition" subtype="transcription_segmented"><p/>
 </div>
 </body>
       <back>

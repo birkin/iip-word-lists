@@ -125,7 +125,7 @@
             <p>The tomb of  <persName xml:lang="grc " ref="persons.xml#caes0210p01">Polychronios </persName> and <persName xml:lang="la " ref="persons.xml#caes0210p02">Oursos</persName>, <rs type="family">children </rs> of <persName xml:lang="la " ref="persons.xml#caes0210p03">Severos</persName>.
 				</p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="caes0210-1" xml:lang="grc">θήκ</w><w xml:id="caes0210-2" xml:lang="grc"><supplied reason="undefined">Πο</supplied>λυχρο<supplied reason="undefined">νίου</supplied></w><w xml:id="caes0210-3" xml:lang="grc">κὲ</w> <w xml:id="caes0210-4" xml:lang="grc">Οὔρ</w><w xml:id="caes0210-5" xml:lang="grc">υ</w> <w xml:id="caes0210-6" xml:lang="grc">τεκ</w><w xml:id="caes0210-7" xml:lang="grc">Σευ</w></p>
+      <div type="edition" subtype="transcription_segmented"><p/>
 </div>
 </body>
       <back>

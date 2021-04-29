@@ -126,7 +126,7 @@
                <persName xml:lang="hbo " ref="persons.xml#beth0233p01">Anina </persName> the <rs type="epithet" ana="interpretations.xml#little">Little </rs>
             </p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="beth0233-1" xml:lang="he">אנינא</w> <w xml:id="beth0233-2" xml:lang="he">הקטן</w></p>
+      <div type="edition" subtype="transcription_segmented"><p/>
 </div>
 </body>
       <back>

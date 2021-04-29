@@ -124,7 +124,7 @@
                   <persName xml:lang="hbo " ref="persons.xml#beth0099p01">Samuel</persName>, son of <persName xml:lang="hbo " type="patr" ref="persons.xml#beth0099p02">Isaac </persName> the <rs type="epithet" ana="interpretations.xml#poor">poor</rs>, son of <persName type="gpatr" xml:lang="grc " ref="persons.xml#beth0099p03">Anastasios </persName>
                </name>.</p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="beth0099-1" xml:lang="grc">Σαμουὲλ</w> <w xml:id="beth0099-2" xml:lang="grc">Ἰσαάκου</w> <w xml:id="beth0099-3" xml:lang="grc">πενηχροῦἈναστασ</w><w xml:id="beth0099-4" xml:lang="grc">ου</w></p>
+      <div type="edition" subtype="transcription_segmented"><p/>
 </div>
 </body>
       <back>

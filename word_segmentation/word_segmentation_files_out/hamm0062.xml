@@ -136,7 +136,7 @@
          <div type="translation" ana="#b1" xml:id="hamm0062.translation" corresp="#hamm0062.diplomatic #hamm0062.transcription">
             <p>O Lord God, help <persName xml:lang="la " ref="persons.xml#hamm0062p01">Gennadius </persName> the <rs type="admTitle">praefectianus </rs> and his <rs type="family">children</rs>.</p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="hamm0062-1" xml:lang="grc">ς</w><w xml:id="hamm0062-2" xml:lang="grc"><expan><abbr>Θ</abbr><ex>εὸ</ex><abbr>ς</abbr></expan></w><w xml:id="hamm0062-3" xml:lang="grc"><expan><abbr>βοήθ</abbr><ex>ε</ex><abbr>ι</abbr></expan></w><w xml:id="hamm0062-4" xml:lang="grc">Γεννα</w><w xml:id="hamm0062-5" xml:lang="grc">αρχικῴ</w> <w xml:id="hamm0062-6" xml:lang="grc">καὶ</w> <w xml:id="hamm0062-7" xml:lang="grc">τοῖς</w><w xml:id="hamm0062-8" xml:lang="grc">ς</w> <w xml:id="hamm0062-9" xml:lang="grc">αὐτοῦ</w></p>
+      <div type="edition" subtype="transcription_segmented"><p/>
 </div>
 </body>
       <back>

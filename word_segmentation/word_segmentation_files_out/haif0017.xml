@@ -189,7 +189,7 @@
             </div>
             <!-- The bibl has more contained elements. What is the possible list of values of the biblScope/@type? 
              -->
-        <div type="edition" subtype="transcription_segmented"><p><w xml:id="haif0017-1" xml:lang="grc">Μνησθῇ</w> <w xml:id="haif0017-2" xml:lang="grc">Ελι</w> <w xml:id="haif0017-3" xml:lang="grc">ος</w> <w xml:id="haif0017-4" xml:lang="grc">Μέγιστος</w> <w xml:id="haif0017-5" xml:lang="grc">δεκουρίων</w><w xml:id="haif0017-6" xml:lang="grc"><expan><abbr>Κολ</abbr><ex>ονίας</ex></expan></w><w xml:id="haif0017-7" xml:lang="grc"><expan><abbr>Πτο</abbr><ex>λεμαίδος</ex></expan></w><w xml:id="haif0017-8" xml:lang="grc">ἃμα</w> <w xml:id="haif0017-9" xml:lang="grc">Κυρ</w><w xml:id="haif0017-10" xml:lang="grc">λλω</w> <w xml:id="haif0017-11" xml:lang="grc">ὑιώ</w> <w xml:id="haif0017-12" xml:lang="grc">ΕΙΛΕ</w> <w xml:id="haif0017-13" xml:lang="grc">ΣΤΩΜΗ</w> <w xml:id="haif0017-14" xml:lang="grc">ΛΙΕΝΟΝΤΙ</w> <w xml:id="haif0017-15" xml:lang="grc">ὁ</w> <w xml:id="haif0017-16" xml:lang="grc">τόπος</w></p>
+        <div type="edition" subtype="transcription_segmented"><p/>
 </div>
 </body>
         <back>

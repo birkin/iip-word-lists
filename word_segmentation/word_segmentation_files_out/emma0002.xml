@@ -131,7 +131,7 @@
          <div type="translation" ana="#b1" xml:id="emma0001.translation" corresp="#emma0001.transcription">
             <p>… and remaining brothers Pelagius and Thomas.</p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="emma0002-1" xml:lang="grc"><choice><reg>καὶ</reg><orig>κὲ</orig></choice></w><w xml:id="emma0002-2" xml:lang="grc"><expan><abbr>λ</abbr><ex>ο</ex><abbr>ιπῶν</abbr></expan></w><w xml:id="emma0002-3" xml:lang="grc"><choice><reg><supplied reason="lost">ἀ</supplied>δελφῶν</reg><orig><supplied reason="lost">ἀ</supplied>δηλφῶν</orig></choice></w><w xml:id="emma0002-4" xml:lang="grc">λαγίου</w><w xml:id="emma0002-5" xml:lang="grc"><expan><abbr>κ<am>ϛ</am></abbr><ex>αὶ</ex></expan></w><w xml:id="emma0002-6" xml:lang="grc">Θωμᾶ</w></p>
+      <div type="edition" subtype="transcription_segmented"><p/>
 </div>
 </body>
       <back>

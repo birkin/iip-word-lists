@@ -117,7 +117,7 @@
             <p>The <rs type="object" ana="interpretations.xml#tomb">tomb </rs> of <persName xml:lang="grc " ref="persons.xml#beth0135p01">Elpidia </persName>
             </p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="beth0135-1" xml:lang="grc">Τόπος</w><w xml:id="beth0135-2" xml:lang="grc"><supplied reason="lost">Ἐ</supplied></w><w xml:id="beth0135-3" xml:lang="grc">πιδίας</w></p>
+      <div type="edition" subtype="transcription_segmented"><p/>
 </div>
 </body>
       <back>

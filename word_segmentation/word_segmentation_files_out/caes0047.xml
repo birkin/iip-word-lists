@@ -144,7 +144,7 @@
                   <persName xml:lang="la " ref="persons.xml#caes0047p03" nymRef="names.xml#caes0047n03">Augustus </persName>
                </name>.</p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="caes0047-1" xml:lang="la"><expan><abbr>Imp</abbr><ex>eratore</ex></expan></w><w xml:id="caes0047-2" xml:lang="la"><expan><abbr>Caes</abbr><ex>are</ex></expan></w><w xml:id="caes0047-3" xml:lang="la"><expan><abbr><hi rend="ligature">Tr</hi>a</abbr><ex>iano</ex></expan></w><w xml:id="caes0047-4" xml:lang="la"><expan><abbr>Had</abbr><ex>riano</ex></expan></w><w xml:id="caes0047-5" xml:lang="la"><expan><abbr>Aug</abbr><ex>usto</ex></expan></w><w xml:id="caes0047-6" xml:lang="la"><expan><abbr>vex</abbr><ex>illatio</ex></expan></w><w xml:id="caes0047-7" xml:lang="la"><expan><abbr>leg</abbr><ex>ionis</ex></expan></w><num>II</num><w xml:id="caes0047-8" xml:lang="la"><expan><abbr>Tra</abbr><ex>ianae</ex></expan></w></p>
+      <div type="edition" subtype="transcription_segmented"><p/>
 </div>
 </body>
       <back>

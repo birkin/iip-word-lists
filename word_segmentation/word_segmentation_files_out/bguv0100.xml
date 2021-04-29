@@ -187,7 +187,7 @@
             </div>
             <!-- The bibl has more contained elements. What is the possible list of values of the biblScope/@type? 
              -->
-        <div type="edition" subtype="transcription_segmented"><p><w xml:id="bguv0100-1" xml:lang="grc">ἐπι</w><w xml:id="bguv0100-2" xml:lang="grc"><expan><abbr>Φλ</abbr><ex>αουίου</ex></expan></w><w xml:id="bguv0100-3" xml:lang="grc">Κυντιανοῦ</w> <w xml:id="bguv0100-4" xml:lang="grc">τοῦ</w><w xml:id="bguv0100-5" xml:lang="grc"><expan><abbr>λαμπρ</abbr><ex>οτάτου</ex></expan></w><w xml:id="bguv0100-6" xml:lang="grc"><expan><abbr>κομ</abbr><ex>ήτος</ex></expan></w><w xml:id="bguv0100-7" xml:lang="grc">καὶ</w> <w xml:id="bguv0100-8" xml:lang="grc">κουκὸσ</w> <w xml:id="bguv0100-9" xml:lang="grc">τὸ</w> <w xml:id="bguv0100-10" xml:lang="grc">ἀπαντητἠρι</w><w xml:id="bguv0100-11" xml:lang="grc">ν</w> <w xml:id="bguv0100-12" xml:lang="grc">ἐκ</w> <w xml:id="bguv0100-13" xml:lang="grc">θεμελίων</w> <w xml:id="bguv0100-14" xml:lang="grc">ἐκτίσθη</w></p>
+        <div type="edition" subtype="transcription_segmented"><p/>
 </div>
 </body>
         <back>

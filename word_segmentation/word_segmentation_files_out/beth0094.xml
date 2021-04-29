@@ -123,7 +123,7 @@
                <persName xml:lang="hbo " ref="persons.xml#beth0094p02">Samuel</persName>, the <rs type="epithet" ana="interpretations.xml#child">child</rs>, <rs type="formula" ana="interpretations.xml#lies">lie
 						here</rs>.</p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="beth0094-1" xml:lang="grc">Ἴκουβος</w> <w xml:id="beth0094-2" xml:lang="grc">καὶ</w> <w xml:id="beth0094-3" xml:lang="grc">ὑὸς</w> <w xml:id="beth0094-4" xml:lang="grc">Σαμουῆλος</w> <w xml:id="beth0094-5" xml:lang="grc">τέκο</w><w xml:id="beth0094-6" xml:lang="grc">θάδε</w> <w xml:id="beth0094-7" xml:lang="grc">κῖτε</w></p>
+      <div type="edition" subtype="transcription_segmented"><p/>
 </div>
 </body>
       <back>

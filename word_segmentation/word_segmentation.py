@@ -145,33 +145,32 @@ for strTextFullPath in vTextFullPaths:
 		strXMLText = re.sub(r"<orgName>(.*?)</orgName>", "", strXMLText)
 		strXMLText = re.sub(r"<([/]*)handShift([^>]*?)>", "", strXMLText)
 		strXMLText = re.sub(r"<space([^>]*?)>", "", strXMLText)
-		strXMLText = re.sub(r"<sic([^>]*?)>(.*?)</sic>", r"", strXMLText)
-		strXMLText = re.sub(r"<([/]*)sic([/]*)>", "", strXMLText)
-		strXMLText = re.sub(r"<corr([^>]*?)>(.*?)</corr>", r"\2", strXMLText)
 
-		# Deal with <app>
-		strXMLText = re.sub(r"<app>(.*?)</app>", r"§\1§", strXMLText)
-		strXMLText = re.sub(r"<app([^>]*)>(.*?)</app>", r"\2", strXMLText)
-		strXMLText = re.sub(r"<lem>(.*?)</lem>", r"§\1§", strXMLText)
-		strXMLText = re.sub(r"<lem ([^>]*?)>(.*?)</lem>", r"§\2§", strXMLText)
-		strXMLText = re.sub(r"<rdg>(.*?)</rdg>", r"§ª\1§", strXMLText)
+		# replace every space inside pointy brackets with a bullet
+		# make the w breaks
+		# take every space and make it into a w
+		# add begin w and end w
+		# put back the spaces
 
-		# Substitutions: <subst> <add>replacement</add> <del>erased</del> </subst>
-		strXMLText = re.sub(r"<subst([^>]*?)>(.*?)</subst>", r"\2", strXMLText)
-		strXMLText = re.sub(r"<del>(.*?)</del>", r"", strXMLText)
-		strXMLText = re.sub(r"<del(([^>]|\s)*?)>(.*?)</del>", r"", strXMLText)
-		strXMLText = re.sub(r"<([/]*)del([/]*)>", "", strXMLText)
-		strXMLText = re.sub(r"<([/]*)del ([^>]*?)>", "", strXMLText)
-		strXMLText = re.sub(r"<add>(.*?)</add>", r"\1", strXMLText)
-		strXMLText = re.sub(r"<add(([^>]|\s)*?)>(.*?)</add>", r"\2", strXMLText)
+		# Convert any amount of whitespace to a single space
+		strXMLText = " ".join(strXMLText.split())
 
-		# Supplied, Reg, expan, abbr, unclear, hi, choice
-		strXMLText = re.sub(r'<supplied reason="\w+"/>', '', strXMLText)
+		# Convert all spaces within element tag definitions (<>) to bullets
+		# Run multiple times to get all the spaces between attribute names
+		strXMLText = re.sub(r"<([^>]*)\s([^>]*)>", "<\\1•\\2>", strXMLText)
+		strXMLText = re.sub(r"<([^>]*)\s([^>]*)>", "<\\1•\\2>", strXMLText)
+		strXMLText = re.sub(r"<([^>]*)\s([^>]*)>", "<\\1•\\2>", strXMLText)
 
-		elems_to_wrap = ["supplied", "reg", "expan", "abbr", "unclear", "hi", "choice"]
+		# Convert all whitespace in document to <w>s
+		strXMLText = re.sub(r"\s+", "</w> <w>", strXMLText)
 
-		for elem_to_wrap in elems_to_wrap:
-			strXMLText = re.sub(r'\s+<{}([^>]*?)>(.*?)</{}>(?=\s)'.format(elem_to_wrap, elem_to_wrap), r" <w><{}\1>\2</{}></w> ".format(elem_to_wrap, elem_to_wrap), strXMLText)
+		# Add a start and end <w>
+		strXMLText = re.sub(r'<p([^>]*)>', '<p\\1><w>', strXMLText)
+		strXMLText = re.sub(r"</p>", "</w></p>", strXMLText)
+
+		# Convert the bullets back to spaces
+		strXMLText = strXMLText.replace("•", " ")
+
 
 		strXMLText = re.sub(r"§+", "§", strXMLText)
 		strXMLText = re.sub(r"§", " ", strXMLText)
@@ -190,38 +189,6 @@ for strTextFullPath in vTextFullPaths:
 
 		continue
 
-	# iterate through both text and element nodes of the <p> element
-	for node in editionInput.xpath("child::node()"):
-		# Strategies for segmenting words:
-		if type(node) == etree._ElementUnicodeResult:
-			node = node.strip()
-			node = re.sub(r"[\.\,\;‧·⋅•∙]", "", node)
-			node = re.sub(r"\d+", "", node)
-			node = node.replace("_", "")
-			node = node.replace("*", "")
-			node = node.replace("+", "")
-			node = node.replace("'", "")
-			node = node.replace(":", "")
-			node = node.replace("\"", "")
-			node = node.replace("ʹ", "")
-			node = node.replace("´", "")
-			node = node.replace("ֿ", "") # The niqqud point rafe
-
-			# Segment words on just the spaces
-			words = [word for word in node.split(" ") if len(word.strip())]
-
-			# Add word child elems
-			for i, word in enumerate(words):
-				wordElem = etree.SubElement(editionSegmented, '{http://www.tei-c.org/ns/1.0}w')
-				wordElem.text = "".join(word.split())
-				if i < len(words) - 1:
-					wordElem.tail = " "
-		else:
-			node.tail = ''
-			if node.tag == '{http://www.tei-c.org/ns/1.0}w':
-				editionSegmented.append(node)
-			elif node.tag == '{http://www.tei-c.org/ns/1.0}num':
-				editionSegmented.append(node)
 
 
 	## all child nodes should have ids

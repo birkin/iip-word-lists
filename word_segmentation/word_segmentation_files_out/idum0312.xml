@@ -214,7 +214,7 @@
             </div>
             <!-- The bibl has more contained elements. What is the possible list of values of the biblScope/@type? 
              -->
-        <div type="edition" subtype="transcription_segmented"><p><w xml:id="idum0312-1" xml:lang="arc">ב</w><num value="2">2</num><w xml:id="idum0312-2" xml:lang="arc">לאיר</w> <w xml:id="idum0312-3" xml:lang="arc">שנת</w><num value="46">46</num><w xml:id="idum0312-4" xml:lang="arc">י</w><w xml:id="idum0312-5" xml:lang="arc">יאו</w> <w xml:id="idum0312-6" xml:lang="arc">לשמתו</w><w xml:id="idum0312-7" xml:lang="arc"><unclear>מ</unclear></w><w xml:id="idum0312-8" xml:lang="arc"><supplied reason="lost">ן</supplied></w><w xml:id="idum0312-9" xml:lang="arc">חא</w><w xml:id="idum0312-10" xml:lang="arc">י</w><w xml:id="idum0312-11" xml:lang="arc">חיט</w> <w xml:id="idum0312-12" xml:lang="arc">עלוהי</w><w xml:id="idum0312-13" xml:lang="arc">ה</w><w xml:id="idum0312-14" xml:lang="arc"><unclear>ח</unclear>ש<unclear>ב</unclear>ו לנת<unclear>נ</unclear></w><w xml:id="idum0312-15" xml:lang="arc"><choice><unclear>מ</unclear><unclear>ס</unclear></choice></w><w xml:id="idum0312-16" xml:lang="arc"><choice><unclear>ר</unclear><unclear>י</unclear></choice></w><w xml:id="idum0312-17" xml:lang="arc"><unclear>ן</unclear></w><w xml:id="idum0312-18" xml:lang="arc">שס</w><num value="4">4</num><w xml:id="idum0312-19" xml:lang="arc"><unclear>עליד</unclear></w><w xml:id="idum0312-20" xml:lang="arc">ךּ</w><w xml:id="idum0312-21" xml:lang="arc"><unclear>ק</unclear></w><num value="2">2</num></p>
+        <div type="edition" subtype="transcription_segmented"><p/>
 </div>
 </body>
         <back>

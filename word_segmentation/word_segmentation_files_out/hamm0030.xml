@@ -137,7 +137,7 @@
             <p>
                <rs type="formula">In this sacred place</rs>, may <persName xml:lang="la " ref="persons.xml#hamm0030p01">Bassus </persName> be remembered, and <persName xml:lang="la " ref="persons.xml#hamm0030p02">Rufinus </persName> and <persName xml:lang="la " ref="persons.xml#hamm0030p03">Theodosius </persName> and <persName xml:lang="la " ref="persons.xml#hamm0030p04">Domninus </persName> his <rs type="family">brothers</rs>.</p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="hamm0030-1" xml:lang="grc">Ἐν</w> <w xml:id="hamm0030-2" xml:lang="grc">τῷ</w> <w xml:id="hamm0030-3" xml:lang="grc">ἱερῷ</w><w xml:id="hamm0030-4" xml:lang="grc"><expan><abbr>τ</abbr><ex>όπ</ex><abbr>ῳ</abbr></expan></w><w xml:id="hamm0030-5" xml:lang="grc">μνησθῇ</w> <w xml:id="hamm0030-6" xml:lang="grc">Βάσ</w><w xml:id="hamm0030-7" xml:lang="grc">ος</w><w xml:id="hamm0030-8" xml:lang="grc"><expan><abbr>κ</abbr><ex>αὶ</ex></expan></w><w xml:id="hamm0030-9" xml:lang="grc">Ῥουφῖνος</w><w xml:id="hamm0030-10" xml:lang="grc"><expan><abbr>κ</abbr><ex>αὶ</ex></expan></w><w xml:id="hamm0030-11" xml:lang="grc"><expan><abbr>Θεοδώσι</abbr><ex>ο</ex><abbr>ς</abbr></expan></w><w xml:id="hamm0030-12" xml:lang="grc"><expan><abbr>κ</abbr><ex>αὶ</ex></expan></w><w xml:id="hamm0030-13" xml:lang="grc">Δομνῖνος</w><w xml:id="hamm0030-14" xml:lang="grc"><expan><abbr>ἀδελφ</abbr><ex>οὶ</ex></expan></w><w xml:id="hamm0030-15" xml:lang="grc">αὐτοῦ</w></p>
+      <div type="edition" subtype="transcription_segmented"><p/>
 </div>
 </body>
       <back>
