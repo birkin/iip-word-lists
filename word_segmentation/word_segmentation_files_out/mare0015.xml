@@ -171,14 +171,8 @@
                <unclear>כ</unclear>
                <gap reason="lost" unit="character" quantity="2"/>נה <gap reason="lost" unit="character" quantity="1"/>ל<gap reason="lost" unit="character" quantity="2"/>
                <unclear>ל</unclear>
-               <gap reason="lost" unit="character" quantity="2"/> תנחום<lb/>לשנת <num value="10">
-                  <g type="phoen-10"/>
-               </num>
-               <num value="2">
-                  <g type="phoen-2"/>
-               </num> תבן טעון <num value="6">
-                  <g type="phoen-6"/>
-               </num>
+               <gap reason="lost" unit="character" quantity="2"/> תנחום<lb/>לשנת <num value="10"><g type="phoen-10"/></num>
+               <num value="2"><g type="phoen-2"/></num> תבן טעון <num value="6"><g type="phoen-6"/></num>
                <lb/>זי לא
                     מעת<unclear>ד</unclear>ן</p>
             </div>
@@ -195,13 +189,7 @@
             </div>
             <!-- The bibl has more contained elements. What is the possible list of values of the biblScope/@type? 
              -->
-        <div type="edition" subtype="transcription_segmented"><p><w xml:id="mare0015-1" xml:lang="arc"><unclear>כ</unclear></w><w xml:id="mare0015-2" xml:lang="arc">נה</w> <w xml:id="mare0015-3" xml:lang="arc">ל</w><w xml:id="mare0015-4" xml:lang="arc"><unclear>ל</unclear></w><w xml:id="mare0015-5" xml:lang="arc">תנחום</w> <w xml:id="mare0015-6" xml:lang="arc">לשנת</w><num value="10">
-                  <g type="phoen-10"/>
-               </num><num value="2">
-                  <g type="phoen-2"/>
-               </num><w xml:id="mare0015-7" xml:lang="arc">תבן</w> <w xml:id="mare0015-8" xml:lang="arc">טעון</w><num value="6">
-                  <g type="phoen-6"/>
-               </num><w xml:id="mare0015-9" xml:lang="arc">זי</w> <w xml:id="mare0015-10" xml:lang="arc">לא</w> <w xml:id="mare0015-11" xml:lang="arc">מעת</w><w xml:id="mare0015-12" xml:lang="arc">ן</w></p>
+        <div type="edition" subtype="transcription_segmented"><p/>
 </div>
 </body>
         <back>

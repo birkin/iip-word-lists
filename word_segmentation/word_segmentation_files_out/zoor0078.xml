@@ -139,10 +139,7 @@
             <p><g type="cross">+</g>
                <g type="cross">+</g>
                <g type="cross">+</g><lb/>
-               <choice>
-                  <sic>Μνημῖον</sic>
-                  <corr>Μνημεῖον</corr>
-               </choice> Παύ<lb break="no"/>λου Ζαννέου,<lb/> ἀποθανόντο<lb break="no"/>ς μετὰ
+               <choice><sic>Μνημῖον</sic><corr>Μνημεῖον</corr></choice> Παύ<lb break="no"/>λου Ζαννέου,<lb/> ἀποθανόντο<lb break="no"/>ς μετὰ
                   <unclear>κ</unclear>αλοῦ<lb/> ὀνόματος<lb/> ἐτῶν <num value="30">λʹ</num>,<lb/> ἐν ἔτους<lb/>
                <num>σϟβʹ</num>, μηνὸς<lb/>
                <unclear>Ξ</unclear>ανθικοῦ<lb/>
@@ -153,7 +150,7 @@
                     30 years, in (the) year 292, on (the) 19th (day) of (the) month Xanthikos on
                     (the) 5th day of (the) Lord (Thursday).</p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="zoor0078-1" xml:lang="grc">Παύλου</w> <w xml:id="zoor0078-2" xml:lang="grc">Ζαννέου</w> <w xml:id="zoor0078-3" xml:lang="grc">ἀποθανόντος</w> <w xml:id="zoor0078-4" xml:lang="grc">μετὰ</w><w xml:id="zoor0078-5" xml:lang="grc">αλοῦ</w> <w xml:id="zoor0078-6" xml:lang="grc">ὀνόματος</w> <w xml:id="zoor0078-7" xml:lang="grc">ἐτῶν</w><num value="30">λʹ</num><w xml:id="zoor0078-8" xml:lang="grc">ἐν</w> <w xml:id="zoor0078-9" xml:lang="grc">ἔτους</w><num>σϟβʹ</num><w xml:id="zoor0078-10" xml:lang="grc">μηνὸς</w><w xml:id="zoor0078-11" xml:lang="grc">ανθικοῦ</w><num>θιʹ</num><w xml:id="zoor0078-12" xml:lang="grc">ἡμέρᾳ</w> <w xml:id="zoor0078-13" xml:lang="grc">Κυρίου</w><num>εʹ</num></p>
+      <div type="edition" subtype="transcription_segmented"><p/>
 </div>
 </body>
       <back>

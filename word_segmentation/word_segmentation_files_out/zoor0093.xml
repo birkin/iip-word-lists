@@ -129,29 +129,14 @@
       <body>
          <div type="edition" ana="#b1" xml:lang="grc" subtype="transcription" xml:id="zoor0093.transcription" corresp="#zoor0093.translation">
             <p>Εἷς Θεός.<lb/>
-               <choice>
-                  <sic>Μνημῖον</sic>
-                  <corr>Μνημεῖον</corr>
-               </choice> Ἀμα<unclear>λ</unclear>άθη<lb/> Ζεβίνα, <choice>
-                  <sic>παυσομένη</sic>
-                  <corr>παυσαμένης</corr>
-               </choice>
+               <choice><sic>Μνημῖον</sic><corr>Μνημεῖον</corr></choice> Ἀμα<unclear>λ</unclear>άθη<lb/> Ζεβίνα, <choice><sic>παυσομένη</sic><corr>παυσαμένης</corr></choice>
                <lb/> μετὰ καλοῦ ὀνόμα<lb break="no"/>τος ἐτῶν <num>κεʹ</num>, ἔτους<lb/>
                <num>τβʹ</num>, <expan><abbr>μη</abbr><ex>νὸς</ex></expan>
-               <choice>
-                  <sic>Πανέμου</sic>
-                  <corr>Πανήμου</corr>
-               </choice>
+               <choice><sic>Πανέμου</sic><corr>Πανήμου</corr></choice>
                <lb/>
                <num>ζιʹ</num>, <expan><abbr>ἡμ</abbr><ex>έρᾳ</ex></expan>
                <expan><abbr>Κυ</abbr><ex>ρίου</ex></expan> Κρόνου. <lb/>
-               <choice>
-                  <sic>Θάρσι</sic>
-                  <corr>Θάρσει</corr>
-               </choice>, <choice>
-                  <sic>ουδὶς</sic>
-                  <corr>ουδείς</corr>
-               </choice> ἀθάνα<lb break="no"/>τος.<lb/>
+               <choice><sic>Θάρσι</sic><corr>Θάρσει</corr></choice>, <choice><sic>ουδὶς</sic><corr>ουδείς</corr></choice> ἀθάνα<lb break="no"/>τος.<lb/>
                <g type="cross">+</g></p>
          </div>
          <div type="translation" ana="#b1" xml:id="zoor0093.translation" corresp="#zoor0093.transcription">
@@ -160,7 +145,7 @@
                     Panemos, on the day of the Lord, (day) of Saturn (Saturday). Be of good cheer,
                     no one (is) immortal.</p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="zoor0093-1" xml:lang="grc">Εἷς</w> <w xml:id="zoor0093-2" xml:lang="grc">Θεός</w><w xml:id="zoor0093-3" xml:lang="grc">Ἀμα</w><w xml:id="zoor0093-4" xml:lang="grc">άθη</w> <w xml:id="zoor0093-5" xml:lang="grc">Ζεβίνα</w><w xml:id="zoor0093-6" xml:lang="grc">μετὰ</w> <w xml:id="zoor0093-7" xml:lang="grc">καλοῦ</w> <w xml:id="zoor0093-8" xml:lang="grc">ὀνόματος</w> <w xml:id="zoor0093-9" xml:lang="grc">ἐτῶν</w><num>κεʹ</num><w xml:id="zoor0093-10" xml:lang="grc">ἔτους</w><num>τβʹ</num><w xml:id="zoor0093-11" xml:lang="grc"><expan><abbr>μη</abbr><ex>νὸς</ex></expan></w><num>ζιʹ</num><w xml:id="zoor0093-12" xml:lang="grc"><expan><abbr>ἡμ</abbr><ex>έρᾳ</ex></expan></w><w xml:id="zoor0093-13" xml:lang="grc"><expan><abbr>Κυ</abbr><ex>ρίου</ex></expan></w><w xml:id="zoor0093-14" xml:lang="grc">Κρόνου</w><w xml:id="zoor0093-15" xml:lang="grc">ἀθάνατος</w></p>
+      <div type="edition" subtype="transcription_segmented"><p/>
 </div>
 </body>
       <back>

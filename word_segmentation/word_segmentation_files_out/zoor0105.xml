@@ -121,29 +121,14 @@
       <body>
          <div type="edition" ana="#b1" xml:lang="grc" subtype="transcription" xml:id="zoor0105.transcription" corresp="#zoor0105.translation">
             <p>
-               <choice>
-                  <sic>Μνημῖον</sic>
-                  <corr>Μνημεῖον</corr>
-               </choice> Σεο<unclear>υ</unclear>η<lb break="no"/>ρῖνα Παύλου, παυ<lb break="no"/>σαμένη μετὰ κα<lb break="no"/>λοῦ <choice>
-                  <sic>ἀνόματος</sic>
-                  <corr>ὀνόματος</corr>
-               </choice>
+               <choice><sic>Μνημῖον</sic><corr>Μνημεῖον</corr></choice> Σεο<unclear>υ</unclear>η<lb break="no"/>ρῖνα Παύλου, παυ<lb break="no"/>σαμένη μετὰ κα<lb break="no"/>λοῦ <choice><sic>ἀνόματος</sic><corr>ὀνόματος</corr></choice>
                <lb/> ἐτῶν <num>ιεʹ</num>,<lb/> ἔτους <num>τηʹ</num>,<lb/>
                <expan><abbr>μη</abbr><ex>νὸς</ex></expan>
-               <choice>
-                  <sic>Ἀπελλέου</sic>
-                  <corr>Ἀπελλαίου</corr>
-               </choice>
+               <choice><sic>Ἀπελλέου</sic><corr>Ἀπελλαίου</corr></choice>
                <num>ειʹ</num>,<lb/>
                <expan><abbr>ἡμ</abbr><ex>έρᾳ</ex></expan>
                <expan><abbr>Κυ</abbr><ex>ρίου</ex></expan> δ<unclear>ε</unclear><supplied reason="undefined">υτέρᾳ</supplied>.<lb/>
-               <choice>
-                  <sic>Θάρσι</sic>
-                  <corr>Θάρσει</corr>
-               </choice>, <choice>
-                  <sic>οὐδὶς</sic>
-                  <corr>ουδεὶς</corr>
-               </choice> ἀθά<lb break="no"/>νατος.</p>
+               <choice><sic>Θάρσι</sic><corr>Θάρσει</corr></choice>, <choice><sic>οὐδὶς</sic><corr>ουδεὶς</corr></choice> ἀθά<lb break="no"/>νατος.</p>
          </div>
          <div type="translation" ana="#b1" xml:id="zoor0105.translation" corresp="#zoor0105.transcription">
             <p>Monument of Seouerina (Severina), (daughter) of Paulus, who died having a good
@@ -151,7 +136,7 @@
                     month Apellaios, on (the) second day of (the) Lord (Monday). Be of good cheer,
                     no one (is) immortal.</p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="zoor0105-1" xml:lang="grc">Σεο</w><w xml:id="zoor0105-2" xml:lang="grc">ηρῖνα</w> <w xml:id="zoor0105-3" xml:lang="grc">Παύλου</w> <w xml:id="zoor0105-4" xml:lang="grc">παυσαμένη</w> <w xml:id="zoor0105-5" xml:lang="grc">μετὰ</w> <w xml:id="zoor0105-6" xml:lang="grc">καλοῦ</w><w xml:id="zoor0105-7" xml:lang="grc">ἐτῶν</w><num>ιεʹ</num><w xml:id="zoor0105-8" xml:lang="grc">ἔτους</w><num>τηʹ</num><w xml:id="zoor0105-9" xml:lang="grc"><expan><abbr>μη</abbr><ex>νὸς</ex></expan></w><num>ειʹ</num><w xml:id="zoor0105-10" xml:lang="grc"><expan><abbr>ἡμ</abbr><ex>έρᾳ</ex></expan></w><w xml:id="zoor0105-11" xml:lang="grc"><expan><abbr>Κυ</abbr><ex>ρίου</ex></expan></w><w xml:id="zoor0105-12" xml:lang="grc">δ</w><w xml:id="zoor0105-13" xml:lang="grc">ἀθάνατος</w></p>
+      <div type="edition" subtype="transcription_segmented"><p/>
 </div>
 </body>
       <back>

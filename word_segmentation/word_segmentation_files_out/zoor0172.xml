@@ -137,49 +137,22 @@
       <body>
          <div type="edition" ana="#b1" xml:lang="grc" subtype="transcription" xml:id="zoor0172.transcription" corresp="#zoor0172.translation">
             <p><g type="cross">+</g><lb/>
-               <choice>
-                  <sic>Μνημῖον</sic>
-                  <corr>Μνημεῖον</corr>
-               </choice> Κύρας<lb/> Ἀλφίου, <choice>
-                  <sic>ἀπαθα<lb break="no"/>νόντος</sic>
-                  <corr>ἀποθανόντος</corr>
-               </choice> μετὰ <choice>
-                  <sic>κ<lb break="no"/>ολοῦ</sic>
-                  <corr>καλοῦ</corr>
-               </choice>
-               <choice>
-                  <sic>ἀνάματος</sic>
-                  <corr>ὀνόματος</corr>
-               </choice>
+               <choice><sic>Μνημῖον</sic><corr>Μνημεῖον</corr></choice> Κύρας<lb/> Ἀλφίου, <choice><sic>ἀπαθα<lb break="no"/>νόντος</sic><corr>ἀποθανόντος</corr></choice> μετὰ <choice><sic>κ<lb break="no"/>ολοῦ</sic><corr>καλοῦ</corr></choice>
+               <choice><sic>ἀνάματος</sic><corr>ὀνόματος</corr></choice>
                <lb/> ἐτῶν <num>ιζʹ</num>, ἐν<lb/>
-               <num>τληʹ</num>, ἐν <choice>
-                  <sic>μενὶ</sic>
-                  <corr>μηνὶ</corr>
-               </choice>
+               <num>τληʹ</num>, ἐν <choice><sic>μενὶ</sic><corr>μηνὶ</corr></choice>
                <lb/>
-               <choice>
-                  <sic>Πανέμου</sic>
-                  <corr>Πανήμου</corr>
-               </choice>
+               <choice><sic>Πανέμου</sic><corr>Πανήμου</corr></choice>
                <num>ηκʹ</num>.<lb/>
-               <choice>
-                  <sic>Θάρσι</sic>
-                  <corr>Θάρσει</corr>
-               </choice>, <choice>
-                  <sic>οὐδὶς</sic>
-                  <corr>οὐδεὶς</corr>
-               </choice>
-               <choice>
-                  <sic>ἀθάν<lb break="no"/>τος</sic>
-                  <corr>ἀθάνατος</corr>
-               </choice>.</p>
+               <choice><sic>Θάρσι</sic><corr>Θάρσει</corr></choice>, <choice><sic>οὐδὶς</sic><corr>οὐδεὶς</corr></choice>
+               <choice><sic>ἀθάν<lb break="no"/>τος</sic><corr>ἀθάνατος</corr></choice>.</p>
          </div>
          <div type="translation" ana="#b1" xml:id="zoor0172.translation" corresp="#zoor0172.transcription">
             <p>Monument of Kyra, (daughter) of Alphios, who died having a good name (at the age)
                     of 17 years, in (the year) 338, on (the) 28th (day) of the month Panemos. Be of good cheer, no one (is)
                     immortal.</p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="zoor0172-1" xml:lang="grc">Κύρας</w> <w xml:id="zoor0172-2" xml:lang="grc">Ἀλφίου</w><w xml:id="zoor0172-3" xml:lang="grc">μετὰ</w><w xml:id="zoor0172-4" xml:lang="grc">ἐτῶν</w><num>ιζʹ</num><w xml:id="zoor0172-5" xml:lang="grc">ἐν</w><num>τληʹ</num><w xml:id="zoor0172-6" xml:lang="grc">ἐν</w><num>ηκʹ</num></p>
+      <div type="edition" subtype="transcription_segmented"><p/>
 </div>
 </body>
       <back>

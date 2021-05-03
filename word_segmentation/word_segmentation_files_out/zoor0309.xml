@@ -118,16 +118,10 @@
       <body>
          <div type="edition" ana="#b1" xml:lang="grc" subtype="transcription" xml:id="zoor0309.transcription" corresp="#zoor0309.translation">
             <p><g type="cross">+</g><lb/>
-               <g type="cross">+</g> Εἷς Θεός <lb/> ὁ πάντων <g type="cross">+</g><lb/> Δεσπότης. <lb/><choice>
-                  <sic>Μνημῖον</sic>
-                  <corr>Μνημεῖον</corr>
-               </choice>
+               <g type="cross">+</g> Εἷς Θεός <lb/> ὁ πάντων <g type="cross">+</g><lb/> Δεσπότης. <lb/><choice><sic>Μνημῖον</sic><corr>Μνημεῖον</corr></choice>
                <lb/>Ἀλουφάθης <lb/>Π<unclear>α</unclear>λλ<unclear>α</unclear>δίου<lb/> ἀποθανούσης
                <lb/>μετὰ καλοῦ ὀνό<lb break="no"/>ματος καὶ καλῆ<unclear>ς</unclear>
-               <lb/><supplied reason="undefined">πί</supplied><unclear>σ</unclear>τεως ἐν <choice>
-                  <sic>ἔτι</sic>
-                  <corr>ἔτει</corr>
-               </choice>
+               <lb/><supplied reason="undefined">πί</supplied><unclear>σ</unclear>τεως ἐν <choice><sic>ἔτι</sic><corr>ἔτει</corr></choice>
                <lb/><supplied reason="undefined"><expan><abbr>μη</abbr><ex>νὸς</ex></expan></supplied>
                <supplied reason="undefined">Γορ</supplied><unclear>π</unclear>ιέ<unclear>ο</unclear><supplied reason="undefined">υ</supplied>.</p>
          </div>
@@ -136,7 +130,7 @@
                     Palladios, who died having a good name and good faith in the year [..., in
                     (the)... (day) of (the) month] Gorpaios (?)...</p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="zoor0309-1" xml:lang="grc">Εἷς</w> <w xml:id="zoor0309-2" xml:lang="grc">Θεός</w> <w xml:id="zoor0309-3" xml:lang="grc">ὁ</w> <w xml:id="zoor0309-4" xml:lang="grc">πάντων</w><w xml:id="zoor0309-5" xml:lang="grc">Δεσπότης</w><w xml:id="zoor0309-6" xml:lang="grc">Ἀλουφάθης</w> <w xml:id="zoor0309-7" xml:lang="grc">Π</w><w xml:id="zoor0309-8" xml:lang="grc">λλ</w><w xml:id="zoor0309-9" xml:lang="grc">δίου</w> <w xml:id="zoor0309-10" xml:lang="grc">ἀποθανούσης</w> <w xml:id="zoor0309-11" xml:lang="grc">μετὰ</w> <w xml:id="zoor0309-12" xml:lang="grc">καλοῦ</w> <w xml:id="zoor0309-13" xml:lang="grc">ὀνόματος</w> <w xml:id="zoor0309-14" xml:lang="grc">καὶ</w> <w xml:id="zoor0309-15" xml:lang="grc">καλῆ</w><w xml:id="zoor0309-16" xml:lang="grc">τεως</w> <w xml:id="zoor0309-17" xml:lang="grc">ἐν</w><w xml:id="zoor0309-18" xml:lang="grc"><supplied reason="undefined"><expan><abbr>μη</abbr><ex>νὸς</ex></expan></supplied></w><w xml:id="zoor0309-19" xml:lang="grc">ιέ</w></p>
+      <div type="edition" subtype="transcription_segmented"><p/>
 </div>
 </body>
       <back>

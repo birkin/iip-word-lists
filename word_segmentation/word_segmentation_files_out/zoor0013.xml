@@ -121,13 +121,7 @@
       <body>
          <div type="edition" ana="#b1" xml:lang="grc" subtype="transcription" xml:id="zoor0013.transcription" corresp="#zoor0013.translation">
             <p>
-               <choice>
-                  <sic>Μνημῖ<lb break="no"/>ον</sic>
-                  <corr>Μνημεῖον</corr>
-               </choice> Σί<unclear>λ</unclear>θ<lb break="no"/>ας Ζην<unclear>ό</unclear><lb break="no"/>βις <choice>
-                  <sic>ἀπο<lb break="no"/>θανόν<lb break="no"/>τας</sic>
-                  <corr>ἀποθανόντος</corr>
-               </choice> ἐτῶν <lb/><num>ηʹ</num>
+               <choice><sic>Μνημῖ<lb break="no"/>ον</sic><corr>Μνημεῖον</corr></choice> Σί<unclear>λ</unclear>θ<lb break="no"/>ας Ζην<unclear>ό</unclear><lb break="no"/>βις <choice><sic>ἀπο<lb break="no"/>θανόν<lb break="no"/>τας</sic><corr>ἀποθανόντος</corr></choice> ἐτῶν <lb/><num>ηʹ</num>
                <g type="cross">+</g><lb/> ἔτου<supplied reason="omitted">ς</supplied>
                <num>σνʹ</num></p>
          </div>
@@ -135,7 +129,7 @@
             <p>Monument of Siltha, (daughter) of Zenobi(o)s, who died (at the age) of 8 years,
                     in (the) year 250.</p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="zoor0013-1" xml:lang="grc">Σί</w><w xml:id="zoor0013-2" xml:lang="grc">θας</w> <w xml:id="zoor0013-3" xml:lang="grc">Ζην</w><w xml:id="zoor0013-4" xml:lang="grc">βις</w><w xml:id="zoor0013-5" xml:lang="grc">ἐτῶν</w><num>ηʹ</num><w xml:id="zoor0013-6" xml:lang="grc">ἔτου</w><num>σνʹ</num></p>
+      <div type="edition" subtype="transcription_segmented"><p/>
 </div>
 </body>
       <back>

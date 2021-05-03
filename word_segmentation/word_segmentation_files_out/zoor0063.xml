@@ -142,23 +142,11 @@
                <expan><abbr>Μ</abbr><ex>αρίας</ex></expan>
                <expan><abbr>Γ</abbr><ex>έννα</ex></expan>
                <lb/>
-               <choice>
-                  <sic><unclear>Μ</unclear>νημῖ<lb break="no"/>ον</sic>
-                  <corr>Μνημεῖον</corr>
-               </choice> Ἀμέρου<lb/>
-               <unclear>Ὀ</unclear>βόδα, <choice>
-                  <sic>ἀπο<lb break="no"/><unclear>θ</unclear>άνατος</sic>
-                  <corr>ἀποθανόντος</corr>
-               </choice>
-               <lb/>ἐτῶν <num value="30">λʹ</num>, ἐν<lb/>ἔτι <num>σπςʹ</num>, <choice>
-                  <sic><expan><abbr>Πα<unclear>ν</unclear>ά</abbr><ex>μου</ex></expan></sic>
-                  <corr>Πανήμου</corr>
-               </choice>, <g type="cross">+</g>
+               <choice><sic><unclear>Μ</unclear>νημῖ<lb break="no"/>ον</sic><corr>Μνημεῖον</corr></choice> Ἀμέρου<lb/>
+               <unclear>Ὀ</unclear>βόδα, <choice><sic>ἀπο<lb break="no"/><unclear>θ</unclear>άνατος</sic><corr>ἀποθανόντος</corr></choice>
+               <lb/>ἐτῶν <num value="30">λʹ</num>, ἐν<lb/>ἔτι <num>σπςʹ</num>, <choice><sic><expan><abbr>Πα<unclear>ν</unclear>ά</abbr><ex>μου</ex></expan></sic><corr>Πανήμου</corr></choice>, <g type="cross">+</g>
                <lb/> ἐν <expan><abbr>ἡμ</abbr><ex>έρᾳ</ex></expan> Ἀφροδίτης. <lb/>
-               <choice>
-                  <sic>Θάρσι</sic>
-                  <corr>Θάρσει</corr>
-               </choice>, οὐδεὶς <lb/>
+               <choice><sic>Θάρσι</sic><corr>Θάρσει</corr></choice>, οὐδεὶς <lb/>
                <unclear>ἀθ</unclear>άνατος.<lb/>
                <g type="cross">+</g></p>
          </div>
@@ -167,7 +155,7 @@
                     age) of 30 years, in the year 286, in (the month) of Panemos, on the day of
                     Venus (Friday). Be of good cheer, no one (is) immortal.</p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="zoor0063-1" xml:lang="grc"><supplied reason="undefined"><expan><abbr>Χ</abbr><ex>ριστός</ex></expan></supplied></w><w xml:id="zoor0063-2" xml:lang="grc"><expan><abbr>Μ</abbr><ex>αρίας</ex></expan></w><w xml:id="zoor0063-3" xml:lang="grc"><expan><abbr>Γ</abbr><ex>έννα</ex></expan></w><w xml:id="zoor0063-4" xml:lang="grc">Ἀμέρου</w><w xml:id="zoor0063-5" xml:lang="grc">βόδα</w><w xml:id="zoor0063-6" xml:lang="grc">ἐτῶν</w><num value="30">λʹ</num><w xml:id="zoor0063-7" xml:lang="grc">ἐν</w> <w xml:id="zoor0063-8" xml:lang="grc">ἔτι</w><num>σπςʹ</num><w xml:id="zoor0063-9" xml:lang="grc">ἐν</w><w xml:id="zoor0063-10" xml:lang="grc"><expan><abbr>ἡμ</abbr><ex>έρᾳ</ex></expan></w><w xml:id="zoor0063-11" xml:lang="grc">Ἀφροδίτης</w><w xml:id="zoor0063-12" xml:lang="grc">οὐδεὶς</w><w xml:id="zoor0063-13" xml:lang="grc">άνατος</w></p>
+      <div type="edition" subtype="transcription_segmented"><p/>
 </div>
 </body>
       <back>

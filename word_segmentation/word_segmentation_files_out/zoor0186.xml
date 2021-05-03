@@ -117,10 +117,7 @@
       <body>
          <div type="edition" ana="#b1" xml:lang="grc" subtype="transcription" xml:id="zoor0186.transcription" corresp="#zoor0186.translation">
             <p><g type="cross">+</g><lb/>
-               <supplied reason="undefined">Εἷ</supplied>ς Θεός. <choice>
-                  <sic>Μνη<lb break="no"/><supplied reason="undefined">μῖ</supplied><unclear>ο</unclear>ν</sic>
-                  <corr>Μνημεῖον</corr>
-               </choice> Ἀλεξάνδ<lb break="no"/><supplied reason="undefined">ρο</supplied>υ
+               <supplied reason="undefined">Εἷ</supplied>ς Θεός. <choice><sic>Μνη<lb break="no"/><supplied reason="undefined">μῖ</supplied><unclear>ο</unclear>ν</sic><corr>Μνημεῖον</corr></choice> Ἀλεξάνδ<lb break="no"/><supplied reason="undefined">ρο</supplied>υ
                   Σαμιράββ<lb break="no"/>ου, <unclear>ἀ</unclear>ποθανόν<lb break="no"/><supplied reason="undefined">τος</supplied> ἐτῶν <num>ξʹ</num>, ἐν<lb/>
                <supplied reason="undefined">ἔτου</supplied>ς <num>τ<unclear>μδ</unclear>ʹ</num>,
                   <unclear>ἐν</unclear>
@@ -135,7 +132,7 @@
             <p>One (is) the God. Monument of Alexandros, (son) of Samirabbos, who died (at the
                     age) of 60 years, in the [year] 344, in (the month)...</p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="zoor0186-1" xml:lang="grc">ς</w> <w xml:id="zoor0186-2" xml:lang="grc">Θεός</w><w xml:id="zoor0186-3" xml:lang="grc">Ἀλεξάνδ</w><w xml:id="zoor0186-4" xml:lang="grc">υ</w> <w xml:id="zoor0186-5" xml:lang="grc">Σαμιράββου</w><w xml:id="zoor0186-6" xml:lang="grc">ποθανόν</w><w xml:id="zoor0186-7" xml:lang="grc">ἐτῶν</w><num>ξʹ</num><w xml:id="zoor0186-8" xml:lang="grc">ἐν</w><w xml:id="zoor0186-9" xml:lang="grc">ς</w><num>τ<unclear>μδ</unclear>ʹ</num><w xml:id="zoor0186-10" xml:lang="grc"><unclear>ἐν</unclear></w><w xml:id="zoor0186-11" xml:lang="grc"><supplied reason="undefined">μηνὶ</supplied></w></p>
+      <div type="edition" subtype="transcription_segmented"><p/>
 </div>
 </body>
       <back>

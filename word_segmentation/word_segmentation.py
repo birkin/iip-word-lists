@@ -131,6 +131,8 @@ for strTextFullPath in vTextFullPaths:
 
 		strXMLText = etree.tostring(x[0], encoding='utf8', method='xml').decode('utf-8')
 
+		# add test for empty strXMLText and don't process if it's emtpy
+
 		# remove all <lb>s
 		strXMLText = re.sub(r"<lb break=\"no\"(\s*)/>", "", strXMLText)
 		strXMLText = re.sub(r"(\s*)<lb break=\"no\"(\s*)/>(\s*)", "", strXMLText)
@@ -157,9 +159,15 @@ for strTextFullPath in vTextFullPaths:
 
 		# Convert all spaces within element tag definitions (<>) to bullets
 		# Run multiple times to get all the spaces between attribute names
+		# EM has tried to remove all newlines from start tags.
+		# EM checked and we don't seem to have elements with more than three
+		# attributes inside <p>.
+		# EM has checked and there don't seem to be multivalued attributes in <p>
+		strXMLText = re.sub(r"<(\w+)\s([^>]*)>", "<\\1•\\2>", strXMLText)
 		strXMLText = re.sub(r"<([^>]*)\s([^>]*)>", "<\\1•\\2>", strXMLText)
 		strXMLText = re.sub(r"<([^>]*)\s([^>]*)>", "<\\1•\\2>", strXMLText)
-		strXMLText = re.sub(r"<([^>]*)\s([^>]*)>", "<\\1•\\2>", strXMLText)
+
+
 
 		# Convert all whitespace in document to <w>s
 		strXMLText = re.sub(r"\s+", "</w> <w>", strXMLText)
@@ -171,6 +179,7 @@ for strTextFullPath in vTextFullPaths:
 		# Convert the bullets back to spaces
 		strXMLText = strXMLText.replace("•", " ")
 
+		# print(strXMLText)
 
 		strXMLText = re.sub(r"§+", "§", strXMLText)
 		strXMLText = re.sub(r"§", " ", strXMLText)

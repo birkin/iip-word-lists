@@ -129,27 +129,12 @@
       <body>
          <div type="edition" ana="#b1" xml:lang="grc" subtype="transcription" xml:id="zoor0134.transcription" corresp="#zoor0134.translation">
             <p>
-               <choice>
-                  <sic>Μνημῖον</sic>
-                  <corr>Μνημεῖον</corr>
-               </choice> Σά<lb break="no"/>β<unclear>α</unclear> Σούββα,<lb/>
-               <choice>
-                  <sic>ἀπαθανόν<lb break="no"/>τος</sic>
-                  <corr>ἀποθανόντος</corr>
-               </choice> ἐτῶν<lb/>
-               <num>μʹ</num>, ἐν <choice>
-                  <sic>ἔτι</sic>
-                  <corr>ἔτει</corr>
-               </choice>
+               <choice><sic>Μνημῖον</sic><corr>Μνημεῖον</corr></choice> Σά<lb break="no"/>β<unclear>α</unclear> Σούββα,<lb/>
+               <choice><sic>ἀπαθανόν<lb break="no"/>τος</sic><corr>ἀποθανόντος</corr></choice> ἐτῶν<lb/>
+               <num>μʹ</num>, ἐν <choice><sic>ἔτι</sic><corr>ἔτει</corr></choice>
                <num>τκδʹ</num>,<lb/>
                <expan><abbr>μη</abbr><ex>νὸς</ex></expan> Πανέμου <num>ιβʹ</num>.<lb/>
-               <choice>
-                  <sic>Θάρσι</sic>
-                  <corr>Θάρσει</corr>
-               </choice>, <choice>
-                  <sic>οὐδὶ<lb break="no"/>ς</sic>
-                  <corr>οὐδεὶς</corr>
-               </choice> ἀθάνατος.<lb/>
+               <choice><sic>Θάρσι</sic><corr>Θάρσει</corr></choice>, <choice><sic>οὐδὶ<lb break="no"/>ς</sic><corr>οὐδεὶς</corr></choice> ἀθάνατος.<lb/>
                <g type="cross">+</g>
                <g type="cross">+</g></p>
          </div>
@@ -158,7 +143,7 @@
                     year 324, on the 12th (day) of (the) month Panemos. Be of good cheer, no one
                     (is) immortal.</p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="zoor0134-1" xml:lang="grc">Σάβ</w><w xml:id="zoor0134-2" xml:lang="grc">Σούββα</w><w xml:id="zoor0134-3" xml:lang="grc">ἐτῶν</w><num>μʹ</num><w xml:id="zoor0134-4" xml:lang="grc">ἐν</w><num>τκδʹ</num><w xml:id="zoor0134-5" xml:lang="grc"><expan><abbr>μη</abbr><ex>νὸς</ex></expan></w><w xml:id="zoor0134-6" xml:lang="grc">Πανέμου</w><num>ιβʹ</num><w xml:id="zoor0134-7" xml:lang="grc">ἀθάνατος</w></p>
+      <div type="edition" subtype="transcription_segmented"><p/>
 </div>
 </body>
       <back>

@@ -133,25 +133,19 @@
                <lb/> Εὐσέβι<unclear>o</unclear>ς.<lb/> ζήσ<unclear>α</unclear>ς
                   ἔ<unclear>τη</unclear>
                <num><unclear>ξ</unclear>ʹ</num><lb/>
-               <choice>
-                  <sic>ἑξίκο<unclear>ντα</unclear></sic>
-                  <corr>ἑξήκνοτα</corr>
-               </choice>
+               <choice><sic>ἑξίκο<unclear>ντα</unclear></sic><corr>ἑξήκνοτα</corr></choice>
                <expan><abbr>μη</abbr><ex>νὸς</ex></expan>
                <expan><abbr>Ἀρτ</abbr><ex>εμισίου</ex></expan>
                <lb/>
                <num>βκʹ</num>, <num>τϟζʹ</num>. Θάρ<lb break="no"/>σει οὐδεὶς.<lb/>
-               <choice>
-                  <sic>ἀθάντος</sic>
-                  <corr>ἀθάνατος</corr>
-               </choice>.</p>
+               <choice><sic>ἀθάντος</sic><corr>ἀθάνατος</corr></choice>.</p>
          </div>
          <div type="translation" ana="#b1" xml:id="zoor0253.translation" corresp="#zoor0253.transcription">
             <p>One (is) the God, the Lord of all. Here lies Eusebios, who lived sixty years,
                     (and died) on the 22nd (day) of (the) month Artemisios, (in the year) 397. Be of
                     good cheer, no one (is) immortal.</p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="zoor0253-1" xml:lang="grc">Εἶς</w><w xml:id="zoor0253-2" xml:lang="grc"><unclear>ὁ</unclear></w><w xml:id="zoor0253-3" xml:lang="grc"><unclear>πάντων</unclear></w><w xml:id="zoor0253-4" xml:lang="grc">δε</w> <w xml:id="zoor0253-5" xml:lang="grc">κε</w><w xml:id="zoor0253-6" xml:lang="grc">Εὐσέβι</w><w xml:id="zoor0253-7" xml:lang="grc">ς</w> <w xml:id="zoor0253-8" xml:lang="grc">ζήσ</w><w xml:id="zoor0253-9" xml:lang="grc">ς</w> <w xml:id="zoor0253-10" xml:lang="grc">ἔ</w><num><unclear>ξ</unclear>ʹ</num><w xml:id="zoor0253-11" xml:lang="grc"><expan><abbr>μη</abbr><ex>νὸς</ex></expan></w><w xml:id="zoor0253-12" xml:lang="grc"><expan><abbr>Ἀρτ</abbr><ex>εμισίου</ex></expan></w><num>βκʹ</num><num>τϟζʹ</num><w xml:id="zoor0253-13" xml:lang="grc">Θάρσει</w> <w xml:id="zoor0253-14" xml:lang="grc">οὐδεὶς</w></p>
+      <div type="edition" subtype="transcription_segmented"><p/>
 </div>
 </body>
       <back>

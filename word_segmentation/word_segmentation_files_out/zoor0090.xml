@@ -135,17 +135,11 @@
             <p><g type="cross">+</g>
                <g type="cross">+</g>
                <lb/>
-               <choice>
-                  <sic>Μνμῖον</sic>
-                  <corr>Μνημεῖον</corr>
-               </choice>
+               <choice><sic>Μνμῖον</sic><corr>Μνημεῖον</corr></choice>
                <lb/>Ἀβδάλγου <lb/>Θέμου, <lb/>ἐν <expan><abbr>ἔτ</abbr><ex>ει</ex></expan>
                <num>τʹ</num>, <lb/>
                <expan><abbr>μη</abbr><ex>νὸς</ex></expan>
-               <choice>
-                  <sic><expan><abbr>Πανέμ</abbr><ex>ου</ex></expan></sic>
-                  <corr>Πανήμου</corr>
-               </choice>
+               <choice><sic><expan><abbr>Πανέμ</abbr><ex>ου</ex></expan></sic><corr>Πανήμου</corr></choice>
                <lb/><num>κεʹ</num>, <expan><abbr>ἐτ</abbr><ex>ῶν</ex></expan>
                <num>θʹ</num> θα<lb break="no"/>νών. <g type="cross">+</g></p>
          </div>
@@ -153,7 +147,7 @@
             <p>Monument of Abdalges, (son) of Themos, who died (at the age) of 9 years, in the
                     year 300, on (the) 25th (day) of (the) month Panemos.</p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="zoor0090-1" xml:lang="grc">Ἀβδάλγου</w> <w xml:id="zoor0090-2" xml:lang="grc">Θέμου</w> <w xml:id="zoor0090-3" xml:lang="grc">ἐν</w><w xml:id="zoor0090-4" xml:lang="grc"><expan><abbr>ἔτ</abbr><ex>ει</ex></expan></w><num>τʹ</num><w xml:id="zoor0090-5" xml:lang="grc"><expan><abbr>μη</abbr><ex>νὸς</ex></expan></w><num>κεʹ</num><w xml:id="zoor0090-6" xml:lang="grc"><expan><abbr>ἐτ</abbr><ex>ῶν</ex></expan></w><num>θʹ</num><w xml:id="zoor0090-7" xml:lang="grc">θανών</w></p>
+      <div type="edition" subtype="transcription_segmented"><p/>
 </div>
 </body>
       <back>

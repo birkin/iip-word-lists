@@ -130,20 +130,11 @@
          <div type="edition" ana="#b1" xml:lang="grc" subtype="transcription" xml:id="zoor0057.transcription" corresp="#zoor0057.translation">
             <p><g type="cross">+</g>
                <g type="cross">+</g><lb/>
-               <choice>
-                  <sic><hi rend="ligature">Μνημ</hi>ῖ<hi rend="ligature">ων</hi></sic>
-                  <corr>Μνημεῖον</corr>
-               </choice> Ἰωάν<lb break="no"/>νου Ἀττικοῦ, <lb/>ἀποθανόν<lb break="no"/>τος ἐτ<hi rend="ligature">ῶν</hi>
+               <choice><sic><hi rend="ligature">Μνημ</hi>ῖ<hi rend="ligature">ων</hi></sic><corr>Μνημεῖον</corr></choice> Ἰωάν<lb break="no"/>νου Ἀττικοῦ, <lb/>ἀποθανόν<lb break="no"/>τος ἐτ<hi rend="ligature">ῶν</hi>
                <num value="12">ζʹ</num>,<lb/>ἔτους <num value="282">σπβʹ</num>,<lb/>
                <hi rend="ligature">μην</hi>ὸς <expan><abbr>Ὑπερβε</abbr><ex>ρεταίου</ex></expan>
                <lb/>
-               <num value="15">ειʹ</num>. <choice>
-                  <sic>θάρσι</sic>
-                  <corr>θάρσει</corr>
-               </choice>, <choice>
-                  <sic>οὐδὶς</sic>
-                  <corr>οὐδείς</corr>
-               </choice>
+               <num value="15">ειʹ</num>. <choice><sic>θάρσι</sic><corr>θάρσει</corr></choice>, <choice><sic>οὐδὶς</sic><corr>οὐδείς</corr></choice>
                <lb/>ἀθάνατος. <lb/><g type="cross">+</g></p>
          </div>
          <div type="translation" ana="#b1" xml:id="zoor0057.translation" corresp="#zoor0057.transcription">
@@ -151,7 +142,7 @@
                     year 282, on the 15th (day) of (the) month Hyperberetaios. Be of good cheer, no
                     one (is) immortal.</p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="zoor0057-1" xml:lang="grc">Ἰωάννου</w> <w xml:id="zoor0057-2" xml:lang="grc">Ἀττικοῦ</w> <w xml:id="zoor0057-3" xml:lang="grc">ἀποθανόντος</w> <w xml:id="zoor0057-4" xml:lang="grc">ἐτ</w><num value="12">ζʹ</num><w xml:id="zoor0057-5" xml:lang="grc">ἔτους</w><num value="282">σπβʹ</num><w xml:id="zoor0057-6" xml:lang="grc">ὸς</w><w xml:id="zoor0057-7" xml:lang="grc"><expan><abbr>Ὑπερβε</abbr><ex>ρεταίου</ex></expan></w><num value="15">ειʹ</num><w xml:id="zoor0057-8" xml:lang="grc">ἀθάνατος</w></p>
+      <div type="edition" subtype="transcription_segmented"><p/>
 </div>
 </body>
       <back>

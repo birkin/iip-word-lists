@@ -121,14 +121,14 @@
                <lb/> Ἑρίνου <lb/>
                <expan><abbr>ἐτ</abbr><ex>ῶν</ex></expan>
                <lb/>
-               <num value="57">νζ </num>
+               <num value="57">νζ</num>
             </p>
          </div>
          <div type="translation" ana="#b1" xml:id="tala0004.translation" corresp="#tala0004.diplomatic #tala0004.transcription">
             <p>Be of good courage, Oinemeseos(?), son of Herinos! Fifty-seven years old.
 				</p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="tala0004-1" xml:lang="grc">θάρσι</w> <w xml:id="tala0004-2" xml:lang="grc">Ο</w><w xml:id="tala0004-3" xml:lang="grc">εμήσεο</w><w xml:id="tala0004-4" xml:lang="grc">Ἑρίνου</w><w xml:id="tala0004-5" xml:lang="grc"><expan><abbr>ἐτ</abbr><ex>ῶν</ex></expan></w><num value="57">νζ </num></p>
+      <div type="edition" subtype="transcription_segmented"><p/>
 </div>
 </body>
       <back>

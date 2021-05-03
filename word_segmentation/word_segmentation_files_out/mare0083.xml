@@ -128,9 +128,7 @@
             <div type="edition" subtype="transcription" ana="b1" xml:lang="heb">
                 <p>
                <gap reason="lost" extent="unknown" unit="character"/>
-               <num value="4">
-                  <g type="four-slanted-strokes"/>
-               </num>
+               <num value="4"><g type="four-slanted-strokes"/></num>
                <lb/>
                <gap reason="lost" extent="unknown" unit="character"/>
                <gap reason="illegible" quantity="1" unit="character"/>א עבדערש<gap reason="lost" extent="unknown" unit="character"/>
@@ -145,9 +143,7 @@
                     it might refer to the amount of goods delivered. It is assumed that it served as
                     a taxation docket.</p>
             </div>
-        <div type="edition" subtype="transcription_segmented"><p><num value="4">
-                  <g type="four-slanted-strokes"/>
-               </num><w xml:id="mare0083-1" xml:lang="arc">א</w> <w xml:id="mare0083-2" xml:lang="arc">עבדערש</w></p>
+        <div type="edition" subtype="transcription_segmented"><p/>
 </div>
 </body>
         <back>

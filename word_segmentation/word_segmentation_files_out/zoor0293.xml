@@ -138,22 +138,13 @@
             <p><g type="cross">+</g>
                <g type="cross">+</g>
                <lb/>
-               <choice>
-                  <sic>Μνημῖον</sic>
-                  <corr>Μνημεῖον</corr>
-               </choice>
-               <g type="cross">+</g><lb/> Κυριακὴ <choice>
-                  <sic>Σελλ<lb break="no"/>λου</sic>
-                  <corr>Σεάλλου</corr>
-               </choice>, <choice>
-                  <sic>ἀπω<lb break="no"/>αα<unclear>μ</unclear></sic>
-                  <corr>ἀποθανοῦσαν</corr>
-               </choice> μετὰ </p>
+               <choice><sic>Μνημῖον</sic><corr>Μνημεῖον</corr></choice>
+               <g type="cross">+</g><lb/> Κυριακὴ <choice><sic>Σελλ<lb break="no"/>λου</sic><corr>Σεάλλου</corr></choice>, <choice><sic>ἀπω<lb break="no"/>αα<unclear>μ</unclear></sic><corr>ἀποθανοῦσαν</corr></choice> μετὰ </p>
          </div>
          <div type="translation" ana="#b1" xml:id="zoor0293.translation" corresp="#zoor0293.transcription">
             <p>Monument of Kyriake, (daughter) of Seallos, who died having...</p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="zoor0293-1" xml:lang="grc">Κυριακὴ</w><w xml:id="zoor0293-2" xml:lang="grc">μετὰ</w></p>
+      <div type="edition" subtype="transcription_segmented"><p/>
 </div>
 </body>
       <back>

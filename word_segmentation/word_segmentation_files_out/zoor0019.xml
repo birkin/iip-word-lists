@@ -126,6 +126,7 @@
          <change when="2019-01-29" who="persons.xml#Elli_Mylonas">
                 adding period attribute to date element, with Periodo value.
             </change>
+         <change when="2021-04-29" who="Chris Zeichmann">corrected nested choices</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
@@ -138,10 +139,10 @@
       <body>
          <div type="edition" ana="#b1" xml:lang="grc" subtype="transcription" xml:id="zoor0019.transcription" corresp="#zoor0019.translation">
             <p>
-               <g type="cross">+ + +</g>
+               <g type="cross">+</g> <g type="cross">+</g> <g type="cross">+</g>
                <lb/>
                <choice><sic>Μνημῖον</sic><corr>Μνημεῖον</corr></choice>
-               <choice><sic>Ἀγαθαφέρ<choice><corr>ω</corr><sic>ο</sic></choice>ν</sic><corr>Ἀγαθαφέροντος</corr></choice>
+               <choice><sic>Ἀγαθαφέρον</sic><corr>Ἀγαθαφέροντος</corr></choice>
                <lb/>
                <choice><sic>Παυλονίου</sic><corr>Παυλωνίου</corr></choice> ἀποθανόν<lb break="no"/>τος μετὰ καλοῦ <choice><sic>ἀνό<lb break="no"/>ματος</sic><corr>ὀνόματος</corr></choice> ἐτῶν <num value="45">μεʹ</num><lb/> ἔτους <num value="254">σν<unclear>δ</unclear>ʹ</num> μηνὸς<lb/>
                <choice><sic>Ὑπερβερετέου</sic><corr>Ὑπερβερεταίου</corr></choice> <num value="17">ζιʹ</num><lb/>
@@ -154,7 +155,7 @@
                     Hyperberetaios on (the) 2nd day of (the) Lord (Monday). Be of good cheer,
                     Agathapheron, no one (is) immortal.</p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="zoor0019-1" xml:lang="grc">Μνημεῖον</w> <w xml:id="zoor0019-2" xml:lang="grc">νἈγαθαφέροντος</w> <w xml:id="zoor0019-3" xml:lang="grc">Παυλωνίου</w> <w xml:id="zoor0019-4" xml:lang="grc">ἀποθανόντος</w> <w xml:id="zoor0019-5" xml:lang="grc">μετὰ</w> <w xml:id="zoor0019-6" xml:lang="grc">καλοῦ</w> <w xml:id="zoor0019-7" xml:lang="grc">ὀνόματος</w> <w xml:id="zoor0019-8" xml:lang="grc">ἐτῶν</w><num value="45">μεʹ</num><w xml:id="zoor0019-9" xml:lang="grc">ἔτους</w><num value="254">σν<unclear>δ</unclear>ʹ</num><w xml:id="zoor0019-10" xml:lang="grc">μηνὸς</w> <w xml:id="zoor0019-11" xml:lang="grc">Ὑπερβερεταίου</w><num value="17">ζιʹ</num><w xml:id="zoor0019-12" xml:lang="grc"><expan><abbr>ἡμ</abbr><ex>έρα</ex></expan></w><num value="2">βʹ</num><w xml:id="zoor0019-13" xml:lang="grc">Θάρσει</w> <w xml:id="zoor0019-14" xml:lang="grc">Ἀγαθαφέρων</w> <w xml:id="zoor0019-15" xml:lang="grc">οὐδείς</w> <w xml:id="zoor0019-16" xml:lang="grc">ἀθάν</w><w xml:id="zoor0019-17" xml:lang="grc">τος</w></p>
+      <div type="edition" subtype="transcription_segmented"><p/>
 </div>
 </body>
       <back>

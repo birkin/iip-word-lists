@@ -120,30 +120,12 @@
    <text>
       <body>
          <div type="edition" ana="#b1" xml:lang="grc" subtype="transcription" xml:id="zoor0254.transcription" corresp="#zoor0254.translation">
-            <p><g type="cross">+</g> Πέτρος <choice>
-                  <sic>Σ<lb break="no"/>αμασέου,</sic>
-                  <corr>Σαμμασέου</corr>
-               </choice>
-               <choice>
-                  <sic>πρ<lb break="no"/>επόσιτος</sic>
-                  <corr>πραιπόσιτος</corr>
-               </choice>, ἐν<lb break="no"/>θάδε <choice>
-                  <sic>κῖτε</sic>
-                  <corr>κεῖται</corr>
-               </choice>, ζ<lb break="no"/>ήσας ἐν <choice>
-                  <sic>πίσ<lb break="no"/>τι</sic>
-                  <corr>πίστει</corr>
-               </choice>
-               <expan><abbr>Χ</abbr><ex>ριστο</ex><abbr>ῦ</abbr></expan> ἔτη <num value="70">οʹ</num>, ἐ<lb break="no"/>ν <choice>
-                  <sic>ἔτι</sic>
-                  <corr>ἔτει</corr>
-               </choice>
+            <p><g type="cross">+</g> Πέτρος <choice><sic>Σ<lb break="no"/>αμασέου,</sic><corr>Σαμμασέου</corr></choice>
+               <choice><sic>πρ<lb break="no"/>επόσιτος</sic><corr>πραιπόσιτος</corr></choice>, ἐν<lb break="no"/>θάδε <choice><sic>κῖτε</sic><corr>κεῖται</corr></choice>, ζ<lb break="no"/>ήσας ἐν <choice><sic>πίσ<lb break="no"/>τι</sic><corr>πίστει</corr></choice>
+               <expan><abbr>Χ</abbr><ex>ριστο</ex><abbr>ῦ</abbr></expan> ἔτη <num value="70">οʹ</num>, ἐ<lb break="no"/>ν <choice><sic>ἔτι</sic><corr>ἔτει</corr></choice>
                <num value="398">τϟηʹ</num>, <expan><abbr>ἰν<lb break="no"/>δικ</abbr><ex>τιῶνος</ex></expan>
                <num value="12">ιβʹ</num>, μηνί<lb/>
-               <choice>
-                  <sic><expan><abbr>Αὐδονί</abbr><ex>ῳ</ex></expan></sic>
-                  <corr>Αὐδυναιῳ</corr>
-               </choice>
+               <choice><sic><expan><abbr>Αὐδονί</abbr><ex>ῳ</ex></expan></sic><corr>Αὐδυναιῳ</corr></choice>
                <num value="11">ιαʹ</num>.</p>
          </div>
          <div type="translation" ana="#b1" xml:id="zoor0254.translation" corresp="#zoor0254.transcription">
@@ -151,7 +133,7 @@
                     in the faith of Christ. (He died) in the year 398, in (the) 12th indiction, on
                     (the) 11th (day) of (the) month Audynaios.</p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="zoor0254-1" xml:lang="grc">Πέτρος</w><w xml:id="zoor0254-2" xml:lang="grc">ἐνθάδε</w><w xml:id="zoor0254-3" xml:lang="grc">ζήσας</w> <w xml:id="zoor0254-4" xml:lang="grc">ἐν</w><w xml:id="zoor0254-5" xml:lang="grc"><expan><abbr>Χ</abbr><ex>ριστο</ex><abbr>ῦ</abbr></expan></w><w xml:id="zoor0254-6" xml:lang="grc">ἔτη</w><num value="70">οʹ</num><w xml:id="zoor0254-7" xml:lang="grc">ἐν</w><num value="398">τϟηʹ</num><w xml:id="zoor0254-8" xml:lang="grc"><expan><abbr>ἰνδικ</abbr><ex>τιῶνος</ex></expan></w><num value="12">ιβʹ</num><w xml:id="zoor0254-9" xml:lang="grc">μηνί</w><num value="11">ιαʹ</num></p>
+      <div type="edition" subtype="transcription_segmented"><p/>
 </div>
 </body>
       <back>

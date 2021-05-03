@@ -138,37 +138,16 @@
                <lb/>Μν<supplied reason="undefined">ημῖον</supplied>
                <gap reason="illegible" atLeast="8" atMost="9" unit="character"/>
                <lb/>
-               <orig>ΝΗ</orig><gap reason="illegible" atLeast="11" atMost="12" unit="character"/>, <choice>
-                  <sic><supplied reason="undefined">ἀπ</supplied><lb break="no"/>αθονό<supplied reason="undefined">ντος</supplied></sic>
-                  <corr>ἀποθανόντος</corr>
-               </choice>
+               <orig>ΝΗ</orig><gap reason="illegible" atLeast="11" atMost="12" unit="character"/>, <choice><sic><supplied reason="undefined">ἀπ</supplied><lb break="no"/>αθονό<supplied reason="undefined">ντος</supplied></sic><corr>ἀποθανόντος</corr></choice>
                <supplied reason="undefined">μετὰ</supplied>
-               <supplied reason="undefined">κα</supplied><lb break="no"/>λοῦ <choice>
-                  <sic>ἀ<unclear>ν</unclear><supplied reason="undefined">όματος</supplied></sic>
-                  <corr>ὀνόματος</corr>
-               </choice>
+               <supplied reason="undefined">κα</supplied><lb break="no"/>λοῦ <choice><sic>ἀ<unclear>ν</unclear><supplied reason="undefined">όματος</supplied></sic><corr>ὀνόματος</corr></choice>
                <supplied reason="undefined">καὶ</supplied>
-               <lb/><choice>
-                  <sic>καλῶς</sic>
-                  <corr>καλῆς</corr>
-               </choice> πί<unclear>σ</unclear>
+               <lb/><choice><sic>καλῶς</sic><corr>καλῆς</corr></choice> πί<unclear>σ</unclear>
                <supplied reason="undefined">τεως</supplied>
-               <supplied reason="undefined">ἐτῶ</supplied><lb break="no"/>ν <num value="25">κεʹ</num>, ἐν <choice>
-                  <sic>ἔτι</sic>
-                  <corr>ἔτει</corr>
-               </choice> τ<gap reason="illegible" quantity="2" unit="character"/>
-               <supplied reason="undefined">μην</supplied><lb break="no"/>ὸς <choice>
-                  <sic>Δεσίου</sic>
-                  <corr>Δαισίου</corr>
-               </choice>
+               <supplied reason="undefined">ἐτῶ</supplied><lb break="no"/>ν <num value="25">κεʹ</num>, ἐν <choice><sic>ἔτι</sic><corr>ἔτει</corr></choice> τ<gap reason="illegible" quantity="2" unit="character"/>
+               <supplied reason="undefined">μην</supplied><lb break="no"/>ὸς <choice><sic>Δεσίου</sic><corr>Δαισίου</corr></choice>
                <num value="14">διʹ</num>, ἡ<unclear>μέρᾳ</unclear>
-               <lb/>Κυρίου <num value="4">δʹ</num>. <choice>
-                  <sic>Θάρσι</sic>
-                  <corr>Θάρσει</corr>
-               </choice>, <choice>
-                  <sic><unclear>ο</unclear>ὐδὶ<lb break="no"/>ς</sic>
-                  <corr>οὐδείς</corr>
-               </choice> ἀθάνατος. <g type="cross">+</g>
+               <lb/>Κυρίου <num value="4">δʹ</num>. <choice><sic>Θάρσι</sic><corr>Θάρσει</corr></choice>, <choice><sic><unclear>ο</unclear>ὐδὶ<lb break="no"/>ς</sic><corr>οὐδείς</corr></choice> ἀθάνατος. <g type="cross">+</g>
                <g type="cross">+</g><lb/>
                <g type="cross">+</g></p>
          </div>
@@ -178,7 +157,7 @@
                     14th (day) of (the) [month] Daisios, on (the) 4th day of (the) Lord (Wednesday).
                     Be of good cheer, no one (is) immortal.</p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="zoor0255-1" xml:lang="grc">Ε</w><w xml:id="zoor0255-2" xml:lang="grc"><supplied reason="undefined"><expan><abbr>θ</abbr><ex>εό</ex><abbr>ς</abbr></expan></supplied></w><w xml:id="zoor0255-3" xml:lang="grc"><supplied reason="undefined">ὁ</supplied></w><w xml:id="zoor0255-4" xml:lang="grc"><supplied reason="undefined">πάντων</supplied></w><w xml:id="zoor0255-5" xml:lang="grc"><supplied reason="undefined"><expan><abbr>Δεσπ</abbr><ex>ότης</ex></expan></supplied></w><w xml:id="zoor0255-6" xml:lang="grc">Μν</w><w xml:id="zoor0255-7" xml:lang="grc"><supplied reason="undefined">μετὰ</supplied></w><w xml:id="zoor0255-8" xml:lang="grc">λοῦ</w><w xml:id="zoor0255-9" xml:lang="grc"><supplied reason="undefined">καὶ</supplied></w><w xml:id="zoor0255-10" xml:lang="grc">πί</w><w xml:id="zoor0255-11" xml:lang="grc"><supplied reason="undefined">τεως</supplied></w><w xml:id="zoor0255-12" xml:lang="grc">ν</w><num value="25">κεʹ</num><w xml:id="zoor0255-13" xml:lang="grc">ἐν</w><w xml:id="zoor0255-14" xml:lang="grc">τ</w><w xml:id="zoor0255-15" xml:lang="grc">ὸς</w><num value="14">διʹ</num><w xml:id="zoor0255-16" xml:lang="grc">ἡ</w><w xml:id="zoor0255-17" xml:lang="grc">Κυρίου</w><num value="4">δʹ</num><w xml:id="zoor0255-18" xml:lang="grc">ἀθάνατος</w></p>
+      <div type="edition" subtype="transcription_segmented"><p/>
 </div>
 </body>
       <back>

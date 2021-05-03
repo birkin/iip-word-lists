@@ -126,16 +126,10 @@
                 <p/>
             </div>
             <div type="edition" subtype="transcription" ana="b1" xml:lang="heb">
-                <p>ח ס <num value="1">
-                  <g type="one-slanted-stroke"/>
-               </num>
+                <p>ח ס <num value="1"><g type="one-slanted-stroke"/></num>
                     <gap reason="illegible" quantity="1" unit="character"/>
                <gap reason="lost" extent="unknown" unit="character"/>
-               <lb/>ס <num value="1">
-                  <g type="one-slanted-stroke"/>
-               </num> ר<num value=".75">
-                  <g type="three-slanted-strokes"/>
-               </num>
+               <lb/>ס <num value="1"><g type="one-slanted-stroke"/></num> ר<num value=".75"><g type="three-slanted-strokes"/></num>
                <gap reason="lost" extent="unknown" unit="character"/>
             </p>
             </div>
@@ -145,13 +139,7 @@
             <div type="commentary" ana="b1">
                 <p/>
             </div>
-        <div type="edition" subtype="transcription_segmented"><p><w xml:id="mare0087-1" xml:lang="arc">ח</w> <w xml:id="mare0087-2" xml:lang="arc">ס</w><num value="1">
-                  <g type="one-slanted-stroke"/>
-               </num><w xml:id="mare0087-3" xml:lang="arc">ס</w><num value="1">
-                  <g type="one-slanted-stroke"/>
-               </num><w xml:id="mare0087-4" xml:lang="arc">ר</w><num value=".75">
-                  <g type="three-slanted-strokes"/>
-               </num></p>
+        <div type="edition" subtype="transcription_segmented"><p/>
 </div>
 </body>
         <back>

@@ -120,27 +120,15 @@
    <text>
       <body>
          <div type="edition" ana="#b1" xml:lang="grc" subtype="transcription" xml:id="zoor0167.transcription" corresp="#zoor0167.translation">
-            <p><g type="cross">+</g><lb/> Εἷς Θεός. <choice>
-                  <sic>Μνημῖ<lb break="no"/>ον</sic>
-                  <corr>Μνημεῖον</corr>
-               </choice> Εύδοξίου<lb/> Σελαμάνου, ἀπο<lb break="no"/>θανόντος με<lb/>τὰ καλοῦ
-                  ὀνόμα<lb break="no"/>τος ἐτῶν <num>μςʹ</num>,<lb/> ἐν <choice>
-                  <sic>ἔτι</sic>
-                  <corr>ἔτει</corr>
-               </choice>
+            <p><g type="cross">+</g><lb/> Εἷς Θεός. <choice><sic>Μνημῖ<lb break="no"/>ον</sic><corr>Μνημεῖον</corr></choice> Εύδοξίου<lb/> Σελαμάνου, ἀπο<lb break="no"/>θανόντος με<lb/>τὰ καλοῦ
+                  ὀνόμα<lb break="no"/>τος ἐτῶν <num>μςʹ</num>,<lb/> ἐν <choice><sic>ἔτι</sic><corr>ἔτει</corr></choice>
                <num>τλςʹ</num>, <expan><abbr>μην</abbr><ex>ὸς</ex></expan>
                <lb/>
                <expan><abbr>Ξανθ</abbr><ex>ικοῦ</ex></expan>
                <num>ιγʹ</num>, <expan><abbr>ἡμ</abbr><ex>έρᾳ</ex></expan>
                <expan><abbr>Κυ</abbr><ex>ρίου</ex></expan>
                <num>εʹ</num>.<lb/>
-               <choice>
-                  <sic>Θάρσι</sic>
-                  <corr>Θάρσει</corr>
-               </choice>, <choice>
-                  <sic>οὐδὶς</sic>
-                  <corr>οὐδεὶς</corr>
-               </choice> ἀ<lb break="no"/>θάνατος.</p>
+               <choice><sic>Θάρσι</sic><corr>Θάρσει</corr></choice>, <choice><sic>οὐδὶς</sic><corr>οὐδεὶς</corr></choice> ἀ<lb break="no"/>θάνατος.</p>
          </div>
          <div type="translation" ana="#b1" xml:id="zoor0167.translation" corresp="#zoor0167.transcription">
             <p>One (is) the God. Monument of Eudoxios, (son) of Selamanos, who died having a
@@ -148,7 +136,7 @@
                     (the) month Xanthikos, on the 5th day of (the) Lord (Thursday). Be of good
                     cheer, no one (is) immortal.</p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="zoor0167-1" xml:lang="grc">Εἷς</w> <w xml:id="zoor0167-2" xml:lang="grc">Θεός</w><w xml:id="zoor0167-3" xml:lang="grc">Εύδοξίου</w> <w xml:id="zoor0167-4" xml:lang="grc">Σελαμάνου</w> <w xml:id="zoor0167-5" xml:lang="grc">ἀποθανόντος</w> <w xml:id="zoor0167-6" xml:lang="grc">με</w> <w xml:id="zoor0167-7" xml:lang="grc">τὰ</w> <w xml:id="zoor0167-8" xml:lang="grc">καλοῦ</w> <w xml:id="zoor0167-9" xml:lang="grc">ὀνόματος</w> <w xml:id="zoor0167-10" xml:lang="grc">ἐτῶν</w><num>μςʹ</num><w xml:id="zoor0167-11" xml:lang="grc">ἐν</w><num>τλςʹ</num><w xml:id="zoor0167-12" xml:lang="grc"><expan><abbr>μην</abbr><ex>ὸς</ex></expan></w><w xml:id="zoor0167-13" xml:lang="grc"><expan><abbr>Ξανθ</abbr><ex>ικοῦ</ex></expan></w><num>ιγʹ</num><w xml:id="zoor0167-14" xml:lang="grc"><expan><abbr>ἡμ</abbr><ex>έρᾳ</ex></expan></w><w xml:id="zoor0167-15" xml:lang="grc"><expan><abbr>Κυ</abbr><ex>ρίου</ex></expan></w><num>εʹ</num><w xml:id="zoor0167-16" xml:lang="grc">ἀθάνατος</w></p>
+      <div type="edition" subtype="transcription_segmented"><p/>
 </div>
 </body>
       <back>

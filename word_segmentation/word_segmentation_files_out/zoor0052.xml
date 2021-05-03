@@ -122,26 +122,11 @@
          <div type="edition" ana="#b1" xml:lang="grc" subtype="transcription" xml:id="zoor0052.transcription" corresp="#zoor0052.translation">
             <p><g type="cross">+</g><lb/>
                <supplied reason="undefined">+</supplied>
-               <choice>
-                  <sic>Μνημῖον</sic>
-                  <corr>Μνημεῖον</corr>
-               </choice> ι <g type="cross">+</g><lb/> Παῦλος <choice>
-                  <sic>Δομ<lb break="no"/>ετίου</sic>
-                  <corr>Δομιτίου</corr>
-               </choice>, <choice>
-                  <sic><unclear>ἀ</unclear>πο<unclear>θ</unclear>ά<lb break="no"/>ναντ<unclear>ο</unclear>ς</sic>
-                  <corr>ἀποθανόντος</corr>
-               </choice>
+               <choice><sic>Μνημῖον</sic><corr>Μνημεῖον</corr></choice> ι <g type="cross">+</g><lb/> Παῦλος <choice><sic>Δομ<lb break="no"/>ετίου</sic><corr>Δομιτίου</corr></choice>, <choice><sic><unclear>ἀ</unclear>πο<unclear>θ</unclear>ά<lb break="no"/>ναντ<unclear>ο</unclear>ς</sic><corr>ἀποθανόντος</corr></choice>
                <g type="cross">+</g> ν <g type="cross">+</g>
                <unclear>ἐ</unclear><lb break="no"/>τῶν + <num value="30">λʹ</num>, + ἔ<lb break="no"/>τ<unclear>ο</unclear>υ<unclear>ς</unclear>
-               <choice>
-                  <sic>διακ<unclear>ο</unclear><lb break="no"/>σσιαστοῦ</sic>
-                  <corr>διακοσιοστοῦ</corr>
-               </choice><lb/>
-               <choice>
-                  <sic>ὀγδηκστ<lb break="no"/>οῦ</sic>
-                  <corr>ὀγδoηκοστοῦ</corr>
-               </choice>, μηνὸ<lb break="no"/>ς Δύστρ<unclear>ο</unclear>υ τριακάδι,<lb/> ἐν
+               <choice><sic>διακ<unclear>ο</unclear><lb break="no"/>σσιαστοῦ</sic><corr>διακοσιοστοῦ</corr></choice><lb/>
+               <choice><sic>ὀγδηκστ<lb break="no"/>οῦ</sic><corr>ὀγδoηκοστοῦ</corr></choice>, μηνὸ<lb break="no"/>ς Δύστρ<unclear>ο</unclear>υ τριακάδι,<lb/> ἐν
                ἡμέρᾳ<lb/> Ἡλίου. <g type="cross">+</g></p>
          </div>
          <div type="translation" ana="#b1" xml:id="zoor0052.translation" corresp="#zoor0052.transcription">
@@ -149,7 +134,7 @@
                     years, in (the) two hundred and eightieth year, on the thirtieth (day) of (the)
                     month Dystros, on the day of (the) Sun (Sunday).</p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="zoor0052-1" xml:lang="grc"><supplied reason="undefined">+</supplied></w><w xml:id="zoor0052-2" xml:lang="grc">ι</w><w xml:id="zoor0052-3" xml:lang="grc">Παῦλος</w><w xml:id="zoor0052-4" xml:lang="grc">ν</w><w xml:id="zoor0052-5" xml:lang="grc"><unclear>ἐ</unclear>τῶν + <num value="30">λʹ</num>, + ἔτ<unclear>ο</unclear>υ<unclear>ς</unclear></w><w xml:id="zoor0052-6" xml:lang="grc">μηνὸς</w> <w xml:id="zoor0052-7" xml:lang="grc">Δύστρ</w><w xml:id="zoor0052-8" xml:lang="grc">υ</w> <w xml:id="zoor0052-9" xml:lang="grc">τριακάδι</w> <w xml:id="zoor0052-10" xml:lang="grc">ἐν</w> <w xml:id="zoor0052-11" xml:lang="grc">ἡμέρᾳ</w> <w xml:id="zoor0052-12" xml:lang="grc">Ἡλίου</w></p>
+      <div type="edition" subtype="transcription_segmented"><p/>
 </div>
 </body>
       <back>

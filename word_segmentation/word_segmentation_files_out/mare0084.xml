@@ -126,13 +126,9 @@
                 <p/>
             </div>
             <div type="edition" subtype="transcription" ana="b1" xml:lang="heb">
-                <p>נהרי בר עזיזו <lb/>כנתן כרו <num value="2">
-                  <g type="two-slanted-strokes"/>
-               </num>
+                <p>נהרי בר עזיזו <lb/>כנתן כרו <num value="2"><g type="two-slanted-strokes"/></num>
                     <unclear>ס</unclear>
-                    <num value="3">
-                  <g type="three-slanted-strokes"/>
-               </num>
+                    <num value="3"><g type="three-slanted-strokes"/></num>
             </p>
             </div>
             <div type="translation" ana="b1">
@@ -143,11 +139,7 @@
                     emmer. It is possible that the date appeared on an upper line that was not
                     preserved.</p>
             </div>
-        <div type="edition" subtype="transcription_segmented"><p><w xml:id="mare0084-1" xml:lang="arc">נהרי</w> <w xml:id="mare0084-2" xml:lang="arc">בר</w> <w xml:id="mare0084-3" xml:lang="arc">עזיזו</w> <w xml:id="mare0084-4" xml:lang="arc">כנתן</w> <w xml:id="mare0084-5" xml:lang="arc">כרו</w><num value="2">
-                  <g type="two-slanted-strokes"/>
-               </num><w xml:id="mare0084-6" xml:lang="arc"><unclear>ס</unclear></w><num value="3">
-                  <g type="three-slanted-strokes"/>
-               </num></p>
+        <div type="edition" subtype="transcription_segmented"><p/>
 </div>
 </body>
         <back>

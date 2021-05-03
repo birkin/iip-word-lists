@@ -125,15 +125,9 @@
       <body>
          <div type="edition" ana="#b1" xml:lang="grc" subtype="transcription" xml:id="zoor0138.transcription" corresp="#zoor0138.translation">
             <p><g type="cross">+</g><lb/>
-               <choice>
-                  <sic>Μνημῖα<supplied reason="undefined">ν</supplied></sic>
-                  <corr>Μνημεῖον</corr>
-               </choice>
+               <choice><sic>Μνημῖα<supplied reason="undefined">ν</supplied></sic><corr>Μνημεῖον</corr></choice>
                <g type="cross">+</g> Πα<unclear>ρθε</unclear>νίου,<lb/> ἀποθανόντος ἐτῶν
-                  <num>οʹ</num>,<lb/> ἔτους <choice>
-                  <sic>τριακο<unclear>σσ</unclear>ιοστ<unclear>ο</unclear>ῦ</sic>
-                  <corr>τριακοσιοστοῦ</corr>
-               </choice>
+                  <num>οʹ</num>,<lb/> ἔτους <choice><sic>τριακο<unclear>σσ</unclear>ιοστ<unclear>ο</unclear>ῦ</sic><corr>τριακοσιοστοῦ</corr></choice>
                <num>κςʹ</num>,<lb/> μηνὸς Δίου <num>κδʹ</num>,<lb/> ἡμέρᾳ Κυρίου <num>γʹ</num>.<lb/>
                <g type="cross">+</g>
                <g type="cross">+</g>
@@ -144,7 +138,7 @@
                     and 26th year, on the 24th (day) of (the) month Dios, on (the) 3rd day of (the)
                     Lord (Tuesday).</p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="zoor0138-1" xml:lang="grc">Πα</w><w xml:id="zoor0138-2" xml:lang="grc">νίου</w> <w xml:id="zoor0138-3" xml:lang="grc">ἀποθανόντος</w> <w xml:id="zoor0138-4" xml:lang="grc">ἐτῶν</w><num>οʹ</num><w xml:id="zoor0138-5" xml:lang="grc">ἔτους</w><num>κςʹ</num><w xml:id="zoor0138-6" xml:lang="grc">μηνὸς</w> <w xml:id="zoor0138-7" xml:lang="grc">Δίου</w><num>κδʹ</num><w xml:id="zoor0138-8" xml:lang="grc">ἡμέρᾳ</w> <w xml:id="zoor0138-9" xml:lang="grc">Κυρίου</w><num>γʹ</num></p>
+      <div type="edition" subtype="transcription_segmented"><p/>
 </div>
 </body>
       <back>

@@ -132,10 +132,7 @@
                 <p><gap reason="lost" extent="unknown" unit="character"/>ΕΥΛΟΓΙΑΚΥΕΠΦΗΜΑ<gap reason="lost" extent="unknown" unit="character"/>ΑΥΛΟ</p>
             </div>
             <div type="edition" subtype="transcription" ana="b1">
-                <p><gap reason="lost" extent="unknown" unit="character"/>Εὐλογία Κ<supplied reason="omitted">υρίο</supplied>υ <choice>
-                        <sic>ἐπ᾽</sic>
-                        <corr>ἐφ᾽</corr>
-                    </choice> ἡμᾶ<supplied reason="lost">ς</supplied>
+                <p><gap reason="lost" extent="unknown" unit="character"/>Εὐλογία Κ<supplied reason="omitted">υρίο</supplied>υ <choice><sic>ἐπ᾽</sic><corr>ἐφ᾽</corr></choice> ἡμᾶ<supplied reason="lost">ς</supplied>
                     <supplied reason="lost">καὶ</supplied>
                     <supplied reason="lost">τοῦ</supplied>
                     <supplied reason="lost">ἁγὶου</supplied>
@@ -147,7 +144,7 @@
             <div type="commentary" ana="b1">
                 <p>The last letter of "Paul" is replaced by the mark "/", which may have signified either an abbreviation mark or a word divider.</p>
             </div>
-        <div type="edition" subtype="transcription_segmented"><p><w xml:id="caes0421-1" xml:lang="grc">Εὐλογία</w> <w xml:id="caes0421-2" xml:lang="grc">Κ</w><w xml:id="caes0421-3" xml:lang="grc">υ</w><w xml:id="caes0421-4" xml:lang="grc">ἡμᾶ</w><w xml:id="caes0421-5" xml:lang="grc"><supplied reason="lost">καὶ</supplied></w><w xml:id="caes0421-6" xml:lang="grc"><supplied reason="lost">τοῦ</supplied></w><w xml:id="caes0421-7" xml:lang="grc"><supplied reason="lost">ἁγὶου</supplied></w><w xml:id="caes0421-8" xml:lang="grc">αύλο</w></p>
+        <div type="edition" subtype="transcription_segmented"><p/>
 </div>
 </body>
         <back>

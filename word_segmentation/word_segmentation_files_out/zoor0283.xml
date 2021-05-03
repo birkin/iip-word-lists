@@ -134,29 +134,14 @@
          <div type="edition" ana="#b1" xml:lang="grc" subtype="transcription" xml:id="zoor0283.transcription" corresp="#zoor0283.translation">
             <p>
                <g type="cross">+</g><lb/>
-               <choice>
-                  <sic>Μνημῖαν</sic>
-                  <corr>Μνημεῖον</corr>
-               </choice>
-               <choice>
-                  <sic> Σω<unclear>σ</unclear><lb break="no"/><supplied reason="undefined">άν</supplied><unclear>ας</unclear></sic>
-                  <corr>Σωσάννας</corr>
-               </choice> Ζήνωνος,<lb/> παυσομένη μ<lb break="no"/><unclear>ετὰ</unclear>
-               <unclear>κά</unclear>λοῦ <choice>
-                  <sic>ἀνό<lb break="no"/><unclear>μα</unclear>τος</sic>
-                  <corr>ὀνόματος</corr>
-               </choice> ἐτῶν<lb/>
+               <choice><sic>Μνημῖαν</sic><corr>Μνημεῖον</corr></choice>
+               <choice><sic>Σω<unclear>σ</unclear><lb break="no"/><supplied reason="undefined">άν</supplied><unclear>ας</unclear></sic><corr>Σωσάννας</corr></choice> Ζήνωνος,<lb/> παυσομένη μ<lb break="no"/><unclear>ετὰ</unclear>
+               <unclear>κά</unclear>λοῦ <choice><sic>ἀνό<lb break="no"/><unclear>μα</unclear>τος</sic><corr>ὀνόματος</corr></choice> ἐτῶν<lb/>
                <gap reason="illegible" quantity="5" precision="low" unit="character"/> ἔτους<lb/>
                <gap reason="lost" unit="character" extent="unknown"/>
-               <supplied reason="undefined">μηνὸς</supplied> Δύστ<unclear>ρ</unclear><lb break="no"/><supplied reason="undefined">ου</supplied>. <gap reason="illegible" quantity="5" precision="low" unit="character"/>. <choice>
-                  <sic><unclear>Θάρ</unclear>σι</sic>
-                  <corr>Θάρσει</corr>
-               </choice>
+               <supplied reason="undefined">μηνὸς</supplied> Δύστ<unclear>ρ</unclear><lb break="no"/><supplied reason="undefined">ου</supplied>. <gap reason="illegible" quantity="5" precision="low" unit="character"/>. <choice><sic><unclear>Θάρ</unclear>σι</sic><corr>Θάρσει</corr></choice>
                <lb/>
-               <choice>
-                  <sic><supplied reason="undefined">οὐδὶς</supplied></sic>
-                  <corr>οὐδείς</corr>
-               </choice>
+               <choice><sic><supplied reason="undefined">οὐδὶς</supplied></sic><corr>οὐδείς</corr></choice>
                <unclear>ἀ</unclear>θάνατος. </p>
          </div>
          <div type="translation" ana="#b1" xml:id="zoor0283.translation" corresp="#zoor0283.transcription">
@@ -164,7 +149,7 @@
                     age) of...years, (in the) year ... on the ... (day) of (the) [month] Dystros. Be
                     of good cheer, [no one] (is) immortal.</p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="zoor0283-1" xml:lang="grc">Ζήνωνος</w> <w xml:id="zoor0283-2" xml:lang="grc">παυσομένη</w> <w xml:id="zoor0283-3" xml:lang="grc">μ</w><w xml:id="zoor0283-4" xml:lang="grc">λοῦ</w><w xml:id="zoor0283-5" xml:lang="grc">ἐτῶν</w> <w xml:id="zoor0283-6" xml:lang="grc">ἔτους</w><w xml:id="zoor0283-7" xml:lang="grc"><supplied reason="undefined">μηνὸς</supplied></w><w xml:id="zoor0283-8" xml:lang="grc">Δύστ</w><w xml:id="zoor0283-9" xml:lang="grc">θάνατος</w></p>
+      <div type="edition" subtype="transcription_segmented"><p/>
 </div>
 </body>
       <back>

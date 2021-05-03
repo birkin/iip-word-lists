@@ -129,30 +129,15 @@
       <body>
          <div type="edition" ana="#b1" xml:lang="grc" subtype="transcription" xml:id="zoor0095.transcription" corresp="#zoor0095.translation">
             <p>
-               <choice>
-                  <sic>Μνημῖον</sic>
-                  <corr>Μνημεῖον</corr>
-               </choice> Ῥούφου <unclear>Σ</unclear>αμιράβ<lb break="no"/>βου, πρεσβυτέρου,
+               <choice><sic>Μνημῖον</sic><corr>Μνημεῖον</corr></choice> Ῥούφου <unclear>Σ</unclear>αμιράβ<lb break="no"/>βου, πρεσβυτέρου,
                   παυσάμε<lb break="no"/>νος <unclear>ἐν</unclear>
-               <choice>
-                  <sic>ὁσιάτητι</sic>
-                  <corr>ὁσιότητι</corr>
-               </choice> μετὰ κα<lb break="no"/>λοῦ <choice>
-                  <sic>ἀνόματος</sic>
-                  <corr>ὀνόματος</corr>
-               </choice> καὶ καλῆς<lb/> πίστεως ἐτῶν <num>ξ<unclear>ς</unclear>ʹ</num>,<lb/> ἔτους
+               <choice><sic>ὁσιάτητι</sic><corr>ὁσιότητι</corr></choice> μετὰ κα<lb break="no"/>λοῦ <choice><sic>ἀνόματος</sic><corr>ὀνόματος</corr></choice> καὶ καλῆς<lb/> πίστεως ἐτῶν <num>ξ<unclear>ς</unclear>ʹ</num>,<lb/> ἔτους
                   <num>τβʹ</num>, <expan><abbr>μη</abbr><ex>νὸς</ex></expan>
                <lb/> Δύστροῦ δευτέρᾳ, <expan><abbr>ἡμ</abbr><ex>έρᾳ</ex></expan>
                <lb/>
                <expan><abbr>Κυ</abbr><ex>ρίου</ex></expan>
                <num>αʹ</num>.<lb/>
-               <choice>
-                  <sic>Θάρσι</sic>
-                  <corr>Θάρσει</corr>
-               </choice>, Ῥοῦφε, <choice>
-                  <sic>ουδὶς</sic>
-                  <corr>ουδείς</corr>
-               </choice> ἀθά<lb break="no"/>νατος. <lb/>
+               <choice><sic>Θάρσι</sic><corr>Θάρσει</corr></choice>, Ῥοῦφε, <choice><sic>ουδὶς</sic><corr>ουδείς</corr></choice> ἀθά<lb break="no"/>νατος. <lb/>
                <g type="cross">+</g></p>
          </div>
          <div type="translation" ana="#b1" xml:id="zoor0095.translation" corresp="#zoor0095.transcription">
@@ -161,7 +146,7 @@
                     on the second (day) of the month Dystros, on the 1st day of (the) Lord (Sunday).
                     Be of good cheer, Rufus, no one (is) immortal.</p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="zoor0095-1" xml:lang="grc">Ῥούφου</w><w xml:id="zoor0095-2" xml:lang="grc">αμιράββου</w> <w xml:id="zoor0095-3" xml:lang="grc">πρεσβυτέρου</w> <w xml:id="zoor0095-4" xml:lang="grc">παυσάμενος</w><w xml:id="zoor0095-5" xml:lang="grc"><unclear>ἐν</unclear></w><w xml:id="zoor0095-6" xml:lang="grc">μετὰ</w> <w xml:id="zoor0095-7" xml:lang="grc">καλοῦ</w><w xml:id="zoor0095-8" xml:lang="grc">καὶ</w> <w xml:id="zoor0095-9" xml:lang="grc">καλῆς</w> <w xml:id="zoor0095-10" xml:lang="grc">πίστεως</w> <w xml:id="zoor0095-11" xml:lang="grc">ἐτῶν</w><num>ξ<unclear>ς</unclear>ʹ</num><w xml:id="zoor0095-12" xml:lang="grc">ἔτους</w><num>τβʹ</num><w xml:id="zoor0095-13" xml:lang="grc"><expan><abbr>μη</abbr><ex>νὸς</ex></expan></w><w xml:id="zoor0095-14" xml:lang="grc">Δύστροῦ</w> <w xml:id="zoor0095-15" xml:lang="grc">δευτέρᾳ</w><w xml:id="zoor0095-16" xml:lang="grc"><expan><abbr>ἡμ</abbr><ex>έρᾳ</ex></expan></w><w xml:id="zoor0095-17" xml:lang="grc"><expan><abbr>Κυ</abbr><ex>ρίου</ex></expan></w><num>αʹ</num><w xml:id="zoor0095-18" xml:lang="grc">Ῥοῦφε</w><w xml:id="zoor0095-19" xml:lang="grc">ἀθάνατος</w></p>
+      <div type="edition" subtype="transcription_segmented"><p/>
 </div>
 </body>
       <back>

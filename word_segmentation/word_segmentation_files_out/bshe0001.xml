@@ -171,10 +171,12 @@
                     ΙΝΔsΖΕΤΟΥΣΧ̅ΚΒ </p>
          </div>
          <div type="edition" subtype="transcription" ana="b1">
-            <p>+ Θεόδωρος ὁ ποιμὴν <lb/>λουτρὰ καινουργῶν νέμε<supplied reason="undefined">ι</supplied>
-               <lb/>τοῖς τὴν ἄκραν νοσοῦσι τῆς <lb/>λώβης νόσον + <lb/>ἐν
-                <expan><abbr>χρ</abbr><ex>όνοις</ex></expan>
-               <expan><abbr>ἰνδ</abbr><ex>ικτιῶνος</ex></expan> ζ΄ <lb/>ἔτους χκβ΄</p>
+            <p><g type="cross">+</g> Θεόδωρος ὁ ποιμὴν 
+               <lb/>λουτρὰ καινουργῶν νέμε<supplied reason="undefined">ι</supplied>
+               <lb/>τοῖς τὴν ἄκραν νοσοῦσι τῆς <lb/>λώβης νόσον <g type="cross">+</g> 
+               <lb/>ἐν <expan><abbr>χρ</abbr><ex>όνοις</ex></expan>
+               <expan><abbr>ἰνδ</abbr><ex>ικτιῶνος</ex></expan> <num>ζ΄</num> 
+               <lb/>ἔτους <num>χκβ΄</num></p>
          </div>
          <div type="translation" ana="b1">
             <p>Theodore the shepherd / allots, renewing them, the baths / to those sick with the
@@ -186,7 +188,7 @@
          </div>
          <!-- The bibl has more contained elements. What is the possible list of values of the biblScope/@type? 
              -->
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="bshe0001-1" xml:lang="grc">Θεόδωρος</w> <w xml:id="bshe0001-2" xml:lang="grc">ὁ</w> <w xml:id="bshe0001-3" xml:lang="grc">ποιμὴν</w> <w xml:id="bshe0001-4" xml:lang="grc">λουτρὰ</w> <w xml:id="bshe0001-5" xml:lang="grc">καινουργῶν</w> <w xml:id="bshe0001-6" xml:lang="grc">νέμε</w><w xml:id="bshe0001-7" xml:lang="grc">τοῖς</w> <w xml:id="bshe0001-8" xml:lang="grc">τὴν</w> <w xml:id="bshe0001-9" xml:lang="grc">ἄκραν</w> <w xml:id="bshe0001-10" xml:lang="grc">νοσοῦσι</w> <w xml:id="bshe0001-11" xml:lang="grc">τῆς</w> <w xml:id="bshe0001-12" xml:lang="grc">λώβης</w> <w xml:id="bshe0001-13" xml:lang="grc">νόσον</w> <w xml:id="bshe0001-14" xml:lang="grc">ἐν</w><w xml:id="bshe0001-15" xml:lang="grc"><expan><abbr>χρ</abbr><ex>όνοις</ex></expan></w><w xml:id="bshe0001-16" xml:lang="grc"><expan><abbr>ἰνδ</abbr><ex>ικτιῶνος</ex></expan></w><w xml:id="bshe0001-17" xml:lang="grc">ζ΄</w> <w xml:id="bshe0001-18" xml:lang="grc">ἔτους</w> <w xml:id="bshe0001-19" xml:lang="grc">χκβ΄</w></p>
+      <div type="edition" subtype="transcription_segmented"><p/>
 </div>
 </body>
       <back>

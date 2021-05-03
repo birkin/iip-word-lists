@@ -124,15 +124,9 @@
    <text>
       <body>
          <div type="edition" ana="#b1" xml:lang="grc" subtype="transcription" xml:id="zoor0158.transcription" corresp="#zoor0158.translation">
-            <p><g type="cross">+</g><lb/> Εἷς Θεός. <choice>
-                  <sic>Μνημῖον</sic>
-                  <corr>Μνημεῖον</corr>
-               </choice>
+            <p><g type="cross">+</g><lb/> Εἷς Θεός. <choice><sic>Μνημῖον</sic><corr>Μνημεῖον</corr></choice>
                <lb/> Ἀριάδνης Σαμιράβ<lb break="no"/>βου, ἀποθανούσης<lb/> μετὰ καλοῦ ὀνόμα<lb break="no"/>τος ἐτῶν ἐτῶν<lb/>
-               <num>λθʹ</num>, ἐν <choice>
-                  <sic>ἔτι</sic>
-                  <corr>ἔτει</corr>
-               </choice> τριακοσ<lb break="no"/>σιοστοῦ τριακοσ<lb break="no"/>τοῦ τρίτου, μηνὶ
+               <num>λθʹ</num>, ἐν <choice><sic>ἔτι</sic><corr>ἔτει</corr></choice> τριακοσ<lb break="no"/>σιοστοῦ τριακοσ<lb break="no"/>τοῦ τρίτου, μηνὶ
                <lb/> Ἀπελλέου <num>ιδʹ</num>,<lb/> ἡμέρᾳ <expan><abbr>Κυ</abbr><ex>ρίου</ex></expan>
                <num>δʹ</num>. Θάρ<lb break="no"/>σι, οὐδὶς ἀθάνατος.<lb/>
                <g type="cross">+</g></p>
@@ -143,7 +137,7 @@
                     year, on (the) 14th (day) of the month Apellaios, on (the) 4th day of (the) Lord
                     (Wednesday). Be of good cheer, no one (is) immortal.</p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="zoor0158-1" xml:lang="grc">Εἷς</w> <w xml:id="zoor0158-2" xml:lang="grc">Θεός</w><w xml:id="zoor0158-3" xml:lang="grc">Ἀριάδνης</w> <w xml:id="zoor0158-4" xml:lang="grc">Σαμιράββου</w> <w xml:id="zoor0158-5" xml:lang="grc">ἀποθανούσης</w> <w xml:id="zoor0158-6" xml:lang="grc">μετὰ</w> <w xml:id="zoor0158-7" xml:lang="grc">καλοῦ</w> <w xml:id="zoor0158-8" xml:lang="grc">ὀνόματος</w> <w xml:id="zoor0158-9" xml:lang="grc">ἐτῶν</w> <w xml:id="zoor0158-10" xml:lang="grc">ἐτῶν</w><num>λθʹ</num><w xml:id="zoor0158-11" xml:lang="grc">ἐν</w><w xml:id="zoor0158-12" xml:lang="grc">τριακοσσιοστοῦ</w> <w xml:id="zoor0158-13" xml:lang="grc">τριακοστοῦ</w> <w xml:id="zoor0158-14" xml:lang="grc">τρίτου</w> <w xml:id="zoor0158-15" xml:lang="grc">μηνὶ</w> <w xml:id="zoor0158-16" xml:lang="grc">Ἀπελλέου</w><num>ιδʹ</num><w xml:id="zoor0158-17" xml:lang="grc">ἡμέρᾳ</w><w xml:id="zoor0158-18" xml:lang="grc"><expan><abbr>Κυ</abbr><ex>ρίου</ex></expan></w><num>δʹ</num><w xml:id="zoor0158-19" xml:lang="grc">Θάρσι</w> <w xml:id="zoor0158-20" xml:lang="grc">οὐδὶς</w> <w xml:id="zoor0158-21" xml:lang="grc">ἀθάνατος</w></p>
+      <div type="edition" subtype="transcription_segmented"><p/>
 </div>
 </body>
       <back>

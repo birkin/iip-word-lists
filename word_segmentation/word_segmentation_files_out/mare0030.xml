@@ -172,9 +172,7 @@
                <gap reason="lost" extent="unknown" unit="character"/>
                <lb/>נגרא<lb/>קוס<unclear>ע</unclear>דר
                         עס<unclear>ן</unclear>
-                    <num value="3">
-                  <g type="phoen-3"/>
-               </num>
+                    <num value="3"><g type="phoen-3"/></num>
                <gap reason="lost" extent="unknown" unit="character"/>
             </p>
             </div>
@@ -187,9 +185,7 @@
             </div>
             <!-- The bibl has more contained elements. What is the possible list of values of the biblScope/@type? 
              -->
-        <div type="edition" subtype="transcription_segmented"><p><w xml:id="mare0030-1" xml:lang="arc">מפ</w> <w xml:id="mare0030-2" xml:lang="arc">נגרא</w> <w xml:id="mare0030-3" xml:lang="arc">קוס</w><w xml:id="mare0030-4" xml:lang="arc">דר</w> <w xml:id="mare0030-5" xml:lang="arc">עס</w><num value="3">
-                  <g type="phoen-3"/>
-               </num></p>
+        <div type="edition" subtype="transcription_segmented"><p/>
 </div>
 </body>
         <back>

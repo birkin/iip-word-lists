@@ -117,28 +117,13 @@
       <body>
          <div type="edition" ana="#b1" xml:lang="grc" subtype="transcription" xml:id="zoor0083.transcription" corresp="#zoor0083.translation">
             <p>
-               <choice>
-                  <sic>Μνημῖον</sic>
-                  <corr>Μνημεῖον</corr>
-               </choice> Πέτρου Ἀσέμου,<lb/>
-               <choice>
-                  <sic>ἀποθονόντος</sic>
-                  <corr>ἀποθανόντος</corr>
-               </choice> ἔτους δια<lb break="no"/>κοσιοστοῦ <choice>
-                  <sic>ἐνινηκοστοῦ</sic>
-                  <corr>ἐνενηκοστοῦ</corr>
-               </choice>
+               <choice><sic>Μνημῖον</sic><corr>Μνημεῖον</corr></choice> Πέτρου Ἀσέμου,<lb/>
+               <choice><sic>ἀποθονόντος</sic><corr>ἀποθανόντος</corr></choice> ἔτους δια<lb break="no"/>κοσιοστοῦ <choice><sic>ἐνινηκοστοῦ</sic><corr>ἐνενηκοστοῦ</corr></choice>
                <lb/>
                <orig><unclear>ΑΝΗΣΑΤΟΥ</unclear></orig> ἐνάτου <orig><unclear>ΑΝΑ</unclear></orig>
                <lb/>
                <gap reason="illegible" quantity="7" unit="character"/>
-               <orig><unclear>ΙΕΛΝ</unclear></orig>. <choice>
-                  <sic>Θάρσι</sic>
-                  <corr>Θάρσει</corr>
-               </choice>, <choice>
-                  <sic>οὐ<lb break="no"/>δὶς</sic>
-                  <corr>οὐδείς</corr>
-               </choice> ἀθάνατ<lb break="no"/>ος.<lb/>
+               <orig><unclear>ΙΕΛΝ</unclear></orig>. <choice><sic>Θάρσι</sic><corr>Θάρσει</corr></choice>, <choice><sic>οὐ<lb break="no"/>δὶς</sic><corr>οὐδείς</corr></choice> ἀθάνατ<lb break="no"/>ος.<lb/>
                <g type="cross">+</g>
                <g type="cross">+</g>
                <g type="cross">+</g></p>
@@ -147,7 +132,7 @@
             <p>Monument of Petros, (son) of Asemos, who died in (the) two hundred and
                     ninety-ninth year ... Be of good cheer, no one (is) immortal.</p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="zoor0083-1" xml:lang="grc">Πέτρου</w> <w xml:id="zoor0083-2" xml:lang="grc">Ἀσέμου</w><w xml:id="zoor0083-3" xml:lang="grc">ἔτους</w> <w xml:id="zoor0083-4" xml:lang="grc">διακοσιοστοῦ</w><w xml:id="zoor0083-5" xml:lang="grc">ἐνάτου</w><w xml:id="zoor0083-6" xml:lang="grc">ἀθάνατος</w></p>
+      <div type="edition" subtype="transcription_segmented"><p/>
 </div>
 </body>
       <back>

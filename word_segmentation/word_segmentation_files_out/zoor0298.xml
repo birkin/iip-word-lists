@@ -120,20 +120,11 @@
    <text>
       <body>
          <div type="edition" ana="#b1" xml:lang="grc" subtype="transcription" xml:id="zoor0298.transcription" corresp="#zoor0298.translation">
-            <p>Μαρθίνη <choice>
-                  <sic>Φ<lb break="no"/>έρμου</sic>
-                  <corr>Φίρμου</corr>
-               </choice>, ἀπ<lb break="no"/>οθανοῦ<lb break="no"/>σα ἐτῶν<lb/>
+            <p>Μαρθίνη <choice><sic>Φ<lb break="no"/>έρμου</sic><corr>Φίρμου</corr></choice>, ἀπ<lb break="no"/>οθανοῦ<lb break="no"/>σα ἐτῶν<lb/>
                <num>μεʹ</num>, ἐν<lb/>
                <expan><abbr>μη</abbr><ex>νὶ</ex></expan> Περιτίου<lb/>
-               <num>ιʹ</num>. <choice>
-                  <sic>Θάρσι</sic>
-                  <corr>Θάρσει</corr>
-               </choice>,<lb/>
-               <choice>
-                  <sic>οὐδὶς</sic>
-                  <corr>οὐδείς</corr>
-               </choice> ἀ<lb break="no"/>θάνατος.<lb/>
+               <num>ιʹ</num>. <choice><sic>Θάρσι</sic><corr>Θάρσει</corr></choice>,<lb/>
+               <choice><sic>οὐδὶς</sic><corr>οὐδείς</corr></choice> ἀ<lb break="no"/>θάνατος.<lb/>
                <g type="cross">+</g></p>
          </div>
          <div type="translation" ana="#b1" xml:id="zoor0298.translation" corresp="#zoor0298.transcription">
@@ -141,7 +132,7 @@
                     45 years, on (the) 10th (day) of the month Peritios. Be of good cheer, no one
                     (is) immortal.</p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="zoor0298-1" xml:lang="grc">Μαρθίνη</w><w xml:id="zoor0298-2" xml:lang="grc">ἀποθανοῦσα</w> <w xml:id="zoor0298-3" xml:lang="grc">ἐτῶν</w><num>μεʹ</num><w xml:id="zoor0298-4" xml:lang="grc">ἐν</w><w xml:id="zoor0298-5" xml:lang="grc"><expan><abbr>μη</abbr><ex>νὶ</ex></expan></w><w xml:id="zoor0298-6" xml:lang="grc">Περιτίου</w><num>ιʹ</num><w xml:id="zoor0298-7" xml:lang="grc">ἀθάνατος</w></p>
+      <div type="edition" subtype="transcription_segmented"><p/>
 </div>
 </body>
       <back>

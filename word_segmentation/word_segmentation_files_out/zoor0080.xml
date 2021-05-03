@@ -142,25 +142,17 @@
       <body>
          <div type="edition" ana="#b1" xml:lang="grc" subtype="transcription" xml:id="zoor0080.transcription" corresp="#zoor0080.translation">
             <p>
-               <choice>
-                  <sic>Μνημῖον</sic>
-                  <corr>Μνημεῖον</corr>
-               </choice> Σίλα<lb/> Ὀλέφου, <expan><abbr>Φαινουσ</abbr><ex>ίου</ex></expan>,
-               <lb/>ἀποθανόντος<lb/> ἐτῶν <num>μβʹ</num>,<lb/> + ἔτους <num>σϟεʹ</num>,<lb/>
-               <expan><abbr>μη</abbr><ex>νὸς</ex></expan>
-               <choice>
-                  <sic/>
-                  <corr>Ἀπελλαίου</corr>
-               </choice>Ἀπελλέου<lb/>
-               <num>βκʹ</num>,<lb/> ἡμέρᾳ <expan><abbr>Κυ</abbr><ex>ρίου</ex></expan>
+               <choice><sic>Μνημῖον</sic><corr>Μνημεῖον</corr></choice> Σίλα
+               <lb/>Ὀλέφου, <expan><abbr>Φαινουσ</abbr><ex>ίου</ex></expan>,
+               <lb/>ἀποθανόντος
+               <lb/>ἐτῶν <num>μβʹ</num>,
+               <lb/> <g>+</g> ἔτους <num>σϟεʹ</num>,
+               <lb/><expan><abbr>μη</abbr><ex>νὸς</ex></expan>
+               <choice><sic/><corr>Ἀπελλαίου</corr></choice>Ἀπελλέου
+               <lb/><num>βκʹ</num>,
+               <lb/>ἡμέρᾳ <expan><abbr>Κυ</abbr><ex>ρίου</ex></expan>
                <num value="6">ςʹ</num>.<lb/>
-               <choice>
-                  <sic>Θάρσι</sic>
-                  <corr>Θάρσει</corr>
-               </choice>, <unclear>Σ</unclear>ίλα, <choice>
-                  <sic>οὐδὶς</sic>
-                  <corr>οὐδείς</corr>
-               </choice>
+               <choice><sic>Θάρσι</sic><corr>Θάρσει</corr></choice>, <unclear>Σ</unclear>ίλα, <choice><sic>οὐδὶς</sic><corr>οὐδείς</corr></choice>
                <lb/>ἀθάνατος. <lb/><g type="cross">+</g></p>
          </div>
          <div type="translation" ana="#b1" xml:id="zoor0080.translation" corresp="#zoor0080.transcription">
@@ -169,7 +161,7 @@
                     6th (day) of (the) Lord (Fiday). Be of good cheer, Silas, no one (is)
                     immortal.</p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="zoor0080-1" xml:lang="grc">Σίλα</w> <w xml:id="zoor0080-2" xml:lang="grc">Ὀλέφου</w><w xml:id="zoor0080-3" xml:lang="grc">ἀποθανόντος</w> <w xml:id="zoor0080-4" xml:lang="grc">ἐτῶν</w><num>μβʹ</num><w xml:id="zoor0080-5" xml:lang="grc">ἔτους</w><num>σϟεʹ</num><w xml:id="zoor0080-6" xml:lang="grc"><expan><abbr>μη</abbr><ex>νὸς</ex></expan></w><w xml:id="zoor0080-7" xml:lang="grc">Ἀπελλέου</w><num>βκʹ</num><w xml:id="zoor0080-8" xml:lang="grc">ἡμέρᾳ</w><w xml:id="zoor0080-9" xml:lang="grc"><expan><abbr>Κυ</abbr><ex>ρίου</ex></expan></w><num value="6">ςʹ</num><w xml:id="zoor0080-10" xml:lang="grc">ίλα</w><w xml:id="zoor0080-11" xml:lang="grc">ἀθάνατος</w></p>
+      <div type="edition" subtype="transcription_segmented"><p/>
 </div>
 </body>
       <back>

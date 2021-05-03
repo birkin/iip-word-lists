@@ -136,15 +136,13 @@
                     <lb/>
                     אלעזר
                     <lb/>
-               <foreign xml:lang="grc">
-                        Ἐλεάζαρος                        
-                    </foreign>
+               <foreign xml:lang="grc">Ἐλεάζαρος</foreign>
             </p>
          </div>
          <div type="translation" ana="#b1" xml:id="jeri0016.translation" corresp="#jeri0016.transcription">
             <p>Yeho'ezer, son of El'azar. Eleazar</p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="jeri0016-1" xml:lang="arc">יהועזר</w> <w xml:id="jeri0016-2" xml:lang="arc">בר</w> <w xml:id="jeri0016-3" xml:lang="arc">אלעזר</w></p>
+      <div type="edition" subtype="transcription_segmented"><p/>
 </div>
 </body>
       <back>

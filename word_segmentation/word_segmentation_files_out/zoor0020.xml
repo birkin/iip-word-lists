@@ -116,14 +116,8 @@
    <text>
       <body>
          <div type="edition" ana="#b1" xml:lang="grc" subtype="transcription" xml:id="zoor0020.transcription" corresp="#zoor0020.translation">
-            <p><g type="cross">+</g><lb/> Εἷς Θεός<lb/> ὃν <choice>
-                  <sic>θάρος</sic>
-                  <corr>θάρσος</corr>
-               </choice> ἔγραψα<lb/>
-               <choice>
-                  <sic>Μνημῖον</sic>
-                  <corr>Μνημεῖον</corr>
-               </choice>
+            <p><g type="cross">+</g><lb/> Εἷς Θεός<lb/> ὃν <choice><sic>θάρος</sic><corr>θάρσος</corr></choice> ἔγραψα<lb/>
+               <choice><sic>Μνημῖον</sic><corr>Μνημεῖον</corr></choice>
                <lb/> Σωσάννα<lb/> Ὀβέδ<unclear>α</unclear>ς ἀπο<lb break="no"/>θανόντος ἐτῶν
                   <num>ιʹ</num><lb/> ἔτους <num>σνεʹ</num></p>
          </div>
@@ -131,7 +125,7 @@
             <p>One (is) the God, by whose encouragement I wrote (this). Monument of Shoshana,
                     (daughter) of Obedas, who died (at the age) of 10 years, in (the) year 255.</p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="zoor0020-1" xml:lang="grc">Εἷς</w> <w xml:id="zoor0020-2" xml:lang="grc">Θεός</w> <w xml:id="zoor0020-3" xml:lang="grc">ὃν</w><w xml:id="zoor0020-4" xml:lang="grc">ἔγραψα</w><w xml:id="zoor0020-5" xml:lang="grc">Σωσάννα</w> <w xml:id="zoor0020-6" xml:lang="grc">Ὀβέδ</w><w xml:id="zoor0020-7" xml:lang="grc">ς</w> <w xml:id="zoor0020-8" xml:lang="grc">ἀποθανόντος</w> <w xml:id="zoor0020-9" xml:lang="grc">ἐτῶν</w><num>ιʹ</num><w xml:id="zoor0020-10" xml:lang="grc">ἔτους</w><num>σνεʹ</num></p>
+      <div type="edition" subtype="transcription_segmented"><p/>
 </div>
 </body>
       <back>

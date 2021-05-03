@@ -126,32 +126,17 @@
          <div type="edition" ana="#b1" xml:lang="grc" subtype="transcription" xml:id="zoor0109.transcription" corresp="#zoor0109.translation">
             <p><g type="cross">+</g>
                <lb/>
-               <choice>
-                  <sic>Μνημῖον</sic>
-                  <corr>Μνημεῖον</corr>
-               </choice> Οὐάλεν<lb break="no"/>τος Ἀμριλίου, ἀ<unclear>να</unclear>
-               <lb/>παυσάμενος<lb/> μετὰ καλοῦ <choice>
-                  <sic>ἀ<lb break="no"/>νόματος</sic>
-                  <corr>ὀνόματος</corr>
-               </choice> καὶ κα<lb break="no"/>λῆς πίστεως<lb/> ἐτῶν <num>κηʹ</num>,<lb/> ἔτους
+               <choice><sic>Μνημῖον</sic><corr>Μνημεῖον</corr></choice> Οὐάλεν<lb break="no"/>τος Ἀμριλίου, ἀ<unclear>να</unclear>
+               <lb/>παυσάμενος<lb/> μετὰ καλοῦ <choice><sic>ἀ<lb break="no"/>νόματος</sic><corr>ὀνόματος</corr></choice> καὶ κα<lb break="no"/>λῆς πίστεως<lb/> ἐτῶν <num>κηʹ</num>,<lb/> ἔτους
                   <num>τιʹ</num>,<lb/>
                <expan><abbr>μη</abbr><ex>νὸς</ex></expan>
-               <choice>
-                  <sic>Αὐδονέου</sic>
-                  <corr>Αὐδυναίου</corr>
-               </choice>
+               <choice><sic>Αὐδονέου</sic><corr>Αὐδυναίου</corr></choice>
                <lb/>
                <num>γιʹ</num>,<lb/>
                <expan><abbr>ἡμ</abbr><ex>έρᾳ</ex></expan>
                <expan><abbr>Κυ</abbr><ex>ρίου</ex></expan>
                <num>δʹ</num>.<lb/>
-               <choice>
-                  <sic>Θάρσι</sic>
-                  <corr>Θάρσει</corr>
-               </choice>, <choice>
-                  <sic>ουδὶς</sic>
-                  <corr>ουδείς</corr>
-               </choice> ἀθά<lb break="no"/>νατος.</p>
+               <choice><sic>Θάρσι</sic><corr>Θάρσει</corr></choice>, <choice><sic>ουδὶς</sic><corr>ουδείς</corr></choice> ἀθά<lb break="no"/>νατος.</p>
          </div>
          <div type="translation" ana="#b1" xml:id="zoor0109.translation" corresp="#zoor0109.transcription">
             <p>Monument of Ouales (Valens), (son) of Amrilios, who died having a good name and
@@ -159,7 +144,7 @@
                     the month Audynaios, on the 4th day of (the) Lord (Wednesday). Be of good cheer,
                     no one (is) immortal.</p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="zoor0109-1" xml:lang="grc">Οὐάλεντος</w> <w xml:id="zoor0109-2" xml:lang="grc">Ἀμριλίου</w> <w xml:id="zoor0109-3" xml:lang="grc">ἀ</w><w xml:id="zoor0109-4" xml:lang="grc">παυσάμενος</w> <w xml:id="zoor0109-5" xml:lang="grc">μετὰ</w> <w xml:id="zoor0109-6" xml:lang="grc">καλοῦ</w><w xml:id="zoor0109-7" xml:lang="grc">καὶ</w> <w xml:id="zoor0109-8" xml:lang="grc">καλῆς</w> <w xml:id="zoor0109-9" xml:lang="grc">πίστεως</w> <w xml:id="zoor0109-10" xml:lang="grc">ἐτῶν</w><num>κηʹ</num><w xml:id="zoor0109-11" xml:lang="grc">ἔτους</w><num>τιʹ</num><w xml:id="zoor0109-12" xml:lang="grc"><expan><abbr>μη</abbr><ex>νὸς</ex></expan></w><num>γιʹ</num><w xml:id="zoor0109-13" xml:lang="grc"><expan><abbr>ἡμ</abbr><ex>έρᾳ</ex></expan></w><w xml:id="zoor0109-14" xml:lang="grc"><expan><abbr>Κυ</abbr><ex>ρίου</ex></expan></w><num>δʹ</num><w xml:id="zoor0109-15" xml:lang="grc">ἀθάνατος</w></p>
+      <div type="edition" subtype="transcription_segmented"><p/>
 </div>
 </body>
       <back>

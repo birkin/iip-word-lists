@@ -119,17 +119,8 @@
             <p><g type="cross">+</g>
                <g type="cross">+</g>
                <g type="cross">+</g><lb/>
-               <choice>
-                  <sic><unclear>Μ</unclear>νημῖον</sic>
-                  <corr>Μνημεῖον</corr>
-               </choice> Κασσι<lb break="no"/>σέου Πέτρου,<lb/>
-               <expan><abbr>ἀναγ</abbr><ex>νώστου</ex></expan>, <choice>
-                  <sic>τελευτέσον<lb break="no"/>τος</sic>
-                  <corr>τελευτήσαντος</corr>
-               </choice> ἐτῶν <num>λβʹ</num>, ἐν <choice>
-                  <sic>ἔτι</sic>
-                  <corr>ἔτει</corr>
-               </choice>
+               <choice><sic><unclear>Μ</unclear>νημῖον</sic><corr>Μνημεῖον</corr></choice> Κασσι<lb break="no"/>σέου Πέτρου,<lb/>
+               <expan><abbr>ἀναγ</abbr><ex>νώστου</ex></expan>, <choice><sic>τελευτέσον<lb break="no"/>τος</sic><corr>τελευτήσαντος</corr></choice> ἐτῶν <num>λβʹ</num>, ἐν <choice><sic>ἔτι</sic><corr>ἔτει</corr></choice>
                <lb/>
                <num>τμʹ</num>, μηνὸς Ξανθικοῦ<lb/> τρῖς καὶ δεκάτῃ, ἡμέ<lb break="no"/>ρᾳ Κυρίου
                τρίτῇ.<lb/> Θάρσει, οὐδεὶς<lb/> ἀθάνατος. <g type="cross">+</g></p>
@@ -139,7 +130,7 @@
                     years, in the year 340, on the thirteenth (day) of (the) month Xanthikos, on the
                     third day of (the) Lord (Tuesday). Be of good cheer, no one (is) immortal.</p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="zoor0180-1" xml:lang="grc">Κασσισέου</w> <w xml:id="zoor0180-2" xml:lang="grc">Πέτρου</w><w xml:id="zoor0180-3" xml:lang="grc">ἐτῶν</w><num>λβʹ</num><w xml:id="zoor0180-4" xml:lang="grc">ἐν</w><num>τμʹ</num><w xml:id="zoor0180-5" xml:lang="grc">μηνὸς</w> <w xml:id="zoor0180-6" xml:lang="grc">Ξανθικοῦ</w> <w xml:id="zoor0180-7" xml:lang="grc">τρῖς</w> <w xml:id="zoor0180-8" xml:lang="grc">καὶ</w> <w xml:id="zoor0180-9" xml:lang="grc">δεκάτῃ</w> <w xml:id="zoor0180-10" xml:lang="grc">ἡμέρᾳ</w> <w xml:id="zoor0180-11" xml:lang="grc">Κυρίου</w> <w xml:id="zoor0180-12" xml:lang="grc">τρίτῇ</w> <w xml:id="zoor0180-13" xml:lang="grc">Θάρσει</w> <w xml:id="zoor0180-14" xml:lang="grc">οὐδεὶς</w> <w xml:id="zoor0180-15" xml:lang="grc">ἀθάνατος</w></p>
+      <div type="edition" subtype="transcription_segmented"><p/>
 </div>
 </body>
       <back>

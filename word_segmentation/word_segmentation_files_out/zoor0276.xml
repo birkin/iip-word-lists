@@ -128,7 +128,7 @@
                <lb/> Μάρθον Μαγ<lb break="no"/>δίου, <choice><sic>ἀπωθα<lb break="no"/>νεῖν</sic><corr>ἀποθα<lb break="no"/>νεῖν</corr></choice>
                <choice><sic>μητὰ</sic><corr>μετὰ</corr></choice> κα<lb break="no"/>λοῦ <choice><sic>ὠνώμα<lb break="no"/>τος</sic><corr>ὀνόμα<lb break="no"/>τος</corr></choice>
                <lb/>
-               <choice><sic>ὐτῶν </sic><corr>ἐτῶν</corr></choice>
+               <choice><sic>ὐτῶν</sic><corr>ἐτῶν</corr></choice>
                <num value="19">ιθʹ</num>.<lb/>
                <choice><sic>Θάρσι</sic><corr>Θάρσει</corr></choice>
                <choice><sic>οὐδὶς</sic><corr>οὐδείς</corr></choice>
@@ -138,7 +138,7 @@
             <p>Monument of Marthon, (daughter or son) of Magdios, who died having a good name (at
                the age) of 19 years. Be of good cheer, no one (is) immortal.</p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="zoor0276-1" xml:lang="grc"><choice>Μνημεῖον</choice></w><w xml:id="zoor0276-2" xml:lang="grc">Μάρθον</w> <w xml:id="zoor0276-3" xml:lang="grc">Μαγδίου</w><w xml:id="zoor0276-4" xml:lang="grc"><choice>ἀποθανεῖν</choice></w><w xml:id="zoor0276-5" xml:lang="grc"><choice>μετὰ</choice></w><w xml:id="zoor0276-6" xml:lang="grc">καλοῦ</w><w xml:id="zoor0276-7" xml:lang="grc"><choice>ὀνόματος</choice></w><w xml:id="zoor0276-8" xml:lang="grc"><choice>ἐτῶν</choice></w><num value="19">ιθʹ</num><w xml:id="zoor0276-9" xml:lang="grc"><choice>Θάρσει</choice></w><w xml:id="zoor0276-10" xml:lang="grc"><choice>οὐδείς</choice></w><w xml:id="zoor0276-11" xml:lang="grc">ἀθάνατος</w></p>
+      <div type="edition" subtype="transcription_segmented"><p/>
 </div>
 </body>
       <back>

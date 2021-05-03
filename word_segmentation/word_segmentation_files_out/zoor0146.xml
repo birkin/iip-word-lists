@@ -125,15 +125,9 @@
       <body>
          <div type="edition" ana="#b1" xml:lang="grc" subtype="transcription" xml:id="zoor0146.transcription" corresp="#zoor0146.translation">
             <p><g type="cross">+</g><lb/>
-               <choice>
-                  <sic>Μνημῖον</sic>
-                  <corr>Μνημεῖον</corr>
-               </choice> Ζεβινθοῦ<lb/> Θεμάλλου, ἀποθα<lb break="no"/>νοῦσα μετὰ κα<lb break="no"/>λοῦ ὀνόματος ἐ<lb break="no"/>τῶν <num>ξεʹ</num>,
+               <choice><sic>Μνημῖον</sic><corr>Μνημεῖον</corr></choice> Ζεβινθοῦ<lb/> Θεμάλλου, ἀποθα<lb break="no"/>νοῦσα μετὰ κα<lb break="no"/>λοῦ ὀνόματος ἐ<lb break="no"/>τῶν <num>ξεʹ</num>,
                      <expan><abbr>μη</abbr><ex>νὸς</ex></expan>
-               <choice>
-                  <sic>Ὑπερβε<lb break="no"/>ρετέου</sic>
-                  <corr>Ὑπερβερεταίου</corr>
-               </choice>
+               <choice><sic>Ὑπερβε<lb break="no"/>ρετέου</sic><corr>Ὑπερβερεταίου</corr></choice>
                <num>ιαʹ</num>, τοῦ <num>τλʹ</num>.<lb/> Θάρσει, ουδεὶς ἀ<lb break="no"/>θἀνατος. <g type="cross">+</g><lb/>
                <g type="cross">+</g><lb/>
                <g type="cross">+</g></p>
@@ -143,7 +137,7 @@
                     the age) of 65 years, on (the) 11th (day) of (the) month Hyperberetaios, in the
                     (year) 330. Be of good cheer, no one (is) immortal.</p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="zoor0146-1" xml:lang="grc">Ζεβινθοῦ</w> <w xml:id="zoor0146-2" xml:lang="grc">Θεμάλλου</w> <w xml:id="zoor0146-3" xml:lang="grc">ἀποθανοῦσα</w> <w xml:id="zoor0146-4" xml:lang="grc">μετὰ</w> <w xml:id="zoor0146-5" xml:lang="grc">καλοῦ</w> <w xml:id="zoor0146-6" xml:lang="grc">ὀνόματος</w> <w xml:id="zoor0146-7" xml:lang="grc">ἐτῶν</w><num>ξεʹ</num><w xml:id="zoor0146-8" xml:lang="grc"><expan><abbr>μη</abbr><ex>νὸς</ex></expan></w><num>ιαʹ</num><w xml:id="zoor0146-9" xml:lang="grc">τοῦ</w><num>τλʹ</num><w xml:id="zoor0146-10" xml:lang="grc">Θάρσει</w> <w xml:id="zoor0146-11" xml:lang="grc">ουδεὶς</w> <w xml:id="zoor0146-12" xml:lang="grc">ἀθἀνατος</w></p>
+      <div type="edition" subtype="transcription_segmented"><p/>
 </div>
 </body>
       <back>
