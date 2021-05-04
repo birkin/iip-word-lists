@@ -135,6 +135,8 @@ for strTextFullPath in vTextFullPaths:
 		strXMLText = etree.tostring(x[0], encoding='utf8', method='xml').decode('utf-8')
 
 		# add test for empty strXMLText and don't process if it's emtpy
+		if not strXMLText or not len(strXMLText): 
+			continue
 
 		# remove all <lb>s
 		strXMLText = re.sub(r"<lb break=\"no\"(\s*)/>", "", strXMLText)
