@@ -119,7 +119,7 @@
          <div type="translation" ana="#b1" xml:id="elus0075.translation" corresp="#elus0075.transcription">
             <p>John</p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p/>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="elus0075-1" xml:lang="grc"/> <w xml:id="elus0075-2" xml:lang="grc"><expan><abbr>Ἰωάννη</abbr><ex>ς</ex></expan></w> <w xml:id="elus0075-3" xml:lang="grc"/></p>
 </div>
 </body>
       <back>

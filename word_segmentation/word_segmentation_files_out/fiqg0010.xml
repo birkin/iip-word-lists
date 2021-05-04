@@ -128,7 +128,7 @@
          <div type="translation" ana="#b1" xml:id="fiqg0010.translation" corresp="#fiqg0010.transcription #fiqg0010.diplomatic">
             <p>Be of good courage, Petrus! Twenty-six years old.</p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p/>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="fiqg0010-1" xml:lang="grc">θάρσι</w> <w xml:id="fiqg0010-2" xml:lang="grc">Πέτρε</w> <w xml:id="fiqg0010-3" xml:lang="grc"><expan><abbr>ἐτ</abbr><ex>ῶν</ex></expan></w> <w xml:id="fiqg0010-4" xml:lang="grc"><num value="26">κς</num></w></p>
 </div>
 </body>
       <back>

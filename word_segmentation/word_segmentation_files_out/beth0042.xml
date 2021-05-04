@@ -124,7 +124,7 @@
                <persName xml:lang="hbo " ref="persons.xml#beth0042p01">Abra </persName> and <persName xml:lang="hbo " ref="persons.xml#beth0042p02">Same </persName>
             </p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p/>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="beth0042-1" xml:lang="grc">Ἀβρᾶ</w> <w xml:id="beth0042-2" xml:lang="grc">καὶ</w> <w xml:id="beth0042-3" xml:lang="grc">Σαμῆ</w> <w xml:id="beth0042-4" xml:lang="grc"/></p>
 </div>
 </body>
       <back>

@@ -122,7 +122,7 @@
             <p>The tomb of <persName xml:lang="grc " ref="persons.xml#caes0191p01">Paregorios</persName>.	
 		  </p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p/>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="caes0191-1" xml:lang="grc"/> <w xml:id="caes0191-2" xml:lang="grc"><supplied reason="undefined">τόπ</supplied>ος</w> <w xml:id="caes0191-3" xml:lang="grc">Παρη<supplied reason="undefined">γορί</supplied>ου.</w> <w xml:id="caes0191-4" xml:lang="grc"/></p>
 </div>
 </body>
       <back>

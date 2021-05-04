@@ -121,7 +121,7 @@
                <persName xml:lang="grc " ref="persons.xml#beth0125p01">Eumathia</persName>, <rs type="family" ana="interpretations.xml#mother">mother </rs> of <persName xml:lang="hbo " ref="persons.xml#beth0125p02">Jacob </persName> and <persName xml:lang="grc " ref="persons.xml#beth0125p03">Justus </persName>
             </p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p/>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="beth0125-1" xml:lang="grc">Εὐμαθεία</w> <w xml:id="beth0125-2" xml:lang="grc">μήτηρ</w> <w xml:id="beth0125-3" xml:lang="grc">Ἰακώ<unclear>β</unclear>ου</w> <w xml:id="beth0125-4" xml:lang="grc">καὶ</w> <w xml:id="beth0125-5" xml:lang="grc">Ἰούστου</w> <w xml:id="beth0125-6" xml:lang="grc"/></p>
 </div>
 </body>
       <back>

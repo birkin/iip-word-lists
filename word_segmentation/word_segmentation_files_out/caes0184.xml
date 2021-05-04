@@ -126,7 +126,7 @@
                   <persName ref="persons.xml#caes0184p02">Zereka </persName>
                </name>.</p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p/>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="caes0184-1" xml:lang="grc">μημόριον</w> <w xml:id="caes0184-2" xml:lang="grc">Μεγάλου</w> <w xml:id="caes0184-3" xml:lang="grc">Βαβυλωναρίου</w> <w xml:id="caes0184-4" xml:lang="grc">υἱοῦ</w> <w xml:id="caes0184-5" xml:lang="grc">Ζερέκα.</w></p>
 </div>
 </body>
       <back>

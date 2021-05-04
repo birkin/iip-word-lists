@@ -52,6 +52,9 @@ vFoobarred = []
 vAllowedLangs = [ 'arc', 'grc', 'he', 'la', 'x-unknown', 'syc', 'phn', 'xcl', 'Other', 'geo']
 transformationErrors = 0
 
+
+
+
 # Loop through the list of texts, parse XML, make data frames, save as CSV
 for strTextFullPath in vTextFullPaths:
 
@@ -184,7 +187,7 @@ for strTextFullPath in vTextFullPaths:
 		strXMLText = re.sub(r"§+", "§", strXMLText)
 		strXMLText = re.sub(r"§", " ", strXMLText)
 
-		editionInput = etree.XML(strXMLText, parser)
+		editionSegmented = etree.XML(strXMLText, parser)
 	except Exception as e:
 
 		print('#' * 20)
@@ -255,7 +258,17 @@ for strSegmentedTextFullPath in vSegmentedTexts:
 	# Current parser options clean up redundant namespace declarations and remove patches of whitespace
 	# For more info, see "Parser Options" in: https://lxml.de/parsing.html
 	parser = etree.XMLParser(ns_clean=True, remove_blank_text=False)
-	xmlText = etree.parse(strSegmentedTextFullPath, parser)
+	try:
+		xmlText = etree.parse(strSegmentedTextFullPath, parser)
+	except Exception as e:
+
+		print('#' * 20)
+		print('Error with building lists for XML:')
+		print(e)
+		print(strSegmentedTextFullPath)
+		print('#' * 20)
+		continue
+		
 	wordElems = xmlText.findall(".//tei:div[@type='edition'][@subtype='transcription_segmented']/tei:p/tei:w", namespaces=nsmap)
 	WORD_COUNT += len(wordElems)
 

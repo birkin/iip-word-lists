@@ -122,7 +122,7 @@
          <div type="translation" ana="#b1" xml:id="ulat0002.translation" corresp="#ulat0002.diplomatic #ulat0002.transcription">
             <p>The stone which divides the lands of the villages of Migerame and Galania</p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p/>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="ulat0002-1" xml:lang="grc">Λίθος</w> <w xml:id="ulat0002-2" xml:lang="grc">διορίζων</w> <w xml:id="ulat0002-3" xml:lang="grc">ὅρια</w> <w xml:id="ulat0002-4" xml:lang="grc"><expan><abbr>κω</abbr><ex>μῶν</ex></expan></w> <w xml:id="ulat0002-5" xml:lang="grc">Μιγηραμης</w> <w xml:id="ulat0002-6" xml:lang="grc">κὲ</w> <w xml:id="ulat0002-7" xml:lang="grc">Γαλανιας</w></p>
 </div>
 </body>
       <back>

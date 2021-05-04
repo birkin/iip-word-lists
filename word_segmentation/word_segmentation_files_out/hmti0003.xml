@@ -202,7 +202,7 @@
                     frames. Each column is set in a separate frame. Different frames face different
                     directions. </p>
             </div>
-        <div type="edition" subtype="transcription_segmented"><p/>
+        <div type="edition" subtype="transcription_segmented"><p><w xml:id="hmti0003-1" xml:lang="grc">Μάξιμος</w> <w xml:id="hmti0003-2" xml:lang="grc">εὐχόμενος</w> <w xml:id="hmti0003-3" xml:lang="grc">ἐποίησεν</w> <w xml:id="hmti0003-4" xml:lang="grc">ζήσῃ</w></p>
 </div>
 </body>
         <!-- The bibl has more contained elements. What is the possible list of values of the biblScope/@type? 

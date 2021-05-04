@@ -120,7 +120,7 @@
          <div type="translation" ana="#b1" xml:id="caes0150.translation" corresp="#caes0150.transcription">
             <p>No one is deathless.</p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p/>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="caes0150-1" xml:lang="grc">οὐδεὶς</w> <w xml:id="caes0150-2" xml:lang="grc">ἀθάνατος.</w></p>
 </div>
 </body>
       <back>

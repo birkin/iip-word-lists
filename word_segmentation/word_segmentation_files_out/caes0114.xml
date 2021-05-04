@@ -122,7 +122,7 @@
          <div type="translation" ana="#b1" xml:id="caes0114.translation" corresp="#caes0114.transcription">
             <p>The weight of Saint Mary.</p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p/>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="caes0114-1" xml:lang="grc">+</w> <w xml:id="caes0114-2" xml:lang="grc">τάλαντον</w> <w xml:id="caes0114-3" xml:lang="grc">τῆς</w> <w xml:id="caes0114-4" xml:lang="grc">ἁγίας</w> <w xml:id="caes0114-5" xml:lang="grc">Μαρίας.</w> <w xml:id="caes0114-6" xml:lang="grc"/></p>
 </div>
 </body>
       <back>

@@ -137,7 +137,7 @@
          <div type="translation" ana="#b1" xml:id="juei0004.translation" corresp="#juei0004.diplomatic #juei0004.transcription">
             <p>(In the year) 533(?) Balbion, son of Konon, who was most glorious and came to such great age, built (this) shrine at his own expense.</p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p/>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="juei0004-1" xml:lang="grc"><g type="cross">+</g></w> <w xml:id="juei0004-2" xml:lang="grc"><num value="533" cert="low">φλ<unclear>γ</unclear></num></w> <w xml:id="juei0004-3" xml:lang="grc">Βαλβίον</w> <w xml:id="juei0004-4" xml:lang="grc">υἱὸς</w> <w xml:id="juei0004-5" xml:lang="grc">Κόνονος</w> <w xml:id="juei0004-6" xml:lang="grc"><expan><abbr>λαμ<unclear>π</unclear></abbr><ex>ρότατος</ex></expan></w> <w xml:id="juei0004-7" xml:lang="grc">καὶ</w> <w xml:id="juei0004-8" xml:lang="grc"><expan><abbr>τη<unclear>λ</unclear>ικ</abbr><ex>οῦτος</ex></expan></w> <w xml:id="juei0004-9" xml:lang="grc"><expan><abbr>γινό</abbr><ex>μενος</ex></expan></w> <w xml:id="juei0004-10" xml:lang="grc">ἐξ</w> <w xml:id="juei0004-11" xml:lang="grc">ἰδίον</w> <w xml:id="juei0004-12" xml:lang="grc">ἔκτισεν</w> <w xml:id="juei0004-13" xml:lang="grc">τὸ</w> <w xml:id="juei0004-14" xml:lang="grc"><expan><abbr>μα<unclear>ρ</unclear>τύ</abbr><ex>ριον</ex></expan></w> <w xml:id="juei0004-15" xml:lang="grc"/></p>
 </div>
 </body>
       <back>

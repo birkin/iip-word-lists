@@ -125,7 +125,7 @@
          <div type="translation" ana="#b1" xml:id="rafi0003.translation" corresp="#rafi0003.diplomatic #rafi0003.transcription">
             <p>+ Lord! Light! Life! M...+  +</p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p/>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="rafi0003-1" xml:lang="grc">+</w> <w xml:id="rafi0003-2" xml:lang="grc"><expan><abbr>Κύ</abbr><ex>ριος</ex></expan></w> <w xml:id="rafi0003-3" xml:lang="grc">φ<choice><corr>ῶ</corr><sic>ο</sic></choice>ς</w> <w xml:id="rafi0003-4" xml:lang="grc">ζ<choice><corr>ω</corr><sic>ο</sic></choice>ή</w> <w xml:id="rafi0003-5" xml:lang="grc"><orig><unclear>Μ</unclear></orig></w> <w xml:id="rafi0003-6" xml:lang="grc">+</w> <w xml:id="rafi0003-7" xml:lang="grc">+</w> <w xml:id="rafi0003-8" xml:lang="grc"/></p>
 </div>
 </body>
       <back>

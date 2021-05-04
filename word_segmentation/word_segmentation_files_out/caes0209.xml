@@ -124,7 +124,7 @@
             <p>The tomb of  <persName xml:lang="grc " ref="persons.xml#caes0209p01">Anastasios</persName>, the <rs type="family">son </rs> of <persName xml:lang="grc " ref="persons.xml#caes0209p02">Amibellos</persName>.
 				</p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p/>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="caes0209-1" xml:lang="grc">Ἀναστασίου</w> <w xml:id="caes0209-2" xml:lang="grc"><expan><abbr>Ἀμιβέλλ</abbr><ex>ου</ex></expan></w> <w xml:id="caes0209-3" xml:lang="grc">θήκη.</w> <w xml:id="caes0209-4" xml:lang="grc"><g type="cross">+</g></w> <w xml:id="caes0209-5" xml:lang="grc"/></p>
 </div>
 </body>
       <back>

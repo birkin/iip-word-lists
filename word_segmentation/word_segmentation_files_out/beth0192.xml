@@ -128,7 +128,7 @@
                   <persName xml:lang="grc " ref="persons.xml#beth0192p01">Semnous</persName>, also called <persName type="aka" xml:lang="grc " ref="persons.xml#beth0192p02">Sirikis </persName>
                </name>, our <rs type="title" ana="interpretations.xml#mistress">mistress</rs>.</p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p/>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="beth0192-1" xml:lang="grc">Ἐνθάδε</w> <w xml:id="beth0192-2" xml:lang="grc">κῖτε</w> <w xml:id="beth0192-3" xml:lang="grc">Σεμ<supplied reason="lost">ν</supplied>οῦς</w> <w xml:id="beth0192-4" xml:lang="grc">ἡ</w> <w xml:id="beth0192-5" xml:lang="grc">καὶ</w> <w xml:id="beth0192-6" xml:lang="grc">Σιρικὶς</w> <w xml:id="beth0192-7" xml:lang="grc">ἡ</w> <w xml:id="beth0192-8" xml:lang="grc">κυρὰ</w> <w xml:id="beth0192-9" xml:lang="grc">ἡμῶν</w> <w xml:id="beth0192-10" xml:lang="grc"/></p>
 </div>
 </body>
       <back>

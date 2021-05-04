@@ -124,7 +124,7 @@
             <p> The <rs type="object" ana="interpretations.xml#resting">resting place </rs> of the <rs type="title" ana="interpretations.xml#lady">lady </rs>
                <persName xml:lang="grc " ref="persons.xml#beth0242p01">Domna</persName>...</p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p/>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="beth0242-1" xml:lang="he">מנוחתה</w> <w xml:id="beth0242-2" xml:lang="he">של</w> <w xml:id="beth0242-3" xml:lang="he">קירה</w> <w xml:id="beth0242-4" xml:lang="he">דומנה</w> <w xml:id="beth0242-5" xml:lang="he">________________________</w> <w xml:id="beth0242-6" xml:lang="he">________________________</w> <w xml:id="beth0242-7" xml:lang="he">________________________</w> <w xml:id="beth0242-8" xml:lang="he"/></p>
 </div>
 </body>
       <back>

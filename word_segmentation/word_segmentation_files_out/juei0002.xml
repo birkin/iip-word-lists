@@ -131,7 +131,7 @@
          <div type="translation" ana="#b1" xml:id="juei0002.translation" corresp="#juei0002.diplomatic #juei0002.transcription">
             <p>(The) Lord will guard your entering and your departing.</p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p/>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="juei0002-1" xml:lang="grc"><g type="cross">+</g></w> <w xml:id="juei0002-2" xml:lang="grc">κύριος</w> <w xml:id="juei0002-3" xml:lang="grc">φυλάξ<supplied reason="lost">ει</supplied></w> <w xml:id="juei0002-4" xml:lang="grc"><supplied reason="lost">τὴν</supplied></w> <w xml:id="juei0002-5" xml:lang="grc"><supplied reason="lost">εἵσ</supplied></w> <w xml:id="juei0002-6" xml:lang="grc">οδόν</w> <w xml:id="juei0002-7" xml:lang="grc">σου</w> <w xml:id="juei0002-8" xml:lang="grc"><expan><abbr><am>ου</am></abbr><ex>καὶ</ex></expan></w> <w xml:id="juei0002-9" xml:lang="grc">τὴν</w> <w xml:id="juei0002-10" xml:lang="grc">ἔξο<supplied reason="lost">δόν</supplied></w> <w xml:id="juei0002-11" xml:lang="grc"><supplied reason="lost">σου</supplied></w> <w xml:id="juei0002-12" xml:lang="grc"/></p>
 </div>
 </body>
       <back>

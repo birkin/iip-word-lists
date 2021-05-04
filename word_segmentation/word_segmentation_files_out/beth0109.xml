@@ -119,7 +119,7 @@
             <p>
                <rs type="formula" ana="interpretations.xml#one">May the one God </rs> help</p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p/>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="beth0109-1" xml:lang="grc">Εἷς</w> <w xml:id="beth0109-2" xml:lang="grc">Θεὸς</w> <w xml:id="beth0109-3" xml:lang="grc">Β<supplied reason="lost">οήθει</supplied></w> <w xml:id="beth0109-4" xml:lang="grc"/></p>
 </div>
 </body>
       <back>

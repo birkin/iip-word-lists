@@ -127,7 +127,7 @@
                <rs type="formula" ana="interpretations.xml#lies">Here lies </rs>
                <persName xml:lang="grc " ref="persons.xml#beth0155p01">Siricia</persName>.</p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p/>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="beth0155-1" xml:lang="grc">Ἔνθα</w> <w xml:id="beth0155-2" xml:lang="grc">κῖτε</w> <w xml:id="beth0155-3" xml:lang="grc">Σιρικία</w> <w xml:id="beth0155-4" xml:lang="grc">Α</w> <w xml:id="beth0155-5" xml:lang="grc"/></p>
 </div>
 </body>
       <back>

@@ -121,7 +121,7 @@
                <persName xml:lang="grc " ref="persons.xml#beth0001p01">Ioun </persName>
             </p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p/>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="beth0001-1" xml:lang="grc">Ἴουν</w></p>
 </div>
 </body>
       <back>

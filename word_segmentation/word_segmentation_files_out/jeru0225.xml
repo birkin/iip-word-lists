@@ -128,7 +128,7 @@
          <div type="translation" ana="#b1" xml:id="jeru0225.translation" corresp="#jeru0225.transcription">
             <p>Maris and Shim'on, sons of Sha'ul</p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p/>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="jeru0225-1" xml:lang="arc">מריס</w> <w xml:id="jeru0225-2" xml:lang="arc">ושמעון</w> <w xml:id="jeru0225-3" xml:lang="arc">בני</w> <w xml:id="jeru0225-4" xml:lang="arc">שאול</w></p>
 </div>
 </body>
       <back>

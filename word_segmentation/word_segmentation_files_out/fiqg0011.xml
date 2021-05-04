@@ -127,7 +127,7 @@
          <div type="translation" ana="#b1" xml:id="fiqg0011.translation" corresp="#fiqg0011.transcription #fiqg0011.diplomatic">
             <p>Be of good courage, Magnus, son of Modtaos (?)! Seventy years old.</p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p/>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="fiqg0011-1" xml:lang="grc">θάρσι</w> <w xml:id="fiqg0011-2" xml:lang="grc">Μάγνος</w> <w xml:id="fiqg0011-3" xml:lang="grc">Μοδταου</w> <w xml:id="fiqg0011-4" xml:lang="grc"><expan><abbr>ἐτ</abbr><ex>ῶν</ex></expan></w> <w xml:id="fiqg0011-5" xml:lang="grc"><num value="70">ο</num></w></p>
 </div>
 </body>
       <back>

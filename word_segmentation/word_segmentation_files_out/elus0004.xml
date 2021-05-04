@@ -117,7 +117,7 @@
          <div type="translation" ana="#b1" xml:id="elus0004.translation" corresp="#elus0004.transcription">
             <p>Courage, no one is immortal</p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p/>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="elus0004-1" xml:lang="grc">Θάρσι,</w> <w xml:id="elus0004-2" xml:lang="grc">οὐδίς</w> <w xml:id="elus0004-3" xml:lang="grc">ἀθάνατος</w></p>
 </div>
 </body>
       <back>

@@ -123,7 +123,7 @@
          <div type="translation" ana="#b1" xml:id="elus0017.translation" corresp="#elus0017.transcription">
             <p>... Victor, on the 25th of Xanthicos</p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p/>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="elus0017-1" xml:lang="grc"><orig>Μ<unclear>Υ</unclear></orig>.</w> <w xml:id="elus0017-2" xml:lang="grc"><expan><abbr>Βίκ</abbr><ex>τωρ</ex></expan></w> <w xml:id="elus0017-3" xml:lang="grc"><expan><abbr>μη</abbr><ex>νὸς</ex></expan></w> <w xml:id="elus0017-4" xml:lang="grc"><expan><abbr>Ξ</abbr><ex>ανθικοῦ</ex></expan></w> <w xml:id="elus0017-5" xml:lang="grc"><num value="25">κεʹ</num></w></p>
 </div>
 </body>
       <back>

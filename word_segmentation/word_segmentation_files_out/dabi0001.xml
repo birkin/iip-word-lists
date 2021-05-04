@@ -124,7 +124,7 @@
          <div type="translation" ana="#b1" xml:id="dabi0001.translation" corresp="#dabi0001.diplomatic #dabi0001.transcription">
             <p> Jesus (son of) Seilas. Sixty years old. </p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p/>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="dabi0001-1" xml:lang="grc"/> <w xml:id="dabi0001-2" xml:lang="grc">Ἰησοῦς</w> <w xml:id="dabi0001-3" xml:lang="grc">Σε<unclear>ι</unclear>λου</w> <w xml:id="dabi0001-4" xml:lang="grc">ἐτῶν</w> <w xml:id="dabi0001-5" xml:lang="grc"><num>ξ´</num></w> <w xml:id="dabi0001-6" xml:lang="grc"/></p>
 </div>
 </body>
       <back>

@@ -122,7 +122,7 @@
                <persName xml:lang="hbo " ref="persons.xml#beth0182p01">Judah </persName> the <rs type="caste" ana="interpretations.xml#priest">priest </rs>
             </p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p/>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="beth0182-1" xml:lang="grc">Εἰούδας</w> <w xml:id="beth0182-2" xml:lang="grc">ἱερεύς</w> <w xml:id="beth0182-3" xml:lang="grc"/></p>
 </div>
 </body>
       <back>

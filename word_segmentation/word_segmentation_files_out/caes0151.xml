@@ -127,7 +127,7 @@
                <persName xml:lang="grc " ref="persons.xml#caes0151p01">Zosimos </persName> and <persName xml:lang="grc " ref="persons.xml#caes0151p02">Gaianos</persName>.
 		  </p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p/>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="caes0151-1" xml:lang="grc"/> <w xml:id="caes0151-2" xml:lang="grc"><supplied reason="undefined">Μ</supplied></w> <w xml:id="caes0151-3" xml:lang="grc"><unclear>ν</unclear></w> <w xml:id="caes0151-4" xml:lang="grc"><unclear>η</unclear></w> <w xml:id="caes0151-5" xml:lang="grc"><unclear>μ</unclear>ῖο<unclear>ν</unclear></w> <w xml:id="caes0151-6" xml:lang="grc">Ζωσίμου</w> <w xml:id="caes0151-7" xml:lang="grc">καὶ</w> <w xml:id="caes0151-8" xml:lang="grc">Γαιάνου</w> <w xml:id="caes0151-9" xml:lang="grc"><expan><abbr>ἀδελφ</abbr><ex>ῶν</ex></expan>.</w> <w xml:id="caes0151-10" xml:lang="grc"/></p>
 </div>
 </body>
       <back>

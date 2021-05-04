@@ -135,7 +135,7 @@
             <p>May the years of the most glorious <rs type="admTitle">proconsul </rs>
                <persName xml:lang="grc " ref="persons.xml#caes0039p01">Andreas</persName>, devoted to building, be many!</p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p/>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="caes0039-1" xml:lang="grc">Ἀ<unclear>ν</unclear>δρέ<hi rend="ligature">ου</hi></w> <w xml:id="caes0039-2" xml:lang="grc"><expan><abbr>ἐνδοξω</abbr><ex>τάτου</ex></expan></w> <w xml:id="caes0039-3" xml:lang="grc">φιλοκτίστ<hi rend="ligature">ου</hi></w> <w xml:id="caes0039-4" xml:lang="grc">ἀνθυπάτ<hi rend="ligature">ου</hi></w> <w xml:id="caes0039-5" xml:lang="grc">πολλὰ</w> <w xml:id="caes0039-6" xml:lang="grc">τὰ</w> <w xml:id="caes0039-7" xml:lang="grc">ἔτη.</w> <w xml:id="caes0039-8" xml:lang="grc"/></p>
 </div>
 </body>
       <back>

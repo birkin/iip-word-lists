@@ -194,7 +194,7 @@
             </div>
             <!-- The bibl has more contained elements. What is the possible list of values of the biblScope/@type? 
              -->
-        <div type="edition" subtype="transcription_segmented"><p/>
+        <div type="edition" subtype="transcription_segmented"><p><w xml:id="tqas0002-1" xml:lang="grc"/> <w xml:id="tqas0002-2" xml:lang="grc">εὐλογία</w> <w xml:id="tqas0002-3" xml:lang="grc">καὶ</w> <w xml:id="tqas0002-4" xml:lang="grc"><choice><sic>ἠ<unclear>ρ</unclear>ήνη</sic><corr>ἰ<unclear>ρ</unclear>ήνη</corr></choice></w> <w xml:id="tqas0002-5" xml:lang="grc">τῷ</w> <w xml:id="tqas0002-6" xml:lang="grc">Ἰσ<surplus>τ</surplus>ρα<supplied reason="lost">ὴ</supplied>λ</w> <w xml:id="tqas0002-7" xml:lang="grc"><expan><abbr>κ</abbr><ex>αὶ</ex></expan></w> <w xml:id="tqas0002-8" xml:lang="grc">τῷ</w> <w xml:id="tqas0002-9" xml:lang="grc"><choice><sic>τόπου</sic><corr>τόπῳ</corr></choice></w> <w xml:id="tqas0002-10" xml:lang="grc"><unclear>Ἀ</unclear>μήν.</w></p>
 </div>
 </body>
         <back>

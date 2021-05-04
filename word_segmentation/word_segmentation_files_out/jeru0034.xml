@@ -143,7 +143,7 @@
          <div type="translation" ana="#b1" xml:id="jeru0034.translation" corresp="#jeru0034.transcription">
             <p>Yehuda, son of Yehohanan, son of Yitro</p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p/>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="jeru0034-1" xml:lang="arc">יהודה</w> <w xml:id="jeru0034-2" xml:lang="arc">בר</w> <w xml:id="jeru0034-3" xml:lang="arc">יהוחנן</w> <w xml:id="jeru0034-4" xml:lang="arc">בר</w> <w xml:id="jeru0034-5" xml:lang="arc">יתרא</w></p>
 </div>
 </body>
       <back>

@@ -118,7 +118,7 @@
          <div type="translation" ana="#b1" xml:id="elus0100.translation" corresp="#elus0100.transcription">
             <p>Caduceus</p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p/>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="elus0100-1" xml:lang="grc">Εὐκλείτου</w></p>
 </div>
 </body>
       <back>

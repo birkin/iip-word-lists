@@ -126,7 +126,7 @@
                   <persName xml:lang="la " ref="persons.xml#caes0354p01">Augustus </persName>
                </name> ...and....</p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p/>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="caes0354-1" xml:lang="la"/> <w xml:id="caes0354-2" xml:lang="la">invic<supplied reason="undefined">to</supplied></w> <w xml:id="caes0354-3" xml:lang="la"><supplied reason="undefined">Augusto</supplied></w> <w xml:id="caes0354-4" xml:lang="la">et</w> <w xml:id="caes0354-5" xml:lang="la"/></p>
 </div>
 </body>
       <back>

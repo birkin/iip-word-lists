@@ -122,7 +122,7 @@
             <p>The tomb of  <persName xml:lang="grc " ref="persons.xml#caes0207p01">Thekla </persName> with her <rs type="family">children </rs> and of <persName xml:lang="grc " ref="persons.xml#caes0207p02">Iouliane </persName> with her <rs type="family">children</rs>. 
 		  </p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p/>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="caes0207-1" xml:lang="grc"><g type="cross">+</g></w> <w xml:id="caes0207-2" xml:lang="grc">θήκη</w> <w xml:id="caes0207-3" xml:lang="grc">Θέκλας</w> <w xml:id="caes0207-4" xml:lang="grc">σὺν</w> <w xml:id="caes0207-5" xml:lang="grc">τέκνυς</w> <w xml:id="caes0207-6" xml:lang="grc">καὶ</w> <w xml:id="caes0207-7" xml:lang="grc">Ἰουλιανῆ<supplied reason="undefined">ς</supplied></w> <w xml:id="caes0207-8" xml:lang="grc">σὺν</w> <w xml:id="caes0207-9" xml:lang="grc">τέκν<supplied reason="undefined">υς</supplied>.</w> <w xml:id="caes0207-10" xml:lang="grc"/></p>
 </div>
 </body>
       <back>

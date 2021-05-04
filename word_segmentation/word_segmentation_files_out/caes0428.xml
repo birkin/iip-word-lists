@@ -136,7 +136,7 @@
                 <p>A Patricius was a consul in the East. The translation and interpretation of both
                     monograms is uncertain.</p>
             </div>
-        <div type="edition" subtype="transcription_segmented"><p/>
+        <div type="edition" subtype="transcription_segmented"><p><w xml:id="caes0428-1" xml:lang="grc"><choice><orig><figure><figDesc>Monogram</figDesc></figure></orig><reg>Πατρίκιου</reg></choice></w> <w xml:id="caes0428-2" xml:lang="grc"><choice><orig><figure><figDesc>Monogram</figDesc></figure></orig><reg>κόν<supplied reason="lost">σουλαρίου</supplied></reg></choice></w></p>
 </div>
 </body>
         <back>

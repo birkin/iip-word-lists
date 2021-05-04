@@ -122,7 +122,7 @@
                <gap reason="lost" extent="unknown" unit="character"/>
             </p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p/>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="caes0351-1" xml:lang="la"/> <w xml:id="caes0351-2" xml:lang="la"><expan><abbr>Syr</abbr><ex>iae</ex></expan></w> <w xml:id="caes0351-3" xml:lang="la"><expan><abbr>Pa<supplied reason="undefined">l</supplied></abbr><ex>aestinae</ex></expan></w> <w xml:id="caes0351-4" xml:lang="la"/></p>
 </div>
 </body>
       <back>

@@ -130,7 +130,7 @@
          <div type="translation" ana="#b1" xml:id="jeru0002.translation" corresp="#jeru0002.transcription">
             <p>Ish(sh)bah, peace</p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p/>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="jeru0002-1" xml:lang="arc">יששבח</w> <w xml:id="jeru0002-2" xml:lang="arc">שלם</w></p>
 </div>
 </body>
       <back>

@@ -125,7 +125,7 @@
                <persName xml:lang="hbo " ref="persons.xml#beth0009p03">Mariamme </persName>
             </p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p/>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="beth0009-1" xml:lang="grc">Εὐμύρι</w> <w xml:id="beth0009-2" xml:lang="grc">Ἴουν,</w> <w xml:id="beth0009-3" xml:lang="grc">Κύριλος,</w> <w xml:id="beth0009-4" xml:lang="grc">Μαριάμ<supplied reason="lost">μη</supplied></w> <w xml:id="beth0009-5" xml:lang="grc"/></p>
 </div>
 </body>
       <back>

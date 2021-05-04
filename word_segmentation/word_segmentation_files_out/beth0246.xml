@@ -131,7 +131,7 @@
                   <rs type="family" ana="interpretations.xml#son">son </rs> of <persName type="patr" xml:lang="hbo " ref="persons.xml#beth0246p03">Levi </persName>
                </name>. <rs type="formula" ana="interpretations.xml#shalom">Peace</rs>.</p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p/>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="beth0246-1" xml:lang="he">זו</w> <w xml:id="beth0246-2" xml:lang="he">ארו</w> <w xml:id="beth0246-3" xml:lang="he"><supplied reason="undefined">נ</supplied></w> <w xml:id="beth0246-4" xml:lang="he">ו</w> <w xml:id="beth0246-5" xml:lang="he">של</w> <w xml:id="beth0246-6" xml:lang="he">קירה</w> <w xml:id="beth0246-7" xml:lang="he">מגה</w> <w xml:id="beth0246-8" xml:lang="he">אשתו</w> <w xml:id="beth0246-9" xml:lang="he">של</w> <w xml:id="beth0246-10" xml:lang="he">רבי</w> <w xml:id="beth0246-11" xml:lang="he">יהושוע</w> <w xml:id="beth0246-12" xml:lang="he">בן</w> <w xml:id="beth0246-13" xml:lang="he">לווי</w> <w xml:id="beth0246-14" xml:lang="he">שלום</w> <w xml:id="beth0246-15" xml:lang="he"/></p>
 </div>
 </body>
       <back>

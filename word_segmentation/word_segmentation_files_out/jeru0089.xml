@@ -142,7 +142,7 @@
          <div type="edition" ana="#b1" xml:lang="heb" subtype="transcription" xml:id="jeru0089.transcription">
             <p>היוחת </p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p/>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="jeru0089-1" xml:lang="arc">היוחת</w> <w xml:id="jeru0089-2" xml:lang="arc"/></p>
 </div>
 </body>
       <back>

@@ -119,7 +119,7 @@
          <div type="edition" ana="#b1" xml:lang="grc" subtype="transcription" xml:id="jeru0122.transcription">
             <p><orig>ΧΨ</orig><lb/><orig>ΑΒ</orig></p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p/>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="jeru0122-1" xml:lang="grc"><orig>ΧΨ</orig></w> <w xml:id="jeru0122-2" xml:lang="grc"><orig>ΑΒ</orig></w></p>
 </div>
 </body>
       <back>

@@ -119,7 +119,7 @@
          <div type="translation" ana="#b1" xml:id="carm0006.translation" corresp="#carm0006.transcription">
             <p>Theodorus Subdeacom Gramma</p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p/>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="carm0006-1" xml:lang="grc">Θεόδωρος</w> <w xml:id="carm0006-2" xml:lang="grc">ὑποδιάκων</w> <w xml:id="carm0006-3" xml:lang="grc">γράμμα</w></p>
 </div>
 </body>
       <back>

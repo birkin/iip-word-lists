@@ -126,7 +126,7 @@
                   <persName xml:lang="hbo " ref="persons.xml#caes0189p02">Beniamin </persName>
                </name>.</p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p/>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="caes0189-1" xml:lang="grc">μνήμα</w> <w xml:id="caes0189-2" xml:lang="grc">Λήα</w> <w xml:id="caes0189-3" xml:lang="grc"><supplied reason="lost">τῆ</supplied><unclear>ς</unclear></w> <w xml:id="caes0189-4" xml:lang="grc">θυγατρὸ<supplied reason="lost">ς</supplied></w> <w xml:id="caes0189-5" xml:lang="grc"><supplied reason="lost">Βεν</supplied>ιαμῖν.</w></p>
 </div>
 </body>
       <back>

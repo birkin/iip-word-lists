@@ -115,7 +115,7 @@
          <div type="translation" ana="#b1" xml:id="elus0084.translation" corresp="#elus0084.transcription">
             <p>Zunain</p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p/>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="elus0084-1" xml:lang="grc"/> <w xml:id="elus0084-2" xml:lang="grc"><expan><abbr>Ζον</abbr><ex>αῖνος</ex></expan></w> <w xml:id="elus0084-3" xml:lang="grc"/></p>
 </div>
 </body>
       <back>

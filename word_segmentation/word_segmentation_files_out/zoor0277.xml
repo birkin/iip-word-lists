@@ -124,7 +124,7 @@
          <div type="translation" ana="#b1" xml:id="zoor0277.translation" corresp="#zoor0277.transcription">
             <p>Monument of Iolefos, (son) of Maron, (who died at the age) of 3 years.</p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p/>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="zoor0277-1" xml:lang="grc"/> <w xml:id="zoor0277-2" xml:lang="grc"><choice><sic>Μνημῖον</sic><corr>Μνημεῖον</corr></choice></w> <w xml:id="zoor0277-3" xml:lang="grc"><choice><sic>Ἰόληφος</sic><corr>Ἰολήφου</corr></choice></w> <w xml:id="zoor0277-4" xml:lang="grc">Μάρου,</w> <w xml:id="zoor0277-5" xml:lang="grc">ἠτῶν</w> <w xml:id="zoor0277-6" xml:lang="grc"><num>γʹ</num>.</w></p>
 </div>
 </body>
       <back>

@@ -124,7 +124,7 @@
          <div type="translation" ana="#b1" xml:id="fiqg0003.translation" corresp="#fiqg0003.transcription #fiqg0003.diplomatic">
             <p>...bless...</p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p/>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="fiqg0003-1" xml:lang="grc"/> <w xml:id="fiqg0003-2" xml:lang="grc"><supplied reason="undefined">ε</supplied>ὐλόγησον</w></p>
 </div>
 </body>
       <back>

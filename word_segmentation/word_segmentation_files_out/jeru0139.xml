@@ -150,7 +150,7 @@
          <div type="translation" ana="#b1" xml:id="jeru0139.translation" corresp="#jeru0139.transcription">
             <p>of Gaios, (son) of Artemon, Berenikaian (from Berenike)</p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p/>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="jeru0139-1" xml:lang="grc">Γαίου</w> <w xml:id="jeru0139-2" xml:lang="grc">Ἀρτέμωνος</w> <w xml:id="jeru0139-3" xml:lang="grc">Βερνικέος</w> <w xml:id="jeru0139-4" xml:lang="grc"/></p>
 </div>
 </body>
       <back>

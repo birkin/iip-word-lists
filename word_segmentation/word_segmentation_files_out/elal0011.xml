@@ -137,7 +137,7 @@
          <div type="translation" ana="#b1" xml:id="elal0011.translation" corresp="#elal0011.diplomatic #elal0011.transcription">
             <p> ...ano(?)! Thirty years old. </p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p/>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="elal0011-1" xml:lang="grc"/> <w xml:id="elal0011-2" xml:lang="grc"><orig>ανο</orig></w> <w xml:id="elal0011-3" xml:lang="grc"><expan><abbr>ἐτ</abbr><ex>ῶν</ex></expan></w> <w xml:id="elal0011-4" xml:lang="grc"><num>λ´</num></w> <w xml:id="elal0011-5" xml:lang="grc"/></p>
 </div>
 </body>
       <back>

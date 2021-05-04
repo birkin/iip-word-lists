@@ -143,7 +143,7 @@
          <div type="translation" ana="#b1" xml:id="jeru0048.translation" corresp="#jeru0048.transcription">
             <p>the sons of Hanan</p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p/>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="jeru0048-1" xml:lang="arc">בני</w> <w xml:id="jeru0048-2" xml:lang="arc">חנן</w> <w xml:id="jeru0048-3" xml:lang="arc"/></p>
 </div>
 </body>
       <back>

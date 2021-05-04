@@ -146,7 +146,7 @@
          <div type="translation" ana="#b1" xml:id="jeru0111.translation" corresp="#jeru0111.transcription">
             <p>Doris [or: Dores(?) "down-treader"]</p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p/>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="jeru0111-1" xml:lang="arc">דורס</w> <w xml:id="jeru0111-2" xml:lang="arc"/></p>
 </div>
 </body>
       <back>

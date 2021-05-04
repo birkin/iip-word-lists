@@ -122,7 +122,7 @@
          <div type="translation" ana="#b1" xml:id="jeru0144.translation" corresp="#jeru0144.transcription">
             <p>Kyria</p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p/>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="jeru0144-1" xml:lang="arc">קריה</w> <w xml:id="jeru0144-2" xml:lang="arc"/></p>
 </div>
 </body>
       <back>

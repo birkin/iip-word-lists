@@ -124,7 +124,7 @@
                <persName xml:lang="hbo " ref="persons.xml#beth0077p01">Isaac </persName>
             </p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p/>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="beth0077-1" xml:lang="grc">Ἰσάκ</w> <w xml:id="beth0077-2" xml:lang="grc"/></p>
 </div>
 </body>
       <back>

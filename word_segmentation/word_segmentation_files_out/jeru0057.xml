@@ -131,7 +131,7 @@
          <div type="translation" ana="#b1" xml:id="jeru0057.translation" corresp="#jeru0057.transcription">
             <p>of Johannes of Jesus</p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p/>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="jeru0057-1" xml:lang="grc">Ἰωανήου</w> <w xml:id="jeru0057-2" xml:lang="grc">Ἰησί<unclear>ο</unclear>υ</w> <w xml:id="jeru0057-3" xml:lang="grc"/></p>
 </div>
 </body>
       <back>

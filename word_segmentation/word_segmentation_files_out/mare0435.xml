@@ -130,7 +130,7 @@
             <div type="commentary" ana="b1">
                 <p>The first is deeply inscribed while the second is thinly incised.</p>
             </div>
-        <div type="edition" subtype="transcription_segmented"><p/>
+        <div type="edition" subtype="transcription_segmented"><p><w xml:id="mare0435-1" xml:lang="grc"><expan><abbr><hi rend="ligature">Ἀπ</hi></abbr><ex>ολλώνιος</ex></expan></w> <w xml:id="mare0435-2" xml:lang="grc">β</w></p>
 </div>
 </body>
         <back>

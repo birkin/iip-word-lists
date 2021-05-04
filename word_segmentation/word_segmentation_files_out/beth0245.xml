@@ -158,7 +158,7 @@
                <persName xml:lang="hbo " ref="persons.xml#beth0245p01">Joshua </persName>
 				the...</p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p/>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="beth0245-1" xml:lang="he">זו</w> <w xml:id="beth0245-2" xml:lang="he">ארונו</w> <w xml:id="beth0245-3" xml:lang="he">של</w> <w xml:id="beth0245-4" xml:lang="he">רבי</w> <w xml:id="beth0245-5" xml:lang="he">יושוע</w> <w xml:id="beth0245-6" xml:lang="he">ה</w> <w xml:id="beth0245-7" xml:lang="he"/></p>
 </div>
 </body>
       <back>

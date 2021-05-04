@@ -118,7 +118,7 @@
          <div type="translation" ana="#b1" xml:id="jeru0070.translation" corresp="#jeru0070.transcription">
             <p>Jesus aloe</p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p/>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="jeru0070-1" xml:lang="grc">Ἰησοῦς</w> <w xml:id="jeru0070-2" xml:lang="grc">Ἀλώθ</w> <w xml:id="jeru0070-3" xml:lang="grc"/></p>
 </div>
 </body>
       <back>

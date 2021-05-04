@@ -136,7 +136,7 @@
             <div type="commentary" ana="b1">
                 <p>Probably the numeral three.</p>
             </div>
-        <div type="edition" subtype="transcription_segmented"><p/>
+        <div type="edition" subtype="transcription_segmented"><p><w xml:id="mare0056-1" xml:lang="grc"/> <w xml:id="mare0056-2" xml:lang="grc"><num value="3">Γ</num></w> <w xml:id="mare0056-3" xml:lang="grc"/></p>
 </div>
 </body>
         <back>

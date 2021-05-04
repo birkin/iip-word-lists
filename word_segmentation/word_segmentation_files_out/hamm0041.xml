@@ -131,7 +131,7 @@
          <div type="translation" ana="#b1" xml:id="hamm0041.translation" corresp="#hamm0041.diplomatic #hamm0041.transcription">
             <p>Silence (is) pleasant.</p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p/>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="hamm0041-1" xml:lang="grc"/> <w xml:id="hamm0041-2" xml:lang="grc">Ἠραν<supplied reason="undefined">ι</supplied>κὸς</w> <w xml:id="hamm0041-3" xml:lang="grc">ἡσυχία.</w> <w xml:id="hamm0041-4" xml:lang="grc"/></p>
 </div>
 </body>
       <back>

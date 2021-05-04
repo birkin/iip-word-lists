@@ -122,7 +122,7 @@
          <div type="translation" ana="#b1" xml:id="elus0058.translation" corresp="#elus0058.transcription">
             <p>Menas, Zeobius, Niki</p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p/>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="elus0058-1" xml:lang="grc"/> <w xml:id="elus0058-2" xml:lang="grc"><supplied reason="undefined">Μ</supplied>ενᾶ</w> <w xml:id="elus0058-3" xml:lang="grc"><expan><abbr><unclear>Ζ</unclear>ηνόβι</abbr><ex>ος</ex></expan></w> <w xml:id="elus0058-4" xml:lang="grc">Νικι</w></p>
 </div>
 </body>
       <back>

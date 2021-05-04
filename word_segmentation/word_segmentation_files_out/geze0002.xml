@@ -117,7 +117,7 @@
          <div type="translation" ana="#b1" xml:id="geze0002.translation" corresp="#geze0002.transcription">
             <p>Of Alkaios. Boundary of Gezer</p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p/>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="geze0002-1" xml:lang="he"/> <w xml:id="geze0002-2" xml:lang="he"><foreign xml:lang="grc">ΑΛΚΙΟΥ</foreign></w> <w xml:id="geze0002-3" xml:lang="he">תחמגזר</w></p>
 </div>
 </body>
       <back>

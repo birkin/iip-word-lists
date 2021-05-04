@@ -126,7 +126,7 @@
                <persName xml:lang="hbo " ref="persons.xml#beth0229p01">Tablah </persName>
             </p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p/>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="beth0229-1" xml:lang="he">טבלה</w> <w xml:id="beth0229-2" xml:lang="he"/></p>
 </div>
 </body>
       <back>

@@ -190,7 +190,7 @@
             </div>
             <!-- The bibl has more contained elements. What is the possible list of values of the biblScope/@type? 
              -->
-        <div type="edition" subtype="transcription_segmented"><p/>
+        <div type="edition" subtype="transcription_segmented"><p><w xml:id="bqut0002-1" xml:lang="geo"/> <w xml:id="bqut0002-2" xml:lang="geo">და</w> <w xml:id="bqut0002-3" xml:lang="geo">ძუძ</w> <w xml:id="bqut0002-4" xml:lang="geo">ეულნი</w> <w xml:id="bqut0002-5" xml:lang="geo">მათნი</w> <w xml:id="bqut0002-6" xml:lang="geo">ბაკურ</w> <w xml:id="bqut0002-7" xml:lang="geo">და</w> <w xml:id="bqut0002-8" xml:lang="geo">გრი</w> <w xml:id="bqut0002-9" xml:lang="geo">ორმიზდ</w> <w xml:id="bqut0002-10" xml:lang="geo">და</w> <w xml:id="bqut0002-11" xml:lang="geo">ნაშობნი</w> <w xml:id="bqut0002-12" xml:lang="geo">მათნი</w> <w xml:id="bqut0002-13" xml:lang="geo"><expan><abbr>ქ</abbr><ex>რისტ</ex><abbr>ე</abbr></expan></w> <w xml:id="bqut0002-14" xml:lang="geo"><expan><abbr>შე</abbr><ex>იწყალე</ex><abbr>ნ</abbr></expan>,</w> <w xml:id="bqut0002-15" xml:lang="geo">ამენ</w></p>
 </div>
 </body>
         <back>

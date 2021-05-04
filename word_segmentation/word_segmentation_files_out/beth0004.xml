@@ -120,7 +120,7 @@
                <persName xml:lang="grc " ref="persons.xml#beth0004p01"> Porphyrios </persName> [is
 					buried] further in. </p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p/>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="beth0004-1" xml:lang="grc">Πορφύρις</w> <w xml:id="beth0004-2" xml:lang="grc">ἐσώτερος</w> <w xml:id="beth0004-3" xml:lang="grc"/></p>
 </div>
 </body>
       <back>

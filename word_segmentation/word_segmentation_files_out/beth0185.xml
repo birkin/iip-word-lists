@@ -121,7 +121,7 @@
                <persName xml:lang="grc " ref="persons.xml#beth0185p01">Primosa</persName>. <rs type="formula" ana="interpretations.xml#lord"> Lord</rs>, remember your <rs type="epithet" ana="interpretations.xml#servant">servant </rs>
                <persName xml:lang="grc " ref="persons.xml#beth0185p02">Sakerdus</persName>.</p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p/>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="beth0185-1" xml:lang="grc">Κύριε</w> <w xml:id="beth0185-2" xml:lang="grc">μνήσθηθι</w> <w xml:id="beth0185-3" xml:lang="grc">τῆς</w> <w xml:id="beth0185-4" xml:lang="grc">δούλης</w> <w xml:id="beth0185-5" xml:lang="grc">σου</w> <w xml:id="beth0185-6" xml:lang="grc">Πρειμόσας</w> <w xml:id="beth0185-7" xml:lang="grc">Κύριε</w> <w xml:id="beth0185-8" xml:lang="grc">μνήσθηθι</w> <w xml:id="beth0185-9" xml:lang="grc">τοῦ</w> <w xml:id="beth0185-10" xml:lang="grc">δούλου</w> <w xml:id="beth0185-11" xml:lang="grc">σου</w> <w xml:id="beth0185-12" xml:lang="grc">Σακέρδωτος</w> <w xml:id="beth0185-13" xml:lang="grc"/></p>
 </div>
 </body>
       <back>

@@ -122,7 +122,7 @@
                <gap reason="lost" extent="unknown" unit="character"/>
             </p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p/>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="caes0030-1" xml:lang="la"/> <w xml:id="caes0030-2" xml:lang="la"><expan><abbr>Fl</abbr><ex>avii</ex></expan></w> <w xml:id="caes0030-3" xml:lang="la">Boethi</w> <w xml:id="caes0030-4" xml:lang="la"><expan><abbr>co</abbr><ex>n</ex><abbr><unclear>s</unclear></abbr><ex>ularis</ex></expan></w> <w xml:id="caes0030-5" xml:lang="la"/></p>
 </div>
 </body>
       <back>

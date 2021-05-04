@@ -130,7 +130,7 @@
                <rs type="formula">In this beautiful place </rs> may <persName xml:lang="la " ref="persons.xml#hamm0055p01">Hierius </persName> be remembered, with (his) <rs type="family">wife </rs> and <rs type="family">children</rs>, and <persName xml:lang="grc " ref="persons.xml#hamm0055p02">Julian </persName> and (his) <rs type="family">wife </rs>
                <persName xml:lang="grc " ref="persons.xml#hamm0055p03">Eutocia</persName>.</p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p/>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="hamm0055-1" xml:lang="grc"/> <w xml:id="hamm0055-2" xml:lang="grc">Ἐν</w> <w xml:id="hamm0055-3" xml:lang="grc">τῷ</w> <w xml:id="hamm0055-4" xml:lang="grc">καλῷ</w> <w xml:id="hamm0055-5" xml:lang="grc">τόπῳ</w> <w xml:id="hamm0055-6" xml:lang="grc">μνησθῇ</w> <w xml:id="hamm0055-7" xml:lang="grc"><expan><abbr>Ἱέρι</abbr><ex>ο</ex><abbr>ς</abbr></expan></w> <w xml:id="hamm0055-8" xml:lang="grc">μετὰ</w> <w xml:id="hamm0055-9" xml:lang="grc">τῆς</w> <w xml:id="hamm0055-10" xml:lang="grc">συμβίου</w> <w xml:id="hamm0055-11" xml:lang="grc">καὶ</w> <w xml:id="hamm0055-12" xml:lang="grc">τέκνων</w> <w xml:id="hamm0055-13" xml:lang="grc"><expan><abbr>κα</abbr><ex>ὶ</ex></expan></w> <w xml:id="hamm0055-14" xml:lang="grc">Ἰουλι</w> <w xml:id="hamm0055-15" xml:lang="grc">νὸς</w> <w xml:id="hamm0055-16" xml:lang="grc">καὶ</w> <w xml:id="hamm0055-17" xml:lang="grc">Εὐτοκία</w> <w xml:id="hamm0055-18" xml:lang="grc">σύμβιος.</w> <w xml:id="hamm0055-19" xml:lang="grc"/></p>
 </div>
 </body>
       <back>

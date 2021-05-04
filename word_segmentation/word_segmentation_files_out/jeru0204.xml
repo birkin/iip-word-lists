@@ -152,7 +152,7 @@
          <div type="translation" ana="#b1" xml:id="jeru0204.translation" corresp="#jeru0204.transcription">
             <p>Yehoqim</p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p/>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="jeru0204-1" xml:lang="arc"/> <w xml:id="jeru0204-2" xml:lang="arc">יהקים</w> <w xml:id="jeru0204-3" xml:lang="arc"/></p>
 </div>
 </body>
       <back>

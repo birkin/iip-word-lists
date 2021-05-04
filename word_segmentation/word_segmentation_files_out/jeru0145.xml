@@ -123,7 +123,7 @@
          <div type="translation" ana="#b1" xml:id="jeru0145.translation" corresp="#jeru0145.transcription">
             <p>Gaius the small</p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p/>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="jeru0145-1" xml:lang="arc">גאיס</w> <w xml:id="jeru0145-2" xml:lang="arc">נניס</w> <w xml:id="jeru0145-3" xml:lang="arc"/></p>
 </div>
 </body>
       <back>

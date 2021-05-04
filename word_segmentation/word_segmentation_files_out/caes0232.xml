@@ -132,7 +132,7 @@
             <p>(The tomb of)...and Soi--, his <rs type="family">wife</rs>, and...<persName xml:lang="grc " ref="persons.xml#caes0232p01">Dorotheos</persName>...<rs type="family">children</rs>.
 				</p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p/>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="caes0232-1" xml:lang="grc"/> <w xml:id="caes0232-2" xml:lang="grc"><orig><unclear>ω</unclear></orig></w> <w xml:id="caes0232-3" xml:lang="grc">καὶ</w> <w xml:id="caes0232-4" xml:lang="grc"><orig>Σωι</orig></w> <w xml:id="caes0232-5" xml:lang="grc"><orig><supplied reason="undefined">γα</supplied></orig>μετῆς</w> <w xml:id="caes0232-6" xml:lang="grc"><expan><abbr><am>υ</am></abbr><ex>καὶ</ex></expan></w> <w xml:id="caes0232-7" xml:lang="grc"><supplied reason="undefined">Δ</supplied><unclear>ω</unclear>ροθέου</w> <w xml:id="caes0232-8" xml:lang="grc"><supplied reason="undefined">τέκν</supplied><unclear>ω</unclear>ν.</w> <w xml:id="caes0232-9" xml:lang="grc"><g type="cross">+</g></w> <w xml:id="caes0232-10" xml:lang="grc"/></p>
 </div>
 </body>
       <back>

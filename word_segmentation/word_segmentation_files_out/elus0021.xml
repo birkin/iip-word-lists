@@ -120,7 +120,7 @@
          <div type="translation" ana="#b1" xml:id="elus0021.translation" corresp="#elus0021.transcription">
             <p>Zunain</p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p/>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="elus0021-1" xml:lang="grc"/> <w xml:id="elus0021-2" xml:lang="grc"><expan><abbr>Ζονα</abbr><ex>ῖνος</ex></expan></w> <w xml:id="elus0021-3" xml:lang="grc"/></p>
 </div>
 </body>
       <back>

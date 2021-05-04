@@ -151,7 +151,7 @@
          <div type="translation" ana="#b1" xml:id="tibe0009.translation" corresp="#tibe0009.transcription">
             <p>Winter </p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p/>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="tibe0009-1" xml:lang="he">תקופת</w> <w xml:id="tibe0009-2" xml:lang="he"><supplied reason="undefined">טבת</supplied></w> <w xml:id="tibe0009-3" xml:lang="he"/></p>
 </div>
 </body>
       <back>

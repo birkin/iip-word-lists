@@ -115,7 +115,7 @@
             <p>Her <rs type="family" ana="interpretations.xml#brother">brother </rs>
             </p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p/>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="beth0235-1" xml:lang="he">אחיה</w> <w xml:id="beth0235-2" xml:lang="he"/></p>
 </div>
 </body>
       <back>

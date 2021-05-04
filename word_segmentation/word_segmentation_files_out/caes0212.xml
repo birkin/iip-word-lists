@@ -129,7 +129,7 @@
             <p>The tomb belonging to  <persName xml:lang="grc " ref="persons.xml#caes0212p01">Procopia </persName> and Ma---....
 				</p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p/>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="caes0212-1" xml:lang="grc"><g type="cross">+</g></w> <w xml:id="caes0212-2" xml:lang="grc">θήκη</w> <w xml:id="caes0212-3" xml:lang="grc">δηαφέροσα</w> <w xml:id="caes0212-4" xml:lang="grc">Προκοπίας</w> <w xml:id="caes0212-5" xml:lang="grc">καὶ</w> <w xml:id="caes0212-6" xml:lang="grc"><orig>Μα</orig></w> <w xml:id="caes0212-7" xml:lang="grc"/></p>
 </div>
 </body>
       <back>

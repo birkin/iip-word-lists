@@ -130,7 +130,7 @@
             <p>Gais, son of Kyrillos (Cyril). Thirty-five years old.
                 </p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p/>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="kafr0002-1" xml:lang="grc">Γαίς</w> <w xml:id="kafr0002-2" xml:lang="grc">Κυρι<unclear>λ</unclear>λ<unclear>ου</unclear></w> <w xml:id="kafr0002-3" xml:lang="grc"><expan><abbr>ἐτ</abbr><ex>ῶν</ex></expan></w> <w xml:id="kafr0002-4" xml:lang="grc"><num value="35">λ´ε´</num></w> <w xml:id="kafr0002-5" xml:lang="grc"/></p>
 </div>
 </body>
       <back>

@@ -131,7 +131,7 @@
                   <persName ref="persons.xml#caes0168p02">Sisinios </persName>
                </name> (or the son of Sisinios), the woodcutter.</p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p/>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="caes0168-1" xml:lang="grc">θήκη</w> <w xml:id="caes0168-2" xml:lang="grc">Λεοντή<hi rend="ligature">ου</hi></w> <w xml:id="caes0168-3" xml:lang="grc">Σησηνί<hi rend="ligature">ου</hi></w> <w xml:id="caes0168-4" xml:lang="grc">κατωλά</w></p>
 </div>
 </body>
       <back>

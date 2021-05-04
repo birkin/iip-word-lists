@@ -127,7 +127,7 @@
             <p>Be of good courage, Philous! Seventy years old.
 				</p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p/>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="tala0003-1" xml:lang="grc">θάρσι</w> <w xml:id="tala0003-2" xml:lang="grc">Φιλοῦ</w> <w xml:id="tala0003-3" xml:lang="grc"><expan><abbr>ἐτ</abbr><ex>ῶν</ex></expan></w> <w xml:id="tala0003-4" xml:lang="grc"><num value="70">ο´</num></w> <w xml:id="tala0003-5" xml:lang="grc"/></p>
 </div>
 </body>
       <back>

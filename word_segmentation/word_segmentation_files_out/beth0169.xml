@@ -125,7 +125,7 @@
 						<rs type="occupation" ana="interpretations.xml#perfume-dealer"> perfume merchant </rs>
             </p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p/>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="beth0169-1" xml:lang="grc">Παυλίνου</w> <w xml:id="beth0169-2" xml:lang="grc">μυρεψ<supplied reason="omitted">οῦ</supplied></w> <w xml:id="beth0169-3" xml:lang="grc"/></p>
 </div>
 </body>
       <back>

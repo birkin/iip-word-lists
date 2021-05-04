@@ -124,7 +124,7 @@
                <persName xml:lang="grc " ref="persons.xml#beth0199p01">Domnika </persName> the <rs type="epithet" ana="interpretations.xml#little">little </rs>
                 </p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p/>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="beth0199-1" xml:lang="grc">Δομνικὰ</w> <w xml:id="beth0199-2" xml:lang="grc">ἡ</w> <w xml:id="beth0199-3" xml:lang="grc">μικρά</w> <w xml:id="beth0199-4" xml:lang="grc"/></p>
 </div>
 </body>
       <back>

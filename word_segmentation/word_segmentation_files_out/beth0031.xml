@@ -125,7 +125,7 @@
                <persName xml:lang="grc " ref="persons.xml#beth0031p01">Paregoris </persName>
             </p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p/>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="beth0031-1" xml:lang="grc"/> <w xml:id="beth0031-2" xml:lang="grc"><expan><abbr>Ῥ</abbr><ex>ιββὶ</ex></expan></w> <w xml:id="beth0031-3" xml:lang="grc">Παρηγόρις</w> <w xml:id="beth0031-4" xml:lang="grc"/></p>
 </div>
 </body>
       <back>

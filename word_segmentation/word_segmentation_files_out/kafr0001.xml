@@ -116,7 +116,7 @@
                <gap reason="lost" unit="character" extent="unknown"/><orig>ΣΑΤΑΔ</orig><gap reason="lost" unit="character" extent="unknown"/>
             </p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p/>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="kafr0001-1" xml:lang="grc"/> <w xml:id="kafr0001-2" xml:lang="grc"><orig>ΣΑΤΑΔ</orig></w> <w xml:id="kafr0001-3" xml:lang="grc"/></p>
 </div>
 </body>
       <back>

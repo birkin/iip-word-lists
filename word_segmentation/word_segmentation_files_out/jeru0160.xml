@@ -146,7 +146,7 @@
          <div type="translation" ana="#b1" xml:id="jeru0160.translation" corresp="#jeru0160.transcription">
             <p>Ikarpia</p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p/>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="jeru0160-1" xml:lang="grc">Ἰκαρπία</w> <w xml:id="jeru0160-2" xml:lang="grc"/></p>
 </div>
 </body>
       <back>

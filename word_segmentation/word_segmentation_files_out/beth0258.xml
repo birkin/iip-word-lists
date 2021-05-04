@@ -122,7 +122,7 @@
                <rs type="religTitle" ana="interpretations.xml#rabbi">Rabbi </rs>
             </p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p/>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="beth0258-1" xml:lang="he">יצחק</w> <w xml:id="beth0258-2" xml:lang="he">בן</w> <w xml:id="beth0258-3" xml:lang="he">יוסף</w> <w xml:id="beth0258-4" xml:lang="he">ביריבי</w> <w xml:id="beth0258-5" xml:lang="he"/></p>
 </div>
 </body>
       <back>

@@ -116,7 +116,7 @@
                <rs type="object" ana="interpretations.xml#tomb">Tomb </rs> of <persName xml:lang="hbo " ref="persons.xml#beth0280p01">Esther </persName>
             </p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p/>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="beth0280-1" xml:lang="arc">נפש</w> <w xml:id="beth0280-2" xml:lang="arc">אסתר</w> <w xml:id="beth0280-3" xml:lang="arc"/></p>
 </div>
 </body>
       <back>

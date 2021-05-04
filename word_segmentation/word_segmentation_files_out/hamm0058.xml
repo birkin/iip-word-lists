@@ -141,7 +141,7 @@
                     <persName xml:lang="grc " ref="persons.xml#hamm0058p01">Domna </persName> be remembered, with the <rs type="status">lord </rs>
                     <persName xml:lang="grc " ref="persons.xml#hamm0058p02">Hermogenes</persName>.</p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p/>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="hamm0058-1" xml:lang="grc"/> <w xml:id="hamm0058-2" xml:lang="grc">Ἐν</w> <w xml:id="hamm0058-3" xml:lang="grc">τῷ</w> <w xml:id="hamm0058-4" xml:lang="grc">ἀγίῳ</w> <w xml:id="hamm0058-5" xml:lang="grc">τόπῳ</w> <w xml:id="hamm0058-6" xml:lang="grc">μνησθῆ</w> <w xml:id="hamm0058-7" xml:lang="grc">κύρα</w> <w xml:id="hamm0058-8" xml:lang="grc">Δόμνα</w> <w xml:id="hamm0058-9" xml:lang="grc">σὺν</w> <w xml:id="hamm0058-10" xml:lang="grc">τῷ</w> <w xml:id="hamm0058-11" xml:lang="grc">κύρῳ</w> <w xml:id="hamm0058-12" xml:lang="grc">Ἑρμογένῃ.</w> <w xml:id="hamm0058-13" xml:lang="grc"/></p>
 </div>
 </body>
       <back>

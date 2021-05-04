@@ -135,7 +135,7 @@
             <p>Monument of Ammianus, (son) of Zabinas, who died (at the age) of 50 years, in the
                     year 288.</p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p/>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="zoor0068-1" xml:lang="grc"><g type="cross">+</g><g type="cross">+</g></w> <w xml:id="zoor0068-2" xml:lang="grc"><g type="cross">+</g></w> <w xml:id="zoor0068-3" xml:lang="grc"><choice><sic>Μνημῖον</sic><corr>Μνημεῖον</corr></choice></w> <w xml:id="zoor0068-4" xml:lang="grc"><choice><sic>Ἀμιανοῦ</sic><corr>Ἀμμιανοῦ</corr></choice></w> <w xml:id="zoor0068-5" xml:lang="grc"><unclear>Ζαβ</unclear>ί<supplied reason="undefined">ν</supplied>α,</w> <w xml:id="zoor0068-6" xml:lang="grc"><choice><sic>ἀπαθανόντ<unclear>ος</unclear></sic><corr>ἀποθανόντος</corr></choice></w> <w xml:id="zoor0068-7" xml:lang="grc">ἐτῶν</w> <w xml:id="zoor0068-8" xml:lang="grc"><num>νʹ</num>,</w> <w xml:id="zoor0068-9" xml:lang="grc">ἐν</w> <w xml:id="zoor0068-10" xml:lang="grc">ἔτους</w> <w xml:id="zoor0068-11" xml:lang="grc"><num>σπηʹ</num>.</w></p>
 </div>
 </body>
       <back>

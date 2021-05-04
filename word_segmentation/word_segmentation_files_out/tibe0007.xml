@@ -166,7 +166,7 @@
          <div type="translation" ana="#b1" xml:id="tibe0007.translation" corresp="#tibe0007.transcription">
             <p>Summer</p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p/>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="tibe0007-1" xml:lang="he">תקופת</w> <w xml:id="tibe0007-2" xml:lang="he">תמוז</w> <w xml:id="tibe0007-3" xml:lang="he"/></p>
 </div>
 </body>
       <back>

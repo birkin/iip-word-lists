@@ -134,7 +134,7 @@
          <div type="translation" ana="#b1" xml:id="jeru0173.translation" corresp="#jeru0173.transcription">
             <p>Yehud, our father</p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p/>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="jeru0173-1" xml:lang="arc">יהוד</w> <w xml:id="jeru0173-2" xml:lang="arc">אבון</w> <w xml:id="jeru0173-3" xml:lang="arc"/></p>
 </div>
 </body>
       <back>

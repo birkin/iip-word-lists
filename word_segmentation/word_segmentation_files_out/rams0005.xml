@@ -111,7 +111,7 @@
          <div type="translation" ana="#b1" xml:id="rams0005.translation" corresp="#rams0005.transcription">
             <p>May Drakon be remembered!</p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p/>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="rams0005-1" xml:lang="grc">Μνησθῇ</w> <w xml:id="rams0005-2" xml:lang="grc">Δράκων</w></p>
 </div>
 </body>
       <back>

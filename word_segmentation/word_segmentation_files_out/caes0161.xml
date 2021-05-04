@@ -139,7 +139,7 @@
                   <persName xml:lang="la " ref="persons.xml#caes0161p01">Titia </persName>
                </name> C..., (my) <rs type="family">wife</rs>...</p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p/>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="caes0161-1" xml:lang="la">Titiae</w> <w xml:id="caes0161-2" xml:lang="la"><orig>C</orig></w> <w xml:id="caes0161-3" xml:lang="la"><orig>ae</orig></w> <w xml:id="caes0161-4" xml:lang="la">uxor<supplied reason="lost">i</supplied></w> <w xml:id="caes0161-5" xml:lang="la"/></p>
 </div>
 </body>
       <back>

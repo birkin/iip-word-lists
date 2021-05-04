@@ -151,7 +151,7 @@
          <div type="translation" ana="#b1" xml:id="jeru0178.translation" corresp="#jeru0178.transcription">
             <p>Bar Nahum</p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p/>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="jeru0178-1" xml:lang="arc">בר</w> <w xml:id="jeru0178-2" xml:lang="arc">נחום</w> <w xml:id="jeru0178-3" xml:lang="arc"/></p>
 </div>
 </body>
       <back>

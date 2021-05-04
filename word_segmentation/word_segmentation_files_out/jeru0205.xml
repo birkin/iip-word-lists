@@ -118,7 +118,7 @@
          <div type="translation" ana="#b1" xml:id="jeru0205.translation" corresp="#jeru0205.transcription">
             <p>Alexa</p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p/>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="jeru0205-1" xml:lang="arc">אלכסה</w> <w xml:id="jeru0205-2" xml:lang="arc"/></p>
 </div>
 </body>
       <back>

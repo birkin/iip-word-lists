@@ -127,7 +127,7 @@
                   <persName xml:lang="hbo " ref="persons.xml#beth0086p01">Sarah</persName>, daughter of <persName type="patr" xml:lang="la " ref="persons.xml#beth0086p02">Kyrinos </persName>
                </name>, <rs type="formula" ana="interpretations.xml#lies">lies  </rs> in the middle grave.</p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p/>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="beth0086-1" xml:lang="grc"/> <w xml:id="beth0086-2" xml:lang="grc"><unclear>Σά</unclear></w> <w xml:id="beth0086-3" xml:lang="grc"><supplied reason="lost">ρ</supplied>α</w> <w xml:id="beth0086-4" xml:lang="grc">Κυ<unclear>ρί</unclear>νου</w> <w xml:id="beth0086-5" xml:lang="grc">εἰ<unclear>ς</unclear></w> <w xml:id="beth0086-6" xml:lang="grc">τὸ</w> <w xml:id="beth0086-7" xml:lang="grc">μέσον</w> <w xml:id="beth0086-8" xml:lang="grc">κῖτε</w> <w xml:id="beth0086-9" xml:lang="grc"/></p>
 </div>
 </body>
       <back>

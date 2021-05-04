@@ -120,7 +120,7 @@
                <persName xml:lang="la " ref="persons.xml#beth0187p01">Sabinus </persName>
             </p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p/>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="beth0187-1" xml:lang="grc">Σαβῖνος</w> <w xml:id="beth0187-2" xml:lang="grc"/></p>
 </div>
 </body>
       <back>

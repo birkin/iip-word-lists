@@ -125,7 +125,7 @@
             <p>Of <persName xml:lang="grc " ref="persons.xml#beth0186p01">Socrates </persName>
             </p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p/>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="beth0186-1" xml:lang="grc">Σωκράτους</w> <w xml:id="beth0186-2" xml:lang="grc"/></p>
 </div>
 </body>
       <back>

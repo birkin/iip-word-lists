@@ -127,7 +127,7 @@
                   <persName xml:lang="grc " ref="persons.xml#caes0160p01">Rhodope </persName>
                </name>, <rs type="family">wife</rs>...</p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p/>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="caes0160-1" xml:lang="la"/> <w xml:id="caes0160-2" xml:lang="la"><expan><abbr>D</abbr><ex>is</ex></expan></w> <w xml:id="caes0160-3" xml:lang="la"><expan><abbr>M</abbr><ex>anibus</ex></expan>.</w> <w xml:id="caes0160-4" xml:lang="la">Rhodo<supplied reason="undefined">pe</supplied></w> <w xml:id="caes0160-5" xml:lang="la"><unclear>coniug</unclear></w> <w xml:id="caes0160-6" xml:lang="la"><supplied reason="undefined">i</supplied></w> <w xml:id="caes0160-7" xml:lang="la"/></p>
 </div>
 </body>
       <back>

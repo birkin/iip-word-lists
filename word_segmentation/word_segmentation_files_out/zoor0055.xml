@@ -138,7 +138,7 @@
             <p>Monument of Rufus, the archpresbyter, who died (at the age) of 70 years, in the
                     year 282.</p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p/>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="zoor0055-1" xml:lang="grc"><g type="cross">+</g></w> <w xml:id="zoor0055-2" xml:lang="grc"><choice><sic>Μνημῖον</sic><corr>Μνημεῖον</corr></choice></w> <w xml:id="zoor0055-3" xml:lang="grc">Ῥούφου</w> <w xml:id="zoor0055-4" xml:lang="grc">ἀρχιπρεσβυτέρου,</w> <w xml:id="zoor0055-5" xml:lang="grc">παυσαμένου</w> <w xml:id="zoor0055-6" xml:lang="grc">ἐτῶν</w> <w xml:id="zoor0055-7" xml:lang="grc"><num>οʹ</num>,</w> <w xml:id="zoor0055-8" xml:lang="grc">ἐν</w> <w xml:id="zoor0055-9" xml:lang="grc"><expan><abbr>ἔτ</abbr><ex>ει</ex></expan></w> <w xml:id="zoor0055-10" xml:lang="grc"><num>σπβʹ</num></w></p>
 </div>
 </body>
       <back>

@@ -186,7 +186,7 @@
             <div type="commentary" ana="b1"/>
             <!-- The bibl has more contained elements. What is the possible list of values of the biblScope/@type? 
              -->
-        <div type="edition" subtype="transcription_segmented"><p/>
+        <div type="edition" subtype="transcription_segmented"><p><w xml:id="mger0005-1" xml:lang="arc">זי</w> <w xml:id="mger0005-2" xml:lang="arc">הק<unclear>ר</unclear>ב</w> <w xml:id="mger0005-3" xml:lang="arc"><unclear>א</unclear>לנתנ</w> <w xml:id="mger0005-4" xml:lang="arc">ב<supplied reason="lost">ר</supplied></w> <w xml:id="mger0005-5" xml:lang="arc">על</w> <w xml:id="mger0005-6" xml:lang="arc">נפשה</w> <w xml:id="mger0005-7" xml:lang="arc">ועל</w> <w xml:id="mger0005-8" xml:lang="arc">אנ<unclear>ת</unclear></w> <w xml:id="mger0005-9" xml:lang="arc"><unclear>ת</unclear>ה</w> <w xml:id="mger0005-10" xml:lang="arc">ובנוה<supplied reason="lost">י</supplied></w> <w xml:id="mger0005-11" xml:lang="arc"/></p>
 </div>
 </body>
         <back>

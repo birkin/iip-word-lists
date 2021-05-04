@@ -118,7 +118,7 @@
          <div type="translation" ana="#b1" xml:id="elus0003.translation" corresp="#elus0003.transcription">
             <p>Courage, 'Abdalga, no one is immortal; aged 66, 14th of Dystros</p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p/>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="elus0003-1" xml:lang="grc">Θάρσι,</w> <w xml:id="elus0003-2" xml:lang="grc">Ἀβδαλγῆ,</w> <w xml:id="elus0003-3" xml:lang="grc">οὐδίς</w> <w xml:id="elus0003-4" xml:lang="grc">ἀθάνατος</w> <w xml:id="elus0003-5" xml:lang="grc">ἐτῶν</w> <w xml:id="elus0003-6" xml:lang="grc"><num value="66">ϛζʹ</num></w> <w xml:id="elus0003-7" xml:lang="grc">μηνὸς</w> <w xml:id="elus0003-8" xml:lang="grc">Δύστρου</w> <w xml:id="elus0003-9" xml:lang="grc"><num value="14">διʹ</num></w></p>
 </div>
 </body>
       <back>

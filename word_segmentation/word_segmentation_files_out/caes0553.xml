@@ -163,7 +163,7 @@
                 <p/>
             </div>
 
-        <div type="edition" subtype="transcription_segmented"><p/>
+        <div type="edition" subtype="transcription_segmented"><p><w xml:id="caes0553-1" xml:lang="grc"><supplied reason="lost">Ἔτους</supplied></w> <w xml:id="caes0553-2" xml:lang="grc"><num value="20">κ</num></w> <w xml:id="caes0553-3" xml:lang="grc">Τιβ<supplied reason="lost">ερ<hi rend="apex">ι</hi></supplied>ου</w> <w xml:id="caes0553-4" xml:lang="grc">Κα<hi rend="apex">ι</hi><supplied reason="lost">σαρ</supplied>ος</w> <w xml:id="caes0553-5" xml:lang="grc">ἀγο<supplied reason="lost">ραν</supplied><hi rend="apex">ο</hi>μου</w> <w xml:id="caes0553-6" xml:lang="grc">μ<hi rend="apex">α</hi>νδ<supplied reason="lost">ρου</supplied></w> <w xml:id="caes0553-7" xml:lang="grc"><supplied reason="lost">Ἑρμα</supplied></w></p>
 </div>
 </body>
         <back>

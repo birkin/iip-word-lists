@@ -114,7 +114,7 @@
          <div type="translation" ana="#b1" xml:id="zoor0301.translation" corresp="#zoor0301.transcription">
             <p>(Monument of) Foseiathe, (daughter) of Parthenios.</p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p/>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="zoor0301-1" xml:lang="grc">Φοσεϋάθη</w> <w xml:id="zoor0301-2" xml:lang="grc">παρθενίου</w></p>
 </div>
 </body>
       <back>

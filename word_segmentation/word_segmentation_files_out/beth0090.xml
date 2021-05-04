@@ -116,7 +116,7 @@
                <persName xml:lang="grc " ref="persons.xml#beth0090p01">Do[ron] </persName>
             </p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p/>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="beth0090-1" xml:lang="grc">ΔΩ</w> <w xml:id="beth0090-2" xml:lang="grc"/></p>
 </div>
 </body>
       <back>

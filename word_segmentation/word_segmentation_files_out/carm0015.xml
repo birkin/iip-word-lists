@@ -123,7 +123,7 @@
          <div type="translation" ana="#b1" xml:id="carm0015.translation" corresp="#carm0015.transcription">
             <p>Mninos Gramma </p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p/>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="carm0015-1" xml:lang="grc">Μνίνου</w> <w xml:id="carm0015-2" xml:lang="grc">γράμμα</w></p>
 </div>
 </body>
       <back>

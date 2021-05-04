@@ -118,7 +118,7 @@
             <p>...<rs type="caste" ana="interpretations.xml#priest">Priests </rs>
             </p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p/>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="beth0260-1" xml:lang="he"/> <w xml:id="beth0260-2" xml:lang="he">כוהנים</w> <w xml:id="beth0260-3" xml:lang="he"/></p>
 </div>
 </body>
       <back>

@@ -189,7 +189,7 @@
             </div>
             <!-- The bibl has more contained elements. What is the possible list of values of the biblScope/@type? 
              -->
-        <div type="edition" subtype="transcription_segmented"><p/>
+        <div type="edition" subtype="transcription_segmented"><p><w xml:id="mare0015-1" xml:lang="arc"/> <w xml:id="mare0015-2" xml:lang="arc"><unclear>כ</unclear></w> <w xml:id="mare0015-3" xml:lang="arc">נה</w> <w xml:id="mare0015-4" xml:lang="arc">ל</w> <w xml:id="mare0015-5" xml:lang="arc"><unclear>ל</unclear></w> <w xml:id="mare0015-6" xml:lang="arc">תנחום</w> <w xml:id="mare0015-7" xml:lang="arc">לשנת</w> <w xml:id="mare0015-8" xml:lang="arc"><num value="10"><g type="phoen-10"/></num></w> <w xml:id="mare0015-9" xml:lang="arc"><num value="2"><g type="phoen-2"/></num></w> <w xml:id="mare0015-10" xml:lang="arc">תבן</w> <w xml:id="mare0015-11" xml:lang="arc">טעון</w> <w xml:id="mare0015-12" xml:lang="arc"><num value="6"><g type="phoen-6"/></num></w> <w xml:id="mare0015-13" xml:lang="arc">זי</w> <w xml:id="mare0015-14" xml:lang="arc">לא</w> <w xml:id="mare0015-15" xml:lang="arc">מעת<unclear>ד</unclear>ן</w></p>
 </div>
 </body>
         <back>

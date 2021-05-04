@@ -131,7 +131,7 @@
                <persName xml:lang="grc " ref="persons.xml#caes0172p02">Mekeron </persName> and <persName xml:lang="grc " ref="persons.xml#caes0172p03">Eisisa</persName>.	
 		  </p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p/>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="caes0172-1" xml:lang="grc">μηνόριων</w> <w xml:id="caes0172-2" xml:lang="grc">διαφέρο<supplied reason="omitted">ν</supplied>τᾷ</w> <w xml:id="caes0172-3" xml:lang="grc">κύρᾳ</w> <w xml:id="caes0172-4" xml:lang="grc">Σεβήρᾳ</w> <w xml:id="caes0172-5" xml:lang="grc">κὰ<supplied reason="omitted">ὶ</supplied></w> <w xml:id="caes0172-6" xml:lang="grc">τῶ<supplied reason="omitted">ν</supplied></w> <w xml:id="caes0172-7" xml:lang="grc">αυοὐτῆς</w> <w xml:id="caes0172-8" xml:lang="grc">Μηκέρων</w> <w xml:id="caes0172-9" xml:lang="grc">καὶ</w> <w xml:id="caes0172-10" xml:lang="grc">Εἰσίσα.</w> <w xml:id="caes0172-11" xml:lang="grc"/></p>
 </div>
 </body>
       <back>

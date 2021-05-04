@@ -126,7 +126,7 @@
          <div type="translation" ana="#b1" xml:id="jeru0132.translation" corresp="#jeru0132.transcription">
             <p>Hananya and Marta. Yehuda</p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p/>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="jeru0132-1" xml:lang="arc">חנניה</w> <w xml:id="jeru0132-2" xml:lang="arc">ומרתא</w> <w xml:id="jeru0132-3" xml:lang="arc">יהודה</w> <w xml:id="jeru0132-4" xml:lang="arc"/></p>
 </div>
 </body>
       <back>

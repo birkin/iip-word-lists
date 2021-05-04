@@ -122,7 +122,7 @@
                <rs type="formula" ana="interpretations.xml#courage">Have courage</rs>, <persName xml:lang="arc " ref="persons.xml#beth0089p01">Bar-Abai </persName>
             </p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p/>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="beth0089-1" xml:lang="grc">Θάρσ<unclear>η</unclear></w> <w xml:id="beth0089-2" xml:lang="grc">Βαραβαί</w> <w xml:id="beth0089-3" xml:lang="grc"/></p>
 </div>
 </body>
       <back>

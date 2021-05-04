@@ -192,7 +192,7 @@
             </div>
             <!-- The bibl has more contained elements. What is the possible list of values of the biblScope/@type? 
              -->
-        <div type="edition" subtype="transcription_segmented"><p/>
+        <div type="edition" subtype="transcription_segmented"><p><w xml:id="rehn0001-1" xml:lang="grc"><supplied reason="lost"><g type="cross">+</g></supplied></w> <w xml:id="rehn0001-2" xml:lang="grc"><supplied reason="lost">Επὶ</supplied></w> <w xml:id="rehn0001-3" xml:lang="grc"><supplied reason="lost">τοῦ</supplied>ἁγιωτάτου</w> <w xml:id="rehn0001-4" xml:lang="grc">καἰ</w> <w xml:id="rehn0001-5" xml:lang="grc">ὡσιω<supplied reason="lost">τἀτου</supplied></w> <w xml:id="rehn0001-6" xml:lang="grc"><supplied reason="lost"><expan><abbr>ἐπ</abbr><ex>ισκόπου</ex></expan></supplied></w> <w xml:id="rehn0001-7" xml:lang="grc">καὶ</w> <w xml:id="rehn0001-8" xml:lang="grc">ἐπὶ</w> <w xml:id="rehn0001-9" xml:lang="grc">Στεφάνου</w> <w xml:id="rehn0001-10" xml:lang="grc">Σολ</w> <w xml:id="rehn0001-11" xml:lang="grc"><supplied reason="lost">ἐγένετο</supplied></w> <w xml:id="rehn0001-12" xml:lang="grc"><supplied reason="lost">τοῦτο</supplied></w> <w xml:id="rehn0001-13" xml:lang="grc"><supplied reason="lost">τὸ</supplied></w> <w xml:id="rehn0001-14" xml:lang="grc">ἔργον</w> <w xml:id="rehn0001-15" xml:lang="grc">ἔτους</w> <w xml:id="rehn0001-16" xml:lang="grc"><num value="441">υμα</num></w> <w xml:id="rehn0001-17" xml:lang="grc"/></p>
 </div>
 </body>
         <back>

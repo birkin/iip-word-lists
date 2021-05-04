@@ -121,7 +121,7 @@
          <div type="translation" ana="#b1" xml:id="jeru0029.translation" corresp="#jeru0029.diplomatic #jeru0029.transcription">
             <p>Am(m)ia</p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p/>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="jeru0029-1" xml:lang="grc">Ἀμία</w> <w xml:id="jeru0029-2" xml:lang="grc"/></p>
 </div>
 </body>
       <back>

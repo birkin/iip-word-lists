@@ -124,7 +124,7 @@
                <rs type="formula" ana="interpretations.xml#lies">Here lies </rs>
                <persName xml:lang="grc " ref="persons.xml#beth0183p01">Diodora</persName>, <rs type="family" ana="interpretations.xml#mother">mother </rs> of <persName xml:lang="grc " ref="persons.xml#beth0183p02">Epitychios</persName>.</p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p/>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="beth0183-1" xml:lang="grc">Ἔ<supplied reason="lost">ν</supplied>θα</w> <w xml:id="beth0183-2" xml:lang="grc">κῖται</w> <w xml:id="beth0183-3" xml:lang="grc">Διοδώρα</w> <w xml:id="beth0183-4" xml:lang="grc"><supplied reason="lost">μ</supplied>ήτηρ</w> <w xml:id="beth0183-5" xml:lang="grc">Ἐπιτυχίου</w> <w xml:id="beth0183-6" xml:lang="grc"/></p>
 </div>
 </body>
       <back>

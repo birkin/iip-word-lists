@@ -123,7 +123,7 @@
             <p>The tomb of <persName xml:lang="grc " ref="persons.xml#caes0193p01">Heortasios </persName> and <persName xml:lang="hbo " ref="persons.xml#caes0193p02">Nehemiah</persName>.
 		  </p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p/>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="caes0193-1" xml:lang="grc"/> <w xml:id="caes0193-2" xml:lang="grc"><supplied reason="undefined">θήκ</supplied>η</w> <w xml:id="caes0193-3" xml:lang="grc">Ἐορ<supplied reason="undefined">ταςί</supplied>ου</w> <w xml:id="caes0193-4" xml:lang="grc">καὶ</w> <w xml:id="caes0193-5" xml:lang="grc"><supplied reason="undefined">Νε</supplied>ημίας.</w> <w xml:id="caes0193-6" xml:lang="grc"/></p>
 </div>
 </body>
       <back>

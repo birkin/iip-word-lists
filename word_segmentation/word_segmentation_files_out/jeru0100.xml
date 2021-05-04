@@ -134,7 +134,7 @@
          <div type="translation" ana="#b1" xml:id="jeru0100.translation" corresp="#jeru0100.transcription">
             <p>Sha'ul</p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p/>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="jeru0100-1" xml:lang="arc">שאול</w> <w xml:id="jeru0100-2" xml:lang="arc"/></p>
 </div>
 </body>
       <back>

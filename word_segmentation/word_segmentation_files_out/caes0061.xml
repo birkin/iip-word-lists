@@ -127,7 +127,7 @@
          <div type="translation" ana="#b1" xml:id="caes0061.translation" corresp="#caes0061.transcription">
             <p>May you flourish, Metropolis!</p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p/>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="caes0061-1" xml:lang="grc"/> <w xml:id="caes0061-2" xml:lang="grc"><supplied reason="lost">αὔξοις</supplied></w> <w xml:id="caes0061-3" xml:lang="grc"><supplied reason="lost">μ</supplied>ητρόπολι.</w> <w xml:id="caes0061-4" xml:lang="grc"/></p>
 </div>
 </body>
       <back>

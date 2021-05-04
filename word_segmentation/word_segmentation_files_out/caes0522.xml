@@ -133,7 +133,7 @@
                     editor. The date is indicated only in Corpus Inscriptionum Iudaeae/Palaestinae
                     Volume II Caesarea and the Middle Coast.</p>
             </div>
-        <div type="edition" subtype="transcription_segmented"><p/>
+        <div type="edition" subtype="transcription_segmented"><p><w xml:id="caes0522-1" xml:lang="grc"><supplied reason="lost" cert="low">Μημόριον</supplied></w> <w xml:id="caes0522-2" xml:lang="grc"><supplied reason="lost">Ἰουλι</supplied>άνου</w> <w xml:id="caes0522-3" xml:lang="grc">Ἀλεξ<supplied reason="lost">άνδρου</supplied></w></p>
 </div>
 </body>
         <back>

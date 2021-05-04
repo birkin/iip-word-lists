@@ -132,7 +132,7 @@
             <div type="commentary">
                 <p/>
             </div>
-        <div type="edition" subtype="transcription_segmented"><p/>
+        <div type="edition" subtype="transcription_segmented"><p><w xml:id="shep0002-1" xml:lang="grc"/> <w xml:id="shep0002-2" xml:lang="grc"><g type="cross">+</g></w> <w xml:id="shep0002-3" xml:lang="grc"><expan><abbr>Κ</abbr><ex>ύρι</ex><abbr>ε</abbr></expan></w> <w xml:id="shep0002-4" xml:lang="grc"><expan><abbr>Ἰ</abbr><ex>ησ</ex><abbr>οῦ</abbr></expan></w> <w xml:id="shep0002-5" xml:lang="grc"><expan><abbr>Χ</abbr><ex>ριστ</ex><abbr>ὲ</abbr></expan></w> <w xml:id="shep0002-6" xml:lang="grc">ἐλέησον</w> <w xml:id="shep0002-7" xml:lang="grc">τὸν</w> <w xml:id="shep0002-8" xml:lang="grc">δούλον</w> <w xml:id="shep0002-9" xml:lang="grc">σου</w> <w xml:id="shep0002-10" xml:lang="grc">Ἡσύχιν</w> <w xml:id="shep0002-11" xml:lang="grc"><g type="cross">+</g></w></p>
 </div>
 </body>
         <back>

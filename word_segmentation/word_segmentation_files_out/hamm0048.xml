@@ -125,7 +125,7 @@
          <div type="translation" ana="#b1" xml:id="hamm0048.translation" corresp="#hamm0048.diplomatic #hamm0048.transcription">
             <p>Lord, remember <persName xml:lang="grc " ref="persons.xml#hamm0048p01">Cyriac</persName>, also (called) <persName xml:lang="x-Semitic " ref="persons.xml#hamm0048p02">Sami</persName>.</p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p/>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="hamm0048-1" xml:lang="grc"/> <w xml:id="hamm0048-2" xml:lang="grc"><expan><abbr>Κ</abbr><ex>ύριε</ex></expan></w> <w xml:id="hamm0048-3" xml:lang="grc"><expan><abbr>μ</abbr><ex>νήσθητι</ex></expan></w> <w xml:id="hamm0048-4" xml:lang="grc">Κύρακος</w> <w xml:id="hamm0048-5" xml:lang="grc">ὁ</w> <w xml:id="hamm0048-6" xml:lang="grc">Ϲαμι</w> <w xml:id="hamm0048-7" xml:lang="grc"/></p>
 </div>
 </body>
       <back>

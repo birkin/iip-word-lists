@@ -124,7 +124,7 @@
                <persName xml:lang="hbo " ref="persons.xml#beth0065p01">Nehemiah </persName>
             </p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p/>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="beth0065-1" xml:lang="grc">Νεημί<supplied reason="lost" cert="low">ας</supplied></w> <w xml:id="beth0065-2" xml:lang="grc"/></p>
 </div>
 </body>
       <back>

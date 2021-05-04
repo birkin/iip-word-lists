@@ -133,7 +133,7 @@
          <div type="translation" ana="b1" xml:id="zoor0350.translation" corresp="#zoor0350.transcription">
             <p> Monument of Demetrios, (son) of Zenobios(?) who died ...</p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p/>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="zoor0350-1" xml:lang="grc"/> <w xml:id="zoor0350-2" xml:lang="grc"><choice><reg>Μνημεῖον</reg><orig>Μνημῖον</orig></choice></w> <w xml:id="zoor0350-3" xml:lang="grc">Δημητ<unclear>ρίο</unclear></w> <w xml:id="zoor0350-4" xml:lang="grc"><supplied reason="lost">υ</supplied></w> <w xml:id="zoor0350-5" xml:lang="grc">Ζή<unclear>ν</unclear></w> <w xml:id="zoor0350-6" xml:lang="grc"><supplied reason="lost" cert="low">οβίου</supplied></w> <w xml:id="zoor0350-7" xml:lang="grc">ἀ<unclear>π</unclear></w> <w xml:id="zoor0350-8" xml:lang="grc"><supplied reason="lost">οθανόντος</supplied></w> <w xml:id="zoor0350-9" xml:lang="grc"><unclear>Μ</unclear></w> <w xml:id="zoor0350-10" xml:lang="grc"/></p>
 </div>
 </body>
       <back>
