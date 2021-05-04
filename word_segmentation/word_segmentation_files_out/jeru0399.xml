@@ -136,7 +136,7 @@
             <div type="commentary" ana="b1">
                 <p/>
             </div>
-        <div type="edition" subtype="transcription_segmented"><p><w xml:id="jeru0399-1" xml:lang="he"/> <w xml:id="jeru0399-2" xml:lang="he"><unclear>שלמציון</unclear></w> <w xml:id="jeru0399-3" xml:lang="he"><supplied reason="lost">בת</supplied></w> <w xml:id="jeru0399-4" xml:lang="he"/></p>
+        <div type="edition" subtype="transcription_segmented"><p> <w xml:id="jeru0399-1" xml:lang="he"><unclear>שלמציון</unclear></w> <w xml:id="jeru0399-2" xml:lang="he"><supplied reason="lost">בת</supplied></w> </p>
 </div>
 </body>
         <back>

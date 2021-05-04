@@ -121,7 +121,7 @@
          <div type="translation" ana="#b1" xml:id="carm0004.translation" corresp="#carm0004.transcription">
             <p>Lord Remember Maximos the Priest</p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="carm0004-1" xml:lang="grc"/> <w xml:id="carm0004-2" xml:lang="grc"><expan><abbr>Κ</abbr><ex>ύρι</ex><abbr>ε</abbr></expan></w> <w xml:id="carm0004-3" xml:lang="grc">μνήστηθι</w> <w xml:id="carm0004-4" xml:lang="grc">Μαξίμου</w> <w xml:id="carm0004-5" xml:lang="grc">τοῦ</w> <w xml:id="carm0004-6" xml:lang="grc">πρεσβυτέρου</w></p>
+      <div type="edition" subtype="transcription_segmented"><p> <w xml:id="carm0004-1" xml:lang="grc"><expan><abbr>Κ</abbr><ex>ύρι</ex><abbr>ε</abbr></expan></w> <w xml:id="carm0004-2" xml:lang="grc">μνήστηθι</w> <w xml:id="carm0004-3" xml:lang="grc">Μαξίμου</w> <w xml:id="carm0004-4" xml:lang="grc">τοῦ</w> <w xml:id="carm0004-5" xml:lang="grc">πρεσβυτέρου</w></p>
 </div>
 </body>
       <back>

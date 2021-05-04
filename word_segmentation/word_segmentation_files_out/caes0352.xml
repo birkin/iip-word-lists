@@ -120,7 +120,7 @@
                <gap reason="illegible" quantity="3" unit="character"/>
             </p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="caes0352-1" xml:lang="la">Caesa<unclear>r</unclear></w> <w xml:id="caes0352-2" xml:lang="la"/></p>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="caes0352-1" xml:lang="la">Caesa<unclear>r</unclear></w> </p>
 </div>
 </body>
       <back>

@@ -124,7 +124,7 @@
                <rs type="formula" ana="interpretations.xml#courage">Be of good courage</rs>, <persName xml:lang="grc " ref="persons.xml#beth0059p01">Simon </persName>; <rs type="formula" ana="interpretations.xml#immortal">no one is immortal </rs>
             </p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="beth0059-1" xml:lang="grc">Θάσσι</w> <w xml:id="beth0059-2" xml:lang="grc">Σίμων</w> <w xml:id="beth0059-3" xml:lang="grc">οὐδὶς</w> <w xml:id="beth0059-4" xml:lang="grc">ὀθάνατος</w> <w xml:id="beth0059-5" xml:lang="grc"/></p>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="beth0059-1" xml:lang="grc">Θάσσι</w> <w xml:id="beth0059-2" xml:lang="grc">Σίμων</w> <w xml:id="beth0059-3" xml:lang="grc">οὐδὶς</w> <w xml:id="beth0059-4" xml:lang="grc">ὀθάνατος</w> </p>
 </div>
 </body>
       <back>

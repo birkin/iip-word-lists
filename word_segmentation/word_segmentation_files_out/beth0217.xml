@@ -123,7 +123,7 @@
                ος Π<gap reason="lost" extent="unknown" unit="character"/>
             </p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="beth0217-1" xml:lang="grc"/> <w xml:id="beth0217-2" xml:lang="grc"><supplied reason="lost" cert="low">Ἐνθάδε</supplied></w> <w xml:id="beth0217-3" xml:lang="grc">κεῖτ<supplied reason="lost">αι</supplied></w> <w xml:id="beth0217-4" xml:lang="grc">ος</w> <w xml:id="beth0217-5" xml:lang="grc">Π</w> <w xml:id="beth0217-6" xml:lang="grc"/></p>
+      <div type="edition" subtype="transcription_segmented"><p> <w xml:id="beth0217-1" xml:lang="grc"><supplied reason="lost" cert="low">Ἐνθάδε</supplied></w> <w xml:id="beth0217-2" xml:lang="grc">κεῖτ<supplied reason="lost">αι</supplied></w> <w xml:id="beth0217-3" xml:lang="grc">ος</w> <w xml:id="beth0217-4" xml:lang="grc">Π</w> </p>
 </div>
 </body>
       <back>

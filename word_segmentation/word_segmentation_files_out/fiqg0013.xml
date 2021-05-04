@@ -135,7 +135,7 @@
          <div type="translation" ana="#b1" xml:id="fiqg0013.translation" corresp="#fiqg0013.transcription #fiqg0013.diplomatic">
             <p>A...?, son (or daughter) of Verus. Seventy years old.</p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="fiqg0013-1" xml:lang="grc"/> <w xml:id="fiqg0013-2" xml:lang="grc"><orig>Α</orig></w> <w xml:id="fiqg0013-3" xml:lang="grc">Οὐήρ<unclear>ο</unclear></w> <w xml:id="fiqg0013-4" xml:lang="grc"><supplied reason="undefined">υ</supplied></w> <w xml:id="fiqg0013-5" xml:lang="grc"><expan><abbr>ἐτ</abbr><ex>ῶν</ex></expan></w> <w xml:id="fiqg0013-6" xml:lang="grc"><num value="70">ο</num></w> <w xml:id="fiqg0013-7" xml:lang="grc"/></p>
+      <div type="edition" subtype="transcription_segmented"><p> <w xml:id="fiqg0013-1" xml:lang="grc"><orig>Α</orig></w> <w xml:id="fiqg0013-2" xml:lang="grc">Οὐήρ<unclear>ο</unclear></w> <w xml:id="fiqg0013-3" xml:lang="grc"><supplied reason="undefined">υ</supplied></w> <w xml:id="fiqg0013-4" xml:lang="grc"><expan><abbr>ἐτ</abbr><ex>ῶν</ex></expan></w> <w xml:id="fiqg0013-5" xml:lang="grc"><num value="70">ο</num></w> </p>
 </div>
 </body>
       <back>

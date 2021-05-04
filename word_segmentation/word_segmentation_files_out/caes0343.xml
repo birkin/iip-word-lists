@@ -128,7 +128,7 @@
                <gap reason="lost" extent="unknown" unit="character"/>
                <gap reason="illegible" quantity="1" unit="character"/><orig>ου</orig></p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="caes0343-1" xml:lang="grc"/> <w xml:id="caes0343-2" xml:lang="grc"><orig>ου</orig></w></p>
+      <div type="edition" subtype="transcription_segmented"><p> <w xml:id="caes0343-1" xml:lang="grc"><orig>ου</orig></w></p>
 </div>
 </body>
       <back>

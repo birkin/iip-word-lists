@@ -130,7 +130,7 @@
          <div type="translation" ana="#b1" xml:id="edda0001.translation" corresp="#edda0001.diplomatic #edda0001.transcription">
             <p>Lord, do not forsake us!</p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="edda0001-1" xml:lang="grc"/> <w xml:id="edda0001-2" xml:lang="grc"><supplied reason="undefined">+</supplied></w> <w xml:id="edda0001-3" xml:lang="grc"><supplied reason="undefined"><expan><abbr>Κ</abbr><ex>ύρι</ex></expan></supplied><unclear>ε</unclear></w> <w xml:id="edda0001-4" xml:lang="grc">μὴ</w> <w xml:id="edda0001-5" xml:lang="grc">παρίδῃς</w> <w xml:id="edda0001-6" xml:lang="grc">ἡμᾶς</w> <w xml:id="edda0001-7" xml:lang="grc">+</w> <w xml:id="edda0001-8" xml:lang="grc"/></p>
+      <div type="edition" subtype="transcription_segmented"><p> <w xml:id="edda0001-1" xml:lang="grc"><supplied reason="undefined">+</supplied></w> <w xml:id="edda0001-2" xml:lang="grc"><supplied reason="undefined"><expan><abbr>Κ</abbr><ex>ύρι</ex></expan></supplied><unclear>ε</unclear></w> <w xml:id="edda0001-3" xml:lang="grc">μὴ</w> <w xml:id="edda0001-4" xml:lang="grc">παρίδῃς</w> <w xml:id="edda0001-5" xml:lang="grc">ἡμᾶς</w> <w xml:id="edda0001-6" xml:lang="grc">+</w> </p>
 </div>
 </body>
       <back>

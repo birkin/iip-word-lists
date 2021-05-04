@@ -116,7 +116,7 @@
             <p>
                <gap reason="illegible" quantity="3" unit="character"/> τῶν τέκνων</p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="caes0147-1" xml:lang="grc"/> <w xml:id="caes0147-2" xml:lang="grc">τῶν</w> <w xml:id="caes0147-3" xml:lang="grc">τέκνων</w></p>
+      <div type="edition" subtype="transcription_segmented"><p> <w xml:id="caes0147-1" xml:lang="grc">τῶν</w> <w xml:id="caes0147-2" xml:lang="grc">τέκνων</w></p>
 </div>
 </body>
       <back>

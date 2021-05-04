@@ -178,6 +178,7 @@ for strTextFullPath in vTextFullPaths:
 		# Add a start and end <w>
 		strXMLText = re.sub(r'<p([^>]*)>', '<p\\1><w>', strXMLText)
 		strXMLText = re.sub(r"</p>", "</w></p>", strXMLText)
+		strXMLText = re.sub(r"<w></w>", "", strXMLText)
 
 		# Convert the bullets back to spaces
 		strXMLText = strXMLText.replace("•", " ")
@@ -268,7 +269,7 @@ for strSegmentedTextFullPath in vSegmentedTexts:
 		print(strSegmentedTextFullPath)
 		print('#' * 20)
 		continue
-		
+
 	wordElems = xmlText.findall(".//tei:div[@type='edition'][@subtype='transcription_segmented']/tei:p/tei:w", namespaces=nsmap)
 	WORD_COUNT += len(wordElems)
 

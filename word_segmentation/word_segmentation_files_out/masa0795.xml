@@ -193,7 +193,7 @@
             </div>
             <!-- The bibl has more contained elements. What is the possible list of values of the biblScope/@type? 
              -->
-        <div type="edition" subtype="transcription_segmented"><p><w xml:id="masa0795-1" xml:lang="grc"/> <w xml:id="masa0795-2" xml:lang="grc"><unclear>Τ</unclear></w> <w xml:id="masa0795-3" xml:lang="grc"><expan><abbr>Καίσ</abbr><ex>αρος</ex></expan></w> <w xml:id="masa0795-4" xml:lang="grc"><num value="7">Ζ</num></w> <w xml:id="masa0795-5" xml:lang="grc"><expan><abbr>Ἀγρίπ</abbr><ex>πα</ex></expan></w> <w xml:id="masa0795-6" xml:lang="grc"><num value="3">Γ</num></w> <w xml:id="masa0795-7" xml:lang="grc"><foreign xml:lang="lat"><expan><abbr>Cae</abbr><ex>sare</ex></expan></foreign></w> <w xml:id="masa0795-8" xml:lang="grc"><num value="7" xml:lang="lat">VII</num></w> <w xml:id="masa0795-9" xml:lang="grc"/></p>
+        <div type="edition" subtype="transcription_segmented"><p> <w xml:id="masa0795-1" xml:lang="grc"><unclear>Τ</unclear></w> <w xml:id="masa0795-2" xml:lang="grc"><expan><abbr>Καίσ</abbr><ex>αρος</ex></expan></w> <w xml:id="masa0795-3" xml:lang="grc"><num value="7">Ζ</num></w> <w xml:id="masa0795-4" xml:lang="grc"><expan><abbr>Ἀγρίπ</abbr><ex>πα</ex></expan></w> <w xml:id="masa0795-5" xml:lang="grc"><num value="3">Γ</num></w> <w xml:id="masa0795-6" xml:lang="grc"><foreign xml:lang="lat"><expan><abbr>Cae</abbr><ex>sare</ex></expan></foreign></w> <w xml:id="masa0795-7" xml:lang="grc"><num value="7" xml:lang="lat">VII</num></w> </p>
 </div>
 </body>
         <back>

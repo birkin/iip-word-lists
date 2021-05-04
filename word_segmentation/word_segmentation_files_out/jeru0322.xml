@@ -136,7 +136,7 @@
                 <p>The fact that this stone weight was found with several similar others suggests it
                     dates to the fifth year of Agrippa I's reign.</p>
             </div>
-        <div type="edition" subtype="transcription_segmented"><p><w xml:id="jeru0322-1" xml:lang="grc"/> <w xml:id="jeru0322-2" xml:lang="grc"><expan><abbr><am>L</am></abbr><ex>ἔτους</ex></expan></w> <w xml:id="jeru0322-3" xml:lang="grc"><num value="5">ε</num></w> <w xml:id="jeru0322-4" xml:lang="grc"/></p>
+        <div type="edition" subtype="transcription_segmented"><p> <w xml:id="jeru0322-1" xml:lang="grc"><expan><abbr><am>L</am></abbr><ex>ἔτους</ex></expan></w> <w xml:id="jeru0322-2" xml:lang="grc"><num value="5">ε</num></w> </p>
 </div>
 </body>
         <back>

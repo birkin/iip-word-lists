@@ -178,7 +178,7 @@
             <!-- The bibl has more contained elements. What is the possible list of values of the biblScope/@type? 
              -->
             
-        <div type="edition" subtype="transcription_segmented"><p><w xml:id="bshe0013-1" xml:lang="grc">Χιροθε</w> <w xml:id="bshe0013-2" xml:lang="grc">σία</w> <w xml:id="bshe0013-3" xml:lang="grc">Μαρια</w> <w xml:id="bshe0013-4" xml:lang="grc">νοῦ</w> <w xml:id="bshe0013-5" xml:lang="grc">καὶ</w> <w xml:id="bshe0013-6" xml:lang="grc">το</w> <w xml:id="bshe0013-7" xml:lang="grc">υτοῦ</w> <w xml:id="bshe0013-8" xml:lang="grc">αὐτο</w> <w xml:id="bshe0013-9" xml:lang="grc">ῦ</w> <w xml:id="bshe0013-10" xml:lang="grc">Ἀνίνα</w> <w xml:id="bshe0013-11" xml:lang="grc"/></p>
+        <div type="edition" subtype="transcription_segmented"><p><w xml:id="bshe0013-1" xml:lang="grc">Χιροθε</w> <w xml:id="bshe0013-2" xml:lang="grc">σία</w> <w xml:id="bshe0013-3" xml:lang="grc">Μαρια</w> <w xml:id="bshe0013-4" xml:lang="grc">νοῦ</w> <w xml:id="bshe0013-5" xml:lang="grc">καὶ</w> <w xml:id="bshe0013-6" xml:lang="grc">το</w> <w xml:id="bshe0013-7" xml:lang="grc">υτοῦ</w> <w xml:id="bshe0013-8" xml:lang="grc">αὐτο</w> <w xml:id="bshe0013-9" xml:lang="grc">ῦ</w> <w xml:id="bshe0013-10" xml:lang="grc">Ἀνίνα</w> </p>
 </div>
 </body>
         <back>

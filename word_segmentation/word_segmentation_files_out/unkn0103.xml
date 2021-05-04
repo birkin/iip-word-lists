@@ -184,7 +184,7 @@
             </div>
             <!-- The bibl has more contained elements. What is the possible list of values of the biblScope/@type? 
              -->
-        <div type="edition" subtype="transcription_segmented"><p><w xml:id="unkn0103-1" xml:lang="he"/> <w xml:id="unkn0103-2" xml:lang="he">ברוך</w> <w xml:id="unkn0103-3" xml:lang="he">אלהנו</w> <w xml:id="unkn0103-4" xml:lang="he"><supplied reason="lost">ל</supplied>עולם</w> <w xml:id="unkn0103-5" xml:lang="he">ברו<supplied reason="lost">ך</supplied></w> <w xml:id="unkn0103-6" xml:lang="he"><supplied reason="lost">ש</supplied>מו</w> <w xml:id="unkn0103-7" xml:lang="he">ל<supplied reason="lost">עולם</supplied></w> <w xml:id="unkn0103-8" xml:lang="he"/></p>
+        <div type="edition" subtype="transcription_segmented"><p> <w xml:id="unkn0103-1" xml:lang="he">ברוך</w> <w xml:id="unkn0103-2" xml:lang="he">אלהנו</w> <w xml:id="unkn0103-3" xml:lang="he"><supplied reason="lost">ל</supplied>עולם</w> <w xml:id="unkn0103-4" xml:lang="he">ברו<supplied reason="lost">ך</supplied></w> <w xml:id="unkn0103-5" xml:lang="he"><supplied reason="lost">ש</supplied>מו</w> <w xml:id="unkn0103-6" xml:lang="he">ל<supplied reason="lost">עולם</supplied></w> </p>
 </div>
 </body>
         <back>

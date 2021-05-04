@@ -196,7 +196,7 @@
             </div>
             <!-- The bibl has more contained elements. What is the possible list of values of the biblScope/@type? 
              -->
-        <div type="edition" subtype="transcription_segmented"><p><w xml:id="tqas0003-1" xml:lang="arc"/> <w xml:id="tqas0003-2" xml:lang="arc"><expan><abbr>מכסימ</abbr><ex>ונה</ex></expan></w> <w xml:id="tqas0003-3" xml:lang="arc"><expan><ex>י</ex><abbr>ת</abbr><ex>ד</ex><abbr>כיר</abbr></expan></w> <w xml:id="tqas0003-4" xml:lang="arc"><expan><abbr>דקר</abbr><ex>ב</ex></expan></w> <w xml:id="tqas0003-5" xml:lang="arc"><expan><abbr>פר</abbr><ex>ו</ex><abbr>קסנה</abbr></expan></w> <w xml:id="tqas0003-6" xml:lang="arc"><expan><ex>י</ex><abbr>ת</abbr><ex>ד</ex><abbr>כיר</abbr></expan></w> <w xml:id="tqas0003-7" xml:lang="arc"><expan><abbr>דקר</abbr><ex>ב</ex></expan></w> <w xml:id="tqas0003-8" xml:lang="arc"/></p>
+        <div type="edition" subtype="transcription_segmented"><p> <w xml:id="tqas0003-1" xml:lang="arc"><expan><abbr>מכסימ</abbr><ex>ונה</ex></expan></w> <w xml:id="tqas0003-2" xml:lang="arc"><expan><ex>י</ex><abbr>ת</abbr><ex>ד</ex><abbr>כיר</abbr></expan></w> <w xml:id="tqas0003-3" xml:lang="arc"><expan><abbr>דקר</abbr><ex>ב</ex></expan></w> <w xml:id="tqas0003-4" xml:lang="arc"><expan><abbr>פר</abbr><ex>ו</ex><abbr>קסנה</abbr></expan></w> <w xml:id="tqas0003-5" xml:lang="arc"><expan><ex>י</ex><abbr>ת</abbr><ex>ד</ex><abbr>כיר</abbr></expan></w> <w xml:id="tqas0003-6" xml:lang="arc"><expan><abbr>דקר</abbr><ex>ב</ex></expan></w> </p>
 </div>
 </body>
         <back>

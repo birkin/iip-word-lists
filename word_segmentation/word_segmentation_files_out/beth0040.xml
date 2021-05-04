@@ -119,7 +119,7 @@
                <rs type="formula" ana="interpretations.xml#lies">lies here</rs>, <rs type="formula" ana="interpretations.xml#courage">have courage </rs>
             </p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="beth0040-1" xml:lang="grc">Δουσῆ</w> <w xml:id="beth0040-2" xml:lang="grc">ὧδε</w> <w xml:id="beth0040-3" xml:lang="grc">κῖτε</w> <w xml:id="beth0040-4" xml:lang="grc">θάρσι</w> <w xml:id="beth0040-5" xml:lang="grc"/></p>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="beth0040-1" xml:lang="grc">Δουσῆ</w> <w xml:id="beth0040-2" xml:lang="grc">ὧδε</w> <w xml:id="beth0040-3" xml:lang="grc">κῖτε</w> <w xml:id="beth0040-4" xml:lang="grc">θάρσι</w> </p>
 </div>
 </body>
       <back>

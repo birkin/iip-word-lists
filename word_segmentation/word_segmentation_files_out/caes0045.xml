@@ -133,7 +133,7 @@
                   <persName xml:lang="la " ref="persons.xml#caes0045p03" nymRef="names.xml#caes0045n03">Augustus </persName>
                </name>.</p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="caes0045-1" xml:lang="la"/> <w xml:id="caes0045-2" xml:lang="la"><expan><abbr>Imp</abbr><ex>eratore</ex></expan></w> <w xml:id="caes0045-3" xml:lang="la">Traiano</w> <w xml:id="caes0045-4" xml:lang="la">Hadriano</w> <w xml:id="caes0045-5" xml:lang="la"><expan><abbr><hi rend="ligature">Au</hi>g</abbr><ex>usto</ex></expan></w> <w xml:id="caes0045-6" xml:lang="la">vexillatio</w> <w xml:id="caes0045-7" xml:lang="la"><expan><abbr>leg</abbr><ex>ionis</ex></expan></w> <w xml:id="caes0045-8" xml:lang="la"><num>X</num></w> <w xml:id="caes0045-9" xml:lang="la"><expan><abbr>Fr<hi rend="ligature">et</hi></abbr><ex>ensis</ex></expan>.</w> <w xml:id="caes0045-10" xml:lang="la"/></p>
+      <div type="edition" subtype="transcription_segmented"><p> <w xml:id="caes0045-1" xml:lang="la"><expan><abbr>Imp</abbr><ex>eratore</ex></expan></w> <w xml:id="caes0045-2" xml:lang="la">Traiano</w> <w xml:id="caes0045-3" xml:lang="la">Hadriano</w> <w xml:id="caes0045-4" xml:lang="la"><expan><abbr><hi rend="ligature">Au</hi>g</abbr><ex>usto</ex></expan></w> <w xml:id="caes0045-5" xml:lang="la">vexillatio</w> <w xml:id="caes0045-6" xml:lang="la"><expan><abbr>leg</abbr><ex>ionis</ex></expan></w> <w xml:id="caes0045-7" xml:lang="la"><num>X</num></w> <w xml:id="caes0045-8" xml:lang="la"><expan><abbr>Fr<hi rend="ligature">et</hi></abbr><ex>ensis</ex></expan>.</w> </p>
 </div>
 </body>
       <back>

@@ -139,7 +139,7 @@
          <div type="translation" ana="#b1" xml:id="farj0003.translation" corresp="#farj0003.diplomatic #farj0003.transcription">
             <p>John, son of Anatolius, giving thanks, made...</p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="farj0003-1" xml:lang="grc"/> <w xml:id="farj0003-2" xml:lang="grc"><supplied reason="undefined">Ἰω</supplied>άννη<supplied reason="undefined"><unclear>ς</unclear></supplied></w> <w xml:id="farj0003-3" xml:lang="grc"><supplied reason="undefined">Ἀνα</supplied>τόλι<supplied reason="undefined">ο</supplied>υ</w> <w xml:id="farj0003-4" xml:lang="grc">εὐχαρ<supplied reason="undefined">ι</supplied>στῶν</w> <w xml:id="farj0003-5" xml:lang="grc">ἐπ<supplied reason="undefined">οί</supplied>ησ<supplied reason="undefined">εν</supplied></w> <w xml:id="farj0003-6" xml:lang="grc"/></p>
+      <div type="edition" subtype="transcription_segmented"><p> <w xml:id="farj0003-1" xml:lang="grc"><supplied reason="undefined">Ἰω</supplied>άννη<supplied reason="undefined"><unclear>ς</unclear></supplied></w> <w xml:id="farj0003-2" xml:lang="grc"><supplied reason="undefined">Ἀνα</supplied>τόλι<supplied reason="undefined">ο</supplied>υ</w> <w xml:id="farj0003-3" xml:lang="grc">εὐχαρ<supplied reason="undefined">ι</supplied>στῶν</w> <w xml:id="farj0003-4" xml:lang="grc">ἐπ<supplied reason="undefined">οί</supplied>ησ<supplied reason="undefined">εν</supplied></w> </p>
 </div>
 </body>
       <back>

@@ -125,7 +125,7 @@
                <gap reason="lost" extent="unknown" unit="character"/><orig>ς</orig> καὶ <gap reason="lost" extent="unknown" unit="character"/>
             </p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="caes0382-1" xml:lang="grc"/> <w xml:id="caes0382-2" xml:lang="grc"><orig>ΟΜΝΙΝ</orig></w> <w xml:id="caes0382-3" xml:lang="grc"><orig>ς</orig></w> <w xml:id="caes0382-4" xml:lang="grc">καὶ</w> <w xml:id="caes0382-5" xml:lang="grc"/></p>
+      <div type="edition" subtype="transcription_segmented"><p> <w xml:id="caes0382-1" xml:lang="grc"><orig>ΟΜΝΙΝ</orig></w> <w xml:id="caes0382-2" xml:lang="grc"><orig>ς</orig></w> <w xml:id="caes0382-3" xml:lang="grc">καὶ</w> </p>
 </div>
 </body>
       <back>

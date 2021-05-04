@@ -125,7 +125,7 @@
          <div type="translation" ana="#b1" xml:id="elus0039.translation" corresp="#elus0039.transcription">
             <p>...(No one is) immortal. Year 321</p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="elus0039-1" xml:lang="grc"/> <w xml:id="elus0039-2" xml:lang="grc"><orig>Σ</orig></w> <w xml:id="elus0039-3" xml:lang="grc"><expan><abbr><supplied reason="undefined">ἀ</supplied>θά</abbr><ex>να</ex><abbr>τος</abbr></expan>.</w> <w xml:id="elus0039-4" xml:lang="grc"><unclear>ἔ</unclear>τους</w> <w xml:id="elus0039-5" xml:lang="grc"><num value="321">τκα</num></w> <w xml:id="elus0039-6" xml:lang="grc"/></p>
+      <div type="edition" subtype="transcription_segmented"><p> <w xml:id="elus0039-1" xml:lang="grc"><orig>Σ</orig></w> <w xml:id="elus0039-2" xml:lang="grc"><expan><abbr><supplied reason="undefined">ἀ</supplied>θά</abbr><ex>να</ex><abbr>τος</abbr></expan>.</w> <w xml:id="elus0039-3" xml:lang="grc"><unclear>ἔ</unclear>τους</w> <w xml:id="elus0039-4" xml:lang="grc"><num value="321">τκα</num></w> </p>
 </div>
 </body>
       <back>

@@ -124,7 +124,7 @@
                <persName xml:lang="grc " ref="persons.xml#beth0106p01">Agroecios</persName>' <rs type="object" ana="interpretations.xml#monument">tomb </rs>
             </p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="beth0106-1" xml:lang="grc">Μνημῖον</w> <w xml:id="beth0106-2" xml:lang="grc">Ἀγροικίου</w> <w xml:id="beth0106-3" xml:lang="grc"><g type="hedera"/></w> <w xml:id="beth0106-4" xml:lang="grc"/></p>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="beth0106-1" xml:lang="grc">Μνημῖον</w> <w xml:id="beth0106-2" xml:lang="grc">Ἀγροικίου</w> <w xml:id="beth0106-3" xml:lang="grc"><g type="hedera"/></w> </p>
 </div>
 </body>
       <back>

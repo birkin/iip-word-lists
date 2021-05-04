@@ -183,7 +183,7 @@
             </div>
             <!-- The bibl has more contained elements. What is the possible list of values of the biblScope/@type? 
              -->
-        <div type="edition" subtype="transcription_segmented"><p><w xml:id="mger0277-1" xml:lang="arc"/> <w xml:id="mger0277-2" xml:lang="arc"><choice><unclear>ו</unclear><unclear>ז</unclear></choice>נו</w> <w xml:id="mger0277-3" xml:lang="arc"/></p>
+        <div type="edition" subtype="transcription_segmented"><p> <w xml:id="mger0277-1" xml:lang="arc"><choice><unclear>ו</unclear><unclear>ז</unclear></choice>נו</w> </p>
 </div>
 </body>
         <back>

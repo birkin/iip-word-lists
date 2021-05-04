@@ -131,7 +131,7 @@
             <p>May the good luck of the porters prevail: also for you,
 			 <persName xml:lang="grc " ref="persons.xml#caes0041p01">Anakios </persName>!</p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="caes0041-1" xml:lang="grc"/> <w xml:id="caes0041-2" xml:lang="grc"><g type="cross">+</g></w> <w xml:id="caes0041-3" xml:lang="grc"><g type="cross">+</g></w> <w xml:id="caes0041-4" xml:lang="grc">νικᾷ</w> <w xml:id="caes0041-5" xml:lang="grc">ἡ</w> <w xml:id="caes0041-6" xml:lang="grc">τύχη</w> <w xml:id="caes0041-7" xml:lang="grc">τῶ<supplied reason="undefined">ν</supplied></w> <w xml:id="caes0041-8" xml:lang="grc">ὠμοφόρω<supplied reason="undefined">ν</supplied></w> <w xml:id="caes0041-9" xml:lang="grc">κὲ</w> <w xml:id="caes0041-10" xml:lang="grc">σὶ</w> <w xml:id="caes0041-11" xml:lang="grc">Ἀνακίῳ.</w> <w xml:id="caes0041-12" xml:lang="grc"/></p>
+      <div type="edition" subtype="transcription_segmented"><p> <w xml:id="caes0041-1" xml:lang="grc"><g type="cross">+</g></w> <w xml:id="caes0041-2" xml:lang="grc"><g type="cross">+</g></w> <w xml:id="caes0041-3" xml:lang="grc">νικᾷ</w> <w xml:id="caes0041-4" xml:lang="grc">ἡ</w> <w xml:id="caes0041-5" xml:lang="grc">τύχη</w> <w xml:id="caes0041-6" xml:lang="grc">τῶ<supplied reason="undefined">ν</supplied></w> <w xml:id="caes0041-7" xml:lang="grc">ὠμοφόρω<supplied reason="undefined">ν</supplied></w> <w xml:id="caes0041-8" xml:lang="grc">κὲ</w> <w xml:id="caes0041-9" xml:lang="grc">σὶ</w> <w xml:id="caes0041-10" xml:lang="grc">Ἀνακίῳ.</w> </p>
 </div>
 </body>
       <back>

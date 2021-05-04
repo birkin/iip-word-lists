@@ -123,7 +123,7 @@
             <p>The <rs type="object" ana="interpretations.xml#tomb">tomb </rs> of <persName xml:lang="grc " ref="persons.xml#beth0154p01">Jason </persName>
             </p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="beth0154-1" xml:lang="grc">Τόπος</w> <w xml:id="beth0154-2" xml:lang="grc">Εἰάσονος</w> <w xml:id="beth0154-3" xml:lang="grc"/></p>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="beth0154-1" xml:lang="grc">Τόπος</w> <w xml:id="beth0154-2" xml:lang="grc">Εἰάσονος</w> </p>
 </div>
 </body>
       <back>

@@ -128,7 +128,7 @@
          <div type="translation" ana="#b1" xml:id="zoor0361.translation" corresp="#zoor0361.transcription">
             <p>Abraam (or: Abraamios ?)</p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="fein0005-1" xml:lang="grc"/> <w xml:id="fein0005-2" xml:lang="grc"><expan><abbr>Ἀβρ</abbr><ex cert="low">αάμ</ex></expan></w> <w xml:id="fein0005-3" xml:lang="grc"/></p>
+      <div type="edition" subtype="transcription_segmented"><p> <w xml:id="fein0005-1" xml:lang="grc"><expan><abbr>Ἀβρ</abbr><ex cert="low">αάμ</ex></expan></w> </p>
 </div>
 </body>
       <back>

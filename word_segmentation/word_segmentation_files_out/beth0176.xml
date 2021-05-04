@@ -124,7 +124,7 @@
                     <persName xml:lang="hbo " ref="persons.xml#beth0176p01">Anianos </persName> the <rs type="epithet" ana="interpretations.xml#little">little </rs>
                 </p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="beth0176-1" xml:lang="grc">Ῥαββὶ</w> <w xml:id="beth0176-2" xml:lang="grc">Ἀνιανοῦ</w> <w xml:id="beth0176-3" xml:lang="grc">τοῦ</w> <w xml:id="beth0176-4" xml:lang="grc">νάνου</w> <w xml:id="beth0176-5" xml:lang="grc"/></p>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="beth0176-1" xml:lang="grc">Ῥαββὶ</w> <w xml:id="beth0176-2" xml:lang="grc">Ἀνιανοῦ</w> <w xml:id="beth0176-3" xml:lang="grc">τοῦ</w> <w xml:id="beth0176-4" xml:lang="grc">νάνου</w> </p>
 </div>
 </body>
       <back>

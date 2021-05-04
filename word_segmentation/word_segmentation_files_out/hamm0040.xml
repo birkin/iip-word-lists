@@ -134,7 +134,7 @@
          <div type="translation" ana="#b1" xml:id="hamm0040.translation" corresp="#hamm0040.diplomatic #hamm0040.transcription">
             <p>May the friends <persName xml:lang="grc " ref="persons.xml#hamm0040p01">Paul </persName> and <persName xml:lang="la " ref="persons.xml#hamm0040p02">Matronianus </persName> be remembered.</p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="hamm0040-1" xml:lang="grc"/> <w xml:id="hamm0040-2" xml:lang="grc">Μνήσθωσι</w> <w xml:id="hamm0040-3" xml:lang="grc">οἱ</w> <w xml:id="hamm0040-4" xml:lang="grc">φίλοι</w> <w xml:id="hamm0040-5" xml:lang="grc">Παῦλος</w> <w xml:id="hamm0040-6" xml:lang="grc">καὶ</w> <w xml:id="hamm0040-7" xml:lang="grc">Ματρωνιανός.</w> <w xml:id="hamm0040-8" xml:lang="grc"/></p>
+      <div type="edition" subtype="transcription_segmented"><p> <w xml:id="hamm0040-1" xml:lang="grc">Μνήσθωσι</w> <w xml:id="hamm0040-2" xml:lang="grc">οἱ</w> <w xml:id="hamm0040-3" xml:lang="grc">φίλοι</w> <w xml:id="hamm0040-4" xml:lang="grc">Παῦλος</w> <w xml:id="hamm0040-5" xml:lang="grc">καὶ</w> <w xml:id="hamm0040-6" xml:lang="grc">Ματρωνιανός.</w> </p>
 </div>
 </body>
       <back>

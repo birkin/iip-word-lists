@@ -182,7 +182,7 @@
             </div>
             <!-- The bibl has more contained elements. What is the possible list of values of the biblScope/@type? 
              -->
-        <div type="edition" subtype="transcription_segmented"><p><w xml:id="bshe0112-1" xml:lang="grc"/> <w xml:id="bshe0112-2" xml:lang="grc">Ἐφ’</w> <w xml:id="bshe0112-3" xml:lang="grc"><expan><abbr>ἱερέω</abbr><ex>σ</ex></expan></w> <w xml:id="bshe0112-4" xml:lang="grc">Ἱ<supplied reason="omitted">έ</supplied>ρων<unclear>ο</unclear>ς</w> <w xml:id="bshe0112-5" xml:lang="grc"><expan><abbr>Ἀγρια<supplied reason="omitted">ν</supplied>ί</abbr><ex>ου</ex></expan></w> <w xml:id="bshe0112-6" xml:lang="grc"/></p>
+        <div type="edition" subtype="transcription_segmented"><p> <w xml:id="bshe0112-1" xml:lang="grc">Ἐφ’</w> <w xml:id="bshe0112-2" xml:lang="grc"><expan><abbr>ἱερέω</abbr><ex>σ</ex></expan></w> <w xml:id="bshe0112-3" xml:lang="grc">Ἱ<supplied reason="omitted">έ</supplied>ρων<unclear>ο</unclear>ς</w> <w xml:id="bshe0112-4" xml:lang="grc"><expan><abbr>Ἀγρια<supplied reason="omitted">ν</supplied>ί</abbr><ex>ου</ex></expan></w> </p>
 </div>
 </body>
         <back>

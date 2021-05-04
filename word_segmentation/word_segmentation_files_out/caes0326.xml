@@ -120,7 +120,7 @@
                <gap reason="illegible" quantity="2" unit="character"/>
             </p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="caes0326-1" xml:lang="grc"/> <w xml:id="caes0326-2" xml:lang="grc"><unclear>υἱ</unclear><hi rend="ligature"><unclear>οῦ</unclear></hi></w> <w xml:id="caes0326-3" xml:lang="grc">νιόν<hi rend="ligature">ου</hi></w> <w xml:id="caes0326-4" xml:lang="grc"/></p>
+      <div type="edition" subtype="transcription_segmented"><p> <w xml:id="caes0326-1" xml:lang="grc"><unclear>υἱ</unclear><hi rend="ligature"><unclear>οῦ</unclear></hi></w> <w xml:id="caes0326-2" xml:lang="grc">νιόν<hi rend="ligature">ου</hi></w> </p>
 </div>
 </body>
       <back>

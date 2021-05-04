@@ -138,7 +138,7 @@
                   <persName ref="persons.xml#caes0170p02">Leontios </persName>
                </name>....</p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="caes0170-1" xml:lang="grc"/> <w xml:id="caes0170-2" xml:lang="grc"><supplied reason="lost">θήκη</supplied></w> <w xml:id="caes0170-3" xml:lang="grc">Ἰωσ<unclear>ή</unclear><supplied reason="undefined">φο</supplied></w> <w xml:id="caes0170-4" xml:lang="grc"><unclear>υ</unclear></w> <w xml:id="caes0170-5" xml:lang="grc">Λεον<supplied reason="undefined">τίου</supplied></w> <w xml:id="caes0170-6" xml:lang="grc"><orig>τεντ</orig></w> <w xml:id="caes0170-7" xml:lang="grc"><hi rend="ligature"><orig>ου</orig></hi></w> <w xml:id="caes0170-8" xml:lang="grc"/></p>
+      <div type="edition" subtype="transcription_segmented"><p> <w xml:id="caes0170-1" xml:lang="grc"><supplied reason="lost">θήκη</supplied></w> <w xml:id="caes0170-2" xml:lang="grc">Ἰωσ<unclear>ή</unclear><supplied reason="undefined">φο</supplied></w> <w xml:id="caes0170-3" xml:lang="grc"><unclear>υ</unclear></w> <w xml:id="caes0170-4" xml:lang="grc">Λεον<supplied reason="undefined">τίου</supplied></w> <w xml:id="caes0170-5" xml:lang="grc"><orig>τεντ</orig></w> <w xml:id="caes0170-6" xml:lang="grc"><hi rend="ligature"><orig>ου</orig></hi></w> </p>
 </div>
 </body>
       <back>

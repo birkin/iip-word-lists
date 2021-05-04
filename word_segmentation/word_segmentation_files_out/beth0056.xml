@@ -122,7 +122,7 @@
                <rs type="formula" ana="interpretations.xml#lot">May your lot be good</rs>, <persName xml:lang="grc " ref="persons.xml#beth0056p01">Herode </persName>
             </p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="beth0056-1" xml:lang="grc">Εὐμύρι</w> <w xml:id="beth0056-2" xml:lang="grc">Ἡρώδη</w> <w xml:id="beth0056-3" xml:lang="grc"/></p>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="beth0056-1" xml:lang="grc">Εὐμύρι</w> <w xml:id="beth0056-2" xml:lang="grc">Ἡρώδη</w> </p>
 </div>
 </body>
       <back>

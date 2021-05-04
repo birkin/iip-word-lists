@@ -119,7 +119,7 @@
             <p>For the memory of <persName xml:lang="grc " ref="persons.xml#caes0155p01">Anianos</persName>.  (This is his) eternal home.
 		  </p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="caes0155-1" xml:lang="grc"/> <w xml:id="caes0155-2" xml:lang="grc"><g type="cross">+</g></w> <w xml:id="caes0155-3" xml:lang="grc"><orig>Ν</orig></w> <w xml:id="caes0155-4" xml:lang="grc">μνίμιν</w> <w xml:id="caes0155-5" xml:lang="grc">Ἀνιανοῦ</w> <w xml:id="caes0155-6" xml:lang="grc">οἶκος</w> <w xml:id="caes0155-7" xml:lang="grc">αἰώνιος.</w> <w xml:id="caes0155-8" xml:lang="grc"/></p>
+      <div type="edition" subtype="transcription_segmented"><p> <w xml:id="caes0155-1" xml:lang="grc"><g type="cross">+</g></w> <w xml:id="caes0155-2" xml:lang="grc"><orig>Ν</orig></w> <w xml:id="caes0155-3" xml:lang="grc">μνίμιν</w> <w xml:id="caes0155-4" xml:lang="grc">Ἀνιανοῦ</w> <w xml:id="caes0155-5" xml:lang="grc">οἶκος</w> <w xml:id="caes0155-6" xml:lang="grc">αἰώνιος.</w> </p>
 </div>
 </body>
       <back>

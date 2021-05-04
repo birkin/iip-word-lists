@@ -125,7 +125,7 @@
             <p>The tomb of  <persName xml:lang="grc " ref="persons.xml#caes0210p01">Polychronios </persName> and <persName xml:lang="la " ref="persons.xml#caes0210p02">Oursos</persName>, <rs type="family">children </rs> of <persName xml:lang="la " ref="persons.xml#caes0210p03">Severos</persName>.
 				</p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="caes0210-1" xml:lang="grc"><g type="cross">+</g></w> <w xml:id="caes0210-2" xml:lang="grc">θήκ<supplied reason="undefined">η</supplied></w> <w xml:id="caes0210-3" xml:lang="grc"><supplied reason="undefined">Πο</supplied>λυχρο<supplied reason="undefined">νίου</supplied></w> <w xml:id="caes0210-4" xml:lang="grc">κὲ</w> <w xml:id="caes0210-5" xml:lang="grc">Οὔρ<supplied reason="undefined">σο</supplied>υ</w> <w xml:id="caes0210-6" xml:lang="grc">τεκ<supplied reason="undefined">να</supplied></w> <w xml:id="caes0210-7" xml:lang="grc">Σευ<supplied reason="undefined">ήρου</supplied>.</w> <w xml:id="caes0210-8" xml:lang="grc"/></p>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="caes0210-1" xml:lang="grc"><g type="cross">+</g></w> <w xml:id="caes0210-2" xml:lang="grc">θήκ<supplied reason="undefined">η</supplied></w> <w xml:id="caes0210-3" xml:lang="grc"><supplied reason="undefined">Πο</supplied>λυχρο<supplied reason="undefined">νίου</supplied></w> <w xml:id="caes0210-4" xml:lang="grc">κὲ</w> <w xml:id="caes0210-5" xml:lang="grc">Οὔρ<supplied reason="undefined">σο</supplied>υ</w> <w xml:id="caes0210-6" xml:lang="grc">τεκ<supplied reason="undefined">να</supplied></w> <w xml:id="caes0210-7" xml:lang="grc">Σευ<supplied reason="undefined">ήρου</supplied>.</w> </p>
 </div>
 </body>
       <back>

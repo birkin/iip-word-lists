@@ -125,7 +125,7 @@
             <p>The tomb of Pr--- <persName xml:lang="grc " ref="persons.xml#caes0211p01">Kapiton </persName> and <persName xml:lang="grc " ref="persons.xml#caes0211p02">Anastasia </persName> (or <persName xml:lang="grc " ref="persons.xml#caes0211p03">Anastasios </persName>)...
 				</p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="caes0211-1" xml:lang="grc"><g type="cross">+</g></w> <w xml:id="caes0211-2" xml:lang="grc">θήκη</w> <w xml:id="caes0211-3" xml:lang="grc"><orig>Π<unclear>ρ</unclear></orig></w> <w xml:id="caes0211-4" xml:lang="grc">Καπίτ<unclear>ω</unclear><supplied reason="lost">νος</supplied></w> <w xml:id="caes0211-5" xml:lang="grc"><supplied reason="lost">καὶ</supplied></w> <w xml:id="caes0211-6" xml:lang="grc"><unclear>Ἀνασ</unclear><supplied reason="lost">τασίας</supplied></w> <w xml:id="caes0211-7" xml:lang="grc"/></p>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="caes0211-1" xml:lang="grc"><g type="cross">+</g></w> <w xml:id="caes0211-2" xml:lang="grc">θήκη</w> <w xml:id="caes0211-3" xml:lang="grc"><orig>Π<unclear>ρ</unclear></orig></w> <w xml:id="caes0211-4" xml:lang="grc">Καπίτ<unclear>ω</unclear><supplied reason="lost">νος</supplied></w> <w xml:id="caes0211-5" xml:lang="grc"><supplied reason="lost">καὶ</supplied></w> <w xml:id="caes0211-6" xml:lang="grc"><unclear>Ἀνασ</unclear><supplied reason="lost">τασίας</supplied></w> </p>
 </div>
 </body>
       <back>

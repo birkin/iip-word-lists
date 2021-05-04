@@ -123,7 +123,7 @@
          <div type="translation" ana="#b1" xml:id="zoor0267.translation" corresp="#zoor0267.transcription">
             <p>Monument of Sammasas, (son) of Samirabbos, who died (at the age) of 25 years.</p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="zoor0267-1" xml:lang="grc"/> <w xml:id="zoor0267-2" xml:lang="grc"><choice><sic>Μνημῖον</sic><corr>Μνημεῖον</corr></choice></w> <w xml:id="zoor0267-3" xml:lang="grc">Σαμμάσας</w> <w xml:id="zoor0267-4" xml:lang="grc">Σαμιράββου,</w> <w xml:id="zoor0267-5" xml:lang="grc"><choice><sic>ἀποοανόντος</sic><corr>ἀποθανόντος</corr></choice></w> <w xml:id="zoor0267-6" xml:lang="grc">ἐτῶν</w> <w xml:id="zoor0267-7" xml:lang="grc"><num>κεʹ</num>.</w> <w xml:id="zoor0267-8" xml:lang="grc"/></p>
+      <div type="edition" subtype="transcription_segmented"><p> <w xml:id="zoor0267-1" xml:lang="grc"><choice><sic>Μνημῖον</sic><corr>Μνημεῖον</corr></choice></w> <w xml:id="zoor0267-2" xml:lang="grc">Σαμμάσας</w> <w xml:id="zoor0267-3" xml:lang="grc">Σαμιράββου,</w> <w xml:id="zoor0267-4" xml:lang="grc"><choice><sic>ἀποοανόντος</sic><corr>ἀποθανόντος</corr></choice></w> <w xml:id="zoor0267-5" xml:lang="grc">ἐτῶν</w> <w xml:id="zoor0267-6" xml:lang="grc"><num>κεʹ</num>.</w> </p>
 </div>
 </body>
       <back>

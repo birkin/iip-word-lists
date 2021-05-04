@@ -126,7 +126,7 @@
                <gap reason="lost" extent="unknown" unit="character"/>
             </p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="caes0350-1" xml:lang="la"/> <w xml:id="caes0350-2" xml:lang="la"><orig>om</orig></w> <w xml:id="caes0350-3" xml:lang="la"><expan><abbr><am><g type="centurion">ɔ</g></am></abbr><ex>centurio</ex></expan></w> <w xml:id="caes0350-4" xml:lang="la"><expan><abbr>le<supplied reason="undefined">g</supplied></abbr><ex>ionis</ex></expan></w> <w xml:id="caes0350-5" xml:lang="la"/></p>
+      <div type="edition" subtype="transcription_segmented"><p> <w xml:id="caes0350-1" xml:lang="la"><orig>om</orig></w> <w xml:id="caes0350-2" xml:lang="la"><expan><abbr><am><g type="centurion">ɔ</g></am></abbr><ex>centurio</ex></expan></w> <w xml:id="caes0350-3" xml:lang="la"><expan><abbr>le<supplied reason="undefined">g</supplied></abbr><ex>ionis</ex></expan></w> </p>
 </div>
 </body>
       <back>

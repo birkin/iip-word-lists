@@ -134,7 +134,7 @@
             <p>
                <rs type="formula">In this holy place </rs> may <persName xml:lang="grc " ref="persons.xml#hamm0060p01">Procopia </persName> be remembered.</p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="hamm0060-1" xml:lang="grc"/> <w xml:id="hamm0060-2" xml:lang="grc"><supplied reason="undefined">Ἐ</supplied>ν</w> <w xml:id="hamm0060-3" xml:lang="grc">τῴ</w> <w xml:id="hamm0060-4" xml:lang="grc">ἀγίῳ</w> <w xml:id="hamm0060-5" xml:lang="grc"><expan><abbr>μ</abbr><ex>ν</ex><abbr>η</abbr><ex>σ</ex><abbr>θῇ</abbr></expan></w> <w xml:id="hamm0060-6" xml:lang="grc"><supplied reason="undefined">τ</supplied>όπῳ</w> <w xml:id="hamm0060-7" xml:lang="grc"><expan><abbr>μνη</abbr><ex>σ</ex><abbr>θῇ</abbr></expan></w> <w xml:id="hamm0060-8" xml:lang="grc"><supplied reason="undefined">Π</supplied>ροκοπία.</w> <w xml:id="hamm0060-9" xml:lang="grc"/></p>
+      <div type="edition" subtype="transcription_segmented"><p> <w xml:id="hamm0060-1" xml:lang="grc"><supplied reason="undefined">Ἐ</supplied>ν</w> <w xml:id="hamm0060-2" xml:lang="grc">τῴ</w> <w xml:id="hamm0060-3" xml:lang="grc">ἀγίῳ</w> <w xml:id="hamm0060-4" xml:lang="grc"><expan><abbr>μ</abbr><ex>ν</ex><abbr>η</abbr><ex>σ</ex><abbr>θῇ</abbr></expan></w> <w xml:id="hamm0060-5" xml:lang="grc"><supplied reason="undefined">τ</supplied>όπῳ</w> <w xml:id="hamm0060-6" xml:lang="grc"><expan><abbr>μνη</abbr><ex>σ</ex><abbr>θῇ</abbr></expan></w> <w xml:id="hamm0060-7" xml:lang="grc"><supplied reason="undefined">Π</supplied>ροκοπία.</w> </p>
 </div>
 </body>
       <back>

@@ -177,7 +177,7 @@
                 <p> </p>
             </div>
            
-        <div type="edition" subtype="transcription_segmented"><p><w xml:id="huld0002-1" xml:lang="grc"/> <w xml:id="huld0002-2" xml:lang="grc">Εὐτυχῶς</w> <w xml:id="huld0002-3" xml:lang="grc">Εὐτοχίῳ</w> <w xml:id="huld0002-4" xml:lang="grc">καὶ</w> <w xml:id="huld0002-5" xml:lang="grc">Ἡσυχίῳ</w> <w xml:id="huld0002-6" xml:lang="grc">καὶ</w> <w xml:id="huld0002-7" xml:lang="grc">Εοὐαγρίῳ</w> <w xml:id="huld0002-8" xml:lang="grc">τοῖς</w> <w xml:id="huld0002-9" xml:lang="grc">κτίστες</w></p>
+        <div type="edition" subtype="transcription_segmented"><p> <w xml:id="huld0002-1" xml:lang="grc">Εὐτυχῶς</w> <w xml:id="huld0002-2" xml:lang="grc">Εὐτοχίῳ</w> <w xml:id="huld0002-3" xml:lang="grc">καὶ</w> <w xml:id="huld0002-4" xml:lang="grc">Ἡσυχίῳ</w> <w xml:id="huld0002-5" xml:lang="grc">καὶ</w> <w xml:id="huld0002-6" xml:lang="grc">Εοὐαγρίῳ</w> <w xml:id="huld0002-7" xml:lang="grc">τοῖς</w> <w xml:id="huld0002-8" xml:lang="grc">κτίστες</w></p>
 </div>
 </body>
         <back> <!-- The bibl has more contained elements. What is the possible list of values of the biblScope/@type? 

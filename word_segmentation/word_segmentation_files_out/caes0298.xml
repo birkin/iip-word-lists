@@ -131,7 +131,7 @@
                <gap reason="lost" extent="unknown" unit="character"/>
             </p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="caes0298-1" xml:lang="grc"/> <w xml:id="caes0298-2" xml:lang="grc"><supplied reason="undefined">Ἰ</supplied>ωάνο<supplied reason="undefined">υ</supplied></w> <w xml:id="caes0298-3" xml:lang="grc"><orig><unclear>Ι</unclear></orig></w> <w xml:id="caes0298-4" xml:lang="grc"/></p>
+      <div type="edition" subtype="transcription_segmented"><p> <w xml:id="caes0298-1" xml:lang="grc"><supplied reason="undefined">Ἰ</supplied>ωάνο<supplied reason="undefined">υ</supplied></w> <w xml:id="caes0298-2" xml:lang="grc"><orig><unclear>Ι</unclear></orig></w> </p>
 </div>
 </body>
       <back>

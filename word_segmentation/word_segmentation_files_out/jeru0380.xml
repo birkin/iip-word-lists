@@ -137,7 +137,7 @@
             <div type="commentary" ana="b1">
                 <p/>
             </div>
-        <div type="edition" subtype="transcription_segmented"><p><w xml:id="jeru0380-1" xml:lang="arc"/> <w xml:id="jeru0380-2" xml:lang="arc"><supplied reason="lost">מ</supplied></w> <w xml:id="jeru0380-3" xml:lang="arc"><unclear>רים</unclear></w> <w xml:id="jeru0380-4" xml:lang="arc">ברת</w> <w xml:id="jeru0380-5" xml:lang="arc">שמ<supplied reason="lost">עון</supplied></w> <w xml:id="jeru0380-6" xml:lang="arc"/></p>
+        <div type="edition" subtype="transcription_segmented"><p> <w xml:id="jeru0380-1" xml:lang="arc"><supplied reason="lost">מ</supplied></w> <w xml:id="jeru0380-2" xml:lang="arc"><unclear>רים</unclear></w> <w xml:id="jeru0380-3" xml:lang="arc">ברת</w> <w xml:id="jeru0380-4" xml:lang="arc">שמ<supplied reason="lost">עון</supplied></w> </p>
 </div>
 </body>
         <back>

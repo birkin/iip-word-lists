@@ -123,7 +123,7 @@
          <div type="translation" ana="#b1" xml:id="carm0005.translation" corresp="#carm0005.transcription">
             <p>Lord Remember Your servant Procopios the Priest</p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="carm0005-1" xml:lang="grc"/> <w xml:id="carm0005-2" xml:lang="grc"><expan><abbr>Κ</abbr><ex>ύρι</ex><abbr>ε</abbr></expan></w> <w xml:id="carm0005-3" xml:lang="grc">μνήστηθι</w> <w xml:id="carm0005-4" xml:lang="grc">τοῦ</w> <w xml:id="carm0005-5" xml:lang="grc">δούλου</w> <w xml:id="carm0005-6" xml:lang="grc">σου</w> <w xml:id="carm0005-7" xml:lang="grc">Προκοπίου</w> <w xml:id="carm0005-8" xml:lang="grc">τοῦ</w> <w xml:id="carm0005-9" xml:lang="grc"><expan><abbr>π</abbr><ex>ρεσβυτέρου</ex></expan></w> <w xml:id="carm0005-10" xml:lang="grc"/></p>
+      <div type="edition" subtype="transcription_segmented"><p> <w xml:id="carm0005-1" xml:lang="grc"><expan><abbr>Κ</abbr><ex>ύρι</ex><abbr>ε</abbr></expan></w> <w xml:id="carm0005-2" xml:lang="grc">μνήστηθι</w> <w xml:id="carm0005-3" xml:lang="grc">τοῦ</w> <w xml:id="carm0005-4" xml:lang="grc">δούλου</w> <w xml:id="carm0005-5" xml:lang="grc">σου</w> <w xml:id="carm0005-6" xml:lang="grc">Προκοπίου</w> <w xml:id="carm0005-7" xml:lang="grc">τοῦ</w> <w xml:id="carm0005-8" xml:lang="grc"><expan><abbr>π</abbr><ex>ρεσβυτέρου</ex></expan></w> </p>
 </div>
 </body>
       <back>

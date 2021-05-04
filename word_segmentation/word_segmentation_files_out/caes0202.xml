@@ -125,7 +125,7 @@
                <persName xml:lang="grc " ref="persons.xml#caes0202p01">Theoteknos</persName>, <rs type="religTitle">deacon  </rs> and <rs type="religTitle">administrator</rs>.
 		  </p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="caes0202-1" xml:lang="grc"><g type="cross">+</g></w> <w xml:id="caes0202-2" xml:lang="grc">θήκη</w> <w xml:id="caes0202-3" xml:lang="grc">ἀβ<supplied reason="omitted">β</supplied>ᾶ</w> <w xml:id="caes0202-4" xml:lang="grc">Θεοτέκνου</w> <w xml:id="caes0202-5" xml:lang="grc"><expan><abbr>διακ</abbr><ex>όνου</ex></expan></w> <w xml:id="caes0202-6" xml:lang="grc">παραμοναρίου.</w> <w xml:id="caes0202-7" xml:lang="grc"><g type="cross">+</g></w> <w xml:id="caes0202-8" xml:lang="grc"/></p>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="caes0202-1" xml:lang="grc"><g type="cross">+</g></w> <w xml:id="caes0202-2" xml:lang="grc">θήκη</w> <w xml:id="caes0202-3" xml:lang="grc">ἀβ<supplied reason="omitted">β</supplied>ᾶ</w> <w xml:id="caes0202-4" xml:lang="grc">Θεοτέκνου</w> <w xml:id="caes0202-5" xml:lang="grc"><expan><abbr>διακ</abbr><ex>όνου</ex></expan></w> <w xml:id="caes0202-6" xml:lang="grc">παραμοναρίου.</w> <w xml:id="caes0202-7" xml:lang="grc"><g type="cross">+</g></w> </p>
 </div>
 </body>
       <back>

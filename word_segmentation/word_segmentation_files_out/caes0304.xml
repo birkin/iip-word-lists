@@ -119,7 +119,7 @@
                <gap reason="illegible" quantity="2" unit="character"/> <supplied reason="undefined">Ὀλυ</supplied>μπίου <gap reason="illegible" quantity="2" unit="character"/>
             </p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="caes0304-1" xml:lang="grc"/> <w xml:id="caes0304-2" xml:lang="grc"><supplied reason="undefined">Ὀλυ</supplied>μπίου</w> <w xml:id="caes0304-3" xml:lang="grc"/></p>
+      <div type="edition" subtype="transcription_segmented"><p> <w xml:id="caes0304-1" xml:lang="grc"><supplied reason="undefined">Ὀλυ</supplied>μπίου</w> </p>
 </div>
 </body>
       <back>

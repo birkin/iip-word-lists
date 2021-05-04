@@ -137,7 +137,7 @@
          <div type="translation" ana="#b1" xml:id="hebr0001.translation" corresp="#hebr0001.transcription">
             <p>son of Yehuda</p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="hebr0001-1" xml:lang="arc"/> <w xml:id="hebr0001-2" xml:lang="arc">בר</w> <w xml:id="hebr0001-3" xml:lang="arc">יהודא</w> <w xml:id="hebr0001-4" xml:lang="arc"/></p>
+      <div type="edition" subtype="transcription_segmented"><p> <w xml:id="hebr0001-1" xml:lang="arc">בר</w> <w xml:id="hebr0001-2" xml:lang="arc">יהודא</w> </p>
 </div>
 </body>
       <back>

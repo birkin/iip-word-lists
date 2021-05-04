@@ -138,7 +138,7 @@
          <div type="translation" ana="#b1" xml:id="juei0001.translation" corresp="#juei0001.diplomatic #juei0001.transcription">
             <p>The dedication is (?) (of the church) of St Mark. In the month of August, the 15th (day).</p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="juei0001-1" xml:lang="grc"><g type="cross">+</g></w> <w xml:id="juei0001-2" xml:lang="grc">εἰσὶν</w> <w xml:id="juei0001-3" xml:lang="grc">τὰ</w> <w xml:id="juei0001-4" xml:lang="grc">ἐνκένια</w> <w xml:id="juei0001-5" xml:lang="grc">τοῦ</w> <w xml:id="juei0001-6" xml:lang="grc">ἁγίου</w> <w xml:id="juei0001-7" xml:lang="grc">Μάρκου</w> <w xml:id="juei0001-8" xml:lang="grc"><expan><abbr>μη</abbr><ex>νὸς</ex></expan></w> <w xml:id="juei0001-9" xml:lang="grc">Αὐγού<supplied reason="omitted">σ</supplied>του</w> <w xml:id="juei0001-10" xml:lang="grc"><num value="15">ϊ´ε´</num></w> <w xml:id="juei0001-11" xml:lang="grc"/></p>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="juei0001-1" xml:lang="grc"><g type="cross">+</g></w> <w xml:id="juei0001-2" xml:lang="grc">εἰσὶν</w> <w xml:id="juei0001-3" xml:lang="grc">τὰ</w> <w xml:id="juei0001-4" xml:lang="grc">ἐνκένια</w> <w xml:id="juei0001-5" xml:lang="grc">τοῦ</w> <w xml:id="juei0001-6" xml:lang="grc">ἁγίου</w> <w xml:id="juei0001-7" xml:lang="grc">Μάρκου</w> <w xml:id="juei0001-8" xml:lang="grc"><expan><abbr>μη</abbr><ex>νὸς</ex></expan></w> <w xml:id="juei0001-9" xml:lang="grc">Αὐγού<supplied reason="omitted">σ</supplied>του</w> <w xml:id="juei0001-10" xml:lang="grc"><num value="15">ϊ´ε´</num></w> </p>
 </div>
 </body>
       <back>

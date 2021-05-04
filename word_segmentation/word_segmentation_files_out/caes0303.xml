@@ -125,7 +125,7 @@
                <gap reason="lost" extent="unknown" unit="character"/>
             </p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="caes0303-1" xml:lang="grc"/> <w xml:id="caes0303-2" xml:lang="grc"><hi rend="ligature">τῆ</hi>ς</w> <w xml:id="caes0303-3" xml:lang="grc"><expan><abbr><hi rend="ligature">Μα</hi>ρ</abbr><ex>ίας</ex></expan></w> <w xml:id="caes0303-4" xml:lang="grc"/></p>
+      <div type="edition" subtype="transcription_segmented"><p> <w xml:id="caes0303-1" xml:lang="grc"><hi rend="ligature">τῆ</hi>ς</w> <w xml:id="caes0303-2" xml:lang="grc"><expan><abbr><hi rend="ligature">Μα</hi>ρ</abbr><ex>ίας</ex></expan></w> </p>
 </div>
 </body>
       <back>

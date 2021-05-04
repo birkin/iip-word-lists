@@ -121,7 +121,7 @@
          <div type="translation" ana="#b1" xml:id="elus0038.translation" corresp="#elus0038.transcription">
             <p>...John</p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="elus0038-1" xml:lang="grc"/> <w xml:id="elus0038-2" xml:lang="grc"><expan><abbr>Ἰω</abbr><ex>άννης</ex></expan></w> <w xml:id="elus0038-3" xml:lang="grc"/></p>
+      <div type="edition" subtype="transcription_segmented"><p> <w xml:id="elus0038-1" xml:lang="grc"><expan><abbr>Ἰω</abbr><ex>άννης</ex></expan></w> </p>
 </div>
 </body>
       <back>

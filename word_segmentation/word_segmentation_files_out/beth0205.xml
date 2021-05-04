@@ -126,7 +126,7 @@
                <persName xml:lang="grc " ref="persons.xml#beth0205p01">Thietetos </persName>
             </p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="beth0205-1" xml:lang="grc">Μαρ</w> <w xml:id="beth0205-2" xml:lang="grc">Θιετήτου</w> <w xml:id="beth0205-3" xml:lang="grc"/></p>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="beth0205-1" xml:lang="grc">Μαρ</w> <w xml:id="beth0205-2" xml:lang="grc">Θιετήτου</w> </p>
 </div>
 </body>
       <back>

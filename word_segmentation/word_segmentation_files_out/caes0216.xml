@@ -122,7 +122,7 @@
                <gap reason="illegible" quantity="3" unit="character"/><orig>ζοντος</orig>
             </p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="caes0216-1" xml:lang="grc"/> <w xml:id="caes0216-2" xml:lang="grc"><supplied reason="undefined">θήκ</supplied>η</w> <w xml:id="caes0216-3" xml:lang="grc"><g type="cross">+</g></w> <w xml:id="caes0216-4" xml:lang="grc"><orig><unclear>α</unclear>κου</orig></w> <w xml:id="caes0216-5" xml:lang="grc"><orig>ζοντος</orig></w> <w xml:id="caes0216-6" xml:lang="grc"/></p>
+      <div type="edition" subtype="transcription_segmented"><p> <w xml:id="caes0216-1" xml:lang="grc"><supplied reason="undefined">θήκ</supplied>η</w> <w xml:id="caes0216-2" xml:lang="grc"><g type="cross">+</g></w> <w xml:id="caes0216-3" xml:lang="grc"><orig><unclear>α</unclear>κου</orig></w> <w xml:id="caes0216-4" xml:lang="grc"><orig>ζοντος</orig></w> </p>
 </div>
 </body>
       <back>

@@ -129,7 +129,7 @@
                </name> the <rs type="epithet" ana="interpretations.xml#poor">poor </rs>
             </p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="beth0207-1" xml:lang="grc"/> <w xml:id="beth0207-2" xml:lang="grc"><supplied reason="lost">Σα</supplied></w> <w xml:id="beth0207-3" xml:lang="grc"><unclear>μ</unclear>ουήλο<supplied reason="lost">υ</supplied></w> <w xml:id="beth0207-4" xml:lang="grc"><supplied reason="lost">υἱοῦ</supplied></w> <w xml:id="beth0207-5" xml:lang="grc"><unclear>Γ</unclear>ερμα<supplied reason="lost">νοῦ</supplied></w> <w xml:id="beth0207-6" xml:lang="grc"><supplied reason="lost">π</supplied>ενι<supplied reason="lost">χρ</supplied>οῦ</w> <w xml:id="beth0207-7" xml:lang="grc"/></p>
+      <div type="edition" subtype="transcription_segmented"><p> <w xml:id="beth0207-1" xml:lang="grc"><supplied reason="lost">Σα</supplied></w> <w xml:id="beth0207-2" xml:lang="grc"><unclear>μ</unclear>ουήλο<supplied reason="lost">υ</supplied></w> <w xml:id="beth0207-3" xml:lang="grc"><supplied reason="lost">υἱοῦ</supplied></w> <w xml:id="beth0207-4" xml:lang="grc"><unclear>Γ</unclear>ερμα<supplied reason="lost">νοῦ</supplied></w> <w xml:id="beth0207-5" xml:lang="grc"><supplied reason="lost">π</supplied>ενι<supplied reason="lost">χρ</supplied>οῦ</w> </p>
 </div>
 </body>
       <back>

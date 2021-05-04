@@ -178,7 +178,7 @@
             <div type="commentary">
                 <p/>
             </div>
-        <div type="edition" subtype="transcription_segmented"><p><w xml:id="masa0930-1" xml:lang="grc"/> <w xml:id="masa0930-2" xml:lang="grc"><supplied reason="lost">ἀ</supplied>γαθῆ</w> <w xml:id="masa0930-3" xml:lang="grc">τύχη</w> <w xml:id="masa0930-4" xml:lang="grc"/></p>
+        <div type="edition" subtype="transcription_segmented"><p> <w xml:id="masa0930-1" xml:lang="grc"><supplied reason="lost">ἀ</supplied>γαθῆ</w> <w xml:id="masa0930-2" xml:lang="grc">τύχη</w> </p>
 </div>
 </body>
         <back>

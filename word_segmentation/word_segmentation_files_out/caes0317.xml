@@ -121,7 +121,7 @@
                <gap reason="illegible" quantity="2" unit="character"/><orig>ας</orig> γα<supplied reason="undefined">μετῆς</supplied>
             </p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="caes0317-1" xml:lang="grc"/> <w xml:id="caes0317-2" xml:lang="grc"><orig>ας</orig></w> <w xml:id="caes0317-3" xml:lang="grc">γα<supplied reason="undefined">μετῆς</supplied></w> <w xml:id="caes0317-4" xml:lang="grc"/></p>
+      <div type="edition" subtype="transcription_segmented"><p> <w xml:id="caes0317-1" xml:lang="grc"><orig>ας</orig></w> <w xml:id="caes0317-2" xml:lang="grc">γα<supplied reason="undefined">μετῆς</supplied></w> </p>
 </div>
 </body>
       <back>

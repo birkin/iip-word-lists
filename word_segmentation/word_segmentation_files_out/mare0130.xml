@@ -139,7 +139,7 @@
             <div type="commentary" ana="b1">
                 <p/>
             </div>
-        <div type="edition" subtype="transcription_segmented"><p><w xml:id="mare0130-1" xml:lang="arc"/> <w xml:id="mare0130-2" xml:lang="arc"><unclear cert="low">קוסרם</unclear></w> <w xml:id="mare0130-3" xml:lang="arc"><unclear cert="low">עבד</unclear></w> <w xml:id="mare0130-4" xml:lang="arc"/></p>
+        <div type="edition" subtype="transcription_segmented"><p> <w xml:id="mare0130-1" xml:lang="arc"><unclear cert="low">קוסרם</unclear></w> <w xml:id="mare0130-2" xml:lang="arc"><unclear cert="low">עבד</unclear></w> </p>
 </div>
 </body>
         <back>

@@ -127,7 +127,7 @@
          <div type="translation" ana="#b1" xml:id="elus0079.translation" corresp="#elus0079.transcription">
             <p>...27th of Audynaios, year... 2nd indiction</p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="elus0079-1" xml:lang="grc"/> <w xml:id="elus0079-2" xml:lang="grc"><orig>ΑΡΙ</orig></w> <w xml:id="elus0079-3" xml:lang="grc"><expan><abbr><supplied reason="undefined">Αὐ</supplied>δ</abbr><ex>υναίου</ex></expan></w> <w xml:id="elus0079-4" xml:lang="grc"><num value="27">κζʹ</num></w> <w xml:id="elus0079-5" xml:lang="grc">ἔ<supplied reason="undefined">τους</supplied></w> <w xml:id="elus0079-6" xml:lang="grc"><orig>η</orig></w> <w xml:id="elus0079-7" xml:lang="grc"><expan><abbr>ἰνδ</abbr><ex>ικτιώνος</ex></expan></w> <w xml:id="elus0079-8" xml:lang="grc"><num value="2">βʹ</num></w> <w xml:id="elus0079-9" xml:lang="grc"/></p>
+      <div type="edition" subtype="transcription_segmented"><p> <w xml:id="elus0079-1" xml:lang="grc"><orig>ΑΡΙ</orig></w> <w xml:id="elus0079-2" xml:lang="grc"><expan><abbr><supplied reason="undefined">Αὐ</supplied>δ</abbr><ex>υναίου</ex></expan></w> <w xml:id="elus0079-3" xml:lang="grc"><num value="27">κζʹ</num></w> <w xml:id="elus0079-4" xml:lang="grc">ἔ<supplied reason="undefined">τους</supplied></w> <w xml:id="elus0079-5" xml:lang="grc"><orig>η</orig></w> <w xml:id="elus0079-6" xml:lang="grc"><expan><abbr>ἰνδ</abbr><ex>ικτιώνος</ex></expan></w> <w xml:id="elus0079-7" xml:lang="grc"><num value="2">βʹ</num></w> </p>
 </div>
 </body>
       <back>

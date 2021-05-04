@@ -123,7 +123,7 @@
                <persName xml:lang="grc " ref="persons.xml#beth0180p01">Procopis </persName> the <rs type="epithet" ana="interpretations.xml#illustrious">illustrious </rs>
                <rs type="formula" ana="interpretations.xml#lies">lies here </rs>; <persName xml:lang="grc " ref="persons.xml#beth0180p02">Eisa </persName> (also) <rs type="formula" ana="interpretations.xml#lies">lies here</rs>.</p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="beth0180-1" xml:lang="grc">Λ<supplied reason="omitted">α</supplied>μ<supplied reason="omitted">π</supplied>ρὸς</w> <w xml:id="beth0180-2" xml:lang="grc">ὢν</w> <w xml:id="beth0180-3" xml:lang="grc"><supplied reason="lost">Προ</supplied>κόπις</w> <w xml:id="beth0180-4" xml:lang="grc">ὧδε</w> <w xml:id="beth0180-5" xml:lang="grc"><supplied reason="lost" cert="low">κῖτε</supplied></w> <w xml:id="beth0180-6" xml:lang="grc">Εἰσᾶ<unclear>ἐ</unclear>ν<unclear>θ</unclear>ά<supplied reason="lost">δε</supplied></w> <w xml:id="beth0180-7" xml:lang="grc"/></p>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="beth0180-1" xml:lang="grc">Λ<supplied reason="omitted">α</supplied>μ<supplied reason="omitted">π</supplied>ρὸς</w> <w xml:id="beth0180-2" xml:lang="grc">ὢν</w> <w xml:id="beth0180-3" xml:lang="grc"><supplied reason="lost">Προ</supplied>κόπις</w> <w xml:id="beth0180-4" xml:lang="grc">ὧδε</w> <w xml:id="beth0180-5" xml:lang="grc"><supplied reason="lost" cert="low">κῖτε</supplied></w> <w xml:id="beth0180-6" xml:lang="grc">Εἰσᾶ<unclear>ἐ</unclear>ν<unclear>θ</unclear>ά<supplied reason="lost">δε</supplied></w> </p>
 </div>
 </body>
       <back>

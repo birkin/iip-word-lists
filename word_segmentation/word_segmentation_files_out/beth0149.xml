@@ -140,7 +140,7 @@
             <p>The <rs type="object" ana="interpretations.xml#tomb">tomb </rs> of <persName xml:lang="grc " ref="persons.xml#beth0149p01">Marinos </persName> and <persName xml:lang="grc " ref="persons.xml#beth0149p02">Justa </persName> his <rs type="family" ana="interpretations.xml#wife">wife </rs>
             </p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="beth0149-1" xml:lang="grc">Τόπος</w> <w xml:id="beth0149-2" xml:lang="grc">Μαρίνου</w> <w xml:id="beth0149-3" xml:lang="grc">καὶ</w> <w xml:id="beth0149-4" xml:lang="grc">Εἰούσστας</w> <w xml:id="beth0149-5" xml:lang="grc">γυνεκὸς</w> <w xml:id="beth0149-6" xml:lang="grc">αὐτοῦ</w> <w xml:id="beth0149-7" xml:lang="grc"><g type="hedera"/></w> <w xml:id="beth0149-8" xml:lang="grc"/></p>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="beth0149-1" xml:lang="grc">Τόπος</w> <w xml:id="beth0149-2" xml:lang="grc">Μαρίνου</w> <w xml:id="beth0149-3" xml:lang="grc">καὶ</w> <w xml:id="beth0149-4" xml:lang="grc">Εἰούσστας</w> <w xml:id="beth0149-5" xml:lang="grc">γυνεκὸς</w> <w xml:id="beth0149-6" xml:lang="grc">αὐτοῦ</w> <w xml:id="beth0149-7" xml:lang="grc"><g type="hedera"/></w> </p>
 </div>
 </body>
       <back>

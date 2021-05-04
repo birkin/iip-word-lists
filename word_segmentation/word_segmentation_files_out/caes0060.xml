@@ -148,7 +148,7 @@
          <div type="translation" ana="#b1" xml:id="caes0060.translation" corresp="#caes0060.transcription">
             <p>He founded the metropolis ...</p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="caes0060-1" xml:lang="grc"/> <w xml:id="caes0060-2" xml:lang="grc"><supplied reason="undefined">τὴ</supplied>ν</w> <w xml:id="caes0060-3" xml:lang="grc">μητρόπολιν</w> <w xml:id="caes0060-4" xml:lang="grc">ἔκτισ<supplied reason="undefined">εν</supplied></w> <w xml:id="caes0060-5" xml:lang="grc"/></p>
+      <div type="edition" subtype="transcription_segmented"><p> <w xml:id="caes0060-1" xml:lang="grc"><supplied reason="undefined">τὴ</supplied>ν</w> <w xml:id="caes0060-2" xml:lang="grc">μητρόπολιν</w> <w xml:id="caes0060-3" xml:lang="grc">ἔκτισ<supplied reason="undefined">εν</supplied></w> </p>
 </div>
 </body>
       <back>

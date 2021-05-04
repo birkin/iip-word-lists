@@ -139,7 +139,7 @@
                     may have read the name as one would in Hebrew, from left to right instead of
                     from right to left.</p>
             </div>
-        <div type="edition" subtype="transcription_segmented"><p><w xml:id="jeru0513-1" xml:lang="grc"/> <w xml:id="jeru0513-2" xml:lang="grc"><choice><orig>Ναδουι</orig><reg>Ἰουδάν</reg></choice></w> <w xml:id="jeru0513-3" xml:lang="grc"/></p>
+        <div type="edition" subtype="transcription_segmented"><p> <w xml:id="jeru0513-1" xml:lang="grc"><choice><orig>Ναδουι</orig><reg>Ἰουδάν</reg></choice></w> </p>
 </div>
 </body>
         <back>

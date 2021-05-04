@@ -124,7 +124,7 @@
                <gap reason="illegible" quantity="2" unit="character"/>Ε<lb/>+
             </p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="caes0242-1" xml:lang="grc"/> <w xml:id="caes0242-2" xml:lang="grc"><orig>Ε</orig></w> <w xml:id="caes0242-3" xml:lang="grc"><g type="cross">+</g></w> <w xml:id="caes0242-4" xml:lang="grc"/></p>
+      <div type="edition" subtype="transcription_segmented"><p> <w xml:id="caes0242-1" xml:lang="grc"><orig>Ε</orig></w> <w xml:id="caes0242-2" xml:lang="grc"><g type="cross">+</g></w> </p>
 </div>
 </body>
       <back>

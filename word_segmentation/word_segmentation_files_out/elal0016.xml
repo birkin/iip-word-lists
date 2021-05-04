@@ -127,7 +127,7 @@
          <div type="translation" ana="#b1" xml:id="elal0016.translation" corresp="#elal0016.diplomatic #elal0016.transcription">
             <p> (the) work of Gaianus (the) stonecutter. </p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="elal0016-1" xml:lang="grc"/> <w xml:id="elal0016-2" xml:lang="grc">ἔργον</w> <w xml:id="elal0016-3" xml:lang="grc">Γαϊανου</w> <w xml:id="elal0016-4" xml:lang="grc">λαοτόμου</w> <w xml:id="elal0016-5" xml:lang="grc"/></p>
+      <div type="edition" subtype="transcription_segmented"><p> <w xml:id="elal0016-1" xml:lang="grc">ἔργον</w> <w xml:id="elal0016-2" xml:lang="grc">Γαϊανου</w> <w xml:id="elal0016-3" xml:lang="grc">λαοτόμου</w> </p>
 </div>
 </body>
       <back>

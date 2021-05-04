@@ -130,7 +130,7 @@
          <div type="translation" ana="#b1" xml:id="hamm0063.translation" corresp="#hamm0063.diplomatic #hamm0063.transcription">
             <p>May <persName ref="persons.xml#hamm0063p01">Zacharias </persName>(?) be remembered.</p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="hamm0063-1" xml:lang="grc"/> <w xml:id="hamm0063-2" xml:lang="grc">Μνησθῖ</w> <w xml:id="hamm0063-3" xml:lang="grc"><unclear>Ζ</unclear></w> <w xml:id="hamm0063-4" xml:lang="grc"><supplied reason="undefined">αχαρίας</supplied></w> <w xml:id="hamm0063-5" xml:lang="grc"/></p>
+      <div type="edition" subtype="transcription_segmented"><p> <w xml:id="hamm0063-1" xml:lang="grc">Μνησθῖ</w> <w xml:id="hamm0063-2" xml:lang="grc"><unclear>Ζ</unclear></w> <w xml:id="hamm0063-3" xml:lang="grc"><supplied reason="undefined">αχαρίας</supplied></w> </p>
 </div>
 </body>
       <back>

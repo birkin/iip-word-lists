@@ -119,7 +119,7 @@
                <persName xml:lang="grc " ref="persons.xml#beth0145p01">Magnos </persName>
             </p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="beth0145-1" xml:lang="grc">Μάγνος</w> <w xml:id="beth0145-2" xml:lang="grc"/></p>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="beth0145-1" xml:lang="grc">Μάγνος</w> </p>
 </div>
 </body>
       <back>

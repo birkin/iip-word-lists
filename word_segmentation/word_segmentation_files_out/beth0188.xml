@@ -123,7 +123,7 @@
             <p>
                <rs type="formula" ana="interpretations.xml#lot">May your lot be a good one</rs>, <persName xml:lang="la " ref="persons.xml#beth0188p01">Sabinus </persName>; <rs type="formula" ana="interpretations.xml#immortal">no one is immortal</rs>.</p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="beth0188-1" xml:lang="grc">Εὐμύρι</w> <w xml:id="beth0188-2" xml:lang="grc">Σαβῖνε</w> <w xml:id="beth0188-3" xml:lang="grc">οὐδὶς</w> <w xml:id="beth0188-4" xml:lang="grc">ἀθάναθος</w> <w xml:id="beth0188-5" xml:lang="grc"/></p>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="beth0188-1" xml:lang="grc">Εὐμύρι</w> <w xml:id="beth0188-2" xml:lang="grc">Σαβῖνε</w> <w xml:id="beth0188-3" xml:lang="grc">οὐδὶς</w> <w xml:id="beth0188-4" xml:lang="grc">ἀθάναθος</w> </p>
 </div>
 </body>
       <back>

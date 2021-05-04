@@ -138,7 +138,7 @@
             <div type="commentary" ana="b1">
                 <p/>
             </div>
-        <div type="edition" subtype="transcription_segmented"><p><w xml:id="mare0184-1" xml:lang="grc"/> <w xml:id="mare0184-2" xml:lang="grc"><unclear>βί</unclear>ος</w> <w xml:id="mare0184-3" xml:lang="grc">ἠμὸς</w> <w xml:id="mare0184-4" xml:lang="grc">ὄρ<unclear>ει</unclear></w> <w xml:id="mare0184-5" xml:lang="grc"/></p>
+        <div type="edition" subtype="transcription_segmented"><p> <w xml:id="mare0184-1" xml:lang="grc"><unclear>βί</unclear>ος</w> <w xml:id="mare0184-2" xml:lang="grc">ἠμὸς</w> <w xml:id="mare0184-3" xml:lang="grc">ὄρ<unclear>ει</unclear></w> </p>
 </div>
 </body>
         <back>

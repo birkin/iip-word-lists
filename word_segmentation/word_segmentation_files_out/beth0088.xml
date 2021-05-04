@@ -121,7 +121,7 @@
                   <persName xml:lang="hbo " ref="persons.xml#beth0088p01">Esther</persName>, also (called) <persName type="aka" xml:lang="grc " ref="persons.xml#beth0088p02">Amphaitha </persName>
                </name>.</p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="beth0088-1" xml:lang="grc">Θάρσι</w> <w xml:id="beth0088-2" xml:lang="grc">Ἰσθὴρ</w> <w xml:id="beth0088-3" xml:lang="grc">ἡ</w> <w xml:id="beth0088-4" xml:lang="grc">κὲ</w> <w xml:id="beth0088-5" xml:lang="grc">Ἀμφαίθα</w> <w xml:id="beth0088-6" xml:lang="grc"/></p>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="beth0088-1" xml:lang="grc">Θάρσι</w> <w xml:id="beth0088-2" xml:lang="grc">Ἰσθὴρ</w> <w xml:id="beth0088-3" xml:lang="grc">ἡ</w> <w xml:id="beth0088-4" xml:lang="grc">κὲ</w> <w xml:id="beth0088-5" xml:lang="grc">Ἀμφαίθα</w> </p>
 </div>
 </body>
       <back>

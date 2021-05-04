@@ -111,7 +111,7 @@
             <p>
                <gap reason="illegible" quantity="2" unit="character"/><orig>ΥΦΣΙΔ</orig></p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="elus0102-1" xml:lang="grc"/> <w xml:id="elus0102-2" xml:lang="grc"><orig>ΥΦΣΙΔ</orig></w></p>
+      <div type="edition" subtype="transcription_segmented"><p> <w xml:id="elus0102-1" xml:lang="grc"><orig>ΥΦΣΙΔ</orig></w></p>
 </div>
 </body>
       <back>

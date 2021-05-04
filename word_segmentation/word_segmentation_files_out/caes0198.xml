@@ -126,7 +126,7 @@
             <p>The memorial of <persName xml:lang="x-Semitic " ref="persons.xml#caes0198p01">Baïsios </persName> and <persName xml:lang="x-Semitic " ref="persons.xml#caes0198p02">Georgia</persName>.
 		  </p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="caes0198-1" xml:lang="grc">+</w> <w xml:id="caes0198-2" xml:lang="grc"><expan><abbr>μημό</abbr><ex>ριον</ex></expan></w> <w xml:id="caes0198-3" xml:lang="grc">Βαεισή<hi rend="ligature">ου</hi></w> <w xml:id="caes0198-4" xml:lang="grc"><expan><abbr>κ</abbr><ex>αὶ</ex></expan></w> <w xml:id="caes0198-5" xml:lang="grc">Γηοργίας.</w> <w xml:id="caes0198-6" xml:lang="grc"/></p>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="caes0198-1" xml:lang="grc">+</w> <w xml:id="caes0198-2" xml:lang="grc"><expan><abbr>μημό</abbr><ex>ριον</ex></expan></w> <w xml:id="caes0198-3" xml:lang="grc">Βαεισή<hi rend="ligature">ου</hi></w> <w xml:id="caes0198-4" xml:lang="grc"><expan><abbr>κ</abbr><ex>αὶ</ex></expan></w> <w xml:id="caes0198-5" xml:lang="grc">Γηοργίας.</w> </p>
 </div>
 </body>
       <back>

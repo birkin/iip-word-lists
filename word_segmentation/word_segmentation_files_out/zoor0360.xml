@@ -137,7 +137,7 @@
          <div type="translation" ana="#b1" xml:id="zoor0360.translation" corresp="#zoor0360.transcription">
             <p> Monument of Kassisos, (son) of Amyntas.</p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="zoor0360-1" xml:lang="grc"/> <w xml:id="zoor0360-2" xml:lang="grc"><g type="cross">+</g></w> <w xml:id="zoor0360-3" xml:lang="grc"><choice><reg>Μνημεῖο<supplied reason="lost">ν</supplied></reg><orig>Μνημῖο<supplied reason="lost">ν</supplied></orig></choice></w> <w xml:id="zoor0360-4" xml:lang="grc">Κασσίσ<supplied reason="lost">ου</supplied></w> <w xml:id="zoor0360-5" xml:lang="grc">Ἀμύ<g type="cross">+</g>ντου</w></p>
+      <div type="edition" subtype="transcription_segmented"><p> <w xml:id="zoor0360-1" xml:lang="grc"><g type="cross">+</g></w> <w xml:id="zoor0360-2" xml:lang="grc"><choice><reg>Μνημεῖο<supplied reason="lost">ν</supplied></reg><orig>Μνημῖο<supplied reason="lost">ν</supplied></orig></choice></w> <w xml:id="zoor0360-3" xml:lang="grc">Κασσίσ<supplied reason="lost">ου</supplied></w> <w xml:id="zoor0360-4" xml:lang="grc">Ἀμύ<g type="cross">+</g>ντου</w></p>
 </div>
 </body>
       <back>

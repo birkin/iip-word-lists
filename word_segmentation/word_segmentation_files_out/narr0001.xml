@@ -143,7 +143,7 @@
          <div type="translation" ana="#b1" xml:id="narr0001.translation" corresp="#narr0001.transcription #narr0001.diplomatic">
             <p>Holy, holy, holy Lord (?)...of Mousos(?) the presbyter the...was renovated.</p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="narr0001-1" xml:lang="grc"/> <w xml:id="narr0001-2" xml:lang="grc"><supplied reason="lost">Ἅγιος</supplied>,</w> <w xml:id="narr0001-3" xml:lang="grc"><supplied reason="lost">ἅγιος</supplied>,</w> <w xml:id="narr0001-4" xml:lang="grc"><supplied reason="lost">ἅγι</supplied>ος</w> <w xml:id="narr0001-5" xml:lang="grc"><expan><abbr>Κ</abbr><ex>ύριο</ex><abbr>ς</abbr></expan></w> <w xml:id="narr0001-6" xml:lang="grc">Μουσου</w> <w xml:id="narr0001-7" xml:lang="grc"><expan><abbr>πρεσβ</abbr><ex>υτέρου</ex></expan></w> <w xml:id="narr0001-8" xml:lang="grc">τὸ</w> <w xml:id="narr0001-9" xml:lang="grc">ἀνενεώθη</w></p>
+      <div type="edition" subtype="transcription_segmented"><p> <w xml:id="narr0001-1" xml:lang="grc"><supplied reason="lost">Ἅγιος</supplied>,</w> <w xml:id="narr0001-2" xml:lang="grc"><supplied reason="lost">ἅγιος</supplied>,</w> <w xml:id="narr0001-3" xml:lang="grc"><supplied reason="lost">ἅγι</supplied>ος</w> <w xml:id="narr0001-4" xml:lang="grc"><expan><abbr>Κ</abbr><ex>ύριο</ex><abbr>ς</abbr></expan></w> <w xml:id="narr0001-5" xml:lang="grc">Μουσου</w> <w xml:id="narr0001-6" xml:lang="grc"><expan><abbr>πρεσβ</abbr><ex>υτέρου</ex></expan></w> <w xml:id="narr0001-7" xml:lang="grc">τὸ</w> <w xml:id="narr0001-8" xml:lang="grc">ἀνενεώθη</w></p>
 </div>
 </body>
       <back>
