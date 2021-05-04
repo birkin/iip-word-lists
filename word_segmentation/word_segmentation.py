@@ -178,6 +178,8 @@ for strTextFullPath in vTextFullPaths:
 		# Add a start and end <w>
 		strXMLText = re.sub(r'<p([^>]*)>', '<p\\1><w>', strXMLText)
 		strXMLText = re.sub(r"</p>", "</w></p>", strXMLText)
+
+		# remove any empty ws
 		strXMLText = re.sub(r"<w></w>", "", strXMLText)
 
 		# Convert the bullets back to spaces
