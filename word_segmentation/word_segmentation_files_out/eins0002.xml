@@ -125,22 +125,20 @@
             </p>
          </div>
          <div type="edition" ana="#b1" subtype="transcription" xml:id="eins0002.transcription" corresp="#eins0002.diplomatic #eins0002.translation">
-            <p>
-               <supplied reason="undefined">Δεξία</supplied> <supplied reason="undefined">Κυρίο</supplied>
+            <p><supplied reason="undefined">Δεξία</supplied> <supplied reason="undefined">Κυρίο</supplied>
                <unclear>υ</unclear> ἐποίησεν δύ<supplied reason="undefined">ναμιν</supplied>
                <lb/>
                <supplied reason="undefined">δεξία</supplied> <supplied reason="undefined">Κυρίου</supplied>
                <unclear>ὕ</unclear>ψωσεν ἡμᾶ<unclear>ς</unclear>
                <lb/>
                <gap reason="lost" unit="character" extent="unknown"/>
-               <unclear>ι</unclear>ε τα τῶν μεγα<gap reason="lost" unit="character" extent="unknown"/>
-            </p>
+               <unclear>ι</unclear>ε τα τῶν μεγα<gap reason="lost" unit="character" extent="unknown"/></p>
          </div>
          <div type="translation" ana="#b1" xml:id="eins0002.translation" corresp="#eins0002.diplomatic #eins0002.transcription">
             <p>[The right hand of the Lord] has wrought power; [the right hand of the Lord] has exalted us.
                     ...the...of the....</p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="eins0002-1" xml:lang="grc"/> <w xml:id="eins0002-2" xml:lang="grc"><supplied reason="undefined">Δεξία</supplied></w> <w xml:id="eins0002-3" xml:lang="grc"><supplied reason="undefined">Κυρίο</supplied></w> <w xml:id="eins0002-4" xml:lang="grc"><unclear>υ</unclear></w> <w xml:id="eins0002-5" xml:lang="grc">ἐποίησεν</w> <w xml:id="eins0002-6" xml:lang="grc">δύ<supplied reason="undefined">ναμιν</supplied></w> <w xml:id="eins0002-7" xml:lang="grc"><supplied reason="undefined">δεξία</supplied></w> <w xml:id="eins0002-8" xml:lang="grc"><supplied reason="undefined">Κυρίου</supplied></w> <w xml:id="eins0002-9" xml:lang="grc"><unclear>ὕ</unclear>ψωσεν</w> <w xml:id="eins0002-10" xml:lang="grc">ἡμᾶ<unclear>ς</unclear></w> <w xml:id="eins0002-11" xml:lang="grc"><unclear>ι</unclear>ε</w> <w xml:id="eins0002-12" xml:lang="grc">τα</w> <w xml:id="eins0002-13" xml:lang="grc">τῶν</w> <w xml:id="eins0002-14" xml:lang="grc">μεγα</w> <w xml:id="eins0002-15" xml:lang="grc"/></p>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="eins0002-1" xml:lang="grc"><supplied reason="undefined">Δεξία</supplied></w> <w xml:id="eins0002-2" xml:lang="grc"><supplied reason="undefined">Κυρίο</supplied></w> <w xml:id="eins0002-3" xml:lang="grc"><unclear>υ</unclear></w> <w xml:id="eins0002-4" xml:lang="grc">ἐποίησεν</w> <w xml:id="eins0002-5" xml:lang="grc">δύ<supplied reason="undefined">ναμιν</supplied></w> <w xml:id="eins0002-6" xml:lang="grc"><supplied reason="undefined">δεξία</supplied></w> <w xml:id="eins0002-7" xml:lang="grc"><supplied reason="undefined">Κυρίου</supplied></w> <w xml:id="eins0002-8" xml:lang="grc"><unclear>ὕ</unclear>ψωσεν</w> <w xml:id="eins0002-9" xml:lang="grc">ἡμᾶ<unclear>ς</unclear></w> <w xml:id="eins0002-10" xml:lang="grc"><unclear>ι</unclear>ε</w> <w xml:id="eins0002-11" xml:lang="grc">τα</w> <w xml:id="eins0002-12" xml:lang="grc">τῶν</w> <w xml:id="eins0002-13" xml:lang="grc">μεγα</w></p>
 </div>
 </body>
       <back>

@@ -109,20 +109,18 @@
    <text>
       <body>
          <div type="edition" ana="#b1" xml:lang="grc" subtype="transcription" xml:id="elus0024.transcription" corresp="#elus0024.translation">
-            <p>
-               <gap reason="lost" unit="character" extent="unknown"/>ἀνεπά<unclear>η</unclear>
+            <p><gap reason="lost" unit="character" extent="unknown"/>ἀνεπά<unclear>η</unclear>
                <gap reason="lost" unit="character" extent="unknown"/>
                <lb/>
                <gap reason="lost" unit="character" extent="unknown"/>
                <gap reason="illegible" quantity="1"/><orig>ΑΙΤ</orig><gap reason="lost" unit="character" extent="unknown"/>
                <lb/>
-               <gap reason="lost" unit="character" extent="unknown"/><orig>ΟΝ</orig><gap reason="lost" unit="character" extent="unknown"/>
-            </p>
+               <gap reason="lost" unit="character" extent="unknown"/><orig>ΟΝ</orig><gap reason="lost" unit="character" extent="unknown"/></p>
          </div>
          <div type="translation" ana="#b1" xml:id="elus0024.translation" corresp="#elus0024.transcription">
             <p>...went to his rest...</p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="elus0024-1" xml:lang="grc"/> <w xml:id="elus0024-2" xml:lang="grc">ἀνεπά<unclear>η</unclear></w> <w xml:id="elus0024-3" xml:lang="grc"><orig>ΑΙΤ</orig></w> <w xml:id="elus0024-4" xml:lang="grc"><orig>ΟΝ</orig></w> <w xml:id="elus0024-5" xml:lang="grc"/></p>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="elus0024-1" xml:lang="grc">ἀνεπά<unclear>η</unclear></w> <w xml:id="elus0024-2" xml:lang="grc"><orig>ΑΙΤ</orig></w> <w xml:id="elus0024-3" xml:lang="grc"><orig>ΟΝ</orig></w></p>
 </div>
 </body>
       <back>

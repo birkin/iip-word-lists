@@ -125,8 +125,7 @@
                 <p/>
             </div>
             <div type="edition" subtype="transcription" ana="b1">
-                <p>Βειθυ<lb break="no"/>νικ<choice><unclear>ο</unclear><unclear>η</unclear><unclear>ι</unclear></choice>
-            </p>
+                <p>Βειθυ<lb break="no"/>νικ<choice><unclear>ο</unclear><unclear>η</unclear><unclear>ι</unclear></choice></p>
             </div>
             <div type="translation" ana="b1">
                 <p>The man or woman of Bithynia</p>
@@ -134,7 +133,7 @@
             <div type="commentary" ana="b1">
                 <p/>
             </div>
-        <div type="edition" subtype="transcription_segmented"><p><w xml:id="jeru0436-1" xml:lang="grc">Βειθυνικ<choice><unclear>ο</unclear><unclear>η</unclear><unclear>ι</unclear></choice></w> <w xml:id="jeru0436-2" xml:lang="grc"/></p>
+        <div type="edition" subtype="transcription_segmented"><p><w xml:id="jeru0436-1" xml:lang="grc">Βειθυνικ<choice><unclear>ο</unclear><unclear>η</unclear><unclear>ι</unclear></choice></w></p>
 </div>
 </body>
         <back>

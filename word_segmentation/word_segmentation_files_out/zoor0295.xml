@@ -117,9 +117,7 @@
    <text>
       <body>
          <div type="edition" ana="#b1" xml:lang="grc" subtype="transcription" xml:id="zoor0295.transcription" corresp="#zoor0295.translation">
-            <p>
-               
-               <gap reason="illegible" unit="line" quantity="5"/>
+            <p><gap reason="illegible" unit="line" quantity="5"/>
                <lb/>
                <gap reason="illegible" quantity="7" precision="low" unit="character"/>
                <unclear>ἐτῶν</unclear>

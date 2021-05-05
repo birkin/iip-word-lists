@@ -118,8 +118,7 @@
    <text>
       <body>
          <div type="edition" ana="#b1" subtype="transcription" xml:id="beth0210.transcription" corresp="#beth0210.translation">
-            <p>Ἰούδα<lb/> Ἰσᾶ <g type="hedera"/>
-            </p>
+            <p>Ἰούδα<lb/> Ἰσᾶ <g type="hedera"/></p>
          </div>
          <div type="translation" ana="#b1" xml:id="beth0210.translation" corresp="#beth0210.transcription">
             <p>
@@ -127,7 +126,7 @@
                   <persName xml:lang="hbo " ref="persons.xml#beth0210p01">Judah</persName>, <rs type="family" ana="interpretations.xml#son">son </rs> of <persName type="patr" xml:lang="grc " ref="persons.xml#beth0210p02">Isis </persName>
                </name>...</p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="beth0210-1" xml:lang="grc">Ἰούδα</w> <w xml:id="beth0210-2" xml:lang="grc">Ἰσᾶ</w> <w xml:id="beth0210-3" xml:lang="grc"><g type="hedera"/></w> <w xml:id="beth0210-4" xml:lang="grc"/></p>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="beth0210-1" xml:lang="grc">Ἰούδα</w> <w xml:id="beth0210-2" xml:lang="grc">Ἰσᾶ</w> <w xml:id="beth0210-3" xml:lang="grc"><g type="hedera"/></w></p>
 </div>
 </body>
       <back>

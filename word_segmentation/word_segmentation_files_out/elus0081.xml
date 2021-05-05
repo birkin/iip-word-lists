@@ -108,11 +108,9 @@
    <text>
       <body>
          <div type="edition" ana="#b1" xml:lang="grc" subtype="transcription" xml:id="elus0081.transcription">
-            <p>
-               <gap reason="lost" unit="character" extent="unknown"/><gap reason="illegible" unit="character" quantity="3"/><orig>Ν</orig><gap reason="lost" unit="character" extent="unknown"/>
-            </p>
+            <p><gap reason="lost" unit="character" extent="unknown"/><gap reason="illegible" unit="character" quantity="3"/><orig>Ν</orig><gap reason="lost" unit="character" extent="unknown"/></p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="elus0081-1" xml:lang="grc"/> <w xml:id="elus0081-2" xml:lang="grc"><orig>Ν</orig></w> <w xml:id="elus0081-3" xml:lang="grc"/></p>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="elus0081-1" xml:lang="grc"><orig>Ν</orig></w></p>
 </div>
 </body>
       <back>

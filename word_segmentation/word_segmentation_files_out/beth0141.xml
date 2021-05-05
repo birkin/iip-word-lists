@@ -118,14 +118,14 @@
          <div type="edition" ana="#b6" subtype="transcription" xml:id="beth0141.transcription" corresp="#beth0141.translation">
             <p>Ἁψίς<lb/> Αἰδεσὶου<lb/>
                     γερου<supplied reason="omitted">σ</supplied>ιάρχου
-                    <lb/> Ἀντιοχέως </p>
+                    <lb/> Ἀντιοχέως</p>
          </div>
          <div type="translation" ana="#b6" xml:id="beth0141.translation" corresp="#beth0141.transcription">
             <p>The <rs type="object" ana="interpretations.xml#tomb">tomb </rs> of <persName xml:lang="grc " ref="persons.xml#beth0141p01">Aidesios</persName>, <rs type="title" ana="interpretations.xml#gerousiarchos">head of the Council of Elders</rs>, from <rs type="ethnicon" ana="interpretations.xml#Antiochia">
                   <placeName>Antiochia</placeName>
                </rs>.</p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="beth0141-1" xml:lang="grc">Ἁψίς</w> <w xml:id="beth0141-2" xml:lang="grc">Αἰδεσὶου</w> <w xml:id="beth0141-3" xml:lang="grc">γερου<supplied reason="omitted">σ</supplied>ιάρχου</w> <w xml:id="beth0141-4" xml:lang="grc">Ἀντιοχέως</w> <w xml:id="beth0141-5" xml:lang="grc"/></p>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="beth0141-1" xml:lang="grc">Ἁψίς</w> <w xml:id="beth0141-2" xml:lang="grc">Αἰδεσὶου</w> <w xml:id="beth0141-3" xml:lang="grc">γερου<supplied reason="omitted">σ</supplied>ιάρχου</w> <w xml:id="beth0141-4" xml:lang="grc">Ἀντιοχέως</w></p>
 </div>
 </body>
       <back>

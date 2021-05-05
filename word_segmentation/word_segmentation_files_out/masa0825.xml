@@ -168,8 +168,7 @@
                 <p>COP<lb/>CUM</p>
             </div>
             <div type="edition" subtype="transcription" ana="b1">
-                <p>
-               <orig>Cop</orig>
+                <p><orig>Cop</orig>
                <lb/>
                <expan><abbr>Cum</abbr><ex>ana</ex></expan>
             </p>
@@ -183,7 +182,7 @@
             </div>
             <!-- The bibl has more contained elements. What is the possible list of values of the biblScope/@type? 
              -->
-        <div type="edition" subtype="transcription_segmented"><p><w xml:id="masa0825-1" xml:lang="la"/> <w xml:id="masa0825-2" xml:lang="la"><orig>Cop</orig></w> <w xml:id="masa0825-3" xml:lang="la"><expan><abbr>Cum</abbr><ex>ana</ex></expan></w> <w xml:id="masa0825-4" xml:lang="la"/></p>
+        <div type="edition" subtype="transcription_segmented"><p><w xml:id="masa0825-1" xml:lang="la"><orig>Cop</orig></w> <w xml:id="masa0825-2" xml:lang="la"><expan><abbr>Cum</abbr><ex>ana</ex></expan></w> <w xml:id="masa0825-3" xml:lang="la"/></p>
 </div>
 </body>
         <back>

@@ -117,15 +117,14 @@
       <body>
          <div type="edition" ana="#b5" subtype="transcription" xml:id="beth0169.transcription" corresp="#beth0169.translation">
             <p>Παυλίνου<lb/>
-          μυρεψ<supplied reason="omitted">οῦ</supplied>
-            </p>
+          μυρεψ<supplied reason="omitted">οῦ</supplied></p>
          </div>
          <div type="translation" ana="#b5" xml:id="beth0169.translation" corresp="#beth0169.transcription">
             <p>Of <persName xml:lang="la " ref="persons.xml#beth0169p01">Paulinus</persName>, the
 						<rs type="occupation" ana="interpretations.xml#perfume-dealer"> perfume merchant </rs>
             </p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="beth0169-1" xml:lang="grc">Παυλίνου</w> <w xml:id="beth0169-2" xml:lang="grc">μυρεψ<supplied reason="omitted">οῦ</supplied></w> <w xml:id="beth0169-3" xml:lang="grc"/></p>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="beth0169-1" xml:lang="grc">Παυλίνου</w> <w xml:id="beth0169-2" xml:lang="grc">μυρεψ<supplied reason="omitted">οῦ</supplied></w></p>
 </div>
 </body>
       <back>

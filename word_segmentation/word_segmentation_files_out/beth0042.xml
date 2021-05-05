@@ -117,14 +117,14 @@
             <p>Catacomb 1, Hall G, room IV, arcosolium 1</p>
          </div>
          <div type="edition" ana="#b2" subtype="transcription" xml:id="beth0042.transcription" corresp="#beth0042.translation">
-            <p>Ἀβρᾶ καὶ Σαμῆ </p>
+            <p>Ἀβρᾶ καὶ Σαμῆ</p>
          </div>
          <div type="translation" ana="#b2" xml:id="beth0042.translation" corresp="#beth0042.transcription">
             <p>
                <persName xml:lang="hbo " ref="persons.xml#beth0042p01">Abra </persName> and <persName xml:lang="hbo " ref="persons.xml#beth0042p02">Same </persName>
             </p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="beth0042-1" xml:lang="grc">Ἀβρᾶ</w> <w xml:id="beth0042-2" xml:lang="grc">καὶ</w> <w xml:id="beth0042-3" xml:lang="grc">Σαμῆ</w> <w xml:id="beth0042-4" xml:lang="grc"/></p>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="beth0042-1" xml:lang="grc">Ἀβρᾶ</w> <w xml:id="beth0042-2" xml:lang="grc">καὶ</w> <w xml:id="beth0042-3" xml:lang="grc">Σαμῆ</w></p>
 </div>
 </body>
       <back>

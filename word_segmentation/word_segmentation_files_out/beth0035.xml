@@ -116,17 +116,16 @@
    <text>
       <body>
          <div type="edition" ana="#b2" subtype="transcription" xml:id="beth0035.transcription" corresp="#beth0035.translation">
-            <p>
-               <gap reason="lost" quantity="1" unit="line"/>
+            <p><gap reason="lost" quantity="1" unit="line"/>
                <lb/>ὅσιος<lb/> ὧδε
-					κῖ<lb break="no"/>τε </p>
+					κῖ<lb break="no"/>τε</p>
          </div>
          <div type="translation" ana="#b2" xml:id="beth0035.translation" corresp="#beth0035.transcription">
             <p> ...<rs type="epithet" ana="interpretations.xml#pious">the pious </rs>
                <rs type="formula" ana="interpretations.xml#lies">lies here </rs>
             </p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="beth0035-1" xml:lang="grc"/> <w xml:id="beth0035-2" xml:lang="grc">ὅσιος</w> <w xml:id="beth0035-3" xml:lang="grc">ὧδε</w> <w xml:id="beth0035-4" xml:lang="grc">κῖτε</w> <w xml:id="beth0035-5" xml:lang="grc"/></p>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="beth0035-1" xml:lang="grc"/> <w xml:id="beth0035-2" xml:lang="grc">ὅσιος</w> <w xml:id="beth0035-3" xml:lang="grc">ὧδε</w> <w xml:id="beth0035-4" xml:lang="grc">κῖτε</w></p>
 </div>
 </body>
       <back>

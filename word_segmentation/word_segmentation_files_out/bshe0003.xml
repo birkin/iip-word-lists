@@ -178,7 +178,7 @@
             </div>
             <div type="edition" subtype="transcription" ana="b1">
                 <p>Ἔτους <num value="203">γσʹ</num>
-                    <lb/>Λούκιος Οὐάριος Κυ<lb break="no"/>ρείνᾳ Πρόκλος Δὶ<lb/>Ἀκρα<supplied reason="lost">ί</supplied>ῳ <supplied reason="lost">Ϲ</supplied>ω<supplied reason="lost">τ</supplied>ῆρι <lb/>μετ᾽ εὐχαριστίας <lb/>ἀνέθηκε<supplied reason="lost">ν</supplied>. </p>
+                    <lb/>Λούκιος Οὐάριος Κυ<lb break="no"/>ρείνᾳ Πρόκλος Δὶ<lb/>Ἀκρα<supplied reason="lost">ί</supplied>ῳ <supplied reason="lost">Ϲ</supplied>ω<supplied reason="lost">τ</supplied>ῆρι <lb/>μετ᾽ εὐχαριστίας <lb/>ἀνέθηκε<supplied reason="lost">ν</supplied>.</p>
             </div>
             <div type="translation" ana="b1">
                 <p>Year 203. Lucius Varius of the (tribe) Quirina dedicated (this) to Zeus Akraios,
@@ -189,7 +189,7 @@
             </div>
             <!-- The bibl has more contained elements. What is the possible list of values of the biblScope/@type? 
              -->
-        <div type="edition" subtype="transcription_segmented"><p><w xml:id="bshe0003-1" xml:lang="grc">Ἔτους</w> <w xml:id="bshe0003-2" xml:lang="grc"><num value="203">γσʹ</num></w> <w xml:id="bshe0003-3" xml:lang="grc">Λούκιος</w> <w xml:id="bshe0003-4" xml:lang="grc">Οὐάριος</w> <w xml:id="bshe0003-5" xml:lang="grc">Κυρείνᾳ</w> <w xml:id="bshe0003-6" xml:lang="grc">Πρόκλος</w> <w xml:id="bshe0003-7" xml:lang="grc">Δὶ</w> <w xml:id="bshe0003-8" xml:lang="grc">Ἀκρα<supplied reason="lost">ί</supplied>ῳ</w> <w xml:id="bshe0003-9" xml:lang="grc"><supplied reason="lost">Ϲ</supplied>ω<supplied reason="lost">τ</supplied>ῆρι</w> <w xml:id="bshe0003-10" xml:lang="grc">μετ᾽</w> <w xml:id="bshe0003-11" xml:lang="grc">εὐχαριστίας</w> <w xml:id="bshe0003-12" xml:lang="grc">ἀνέθηκε<supplied reason="lost">ν</supplied>.</w> <w xml:id="bshe0003-13" xml:lang="grc"/></p>
+        <div type="edition" subtype="transcription_segmented"><p><w xml:id="bshe0003-1" xml:lang="grc">Ἔτους</w> <w xml:id="bshe0003-2" xml:lang="grc"><num value="203">γσʹ</num></w> <w xml:id="bshe0003-3" xml:lang="grc">Λούκιος</w> <w xml:id="bshe0003-4" xml:lang="grc">Οὐάριος</w> <w xml:id="bshe0003-5" xml:lang="grc">Κυρείνᾳ</w> <w xml:id="bshe0003-6" xml:lang="grc">Πρόκλος</w> <w xml:id="bshe0003-7" xml:lang="grc">Δὶ</w> <w xml:id="bshe0003-8" xml:lang="grc">Ἀκρα<supplied reason="lost">ί</supplied>ῳ</w> <w xml:id="bshe0003-9" xml:lang="grc"><supplied reason="lost">Ϲ</supplied>ω<supplied reason="lost">τ</supplied>ῆρι</w> <w xml:id="bshe0003-10" xml:lang="grc">μετ᾽</w> <w xml:id="bshe0003-11" xml:lang="grc">εὐχαριστίας</w> <w xml:id="bshe0003-12" xml:lang="grc">ἀνέθηκε<supplied reason="lost">ν</supplied>.</w></p>
 </div>
 </body>
         <back>

@@ -114,11 +114,10 @@
    <text>
       <body>
          <div type="edition" ana="#b2" subtype="transcription" xml:id="beth0085.transcription" corresp="#beth0085.translation">
-            <p>
-               <supplied reason="lost">Σ</supplied>
+            <p><supplied reason="lost">Σ</supplied>
                <unclear>άρ</unclear>α
 					Κυ<lb break="no"/>ρί<lb break="no"/><supplied reason="lost">νου</supplied> <supplied reason="lost">ἔ</supplied>νθα<lb/>
-               <supplied reason="lost">κῖ</supplied>τε </p>
+               <supplied reason="lost">κῖ</supplied>τε</p>
          </div>
          <div type="translation" ana="#b2" xml:id="beth0085.translation" corresp="#beth0085.transcription">
             <p>
@@ -126,7 +125,7 @@
                   <persName xml:lang="hbo " ref="persons.xml#beth0085p01">Sarah</persName>, <rs type="family">daughter </rs> of <persName type="patr" xml:lang="grc " ref="persons.xml#beth0085p02">Kyrinos </persName>
                </name>, <rs type="formula" ana="interpretations.xml#lies">lies here</rs>.</p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="beth0085-1" xml:lang="grc"/> <w xml:id="beth0085-2" xml:lang="grc"><supplied reason="lost">Σ</supplied></w> <w xml:id="beth0085-3" xml:lang="grc"><unclear>άρ</unclear>α</w> <w xml:id="beth0085-4" xml:lang="grc">Κυρί<supplied reason="lost">νου</supplied></w> <w xml:id="beth0085-5" xml:lang="grc"><supplied reason="lost">ἔ</supplied>νθα</w> <w xml:id="beth0085-6" xml:lang="grc"><supplied reason="lost">κῖ</supplied>τε</w> <w xml:id="beth0085-7" xml:lang="grc"/></p>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="beth0085-1" xml:lang="grc"><supplied reason="lost">Σ</supplied></w> <w xml:id="beth0085-2" xml:lang="grc"><unclear>άρ</unclear>α</w> <w xml:id="beth0085-3" xml:lang="grc">Κυρί<supplied reason="lost">νου</supplied></w> <w xml:id="beth0085-4" xml:lang="grc"><supplied reason="lost">ἔ</supplied>νθα</w> <w xml:id="beth0085-5" xml:lang="grc"><supplied reason="lost">κῖ</supplied>τε</w></p>
 </div>
 </body>
       <back>

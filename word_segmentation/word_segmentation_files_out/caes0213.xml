@@ -125,8 +125,7 @@
                <lb/>
                <gap reason="lost" extent="unknown" unit="character"/>
                <gap reason="illegible" quantity="1" unit="character"/>
-               <gap reason="lost" unit="character" extent="unknown"/>
-            </p>
+               <gap reason="lost" unit="character" extent="unknown"/></p>
          </div>
          <div type="translation" ana="#b1" xml:id="caes0213.translation" corresp="#caes0213.transcription">
             <p>The tomb of  Mani---...

@@ -112,13 +112,12 @@
    <text>
       <body>
          <div type="edition" ana="#b1" xml:lang="grc" subtype="transcription" xml:id="jeru0058.transcription" corresp="#jeru0058.translation">
-            <p>Ἀρριστοβούλα<lb/>Σόρρα<lb/>Ἀρριστοβό<lb/>λα
-                </p>
+            <p>Ἀρριστοβούλα<lb/>Σόρρα<lb/>Ἀρριστοβό<lb/>λα</p>
          </div>
          <div type="translation" ana="#b1" xml:id="jeru0058.translation" corresp="#jeru0058.transcription">
             <p>Arristobou[la]. Sorra Arristobola</p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="jeru0058-1" xml:lang="grc">Ἀρριστοβούλα</w> <w xml:id="jeru0058-2" xml:lang="grc">Σόρρα</w> <w xml:id="jeru0058-3" xml:lang="grc">Ἀρριστοβό</w> <w xml:id="jeru0058-4" xml:lang="grc">λα</w> <w xml:id="jeru0058-5" xml:lang="grc"/></p>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="jeru0058-1" xml:lang="grc">Ἀρριστοβούλα</w> <w xml:id="jeru0058-2" xml:lang="grc">Σόρρα</w> <w xml:id="jeru0058-3" xml:lang="grc">Ἀρριστοβό</w> <w xml:id="jeru0058-4" xml:lang="grc">λα</w></p>
 </div>
 </body>
       <back>

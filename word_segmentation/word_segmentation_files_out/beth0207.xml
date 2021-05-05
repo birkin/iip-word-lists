@@ -117,10 +117,9 @@
    <text>
       <body>
          <div type="edition" ana="#b2" subtype="transcription" xml:id="beth0207.transcription" corresp="#beth0207.translation">
-            <p>
-               <supplied reason="lost">Σα</supplied>
+            <p><supplied reason="lost">Σα</supplied>
                <unclear>μ</unclear>ουήλο<lb break="no"/><supplied reason="lost">υ</supplied> <supplied reason="lost">υἱοῦ</supplied>
-               <unclear>Γ</unclear>ερμα<lb break="no"/><supplied reason="lost">νοῦ</supplied> <supplied reason="lost">π</supplied>ενι<lb break="no"/><supplied reason="lost">χρ</supplied>οῦ </p>
+               <unclear>Γ</unclear>ερμα<lb break="no"/><supplied reason="lost">νοῦ</supplied> <supplied reason="lost">π</supplied>ενι<lb break="no"/><supplied reason="lost">χρ</supplied>οῦ</p>
          </div>
          <div type="translation" ana="#b2" xml:id="beth0207.translation" corresp="#beth0207.transcription">
             <p>[The tomb] of <name type="patr">
@@ -129,7 +128,7 @@
                </name> the <rs type="epithet" ana="interpretations.xml#poor">poor </rs>
             </p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="beth0207-1" xml:lang="grc"/> <w xml:id="beth0207-2" xml:lang="grc"><supplied reason="lost">Σα</supplied></w> <w xml:id="beth0207-3" xml:lang="grc"><unclear>μ</unclear>ουήλο<supplied reason="lost">υ</supplied></w> <w xml:id="beth0207-4" xml:lang="grc"><supplied reason="lost">υἱοῦ</supplied></w> <w xml:id="beth0207-5" xml:lang="grc"><unclear>Γ</unclear>ερμα<supplied reason="lost">νοῦ</supplied></w> <w xml:id="beth0207-6" xml:lang="grc"><supplied reason="lost">π</supplied>ενι<supplied reason="lost">χρ</supplied>οῦ</w> <w xml:id="beth0207-7" xml:lang="grc"/></p>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="beth0207-1" xml:lang="grc"><supplied reason="lost">Σα</supplied></w> <w xml:id="beth0207-2" xml:lang="grc"><unclear>μ</unclear>ουήλο<supplied reason="lost">υ</supplied></w> <w xml:id="beth0207-3" xml:lang="grc"><supplied reason="lost">υἱοῦ</supplied></w> <w xml:id="beth0207-4" xml:lang="grc"><unclear>Γ</unclear>ερμα<supplied reason="lost">νοῦ</supplied></w> <w xml:id="beth0207-5" xml:lang="grc"><supplied reason="lost">π</supplied>ενι<supplied reason="lost">χρ</supplied>οῦ</w></p>
 </div>
 </body>
       <back>

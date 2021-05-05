@@ -125,9 +125,7 @@
                 <p/>
             </div>
             <div type="edition" subtype="transcription" ana="b1">
-                <p>
-               <choice><orig>Ἄνις</orig><reg>Ἄνιος</reg></choice>
-            </p>
+                <p><choice><orig>Ἄνις</orig><reg>Ἄνιος</reg></choice></p>
             </div>
             <div type="translation" ana="b1">
                 <p>Anius</p>
@@ -135,7 +133,7 @@
             <div type="commentary" ana="b1">
                 <p/>
             </div>
-        <div type="edition" subtype="transcription_segmented"><p><w xml:id="jeru0520-1" xml:lang="grc"/> <w xml:id="jeru0520-2" xml:lang="grc"><choice><orig>Ἄνις</orig><reg>Ἄνιος</reg></choice></w> <w xml:id="jeru0520-3" xml:lang="grc"/></p>
+        <div type="edition" subtype="transcription_segmented"><p><w xml:id="jeru0520-1" xml:lang="grc"><choice><orig>Ἄνις</orig><reg>Ἄνιος</reg></choice></w></p>
 </div>
 </body>
         <back>

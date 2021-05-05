@@ -132,10 +132,8 @@
             </p>
             </div>
             <div type="edition" subtype="transcription" ana="b1">
-                <p>
-               <supplied reason="lost"><g type="cross"/></supplied> <supplied reason="lost">Ὑπερ</supplied> καρποφορίας καὶ
-                    σωτηρίας Τιμοθέου πρεσβυτέρου <g type="cross"/>
-            </p>
+                <p><supplied reason="lost"><g type="cross"/></supplied> <supplied reason="lost">Ὑπερ</supplied> καρποφορίας καὶ
+                    σωτηρίας Τιμοθέου πρεσβυτέρου <g type="cross"/></p>
             </div>
             <div type="translation" ana="b1">
                 <p>For the offering and the salvation of Timotheus the priest.</p>
@@ -143,7 +141,7 @@
             <div type="commentary" ana="b1">
                 <p/>
             </div>
-        <div type="edition" subtype="transcription_segmented"><p><w xml:id="jeru0312-1" xml:lang="grc"/> <w xml:id="jeru0312-2" xml:lang="grc"><supplied reason="lost"><g type="cross"/></supplied></w> <w xml:id="jeru0312-3" xml:lang="grc"><supplied reason="lost">Ὑπερ</supplied></w> <w xml:id="jeru0312-4" xml:lang="grc">καρποφορίας</w> <w xml:id="jeru0312-5" xml:lang="grc">καὶ</w> <w xml:id="jeru0312-6" xml:lang="grc">σωτηρίας</w> <w xml:id="jeru0312-7" xml:lang="grc">Τιμοθέου</w> <w xml:id="jeru0312-8" xml:lang="grc">πρεσβυτέρου</w> <w xml:id="jeru0312-9" xml:lang="grc"><g type="cross"/></w> <w xml:id="jeru0312-10" xml:lang="grc"/></p>
+        <div type="edition" subtype="transcription_segmented"><p><w xml:id="jeru0312-1" xml:lang="grc"><supplied reason="lost"><g type="cross"/></supplied></w> <w xml:id="jeru0312-2" xml:lang="grc"><supplied reason="lost">Ὑπερ</supplied></w> <w xml:id="jeru0312-3" xml:lang="grc">καρποφορίας</w> <w xml:id="jeru0312-4" xml:lang="grc">καὶ</w> <w xml:id="jeru0312-5" xml:lang="grc">σωτηρίας</w> <w xml:id="jeru0312-6" xml:lang="grc">Τιμοθέου</w> <w xml:id="jeru0312-7" xml:lang="grc">πρεσβυτέρου</w> <w xml:id="jeru0312-8" xml:lang="grc"><g type="cross"/></w></p>
 </div>
 </body>
         <back>

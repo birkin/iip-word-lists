@@ -134,8 +134,7 @@
    <text>
       <body>
          <div type="edition" ana="#b1" xml:lang="grc" subtype="transcription" xml:id="zoor0121.transcription" corresp="#zoor0121.translation">
-            <p>
-               <g type="cross">+</g>
+            <p><g type="cross">+</g>
                <lb/> Ἀνεπά<lb break="no"/>η Ὀλέφ<lb break="no"/>θα <choice><orig>Ἰσι<g>+</g><lb break="no"/>σ<g>+</g>δώρ<lb break="no"/>ου</orig><reg>Ἰσιδώρου</reg></choice> ἐν <g type="cross">+</g>
                <g type="cross">+</g>
                <lb/>
@@ -149,7 +148,7 @@
             <p>Oleftha, (daughter) of Isidoros, came to rest (died) in Christ, (at the age) of
                     10 years, in (the) year 318.</p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="zoor0121-1" xml:lang="grc"/> <w xml:id="zoor0121-2" xml:lang="grc"><g type="cross">+</g></w> <w xml:id="zoor0121-3" xml:lang="grc">Ἀνεπάη</w> <w xml:id="zoor0121-4" xml:lang="grc">Ὀλέφθα</w> <w xml:id="zoor0121-5" xml:lang="grc"><choice><orig>Ἰσι<g>+</g>σ<g>+</g>δώρου</orig><reg>Ἰσιδώρου</reg></choice></w> <w xml:id="zoor0121-6" xml:lang="grc">ἐν</w> <w xml:id="zoor0121-7" xml:lang="grc"><g type="cross">+</g></w> <w xml:id="zoor0121-8" xml:lang="grc"><g type="cross">+</g></w> <w xml:id="zoor0121-9" xml:lang="grc"><expan><abbr>Χ</abbr><ex>ριστ</ex><abbr>ῷ</abbr></expan></w> <w xml:id="zoor0121-10" xml:lang="grc">ἐτῶ</w> <w xml:id="zoor0121-11" xml:lang="grc">ν</w> <w xml:id="zoor0121-12" xml:lang="grc"><num>ιʹ</num>,</w> <w xml:id="zoor0121-13" xml:lang="grc"><g type="cross">+</g></w> <w xml:id="zoor0121-14" xml:lang="grc"><g type="cross">+</g></w> <w xml:id="zoor0121-15" xml:lang="grc"><expan><abbr>ἔτ</abbr><ex>ους</ex></expan></w> <w xml:id="zoor0121-16" xml:lang="grc"><g type="cross">+</g></w> <w xml:id="zoor0121-17" xml:lang="grc"><num>τηιʹ</num>.</w></p>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="zoor0121-1" xml:lang="grc"><g type="cross">+</g></w> <w xml:id="zoor0121-2" xml:lang="grc">Ἀνεπάη</w> <w xml:id="zoor0121-3" xml:lang="grc">Ὀλέφθα</w> <w xml:id="zoor0121-4" xml:lang="grc"><choice><orig>Ἰσι<g>+</g>σ<g>+</g>δώρου</orig><reg>Ἰσιδώρου</reg></choice></w> <w xml:id="zoor0121-5" xml:lang="grc">ἐν</w> <w xml:id="zoor0121-6" xml:lang="grc"><g type="cross">+</g></w> <w xml:id="zoor0121-7" xml:lang="grc"><g type="cross">+</g></w> <w xml:id="zoor0121-8" xml:lang="grc"><expan><abbr>Χ</abbr><ex>ριστ</ex><abbr>ῷ</abbr></expan></w> <w xml:id="zoor0121-9" xml:lang="grc">ἐτῶ</w> <w xml:id="zoor0121-10" xml:lang="grc">ν</w> <w xml:id="zoor0121-11" xml:lang="grc"><num>ιʹ</num>,</w> <w xml:id="zoor0121-12" xml:lang="grc"><g type="cross">+</g></w> <w xml:id="zoor0121-13" xml:lang="grc"><g type="cross">+</g></w> <w xml:id="zoor0121-14" xml:lang="grc"><expan><abbr>ἔτ</abbr><ex>ους</ex></expan></w> <w xml:id="zoor0121-15" xml:lang="grc"><g type="cross">+</g></w> <w xml:id="zoor0121-16" xml:lang="grc"><num>τηιʹ</num>.</w></p>
 </div>
 </body>
       <back>

@@ -125,12 +125,10 @@
                <gap reason="lost" extent="unknown" unit="character"/> ΜΕΓ <hi rend="superscript">L</hi> Γ</p>
             </div>
             <div type="edition" subtype="transcription" ana="b1">
-                <p>
-               <gap reason="lost" extent="unknown" unit="character"/>
+                <p><gap reason="lost" extent="unknown" unit="character"/>
                <expan><abbr>μεγ</abbr><ex>άλου</ex></expan>
                     <expan><abbr><am>L</am></abbr><ex>ἔτους</ex></expan>
-                        <num value="3">γ</num>
-            </p>
+                        <num value="3">γ</num></p>
             </div>
             <div type="translation" ana="b1">
                 <p>The third year of the great...</p>
@@ -138,7 +136,7 @@
             <div type="commentary" ana="b1">
                 <p/>
             </div>
-        <div type="edition" subtype="transcription_segmented"><p><w xml:id="mare0189-1" xml:lang="grc"/> <w xml:id="mare0189-2" xml:lang="grc"><expan><abbr>μεγ</abbr><ex>άλου</ex></expan></w> <w xml:id="mare0189-3" xml:lang="grc"><expan><abbr><am>L</am></abbr><ex>ἔτους</ex></expan></w> <w xml:id="mare0189-4" xml:lang="grc"><num value="3">γ</num></w> <w xml:id="mare0189-5" xml:lang="grc"/></p>
+        <div type="edition" subtype="transcription_segmented"><p><w xml:id="mare0189-1" xml:lang="grc"/> <w xml:id="mare0189-2" xml:lang="grc"><expan><abbr>μεγ</abbr><ex>άλου</ex></expan></w> <w xml:id="mare0189-3" xml:lang="grc"><expan><abbr><am>L</am></abbr><ex>ἔτους</ex></expan></w> <w xml:id="mare0189-4" xml:lang="grc"><num value="3">γ</num></w></p>
 </div>
 </body>
         <back>

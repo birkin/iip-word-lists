@@ -165,7 +165,7 @@
                 <p/>
             </div>
             <div type="edition" subtype="transcription" ana="b1" xml:lang="heb">
-                <p> עבד<unclear>אד</unclear>ה דמי ס <num value="3"><g type="three-vertical-strokes"/></num> ק <num value="4"><g type="four-vertical-strokes"/></num>
+                <p>עבד<unclear>אד</unclear>ה דמי ס <num value="3"><g type="three-vertical-strokes"/></num> ק <num value="4"><g type="four-vertical-strokes"/></num>
                     <lb/><gap reason="lost" extent="unknown" unit="character"/><gap reason="illegible" quantity="4" unit="character"/><gap reason="lost" extent="unknown" unit="character"/></p>
             </div>
             <div type="translation" ana="b1">
@@ -176,7 +176,7 @@
             </div>
             <!-- The bibl has more contained elements. What is the possible list of values of the biblScope/@type? 
              -->
-        <div type="edition" subtype="transcription_segmented"><p><w xml:id="idum0458-1" xml:lang="arc"/> <w xml:id="idum0458-2" xml:lang="arc">עבד<unclear>אד</unclear>ה</w> <w xml:id="idum0458-3" xml:lang="arc">דמי</w> <w xml:id="idum0458-4" xml:lang="arc">ס</w> <w xml:id="idum0458-5" xml:lang="arc"><num value="3"><g type="three-vertical-strokes"/></num></w> <w xml:id="idum0458-6" xml:lang="arc">ק</w> <w xml:id="idum0458-7" xml:lang="arc"><num value="4"><g type="four-vertical-strokes"/></num></w> <w xml:id="idum0458-8" xml:lang="arc"/></p>
+        <div type="edition" subtype="transcription_segmented"><p><w xml:id="idum0458-1" xml:lang="arc">עבד<unclear>אד</unclear>ה</w> <w xml:id="idum0458-2" xml:lang="arc">דמי</w> <w xml:id="idum0458-3" xml:lang="arc">ס</w> <w xml:id="idum0458-4" xml:lang="arc"><num value="3"><g type="three-vertical-strokes"/></num></w> <w xml:id="idum0458-5" xml:lang="arc">ק</w> <w xml:id="idum0458-6" xml:lang="arc"><num value="4"><g type="four-vertical-strokes"/></num></w> <w xml:id="idum0458-7" xml:lang="arc"/></p>
 </div>
 </body>
         <back>

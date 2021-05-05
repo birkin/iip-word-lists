@@ -120,14 +120,14 @@
       <body>
          <div type="edition" ana="#b5" subtype="transcription" xml:id="beth0137.transcription" corresp="#beth0137.translation">
             <p>Ἁψὶς<lb/>Καλιόπης,<lb/>Βιβλί<lb break="no"/>ας,<lb/>
-					ματρώ<lb break="no"/>νης </p>
+					ματρώ<lb break="no"/>νης</p>
          </div>
          <div type="translation" ana="#b5" xml:id="beth0137.translation" corresp="#beth0137.transcription">
             <p>The <rs type="object" ana="interpretations.xml#tomb">tomb </rs> of <persName xml:lang="grc " ref="persons.xml#beth0137p01">Calliope </persName> from <rs type="ethnicon" ana="interpretations.xml#Byblos">
                   <placeName> Byblos</placeName>
                </rs>, the <rs type="title" ana="interpretations.xml#matrona">matrona</rs>.</p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="beth0137-1" xml:lang="grc">Ἁψὶς</w> <w xml:id="beth0137-2" xml:lang="grc">Καλιόπης,</w> <w xml:id="beth0137-3" xml:lang="grc">Βιβλίας,</w> <w xml:id="beth0137-4" xml:lang="grc">ματρώνης</w> <w xml:id="beth0137-5" xml:lang="grc"/></p>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="beth0137-1" xml:lang="grc">Ἁψὶς</w> <w xml:id="beth0137-2" xml:lang="grc">Καλιόπης,</w> <w xml:id="beth0137-3" xml:lang="grc">Βιβλίας,</w> <w xml:id="beth0137-4" xml:lang="grc">ματρώνης</w></p>
 </div>
 </body>
       <back>

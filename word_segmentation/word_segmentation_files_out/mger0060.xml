@@ -175,8 +175,7 @@
                 <p/>
             </div>
             <div type="edition" subtype="transcription" ana="b1" xml:lang="heb">
-                <p>
-               <gap reason="lost" extent="unknown" unit="character"/>אפרי<supplied reason="lost">מ</supplied>
+                <p><gap reason="lost" extent="unknown" unit="character"/>אפרי<supplied reason="lost">מ</supplied>
                <gap reason="lost" extent="unknown" unit="character"/>
             </p>
             </div>
@@ -188,7 +187,7 @@
             </div>
             <!-- The bibl has more contained elements. What is the possible list of values of the biblScope/@type? 
              -->
-        <div type="edition" subtype="transcription_segmented"><p><w xml:id="mger0060-1" xml:lang="arc"/> <w xml:id="mger0060-2" xml:lang="arc">אפרי<supplied reason="lost">מ</supplied></w> <w xml:id="mger0060-3" xml:lang="arc"/></p>
+        <div type="edition" subtype="transcription_segmented"><p><w xml:id="mger0060-1" xml:lang="arc">אפרי<supplied reason="lost">מ</supplied></w> <w xml:id="mger0060-2" xml:lang="arc"/></p>
 </div>
 </body>
         <back>

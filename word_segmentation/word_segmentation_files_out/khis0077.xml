@@ -122,19 +122,17 @@
 				</p>
          </div>
          <div type="edition" ana="#b1" subtype="transcription" xml:id="khis0077.transcription" corresp="#khis0077.diplomatic #khis0077.translation">
-            <p>
-               <unclear>ε</unclear>
+            <p><unclear>ε</unclear>
                <gap reason="illegible" quantity="2" unit="character"/>
                <lb/> Ανα<supplied reason="undefined">η</supplied>λος <lb/>
                <expan><abbr>ἐτ</abbr><ex>ῶν</ex></expan>
-               <num value="7"><unclear>ζ´</unclear></num>
-            </p>
+               <num value="7"><unclear>ζ´</unclear></num></p>
          </div>
          <div type="translation" ana="#b1" xml:id="khis0077.translation" corresp="#khis0077.diplomatic #khis0077.transcription">
             <p>...Anaelos(?). Seven(?) years old. 
 				</p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="khis0077-1" xml:lang="grc"/> <w xml:id="khis0077-2" xml:lang="grc"><unclear>ε</unclear></w> <w xml:id="khis0077-3" xml:lang="grc">Ανα<supplied reason="undefined">η</supplied>λος</w> <w xml:id="khis0077-4" xml:lang="grc"><expan><abbr>ἐτ</abbr><ex>ῶν</ex></expan></w> <w xml:id="khis0077-5" xml:lang="grc"><num value="7"><unclear>ζ´</unclear></num></w> <w xml:id="khis0077-6" xml:lang="grc"/></p>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="khis0077-1" xml:lang="grc"><unclear>ε</unclear></w> <w xml:id="khis0077-2" xml:lang="grc">Ανα<supplied reason="undefined">η</supplied>λος</w> <w xml:id="khis0077-3" xml:lang="grc"><expan><abbr>ἐτ</abbr><ex>ῶν</ex></expan></w> <w xml:id="khis0077-4" xml:lang="grc"><num value="7"><unclear>ζ´</unclear></num></w></p>
 </div>
 </body>
       <back>

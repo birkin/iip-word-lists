@@ -117,14 +117,14 @@
    <text>
       <body>
          <div type="edition" ana="#b5" subtype="transcription" xml:id="beth0092.transcription" corresp="#beth0092.translation">
-            <p>Λεοντίου Πολμυρηνοῦ<lb/> τραπεζίτου<lb/> ἡμεῖς </p>
+            <p>Λεοντίου Πολμυρηνοῦ<lb/> τραπεζίτου<lb/> ἡμεῖς</p>
          </div>
          <div type="translation" ana="#b5" xml:id="beth0092.translation" corresp="#beth0092.transcription">
             <p>We (are the sons) of <persName xml:lang="grc " ref="persons.xml#beth0092p01">Leontios </persName> from <rs type="ethnicon">
                   <placeName>Palmyra</placeName>
                </rs>, the <rs type="occupation" ana="interpretations.xml#banker">banker</rs>.</p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="beth0092-1" xml:lang="grc">Λεοντίου</w> <w xml:id="beth0092-2" xml:lang="grc">Πολμυρηνοῦ</w> <w xml:id="beth0092-3" xml:lang="grc">τραπεζίτου</w> <w xml:id="beth0092-4" xml:lang="grc">ἡμεῖς</w> <w xml:id="beth0092-5" xml:lang="grc"/></p>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="beth0092-1" xml:lang="grc">Λεοντίου</w> <w xml:id="beth0092-2" xml:lang="grc">Πολμυρηνοῦ</w> <w xml:id="beth0092-3" xml:lang="grc">τραπεζίτου</w> <w xml:id="beth0092-4" xml:lang="grc">ἡμεῖς</w></p>
 </div>
 </body>
       <back>

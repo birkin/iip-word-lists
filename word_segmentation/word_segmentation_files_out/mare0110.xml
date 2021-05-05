@@ -125,8 +125,7 @@
                 <p/>
             </div>
             <div type="edition" subtype="transcription" ana="b1" xml:lang="heb">
-                <p>
-               <gap reason="illegible" quantity="3" unit="character"/>בעל בר <unclear>ע</unclear>ני <lb/>ח<unclear>ו</unclear>ר בר
+                <p><gap reason="illegible" quantity="3" unit="character"/>בעל בר <unclear>ע</unclear>ני <lb/>ח<unclear>ו</unclear>ר בר
                     קוסיתע</p>
             </div>
             <div type="translation" ana="b1">
@@ -138,7 +137,7 @@
                     might be related to the name חורי found on some Idumean ostraca. It is also
                     attested in Elephantine and in an inscription from Khirbet el-Kom.</p>
             </div>
-        <div type="edition" subtype="transcription_segmented"><p><w xml:id="mare0110-1" xml:lang="arc"/> <w xml:id="mare0110-2" xml:lang="arc">בעל</w> <w xml:id="mare0110-3" xml:lang="arc">בר</w> <w xml:id="mare0110-4" xml:lang="arc"><unclear>ע</unclear>ני</w> <w xml:id="mare0110-5" xml:lang="arc">ח<unclear>ו</unclear>ר</w> <w xml:id="mare0110-6" xml:lang="arc">בר</w> <w xml:id="mare0110-7" xml:lang="arc">קוסיתע</w></p>
+        <div type="edition" subtype="transcription_segmented"><p><w xml:id="mare0110-1" xml:lang="arc">בעל</w> <w xml:id="mare0110-2" xml:lang="arc">בר</w> <w xml:id="mare0110-3" xml:lang="arc"><unclear>ע</unclear>ני</w> <w xml:id="mare0110-4" xml:lang="arc">ח<unclear>ו</unclear>ר</w> <w xml:id="mare0110-5" xml:lang="arc">בר</w> <w xml:id="mare0110-6" xml:lang="arc">קוסיתע</w></p>
 </div>
 </body>
         <back>

@@ -133,14 +133,12 @@
    <text>
       <body>
          <div type="edition" ana="#b1" xml:lang="grc" subtype="transcription" xml:id="jeru0181.transcription" corresp="#jeru0181.translation">
-            <p>
-                    Ἰοσὲ Λεάζ<lb/>αρος
-                </p>
+            <p>Ἰοσὲ Λεάζ<lb/>αρος</p>
          </div>
          <div type="translation" ana="#b1" xml:id="jeru0181.translation" corresp="#jeru0181.transcription">
             <p>Jose (son of?) Leazaros</p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="jeru0181-1" xml:lang="grc"/> <w xml:id="jeru0181-2" xml:lang="grc">Ἰοσὲ</w> <w xml:id="jeru0181-3" xml:lang="grc">Λεάζ</w> <w xml:id="jeru0181-4" xml:lang="grc">αρος</w> <w xml:id="jeru0181-5" xml:lang="grc"/></p>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="jeru0181-1" xml:lang="grc">Ἰοσὲ</w> <w xml:id="jeru0181-2" xml:lang="grc">Λεάζ</w> <w xml:id="jeru0181-3" xml:lang="grc">αρος</w></p>
 </div>
 </body>
       <back>

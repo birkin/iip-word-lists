@@ -117,13 +117,13 @@
    <text>
       <body>
          <div type="edition" ana="#b2" subtype="transcription" xml:id="beth0152.transcription" corresp="#beth0152.translation">
-            <p>Ἐνθά<lb break="no"/>δε κῖ<lb break="no"/>τε </p>
+            <p>Ἐνθά<lb break="no"/>δε κῖ<lb break="no"/>τε</p>
          </div>
          <div type="translation" ana="#b2" xml:id="beth0152.translation" corresp="#beth0152.transcription">
             <p>
                <rs type="formula" ana="interpretations.xml#lies">Here lies</rs>...</p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="beth0152-1" xml:lang="grc">Ἐνθάδε</w> <w xml:id="beth0152-2" xml:lang="grc">κῖτε</w> <w xml:id="beth0152-3" xml:lang="grc"/></p>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="beth0152-1" xml:lang="grc">Ἐνθάδε</w> <w xml:id="beth0152-2" xml:lang="grc">κῖτε</w></p>
 </div>
 </body>
       <back>

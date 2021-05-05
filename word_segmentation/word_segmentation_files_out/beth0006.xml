@@ -117,14 +117,14 @@
    <text>
       <body>
          <div type="edition" ana="#b2" subtype="transcription" xml:id="beth0006.transcription" corresp="#beth0006.translation">
-            <p>Εὐμύρι<lb/> Ἰάκκωβε </p>
+            <p>Εὐμύρι<lb/> Ἰάκκωβε</p>
          </div>
          <div type="translation" ana="#b2" xml:id="beth0006.translation" corresp="#beth0006.transcription">
             <p>
                <rs type="formula" ana="interpretations.xml#lot">May your lot be good</rs>, <persName xml:lang="hbo " ref="persons.xml#beth0006p01">Jacob </persName>
             </p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="beth0006-1" xml:lang="grc">Εὐμύρι</w> <w xml:id="beth0006-2" xml:lang="grc">Ἰάκκωβε</w> <w xml:id="beth0006-3" xml:lang="grc"/></p>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="beth0006-1" xml:lang="grc">Εὐμύρι</w> <w xml:id="beth0006-2" xml:lang="grc">Ἰάκκωβε</w></p>
 </div>
 </body>
       <back>

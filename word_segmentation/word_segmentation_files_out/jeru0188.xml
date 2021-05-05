@@ -182,13 +182,12 @@
    <text>
       <body>
          <div type="edition" ana="#b1" xml:lang="grc" subtype="transcription" xml:id="jeru0188.transcription" corresp="#jeru0188.translation">
-            <p>Ἰθαρου
-                </p>
+            <p>Ἰθαρου</p>
          </div>
          <div type="translation" ana="#b1" xml:id="jeru0188.translation" corresp="#jeru0188.transcription">
             <p>of Itharos (or: "of Jethro")</p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="jeru0188-1" xml:lang="grc">Ἰθαρου</w> <w xml:id="jeru0188-2" xml:lang="grc"/></p>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="jeru0188-1" xml:lang="grc">Ἰθαρου</w></p>
 </div>
 </body>
       <back>

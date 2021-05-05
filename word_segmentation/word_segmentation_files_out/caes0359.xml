@@ -113,12 +113,10 @@
    <text>
       <body>
          <div type="edition" ana="#b1" subtype="transcription" xml:id="caes0359.transcription">
-            <p>
-               <gap reason="illegible" quantity="2" unit="character"/><orig>ου</orig> θυγα<supplied reason="undefined">τέρος</supplied>
-               <gap reason="illegible" quantity="2" unit="character"/>
-            </p>
+            <p><gap reason="illegible" quantity="2" unit="character"/><orig>ου</orig> θυγα<supplied reason="undefined">τέρος</supplied>
+               <gap reason="illegible" quantity="2" unit="character"/></p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="caes0359-1" xml:lang="grc"/> <w xml:id="caes0359-2" xml:lang="grc"><orig>ου</orig></w> <w xml:id="caes0359-3" xml:lang="grc">θυγα<supplied reason="undefined">τέρος</supplied></w> <w xml:id="caes0359-4" xml:lang="grc"/></p>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="caes0359-1" xml:lang="grc"><orig>ου</orig></w> <w xml:id="caes0359-2" xml:lang="grc">θυγα<supplied reason="undefined">τέρος</supplied></w> <w xml:id="caes0359-3" xml:lang="grc"/></p>
 </div>
 </body>
       <back>

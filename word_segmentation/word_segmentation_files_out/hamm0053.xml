@@ -125,16 +125,13 @@
 </p>
          </div>
          <div type="edition" ana="#b1" subtype="transcription" xml:id="hamm0053.transcription" corresp="#hamm0053.diplomatic #hamm0053.translation">
-            <p>
-Τὴν τῶν χλιαρῶν δεῖ <lb/>Καισαρέως ἄλλου θόλον<lb/>
-καλεῖν Λέοντος, <lb/> ὡς Ἀλεξάνδρου πάλιν. 
-
-		  </p>
+            <p>Τὴν τῶν χλιαρῶν δεῖ <lb/>Καισαρέως ἄλλου θόλον<lb/>
+καλεῖν Λέοντος, <lb/> ὡς Ἀλεξάνδρου πάλιν.</p>
          </div>
          <div type="translation" ana="#b1" xml:id="hamm0053.translation" corresp="#hamm0053.diplomatic #hamm0053.transcription">
             <p>The tholos of the lukewarm pool should be named after another <rs type="ethnicon">Caesarean</rs>, <persName xml:lang="grc " ref="persons.xml#hamm0053p01">Leo</persName>, as it once (used to be named) after <persName xml:lang="grc " ref="persons.xml#hamm0053p02">Alexander</persName>.</p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="hamm0053-1" xml:lang="grc"/> <w xml:id="hamm0053-2" xml:lang="grc">Τὴν</w> <w xml:id="hamm0053-3" xml:lang="grc">τῶν</w> <w xml:id="hamm0053-4" xml:lang="grc">χλιαρῶν</w> <w xml:id="hamm0053-5" xml:lang="grc">δεῖ</w> <w xml:id="hamm0053-6" xml:lang="grc">Καισαρέως</w> <w xml:id="hamm0053-7" xml:lang="grc">ἄλλου</w> <w xml:id="hamm0053-8" xml:lang="grc">θόλον</w> <w xml:id="hamm0053-9" xml:lang="grc">καλεῖν</w> <w xml:id="hamm0053-10" xml:lang="grc">Λέοντος,</w> <w xml:id="hamm0053-11" xml:lang="grc">ὡς</w> <w xml:id="hamm0053-12" xml:lang="grc">Ἀλεξάνδρου</w> <w xml:id="hamm0053-13" xml:lang="grc">πάλιν.</w> <w xml:id="hamm0053-14" xml:lang="grc"/></p>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="hamm0053-1" xml:lang="grc">Τὴν</w> <w xml:id="hamm0053-2" xml:lang="grc">τῶν</w> <w xml:id="hamm0053-3" xml:lang="grc">χλιαρῶν</w> <w xml:id="hamm0053-4" xml:lang="grc">δεῖ</w> <w xml:id="hamm0053-5" xml:lang="grc">Καισαρέως</w> <w xml:id="hamm0053-6" xml:lang="grc">ἄλλου</w> <w xml:id="hamm0053-7" xml:lang="grc">θόλον</w> <w xml:id="hamm0053-8" xml:lang="grc">καλεῖν</w> <w xml:id="hamm0053-9" xml:lang="grc">Λέοντος,</w> <w xml:id="hamm0053-10" xml:lang="grc">ὡς</w> <w xml:id="hamm0053-11" xml:lang="grc">Ἀλεξάνδρου</w> <w xml:id="hamm0053-12" xml:lang="grc">πάλιν.</w></p>
 </div>
 </body>
       <back>

@@ -110,8 +110,7 @@
    <text>
       <body>
          <div type="edition" ana="#b1" xml:lang="grc" subtype="transcription" xml:id="zoor0274.transcription" corresp="#zoor0274.translation">
-            <p>
-               <choice><sic>Μνημῖ<lb break="no"/>ον</sic><corr>Μνημεῖον</corr></choice>
+            <p><choice><sic>Μνημῖ<lb break="no"/>ον</sic><corr>Μνημεῖον</corr></choice>
                <choice><corr>Ζηνοβίου</corr><sic>Ζην<lb break="no"/>οβίω</sic></choice> Ὠρί<lb break="no"/>ωνος,
                ἀπο<lb break="no"/>θα<unclear>νό</unclear><supplied reason="undefined">ντος</supplied>
                <lb/>
@@ -121,7 +120,7 @@
          <div type="translation" ana="#b1" xml:id="zoor0274.translation" corresp="#zoor0274.transcription">
             <p>Monument of Zenobios, (son) of Orion, who died [(at the age)] of... years.</p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="zoor0274-1" xml:lang="grc"/> <w xml:id="zoor0274-2" xml:lang="grc"><choice><sic>Μνημῖον</sic><corr>Μνημεῖον</corr></choice></w> <w xml:id="zoor0274-3" xml:lang="grc"><choice><corr>Ζηνοβίου</corr><sic>Ζηνοβίω</sic></choice></w> <w xml:id="zoor0274-4" xml:lang="grc">Ὠρίωνος,</w> <w xml:id="zoor0274-5" xml:lang="grc">ἀποθα<unclear>νό</unclear><supplied reason="undefined">ντος</supplied></w> <w xml:id="zoor0274-6" xml:lang="grc"><supplied reason="undefined">ἐτῶν</supplied></w> <w xml:id="zoor0274-7" xml:lang="grc">.</w></p>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="zoor0274-1" xml:lang="grc"><choice><sic>Μνημῖον</sic><corr>Μνημεῖον</corr></choice></w> <w xml:id="zoor0274-2" xml:lang="grc"><choice><corr>Ζηνοβίου</corr><sic>Ζηνοβίω</sic></choice></w> <w xml:id="zoor0274-3" xml:lang="grc">Ὠρίωνος,</w> <w xml:id="zoor0274-4" xml:lang="grc">ἀποθα<unclear>νό</unclear><supplied reason="undefined">ντος</supplied></w> <w xml:id="zoor0274-5" xml:lang="grc"><supplied reason="undefined">ἐτῶν</supplied></w> <w xml:id="zoor0274-6" xml:lang="grc">.</w></p>
 </div>
 </body>
       <back>

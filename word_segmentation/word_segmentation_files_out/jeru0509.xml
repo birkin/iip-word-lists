@@ -125,14 +125,12 @@
                 <p/>
             </div>
             <div type="edition" subtype="transcription" ana="b1">
-                <p>
-               <choice><orig>εξωχιζωτον</orig><reg>ἐξοιχιζόντων</reg></choice>
+                <p><choice><orig>εξωχιζωτον</orig><reg>ἐξοιχιζόντων</reg></choice>
                     <choice><orig>οστα</orig><reg>ὀστᾶ</reg></choice>
                <lb/>
                     <gap reason="lost" unit="character" extent="unknown"/><supplied reason="lost">βη</supplied>
                <unclear>θ</unclear> Ιζατων<lb/>
-               <gap reason="lost" unit="line" quantity="1"/>
-            </p>
+               <gap reason="lost" unit="line" quantity="1"/></p>
             </div>
             <div type="translation" ana="b1">
                 <p>The bones of those who emigrated … Izaton</p>
@@ -140,7 +138,7 @@
             <div type="commentary" ana="b1">
                 <p/>
             </div>
-        <div type="edition" subtype="transcription_segmented"><p><w xml:id="jeru0509-1" xml:lang="grc"/> <w xml:id="jeru0509-2" xml:lang="grc"><choice><orig>εξωχιζωτον</orig><reg>ἐξοιχιζόντων</reg></choice></w> <w xml:id="jeru0509-3" xml:lang="grc"><choice><orig>οστα</orig><reg>ὀστᾶ</reg></choice></w> <w xml:id="jeru0509-4" xml:lang="grc"><supplied reason="lost">βη</supplied></w> <w xml:id="jeru0509-5" xml:lang="grc"><unclear>θ</unclear></w> <w xml:id="jeru0509-6" xml:lang="grc">Ιζατων</w> <w xml:id="jeru0509-7" xml:lang="grc"/></p>
+        <div type="edition" subtype="transcription_segmented"><p><w xml:id="jeru0509-1" xml:lang="grc"><choice><orig>εξωχιζωτον</orig><reg>ἐξοιχιζόντων</reg></choice></w> <w xml:id="jeru0509-2" xml:lang="grc"><choice><orig>οστα</orig><reg>ὀστᾶ</reg></choice></w> <w xml:id="jeru0509-3" xml:lang="grc"><supplied reason="lost">βη</supplied></w> <w xml:id="jeru0509-4" xml:lang="grc"><unclear>θ</unclear></w> <w xml:id="jeru0509-5" xml:lang="grc">Ιζατων</w> <w xml:id="jeru0509-6" xml:lang="grc"/></p>
 </div>
 </body>
         <back>

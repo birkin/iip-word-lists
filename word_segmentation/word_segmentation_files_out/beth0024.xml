@@ -113,12 +113,10 @@
    <text>
       <body>
          <div type="edition" ana="#b2" subtype="transcription" xml:id="beth0024.transcription" corresp="#beth0024.translation">
-            <p>
-               <supplied reason="lost">Ζ</supplied>ηνοβία<lb/> Θυγάτηρ<lb/>
+            <p><supplied reason="lost">Ζ</supplied>ηνοβία<lb/> Θυγάτηρ<lb/>
                <supplied reason="lost" cert="low">Θε</supplied>οτίμας<lb/>
                <supplied reason="lost">ἔν</supplied>θα<lb/>
-               <supplied reason="lost" cert="low">κῖτε</supplied>
-            </p>
+               <supplied reason="lost" cert="low">κῖτε</supplied></p>
          </div>
          <div type="translation" ana="#b2" xml:id="beth0024.translation" corresp="#beth0024.transcription">
             <p>
@@ -130,7 +128,7 @@
 						(?) </rs>
             </p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="beth0024-1" xml:lang="grc"/> <w xml:id="beth0024-2" xml:lang="grc"><supplied reason="lost">Ζ</supplied>ηνοβία</w> <w xml:id="beth0024-3" xml:lang="grc">Θυγάτηρ</w> <w xml:id="beth0024-4" xml:lang="grc"><supplied reason="lost" cert="low">Θε</supplied>οτίμας</w> <w xml:id="beth0024-5" xml:lang="grc"><supplied reason="lost">ἔν</supplied>θα</w> <w xml:id="beth0024-6" xml:lang="grc"><supplied reason="lost" cert="low">κῖτε</supplied></w> <w xml:id="beth0024-7" xml:lang="grc"/></p>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="beth0024-1" xml:lang="grc"><supplied reason="lost">Ζ</supplied>ηνοβία</w> <w xml:id="beth0024-2" xml:lang="grc">Θυγάτηρ</w> <w xml:id="beth0024-3" xml:lang="grc"><supplied reason="lost" cert="low">Θε</supplied>οτίμας</w> <w xml:id="beth0024-4" xml:lang="grc"><supplied reason="lost">ἔν</supplied>θα</w> <w xml:id="beth0024-5" xml:lang="grc"><supplied reason="lost" cert="low">κῖτε</supplied></w></p>
 </div>
 </body>
       <back>

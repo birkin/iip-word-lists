@@ -120,14 +120,13 @@
             <p>Θεανδ<unclear>ρίῳ</unclear>
                <lb/> μεγίστῳ <lb/> Ζήνων <lb/>
                <unclear>Κ</unclear>άδμου <lb/>
-               <supplied reason="lost">ἀ</supplied>νέθη<lb break="no"/><supplied reason="lost">κεν</supplied><gap reason="illegible" quantity="3" unit="character"/>
-            </p>
+               <supplied reason="lost">ἀ</supplied>νέθη<lb break="no"/><supplied reason="lost">κεν</supplied><gap reason="illegible" quantity="3" unit="character"/></p>
          </div>
          <div type="translation" ana="#b1" xml:id="tala0001.translation" corresp="#tala0001.diplomatic #tala0001.transcription">
             <p>To the most mighty (God) Theandrios, Zenon, son of Cadmus, dedicated (this altar).
 				</p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="tala0001-1" xml:lang="grc">Θεανδ<unclear>ρίῳ</unclear></w> <w xml:id="tala0001-2" xml:lang="grc">μεγίστῳ</w> <w xml:id="tala0001-3" xml:lang="grc">Ζήνων</w> <w xml:id="tala0001-4" xml:lang="grc"><unclear>Κ</unclear>άδμου</w> <w xml:id="tala0001-5" xml:lang="grc"><supplied reason="lost">ἀ</supplied>νέθη<supplied reason="lost">κεν</supplied></w> <w xml:id="tala0001-6" xml:lang="grc"/></p>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="tala0001-1" xml:lang="grc">Θεανδ<unclear>ρίῳ</unclear></w> <w xml:id="tala0001-2" xml:lang="grc">μεγίστῳ</w> <w xml:id="tala0001-3" xml:lang="grc">Ζήνων</w> <w xml:id="tala0001-4" xml:lang="grc"><unclear>Κ</unclear>άδμου</w> <w xml:id="tala0001-5" xml:lang="grc"><supplied reason="lost">ἀ</supplied>νέθη<supplied reason="lost">κεν</supplied></w></p>
 </div>
 </body>
       <back>

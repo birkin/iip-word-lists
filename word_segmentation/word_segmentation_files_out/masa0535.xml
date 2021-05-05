@@ -169,8 +169,7 @@
                 <p/>
             </div>
             <div type="edition" subtype="transcription" ana="b1" xml:lang="heb">
-                <p>
-               <supplied reason="lost">ד</supplied>
+                <p><supplied reason="lost">ד</supplied>
                <unclear>ב</unclear>לה</p>
             </div>
             <div type="translation" ana="b1">
@@ -180,7 +179,7 @@
                 <p/>
             </div>
            
-        <div type="edition" subtype="transcription_segmented"><p><w xml:id="masa0535-1" xml:lang="he"/> <w xml:id="masa0535-2" xml:lang="he"><supplied reason="lost">ד</supplied></w> <w xml:id="masa0535-3" xml:lang="he"><unclear>ב</unclear>לה</w></p>
+        <div type="edition" subtype="transcription_segmented"><p><w xml:id="masa0535-1" xml:lang="he"><supplied reason="lost">ד</supplied></w> <w xml:id="masa0535-2" xml:lang="he"><unclear>ב</unclear>לה</w></p>
 </div>
 </body>
         <back>

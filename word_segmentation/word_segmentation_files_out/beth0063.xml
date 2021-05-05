@@ -115,7 +115,7 @@
       <body>
          <div type="edition" ana="#b2" subtype="transcription" xml:id="beth0063.transcription" corresp="#beth0063.translation">
             <p>Ἰούδας<lb/>
-               <gap reason="lost" quantity="2" unit="character"/>ου </p>
+               <gap reason="lost" quantity="2" unit="character"/>ου</p>
          </div>
          <div type="translation" ana="#b2" xml:id="beth0063.translation" corresp="#beth0063.transcription">
             <p>
@@ -124,7 +124,7 @@
 						Judah </persName> son of...</name>
             </p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="beth0063-1" xml:lang="grc">Ἰούδας</w> <w xml:id="beth0063-2" xml:lang="grc">ου</w> <w xml:id="beth0063-3" xml:lang="grc"/></p>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="beth0063-1" xml:lang="grc">Ἰούδας</w> <w xml:id="beth0063-2" xml:lang="grc">ου</w></p>
 </div>
 </body>
       <back>

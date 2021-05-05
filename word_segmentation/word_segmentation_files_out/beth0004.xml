@@ -113,14 +113,14 @@
    <text>
       <body>
          <div type="edition" ana="#b2" subtype="transcription" xml:id="beth0004.transcription" corresp="#beth0004.translation">
-            <p>Πορφύ<lb break="no"/>ρις ἐσ<lb break="no"/>ώτερο<lb break="no"/>ς </p>
+            <p>Πορφύ<lb break="no"/>ρις ἐσ<lb break="no"/>ώτερο<lb break="no"/>ς</p>
          </div>
          <div type="translation" ana="#b2" xml:id="beth0004.translation" corresp="#beth0004.transcription">
             <p>
                <persName xml:lang="grc " ref="persons.xml#beth0004p01"> Porphyrios </persName> [is
 					buried] further in. </p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="beth0004-1" xml:lang="grc">Πορφύρις</w> <w xml:id="beth0004-2" xml:lang="grc">ἐσώτερος</w> <w xml:id="beth0004-3" xml:lang="grc"/></p>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="beth0004-1" xml:lang="grc">Πορφύρις</w> <w xml:id="beth0004-2" xml:lang="grc">ἐσώτερος</w></p>
 </div>
 </body>
       <back>

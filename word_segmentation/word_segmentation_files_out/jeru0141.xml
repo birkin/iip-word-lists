@@ -129,12 +129,12 @@
    <text>
       <body>
          <div type="edition" ana="#b1" xml:lang="grc" subtype="transcription" xml:id="jeru0141.transcription" corresp="#jeru0141.translation">
-            <p>Θένας </p>
+            <p>Θένας</p>
          </div>
          <div type="translation" ana="#b1" xml:id="jeru0141.translation" corresp="#jeru0141.transcription">
             <p>Thenas</p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="jeru0141-1" xml:lang="grc">Θένας</w> <w xml:id="jeru0141-2" xml:lang="grc"/></p>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="jeru0141-1" xml:lang="grc">Θένας</w></p>
 </div>
 </body>
       <back>

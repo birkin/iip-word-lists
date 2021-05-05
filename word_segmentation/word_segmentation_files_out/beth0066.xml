@@ -125,8 +125,7 @@
             <p>Σάρα θυγάτηρ<lb/> Ναιμίας μή<lb break="no"/>τηρ ἱηρείας<lb/> κυρὰ
 						Μαρ<supplied reason="lost">εί</supplied>ης<lb/>
                <supplied reason="lost">ἔν</supplied>
-               <unclear>θα</unclear> κ<supplied reason="lost" cert="low">εῖται</supplied>
-            </p>
+               <unclear>θα</unclear> κ<supplied reason="lost" cert="low">εῖται</supplied></p>
          </div>
          <div type="translation" ana="#b3" xml:id="beth0066.translation" corresp="#beth0066.transcription">
             <p>
@@ -138,7 +137,7 @@
 					the <rs type="title" ana="interpretations.xml#lady">lady </rs>
                <persName xml:lang="grc " ref="persons.xml#beth0066p03">Maria</persName>, <rs type="formula" ana="interpretations.xml#lies">lies </rs> here.</p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="beth0066-1" xml:lang="grc">Σάρα</w> <w xml:id="beth0066-2" xml:lang="grc">θυγάτηρ</w> <w xml:id="beth0066-3" xml:lang="grc">Ναιμίας</w> <w xml:id="beth0066-4" xml:lang="grc">μήτηρ</w> <w xml:id="beth0066-5" xml:lang="grc">ἱηρείας</w> <w xml:id="beth0066-6" xml:lang="grc">κυρὰ</w> <w xml:id="beth0066-7" xml:lang="grc">Μαρ<supplied reason="lost">εί</supplied>ης</w> <w xml:id="beth0066-8" xml:lang="grc"><supplied reason="lost">ἔν</supplied></w> <w xml:id="beth0066-9" xml:lang="grc"><unclear>θα</unclear></w> <w xml:id="beth0066-10" xml:lang="grc">κ<supplied reason="lost" cert="low">εῖται</supplied></w> <w xml:id="beth0066-11" xml:lang="grc"/></p>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="beth0066-1" xml:lang="grc">Σάρα</w> <w xml:id="beth0066-2" xml:lang="grc">θυγάτηρ</w> <w xml:id="beth0066-3" xml:lang="grc">Ναιμίας</w> <w xml:id="beth0066-4" xml:lang="grc">μήτηρ</w> <w xml:id="beth0066-5" xml:lang="grc">ἱηρείας</w> <w xml:id="beth0066-6" xml:lang="grc">κυρὰ</w> <w xml:id="beth0066-7" xml:lang="grc">Μαρ<supplied reason="lost">εί</supplied>ης</w> <w xml:id="beth0066-8" xml:lang="grc"><supplied reason="lost">ἔν</supplied></w> <w xml:id="beth0066-9" xml:lang="grc"><unclear>θα</unclear></w> <w xml:id="beth0066-10" xml:lang="grc">κ<supplied reason="lost" cert="low">εῖται</supplied></w></p>
 </div>
 </body>
       <back>

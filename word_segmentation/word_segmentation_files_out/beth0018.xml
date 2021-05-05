@@ -117,9 +117,8 @@
    <text>
       <body>
          <div type="edition" ana="#b3" subtype="transcription" xml:id="beth0018.transcription" corresp="#beth0018.translation">
-            <p>
-               <expan><abbr>Ῥ</abbr><ex>ιββὶ</ex></expan> Εἰσάκ<supplied reason="lost">ι</supplied>ος
-					Μοκί<lb break="no"/>μου </p>
+            <p><expan><abbr>Ῥ</abbr><ex>ιββὶ</ex></expan> Εἰσάκ<supplied reason="lost">ι</supplied>ος
+					Μοκί<lb break="no"/>μου</p>
          </div>
          <div type="translation" ana="#b3" xml:id="beth0018.translation" corresp="#beth0018.transcription">
             <p>
@@ -129,7 +128,7 @@
                </name>
             </p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="beth0018-1" xml:lang="grc"/> <w xml:id="beth0018-2" xml:lang="grc"><expan><abbr>Ῥ</abbr><ex>ιββὶ</ex></expan></w> <w xml:id="beth0018-3" xml:lang="grc">Εἰσάκ<supplied reason="lost">ι</supplied>ος</w> <w xml:id="beth0018-4" xml:lang="grc">Μοκίμου</w> <w xml:id="beth0018-5" xml:lang="grc"/></p>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="beth0018-1" xml:lang="grc"><expan><abbr>Ῥ</abbr><ex>ιββὶ</ex></expan></w> <w xml:id="beth0018-2" xml:lang="grc">Εἰσάκ<supplied reason="lost">ι</supplied>ος</w> <w xml:id="beth0018-3" xml:lang="grc">Μοκίμου</w></p>
 </div>
 </body>
       <back>

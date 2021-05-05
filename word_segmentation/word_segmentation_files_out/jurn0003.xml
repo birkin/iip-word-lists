@@ -126,19 +126,17 @@
                 </p>
          </div>
          <div type="edition" ana="#b1" subtype="transcription" xml:id="jurn0003.transcription" corresp="#jurn0003.diplomatic #jurn0003.translation">
-            <p>
-               <expan><abbr>ἔτ</abbr><ex>ων</ex></expan>
+            <p><expan><abbr>ἔτ</abbr><ex>ων</ex></expan>
                <lb/>καρτερ<supplied reason="undefined">ός</supplied><gap reason="lost" unit="character" extent="unknown"/>
                <lb/><orig>οσα<unclear>σ</unclear></orig><gap reason="lost" unit="character" extent="unknown"/>
                <lb/><orig>αλανε</orig><gap reason="lost" unit="character" extent="unknown"/>
-               <lb/>ἀπέθα<supplied reason="undefined">νεν</supplied><gap reason="lost" unit="character" extent="unknown"/>
-            </p>
+               <lb/>ἀπέθα<supplied reason="undefined">νεν</supplied><gap reason="lost" unit="character" extent="unknown"/></p>
          </div>
          <div type="translation" ana="#b1" xml:id="jurn0003.translation" corresp="#jurn0003.diplomatic #jurn0003.transcription">
             <p>years...steadfast...died...
                 </p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="jurn0003-1" xml:lang="grc"/> <w xml:id="jurn0003-2" xml:lang="grc"><expan><abbr>ἔτ</abbr><ex>ων</ex></expan></w> <w xml:id="jurn0003-3" xml:lang="grc">καρτερ<supplied reason="undefined">ός</supplied></w> <w xml:id="jurn0003-4" xml:lang="grc"><orig>οσα<unclear>σ</unclear></orig></w> <w xml:id="jurn0003-5" xml:lang="grc"><orig>αλανε</orig></w> <w xml:id="jurn0003-6" xml:lang="grc">ἀπέθα<supplied reason="undefined">νεν</supplied></w> <w xml:id="jurn0003-7" xml:lang="grc"/></p>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="jurn0003-1" xml:lang="grc"><expan><abbr>ἔτ</abbr><ex>ων</ex></expan></w> <w xml:id="jurn0003-2" xml:lang="grc">καρτερ<supplied reason="undefined">ός</supplied></w> <w xml:id="jurn0003-3" xml:lang="grc"><orig>οσα<unclear>σ</unclear></orig></w> <w xml:id="jurn0003-4" xml:lang="grc"><orig>αλανε</orig></w> <w xml:id="jurn0003-5" xml:lang="grc">ἀπέθα<supplied reason="undefined">νεν</supplied></w></p>
 </div>
 </body>
       <back>

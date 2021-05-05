@@ -129,14 +129,13 @@
       <body>
          <div type="edition" ana="#b1" xml:lang="grc" subtype="transcription" xml:id="jeri0007.transcription" corresp="#jeri0007.translation">
             <p>Θεοδότου ἀπελευ<lb break="no"/>θέρου βασιλίσσης<lb/>Ἀγριππείνης σορός<lb/>
-                    Θεοδότου ἀπελευ<lb break="no"/>θέρου βασιλίσσης Ἀγριππείνης
-                </p>
+                    Θεοδότου ἀπελευ<lb break="no"/>θέρου βασιλίσσης Ἀγριππείνης</p>
          </div>
          <div type="translation" ana="#b1" xml:id="jeri0007.translation" corresp="#jeri0007.transcription">
             <p>Ossuary of Theodotos, Queen Agrippina's freedman. Ossuary of Theodotos, Queen
                Agrippina's freedman</p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="jeri0007-1" xml:lang="grc">Θεοδότου</w> <w xml:id="jeri0007-2" xml:lang="grc">ἀπελευθέρου</w> <w xml:id="jeri0007-3" xml:lang="grc">βασιλίσσης</w> <w xml:id="jeri0007-4" xml:lang="grc">Ἀγριππείνης</w> <w xml:id="jeri0007-5" xml:lang="grc">σορός</w> <w xml:id="jeri0007-6" xml:lang="grc">Θεοδότου</w> <w xml:id="jeri0007-7" xml:lang="grc">ἀπελευθέρου</w> <w xml:id="jeri0007-8" xml:lang="grc">βασιλίσσης</w> <w xml:id="jeri0007-9" xml:lang="grc">Ἀγριππείνης</w> <w xml:id="jeri0007-10" xml:lang="grc"/></p>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="jeri0007-1" xml:lang="grc">Θεοδότου</w> <w xml:id="jeri0007-2" xml:lang="grc">ἀπελευθέρου</w> <w xml:id="jeri0007-3" xml:lang="grc">βασιλίσσης</w> <w xml:id="jeri0007-4" xml:lang="grc">Ἀγριππείνης</w> <w xml:id="jeri0007-5" xml:lang="grc">σορός</w> <w xml:id="jeri0007-6" xml:lang="grc">Θεοδότου</w> <w xml:id="jeri0007-7" xml:lang="grc">ἀπελευθέρου</w> <w xml:id="jeri0007-8" xml:lang="grc">βασιλίσσης</w> <w xml:id="jeri0007-9" xml:lang="grc">Ἀγριππείνης</w></p>
 </div>
 </body>
       <back>

@@ -125,13 +125,11 @@
 </p>
          </div>
          <div type="edition" ana="#b1" subtype="transcription" xml:id="hamm0068.transcription" corresp="#hamm0068.diplomatic">
-            <p>
-               <gap reason="lost" unit="character" extent="unknown"/><supplied reason="undefined">θερινὸν</supplied> <supplied reason="undefined">εἰαρινόν</supplied> <supplied reason="undefined">τε</supplied><gap reason="lost" unit="character" extent="unknown"/>
+            <p><gap reason="lost" unit="character" extent="unknown"/><supplied reason="undefined">θερινὸν</supplied> <supplied reason="undefined">εἰαρινόν</supplied> <supplied reason="undefined">τε</supplied><gap reason="lost" unit="character" extent="unknown"/>
                <lb/>
-               <gap reason="lost" unit="character" extent="unknown"/><supplied reason="undefined">χα</supplied>ρίσαιτο<gap reason="lost" unit="character" extent="unknown"/>
-            </p>
+               <gap reason="lost" unit="character" extent="unknown"/><supplied reason="undefined">χα</supplied>ρίσαιτο<gap reason="lost" unit="character" extent="unknown"/></p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="hamm0068-1" xml:lang="grc"/> <w xml:id="hamm0068-2" xml:lang="grc"><supplied reason="undefined">θερινὸν</supplied></w> <w xml:id="hamm0068-3" xml:lang="grc"><supplied reason="undefined">εἰαρινόν</supplied></w> <w xml:id="hamm0068-4" xml:lang="grc"><supplied reason="undefined">τε</supplied></w> <w xml:id="hamm0068-5" xml:lang="grc"><supplied reason="undefined">χα</supplied>ρίσαιτο</w> <w xml:id="hamm0068-6" xml:lang="grc"/></p>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="hamm0068-1" xml:lang="grc"><supplied reason="undefined">θερινὸν</supplied></w> <w xml:id="hamm0068-2" xml:lang="grc"><supplied reason="undefined">εἰαρινόν</supplied></w> <w xml:id="hamm0068-3" xml:lang="grc"><supplied reason="undefined">τε</supplied></w> <w xml:id="hamm0068-4" xml:lang="grc"><supplied reason="undefined">χα</supplied>ρίσαιτο</w></p>
 </div>
 </body>
       <back>

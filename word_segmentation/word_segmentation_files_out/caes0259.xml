@@ -121,14 +121,13 @@
                <lb/>
 κὲ Φροντίνας<lb/> 
 κὲ Γρηγορίου κὲ<lb/>
-Φαυστίνας.
-</p>
+Φαυστίνας.</p>
          </div>
          <div type="translation" ana="#b1" xml:id="caes0259.translation" corresp="#caes0259.transcription">
             <p>The tomb of <persName xml:lang="grc " ref="persons.xml#caes0259p01">Manlios</persName>, <persName xml:lang="la " ref="persons.xml#caes0259p02">Frontina</persName>, <persName xml:lang="grc " ref="persons.xml#caes0259p03">Gregorios</persName>, and <persName xml:lang="la " ref="persons.xml#caes0259p04">Faustina</persName>.
 				</p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="caes0259-1" xml:lang="grc">θήκη</w> <w xml:id="caes0259-2" xml:lang="grc">Μαν<unclear>λ</unclear></w> <w xml:id="caes0259-3" xml:lang="grc"><supplied reason="undefined">ίου</supplied></w> <w xml:id="caes0259-4" xml:lang="grc">κὲ</w> <w xml:id="caes0259-5" xml:lang="grc">Φροντίνας</w> <w xml:id="caes0259-6" xml:lang="grc">κὲ</w> <w xml:id="caes0259-7" xml:lang="grc">Γρηγορίου</w> <w xml:id="caes0259-8" xml:lang="grc">κὲ</w> <w xml:id="caes0259-9" xml:lang="grc">Φαυστίνας.</w> <w xml:id="caes0259-10" xml:lang="grc"/></p>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="caes0259-1" xml:lang="grc">θήκη</w> <w xml:id="caes0259-2" xml:lang="grc">Μαν<unclear>λ</unclear></w> <w xml:id="caes0259-3" xml:lang="grc"><supplied reason="undefined">ίου</supplied></w> <w xml:id="caes0259-4" xml:lang="grc">κὲ</w> <w xml:id="caes0259-5" xml:lang="grc">Φροντίνας</w> <w xml:id="caes0259-6" xml:lang="grc">κὲ</w> <w xml:id="caes0259-7" xml:lang="grc">Γρηγορίου</w> <w xml:id="caes0259-8" xml:lang="grc">κὲ</w> <w xml:id="caes0259-9" xml:lang="grc">Φαυστίνας.</w></p>
 </div>
 </body>
       <back>

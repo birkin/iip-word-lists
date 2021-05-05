@@ -115,14 +115,14 @@
    <text>
       <body>
          <div type="edition" ana="#b2" subtype="transcription" xml:id="beth0095.transcription" corresp="#beth0095.translation">
-            <p>Εἰς τὸ ἔσω τέτ<unclear>απ</unclear><lb break="no"/><unclear>θο</unclear> Ἀγρονίτης </p>
+            <p>Εἰς τὸ ἔσω τέτ<unclear>απ</unclear><lb break="no"/><unclear>θο</unclear> Ἀγρονίτης</p>
          </div>
          <div type="translation" ana="#b2" xml:id="beth0095.translation" corresp="#beth0095.transcription">
             <p>
                <persName xml:lang="la " ref="persons.xml#beth0095p01">Agronites </persName> is <rs type="formula" ana="interpretations.xml#within">buried within </rs> (i.e., in the inside
 					grave).</p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="beth0095-1" xml:lang="grc">Εἰς</w> <w xml:id="beth0095-2" xml:lang="grc">τὸ</w> <w xml:id="beth0095-3" xml:lang="grc">ἔσω</w> <w xml:id="beth0095-4" xml:lang="grc">τέτ<unclear>απ</unclear><unclear>θο</unclear></w> <w xml:id="beth0095-5" xml:lang="grc">Ἀγρονίτης</w> <w xml:id="beth0095-6" xml:lang="grc"/></p>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="beth0095-1" xml:lang="grc">Εἰς</w> <w xml:id="beth0095-2" xml:lang="grc">τὸ</w> <w xml:id="beth0095-3" xml:lang="grc">ἔσω</w> <w xml:id="beth0095-4" xml:lang="grc">τέτ<unclear>απ</unclear><unclear>θο</unclear></w> <w xml:id="beth0095-5" xml:lang="grc">Ἀγρονίτης</w></p>
 </div>
 </body>
       <back>

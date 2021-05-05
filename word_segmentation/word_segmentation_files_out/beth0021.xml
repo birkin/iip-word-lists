@@ -108,14 +108,14 @@
    <text>
       <body>
          <div type="edition" ana="#b2" subtype="transcription" xml:id="beth0021.transcription" corresp="#beth0021.translation">
-            <p>Σαλόμ </p>
+            <p>Σαλόμ</p>
          </div>
          <div type="translation" ana="#MS" xml:id="beth0021.translation" corresp="#beth0021.transcription">
             <p>
                <rs type="formula" ana="interpretations.xml#shalom">Shalom </rs>
             </p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="beth0021-1" xml:lang="grc">Σαλόμ</w> <w xml:id="beth0021-2" xml:lang="grc"/></p>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="beth0021-1" xml:lang="grc">Σαλόμ</w></p>
 </div>
 </body>
       <back>

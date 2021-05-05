@@ -121,8 +121,7 @@
    <text>
       <body>
          <div type="edition" ana="#b1" xml:lang="grc" subtype="transcription" xml:id="zoor0028.transcription" corresp="#zoor0028.translation">
-            <p>
-               <g type="cross">+</g>
+            <p><g type="cross">+</g>
                <lb/>
                <choice><orig>Μνημῖον</orig><reg>μνημεῖον</reg></choice> Ὀνενάθης<lb/> Μεγεθίου, παυσα<lb break="no"/>μένης ἐτῶν <num>κζʹ</num>,<lb/> ἔτους <num>σξεʹ</num>, ἐν
                μη<lb break="no"/>νὶ Λῴου <num>εʹ</num>. <choice><orig>Θάρσι</orig><reg>Θάρσει</reg></choice>
@@ -130,8 +129,7 @@
                <choice><orig>ουδὶς</orig><reg>οὐδείς</reg></choice> ἀθάνατος.<lb/> Ἡμέρᾳ Ἀφροδίτης.<lb/> Ὁ
                      <expan><abbr>Θ</abbr><ex>εὸ</ex><abbr>ς</abbr></expan> και ὁ <expan><abbr>Χ</abbr><ex>ριστὸ</ex><abbr>ς</abbr></expan> αὐτοῦ<lb/> σὲ <choice><orig>ἀμαπαύσῃ</orig><reg>ἀναπαύσωσιν</reg></choice>, <num>Ϟθʹ</num><lb/>
                <g type="cross">+</g>
-               <g type="cross">+</g>
-            </p>
+               <g type="cross">+</g></p>
          </div>
          <div type="translation" ana="#b1" xml:id="zoor0028.translation" corresp="#zoor0028.transcription">
             <p>Monument of Onenathe, (daughter) of Megethios, who died (at the age) of 27 years,
@@ -139,7 +137,7 @@
                     (is) immortal. (She died) on (the) day of Venus (Friday). May God and his (son)
                     Christ give you repose, amen.</p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="zoor0028-1" xml:lang="grc"/> <w xml:id="zoor0028-2" xml:lang="grc"><g type="cross">+</g></w> <w xml:id="zoor0028-3" xml:lang="grc"><choice><orig>Μνημῖον</orig><reg>μνημεῖον</reg></choice></w> <w xml:id="zoor0028-4" xml:lang="grc">Ὀνενάθης</w> <w xml:id="zoor0028-5" xml:lang="grc">Μεγεθίου,</w> <w xml:id="zoor0028-6" xml:lang="grc">παυσαμένης</w> <w xml:id="zoor0028-7" xml:lang="grc">ἐτῶν</w> <w xml:id="zoor0028-8" xml:lang="grc"><num>κζʹ</num>,</w> <w xml:id="zoor0028-9" xml:lang="grc">ἔτους</w> <w xml:id="zoor0028-10" xml:lang="grc"><num>σξεʹ</num>,</w> <w xml:id="zoor0028-11" xml:lang="grc">ἐν</w> <w xml:id="zoor0028-12" xml:lang="grc">μηνὶ</w> <w xml:id="zoor0028-13" xml:lang="grc">Λῴου</w> <w xml:id="zoor0028-14" xml:lang="grc"><num>εʹ</num>.</w> <w xml:id="zoor0028-15" xml:lang="grc"><choice><orig>Θάρσι</orig><reg>Θάρσει</reg></choice></w> <w xml:id="zoor0028-16" xml:lang="grc"><choice><orig>ουδὶς</orig><reg>οὐδείς</reg></choice></w> <w xml:id="zoor0028-17" xml:lang="grc">ἀθάνατος.</w> <w xml:id="zoor0028-18" xml:lang="grc">Ἡμέρᾳ</w> <w xml:id="zoor0028-19" xml:lang="grc">Ἀφροδίτης.</w> <w xml:id="zoor0028-20" xml:lang="grc">Ὁ</w> <w xml:id="zoor0028-21" xml:lang="grc"><expan><abbr>Θ</abbr><ex>εὸ</ex><abbr>ς</abbr></expan></w> <w xml:id="zoor0028-22" xml:lang="grc">και</w> <w xml:id="zoor0028-23" xml:lang="grc">ὁ</w> <w xml:id="zoor0028-24" xml:lang="grc"><expan><abbr>Χ</abbr><ex>ριστὸ</ex><abbr>ς</abbr></expan></w> <w xml:id="zoor0028-25" xml:lang="grc">αὐτοῦ</w> <w xml:id="zoor0028-26" xml:lang="grc">σὲ</w> <w xml:id="zoor0028-27" xml:lang="grc"><choice><orig>ἀμαπαύσῃ</orig><reg>ἀναπαύσωσιν</reg></choice>,</w> <w xml:id="zoor0028-28" xml:lang="grc"><num>Ϟθʹ</num></w> <w xml:id="zoor0028-29" xml:lang="grc"><g type="cross">+</g></w> <w xml:id="zoor0028-30" xml:lang="grc"><g type="cross">+</g></w> <w xml:id="zoor0028-31" xml:lang="grc"/></p>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="zoor0028-1" xml:lang="grc"><g type="cross">+</g></w> <w xml:id="zoor0028-2" xml:lang="grc"><choice><orig>Μνημῖον</orig><reg>μνημεῖον</reg></choice></w> <w xml:id="zoor0028-3" xml:lang="grc">Ὀνενάθης</w> <w xml:id="zoor0028-4" xml:lang="grc">Μεγεθίου,</w> <w xml:id="zoor0028-5" xml:lang="grc">παυσαμένης</w> <w xml:id="zoor0028-6" xml:lang="grc">ἐτῶν</w> <w xml:id="zoor0028-7" xml:lang="grc"><num>κζʹ</num>,</w> <w xml:id="zoor0028-8" xml:lang="grc">ἔτους</w> <w xml:id="zoor0028-9" xml:lang="grc"><num>σξεʹ</num>,</w> <w xml:id="zoor0028-10" xml:lang="grc">ἐν</w> <w xml:id="zoor0028-11" xml:lang="grc">μηνὶ</w> <w xml:id="zoor0028-12" xml:lang="grc">Λῴου</w> <w xml:id="zoor0028-13" xml:lang="grc"><num>εʹ</num>.</w> <w xml:id="zoor0028-14" xml:lang="grc"><choice><orig>Θάρσι</orig><reg>Θάρσει</reg></choice></w> <w xml:id="zoor0028-15" xml:lang="grc"><choice><orig>ουδὶς</orig><reg>οὐδείς</reg></choice></w> <w xml:id="zoor0028-16" xml:lang="grc">ἀθάνατος.</w> <w xml:id="zoor0028-17" xml:lang="grc">Ἡμέρᾳ</w> <w xml:id="zoor0028-18" xml:lang="grc">Ἀφροδίτης.</w> <w xml:id="zoor0028-19" xml:lang="grc">Ὁ</w> <w xml:id="zoor0028-20" xml:lang="grc"><expan><abbr>Θ</abbr><ex>εὸ</ex><abbr>ς</abbr></expan></w> <w xml:id="zoor0028-21" xml:lang="grc">και</w> <w xml:id="zoor0028-22" xml:lang="grc">ὁ</w> <w xml:id="zoor0028-23" xml:lang="grc"><expan><abbr>Χ</abbr><ex>ριστὸ</ex><abbr>ς</abbr></expan></w> <w xml:id="zoor0028-24" xml:lang="grc">αὐτοῦ</w> <w xml:id="zoor0028-25" xml:lang="grc">σὲ</w> <w xml:id="zoor0028-26" xml:lang="grc"><choice><orig>ἀμαπαύσῃ</orig><reg>ἀναπαύσωσιν</reg></choice>,</w> <w xml:id="zoor0028-27" xml:lang="grc"><num>Ϟθʹ</num></w> <w xml:id="zoor0028-28" xml:lang="grc"><g type="cross">+</g></w> <w xml:id="zoor0028-29" xml:lang="grc"><g type="cross">+</g></w></p>
 </div>
 </body>
       <back>

@@ -112,8 +112,7 @@
    <text>
       <body>
          <div type="edition" ana="#b1" xml:lang="grc" subtype="transcription" xml:id="sena0004.transcription" corresp="#sena0004.translation">
-            <p>
-               <gap reason="lost" unit="character" extent="unknown"/>
+            <p><gap reason="lost" unit="character" extent="unknown"/>
                <unclear>ο</unclear>ν Ἀνφίας
 						<lb/>
                <supplied reason="undefined">ἀφιέρ</supplied>

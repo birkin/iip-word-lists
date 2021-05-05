@@ -112,13 +112,13 @@
    <text>
       <body>
          <div type="edition" ana="#b2" subtype="transcription" xml:id="beth0132.transcription" corresp="#beth0132.translation">
-            <p>Ἰοναθᾶ </p>
+            <p>Ἰοναθᾶ</p>
          </div>
          <div type="translation" ana="#b2" xml:id="beth0132.translation" corresp="#beth0132.transcription">
             <p>Of <persName xml:lang="hbo " ref="persons.xml#beth0132p01">Jonathan </persName>
             </p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="beth0132-1" xml:lang="grc">Ἰοναθᾶ</w> <w xml:id="beth0132-2" xml:lang="grc"/></p>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="beth0132-1" xml:lang="grc">Ἰοναθᾶ</w></p>
 </div>
 </body>
       <back>

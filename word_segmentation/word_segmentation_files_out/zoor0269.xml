@@ -111,17 +111,15 @@
    <text>
       <body>
          <div type="edition" ana="#b1" xml:lang="grc" subtype="transcription" xml:id="zoor0269.transcription" corresp="#zoor0269.translation">
-            <p>
-               <choice><orig>Θάρσι</orig><reg>Θάρσει</reg></choice>
+            <p><choice><orig>Θάρσι</orig><reg>Θάρσει</reg></choice>
                <choice><orig>μν<unclear>ημ</unclear>ῖ<supplied reason="lost">ο</supplied><lb break="no"/>ν</orig><reg>μνημεῖο<lb break="no"/>ν</reg></choice> Ὀλέφου,
                         ἀ<unclear>π</unclear><lb break="no"/><supplied reason="lost">ο</supplied><unclear>θαν</unclear>όν<unclear>τ</unclear><supplied reason="lost">ος</supplied>
-               <gap reason="lost" extent="unknown" unit="character"/>
-            </p>
+               <gap reason="lost" extent="unknown" unit="character"/></p>
          </div>
          <div type="translation" ana="#b1" xml:id="zoor0269.translation" corresp="#zoor0269.transcription">
             <p>Be of good cheer. Monument of Olefos, who died...</p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="zoor0269-1" xml:lang="grc"/> <w xml:id="zoor0269-2" xml:lang="grc"><choice><orig>Θάρσι</orig><reg>Θάρσει</reg></choice></w> <w xml:id="zoor0269-3" xml:lang="grc"><choice><orig>μν<unclear>ημ</unclear>ῖ<supplied reason="lost">ο</supplied>ν</orig><reg>μνημεῖον</reg></choice></w> <w xml:id="zoor0269-4" xml:lang="grc">Ὀλέφου,</w> <w xml:id="zoor0269-5" xml:lang="grc">ἀ<unclear>π</unclear><supplied reason="lost">ο</supplied><unclear>θαν</unclear>όν<unclear>τ</unclear><supplied reason="lost">ος</supplied></w> <w xml:id="zoor0269-6" xml:lang="grc"/></p>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="zoor0269-1" xml:lang="grc"><choice><orig>Θάρσι</orig><reg>Θάρσει</reg></choice></w> <w xml:id="zoor0269-2" xml:lang="grc"><choice><orig>μν<unclear>ημ</unclear>ῖ<supplied reason="lost">ο</supplied>ν</orig><reg>μνημεῖον</reg></choice></w> <w xml:id="zoor0269-3" xml:lang="grc">Ὀλέφου,</w> <w xml:id="zoor0269-4" xml:lang="grc">ἀ<unclear>π</unclear><supplied reason="lost">ο</supplied><unclear>θαν</unclear>όν<unclear>τ</unclear><supplied reason="lost">ος</supplied></w> <w xml:id="zoor0269-5" xml:lang="grc"/></p>
 </div>
 </body>
       <back>

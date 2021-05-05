@@ -118,14 +118,14 @@
          <div type="edition" ana="#b5" subtype="transcription" xml:id="beth0142.transcription" corresp="#beth0142.translation">
             <p>Εἰσὶν ἐν τῇ ἁ<lb break="no"/>ψῖδι
 					κρηπῖ<lb break="no"/>δες ἔξ ς’<lb/>
-					διαφέρου<lb break="no"/>σαι Αἰδεσίῳ </p>
+					διαφέρου<lb break="no"/>σαι Αἰδεσίῳ</p>
          </div>
          <div type="translation" ana="#b5" xml:id="beth0142.translation" corresp="#beth0142.transcription">
             <p>There are in the <rs type="object" ana="interpretations.xml#tomb">burial chamber </rs>
                <num>six</num>
                <rs type="object" ana="interpretations.xml#tomb">tombs </rs> which belong to <persName xml:lang="grc " ref="persons.xml#beth0142p01">Aidesios</persName>.</p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="beth0142-1" xml:lang="grc">Εἰσὶν</w> <w xml:id="beth0142-2" xml:lang="grc">ἐν</w> <w xml:id="beth0142-3" xml:lang="grc">τῇ</w> <w xml:id="beth0142-4" xml:lang="grc">ἁψῖδι</w> <w xml:id="beth0142-5" xml:lang="grc">κρηπῖδες</w> <w xml:id="beth0142-6" xml:lang="grc">ἔξ</w> <w xml:id="beth0142-7" xml:lang="grc">ς’</w> <w xml:id="beth0142-8" xml:lang="grc">διαφέρουσαι</w> <w xml:id="beth0142-9" xml:lang="grc">Αἰδεσίῳ</w> <w xml:id="beth0142-10" xml:lang="grc"/></p>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="beth0142-1" xml:lang="grc">Εἰσὶν</w> <w xml:id="beth0142-2" xml:lang="grc">ἐν</w> <w xml:id="beth0142-3" xml:lang="grc">τῇ</w> <w xml:id="beth0142-4" xml:lang="grc">ἁψῖδι</w> <w xml:id="beth0142-5" xml:lang="grc">κρηπῖδες</w> <w xml:id="beth0142-6" xml:lang="grc">ἔξ</w> <w xml:id="beth0142-7" xml:lang="grc">ς’</w> <w xml:id="beth0142-8" xml:lang="grc">διαφέρουσαι</w> <w xml:id="beth0142-9" xml:lang="grc">Αἰδεσίῳ</w></p>
 </div>
 </body>
       <back>

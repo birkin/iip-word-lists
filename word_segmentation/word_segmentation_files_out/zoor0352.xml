@@ -126,18 +126,16 @@
    <text>
       <body>
          <div type="edition" ana="b1" xml:lang="grc" subtype="transcription" xml:id="zoor0352.transcription" corresp="#zoor0352.translation">
-            <p>
-               <choice><reg>Μνημεῖον</reg><orig>Μνημῖον</orig></choice>
+            <p><choice><reg>Μνημεῖον</reg><orig>Μνημῖον</orig></choice>
                <lb/>Ἐφθάου Ἀρ<lb break="no"/><supplied reason="lost">τ</supplied>εμίου, <choice><reg>ἀ<lb break="no"/>ποθανόν<lb break="no"/>τος</reg><orig>ἀ<lb break="no"/>ποθανάν<lb break="no"/>τος</orig></choice>
                <expan><abbr>ἐτ</abbr><ex>ῶν</ex></expan>
                <num value="50">ν</num>.<lb/>
-               <g type="cross">+</g>
-            </p>
+               <g type="cross">+</g></p>
          </div>
          <div type="translation" ana="b1" xml:id="zoor0352.translation" corresp="#zoor0352.transcription">
             <p> Monument of Efthaos, (son) of Artemios, who died (at the age) of 50 years. </p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="zoor0352-1" xml:lang="grc"/> <w xml:id="zoor0352-2" xml:lang="grc"><choice><reg>Μνημεῖον</reg><orig>Μνημῖον</orig></choice></w> <w xml:id="zoor0352-3" xml:lang="grc">Ἐφθάου</w> <w xml:id="zoor0352-4" xml:lang="grc">Ἀρ<supplied reason="lost">τ</supplied>εμίου,</w> <w xml:id="zoor0352-5" xml:lang="grc"><choice><reg>ἀποθανόντος</reg><orig>ἀποθανάντος</orig></choice></w> <w xml:id="zoor0352-6" xml:lang="grc"><expan><abbr>ἐτ</abbr><ex>ῶν</ex></expan></w> <w xml:id="zoor0352-7" xml:lang="grc"><num value="50">ν</num>.</w> <w xml:id="zoor0352-8" xml:lang="grc"><g type="cross">+</g></w> <w xml:id="zoor0352-9" xml:lang="grc"/></p>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="zoor0352-1" xml:lang="grc"><choice><reg>Μνημεῖον</reg><orig>Μνημῖον</orig></choice></w> <w xml:id="zoor0352-2" xml:lang="grc">Ἐφθάου</w> <w xml:id="zoor0352-3" xml:lang="grc">Ἀρ<supplied reason="lost">τ</supplied>εμίου,</w> <w xml:id="zoor0352-4" xml:lang="grc"><choice><reg>ἀποθανόντος</reg><orig>ἀποθανάντος</orig></choice></w> <w xml:id="zoor0352-5" xml:lang="grc"><expan><abbr>ἐτ</abbr><ex>ῶν</ex></expan></w> <w xml:id="zoor0352-6" xml:lang="grc"><num value="50">ν</num>.</w> <w xml:id="zoor0352-7" xml:lang="grc"><g type="cross">+</g></w></p>
 </div>
 </body>
       <back>

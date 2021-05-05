@@ -128,10 +128,8 @@
             </p>
             </div>
             <div type="edition" subtype="transcription" ana="b1">
-                <p>
-               <expan><abbr>πυ</abbr><ex>ρός</ex></expan> ε <expan><abbr>κά</abbr><ex>βοι</ex></expan>
-               <expan><abbr>πυ</abbr><ex>ροῦ</ex></expan>
-            </p>
+                <p><expan><abbr>πυ</abbr><ex>ρός</ex></expan> ε <expan><abbr>κά</abbr><ex>βοι</ex></expan>
+               <expan><abbr>πυ</abbr><ex>ροῦ</ex></expan></p>
             </div>
             <div type="translation" ana="b1">
                 <p>5 qab of wheat</p>
@@ -139,7 +137,7 @@
             <div type="commentary" ana="b1">
                 <p/>
             </div>
-        <div type="edition" subtype="transcription_segmented"><p><w xml:id="mare0199-1" xml:lang="grc"/> <w xml:id="mare0199-2" xml:lang="grc"><expan><abbr>πυ</abbr><ex>ρός</ex></expan></w> <w xml:id="mare0199-3" xml:lang="grc">ε</w> <w xml:id="mare0199-4" xml:lang="grc"><expan><abbr>κά</abbr><ex>βοι</ex></expan></w> <w xml:id="mare0199-5" xml:lang="grc"><expan><abbr>πυ</abbr><ex>ροῦ</ex></expan></w> <w xml:id="mare0199-6" xml:lang="grc"/></p>
+        <div type="edition" subtype="transcription_segmented"><p><w xml:id="mare0199-1" xml:lang="grc"><expan><abbr>πυ</abbr><ex>ρός</ex></expan></w> <w xml:id="mare0199-2" xml:lang="grc">ε</w> <w xml:id="mare0199-3" xml:lang="grc"><expan><abbr>κά</abbr><ex>βοι</ex></expan></w> <w xml:id="mare0199-4" xml:lang="grc"><expan><abbr>πυ</abbr><ex>ροῦ</ex></expan></w></p>
 </div>
 </body>
         <back>

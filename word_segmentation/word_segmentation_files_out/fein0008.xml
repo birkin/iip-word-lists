@@ -125,14 +125,13 @@
    <text>
       <body>
          <div type="edition" ana="#b1" xml:lang="grc" subtype="transcription" xml:id="zoor0361.transcription" corresp="#zoor0361.translation">
-            <p>
-               <g type="cross">+</g>
+            <p><g type="cross">+</g>
                <lb/>Κυρια<lb break="no"/>κὸς Μου<lb break="no"/>β<unclear>ά</unclear>νου</p>
          </div>
          <div type="translation" ana="#b1" xml:id="zoor0361.translation" corresp="#zoor0361.transcription">
             <p>Kyriakos,<lb/>(son) of<lb/>Moubanos.</p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="fein0008-1" xml:lang="grc"/> <w xml:id="fein0008-2" xml:lang="grc"><g type="cross">+</g></w> <w xml:id="fein0008-3" xml:lang="grc">Κυριακὸς</w> <w xml:id="fein0008-4" xml:lang="grc">Μουβ<unclear>ά</unclear>νου</w></p>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="fein0008-1" xml:lang="grc"><g type="cross">+</g></w> <w xml:id="fein0008-2" xml:lang="grc">Κυριακὸς</w> <w xml:id="fein0008-3" xml:lang="grc">Μουβ<unclear>ά</unclear>νου</w></p>
 </div>
 </body>
       <back>

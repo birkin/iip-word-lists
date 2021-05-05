@@ -114,8 +114,7 @@
    <text>
       <body>
          <div type="edition" ana="#b2" subtype="transcription" xml:id="beth0101.transcription" corresp="#beth0101.translation">
-            <p>Μισηνὴ<lb/> Σάρα<lb/> ἡ Μαξίμ<supplied reason="lost">α</supplied>
-            </p>
+            <p>Μισηνὴ<lb/> Σάρα<lb/> ἡ Μαξίμ<supplied reason="lost">α</supplied></p>
          </div>
          <div type="translation" ana="#b2" xml:id="beth0101.translation" corresp="#beth0101.transcription">
             <p>
@@ -126,7 +125,7 @@
                   </rs> who is (also called) <persName type="aka" xml:lang="la " ref="persons.xml#beth0101p02"> Maxima </persName>
                </name>.</p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="beth0101-1" xml:lang="grc">Μισηνὴ</w> <w xml:id="beth0101-2" xml:lang="grc">Σάρα</w> <w xml:id="beth0101-3" xml:lang="grc">ἡ</w> <w xml:id="beth0101-4" xml:lang="grc">Μαξίμ<supplied reason="lost">α</supplied></w> <w xml:id="beth0101-5" xml:lang="grc"/></p>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="beth0101-1" xml:lang="grc">Μισηνὴ</w> <w xml:id="beth0101-2" xml:lang="grc">Σάρα</w> <w xml:id="beth0101-3" xml:lang="grc">ἡ</w> <w xml:id="beth0101-4" xml:lang="grc">Μαξίμ<supplied reason="lost">α</supplied></w></p>
 </div>
 </body>
       <back>

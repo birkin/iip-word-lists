@@ -118,8 +118,7 @@
          <div type="edition" ana="#b2" subtype="transcription" xml:id="beth0083.transcription" corresp="#beth0083.translation">
             <p>Ἰακὼ Ἰούδας κοινωνὶ<lb/> Παρηγορίου καὶ Ἀλε<supplied reason="lost" cert="low">ξάνδρου</supplied>
                <lb/> ἀπ<supplied reason="lost">ὸ</supplied>
-               <gap reason="lost" quantity="3" unit="character"/>
-            </p>
+               <gap reason="lost" quantity="3" unit="character"/></p>
          </div>
          <div type="translation" ana="#b2" xml:id="beth0083.translation" corresp="#beth0083.transcription">
             <p>

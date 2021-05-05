@@ -109,12 +109,12 @@
    <text>
       <body>
          <div type="edition" ana="#b1" subtype="transcription" xml:id="beth0151.transcription" corresp="#beth0151.translation">
-            <p>Κύρις<lb/> κυρά </p>
+            <p>Κύρις<lb/> κυρά</p>
          </div>
          <div type="translation" ana="#b1" xml:id="beth0151.translation" corresp="#beth0151.transcription">
             <p>Kuris, Kura</p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="beth0151-1" xml:lang="grc">Κύρις</w> <w xml:id="beth0151-2" xml:lang="grc">κυρά</w> <w xml:id="beth0151-3" xml:lang="grc"/></p>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="beth0151-1" xml:lang="grc">Κύρις</w> <w xml:id="beth0151-2" xml:lang="grc">κυρά</w></p>
 </div>
 </body>
       <back>

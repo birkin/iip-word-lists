@@ -125,8 +125,7 @@
                <lb/>
                <unclear>Μαρ</unclear>ή<supplied reason="lost">ας</supplied> <supplied reason="lost">ἱερ</supplied>
                <unclear>εί</unclear>
-               <supplied reason="lost" cert="low">ας</supplied>
-            </p>
+               <supplied reason="lost" cert="low">ας</supplied></p>
          </div>
          <div type="translation" ana="#b2" xml:id="beth0068.translation" corresp="#beth0068.transcription">
             <p>And <name type="patr">
@@ -138,7 +137,7 @@
                </name> and, <rs type="family" ana="interpretations.xml#mother">mother </rs> of the <rs type="caste" ana="interpretations.xml#priest">priestess </rs>
                <persName xml:lang="grc " ref="persons.xml#beth0068p03">Maria</persName>.</p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="beth0068-1" xml:lang="grc">Καὶ</w> <w xml:id="beth0068-2" xml:lang="grc">Σάρα</w> <w xml:id="beth0068-3" xml:lang="grc"><supplied reason="lost">θυγά</supplied><supplied reason="lost">τηρ</supplied></w> <w xml:id="beth0068-4" xml:lang="grc"><supplied reason="lost">Ν</supplied></w> <w xml:id="beth0068-5" xml:lang="grc"><unclear>αιμία</unclear>ς</w> <w xml:id="beth0068-6" xml:lang="grc"><unclear>καὶ</unclear></w> <w xml:id="beth0068-7" xml:lang="grc"><supplied reason="lost" cert="low">μήτηρ</supplied></w> <w xml:id="beth0068-8" xml:lang="grc"><unclear>Μαρ</unclear>ή<supplied reason="lost">ας</supplied></w> <w xml:id="beth0068-9" xml:lang="grc"><supplied reason="lost">ἱερ</supplied></w> <w xml:id="beth0068-10" xml:lang="grc"><unclear>εί</unclear></w> <w xml:id="beth0068-11" xml:lang="grc"><supplied reason="lost" cert="low">ας</supplied></w> <w xml:id="beth0068-12" xml:lang="grc"/></p>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="beth0068-1" xml:lang="grc">Καὶ</w> <w xml:id="beth0068-2" xml:lang="grc">Σάρα</w> <w xml:id="beth0068-3" xml:lang="grc"><supplied reason="lost">θυγά</supplied><supplied reason="lost">τηρ</supplied></w> <w xml:id="beth0068-4" xml:lang="grc"><supplied reason="lost">Ν</supplied></w> <w xml:id="beth0068-5" xml:lang="grc"><unclear>αιμία</unclear>ς</w> <w xml:id="beth0068-6" xml:lang="grc"><unclear>καὶ</unclear></w> <w xml:id="beth0068-7" xml:lang="grc"><supplied reason="lost" cert="low">μήτηρ</supplied></w> <w xml:id="beth0068-8" xml:lang="grc"><unclear>Μαρ</unclear>ή<supplied reason="lost">ας</supplied></w> <w xml:id="beth0068-9" xml:lang="grc"><supplied reason="lost">ἱερ</supplied></w> <w xml:id="beth0068-10" xml:lang="grc"><unclear>εί</unclear></w> <w xml:id="beth0068-11" xml:lang="grc"><supplied reason="lost" cert="low">ας</supplied></w></p>
 </div>
 </body>
       <back>

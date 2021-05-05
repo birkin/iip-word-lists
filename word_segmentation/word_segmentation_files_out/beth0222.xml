@@ -108,7 +108,7 @@
    <text>
       <body>
          <div type="edition" ana="#b3" subtype="transcription" xml:id="beth0222.transcription" corresp="#beth0222.translation">
-            <p>Ἰωσῆ ἀρχισυναγώγου Σίδονος </p>
+            <p>Ἰωσῆ ἀρχισυναγώγου Σίδονος</p>
          </div>
          <div type="translation" ana="#b3" xml:id="beth0222.translation" corresp="#beth0222.transcription">
             <p>(Tomb) of <persName xml:lang="hbo " ref="persons.xml#beth0222p01">Yose</persName>,
@@ -117,7 +117,7 @@
                </rs>
             </p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="beth0222-1" xml:lang="grc">Ἰωσῆ</w> <w xml:id="beth0222-2" xml:lang="grc">ἀρχισυναγώγου</w> <w xml:id="beth0222-3" xml:lang="grc">Σίδονος</w> <w xml:id="beth0222-4" xml:lang="grc"/></p>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="beth0222-1" xml:lang="grc">Ἰωσῆ</w> <w xml:id="beth0222-2" xml:lang="grc">ἀρχισυναγώγου</w> <w xml:id="beth0222-3" xml:lang="grc">Σίδονος</w></p>
 </div>
 </body>
       <back>

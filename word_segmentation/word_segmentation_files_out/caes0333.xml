@@ -114,17 +114,15 @@
    <text>
       <body>
          <div type="edition" ana="#b1" subtype="transcription" xml:id="caes0333.transcription">
-            <p>
-               <orig><unclear>Π</unclear><unclear>ρ</unclear><unclear>ο</unclear></orig>
+            <p><orig><unclear>Π</unclear><unclear>ρ</unclear><unclear>ο</unclear></orig>
                <gap reason="illegible" quantity="3" unit="character"/>
                <lb/>
                <orig>Εὐχ</orig><gap reason="illegible" quantity="3" unit="character"/>
                <lb/>
                <orig>κ<unclear>υ</unclear></orig>
-               <gap reason="illegible" quantity="3" unit="character"/>
-            </p>
+               <gap reason="illegible" quantity="3" unit="character"/></p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="caes0333-1" xml:lang="grc"/> <w xml:id="caes0333-2" xml:lang="grc"><orig><unclear>Π</unclear><unclear>ρ</unclear><unclear>ο</unclear></orig></w> <w xml:id="caes0333-3" xml:lang="grc"><orig>Εὐχ</orig></w> <w xml:id="caes0333-4" xml:lang="grc"><orig>κ<unclear>υ</unclear></orig></w> <w xml:id="caes0333-5" xml:lang="grc"/></p>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="caes0333-1" xml:lang="grc"><orig><unclear>Π</unclear><unclear>ρ</unclear><unclear>ο</unclear></orig></w> <w xml:id="caes0333-2" xml:lang="grc"><orig>Εὐχ</orig></w> <w xml:id="caes0333-3" xml:lang="grc"><orig>κ<unclear>υ</unclear></orig></w> <w xml:id="caes0333-4" xml:lang="grc"/></p>
 </div>
 </body>
       <back>

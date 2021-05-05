@@ -121,15 +121,13 @@
                 </p>
          </div>
          <div type="edition" ana="#b1" subtype="transcription" xml:id="butm0001.transcription" corresp="#butm0001.diplomatic #butm0001.translation">
-            <p>
-               <gap reason="lost" unit="character" extent="unknown"/>ουσα Ἰωσῆ
-                </p>
+            <p><gap reason="lost" unit="character" extent="unknown"/>ουσα Ἰωσῆ</p>
          </div>
          <div type="translation" ana="#b1" xml:id="butm0001.translation" corresp="#butm0001.diplomatic #butm0001.transcription">
             <p>...ousa(?) Jose
                 </p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="butm0001-1" xml:lang="grc"/> <w xml:id="butm0001-2" xml:lang="grc">ουσα</w> <w xml:id="butm0001-3" xml:lang="grc">Ἰωσῆ</w> <w xml:id="butm0001-4" xml:lang="grc"/></p>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="butm0001-1" xml:lang="grc">ουσα</w> <w xml:id="butm0001-2" xml:lang="grc">Ἰωσῆ</w></p>
 </div>
 </body>
       <back>

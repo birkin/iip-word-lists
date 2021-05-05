@@ -170,8 +170,7 @@
                 <p/>
             </div>
             <div type="edition" subtype="transcription" ana="b1">
-                <p>Μνήμη Με<lb break="no"/>νιαμι καὶ<lb/>Ϲαρα Ἠρή<lb break="no"/><space extent="unknown" unit="character"/> νη<space extent="unknown" unit="character"/>
-            </p>
+                <p>Μνήμη Με<lb break="no"/>νιαμι καὶ<lb/>Ϲαρα Ἠρή<lb break="no"/><space extent="unknown" unit="character"/> νη<space extent="unknown" unit="character"/></p>
             </div>
             <div type="translation" ana="b1">
                 <p>Memorial of Meniami and Sara. Peace.</p>
@@ -182,7 +181,7 @@
             </div>
             <!-- The bibl has more contained elements. What is the possible list of values of the biblScope/@type? 
              -->
-        <div type="edition" subtype="transcription_segmented"><p><w xml:id="jaff0025-1" xml:lang="grc">Μνήμη</w> <w xml:id="jaff0025-2" xml:lang="grc">Μενιαμι</w> <w xml:id="jaff0025-3" xml:lang="grc">καὶ</w> <w xml:id="jaff0025-4" xml:lang="grc">Ϲαρα</w> <w xml:id="jaff0025-5" xml:lang="grc">Ἠρή</w> <w xml:id="jaff0025-6" xml:lang="grc">νη</w> <w xml:id="jaff0025-7" xml:lang="grc"/></p>
+        <div type="edition" subtype="transcription_segmented"><p><w xml:id="jaff0025-1" xml:lang="grc">Μνήμη</w> <w xml:id="jaff0025-2" xml:lang="grc">Μενιαμι</w> <w xml:id="jaff0025-3" xml:lang="grc">καὶ</w> <w xml:id="jaff0025-4" xml:lang="grc">Ϲαρα</w> <w xml:id="jaff0025-5" xml:lang="grc">Ἠρή</w> <w xml:id="jaff0025-6" xml:lang="grc">νη</w></p>
 </div>
 </body>
         <back>

@@ -132,21 +132,19 @@
                 </p>
          </div>
          <div type="edition" ana="#b1" subtype="transcription" xml:id="elal0012.transcription" corresp="#elal0012.diplomatic #elal0012.translation">
-            <p>
-               <unclear>θ</unclear>
+            <p><unclear>θ</unclear>
                <supplied reason="lost" cert="low">άρσει</supplied>
                <lb/> Ου<unclear>λ</unclear>
                <gap reason="lost" extent="unknown" unit="character"/> ζη<supplied reason="lost">σας</supplied>
                <lb/>
                <expan><abbr>ἔ<supplied reason="lost">τ</supplied></abbr><ex>η</ex></expan>
                <lb/>
-               <num value="7">ζ</num>
-            </p>
+               <num value="7">ζ</num></p>
          </div>
          <div type="translation" ana="#b1" xml:id="elal0012.translation" corresp="#elal0012.diplomatic #elal0012.transcription">
             <p> (Be of good courage), Ul...! He(?) lived seven years. </p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="elal0012-1" xml:lang="grc"/> <w xml:id="elal0012-2" xml:lang="grc"><unclear>θ</unclear></w> <w xml:id="elal0012-3" xml:lang="grc"><supplied reason="lost" cert="low">άρσει</supplied></w> <w xml:id="elal0012-4" xml:lang="grc">Ου<unclear>λ</unclear></w> <w xml:id="elal0012-5" xml:lang="grc">ζη<supplied reason="lost">σας</supplied></w> <w xml:id="elal0012-6" xml:lang="grc"><expan><abbr>ἔ<supplied reason="lost">τ</supplied></abbr><ex>η</ex></expan></w> <w xml:id="elal0012-7" xml:lang="grc"><num value="7">ζ</num></w> <w xml:id="elal0012-8" xml:lang="grc"/></p>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="elal0012-1" xml:lang="grc"><unclear>θ</unclear></w> <w xml:id="elal0012-2" xml:lang="grc"><supplied reason="lost" cert="low">άρσει</supplied></w> <w xml:id="elal0012-3" xml:lang="grc">Ου<unclear>λ</unclear></w> <w xml:id="elal0012-4" xml:lang="grc">ζη<supplied reason="lost">σας</supplied></w> <w xml:id="elal0012-5" xml:lang="grc"><expan><abbr>ἔ<supplied reason="lost">τ</supplied></abbr><ex>η</ex></expan></w> <w xml:id="elal0012-6" xml:lang="grc"><num value="7">ζ</num></w></p>
 </div>
 </body>
       <back>

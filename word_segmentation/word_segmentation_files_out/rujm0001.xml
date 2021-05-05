@@ -128,14 +128,13 @@
                <unclear>Μ</unclear>όσ<lb break="no"/>χ<unclear>ε</unclear>
                <expan><abbr>ἐτ</abbr><ex>ῶν</ex></expan>
                <lb/>
-               <num value="40">μ´</num>
-            </p>
+               <num value="40">μ´</num></p>
          </div>
          <div type="translation" ana="#b1" xml:id="rujm0001.translation" corresp="#rujm0001.diplomatic #rujm0001.transcription">
             <p>Be of good courage, Moschus(?)! Forty years old.
 				</p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="rujm0001-1" xml:lang="grc">θάρσ<unclear>ι</unclear></w> <w xml:id="rujm0001-2" xml:lang="grc"><unclear>Μ</unclear>όσχ<unclear>ε</unclear></w> <w xml:id="rujm0001-3" xml:lang="grc"><expan><abbr>ἐτ</abbr><ex>ῶν</ex></expan></w> <w xml:id="rujm0001-4" xml:lang="grc"><num value="40">μ´</num></w> <w xml:id="rujm0001-5" xml:lang="grc"/></p>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="rujm0001-1" xml:lang="grc">θάρσ<unclear>ι</unclear></w> <w xml:id="rujm0001-2" xml:lang="grc"><unclear>Μ</unclear>όσχ<unclear>ε</unclear></w> <w xml:id="rujm0001-3" xml:lang="grc"><expan><abbr>ἐτ</abbr><ex>ῶν</ex></expan></w> <w xml:id="rujm0001-4" xml:lang="grc"><num value="40">μ´</num></w></p>
 </div>
 </body>
       <back>

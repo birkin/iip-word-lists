@@ -118,14 +118,13 @@
    <text>
       <body>
          <div type="edition" ana="#b1" subtype="transcription" xml:id="caes0029.transcription">
-            <p>
-               <expan><abbr>d</abbr><ex>evotus</ex></expan>
+            <p><expan><abbr>d</abbr><ex>evotus</ex></expan>
                <expan><abbr>n</abbr><ex>umini</ex></expan>
                <expan><abbr>m</abbr><ex>aiestatique</ex></expan>
                <expan><abbr><unclear>e</unclear></abbr><ex>ius</ex></expan>
             </p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="caes0029-1" xml:lang="la"/> <w xml:id="caes0029-2" xml:lang="la"><expan><abbr>d</abbr><ex>evotus</ex></expan></w> <w xml:id="caes0029-3" xml:lang="la"><expan><abbr>n</abbr><ex>umini</ex></expan></w> <w xml:id="caes0029-4" xml:lang="la"><expan><abbr>m</abbr><ex>aiestatique</ex></expan></w> <w xml:id="caes0029-5" xml:lang="la"><expan><abbr><unclear>e</unclear></abbr><ex>ius</ex></expan></w> <w xml:id="caes0029-6" xml:lang="la"/></p>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="caes0029-1" xml:lang="la"><expan><abbr>d</abbr><ex>evotus</ex></expan></w> <w xml:id="caes0029-2" xml:lang="la"><expan><abbr>n</abbr><ex>umini</ex></expan></w> <w xml:id="caes0029-3" xml:lang="la"><expan><abbr>m</abbr><ex>aiestatique</ex></expan></w> <w xml:id="caes0029-4" xml:lang="la"><expan><abbr><unclear>e</unclear></abbr><ex>ius</ex></expan></w> <w xml:id="caes0029-5" xml:lang="la"/></p>
 </div>
 </body>
       <back>

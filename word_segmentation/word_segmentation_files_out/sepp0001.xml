@@ -113,8 +113,7 @@
    <text>
       <body>
          <div type="edition" ana="#b1" xml:lang="heb" subtype="transcription" xml:id="sepp0001.transcription" corresp="#sepp0001.translation">
-            <p>
-               <gap reason="lost" unit="character" extent="unknown"/>
+            <p><gap reason="lost" unit="character" extent="unknown"/>
                <lb/>
                <gap reason="illegible" unit="line" quantity="1"/>
                <lb/>

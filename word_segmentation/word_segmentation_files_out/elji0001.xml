@@ -136,13 +136,12 @@
    <text>
       <body>
          <div type="edition" ana="#b1" xml:lang="grc" subtype="transcription" xml:id="elji0001.transcription" corresp="#elji0001.translation">
-            <p>Σαλώνα καταν<lb/>α Μαραιάμη
-                </p>
+            <p>Σαλώνα καταν<lb/>α Μαραιάμη</p>
          </div>
          <div type="translation" ana="#b1" xml:id="elji0001.translation" corresp="#elji0001.transcription">
             <p>Little Salona Maraiame</p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="elji0001-1" xml:lang="grc">Σαλώνα</w> <w xml:id="elji0001-2" xml:lang="grc">καταν</w> <w xml:id="elji0001-3" xml:lang="grc">α</w> <w xml:id="elji0001-4" xml:lang="grc">Μαραιάμη</w> <w xml:id="elji0001-5" xml:lang="grc"/></p>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="elji0001-1" xml:lang="grc">Σαλώνα</w> <w xml:id="elji0001-2" xml:lang="grc">καταν</w> <w xml:id="elji0001-3" xml:lang="grc">α</w> <w xml:id="elji0001-4" xml:lang="grc">Μαραιάμη</w></p>
 </div>
 </body>
       <back>

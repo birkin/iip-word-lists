@@ -112,15 +112,13 @@
    <text>
       <body>
          <div type="edition" ana="#b1" xml:lang="grc" subtype="transcription" xml:id="elus0046.transcription" corresp="#elus0046.translation">
-            <p>
-               <expan><abbr>Σέ</abbr><ex>ργιος</ex></expan>
-               <lb/><orig>ΝΟ</orig><gap reason="illegible" quantity="1"/>
-            </p>
+            <p><expan><abbr>Σέ</abbr><ex>ργιος</ex></expan>
+               <lb/><orig>ΝΟ</orig><gap reason="illegible" quantity="1"/></p>
          </div>
          <div type="translation" ana="#b1" xml:id="elus0046.translation" corresp="#elus0046.transcription">
             <p>Sergius</p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="elus0046-1" xml:lang="grc"/> <w xml:id="elus0046-2" xml:lang="grc"><expan><abbr>Σέ</abbr><ex>ργιος</ex></expan></w> <w xml:id="elus0046-3" xml:lang="grc"><orig>ΝΟ</orig></w> <w xml:id="elus0046-4" xml:lang="grc"/></p>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="elus0046-1" xml:lang="grc"><expan><abbr>Σέ</abbr><ex>ργιος</ex></expan></w> <w xml:id="elus0046-2" xml:lang="grc"><orig>ΝΟ</orig></w></p>
 </div>
 </body>
       <back>

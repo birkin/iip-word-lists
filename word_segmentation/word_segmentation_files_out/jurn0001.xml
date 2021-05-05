@@ -124,14 +124,13 @@
             <p>θάρσι<lb/>
                     Ιδαβ<lb break="no"/>α <expan><abbr>ἐτ</abbr><ex>ῶν</ex></expan>
                <lb/>
-                    <num>μ´</num>
-                </p>
+                    <num>μ´</num></p>
          </div>
          <div type="translation" ana="#b1" xml:id="jurn0001.translation" corresp="#jurn0001.diplomatic #jurn0001.transcription">
             <p>Be of good courage, Idaba! Forty years old.
                 </p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="jurn0001-1" xml:lang="grc">θάρσι</w> <w xml:id="jurn0001-2" xml:lang="grc">Ιδαβα</w> <w xml:id="jurn0001-3" xml:lang="grc"><expan><abbr>ἐτ</abbr><ex>ῶν</ex></expan></w> <w xml:id="jurn0001-4" xml:lang="grc"><num>μ´</num></w> <w xml:id="jurn0001-5" xml:lang="grc"/></p>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="jurn0001-1" xml:lang="grc">θάρσι</w> <w xml:id="jurn0001-2" xml:lang="grc">Ιδαβα</w> <w xml:id="jurn0001-3" xml:lang="grc"><expan><abbr>ἐτ</abbr><ex>ῶν</ex></expan></w> <w xml:id="jurn0001-4" xml:lang="grc"><num>μ´</num></w></p>
 </div>
 </body>
       <back>

@@ -140,8 +140,7 @@
    <text>
       <body>
          <div type="edition" ana="#b1" xml:lang="grc" subtype="transcription" xml:id="jeru0104.transcription" corresp="#jeru0104.translation">
-            <p>Γαίωνος<lb/>Γαίωνος<lb/>Γαίωνος<lb/>
-            </p>
+            <p>Γαίωνος<lb/>Γαίωνος<lb/>Γαίωνος<lb/></p>
          </div>
          <div type="translation" ana="#b1" xml:id="jeru0104.translation" corresp="#jeru0104.transcription">
             <p>Of Gaion. Of Gaion. Of Gaion</p>

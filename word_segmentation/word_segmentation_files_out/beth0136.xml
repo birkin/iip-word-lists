@@ -121,7 +121,7 @@
       <body>
          <div type="edition" ana="#b5" subtype="transcription" xml:id="beth0136.transcription" corresp="#beth0136.translation">
             <p>Θάρσι<lb/> Καλιόπη ματρώνα,<lb/> οὐδὶς ἀθάνα<lb break="no"/>τος,
-					ἡ<lb/> ἀπο Βίβλου </p>
+					ἡ<lb/> ἀπο Βίβλου</p>
          </div>
          <div type="translation" ana="#b5" xml:id="beth0136.translation" corresp="#beth0136.transcription">
             <p>
@@ -130,7 +130,7 @@
                   <placeName>Byblos</placeName>
                </rs>; <rs type="formula" ana="interpretations.xml#immortal">no one is immortal</rs>.</p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="beth0136-1" xml:lang="grc">Θάρσι</w> <w xml:id="beth0136-2" xml:lang="grc">Καλιόπη</w> <w xml:id="beth0136-3" xml:lang="grc">ματρώνα,</w> <w xml:id="beth0136-4" xml:lang="grc">οὐδὶς</w> <w xml:id="beth0136-5" xml:lang="grc">ἀθάνατος,</w> <w xml:id="beth0136-6" xml:lang="grc">ἡ</w> <w xml:id="beth0136-7" xml:lang="grc">ἀπο</w> <w xml:id="beth0136-8" xml:lang="grc">Βίβλου</w> <w xml:id="beth0136-9" xml:lang="grc"/></p>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="beth0136-1" xml:lang="grc">Θάρσι</w> <w xml:id="beth0136-2" xml:lang="grc">Καλιόπη</w> <w xml:id="beth0136-3" xml:lang="grc">ματρώνα,</w> <w xml:id="beth0136-4" xml:lang="grc">οὐδὶς</w> <w xml:id="beth0136-5" xml:lang="grc">ἀθάνατος,</w> <w xml:id="beth0136-6" xml:lang="grc">ἡ</w> <w xml:id="beth0136-7" xml:lang="grc">ἀπο</w> <w xml:id="beth0136-8" xml:lang="grc">Βίβλου</w></p>
 </div>
 </body>
       <back>

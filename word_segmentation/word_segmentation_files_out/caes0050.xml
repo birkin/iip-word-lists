@@ -115,12 +115,11 @@
    <text>
       <body>
          <div type="edition" ana="#b1" subtype="transcription" xml:id="caes0050.transcription">
-            <p>
-               <supplied reason="lost"><expan><abbr>leg</abbr><ex>ionis</ex></expan></supplied> <num value="10"><supplied reason="lost">X</supplied></num>
+            <p><supplied reason="lost"><expan><abbr>leg</abbr><ex>ionis</ex></expan></supplied> <num value="10"><supplied reason="lost">X</supplied></num>
                <expan><abbr><supplied reason="lost">Fr</supplied><hi rend="ligature">et</hi></abbr><ex>ensis</ex></expan>
             </p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="caes0050-1" xml:lang="la"/> <w xml:id="caes0050-2" xml:lang="la"><supplied reason="lost"><expan><abbr>leg</abbr><ex>ionis</ex></expan></supplied></w> <w xml:id="caes0050-3" xml:lang="la"><num value="10"><supplied reason="lost">X</supplied></num></w> <w xml:id="caes0050-4" xml:lang="la"><expan><abbr><supplied reason="lost">Fr</supplied><hi rend="ligature">et</hi></abbr><ex>ensis</ex></expan></w> <w xml:id="caes0050-5" xml:lang="la"/></p>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="caes0050-1" xml:lang="la"><supplied reason="lost"><expan><abbr>leg</abbr><ex>ionis</ex></expan></supplied></w> <w xml:id="caes0050-2" xml:lang="la"><num value="10"><supplied reason="lost">X</supplied></num></w> <w xml:id="caes0050-3" xml:lang="la"><expan><abbr><supplied reason="lost">Fr</supplied><hi rend="ligature">et</hi></abbr><ex>ensis</ex></expan></w> <w xml:id="caes0050-4" xml:lang="la"/></p>
 </div>
 </body>
       <back>

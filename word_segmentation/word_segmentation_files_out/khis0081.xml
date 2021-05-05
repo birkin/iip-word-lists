@@ -118,19 +118,17 @@
                <lb/>Χ Μ </p>
          </div>
          <div type="edition" ana="#b1" subtype="transcription" xml:id="khis0081.transcription" corresp="#khis0081.diplomatic #khis0081.translation">
-            <p>
-               <g type="cross">+</g>
+            <p><g type="cross">+</g>
                <lb/>
                <expan><abbr>Χ</abbr><ex>ριστὸς</ex></expan> <supplied reason="subaudible">ὁ</supplied> <supplied reason="subaudible">ἐκ</supplied>
                <expan><abbr>Μ</abbr><ex>αρίας</ex></expan>
-               <expan><abbr><supplied reason="undefined">γ</supplied></abbr><ex>εννηθείς</ex></expan>
-            </p>
+               <expan><abbr><supplied reason="undefined">γ</supplied></abbr><ex>εννηθείς</ex></expan></p>
          </div>
          <div type="translation" ana="#b1" xml:id="khis0081.translation" corresp="#khis0081.diplomatic #khis0081.transcription">
             <p>Christ, (born of) Mary
 				</p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="khis0081-1" xml:lang="grc"/> <w xml:id="khis0081-2" xml:lang="grc"><g type="cross">+</g></w> <w xml:id="khis0081-3" xml:lang="grc"><expan><abbr>Χ</abbr><ex>ριστὸς</ex></expan></w> <w xml:id="khis0081-4" xml:lang="grc"><supplied reason="subaudible">ὁ</supplied></w> <w xml:id="khis0081-5" xml:lang="grc"><supplied reason="subaudible">ἐκ</supplied></w> <w xml:id="khis0081-6" xml:lang="grc"><expan><abbr>Μ</abbr><ex>αρίας</ex></expan></w> <w xml:id="khis0081-7" xml:lang="grc"><expan><abbr><supplied reason="undefined">γ</supplied></abbr><ex>εννηθείς</ex></expan></w> <w xml:id="khis0081-8" xml:lang="grc"/></p>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="khis0081-1" xml:lang="grc"><g type="cross">+</g></w> <w xml:id="khis0081-2" xml:lang="grc"><expan><abbr>Χ</abbr><ex>ριστὸς</ex></expan></w> <w xml:id="khis0081-3" xml:lang="grc"><supplied reason="subaudible">ὁ</supplied></w> <w xml:id="khis0081-4" xml:lang="grc"><supplied reason="subaudible">ἐκ</supplied></w> <w xml:id="khis0081-5" xml:lang="grc"><expan><abbr>Μ</abbr><ex>αρίας</ex></expan></w> <w xml:id="khis0081-6" xml:lang="grc"><expan><abbr><supplied reason="undefined">γ</supplied></abbr><ex>εννηθείς</ex></expan></w></p>
 </div>
 </body>
       <back>

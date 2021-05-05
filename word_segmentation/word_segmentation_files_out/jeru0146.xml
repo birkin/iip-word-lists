@@ -118,13 +118,12 @@
       <body>
          <div type="edition" ana="#b1" xml:lang="grc" subtype="transcription" xml:id="jeru0146.transcription" corresp="#jeru0146.translation">
             <p>Μαίας
-                    <lb/>Σα<unclear>ο</unclear>υλος
-                </p>
+                    <lb/>Σα<unclear>ο</unclear>υλος</p>
          </div>
          <div type="translation" ana="#b1" xml:id="jeru0146.translation" corresp="#jeru0146.transcription">
             <p>of Maia/(daughter of) Saul</p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="jeru0146-1" xml:lang="grc">Μαίας</w> <w xml:id="jeru0146-2" xml:lang="grc">Σα<unclear>ο</unclear>υλος</w> <w xml:id="jeru0146-3" xml:lang="grc"/></p>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="jeru0146-1" xml:lang="grc">Μαίας</w> <w xml:id="jeru0146-2" xml:lang="grc">Σα<unclear>ο</unclear>υλος</w></p>
 </div>
 </body>
       <back>

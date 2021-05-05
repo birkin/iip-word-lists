@@ -111,8 +111,7 @@
    <text>
       <body>
          <div type="edition" ana="#b1" subtype="transcription" xml:id="fiqg0019.transcription" corresp="#fiqg0019.diplomatic #fiqg0019.translation">
-            <p>θάρσι<lb/>Ταυρῖ<lb break="no"/>νε <expan><abbr>ἐτῶ</abbr><ex>ν</ex></expan><lb/><gap reason="illegible" quantity="1" unit="line"/>
-            </p>
+            <p>θάρσι<lb/>Ταυρῖ<lb break="no"/>νε <expan><abbr>ἐτῶ</abbr><ex>ν</ex></expan><lb/><gap reason="illegible" quantity="1" unit="line"/></p>
          </div>
          <div type="edition" ana="#b1" subtype="diplomatic" xml:id="fiqg0019.diplomatic" corresp="#fiqg0019.transcription #fiqg0019.translation">
             <p>ΘΑΡΣΙ<lb/>ΤΑΥΡΙ<lb/>ΝΕΕΤΩ</p>

@@ -120,18 +120,16 @@
    <text>
       <body>
          <div type="edition" ana="#b1" xml:lang="grc" subtype="transcription" xml:id="zoor0361.transcription" corresp="#zoor0361.translation">
-            <p>
-               <gap reason="lost" extent="unknown" unit="character"/>
+            <p><gap reason="lost" extent="unknown" unit="character"/>
                <supplied reason="lost">ἀπέθανεν</supplied>
                <lb/>τὸ τρίτον τοῦ<lb/>
                <space extent="unknown" unit="character"/> κόσμου.<lb/>
-               <g type="cross">+</g>
-            </p>
+               <g type="cross">+</g></p>
          </div>
          <div type="translation" ana="#b1" xml:id="zoor0361.translation" corresp="#zoor0361.transcription">
             <p> (died)<lb/>one-third<lb/>of the population.</p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="fein0003-1" xml:lang="grc"/> <w xml:id="fein0003-2" xml:lang="grc"><supplied reason="lost">ἀπέθανεν</supplied></w> <w xml:id="fein0003-3" xml:lang="grc">τὸ</w> <w xml:id="fein0003-4" xml:lang="grc">τρίτον</w> <w xml:id="fein0003-5" xml:lang="grc">τοῦ</w> <w xml:id="fein0003-6" xml:lang="grc">κόσμου.</w> <w xml:id="fein0003-7" xml:lang="grc"><g type="cross">+</g></w> <w xml:id="fein0003-8" xml:lang="grc"/></p>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="fein0003-1" xml:lang="grc"/> <w xml:id="fein0003-2" xml:lang="grc"><supplied reason="lost">ἀπέθανεν</supplied></w> <w xml:id="fein0003-3" xml:lang="grc">τὸ</w> <w xml:id="fein0003-4" xml:lang="grc">τρίτον</w> <w xml:id="fein0003-5" xml:lang="grc">τοῦ</w> <w xml:id="fein0003-6" xml:lang="grc">κόσμου.</w> <w xml:id="fein0003-7" xml:lang="grc"><g type="cross">+</g></w></p>
 </div>
 </body>
       <back>

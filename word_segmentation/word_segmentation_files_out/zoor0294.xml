@@ -112,15 +112,14 @@
    <text>
       <body>
          <div type="edition" ana="#b1" xml:lang="grc" subtype="transcription" xml:id="zoor0294.transcription" corresp="#zoor0294.translation">
-            <p>
-               <choice><sic>Μνημῖο<lb break="no"/>ν</sic><corr>Μνημεῖο<lb break="no"/>ν</corr></choice> Ἀλουφά<lb break="no"/>θης Μαζαβ<lb break="no"/>άνου, <choice><reg>ἀποθανούσης</reg><orig><sic><expan><abbr>ἀπο<lb break="no"/>θανούντ</abbr><ex>ος</ex></expan></sic><corr>ἀποθανόντος</corr></orig></choice>
+            <p><choice><sic>Μνημῖο<lb break="no"/>ν</sic><corr>Μνημεῖο<lb break="no"/>ν</corr></choice> Ἀλουφά<lb break="no"/>θης Μαζαβ<lb break="no"/>άνου, <choice><reg>ἀποθανούσης</reg><orig><sic><expan><abbr>ἀπο<lb break="no"/>θανούντ</abbr><ex>ος</ex></expan></sic><corr>ἀποθανόντος</corr></orig></choice>
                <lb/> ἐτῶν <num value="7">ζʹ</num>.</p>
          </div>
          <div type="translation" ana="#b1" xml:id="zoor0294.translation" corresp="#zoor0294.transcription">
             <p>Monument of Aloufathe, (daughter) of Mazabanos, who died (at the age) of 7
                     years.</p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="zoor0294-1" xml:lang="grc"/> <w xml:id="zoor0294-2" xml:lang="grc"><choice><sic>Μνημῖον</sic><corr>Μνημεῖον</corr></choice></w> <w xml:id="zoor0294-3" xml:lang="grc">Ἀλουφάθης</w> <w xml:id="zoor0294-4" xml:lang="grc">Μαζαβάνου,</w> <w xml:id="zoor0294-5" xml:lang="grc"><choice><reg>ἀποθανούσης</reg><orig><sic><expan><abbr>ἀποθανούντ</abbr><ex>ος</ex></expan></sic><corr>ἀποθανόντος</corr></orig></choice></w> <w xml:id="zoor0294-6" xml:lang="grc">ἐτῶν</w> <w xml:id="zoor0294-7" xml:lang="grc"><num value="7">ζʹ</num>.</w></p>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="zoor0294-1" xml:lang="grc"><choice><sic>Μνημῖον</sic><corr>Μνημεῖον</corr></choice></w> <w xml:id="zoor0294-2" xml:lang="grc">Ἀλουφάθης</w> <w xml:id="zoor0294-3" xml:lang="grc">Μαζαβάνου,</w> <w xml:id="zoor0294-4" xml:lang="grc"><choice><reg>ἀποθανούσης</reg><orig><sic><expan><abbr>ἀποθανούντ</abbr><ex>ος</ex></expan></sic><corr>ἀποθανόντος</corr></orig></choice></w> <w xml:id="zoor0294-5" xml:lang="grc">ἐτῶν</w> <w xml:id="zoor0294-6" xml:lang="grc"><num value="7">ζʹ</num>.</w></p>
 </div>
 </body>
       <back>

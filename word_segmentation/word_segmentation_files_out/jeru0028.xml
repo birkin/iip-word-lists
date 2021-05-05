@@ -115,13 +115,12 @@
             <p>ΙѠΑΝΗϹ<lb/>ΙѠΑΝΗϹ<lb/>ΙѠΑΝΗϹ</p>
          </div>
          <div type="edition" ana="#b1" xml:lang="grc" subtype="transcription" xml:id="jeru0028.transcription" corresp="#jeru0028.diplomatic #jeru0028.translation">
-            <p>Ἰωάνης<lb/>Ἰωάνης<lb/>Ἰωάνης               
-                </p>
+            <p>Ἰωάνης<lb/>Ἰωάνης<lb/>Ἰωάνης</p>
          </div>
          <div type="translation" ana="#b1" xml:id="jeru0028.translation" corresp="#jeru0028.diplomatic #jeru0028.transcription">
             <p>Johannes. Johannes. Johannes.</p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="jeru0028-1" xml:lang="grc">Ἰωάνης</w> <w xml:id="jeru0028-2" xml:lang="grc">Ἰωάνης</w> <w xml:id="jeru0028-3" xml:lang="grc">Ἰωάνης</w> <w xml:id="jeru0028-4" xml:lang="grc"/></p>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="jeru0028-1" xml:lang="grc">Ἰωάνης</w> <w xml:id="jeru0028-2" xml:lang="grc">Ἰωάνης</w> <w xml:id="jeru0028-3" xml:lang="grc">Ἰωάνης</w></p>
 </div>
 </body>
       <back>

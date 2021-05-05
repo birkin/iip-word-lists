@@ -113,14 +113,14 @@
    <text>
       <body>
          <div type="edition" ana="#b2" subtype="transcription" xml:id="beth0064.transcription" corresp="#beth0064.translation">
-            <p>Ἰούδας </p>
+            <p>Ἰούδας</p>
          </div>
          <div type="translation" ana="#b2" xml:id="beth0064.translation" corresp="#beth0064.transcription">
             <p>
                <persName xml:lang="hbo " ref="persons.xml#beth0064p01">Judah </persName>
             </p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="beth0064-1" xml:lang="grc">Ἰούδας</w> <w xml:id="beth0064-2" xml:lang="grc"/></p>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="beth0064-1" xml:lang="grc">Ἰούδας</w></p>
 </div>
 </body>
       <back>

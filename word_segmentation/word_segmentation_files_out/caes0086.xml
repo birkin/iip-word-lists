@@ -111,14 +111,12 @@
    <text>
       <body>
          <div type="edition" ana="#b1" subtype="transcription" xml:id="caes0086.transcription">
-            <p>
-               <gap reason="illegible" quantity="1" unit="character"/><supplied reason="undefined">εὐτθχ</supplied>ῶς Εὐγ<gap reason="illegible" quantity="2" unit="character"/>
+            <p><gap reason="illegible" quantity="1" unit="character"/><supplied reason="undefined">εὐτθχ</supplied>ῶς Εὐγ<gap reason="illegible" quantity="2" unit="character"/>
                <lb/>
                <gap reason="illegible" quantity="4" unit="character"/>
-               <unclear>ὁ</unclear> κτ<supplied reason="undefined">ίστνς</supplied> <gap reason="illegible" quantity="1" unit="character"/>
-            </p>
+               <unclear>ὁ</unclear> κτ<supplied reason="undefined">ίστνς</supplied> <gap reason="illegible" quantity="1" unit="character"/></p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="caes0086-1" xml:lang="grc"/> <w xml:id="caes0086-2" xml:lang="grc"><supplied reason="undefined">εὐτθχ</supplied>ῶς</w> <w xml:id="caes0086-3" xml:lang="grc">Εὐγ</w> <w xml:id="caes0086-4" xml:lang="grc"><unclear>ὁ</unclear></w> <w xml:id="caes0086-5" xml:lang="grc">κτ<supplied reason="undefined">ίστνς</supplied></w> <w xml:id="caes0086-6" xml:lang="grc"/></p>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="caes0086-1" xml:lang="grc"><supplied reason="undefined">εὐτθχ</supplied>ῶς</w> <w xml:id="caes0086-2" xml:lang="grc">Εὐγ</w> <w xml:id="caes0086-3" xml:lang="grc"><unclear>ὁ</unclear></w> <w xml:id="caes0086-4" xml:lang="grc">κτ<supplied reason="undefined">ίστνς</supplied></w> <w xml:id="caes0086-5" xml:lang="grc"/></p>
 </div>
 </body>
       <back>

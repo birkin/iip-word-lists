@@ -170,12 +170,12 @@
    <text>
       <body>
          <div type="edition" ana="#b1" xml:lang="grc" subtype="transcription" xml:id="jeru0163.transcription" corresp="#jeru0163.translation">
-            <p>Φασαήλου <lb/> καὶ Εἰφιγενείας <lb/> Φασαήλου υἱοῦ </p>
+            <p>Φασαήλου <lb/> καὶ Εἰφιγενείας <lb/> Φασαήλου υἱοῦ</p>
          </div>
          <div type="translation" ana="#b1" xml:id="jeru0163.translation" corresp="#jeru0163.transcription">
             <p>of Phasael. And of Iphigenia. Of Phasael, his son</p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="jeru0163-1" xml:lang="grc">Φασαήλου</w> <w xml:id="jeru0163-2" xml:lang="grc">καὶ</w> <w xml:id="jeru0163-3" xml:lang="grc">Εἰφιγενείας</w> <w xml:id="jeru0163-4" xml:lang="grc">Φασαήλου</w> <w xml:id="jeru0163-5" xml:lang="grc">υἱοῦ</w> <w xml:id="jeru0163-6" xml:lang="grc"/></p>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="jeru0163-1" xml:lang="grc">Φασαήλου</w> <w xml:id="jeru0163-2" xml:lang="grc">καὶ</w> <w xml:id="jeru0163-3" xml:lang="grc">Εἰφιγενείας</w> <w xml:id="jeru0163-4" xml:lang="grc">Φασαήλου</w> <w xml:id="jeru0163-5" xml:lang="grc">υἱοῦ</w></p>
 </div>
 </body>
       <back>

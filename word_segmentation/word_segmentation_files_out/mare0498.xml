@@ -127,8 +127,7 @@
                 <p>ΝΙΚ</p>
             </div>
             <div type="edition" subtype="transcription" ana="b1">
-                <p>Νίκ<supplied reason="lost">η</supplied>
-            </p>
+                <p>Νίκ<supplied reason="lost">η</supplied></p>
             </div>
             <div type="translation" ana="b1">
                 <p>Victory or Nike</p>
@@ -137,7 +136,7 @@
                 <p>Alternative suggested reading, although presented as less probable: νικῶ, to
                     defeat.</p>
             </div>
-        <div type="edition" subtype="transcription_segmented"><p><w xml:id="mare0498-1" xml:lang="grc">Νίκ<supplied reason="lost">η</supplied></w> <w xml:id="mare0498-2" xml:lang="grc"/></p>
+        <div type="edition" subtype="transcription_segmented"><p><w xml:id="mare0498-1" xml:lang="grc">Νίκ<supplied reason="lost">η</supplied></w></p>
 </div>
 </body>
         <back>

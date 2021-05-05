@@ -113,15 +113,14 @@
    <text>
       <body>
          <div type="edition" ana="#b1" xml:lang="heb" subtype="transcription" xml:id="jeru0185.transcription" corresp="#jeru0185.translation">
-            <p>
-               <foreign xml:lang="grc">Τ</foreign> 
+            <p><foreign xml:lang="grc">Τ</foreign> 
                 אלעזר
                 </p>
          </div>
          <div type="translation" ana="#b1" xml:id="jeru0185.translation" corresp="#jeru0185.transcription">
             <p>El'azar T</p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="jeru0185-1" xml:lang="arc"/> <w xml:id="jeru0185-2" xml:lang="arc"><foreign xml:lang="grc">Τ</foreign></w> <w xml:id="jeru0185-3" xml:lang="arc">אלעזר</w> <w xml:id="jeru0185-4" xml:lang="arc"/></p>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="jeru0185-1" xml:lang="arc"><foreign xml:lang="grc">Τ</foreign></w> <w xml:id="jeru0185-2" xml:lang="arc">אלעזר</w> <w xml:id="jeru0185-3" xml:lang="arc"/></p>
 </div>
 </body>
       <back>

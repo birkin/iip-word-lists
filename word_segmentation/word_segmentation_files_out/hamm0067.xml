@@ -126,8 +126,7 @@
             </p>
          </div>
          <div type="edition" ana="#b1" subtype="transcription" xml:id="hamm0067.transcription" corresp="#hamm0067.diplomatic #hamm0067.translation">
-            <p>
-               <supplied reason="undefined">Ἐν</supplied> <supplied reason="undefined">τῷ</supplied> <supplied reason="undefined">ἁγίῳ</supplied>
+            <p><supplied reason="undefined">Ἐν</supplied> <supplied reason="undefined">τῷ</supplied> <supplied reason="undefined">ἁγίῳ</supplied>
                <lb/>
                <supplied reason="undefined">τόπῳ</supplied> <supplied reason="undefined">μνησθῇ</supplied>
                <lb/>
@@ -135,8 +134,7 @@
                <lb/>
 Ζαχα<supplied reason="undefined">ρίου</supplied>
                <lb/>
-ὁ κα<supplied reason="undefined">ὶ</supplied><gap reason="lost" unit="character" extent="unknown"/>
-            </p>
+ὁ κα<supplied reason="undefined">ὶ</supplied><gap reason="lost" unit="character" extent="unknown"/></p>
          </div>
          <div type="translation" ana="#b1" xml:id="hamm0067.translation" corresp="#hamm0067.diplomatic #hamm0067.transcription">
             <p>
@@ -144,7 +142,7 @@
                   <rs type="formula">In this holy place </rs> may be remembered</supplied>
                <persName xml:lang="hbo " ref="persons.xml#hamm0067p01">Paregorius </persName>  (<rs type="family">son </rs>) of <persName xml:lang="hbo " ref="persons.xml#hamm0067p02">Zacharias</persName>, also (called)...</p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="hamm0067-1" xml:lang="grc"/> <w xml:id="hamm0067-2" xml:lang="grc"><supplied reason="undefined">Ἐν</supplied></w> <w xml:id="hamm0067-3" xml:lang="grc"><supplied reason="undefined">τῷ</supplied></w> <w xml:id="hamm0067-4" xml:lang="grc"><supplied reason="undefined">ἁγίῳ</supplied></w> <w xml:id="hamm0067-5" xml:lang="grc"><supplied reason="undefined">τόπῳ</supplied></w> <w xml:id="hamm0067-6" xml:lang="grc"><supplied reason="undefined">μνησθῇ</supplied></w> <w xml:id="hamm0067-7" xml:lang="grc">Παρη<supplied reason="undefined">γόριος</supplied></w> <w xml:id="hamm0067-8" xml:lang="grc">Ζαχα<supplied reason="undefined">ρίου</supplied></w> <w xml:id="hamm0067-9" xml:lang="grc">ὁ</w> <w xml:id="hamm0067-10" xml:lang="grc">κα<supplied reason="undefined">ὶ</supplied></w> <w xml:id="hamm0067-11" xml:lang="grc"/></p>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="hamm0067-1" xml:lang="grc"><supplied reason="undefined">Ἐν</supplied></w> <w xml:id="hamm0067-2" xml:lang="grc"><supplied reason="undefined">τῷ</supplied></w> <w xml:id="hamm0067-3" xml:lang="grc"><supplied reason="undefined">ἁγίῳ</supplied></w> <w xml:id="hamm0067-4" xml:lang="grc"><supplied reason="undefined">τόπῳ</supplied></w> <w xml:id="hamm0067-5" xml:lang="grc"><supplied reason="undefined">μνησθῇ</supplied></w> <w xml:id="hamm0067-6" xml:lang="grc">Παρη<supplied reason="undefined">γόριος</supplied></w> <w xml:id="hamm0067-7" xml:lang="grc">Ζαχα<supplied reason="undefined">ρίου</supplied></w> <w xml:id="hamm0067-8" xml:lang="grc">ὁ</w> <w xml:id="hamm0067-9" xml:lang="grc">κα<supplied reason="undefined">ὶ</supplied></w></p>
 </div>
 </body>
       <back>

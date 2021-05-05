@@ -118,7 +118,7 @@
    <text>
       <body>
          <div type="edition" ana="#b4" subtype="transcription" xml:id="beth0111.transcription" corresp="#beth0111.translation">
-            <p>Ὁμηριτῶν </p>
+            <p>Ὁμηριτῶν</p>
          </div>
          <div type="translation" ana="#b4" xml:id="beth0111.translation" corresp="#beth0111.transcription">
             <p>Of the men of <rs type="ethnicon" ana="interpretations.xml#Himyar">
@@ -126,7 +126,7 @@
                </rs>
             </p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="beth0111-1" xml:lang="grc">Ὁμηριτῶν</w> <w xml:id="beth0111-2" xml:lang="grc"/></p>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="beth0111-1" xml:lang="grc">Ὁμηριτῶν</w></p>
 </div>
 </body>
       <back>

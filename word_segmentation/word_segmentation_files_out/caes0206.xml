@@ -119,18 +119,16 @@
    <text>
       <body>
          <div type="edition" ana="#b1" subtype="transcription" xml:id="caes0206.transcription" corresp="#caes0206.translation">
-            <p>
-               <g type="cross">+</g> θήκη <g type="cross">+</g>
+            <p><g type="cross">+</g> θήκη <g type="cross">+</g>
                <lb/> Καρποῦ <expan><abbr>οἰνο<lb break="no"/>π</abbr><ex>άτου</ex></expan>
-               <expan><abbr>κ</abbr><ex>αὶ</ex></expan> Ζωσίμης<lb/> γαμετῆς. <g type="cross">+</g>
-            </p>
+               <expan><abbr>κ</abbr><ex>αὶ</ex></expan> Ζωσίμης<lb/> γαμετῆς. <g type="cross">+</g></p>
          </div>
          <div type="translation" ana="#b1" xml:id="caes0206.translation" corresp="#caes0206.transcription">
             <p>The tomb of  <persName xml:lang="grc " ref="persons.xml#caes0206p01">Karpos</persName>, the <rs type="occupation">vinter</rs>, and his <rs type="family">wife </rs>
                <persName xml:lang="grc " ref="persons.xml#caes0206p02">Zosime</persName>.
 		  </p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="caes0206-1" xml:lang="grc"/> <w xml:id="caes0206-2" xml:lang="grc"><g type="cross">+</g></w> <w xml:id="caes0206-3" xml:lang="grc">θήκη</w> <w xml:id="caes0206-4" xml:lang="grc"><g type="cross">+</g></w> <w xml:id="caes0206-5" xml:lang="grc">Καρποῦ</w> <w xml:id="caes0206-6" xml:lang="grc"><expan><abbr>οἰνοπ</abbr><ex>άτου</ex></expan></w> <w xml:id="caes0206-7" xml:lang="grc"><expan><abbr>κ</abbr><ex>αὶ</ex></expan></w> <w xml:id="caes0206-8" xml:lang="grc">Ζωσίμης</w> <w xml:id="caes0206-9" xml:lang="grc">γαμετῆς.</w> <w xml:id="caes0206-10" xml:lang="grc"><g type="cross">+</g></w> <w xml:id="caes0206-11" xml:lang="grc"/></p>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="caes0206-1" xml:lang="grc"><g type="cross">+</g></w> <w xml:id="caes0206-2" xml:lang="grc">θήκη</w> <w xml:id="caes0206-3" xml:lang="grc"><g type="cross">+</g></w> <w xml:id="caes0206-4" xml:lang="grc">Καρποῦ</w> <w xml:id="caes0206-5" xml:lang="grc"><expan><abbr>οἰνοπ</abbr><ex>άτου</ex></expan></w> <w xml:id="caes0206-6" xml:lang="grc"><expan><abbr>κ</abbr><ex>αὶ</ex></expan></w> <w xml:id="caes0206-7" xml:lang="grc">Ζωσίμης</w> <w xml:id="caes0206-8" xml:lang="grc">γαμετῆς.</w> <w xml:id="caes0206-9" xml:lang="grc"><g type="cross">+</g></w></p>
 </div>
 </body>
       <back>

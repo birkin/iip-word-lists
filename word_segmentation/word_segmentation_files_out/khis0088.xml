@@ -121,14 +121,13 @@
 				</p>
          </div>
          <div type="edition" ana="#b1" subtype="transcription" xml:id="khis0088.transcription" corresp="#khis0088.diplomatic #khis0088.translation">
-            <p>Ἰοῦλι<unclear>ς</unclear> Δο<lb/>μιττιανοῦ <lb/> ἐποιήσε<unclear>ν</unclear>
-            </p>
+            <p>Ἰοῦλι<unclear>ς</unclear> Δο<lb/>μιττιανοῦ <lb/> ἐποιήσε<unclear>ν</unclear></p>
          </div>
          <div type="translation" ana="#b1" xml:id="khis0088.translation" corresp="#khis0088.diplomatic #khis0088.transcription">
             <p>Joulis, son of Domittianus, built (this).
 				</p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="khis0088-1" xml:lang="grc">Ἰοῦλι<unclear>ς</unclear></w> <w xml:id="khis0088-2" xml:lang="grc">Δο</w> <w xml:id="khis0088-3" xml:lang="grc">μιττιανοῦ</w> <w xml:id="khis0088-4" xml:lang="grc">ἐποιήσε<unclear>ν</unclear></w> <w xml:id="khis0088-5" xml:lang="grc"/></p>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="khis0088-1" xml:lang="grc">Ἰοῦλι<unclear>ς</unclear></w> <w xml:id="khis0088-2" xml:lang="grc">Δο</w> <w xml:id="khis0088-3" xml:lang="grc">μιττιανοῦ</w> <w xml:id="khis0088-4" xml:lang="grc">ἐποιήσε<unclear>ν</unclear></w></p>
 </div>
 </body>
       <back>

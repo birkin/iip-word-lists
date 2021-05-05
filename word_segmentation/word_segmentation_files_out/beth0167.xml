@@ -115,14 +115,14 @@
       <body>
          <div type="edition" ana="#b1" subtype="transcription" xml:id="beth0167.transcription" corresp="#beth0167.translation">
             <p>Ἀννιανὸς<lb/>
-               <surplus>π</surplus> Προσδοκίς </p>
+               <surplus>π</surplus> Προσδοκίς</p>
          </div>
          <div type="translation" ana="#b1" xml:id="beth0167.translation" corresp="#beth0167.transcription">
             <p>
                <persName xml:lang="hbo " ref="persons.xml#beth0167p01">Annianos</persName>, <persName xml:lang="grc " ref="persons.xml#beth0167p02">Prosdokis </persName>
             </p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="beth0167-1" xml:lang="grc">Ἀννιανὸς</w> <w xml:id="beth0167-2" xml:lang="grc"><surplus>π</surplus></w> <w xml:id="beth0167-3" xml:lang="grc">Προσδοκίς</w> <w xml:id="beth0167-4" xml:lang="grc"/></p>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="beth0167-1" xml:lang="grc">Ἀννιανὸς</w> <w xml:id="beth0167-2" xml:lang="grc"><surplus>π</surplus></w> <w xml:id="beth0167-3" xml:lang="grc">Προσδοκίς</w></p>
 </div>
 </body>
       <back>

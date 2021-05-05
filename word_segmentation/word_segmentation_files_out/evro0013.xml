@@ -116,19 +116,17 @@
                <lb/> ΑΥΤΗΓ</p>
          </div>
          <div type="edition" ana="#b1" xml:lang="grc" subtype="transcription" xml:id="evro0013.transcription" corresp="#evro0013.diplomatic #evro0013.translation">
-            <p>
-               <expan><abbr>Κ</abbr><ex>ύρι</ex><abbr>ε</abbr></expan>
+            <p><expan><abbr>Κ</abbr><ex>ύρι</ex><abbr>ε</abbr></expan>
                <expan><abbr>Ἰ</abbr><ex>εσο</ex><abbr>ῦ</abbr></expan>
                <expan><abbr>Χρ</abbr><ex>ιστ</ex><abbr>έ</abbr></expan> μνήσκ<lb break="no"/>ου Ἀμμάνου <lb/> καί Εὐθα<supplied reason="lost">λί</supplied>ων<supplied reason="lost">ος</supplied>
                <lb/>
                <space/>
-               <orig>αυτηγ</orig>
-            </p>
+               <orig>αυτηγ</orig></p>
          </div>
          <div type="translation" ana="#b1" xml:id="evro0013.translation" corresp="#evro0013.diplomatic #evro0013.transcription">
             <p>Lord, Jesus Christ, remember Ammanos and Euthalios ....</p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="evro0013-1" xml:lang="grc"/> <w xml:id="evro0013-2" xml:lang="grc"><expan><abbr>Κ</abbr><ex>ύρι</ex><abbr>ε</abbr></expan></w> <w xml:id="evro0013-3" xml:lang="grc"><expan><abbr>Ἰ</abbr><ex>εσο</ex><abbr>ῦ</abbr></expan></w> <w xml:id="evro0013-4" xml:lang="grc"><expan><abbr>Χρ</abbr><ex>ιστ</ex><abbr>έ</abbr></expan></w> <w xml:id="evro0013-5" xml:lang="grc">μνήσκου</w> <w xml:id="evro0013-6" xml:lang="grc">Ἀμμάνου</w> <w xml:id="evro0013-7" xml:lang="grc">καί</w> <w xml:id="evro0013-8" xml:lang="grc">Εὐθα<supplied reason="lost">λί</supplied>ων<supplied reason="lost">ος</supplied></w> <w xml:id="evro0013-9" xml:lang="grc"><orig>αυτηγ</orig></w> <w xml:id="evro0013-10" xml:lang="grc"/></p>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="evro0013-1" xml:lang="grc"><expan><abbr>Κ</abbr><ex>ύρι</ex><abbr>ε</abbr></expan></w> <w xml:id="evro0013-2" xml:lang="grc"><expan><abbr>Ἰ</abbr><ex>εσο</ex><abbr>ῦ</abbr></expan></w> <w xml:id="evro0013-3" xml:lang="grc"><expan><abbr>Χρ</abbr><ex>ιστ</ex><abbr>έ</abbr></expan></w> <w xml:id="evro0013-4" xml:lang="grc">μνήσκου</w> <w xml:id="evro0013-5" xml:lang="grc">Ἀμμάνου</w> <w xml:id="evro0013-6" xml:lang="grc">καί</w> <w xml:id="evro0013-7" xml:lang="grc">Εὐθα<supplied reason="lost">λί</supplied>ων<supplied reason="lost">ος</supplied></w> <w xml:id="evro0013-8" xml:lang="grc"><orig>αυτηγ</orig></w></p>
 </div>
 </body>
       <back>

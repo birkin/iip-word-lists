@@ -125,7 +125,7 @@
    <text>
       <body>
          <div type="edition" ana="#b2" subtype="transcription" xml:id="beth0070.transcription" corresp="#beth0070.translation">
-            <p>Κυ<lb break="no"/>ρὰ Ἄ<lb break="no"/>νν<lb break="no"/>α </p>
+            <p>Κυ<lb break="no"/>ρὰ Ἄ<lb break="no"/>νν<lb break="no"/>α</p>
          </div>
          <div type="translation" ana="#b2" xml:id="beth0070.translation" corresp="#beth0070.transcription">
             <p>
@@ -133,7 +133,7 @@
                <persName xml:lang="hbo " ref="persons.xml#beth0070p01">Hannah</persName>
             </p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="beth0070-1" xml:lang="grc">Κυρὰ</w> <w xml:id="beth0070-2" xml:lang="grc">Ἄννα</w> <w xml:id="beth0070-3" xml:lang="grc"/></p>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="beth0070-1" xml:lang="grc">Κυρὰ</w> <w xml:id="beth0070-2" xml:lang="grc">Ἄννα</w></p>
 </div>
 </body>
       <back>

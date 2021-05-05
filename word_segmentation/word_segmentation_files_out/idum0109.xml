@@ -169,8 +169,7 @@
             <!-- figure out how include linking mechanism to link divs to bibl.  add a ref inside an ab inside the div-->
             
                 <div type="edition" subtype="transcription" ana="b1" xml:lang="heb">
-                    <p>
-               <gap reason="lost" unit="character" extent="unknown"/>לכסלו
+                    <p><gap reason="lost" unit="character" extent="unknown"/>לכסלו
                             <unclear>שנת</unclear>
                         <num value="1">1</num>
                <lb/>
@@ -186,7 +185,7 @@
             </div>
             <!-- The bibl has more contained elements. What is the possible list of values of the biblScope/@type? 
              -->
-        <div type="edition" subtype="transcription_segmented"><p><w xml:id="idum0109-1" xml:lang="arc"/> <w xml:id="idum0109-2" xml:lang="arc">לכסלו</w> <w xml:id="idum0109-3" xml:lang="arc"><unclear>שנת</unclear></w> <w xml:id="idum0109-4" xml:lang="arc"><num value="1">1</num></w> <w xml:id="idum0109-5" xml:lang="arc">.</w> <w xml:id="idum0109-6" xml:lang="arc">ק<unclear>וצ</unclear>י</w></p>
+        <div type="edition" subtype="transcription_segmented"><p><w xml:id="idum0109-1" xml:lang="arc">לכסלו</w> <w xml:id="idum0109-2" xml:lang="arc"><unclear>שנת</unclear></w> <w xml:id="idum0109-3" xml:lang="arc"><num value="1">1</num></w> <w xml:id="idum0109-4" xml:lang="arc">.</w> <w xml:id="idum0109-5" xml:lang="arc">ק<unclear>וצ</unclear>י</w></p>
 </div>
 </body>
         <back>

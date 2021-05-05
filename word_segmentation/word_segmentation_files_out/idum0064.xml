@@ -169,8 +169,7 @@
                 <p/>
             </div>
             <div type="edition" subtype="transcription" ana="b1" xml:lang="heb">
-                <p>
-               <gap reason="lost" extent="unknown" unit="character"/>ל בני גורו<gap reason="lost" quantity="1" unit="character"/>
+                <p><gap reason="lost" extent="unknown" unit="character"/>ל בני גורו<gap reason="lost" quantity="1" unit="character"/>
                <gap reason="lost" extent="unknown" unit="character"/>
                <lb/>
                <gap reason="lost" extent="unknown" unit="character"/>
@@ -188,7 +187,7 @@
             </div>
             <!-- The bibl has more contained elements. What is the possible list of values of the biblScope/@type? 
              -->
-        <div type="edition" subtype="transcription_segmented"><p><w xml:id="idum0064-1" xml:lang="arc"/> <w xml:id="idum0064-2" xml:lang="arc">ל</w> <w xml:id="idum0064-3" xml:lang="arc">בני</w> <w xml:id="idum0064-4" xml:lang="arc">גורו</w> <w xml:id="idum0064-5" xml:lang="arc"><unclear>לפ</unclear>לקוס</w> <w xml:id="idum0064-6" xml:lang="arc">עלי<supplied reason="lost">ד</supplied></w> <w xml:id="idum0064-7" xml:lang="arc"/></p>
+        <div type="edition" subtype="transcription_segmented"><p><w xml:id="idum0064-1" xml:lang="arc">ל</w> <w xml:id="idum0064-2" xml:lang="arc">בני</w> <w xml:id="idum0064-3" xml:lang="arc">גורו</w> <w xml:id="idum0064-4" xml:lang="arc"><unclear>לפ</unclear>לקוס</w> <w xml:id="idum0064-5" xml:lang="arc">עלי<supplied reason="lost">ד</supplied></w> <w xml:id="idum0064-6" xml:lang="arc"/></p>
 </div>
 </body>
         <back>

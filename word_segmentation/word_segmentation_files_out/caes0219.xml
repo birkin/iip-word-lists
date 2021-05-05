@@ -117,10 +117,9 @@
             <p><g type="cross">+</g> θ<supplied reason="undefined">ήκη</supplied>
                <gap reason="illegible" quantity="2" unit="character"/>
                <lb/>
-               <orig>Δ</orig><gap reason="illegible" quantity="5" unit="character"/>
-            </p>
+               <orig>Δ</orig><gap reason="illegible" quantity="5" unit="character"/></p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="caes0219-1" xml:lang="grc"><g type="cross">+</g></w> <w xml:id="caes0219-2" xml:lang="grc">θ<supplied reason="undefined">ήκη</supplied></w> <w xml:id="caes0219-3" xml:lang="grc"><orig>Δ</orig></w> <w xml:id="caes0219-4" xml:lang="grc"/></p>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="caes0219-1" xml:lang="grc"><g type="cross">+</g></w> <w xml:id="caes0219-2" xml:lang="grc">θ<supplied reason="undefined">ήκη</supplied></w> <w xml:id="caes0219-3" xml:lang="grc"><orig>Δ</orig></w></p>
 </div>
 </body>
       <back>

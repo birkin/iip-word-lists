@@ -125,8 +125,7 @@
                 <p/>
             </div>
             <div type="edition" subtype="transcription" ana="b1" xml:lang="heb">
-                <p>
-                    <gap reason="lost" extent="unknown" unit="character"/>ון מפנון<lb/>
+                <p><gap reason="lost" extent="unknown" unit="character"/>ון מפנון<lb/>
                     <gap reason="lost" extent="unknown" unit="character"/>
                     <unclear cert="low">ז</unclear>ר מירושלם<lb/>
                     <gap reason="lost" extent="unknown" unit="character"/>
@@ -142,7 +141,7 @@
                     Polybius. The name in line two may be interpreted in a variety of ways, such as
                     אלעזר, יהועזר, יועזר.  </p>
             </div>
-        <div type="edition" subtype="transcription_segmented"><p><w xml:id="jeru0350-1" xml:lang="he"/> <w xml:id="jeru0350-2" xml:lang="he">ון</w> <w xml:id="jeru0350-3" xml:lang="he">מפנון</w> <w xml:id="jeru0350-4" xml:lang="he"><unclear cert="low">ז</unclear>ר</w> <w xml:id="jeru0350-5" xml:lang="he">מירושלם</w> <w xml:id="jeru0350-6" xml:lang="he"><unclear cert="low">ש</unclear>יכת</w> <w xml:id="jeru0350-7" xml:lang="he">מ<unclear>פט</unclear></w> <w xml:id="jeru0350-8" xml:lang="he"><supplied reason="lost">רה</supplied></w> <w xml:id="jeru0350-9" xml:lang="he"/></p>
+        <div type="edition" subtype="transcription_segmented"><p><w xml:id="jeru0350-1" xml:lang="he">ון</w> <w xml:id="jeru0350-2" xml:lang="he">מפנון</w> <w xml:id="jeru0350-3" xml:lang="he"><unclear cert="low">ז</unclear>ר</w> <w xml:id="jeru0350-4" xml:lang="he">מירושלם</w> <w xml:id="jeru0350-5" xml:lang="he"><unclear cert="low">ש</unclear>יכת</w> <w xml:id="jeru0350-6" xml:lang="he">מ<unclear>פט</unclear></w> <w xml:id="jeru0350-7" xml:lang="he"><supplied reason="lost">רה</supplied></w> <w xml:id="jeru0350-8" xml:lang="he"/></p>
 </div>
 </body>
         <back>

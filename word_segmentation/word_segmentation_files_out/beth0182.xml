@@ -115,14 +115,14 @@
    <text>
       <body>
          <div type="edition" ana="#b5" subtype="transcription" xml:id="beth0182.transcription" corresp="#beth0182.translation">
-            <p>Εἰούδας<lb/> ἱερεύς </p>
+            <p>Εἰούδας<lb/> ἱερεύς</p>
          </div>
          <div type="translation" ana="#b5" xml:id="beth0182.translation" corresp="#beth0182.transcription">
             <p>
                <persName xml:lang="hbo " ref="persons.xml#beth0182p01">Judah </persName> the <rs type="caste" ana="interpretations.xml#priest">priest </rs>
             </p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="beth0182-1" xml:lang="grc">Εἰούδας</w> <w xml:id="beth0182-2" xml:lang="grc">ἱερεύς</w> <w xml:id="beth0182-3" xml:lang="grc"/></p>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="beth0182-1" xml:lang="grc">Εἰούδας</w> <w xml:id="beth0182-2" xml:lang="grc">ἱερεύς</w></p>
 </div>
 </body>
       <back>

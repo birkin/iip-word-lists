@@ -114,13 +114,12 @@
          <div type="edition" ana="#b1" xml:lang="grc" subtype="transcription" xml:id="jeru0061.transcription" corresp="#jeru0061.translation">
             <p>Σάρα Σίμωνος<lb/>
                     Πτυλεμαική<lb/>
-                    Σάρας<lb/>Σάρας
-                </p>
+                    Σάρας<lb/>Σάρας</p>
          </div>
          <div type="translation" ana="#b1" xml:id="jeru0061.translation" corresp="#jeru0061.transcription">
             <p>Sara, (daughter) of Simon of Ptolemais. Of Sara. Of Sara</p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="jeru0061-1" xml:lang="grc">Σάρα</w> <w xml:id="jeru0061-2" xml:lang="grc">Σίμωνος</w> <w xml:id="jeru0061-3" xml:lang="grc">Πτυλεμαική</w> <w xml:id="jeru0061-4" xml:lang="grc">Σάρας</w> <w xml:id="jeru0061-5" xml:lang="grc">Σάρας</w> <w xml:id="jeru0061-6" xml:lang="grc"/></p>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="jeru0061-1" xml:lang="grc">Σάρα</w> <w xml:id="jeru0061-2" xml:lang="grc">Σίμωνος</w> <w xml:id="jeru0061-3" xml:lang="grc">Πτυλεμαική</w> <w xml:id="jeru0061-4" xml:lang="grc">Σάρας</w> <w xml:id="jeru0061-5" xml:lang="grc">Σάρας</w></p>
 </div>
 </body>
       <back>

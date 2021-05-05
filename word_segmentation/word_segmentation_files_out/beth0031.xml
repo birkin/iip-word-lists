@@ -116,8 +116,7 @@
    <text>
       <body>
          <div type="edition" ana="#b2" subtype="transcription" xml:id="beth0031.transcription" corresp="#beth0031.translation">
-            <p>
-               <expan><abbr>Ῥ</abbr><ex>ιββὶ</ex></expan> Παρηγό<lb break="no"/>ρις </p>
+            <p><expan><abbr>Ῥ</abbr><ex>ιββὶ</ex></expan> Παρηγό<lb break="no"/>ρις</p>
          </div>
          <div type="translation" ana="#b2" xml:id="beth0031.translation" corresp="#beth0031.transcription">
             <p>
@@ -125,7 +124,7 @@
                <persName xml:lang="grc " ref="persons.xml#beth0031p01">Paregoris </persName>
             </p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="beth0031-1" xml:lang="grc"/> <w xml:id="beth0031-2" xml:lang="grc"><expan><abbr>Ῥ</abbr><ex>ιββὶ</ex></expan></w> <w xml:id="beth0031-3" xml:lang="grc">Παρηγόρις</w> <w xml:id="beth0031-4" xml:lang="grc"/></p>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="beth0031-1" xml:lang="grc"><expan><abbr>Ῥ</abbr><ex>ιββὶ</ex></expan></w> <w xml:id="beth0031-2" xml:lang="grc">Παρηγόρις</w></p>
 </div>
 </body>
       <back>

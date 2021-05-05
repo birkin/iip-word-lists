@@ -116,7 +116,7 @@
    <text>
       <body>
          <div type="edition" ana="#b5" subtype="transcription" xml:id="beth0173.transcription" corresp="#beth0173.translation">
-            <p>Ἡ μάκρα<lb/> Ἀριστέου<lb/> Σιδωνί<lb break="no"/>ου </p>
+            <p>Ἡ μάκρα<lb/> Ἀριστέου<lb/> Σιδωνί<lb break="no"/>ου</p>
          </div>
          <div type="translation" ana="#b5" xml:id="beth0173.translation" corresp="#beth0173.transcription">
             <p>The <rs type="object" ana="interpretations.xml#tomb">tomb </rs> of <persName xml:lang="grc " ref="persons.xml#beth0173p01">Aristeas </persName> from <rs type="ethnicon" ana="interpretations.xml#Sidon">
@@ -124,7 +124,7 @@
                </rs>
             </p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="beth0173-1" xml:lang="grc">Ἡ</w> <w xml:id="beth0173-2" xml:lang="grc">μάκρα</w> <w xml:id="beth0173-3" xml:lang="grc">Ἀριστέου</w> <w xml:id="beth0173-4" xml:lang="grc">Σιδωνίου</w> <w xml:id="beth0173-5" xml:lang="grc"/></p>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="beth0173-1" xml:lang="grc">Ἡ</w> <w xml:id="beth0173-2" xml:lang="grc">μάκρα</w> <w xml:id="beth0173-3" xml:lang="grc">Ἀριστέου</w> <w xml:id="beth0173-4" xml:lang="grc">Σιδωνίου</w></p>
 </div>
 </body>
       <back>

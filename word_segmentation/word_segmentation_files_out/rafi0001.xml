@@ -119,14 +119,13 @@
             <p>ΖΟΗ <g type="cross">+</g> Χ </p>
          </div>
          <div type="edition" ana="#b1" subtype="transcription" xml:id="rafi0001.transcription" corresp="#rafi0001.diplomatic #rafi0001.translation">
-            <p>ζ<choice><corr>ω</corr><sic>ο</sic></choice>ή <g type="cross">+</g> <expan><abbr><unclear>Χ</unclear></abbr><ex cert="low">ριστός</ex></expan>
-            </p>
+            <p>ζ<choice><corr>ω</corr><sic>ο</sic></choice>ή <g type="cross">+</g> <expan><abbr><unclear>Χ</unclear></abbr><ex cert="low">ριστός</ex></expan></p>
          </div>
          <div type="translation" ana="#b1" xml:id="rafi0001.translation" corresp="#rafi0001.diplomatic #rafi0001.transcription">
             <p>Life! + Christ!
                 </p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="rafi0001-1" xml:lang="grc">ζ<choice><corr>ω</corr><sic>ο</sic></choice>ή</w> <w xml:id="rafi0001-2" xml:lang="grc"><g type="cross">+</g></w> <w xml:id="rafi0001-3" xml:lang="grc"><expan><abbr><unclear>Χ</unclear></abbr><ex cert="low">ριστός</ex></expan></w> <w xml:id="rafi0001-4" xml:lang="grc"/></p>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="rafi0001-1" xml:lang="grc">ζ<choice><corr>ω</corr><sic>ο</sic></choice>ή</w> <w xml:id="rafi0001-2" xml:lang="grc"><g type="cross">+</g></w> <w xml:id="rafi0001-3" xml:lang="grc"><expan><abbr><unclear>Χ</unclear></abbr><ex cert="low">ριστός</ex></expan></w></p>
 </div>
 </body>
       <back>

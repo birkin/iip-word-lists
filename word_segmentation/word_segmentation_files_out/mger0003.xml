@@ -176,8 +176,7 @@
                 <p/>
             </div>
             <div type="edition" subtype="transcription" ana="b1" xml:lang="heb">
-                <p>
-               <unclear>ד</unclear>י הק<lb/>רב חגי<lb/>בר קימי<lb/>מנ
+                <p><unclear>ד</unclear>י הק<lb/>רב חגי<lb/>בר קימי<lb/>מנ
                     כפר<lb/>חגי</p>
             </div>
             <div type="translation" ana="b1">
@@ -189,7 +188,7 @@
             </div>
             <!-- The bibl has more contained elements. What is the possible list of values of the biblScope/@type? 
              -->
-        <div type="edition" subtype="transcription_segmented"><p><w xml:id="mger0003-1" xml:lang="arc"/> <w xml:id="mger0003-2" xml:lang="arc"><unclear>ד</unclear>י</w> <w xml:id="mger0003-3" xml:lang="arc">הק</w> <w xml:id="mger0003-4" xml:lang="arc">רב</w> <w xml:id="mger0003-5" xml:lang="arc">חגי</w> <w xml:id="mger0003-6" xml:lang="arc">בר</w> <w xml:id="mger0003-7" xml:lang="arc">קימי</w> <w xml:id="mger0003-8" xml:lang="arc">מנ</w> <w xml:id="mger0003-9" xml:lang="arc">כפר</w> <w xml:id="mger0003-10" xml:lang="arc">חגי</w></p>
+        <div type="edition" subtype="transcription_segmented"><p><w xml:id="mger0003-1" xml:lang="arc"><unclear>ד</unclear>י</w> <w xml:id="mger0003-2" xml:lang="arc">הק</w> <w xml:id="mger0003-3" xml:lang="arc">רב</w> <w xml:id="mger0003-4" xml:lang="arc">חגי</w> <w xml:id="mger0003-5" xml:lang="arc">בר</w> <w xml:id="mger0003-6" xml:lang="arc">קימי</w> <w xml:id="mger0003-7" xml:lang="arc">מנ</w> <w xml:id="mger0003-8" xml:lang="arc">כפר</w> <w xml:id="mger0003-9" xml:lang="arc">חגי</w></p>
 </div>
 </body>
         <back>

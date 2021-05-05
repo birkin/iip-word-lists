@@ -120,19 +120,17 @@
                     </p>
          </div>
          <div type="edition" ana="#b1" subtype="transcription" xml:id="mazr0001.transcription" corresp="#mazr0001.diplomatic #mazr0001.translation">
-            <p>
-               <supplied reason="undefined">θάρσει</supplied>
+            <p><supplied reason="undefined">θάρσει</supplied>
                <lb/>
                         Σαβῖ<lb break="no"/>να <expan><abbr>ἐτ</abbr><ex>ῶν</ex></expan>
                <lb/>
-                        <num>λ´ε´</num>
-                    </p>
+                        <num>λ´ε´</num></p>
          </div>
          <div type="translation" ana="#b1" xml:id="mazr0001.translation" corresp="#mazr0001.diplomatic #mazr0001.transcription">
             <p>[Be of good courage], Sabina! Thirty-five years old.
                     </p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="mazr0001-1" xml:lang="grc"/> <w xml:id="mazr0001-2" xml:lang="grc"><supplied reason="undefined">θάρσει</supplied></w> <w xml:id="mazr0001-3" xml:lang="grc">Σαβῖνα</w> <w xml:id="mazr0001-4" xml:lang="grc"><expan><abbr>ἐτ</abbr><ex>ῶν</ex></expan></w> <w xml:id="mazr0001-5" xml:lang="grc"><num>λ´ε´</num></w> <w xml:id="mazr0001-6" xml:lang="grc"/></p>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="mazr0001-1" xml:lang="grc"><supplied reason="undefined">θάρσει</supplied></w> <w xml:id="mazr0001-2" xml:lang="grc">Σαβῖνα</w> <w xml:id="mazr0001-3" xml:lang="grc"><expan><abbr>ἐτ</abbr><ex>ῶν</ex></expan></w> <w xml:id="mazr0001-4" xml:lang="grc"><num>λ´ε´</num></w></p>
 </div>
 </body>
       <back>

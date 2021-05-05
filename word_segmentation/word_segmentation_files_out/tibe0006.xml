@@ -125,13 +125,12 @@
          <div type="edition" ana="#b1" xml:lang="grc" subtype="transcription" xml:id="tibe0006.transcription" corresp="#tibe0006.translation">
             <p>Μνησθῇ εἰς ἀγαθὸν καὶ εἰς <lb/>
                     εὐλογίαν Προφοτοῦρος ὁ μιζό<lb break="no"/>τερος ἐποίησεν τὴν στοὰν ταύ<lb break="no"/>την τοῦ ἁγίου τόπου. Ἐυλογία αὐτῷ <lb/>
-                    Ἀμήν. <foreign xml:lang="heb">שלום</foreign>
-            </p>
+                    Ἀμήν. <foreign xml:lang="heb">שלום</foreign></p>
          </div>
          <div type="translation" ana="#b1" xml:id="tibe0006.translation" corresp="#tibe0006.transcription">
             <p>May he be remembered for good and for blessing. Profoturos the elder constructed this aisle of the synagogue. Blessing upon him. Amen. Shalom</p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="tibe0006-1" xml:lang="grc">Μνησθῇ</w> <w xml:id="tibe0006-2" xml:lang="grc">εἰς</w> <w xml:id="tibe0006-3" xml:lang="grc">ἀγαθὸν</w> <w xml:id="tibe0006-4" xml:lang="grc">καὶ</w> <w xml:id="tibe0006-5" xml:lang="grc">εἰς</w> <w xml:id="tibe0006-6" xml:lang="grc">εὐλογίαν</w> <w xml:id="tibe0006-7" xml:lang="grc">Προφοτοῦρος</w> <w xml:id="tibe0006-8" xml:lang="grc">ὁ</w> <w xml:id="tibe0006-9" xml:lang="grc">μιζότερος</w> <w xml:id="tibe0006-10" xml:lang="grc">ἐποίησεν</w> <w xml:id="tibe0006-11" xml:lang="grc">τὴν</w> <w xml:id="tibe0006-12" xml:lang="grc">στοὰν</w> <w xml:id="tibe0006-13" xml:lang="grc">ταύτην</w> <w xml:id="tibe0006-14" xml:lang="grc">τοῦ</w> <w xml:id="tibe0006-15" xml:lang="grc">ἁγίου</w> <w xml:id="tibe0006-16" xml:lang="grc">τόπου.</w> <w xml:id="tibe0006-17" xml:lang="grc">Ἐυλογία</w> <w xml:id="tibe0006-18" xml:lang="grc">αὐτῷ</w> <w xml:id="tibe0006-19" xml:lang="grc">Ἀμήν.</w> <w xml:id="tibe0006-20" xml:lang="grc"><foreign xml:lang="heb">שלום</foreign></w> <w xml:id="tibe0006-21" xml:lang="grc"/></p>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="tibe0006-1" xml:lang="grc">Μνησθῇ</w> <w xml:id="tibe0006-2" xml:lang="grc">εἰς</w> <w xml:id="tibe0006-3" xml:lang="grc">ἀγαθὸν</w> <w xml:id="tibe0006-4" xml:lang="grc">καὶ</w> <w xml:id="tibe0006-5" xml:lang="grc">εἰς</w> <w xml:id="tibe0006-6" xml:lang="grc">εὐλογίαν</w> <w xml:id="tibe0006-7" xml:lang="grc">Προφοτοῦρος</w> <w xml:id="tibe0006-8" xml:lang="grc">ὁ</w> <w xml:id="tibe0006-9" xml:lang="grc">μιζότερος</w> <w xml:id="tibe0006-10" xml:lang="grc">ἐποίησεν</w> <w xml:id="tibe0006-11" xml:lang="grc">τὴν</w> <w xml:id="tibe0006-12" xml:lang="grc">στοὰν</w> <w xml:id="tibe0006-13" xml:lang="grc">ταύτην</w> <w xml:id="tibe0006-14" xml:lang="grc">τοῦ</w> <w xml:id="tibe0006-15" xml:lang="grc">ἁγίου</w> <w xml:id="tibe0006-16" xml:lang="grc">τόπου.</w> <w xml:id="tibe0006-17" xml:lang="grc">Ἐυλογία</w> <w xml:id="tibe0006-18" xml:lang="grc">αὐτῷ</w> <w xml:id="tibe0006-19" xml:lang="grc">Ἀμήν.</w> <w xml:id="tibe0006-20" xml:lang="grc"><foreign xml:lang="heb">שלום</foreign></w></p>
 </div>
 </body>
       <back>

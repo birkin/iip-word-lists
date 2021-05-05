@@ -124,22 +124,20 @@
    <text>
       <body>
          <div type="edition" ana="#b1" xml:lang="grc" subtype="transcription" xml:id="zoor0270.transcription" corresp="#zoor0270.translation">
-            <p>
-               <g type="cross">+</g>
+            <p><g type="cross">+</g>
                <lb/>
                <choice><orig>Μνημῖον</orig><reg>Μνημεῖον</reg></choice>
                <lb/> Μιλίχου<lb/> Ἀβδάλγου,<lb/> ἀποθανὼν<lb/> ἐτῶν <num>κηʹ</num>.<lb/>
                <choice><orig>Θάρσι</orig><reg>Θάρσει</reg></choice>, <choice><orig>οὐδὶ<lb break="no"/>ς</orig><reg>οὐδείς</reg></choice>
                <expan><abbr>ἀ<unclear>θ</unclear>άνατ<am>ϛ</am></abbr><ex>ος</ex></expan>
                <lb/>
-               <g type="cross">+</g>
-            </p>
+               <g type="cross">+</g></p>
          </div>
          <div type="translation" ana="#b1" xml:id="zoor0270.translation" corresp="#zoor0270.transcription">
             <p>Monument of Milichos, (son) of Abdalges, who died (at the age) of 28 years. Be of
                     good cheer, no one (is) immortal.</p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="zoor0270-1" xml:lang="grc"/> <w xml:id="zoor0270-2" xml:lang="grc"><g type="cross">+</g></w> <w xml:id="zoor0270-3" xml:lang="grc"><choice><orig>Μνημῖον</orig><reg>Μνημεῖον</reg></choice></w> <w xml:id="zoor0270-4" xml:lang="grc">Μιλίχου</w> <w xml:id="zoor0270-5" xml:lang="grc">Ἀβδάλγου,</w> <w xml:id="zoor0270-6" xml:lang="grc">ἀποθανὼν</w> <w xml:id="zoor0270-7" xml:lang="grc">ἐτῶν</w> <w xml:id="zoor0270-8" xml:lang="grc"><num>κηʹ</num>.</w> <w xml:id="zoor0270-9" xml:lang="grc"><choice><orig>Θάρσι</orig><reg>Θάρσει</reg></choice>,</w> <w xml:id="zoor0270-10" xml:lang="grc"><choice><orig>οὐδὶς</orig><reg>οὐδείς</reg></choice></w> <w xml:id="zoor0270-11" xml:lang="grc"><expan><abbr>ἀ<unclear>θ</unclear>άνατ<am>ϛ</am></abbr><ex>ος</ex></expan></w> <w xml:id="zoor0270-12" xml:lang="grc"><g type="cross">+</g></w> <w xml:id="zoor0270-13" xml:lang="grc"/></p>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="zoor0270-1" xml:lang="grc"><g type="cross">+</g></w> <w xml:id="zoor0270-2" xml:lang="grc"><choice><orig>Μνημῖον</orig><reg>Μνημεῖον</reg></choice></w> <w xml:id="zoor0270-3" xml:lang="grc">Μιλίχου</w> <w xml:id="zoor0270-4" xml:lang="grc">Ἀβδάλγου,</w> <w xml:id="zoor0270-5" xml:lang="grc">ἀποθανὼν</w> <w xml:id="zoor0270-6" xml:lang="grc">ἐτῶν</w> <w xml:id="zoor0270-7" xml:lang="grc"><num>κηʹ</num>.</w> <w xml:id="zoor0270-8" xml:lang="grc"><choice><orig>Θάρσι</orig><reg>Θάρσει</reg></choice>,</w> <w xml:id="zoor0270-9" xml:lang="grc"><choice><orig>οὐδὶς</orig><reg>οὐδείς</reg></choice></w> <w xml:id="zoor0270-10" xml:lang="grc"><expan><abbr>ἀ<unclear>θ</unclear>άνατ<am>ϛ</am></abbr><ex>ος</ex></expan></w> <w xml:id="zoor0270-11" xml:lang="grc"><g type="cross">+</g></w></p>
 </div>
 </body>
       <back>

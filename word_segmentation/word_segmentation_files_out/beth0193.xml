@@ -119,15 +119,14 @@
                <supplied reason="lost">ά</supplied>
                <unclear>δε</unclear>
                <lb/>
-						κῖ<supplied reason="lost">τε</supplied>
-            </p>
+						κῖ<supplied reason="lost">τε</supplied></p>
          </div>
          <div type="translation" ana="#b1" xml:id="beth0193.translation" corresp="#beth0193.transcription">
             <p>
                <rs type="formula" ana="interpretations.xml#lies">Here lies </rs>
                <persName xml:lang="grc " ref="persons.xml#beth0193p01">Hyperechis</persName>.</p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="beth0193-1" xml:lang="grc">Ὑπερέχις</w> <w xml:id="beth0193-2" xml:lang="grc"><supplied reason="lost">ἐ</supplied>ν<unclear>θ</unclear></w> <w xml:id="beth0193-3" xml:lang="grc"><supplied reason="lost">ά</supplied></w> <w xml:id="beth0193-4" xml:lang="grc"><unclear>δε</unclear></w> <w xml:id="beth0193-5" xml:lang="grc">κῖ<supplied reason="lost">τε</supplied></w> <w xml:id="beth0193-6" xml:lang="grc"/></p>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="beth0193-1" xml:lang="grc">Ὑπερέχις</w> <w xml:id="beth0193-2" xml:lang="grc"><supplied reason="lost">ἐ</supplied>ν<unclear>θ</unclear></w> <w xml:id="beth0193-3" xml:lang="grc"><supplied reason="lost">ά</supplied></w> <w xml:id="beth0193-4" xml:lang="grc"><unclear>δε</unclear></w> <w xml:id="beth0193-5" xml:lang="grc">κῖ<supplied reason="lost">τε</supplied></w></p>
 </div>
 </body>
       <back>

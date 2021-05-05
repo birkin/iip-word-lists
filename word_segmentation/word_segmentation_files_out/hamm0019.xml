@@ -127,17 +127,15 @@
                 </p>
          </div>
          <div type="edition" ana="#b1" subtype="transcription" xml:id="hamm0019.transcription" corresp="#hamm0019.diplomatic #hamm0019.translation">
-            <p>
-					Εὐφημία<lb/>
-					ἡ θυμελική.<lb/>
-                </p>
+            <p>Εὐφημία<lb/>
+					ἡ θυμελική.<lb/></p>
          </div>
          <div type="translation" ana="#b1" xml:id="hamm0019.translation" corresp="#hamm0019.diplomatic #hamm0019.transcription">
             <p>
                <persName xml:lang="grc " ref="persons.xml#hamm0019p01">Euphemia </persName> the <rs type="occupation">actress</rs>.
 </p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="hamm0019-1" xml:lang="grc"/> <w xml:id="hamm0019-2" xml:lang="grc">Εὐφημία</w> <w xml:id="hamm0019-3" xml:lang="grc">ἡ</w> <w xml:id="hamm0019-4" xml:lang="grc">θυμελική.</w> <w xml:id="hamm0019-5" xml:lang="grc"/></p>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="hamm0019-1" xml:lang="grc">Εὐφημία</w> <w xml:id="hamm0019-2" xml:lang="grc">ἡ</w> <w xml:id="hamm0019-3" xml:lang="grc">θυμελική.</w> <w xml:id="hamm0019-4" xml:lang="grc"/></p>
 </div>
 </body>
       <back>

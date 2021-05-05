@@ -116,20 +116,18 @@
    <text>
       <body>
          <div type="edition" ana="#b1" xml:lang="grc" subtype="transcription" xml:id="zoor0053.transcription" corresp="#zoor0053.translation">
-            <p>
-               <choice><sic>Μνημῖον</sic><corr>Μνημεῖον</corr></choice>
+            <p><choice><sic>Μνημῖον</sic><corr>Μνημεῖον</corr></choice>
                <lb/> Μολεχάθη <lb/>
                <choice><sic>Ἀβδλγου</sic><corr>Ἀβδάλγου</corr></choice>.<lb/> Ἐτελεύτεσ<lb break="no"/>εν
                     ἠτῶν <num>κʹ</num>,<lb/>
                <supplied reason="undefined">ἔτ</supplied>ους <num>σπαʹ</num>.<lb/>
-               <gap reason="illegible" unit="line" quantity="4"/>
-            </p>
+               <gap reason="illegible" unit="line" quantity="4"/></p>
          </div>
          <div type="translation" ana="#b1" xml:id="zoor0053.translation" corresp="#zoor0053.transcription">
             <p>Monument of Molechathe, (daughter) of Abdalges. She died (at the age) of 20
                     years, in (the) year 281...</p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="zoor0053-1" xml:lang="grc"/> <w xml:id="zoor0053-2" xml:lang="grc"><choice><sic>Μνημῖον</sic><corr>Μνημεῖον</corr></choice></w> <w xml:id="zoor0053-3" xml:lang="grc">Μολεχάθη</w> <w xml:id="zoor0053-4" xml:lang="grc"><choice><sic>Ἀβδλγου</sic><corr>Ἀβδάλγου</corr></choice>.</w> <w xml:id="zoor0053-5" xml:lang="grc">Ἐτελεύτεσεν</w> <w xml:id="zoor0053-6" xml:lang="grc">ἠτῶν</w> <w xml:id="zoor0053-7" xml:lang="grc"><num>κʹ</num>,</w> <w xml:id="zoor0053-8" xml:lang="grc"><supplied reason="undefined">ἔτ</supplied>ους</w> <w xml:id="zoor0053-9" xml:lang="grc"><num>σπαʹ</num>.</w> <w xml:id="zoor0053-10" xml:lang="grc"/></p>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="zoor0053-1" xml:lang="grc"><choice><sic>Μνημῖον</sic><corr>Μνημεῖον</corr></choice></w> <w xml:id="zoor0053-2" xml:lang="grc">Μολεχάθη</w> <w xml:id="zoor0053-3" xml:lang="grc"><choice><sic>Ἀβδλγου</sic><corr>Ἀβδάλγου</corr></choice>.</w> <w xml:id="zoor0053-4" xml:lang="grc">Ἐτελεύτεσεν</w> <w xml:id="zoor0053-5" xml:lang="grc">ἠτῶν</w> <w xml:id="zoor0053-6" xml:lang="grc"><num>κʹ</num>,</w> <w xml:id="zoor0053-7" xml:lang="grc"><supplied reason="undefined">ἔτ</supplied>ους</w> <w xml:id="zoor0053-8" xml:lang="grc"><num>σπαʹ</num>.</w> <w xml:id="zoor0053-9" xml:lang="grc"/></p>
 </div>
 </body>
       <back>

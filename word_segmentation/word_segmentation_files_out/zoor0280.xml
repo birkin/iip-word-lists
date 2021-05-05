@@ -116,15 +116,14 @@
    <text>
       <body>
          <div type="edition" ana="#b1" xml:lang="grc" subtype="transcription" xml:id="zoor0280.transcription" corresp="#zoor0280.translation">
-            <p>
-               <choice><sic>Μνημῖον</sic><corr>Μνημεῖον</corr></choice> Ἀν<lb break="no"/>δρομάχου,<lb/> Ἀβδαμόχος,<lb/>
+            <p><choice><sic>Μνημῖον</sic><corr>Μνημεῖον</corr></choice> Ἀν<lb break="no"/>δρομάχου,<lb/> Ἀβδαμόχος,<lb/>
                <choice><sic>ἀπαθανόν<lb break="no"/>τος</sic><corr>ἀποθανόντος</corr></choice> ἐτῶ<lb break="no"/>ν <num>ιηʹ</num>.</p>
          </div>
          <div type="translation" ana="#b1" xml:id="zoor0280.translation" corresp="#zoor0280.transcription">
             <p>Monument of Andromachos, son of Abdoma(n)chos, who died (at the age) of 18 years.
                 </p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="zoor0280-1" xml:lang="grc"/> <w xml:id="zoor0280-2" xml:lang="grc"><choice><sic>Μνημῖον</sic><corr>Μνημεῖον</corr></choice></w> <w xml:id="zoor0280-3" xml:lang="grc">Ἀνδρομάχου,</w> <w xml:id="zoor0280-4" xml:lang="grc">Ἀβδαμόχος,</w> <w xml:id="zoor0280-5" xml:lang="grc"><choice><sic>ἀπαθανόντος</sic><corr>ἀποθανόντος</corr></choice></w> <w xml:id="zoor0280-6" xml:lang="grc">ἐτῶν</w> <w xml:id="zoor0280-7" xml:lang="grc"><num>ιηʹ</num>.</w></p>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="zoor0280-1" xml:lang="grc"><choice><sic>Μνημῖον</sic><corr>Μνημεῖον</corr></choice></w> <w xml:id="zoor0280-2" xml:lang="grc">Ἀνδρομάχου,</w> <w xml:id="zoor0280-3" xml:lang="grc">Ἀβδαμόχος,</w> <w xml:id="zoor0280-4" xml:lang="grc"><choice><sic>ἀπαθανόντος</sic><corr>ἀποθανόντος</corr></choice></w> <w xml:id="zoor0280-5" xml:lang="grc">ἐτῶν</w> <w xml:id="zoor0280-6" xml:lang="grc"><num>ιηʹ</num>.</w></p>
 </div>
 </body>
       <back>

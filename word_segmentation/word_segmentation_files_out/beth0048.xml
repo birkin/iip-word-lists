@@ -117,13 +117,13 @@
    <text>
       <body>
          <div type="edition" ana="#b2" subtype="transcription" xml:id="beth0048.transcription" corresp="#beth0048.translation">
-            <p>Ῥεοὺθ <lb/>θυγάτηρ,<lb/>μήτερ Ἰού<lb break="no"/>δας<cb/>καὶ Μα<lb break="no"/>θᾶς<lb/>ἔσω </p>
+            <p>Ῥεοὺθ <lb/>θυγάτηρ,<lb/>μήτερ Ἰού<lb break="no"/>δας<cb/>καὶ Μα<lb break="no"/>θᾶς<lb/>ἔσω</p>
          </div>
          <div type="translation" ana="#b2" xml:id="beth0048.translation" corresp="#beth0048.transcription">
             <p>
                <persName xml:lang="hbo " ref="persons.xml#beth0048p01">Ruth </persName> the <rs type="family" ana="interpretations.xml#daughter">daughter</rs>, <rs type="family" ana="interpretations.xml#mother">mother </rs> of <persName xml:lang="hbo " ref="persons.xml#beth0048p02">Judah </persName>; <persName xml:lang="hbo " ref="persons.xml#beth0048p03">Mathé </persName> is also [buried] inside.</p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="beth0048-1" xml:lang="grc">Ῥεοὺθ</w> <w xml:id="beth0048-2" xml:lang="grc">θυγάτηρ,</w> <w xml:id="beth0048-3" xml:lang="grc">μήτερ</w> <w xml:id="beth0048-4" xml:lang="grc">Ἰούδας<cb/>καὶ</w> <w xml:id="beth0048-5" xml:lang="grc">Μαθᾶς</w> <w xml:id="beth0048-6" xml:lang="grc">ἔσω</w> <w xml:id="beth0048-7" xml:lang="grc"/></p>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="beth0048-1" xml:lang="grc">Ῥεοὺθ</w> <w xml:id="beth0048-2" xml:lang="grc">θυγάτηρ,</w> <w xml:id="beth0048-3" xml:lang="grc">μήτερ</w> <w xml:id="beth0048-4" xml:lang="grc">Ἰούδας<cb/>καὶ</w> <w xml:id="beth0048-5" xml:lang="grc">Μαθᾶς</w> <w xml:id="beth0048-6" xml:lang="grc">ἔσω</w></p>
 </div>
 </body>
       <back>

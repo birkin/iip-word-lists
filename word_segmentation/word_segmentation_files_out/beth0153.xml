@@ -112,14 +112,14 @@
    <text>
       <body>
          <div type="edition" ana="#b2" subtype="transcription" xml:id="beth0153.transcription" corresp="#beth0153.translation">
-            <p>Θεοδώ<lb break="no"/>ρα<cb/>ἐνθάδε<lb/>κῖτε </p>
+            <p>Θεοδώ<lb break="no"/>ρα<cb/>ἐνθάδε<lb/>κῖτε</p>
          </div>
          <div type="translation" ana="#b2" xml:id="beth0153.translation" corresp="#beth0153.transcription">
             <p>
                <persName xml:lang="grc " ref="persons.xml#beth0153p01">Theodora </persName>
                <rs type="formula" ana="interpretations.xml#lies">lies here</rs>.</p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="beth0153-1" xml:lang="grc">Θεοδώρα<cb/>ἐνθάδε</w> <w xml:id="beth0153-2" xml:lang="grc">κῖτε</w> <w xml:id="beth0153-3" xml:lang="grc"/></p>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="beth0153-1" xml:lang="grc">Θεοδώρα<cb/>ἐνθάδε</w> <w xml:id="beth0153-2" xml:lang="grc">κῖτε</w></p>
 </div>
 </body>
       <back>

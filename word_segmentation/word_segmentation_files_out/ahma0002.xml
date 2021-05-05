@@ -118,16 +118,14 @@
                 </p>
          </div>
          <div type="edition" ana="#b1" subtype="transcription" xml:id="ahma0002.transcription" corresp="#ahma0002.diplomatic #ahma0002.translation">
-            <p>
-                    Σίμων<lb/>
-                    Ἰουστῖν<unclear>ος</unclear>
-            </p>
+            <p>Σίμων<lb/>
+                    Ἰουστῖν<unclear>ος</unclear></p>
          </div>
          <div type="translation" ana="#b1" xml:id="ahma0002.translation" corresp="#ahma0002.diplomatic #ahma0002.transcription">
             <p>Simon Justinus
                 </p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="ahma0002-1" xml:lang="grc"/> <w xml:id="ahma0002-2" xml:lang="grc">Σίμων</w> <w xml:id="ahma0002-3" xml:lang="grc">Ἰουστῖν<unclear>ος</unclear></w> <w xml:id="ahma0002-4" xml:lang="grc"/></p>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="ahma0002-1" xml:lang="grc">Σίμων</w> <w xml:id="ahma0002-2" xml:lang="grc">Ἰουστῖν<unclear>ος</unclear></w></p>
 </div>
 </body>
       <back>

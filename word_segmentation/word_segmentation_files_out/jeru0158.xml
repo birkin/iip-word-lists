@@ -113,13 +113,12 @@
    <text>
       <body>
          <div type="edition" ana="#b1" xml:lang="grc" subtype="transcription" xml:id="jeru0158.transcription" corresp="#jeru0158.translation">
-            <p>Ἀνίνας<lb/>Ἀναίνας<lb/>Ἀνίνας
-                </p>
+            <p>Ἀνίνας<lb/>Ἀναίνας<lb/>Ἀνίνας</p>
          </div>
          <div type="translation" ana="#b1" xml:id="jeru0158.translation" corresp="#jeru0158.transcription">
             <p>Aninas. Anainas. Aninas</p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="jeru0158-1" xml:lang="grc">Ἀνίνας</w> <w xml:id="jeru0158-2" xml:lang="grc">Ἀναίνας</w> <w xml:id="jeru0158-3" xml:lang="grc">Ἀνίνας</w> <w xml:id="jeru0158-4" xml:lang="grc"/></p>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="jeru0158-1" xml:lang="grc">Ἀνίνας</w> <w xml:id="jeru0158-2" xml:lang="grc">Ἀναίνας</w> <w xml:id="jeru0158-3" xml:lang="grc">Ἀνίνας</w></p>
 </div>
 </body>
       <back>

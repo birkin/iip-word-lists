@@ -111,15 +111,14 @@
    <text>
       <body>
          <div type="edition" ana="#b1" xml:lang="heb" subtype="transcription" xml:id="geze0008.transcription" corresp="#geze0008.translation">
-            <p>
-               <foreign xml:lang="grc">ΑΛ<unclear>ΚΙΟ</unclear>Υ</foreign>
+            <p><foreign xml:lang="grc">ΑΛ<unclear>ΚΙΟ</unclear>Υ</foreign>
                <supplied reason="lost">ת</supplied>חמ<supplied reason="lost">גזר</supplied>
             </p>
          </div>
          <div type="translation" ana="#b1" xml:id="geze0008.translation" corresp="#geze0008.transcription">
             <p>Of Alkaios. Boundary of Gezer</p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="geze0008-1" xml:lang="he"/> <w xml:id="geze0008-2" xml:lang="he"><foreign xml:lang="grc">ΑΛ<unclear>ΚΙΟ</unclear>Υ</foreign></w> <w xml:id="geze0008-3" xml:lang="he"><supplied reason="lost">ת</supplied>חמ<supplied reason="lost">גזר</supplied></w> <w xml:id="geze0008-4" xml:lang="he"/></p>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="geze0008-1" xml:lang="he"><foreign xml:lang="grc">ΑΛ<unclear>ΚΙΟ</unclear>Υ</foreign></w> <w xml:id="geze0008-2" xml:lang="he"><supplied reason="lost">ת</supplied>חמ<supplied reason="lost">גזר</supplied></w> <w xml:id="geze0008-3" xml:lang="he"/></p>
 </div>
 </body>
       <back>

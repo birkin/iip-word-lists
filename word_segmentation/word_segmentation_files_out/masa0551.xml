@@ -168,7 +168,7 @@
                 <p/>
             </div>
             <div type="edition" subtype="transcription" ana="b1" xml:lang="heb">
-                <p> קדדין</p>
+                <p>קדדין</p>
             </div>
             <div type="translation" ana="b1">
                 <p>Seasoning plants (?)</p>
@@ -177,7 +177,7 @@
                 <p/>
             </div>
             
-        <div type="edition" subtype="transcription_segmented"><p><w xml:id="masa0551-1" xml:lang="he"/> <w xml:id="masa0551-2" xml:lang="he">קדדין</w></p>
+        <div type="edition" subtype="transcription_segmented"><p><w xml:id="masa0551-1" xml:lang="he">קדדין</w></p>
 </div>
 </body>
         <back>

@@ -117,17 +117,16 @@
    <text>
       <body>
          <div type="edition" ana="#b4" subtype="transcription" xml:id="beth0078.transcription" corresp="#beth0078.translation">
-            <p>
-               <surplus>ΜΑ</surplus>
+            <p><surplus>ΜΑ</surplus>
                <lb/> Μάγνα<lb/> γλοσο<lb break="no"/>κόμῳ
-					κῖτε </p>
+					κῖτε</p>
          </div>
          <div type="translation" ana="#b4" xml:id="beth0078.translation" corresp="#beth0078.transcription">
             <p>
                <persName xml:lang="grc " ref="persons.xml#beth0078p01">Magna </persName>
                <rs type="formula" ana="interpretations.xml#lies">rests </rs> in the <rs type="object" ana="interpretations.xml#ossuary">ossuary</rs>.</p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="beth0078-1" xml:lang="grc"/> <w xml:id="beth0078-2" xml:lang="grc"><surplus>ΜΑ</surplus></w> <w xml:id="beth0078-3" xml:lang="grc">Μάγνα</w> <w xml:id="beth0078-4" xml:lang="grc">γλοσοκόμῳ</w> <w xml:id="beth0078-5" xml:lang="grc">κῖτε</w> <w xml:id="beth0078-6" xml:lang="grc"/></p>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="beth0078-1" xml:lang="grc"><surplus>ΜΑ</surplus></w> <w xml:id="beth0078-2" xml:lang="grc">Μάγνα</w> <w xml:id="beth0078-3" xml:lang="grc">γλοσοκόμῳ</w> <w xml:id="beth0078-4" xml:lang="grc">κῖτε</w></p>
 </div>
 </body>
       <back>

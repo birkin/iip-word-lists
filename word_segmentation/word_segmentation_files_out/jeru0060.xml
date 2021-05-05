@@ -113,13 +113,12 @@
       <body>
          <div type="edition" ana="#b1" xml:lang="grc" subtype="transcription" xml:id="jeru0060.transcription" corresp="#jeru0060.translation">
             <p>Σαβατίς<lb/>
-                    μήτηρ Δάμωνος
-                </p>
+                    μήτηρ Δάμωνος</p>
          </div>
          <div type="translation" ana="#b1" xml:id="jeru0060.translation" corresp="#jeru0060.transcription">
             <p>Sabatis, mother of Damon</p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="jeru0060-1" xml:lang="grc">Σαβατίς</w> <w xml:id="jeru0060-2" xml:lang="grc">μήτηρ</w> <w xml:id="jeru0060-3" xml:lang="grc">Δάμωνος</w> <w xml:id="jeru0060-4" xml:lang="grc"/></p>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="jeru0060-1" xml:lang="grc">Σαβατίς</w> <w xml:id="jeru0060-2" xml:lang="grc">μήτηρ</w> <w xml:id="jeru0060-3" xml:lang="grc">Δάμωνος</w></p>
 </div>
 </body>
       <back>

@@ -114,13 +114,13 @@
    <text>
       <body>
          <div type="edition" ana="#b2" subtype="transcription" xml:id="beth0157.transcription" corresp="#beth0157.translation">
-            <p>Ὁσεὶα </p>
+            <p>Ὁσεὶα</p>
          </div>
          <div type="translation" ana="#b2" xml:id="beth0157.translation" corresp="#beth0157.transcription">
             <p>The <rs type="epithet" ana="interpretations.xml#pious">pious </rs>
             </p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="beth0157-1" xml:lang="grc">Ὁσεὶα</w> <w xml:id="beth0157-2" xml:lang="grc"/></p>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="beth0157-1" xml:lang="grc">Ὁσεὶα</w></p>
 </div>
 </body>
       <back>

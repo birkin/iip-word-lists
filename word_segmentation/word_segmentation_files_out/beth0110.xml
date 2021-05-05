@@ -121,15 +121,14 @@
          <div type="edition" ana="#b4" subtype="transcription" xml:id="beth0110.transcription" corresp="#beth0110.translation">
             <p>Μαναὴ πατὴρ Ν Α <gap reason="lost" quantity="2" unit="character"/>
                <lb/>
-               <expan><abbr>πρεσ</abbr><ex>βύτερος</ex></expan>
-            </p>
+               <expan><abbr>πρεσ</abbr><ex>βύτερος</ex></expan></p>
          </div>
          <div type="translation" ana="#b4" xml:id="beth0110.translation" corresp="#beth0110.transcription">
             <p>
                <persName xml:lang="hbo " ref="persons.xml#beth0110p01">Manae</persName>, <rs type="family" ana="interpretations.xml#father">father </rs> of ..., <rs type="religTitle" ana="interpretations.xml#presbuteros">presbuteros </rs>
             </p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="beth0110-1" xml:lang="grc">Μαναὴ</w> <w xml:id="beth0110-2" xml:lang="grc">πατὴρ</w> <w xml:id="beth0110-3" xml:lang="grc">Ν</w> <w xml:id="beth0110-4" xml:lang="grc">Α</w> <w xml:id="beth0110-5" xml:lang="grc"><expan><abbr>πρεσ</abbr><ex>βύτερος</ex></expan></w> <w xml:id="beth0110-6" xml:lang="grc"/></p>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="beth0110-1" xml:lang="grc">Μαναὴ</w> <w xml:id="beth0110-2" xml:lang="grc">πατὴρ</w> <w xml:id="beth0110-3" xml:lang="grc">Ν</w> <w xml:id="beth0110-4" xml:lang="grc">Α</w> <w xml:id="beth0110-5" xml:lang="grc"><expan><abbr>πρεσ</abbr><ex>βύτερος</ex></expan></w></p>
 </div>
 </body>
       <back>

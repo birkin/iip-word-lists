@@ -133,13 +133,12 @@
    <text>
       <body>
          <div type="edition" ana="#b1" xml:lang="grc" subtype="transcription" xml:id="jeru0124.transcription" corresp="#jeru0124.translation">
-            <p>Ἐσκίας
-                </p>
+            <p>Ἐσκίας</p>
          </div>
          <div type="translation" ana="#b1" xml:id="jeru0124.translation" corresp="#jeru0124.transcription">
             <p>Eskias</p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="jeru0124-1" xml:lang="grc">Ἐσκίας</w> <w xml:id="jeru0124-2" xml:lang="grc"/></p>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="jeru0124-1" xml:lang="grc">Ἐσκίας</w></p>
 </div>
 </body>
       <back>

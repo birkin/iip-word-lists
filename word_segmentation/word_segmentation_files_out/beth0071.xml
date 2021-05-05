@@ -121,14 +121,14 @@
       <body>
          <div type="edition" ana="#b2" subtype="transcription" xml:id="beth0071.transcription" corresp="#beth0071.translation">
             <p>Ἰσάκ<lb/> Ἰσάκ<lb/>
-               <unclear>Σ</unclear>Α </p>
+               <unclear>Σ</unclear>Α</p>
          </div>
          <div type="translation" ana="#MS" xml:id="beth0071.translation" corresp="#beth0071.transcription">
             <p>
                <persName xml:lang="hbo " ref="persons.xml#beth0071p01">Isaac</persName>, Isaac,
 					sa... </p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="beth0071-1" xml:lang="grc">Ἰσάκ</w> <w xml:id="beth0071-2" xml:lang="grc">Ἰσάκ</w> <w xml:id="beth0071-3" xml:lang="grc"><unclear>Σ</unclear>Α</w> <w xml:id="beth0071-4" xml:lang="grc"/></p>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="beth0071-1" xml:lang="grc">Ἰσάκ</w> <w xml:id="beth0071-2" xml:lang="grc">Ἰσάκ</w> <w xml:id="beth0071-3" xml:lang="grc"><unclear>Σ</unclear>Α</w></p>
 </div>
 </body>
       <back>

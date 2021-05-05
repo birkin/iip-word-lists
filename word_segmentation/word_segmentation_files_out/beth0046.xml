@@ -117,7 +117,7 @@
    <text>
       <body>
          <div type="edition" ana="#b2" subtype="transcription" xml:id="beth0046.transcription" corresp="#beth0046.translation">
-            <p>Σεμι<unclear>ώ</unclear>ν ὁ<lb/>Γαβαροῦς </p>
+            <p>Σεμι<unclear>ώ</unclear>ν ὁ<lb/>Γαβαροῦς</p>
          </div>
          <div type="translation" ana="#b2" xml:id="beth0046.translation" corresp="#beth0046.transcription">
             <p>
@@ -125,7 +125,7 @@
                   <rs type="ethnicon" ana="interpretations.xml#'Arab">'Arab </rs>
                </placeName> ('Araba) </p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="beth0046-1" xml:lang="grc">Σεμι<unclear>ώ</unclear>ν</w> <w xml:id="beth0046-2" xml:lang="grc">ὁ</w> <w xml:id="beth0046-3" xml:lang="grc">Γαβαροῦς</w> <w xml:id="beth0046-4" xml:lang="grc"/></p>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="beth0046-1" xml:lang="grc">Σεμι<unclear>ώ</unclear>ν</w> <w xml:id="beth0046-2" xml:lang="grc">ὁ</w> <w xml:id="beth0046-3" xml:lang="grc">Γαβαροῦς</w></p>
 </div>
 </body>
       <back>

@@ -114,13 +114,13 @@
    <text>
       <body>
          <div type="edition" ana="#b2" subtype="transcription" xml:id="beth0002.transcription" corresp="#beth0002.translation">
-            <p>Εὐμ<choice><corr>οί</corr><sic>ύ</sic></choice>ρ<supplied reason="omitted">ε</supplied>ι  Ἄννα </p>
+            <p>Εὐμ<choice><corr>οί</corr><sic>ύ</sic></choice>ρ<supplied reason="omitted">ε</supplied>ι  Ἄννα</p>
          </div>
          <div type="translation" ana="#b2" xml:id="beth0002.translation" corresp="#beth0002.transcription">
             <p>
                <rs type="formula" ana="interpretations.xml#lot">May your lot be good</rs>, <persName xml:lang="hbo " ref="persons.xml#beth0002p01">Hannah</persName>. </p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="beth0002-1" xml:lang="grc">Εὐμ<choice><corr>οί</corr><sic>ύ</sic></choice>ρ<supplied reason="omitted">ε</supplied>ι</w> <w xml:id="beth0002-2" xml:lang="grc">Ἄννα</w> <w xml:id="beth0002-3" xml:lang="grc"/></p>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="beth0002-1" xml:lang="grc">Εὐμ<choice><corr>οί</corr><sic>ύ</sic></choice>ρ<supplied reason="omitted">ε</supplied>ι</w> <w xml:id="beth0002-2" xml:lang="grc">Ἄννα</w></p>
 </div>
 </body>
       <back>

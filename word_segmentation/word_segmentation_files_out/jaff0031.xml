@@ -186,8 +186,7 @@
             </div>
             <div type="edition" subtype="transcription" ana="b1">
                 <p>Ϲύμωνος<lb/>υἱοῦ Ἰακω<lb/>Διοσπολίτου<lb/>
-               <foreign xml:lang="heb">שלום</foreign>
-            </p>
+               <foreign xml:lang="heb">שלום</foreign></p>
             </div>
             <div type="translation" ana="b1">
                 <p>(Grave/tomb) of Simon, son of Iako, from Diospolis. Peace.</p>
@@ -198,7 +197,7 @@
                     hypocoristic form of יעקב. <lb/>The city of provenance of the deceased is most
                     likely either Diospolis in Egypt or Lydda in Palestine.</p>
             </div>
-        <div type="edition" subtype="transcription_segmented"><p><w xml:id="jaff0031-1" xml:lang="grc">Ϲύμωνος</w> <w xml:id="jaff0031-2" xml:lang="grc">υἱοῦ</w> <w xml:id="jaff0031-3" xml:lang="grc">Ἰακω</w> <w xml:id="jaff0031-4" xml:lang="grc">Διοσπολίτου</w> <w xml:id="jaff0031-5" xml:lang="grc"><foreign xml:lang="heb">שלום</foreign></w> <w xml:id="jaff0031-6" xml:lang="grc"/></p>
+        <div type="edition" subtype="transcription_segmented"><p><w xml:id="jaff0031-1" xml:lang="grc">Ϲύμωνος</w> <w xml:id="jaff0031-2" xml:lang="grc">υἱοῦ</w> <w xml:id="jaff0031-3" xml:lang="grc">Ἰακω</w> <w xml:id="jaff0031-4" xml:lang="grc">Διοσπολίτου</w> <w xml:id="jaff0031-5" xml:lang="grc"><foreign xml:lang="heb">שלום</foreign></w></p>
 </div>
 </body>
         <back>

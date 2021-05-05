@@ -133,14 +133,13 @@
                <lb/> Ἀλά<unclear>φ</unclear>
                <supplied reason="lost">θα</supplied><gap reason="lost" extent="unknown" unit="character"/>
                <lb/>
-               <orig>ΑΜΒ</orig><gap reason="illegible" quantity="1" unit="character"/><gap reason="lost" extent="unknown" unit="character"/>
-            </p>
+               <orig>ΑΜΒ</orig><gap reason="illegible" quantity="1" unit="character"/><gap reason="lost" extent="unknown" unit="character"/></p>
          </div>
          <div type="translation" ana="#b1" xml:id="caes0175.translation" corresp="#caes0175.diplomatic">
             <p>The tomb of <persName xml:lang="grc " ref="persons.xml#caes0175p01">Alaphtha</persName>....	
 		  </p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="caes0175-1" xml:lang="grc">θή<unclear>κ</unclear></w> <w xml:id="caes0175-2" xml:lang="grc"><supplied reason="lost">η</supplied></w> <w xml:id="caes0175-3" xml:lang="grc">Ἀλά<unclear>φ</unclear></w> <w xml:id="caes0175-4" xml:lang="grc"><supplied reason="lost">θα</supplied></w> <w xml:id="caes0175-5" xml:lang="grc"><orig>ΑΜΒ</orig></w> <w xml:id="caes0175-6" xml:lang="grc"/></p>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="caes0175-1" xml:lang="grc">θή<unclear>κ</unclear></w> <w xml:id="caes0175-2" xml:lang="grc"><supplied reason="lost">η</supplied></w> <w xml:id="caes0175-3" xml:lang="grc">Ἀλά<unclear>φ</unclear></w> <w xml:id="caes0175-4" xml:lang="grc"><supplied reason="lost">θα</supplied></w> <w xml:id="caes0175-5" xml:lang="grc"><orig>ΑΜΒ</orig></w></p>
 </div>
 </body>
       <back>

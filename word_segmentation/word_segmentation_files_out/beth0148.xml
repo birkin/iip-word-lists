@@ -115,7 +115,7 @@
    <text>
       <body>
          <div type="edition" ana="#b5" subtype="transcription" xml:id="beth0148.transcription" corresp="#beth0148.translation">
-            <p>Χωὴν Βυρίτιος </p>
+            <p>Χωὴν Βυρίτιος</p>
          </div>
          <div type="translation" ana="#b5" xml:id="beth0148.translation" corresp="#beth0148.transcription">
             <p>A <rs type="caste" ana="interpretations.xml#priest">priest </rs> from <rs type="ethnicon">
@@ -123,7 +123,7 @@
                </rs>
             </p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="beth0148-1" xml:lang="grc">Χωὴν</w> <w xml:id="beth0148-2" xml:lang="grc">Βυρίτιος</w> <w xml:id="beth0148-3" xml:lang="grc"/></p>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="beth0148-1" xml:lang="grc">Χωὴν</w> <w xml:id="beth0148-2" xml:lang="grc">Βυρίτιος</w></p>
 </div>
 </body>
       <back>

@@ -116,13 +116,13 @@
    <text>
       <body>
          <div type="edition" ana="#b2" subtype="transcription" xml:id="beth0087.transcription" corresp="#beth0087.translation">
-            <p>Θάρσι<lb/> Εἰσάκ, Κυρῖ<lb break="no"/>νος </p>
+            <p>Θάρσι<lb/> Εἰσάκ, Κυρῖ<lb break="no"/>νος</p>
          </div>
          <div type="translation" ana="#b2" xml:id="beth0087.translation" corresp="#beth0087.transcription">
             <p>
                <rs type="formula" ana="interpretations.xml#courage">Be of good courage</rs>, <persName xml:lang="hbo " ref="persons.xml#beth0087p01">Isaac</persName>,<persName xml:lang="la " ref="persons.xml#beth0087p02"> Kyrinos</persName>.</p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="beth0087-1" xml:lang="grc">Θάρσι</w> <w xml:id="beth0087-2" xml:lang="grc">Εἰσάκ,</w> <w xml:id="beth0087-3" xml:lang="grc">Κυρῖνος</w> <w xml:id="beth0087-4" xml:lang="grc"/></p>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="beth0087-1" xml:lang="grc">Θάρσι</w> <w xml:id="beth0087-2" xml:lang="grc">Εἰσάκ,</w> <w xml:id="beth0087-3" xml:lang="grc">Κυρῖνος</w></p>
 </div>
 </body>
       <back>

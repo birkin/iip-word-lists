@@ -116,14 +116,14 @@
    <text>
       <body>
          <div type="edition" ana="#b3" subtype="transcription" xml:id="beth0027.transcription" corresp="#beth0027.translation">
-            <p>Εὐ<lb break="no"/>μύρι<lb/> Σαφού,<lb/> μήτηρ<lb/> Ἰωσήφ </p>
+            <p>Εὐ<lb break="no"/>μύρι<lb/> Σαφού,<lb/> μήτηρ<lb/> Ἰωσήφ</p>
          </div>
          <div type="translation" ana="#b3" xml:id="beth0027.translation" corresp="#beth0027.transcription">
             <p>
                <rs type="formula" ana="interpretations.xml#lot">May your lot be good</rs>, <persName xml:lang="grc " ref="persons.xml#beth0027p01">Sappho</persName>, <rs type="family" ana="interpretations.xml#mother">mother </rs> of <persName xml:lang="hbo " type="son" ref="persons.xml#beth0027p02">Joseph </persName>
             </p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="beth0027-1" xml:lang="grc">Εὐμύρι</w> <w xml:id="beth0027-2" xml:lang="grc">Σαφού,</w> <w xml:id="beth0027-3" xml:lang="grc">μήτηρ</w> <w xml:id="beth0027-4" xml:lang="grc">Ἰωσήφ</w> <w xml:id="beth0027-5" xml:lang="grc"/></p>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="beth0027-1" xml:lang="grc">Εὐμύρι</w> <w xml:id="beth0027-2" xml:lang="grc">Σαφού,</w> <w xml:id="beth0027-3" xml:lang="grc">μήτηρ</w> <w xml:id="beth0027-4" xml:lang="grc">Ἰωσήφ</w></p>
 </div>
 </body>
       <back>

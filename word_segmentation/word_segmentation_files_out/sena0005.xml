@@ -119,18 +119,16 @@
    <text>
       <body>
          <div type="edition" ana="#b1" xml:lang="grc" subtype="transcription" xml:id="sena0005.transcription" corresp="#sena0005.translation">
-            <p>
-               <orig>ΛΑΙ</orig>
+            <p><orig>ΛΑΙ</orig>
                <gap reason="illegible" quantity="2" unit="character"/>
                <orig>ΑΝ</orig>
                <gap reason="illegible" quantity="4" unit="character"/>
-               <lb/> ε<supplied reason="undefined" cert="low">ὐχῆς</supplied> ἕνε<unclear>χεν</unclear>
-            </p>
+               <lb/> ε<supplied reason="undefined" cert="low">ὐχῆς</supplied> ἕνε<unclear>χεν</unclear></p>
          </div>
          <div type="translation" ana="#b1" xml:id="sena0005.translation" corresp="#sena0005.transcription">
             <p>...due to a vow</p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="sena0005-1" xml:lang="grc"/> <w xml:id="sena0005-2" xml:lang="grc"><orig>ΛΑΙ</orig></w> <w xml:id="sena0005-3" xml:lang="grc"><orig>ΑΝ</orig></w> <w xml:id="sena0005-4" xml:lang="grc">ε<supplied reason="undefined" cert="low">ὐχῆς</supplied></w> <w xml:id="sena0005-5" xml:lang="grc">ἕνε<unclear>χεν</unclear></w> <w xml:id="sena0005-6" xml:lang="grc"/></p>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="sena0005-1" xml:lang="grc"><orig>ΛΑΙ</orig></w> <w xml:id="sena0005-2" xml:lang="grc"><orig>ΑΝ</orig></w> <w xml:id="sena0005-3" xml:lang="grc">ε<supplied reason="undefined" cert="low">ὐχῆς</supplied></w> <w xml:id="sena0005-4" xml:lang="grc">ἕνε<unclear>χεν</unclear></w></p>
 </div>
 </body>
       <back>

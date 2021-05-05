@@ -113,13 +113,12 @@
             <p>ΚΕΜΝΗϹΚΟΥ<lb/>ΑΙΩΝΙΚΑΙϹΑ<lb/>ΜΑΚΩΝΟϹ<lb/>ΚΑΙΑΡΙΩΝΟϹ</p>
          </div>
          <div type="edition" ana="#b1" xml:lang="grc" subtype="transcription" xml:id="evro0012.transcription" corresp="#evro0012.diplomatic #evro0012.translation">
-            <p>
-               <expan><abbr>Κ</abbr><ex>ύρι</ex><abbr>ε</abbr></expan> μνήσκου <lb/>Αἰώνι καί Σα<lb break="no"/>μάκωνος <lb/>καί Ἀρίωνος.</p>
+            <p><expan><abbr>Κ</abbr><ex>ύρι</ex><abbr>ε</abbr></expan> μνήσκου <lb/>Αἰώνι καί Σα<lb break="no"/>μάκωνος <lb/>καί Ἀρίωνος.</p>
          </div>
          <div type="translation" ana="#b1" xml:id="evro0012.translation" corresp="#evro0012.diplomatic #evro0012.transcription">
             <p>Lord remember Aion and Samacon and Arion</p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="evro0012-1" xml:lang="grc"/> <w xml:id="evro0012-2" xml:lang="grc"><expan><abbr>Κ</abbr><ex>ύρι</ex><abbr>ε</abbr></expan></w> <w xml:id="evro0012-3" xml:lang="grc">μνήσκου</w> <w xml:id="evro0012-4" xml:lang="grc">Αἰώνι</w> <w xml:id="evro0012-5" xml:lang="grc">καί</w> <w xml:id="evro0012-6" xml:lang="grc">Σαμάκωνος</w> <w xml:id="evro0012-7" xml:lang="grc">καί</w> <w xml:id="evro0012-8" xml:lang="grc">Ἀρίωνος.</w></p>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="evro0012-1" xml:lang="grc"><expan><abbr>Κ</abbr><ex>ύρι</ex><abbr>ε</abbr></expan></w> <w xml:id="evro0012-2" xml:lang="grc">μνήσκου</w> <w xml:id="evro0012-3" xml:lang="grc">Αἰώνι</w> <w xml:id="evro0012-4" xml:lang="grc">καί</w> <w xml:id="evro0012-5" xml:lang="grc">Σαμάκωνος</w> <w xml:id="evro0012-6" xml:lang="grc">καί</w> <w xml:id="evro0012-7" xml:lang="grc">Ἀρίωνος.</w></p>
 </div>
 </body>
       <back>

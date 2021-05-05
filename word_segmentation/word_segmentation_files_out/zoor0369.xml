@@ -133,15 +133,13 @@
                 <p/>
             </div>
             <div type="edition" subtype="transcription" ana="b1">
-                <p>
-               <choice><orig>Μνημῖον</orig><reg>μνημεῖον</reg></choice>
+                <p><choice><orig>Μνημῖον</orig><reg>μνημεῖον</reg></choice>
                     <choice><orig>Εμμε<lb break="no"/>δάβους</orig><reg>Ἐμμεδάβου</reg></choice>Μαρκι<lb break="no"/>αν<unclear>ο</unclear>ῦ <choice><orig>παυσάμε<lb break="no"/>ν<unclear>ο</unclear>ς</orig><reg>παυσάμενου</reg></choice>ἐν ὁσιότητι<lb/>μ<unclear>ε</unclear>τὰ καλοῦ ὀνό<lb break="no"/>ματος ἐνῶν <num value="50">ν</num>,<lb/>ἐν <choice><orig>ἔτι</orig><reg>ἔτει</reg></choice>
                     <num value="291">σϞα</num>, μηνὶ<lb/>
                <choice><orig>Αὐδονέου</orig><reg>Αὐδυναίῳ</reg></choice> ογδόῃ,<lb/>ἡμέρᾳ
                     <expan><abbr>Κ</abbr><ex>υρίο</ex><abbr>υ</abbr></expan>
                         τετάρτῃ.<lb/>
-               <g type="cross"/>
-            </p>
+               <g type="cross"/></p>
             </div>
             <div type="translation" ana="b1">
                 <p>Monument of Emmedabos, (son) of Marcianus, who died in holiness having a good
@@ -151,7 +149,7 @@
             <div type="commentary" ana="b1">
                 <p/>
             </div>
-        <div type="edition" subtype="transcription_segmented"><p><w xml:id="zoor0369-1" xml:lang="grc"/> <w xml:id="zoor0369-2" xml:lang="grc"><choice><orig>Μνημῖον</orig><reg>μνημεῖον</reg></choice></w> <w xml:id="zoor0369-3" xml:lang="grc"><choice><orig>Εμμεδάβους</orig><reg>Ἐμμεδάβου</reg></choice>Μαρκιαν<unclear>ο</unclear>ῦ</w> <w xml:id="zoor0369-4" xml:lang="grc"><choice><orig>παυσάμεν<unclear>ο</unclear>ς</orig><reg>παυσάμενου</reg></choice>ἐν</w> <w xml:id="zoor0369-5" xml:lang="grc">ὁσιότητι</w> <w xml:id="zoor0369-6" xml:lang="grc">μ<unclear>ε</unclear>τὰ</w> <w xml:id="zoor0369-7" xml:lang="grc">καλοῦ</w> <w xml:id="zoor0369-8" xml:lang="grc">ὀνόματος</w> <w xml:id="zoor0369-9" xml:lang="grc">ἐνῶν</w> <w xml:id="zoor0369-10" xml:lang="grc"><num value="50">ν</num>,</w> <w xml:id="zoor0369-11" xml:lang="grc">ἐν</w> <w xml:id="zoor0369-12" xml:lang="grc"><choice><orig>ἔτι</orig><reg>ἔτει</reg></choice></w> <w xml:id="zoor0369-13" xml:lang="grc"><num value="291">σϞα</num>,</w> <w xml:id="zoor0369-14" xml:lang="grc">μηνὶ</w> <w xml:id="zoor0369-15" xml:lang="grc"><choice><orig>Αὐδονέου</orig><reg>Αὐδυναίῳ</reg></choice></w> <w xml:id="zoor0369-16" xml:lang="grc">ογδόῃ,</w> <w xml:id="zoor0369-17" xml:lang="grc">ἡμέρᾳ</w> <w xml:id="zoor0369-18" xml:lang="grc"><expan><abbr>Κ</abbr><ex>υρίο</ex><abbr>υ</abbr></expan></w> <w xml:id="zoor0369-19" xml:lang="grc">τετάρτῃ.</w> <w xml:id="zoor0369-20" xml:lang="grc"><g type="cross"/></w> <w xml:id="zoor0369-21" xml:lang="grc"/></p>
+        <div type="edition" subtype="transcription_segmented"><p><w xml:id="zoor0369-1" xml:lang="grc"><choice><orig>Μνημῖον</orig><reg>μνημεῖον</reg></choice></w> <w xml:id="zoor0369-2" xml:lang="grc"><choice><orig>Εμμεδάβους</orig><reg>Ἐμμεδάβου</reg></choice>Μαρκιαν<unclear>ο</unclear>ῦ</w> <w xml:id="zoor0369-3" xml:lang="grc"><choice><orig>παυσάμεν<unclear>ο</unclear>ς</orig><reg>παυσάμενου</reg></choice>ἐν</w> <w xml:id="zoor0369-4" xml:lang="grc">ὁσιότητι</w> <w xml:id="zoor0369-5" xml:lang="grc">μ<unclear>ε</unclear>τὰ</w> <w xml:id="zoor0369-6" xml:lang="grc">καλοῦ</w> <w xml:id="zoor0369-7" xml:lang="grc">ὀνόματος</w> <w xml:id="zoor0369-8" xml:lang="grc">ἐνῶν</w> <w xml:id="zoor0369-9" xml:lang="grc"><num value="50">ν</num>,</w> <w xml:id="zoor0369-10" xml:lang="grc">ἐν</w> <w xml:id="zoor0369-11" xml:lang="grc"><choice><orig>ἔτι</orig><reg>ἔτει</reg></choice></w> <w xml:id="zoor0369-12" xml:lang="grc"><num value="291">σϞα</num>,</w> <w xml:id="zoor0369-13" xml:lang="grc">μηνὶ</w> <w xml:id="zoor0369-14" xml:lang="grc"><choice><orig>Αὐδονέου</orig><reg>Αὐδυναίῳ</reg></choice></w> <w xml:id="zoor0369-15" xml:lang="grc">ογδόῃ,</w> <w xml:id="zoor0369-16" xml:lang="grc">ἡμέρᾳ</w> <w xml:id="zoor0369-17" xml:lang="grc"><expan><abbr>Κ</abbr><ex>υρίο</ex><abbr>υ</abbr></expan></w> <w xml:id="zoor0369-18" xml:lang="grc">τετάρτῃ.</w> <w xml:id="zoor0369-19" xml:lang="grc"><g type="cross"/></w></p>
 </div>
 </body>
         <back>

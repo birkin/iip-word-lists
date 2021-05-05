@@ -118,13 +118,13 @@
          <div type="edition" ana="#b1" subtype="transcription" xml:id="caes0244.transcription" corresp="#caes0244.translation">
             <p>Ζωσίμης εὐμοίρου σ<lb break="no"/>ορὸς ἥδε δέμας κατα<lb break="no"/>κρύβει,
                   <g type="vertical-line">|</g> Ἰταλικὴν τὸ γέν<lb break="no"/>ος, ποτὲ δούλην τῶ<lb break="no"/>ν
-               βασιλήων. </p>
+               βασιλήων.</p>
          </div>
          <div type="translation" ana="#b1" xml:id="caes0244.translation" corresp="#caes0244.transcription">
             <p>This tomb hides the body of <persName xml:lang="grc " ref="persons.xml#caes0244p01">Zosime</persName>, well endowed by fortune, <rs type="ethnicon">Italian </rs> by birth, once slave of kings.
 				</p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="caes0244-1" xml:lang="grc">Ζωσίμης</w> <w xml:id="caes0244-2" xml:lang="grc">εὐμοίρου</w> <w xml:id="caes0244-3" xml:lang="grc">σορὸς</w> <w xml:id="caes0244-4" xml:lang="grc">ἥδε</w> <w xml:id="caes0244-5" xml:lang="grc">δέμας</w> <w xml:id="caes0244-6" xml:lang="grc">κατακρύβει,</w> <w xml:id="caes0244-7" xml:lang="grc"><g type="vertical-line">|</g></w> <w xml:id="caes0244-8" xml:lang="grc">Ἰταλικὴν</w> <w xml:id="caes0244-9" xml:lang="grc">τὸ</w> <w xml:id="caes0244-10" xml:lang="grc">γένος,</w> <w xml:id="caes0244-11" xml:lang="grc">ποτὲ</w> <w xml:id="caes0244-12" xml:lang="grc">δούλην</w> <w xml:id="caes0244-13" xml:lang="grc">τῶν</w> <w xml:id="caes0244-14" xml:lang="grc">βασιλήων.</w> <w xml:id="caes0244-15" xml:lang="grc"/></p>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="caes0244-1" xml:lang="grc">Ζωσίμης</w> <w xml:id="caes0244-2" xml:lang="grc">εὐμοίρου</w> <w xml:id="caes0244-3" xml:lang="grc">σορὸς</w> <w xml:id="caes0244-4" xml:lang="grc">ἥδε</w> <w xml:id="caes0244-5" xml:lang="grc">δέμας</w> <w xml:id="caes0244-6" xml:lang="grc">κατακρύβει,</w> <w xml:id="caes0244-7" xml:lang="grc"><g type="vertical-line">|</g></w> <w xml:id="caes0244-8" xml:lang="grc">Ἰταλικὴν</w> <w xml:id="caes0244-9" xml:lang="grc">τὸ</w> <w xml:id="caes0244-10" xml:lang="grc">γένος,</w> <w xml:id="caes0244-11" xml:lang="grc">ποτὲ</w> <w xml:id="caes0244-12" xml:lang="grc">δούλην</w> <w xml:id="caes0244-13" xml:lang="grc">τῶν</w> <w xml:id="caes0244-14" xml:lang="grc">βασιλήων.</w></p>
 </div>
 </body>
       <back>

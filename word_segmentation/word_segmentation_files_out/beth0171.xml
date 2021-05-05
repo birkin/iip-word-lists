@@ -111,13 +111,13 @@
    <text>
       <body>
          <div type="edition" ana="#b1" subtype="transcription" xml:id="beth0171.transcription" corresp="#beth0171.translation">
-            <p>Κυρίας<lb/>γυνῆ Συμμάχου </p>
+            <p>Κυρίας<lb/>γυνῆ Συμμάχου</p>
          </div>
          <div type="translation" ana="#b1" xml:id="beth0171.translation" corresp="#beth0171.transcription">
             <p>Of <persName xml:lang="grc " ref="persons.xml#beth0171p01">Kyria</persName>, the <rs type="family" ana="interpretations.xml#wife">wife </rs> of <persName xml:lang="grc " ref="persons.xml#beth0171p02">Symmakhos </persName>
             </p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="beth0171-1" xml:lang="grc">Κυρίας</w> <w xml:id="beth0171-2" xml:lang="grc">γυνῆ</w> <w xml:id="beth0171-3" xml:lang="grc">Συμμάχου</w> <w xml:id="beth0171-4" xml:lang="grc"/></p>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="beth0171-1" xml:lang="grc">Κυρίας</w> <w xml:id="beth0171-2" xml:lang="grc">γυνῆ</w> <w xml:id="beth0171-3" xml:lang="grc">Συμμάχου</w></p>
 </div>
 </body>
       <back>

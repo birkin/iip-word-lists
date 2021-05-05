@@ -137,18 +137,18 @@
             </p>
          </div>
          <div type="edition" ana="#b1" subtype="transcription" xml:id="hamm0044.transcription" corresp="#hamm0044.diplomatic #hamm0044.translation">
-            <p> Ἐν τῷ ἱερῷ τό<lb break="no"/>π<supplied reason="omitted">ῳ</supplied> τ<supplied reason="omitted">ού</supplied>τ<supplied reason="omitted">ῳ</supplied>
+            <p>Ἐν τῷ ἱερῷ τό<lb break="no"/>π<supplied reason="omitted">ῳ</supplied> τ<supplied reason="omitted">ού</supplied>τ<supplied reason="omitted">ῳ</supplied>
                <lb/>
                <expan><abbr>μνη</abbr><ex>σ</ex><abbr>θίουωσι</abbr></expan><lb/>
                <expan><abbr>Λίω</abbr><ex>ν</ex></expan> περ<supplied reason="omitted">ι</supplied>π<lb break="no"/>ώλιος υἱὸς<lb/> Ἀδυνά<lb break="no"/>του<lb/>
  καὶ Κ<lb break="no"/>οσμ<lb break="no"/>ου<lb break="no"/>ς<lb/>
- καὶ Ἰο<lb break="no"/>υλια<lb break="no"/>νή. </p>
+ καὶ Ἰο<lb break="no"/>υλια<lb break="no"/>νή.</p>
          </div>
          <div type="translation" ana="#b1" xml:id="hamm0044.translation" corresp="#hamm0044.diplomatic #hamm0044.transcription">
             <p>
                <rs type="formula">In this sacred place </rs> may be remembered <persName xml:lang="grc " ref="persons.xml#hamm0044p01">Leo  </persName>the <rs type="occupation">pedlar </rs>(?), <rs type="family">son </rs> of <persName xml:lang="grc " ref="persons.xml#hamm0044p02">Adynatos</persName>, and <persName xml:lang="grc " ref="persons.xml#hamm0044p03">Cosmous </persName> and <persName xml:lang="la " ref="persons.xml#hamm0044p04">Juliana</persName>.</p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="hamm0044-1" xml:lang="grc"/> <w xml:id="hamm0044-2" xml:lang="grc">Ἐν</w> <w xml:id="hamm0044-3" xml:lang="grc">τῷ</w> <w xml:id="hamm0044-4" xml:lang="grc">ἱερῷ</w> <w xml:id="hamm0044-5" xml:lang="grc">τόπ<supplied reason="omitted">ῳ</supplied></w> <w xml:id="hamm0044-6" xml:lang="grc">τ<supplied reason="omitted">ού</supplied>τ<supplied reason="omitted">ῳ</supplied></w> <w xml:id="hamm0044-7" xml:lang="grc"><expan><abbr>μνη</abbr><ex>σ</ex><abbr>θίουωσι</abbr></expan></w> <w xml:id="hamm0044-8" xml:lang="grc"><expan><abbr>Λίω</abbr><ex>ν</ex></expan></w> <w xml:id="hamm0044-9" xml:lang="grc">περ<supplied reason="omitted">ι</supplied>πώλιος</w> <w xml:id="hamm0044-10" xml:lang="grc">υἱὸς</w> <w xml:id="hamm0044-11" xml:lang="grc">Ἀδυνάτου</w> <w xml:id="hamm0044-12" xml:lang="grc">καὶ</w> <w xml:id="hamm0044-13" xml:lang="grc">Κοσμους</w> <w xml:id="hamm0044-14" xml:lang="grc">καὶ</w> <w xml:id="hamm0044-15" xml:lang="grc">Ἰουλιανή.</w> <w xml:id="hamm0044-16" xml:lang="grc"/></p>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="hamm0044-1" xml:lang="grc">Ἐν</w> <w xml:id="hamm0044-2" xml:lang="grc">τῷ</w> <w xml:id="hamm0044-3" xml:lang="grc">ἱερῷ</w> <w xml:id="hamm0044-4" xml:lang="grc">τόπ<supplied reason="omitted">ῳ</supplied></w> <w xml:id="hamm0044-5" xml:lang="grc">τ<supplied reason="omitted">ού</supplied>τ<supplied reason="omitted">ῳ</supplied></w> <w xml:id="hamm0044-6" xml:lang="grc"><expan><abbr>μνη</abbr><ex>σ</ex><abbr>θίουωσι</abbr></expan></w> <w xml:id="hamm0044-7" xml:lang="grc"><expan><abbr>Λίω</abbr><ex>ν</ex></expan></w> <w xml:id="hamm0044-8" xml:lang="grc">περ<supplied reason="omitted">ι</supplied>πώλιος</w> <w xml:id="hamm0044-9" xml:lang="grc">υἱὸς</w> <w xml:id="hamm0044-10" xml:lang="grc">Ἀδυνάτου</w> <w xml:id="hamm0044-11" xml:lang="grc">καὶ</w> <w xml:id="hamm0044-12" xml:lang="grc">Κοσμους</w> <w xml:id="hamm0044-13" xml:lang="grc">καὶ</w> <w xml:id="hamm0044-14" xml:lang="grc">Ἰουλιανή.</w></p>
 </div>
 </body>
       <back>

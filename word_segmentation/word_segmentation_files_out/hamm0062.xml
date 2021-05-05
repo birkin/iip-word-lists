@@ -127,16 +127,15 @@
                <gap reason="illegible" quantity="6" unit="character"/>ϹΑΥΤΟΥ </p>
          </div>
          <div type="edition" ana="#b1" subtype="transcription" xml:id="hamm0062.transcription" corresp="#hamm0062.diplomatic #hamm0062.translation">
-            <p>
-               <supplied reason="undefined">Κύριο</supplied>ς
+            <p><supplied reason="undefined">Κύριο</supplied>ς
                      <expan><abbr>Θ</abbr><ex>εὸ</ex><abbr>ς</abbr></expan>
                <expan><abbr>βοήθ</abbr><ex>ε</ex><abbr>ι</abbr></expan> Γεννα<lb break="no"/><supplied reason="undefined">δίῳ</supplied> <supplied reason="undefined">ἐπ</supplied>αρχικῴ καὶ τοῖς<lb/>
-               <supplied reason="undefined">τέκνοι</supplied>ς αὐτοῦ. </p>
+               <supplied reason="undefined">τέκνοι</supplied>ς αὐτοῦ.</p>
          </div>
          <div type="translation" ana="#b1" xml:id="hamm0062.translation" corresp="#hamm0062.diplomatic #hamm0062.transcription">
             <p>O Lord God, help <persName xml:lang="la " ref="persons.xml#hamm0062p01">Gennadius </persName> the <rs type="admTitle">praefectianus </rs> and his <rs type="family">children</rs>.</p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="hamm0062-1" xml:lang="grc"/> <w xml:id="hamm0062-2" xml:lang="grc"><supplied reason="undefined">Κύριο</supplied>ς</w> <w xml:id="hamm0062-3" xml:lang="grc"><expan><abbr>Θ</abbr><ex>εὸ</ex><abbr>ς</abbr></expan></w> <w xml:id="hamm0062-4" xml:lang="grc"><expan><abbr>βοήθ</abbr><ex>ε</ex><abbr>ι</abbr></expan></w> <w xml:id="hamm0062-5" xml:lang="grc">Γεννα<supplied reason="undefined">δίῳ</supplied></w> <w xml:id="hamm0062-6" xml:lang="grc"><supplied reason="undefined">ἐπ</supplied>αρχικῴ</w> <w xml:id="hamm0062-7" xml:lang="grc">καὶ</w> <w xml:id="hamm0062-8" xml:lang="grc">τοῖς</w> <w xml:id="hamm0062-9" xml:lang="grc"><supplied reason="undefined">τέκνοι</supplied>ς</w> <w xml:id="hamm0062-10" xml:lang="grc">αὐτοῦ.</w> <w xml:id="hamm0062-11" xml:lang="grc"/></p>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="hamm0062-1" xml:lang="grc"><supplied reason="undefined">Κύριο</supplied>ς</w> <w xml:id="hamm0062-2" xml:lang="grc"><expan><abbr>Θ</abbr><ex>εὸ</ex><abbr>ς</abbr></expan></w> <w xml:id="hamm0062-3" xml:lang="grc"><expan><abbr>βοήθ</abbr><ex>ε</ex><abbr>ι</abbr></expan></w> <w xml:id="hamm0062-4" xml:lang="grc">Γεννα<supplied reason="undefined">δίῳ</supplied></w> <w xml:id="hamm0062-5" xml:lang="grc"><supplied reason="undefined">ἐπ</supplied>αρχικῴ</w> <w xml:id="hamm0062-6" xml:lang="grc">καὶ</w> <w xml:id="hamm0062-7" xml:lang="grc">τοῖς</w> <w xml:id="hamm0062-8" xml:lang="grc"><supplied reason="undefined">τέκνοι</supplied>ς</w> <w xml:id="hamm0062-9" xml:lang="grc">αὐτοῦ.</w></p>
 </div>
 </body>
       <back>

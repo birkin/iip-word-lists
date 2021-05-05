@@ -117,7 +117,7 @@
       <body>
          <div type="edition" ana="#b5" subtype="transcription" xml:id="beth0190.transcription" corresp="#beth0190.translation">
             <p>Βεννιαμὶν<lb/> υἱὸς Ἰουλίου ὀθονι<lb break="no"/>ακοῦ υἱοῦ
-					Μακροβίου<lb/> κρατίστου </p>
+					Μακροβίου<lb/> κρατίστου</p>
          </div>
          <div type="translation" ana="#b5" xml:id="beth0190.translation" corresp="#beth0190.transcription">
             <p>
@@ -128,7 +128,7 @@
                </name>
             </p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="beth0190-1" xml:lang="grc">Βεννιαμὶν</w> <w xml:id="beth0190-2" xml:lang="grc">υἱὸς</w> <w xml:id="beth0190-3" xml:lang="grc">Ἰουλίου</w> <w xml:id="beth0190-4" xml:lang="grc">ὀθονιακοῦ</w> <w xml:id="beth0190-5" xml:lang="grc">υἱοῦ</w> <w xml:id="beth0190-6" xml:lang="grc">Μακροβίου</w> <w xml:id="beth0190-7" xml:lang="grc">κρατίστου</w> <w xml:id="beth0190-8" xml:lang="grc"/></p>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="beth0190-1" xml:lang="grc">Βεννιαμὶν</w> <w xml:id="beth0190-2" xml:lang="grc">υἱὸς</w> <w xml:id="beth0190-3" xml:lang="grc">Ἰουλίου</w> <w xml:id="beth0190-4" xml:lang="grc">ὀθονιακοῦ</w> <w xml:id="beth0190-5" xml:lang="grc">υἱοῦ</w> <w xml:id="beth0190-6" xml:lang="grc">Μακροβίου</w> <w xml:id="beth0190-7" xml:lang="grc">κρατίστου</w></p>
 </div>
 </body>
       <back>

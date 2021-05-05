@@ -112,14 +112,13 @@
    <text>
       <body>
          <div type="edition" ana="#b2" subtype="transcription" xml:id="beth0109.transcription" corresp="#beth0109.translation">
-            <p>Εἷς Θεὸς Β<supplied reason="lost">οήθει</supplied>
-            </p>
+            <p>Εἷς Θεὸς Β<supplied reason="lost">οήθει</supplied></p>
          </div>
          <div type="translation" ana="#b2" xml:id="beth0109.translation" corresp="#beth0109.transcription">
             <p>
                <rs type="formula" ana="interpretations.xml#one">May the one God </rs> help</p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="beth0109-1" xml:lang="grc">Εἷς</w> <w xml:id="beth0109-2" xml:lang="grc">Θεὸς</w> <w xml:id="beth0109-3" xml:lang="grc">Β<supplied reason="lost">οήθει</supplied></w> <w xml:id="beth0109-4" xml:lang="grc"/></p>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="beth0109-1" xml:lang="grc">Εἷς</w> <w xml:id="beth0109-2" xml:lang="grc">Θεὸς</w> <w xml:id="beth0109-3" xml:lang="grc">Β<supplied reason="lost">οήθει</supplied></w></p>
 </div>
 </body>
       <back>

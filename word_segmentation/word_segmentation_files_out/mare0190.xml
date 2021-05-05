@@ -124,9 +124,7 @@
                 <p>ωνκαιμαλαφο</p>
             </div>
             <div type="edition" subtype="transcription" ana="b1">
-                <p>
-               <gap reason="lost" extent="unknown" unit="character"/>ων καὶ μάλα φο<gap reason="lost" extent="unknown" unit="character"/>
-            </p>
+                <p><gap reason="lost" extent="unknown" unit="character"/>ων καὶ μάλα φο<gap reason="lost" extent="unknown" unit="character"/></p>
             </div>
             <div type="translation" ana="b1">
                 <p>… and much ...</p>
@@ -134,7 +132,7 @@
             <div type="commentary" ana="b1">
                 <p/>
             </div>
-        <div type="edition" subtype="transcription_segmented"><p><w xml:id="mare0190-1" xml:lang="grc"/> <w xml:id="mare0190-2" xml:lang="grc">ων</w> <w xml:id="mare0190-3" xml:lang="grc">καὶ</w> <w xml:id="mare0190-4" xml:lang="grc">μάλα</w> <w xml:id="mare0190-5" xml:lang="grc">φο</w> <w xml:id="mare0190-6" xml:lang="grc"/></p>
+        <div type="edition" subtype="transcription_segmented"><p><w xml:id="mare0190-1" xml:lang="grc">ων</w> <w xml:id="mare0190-2" xml:lang="grc">καὶ</w> <w xml:id="mare0190-3" xml:lang="grc">μάλα</w> <w xml:id="mare0190-4" xml:lang="grc">φο</w></p>
 </div>
 </body>
         <back>

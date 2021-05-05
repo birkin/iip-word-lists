@@ -174,8 +174,7 @@
             </p>
             </div>
             <div type="edition" subtype="transcription" ana="b1">
-                <p>
-               <supplied reason="lost"><expan><abbr>M</abbr><ex>arci</ex></expan></supplied>
+                <p><supplied reason="lost"><expan><abbr>M</abbr><ex>arci</ex></expan></supplied>
                <supplied reason="lost"><expan><abbr>Octa</abbr><ex>vii</ex></expan></supplied>
                <lb/><expan><abbr>Eude</abbr><ex>mi</ex></expan>
             </p>
@@ -186,7 +185,7 @@
             <div type="commentary" ana="b1">
                 <p>Eude could also be expanded into Eudemonis.</p>
             </div>
-        <div type="edition" subtype="transcription_segmented"><p><w xml:id="masa0950-1" xml:lang="la"/> <w xml:id="masa0950-2" xml:lang="la"><supplied reason="lost"><expan><abbr>M</abbr><ex>arci</ex></expan></supplied></w> <w xml:id="masa0950-3" xml:lang="la"><supplied reason="lost"><expan><abbr>Octa</abbr><ex>vii</ex></expan></supplied></w> <w xml:id="masa0950-4" xml:lang="la"><expan><abbr>Eude</abbr><ex>mi</ex></expan></w> <w xml:id="masa0950-5" xml:lang="la"/></p>
+        <div type="edition" subtype="transcription_segmented"><p><w xml:id="masa0950-1" xml:lang="la"><supplied reason="lost"><expan><abbr>M</abbr><ex>arci</ex></expan></supplied></w> <w xml:id="masa0950-2" xml:lang="la"><supplied reason="lost"><expan><abbr>Octa</abbr><ex>vii</ex></expan></supplied></w> <w xml:id="masa0950-3" xml:lang="la"><expan><abbr>Eude</abbr><ex>mi</ex></expan></w> <w xml:id="masa0950-4" xml:lang="la"/></p>
 </div>
 </body>
         <back>

@@ -116,7 +116,7 @@
    <text>
       <body>
          <div type="edition" ana="#b5" subtype="transcription" xml:id="beth0164.transcription" corresp="#beth0164.translation">
-            <p>Ὧδε κεῖτε<lb/> ὁ ὅσιος Σα<lb break="no"/>τορνεῖλος </p>
+            <p>Ὧδε κεῖτε<lb/> ὁ ὅσιος Σα<lb break="no"/>τορνεῖλος</p>
          </div>
          <div type="translation" ana="#b5" xml:id="beth0164.translation" corresp="#beth0164.transcription">
             <p>
@@ -124,7 +124,7 @@
                <persName xml:lang="grc " type="theosphoric" ref="persons.xml#beth0164p01">Satornilus </persName>
 					the <rs type="epithet" ana="interpretations.xml#pious">pious</rs>.</p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="beth0164-1" xml:lang="grc">Ὧδε</w> <w xml:id="beth0164-2" xml:lang="grc">κεῖτε</w> <w xml:id="beth0164-3" xml:lang="grc">ὁ</w> <w xml:id="beth0164-4" xml:lang="grc">ὅσιος</w> <w xml:id="beth0164-5" xml:lang="grc">Σατορνεῖλος</w> <w xml:id="beth0164-6" xml:lang="grc"/></p>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="beth0164-1" xml:lang="grc">Ὧδε</w> <w xml:id="beth0164-2" xml:lang="grc">κεῖτε</w> <w xml:id="beth0164-3" xml:lang="grc">ὁ</w> <w xml:id="beth0164-4" xml:lang="grc">ὅσιος</w> <w xml:id="beth0164-5" xml:lang="grc">Σατορνεῖλος</w></p>
 </div>
 </body>
       <back>

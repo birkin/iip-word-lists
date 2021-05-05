@@ -116,7 +116,7 @@
    <text>
       <body>
          <div type="edition" ana="#b1" subtype="transcription" xml:id="beth0209.transcription" corresp="#beth0209.translation">
-            <p>Ἀντωνίνου<lb/> Ἰούδα ῥιββὶ<lb/> Παρηγορί<lb break="no"/>ου </p>
+            <p>Ἀντωνίνου<lb/> Ἰούδα ῥιββὶ<lb/> Παρηγορί<lb break="no"/>ου</p>
          </div>
          <div type="translation" ana="#b1" xml:id="beth0209.translation" corresp="#beth0209.transcription">
             <p>Of <name type="gpatr">
@@ -126,7 +126,7 @@
                </name>
             </p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="beth0209-1" xml:lang="grc">Ἀντωνίνου</w> <w xml:id="beth0209-2" xml:lang="grc">Ἰούδα</w> <w xml:id="beth0209-3" xml:lang="grc">ῥιββὶ</w> <w xml:id="beth0209-4" xml:lang="grc">Παρηγορίου</w> <w xml:id="beth0209-5" xml:lang="grc"/></p>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="beth0209-1" xml:lang="grc">Ἀντωνίνου</w> <w xml:id="beth0209-2" xml:lang="grc">Ἰούδα</w> <w xml:id="beth0209-3" xml:lang="grc">ῥιββὶ</w> <w xml:id="beth0209-4" xml:lang="grc">Παρηγορίου</w></p>
 </div>
 </body>
       <back>

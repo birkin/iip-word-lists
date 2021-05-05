@@ -185,8 +185,7 @@
          </div>
                 <div type="edition" subtype="transcription" ana="b1">
                     <p>Βενιαμις<lb/>υἱὸς Ἰωσηφ<lb/>καὶ Ἀμβω<lb break="no"/>μαρη<lb/>
-               <foreign xml:lang="heb">שלום</foreign>
-            </p>
+               <foreign xml:lang="heb">שלום</foreign></p>
                 </div>   
             <div type="translation" ana="b1">
                 <p>Beniamis, son of Joseph and (of?) Ambomare. Peace.</p>
@@ -196,7 +195,7 @@
             </div>
             <!-- The bibl has more contained elements. What is the possible list of values of the biblScope/@type? 
              -->
-        <div type="edition" subtype="transcription_segmented"><p><w xml:id="jaff0048-1" xml:lang="grc">Βενιαμις</w> <w xml:id="jaff0048-2" xml:lang="grc">υἱὸς</w> <w xml:id="jaff0048-3" xml:lang="grc">Ἰωσηφ</w> <w xml:id="jaff0048-4" xml:lang="grc">καὶ</w> <w xml:id="jaff0048-5" xml:lang="grc">Ἀμβωμαρη</w> <w xml:id="jaff0048-6" xml:lang="grc"><foreign xml:lang="heb">שלום</foreign></w> <w xml:id="jaff0048-7" xml:lang="grc"/></p>
+        <div type="edition" subtype="transcription_segmented"><p><w xml:id="jaff0048-1" xml:lang="grc">Βενιαμις</w> <w xml:id="jaff0048-2" xml:lang="grc">υἱὸς</w> <w xml:id="jaff0048-3" xml:lang="grc">Ἰωσηφ</w> <w xml:id="jaff0048-4" xml:lang="grc">καὶ</w> <w xml:id="jaff0048-5" xml:lang="grc">Ἀμβωμαρη</w> <w xml:id="jaff0048-6" xml:lang="grc"><foreign xml:lang="heb">שלום</foreign></w></p>
 </div>
 </body>
         <back>

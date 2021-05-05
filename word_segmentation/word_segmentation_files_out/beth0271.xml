@@ -109,8 +109,7 @@
    <text>
       <body>
          <div type="edition" ana="#b1" xml:lang="heb" subtype="transcription" xml:id="beth0271.transcription" corresp="#beth0271.translation">
-            <p>
-               <unclear>נ</unclear>
+            <p><unclear>נ</unclear>
 					פש ניחמיה
 					</p>
          </div>
@@ -119,7 +118,7 @@
                <rs type="object" ana="interpretations.xml#tomb">Tomb </rs> of <persName xml:lang="hbo " ref="persons.xml#beth0271p01">Nehemiah </persName>
             </p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="beth0271-1" xml:lang="he"/> <w xml:id="beth0271-2" xml:lang="he"><unclear>נ</unclear></w> <w xml:id="beth0271-3" xml:lang="he">פש</w> <w xml:id="beth0271-4" xml:lang="he">ניחמיה</w> <w xml:id="beth0271-5" xml:lang="he"/></p>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="beth0271-1" xml:lang="he"><unclear>נ</unclear></w> <w xml:id="beth0271-2" xml:lang="he">פש</w> <w xml:id="beth0271-3" xml:lang="he">ניחמיה</w> <w xml:id="beth0271-4" xml:lang="he"/></p>
 </div>
 </body>
       <back>

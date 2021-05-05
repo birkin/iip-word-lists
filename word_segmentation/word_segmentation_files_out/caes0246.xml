@@ -117,14 +117,13 @@
          <div type="edition" ana="#b1" subtype="transcription" xml:id="caes0246.transcription" corresp="#caes0246.translation">
             <p>Μεμόρι<lb break="no"/>ον Ἰουσ<lb break="no"/>τίνας καὶ<lb/>
 τέκνων<lb/> 
-αὐτῆς.
-</p>
+αὐτῆς.</p>
          </div>
          <div type="translation" ana="#b1" xml:id="caes0246.translation" corresp="#caes0246.transcription">
             <p>The memorial of <persName xml:lang="grc " ref="persons.xml#caes0246p01">Ioustina </persName> and her <rs type="family">children</rs>.
 				</p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="caes0246-1" xml:lang="grc">Μεμόριον</w> <w xml:id="caes0246-2" xml:lang="grc">Ἰουστίνας</w> <w xml:id="caes0246-3" xml:lang="grc">καὶ</w> <w xml:id="caes0246-4" xml:lang="grc">τέκνων</w> <w xml:id="caes0246-5" xml:lang="grc">αὐτῆς.</w> <w xml:id="caes0246-6" xml:lang="grc"/></p>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="caes0246-1" xml:lang="grc">Μεμόριον</w> <w xml:id="caes0246-2" xml:lang="grc">Ἰουστίνας</w> <w xml:id="caes0246-3" xml:lang="grc">καὶ</w> <w xml:id="caes0246-4" xml:lang="grc">τέκνων</w> <w xml:id="caes0246-5" xml:lang="grc">αὐτῆς.</w></p>
 </div>
 </body>
       <back>

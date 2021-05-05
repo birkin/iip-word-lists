@@ -110,18 +110,17 @@
    <text>
       <body>
          <div type="edition" ana="#b2" subtype="transcription" xml:id="beth0025.transcription" corresp="#beth0025.translation">
-            <p>
-               <unclear>Σαλ</unclear>
+            <p><unclear>Σαλ</unclear>
                <supplied reason="lost">όμ</supplied>
                <lb/>
-					σαλόμ </p>
+					σαλόμ</p>
          </div>
          <div type="translation" ana="#b2" xml:id="beth0025.translation" corresp="#beth0025.transcription">
             <p>
                <rs type="formula" ana="interpretations.xml#shalom">Peace, peace </rs>
             </p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="beth0025-1" xml:lang="grc"/> <w xml:id="beth0025-2" xml:lang="grc"><unclear>Σαλ</unclear></w> <w xml:id="beth0025-3" xml:lang="grc"><supplied reason="lost">όμ</supplied></w> <w xml:id="beth0025-4" xml:lang="grc">σαλόμ</w> <w xml:id="beth0025-5" xml:lang="grc"/></p>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="beth0025-1" xml:lang="grc"><unclear>Σαλ</unclear></w> <w xml:id="beth0025-2" xml:lang="grc"><supplied reason="lost">όμ</supplied></w> <w xml:id="beth0025-3" xml:lang="grc">σαλόμ</w></p>
 </div>
 </body>
       <back>

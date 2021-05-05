@@ -125,8 +125,7 @@
                 <p/>
             </div>
             <div type="edition" subtype="transcription" ana="b1" xml:lang="heb">
-                <p>
-               <gap reason="illegible" quantity="2" unit="character"/>ג
+                <p><gap reason="illegible" quantity="2" unit="character"/>ג
                         ש<unclear>יז</unclear>ף<lb/>
                <gap reason="illegible" quantity="2" unit="character"/>
             </p>
@@ -138,7 +137,7 @@
                 <p>שזיף appears in the Mishnah in its plural form: it has been identified by
                     scholars as Ziziphus jujube</p>
             </div>
-        <div type="edition" subtype="transcription_segmented"><p><w xml:id="mare0105-1" xml:lang="arc"/> <w xml:id="mare0105-2" xml:lang="arc">ג</w> <w xml:id="mare0105-3" xml:lang="arc">ש<unclear>יז</unclear>ף</w> <w xml:id="mare0105-4" xml:lang="arc"/></p>
+        <div type="edition" subtype="transcription_segmented"><p><w xml:id="mare0105-1" xml:lang="arc">ג</w> <w xml:id="mare0105-2" xml:lang="arc">ש<unclear>יז</unclear>ף</w> <w xml:id="mare0105-3" xml:lang="arc"/></p>
 </div>
 </body>
         <back>

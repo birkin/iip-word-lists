@@ -108,7 +108,7 @@
    <text>
       <body>
          <div type="edition" ana="#b2" subtype="transcription" xml:id="beth0017.transcription" corresp="#beth0017.translation">
-            <p>Εἰουλίου<lb/> Καρίδα </p>
+            <p>Εἰουλίου<lb/> Καρίδα</p>
          </div>
          <div type="translation" ana="#b2" xml:id="beth0017.translation" corresp="#beth0017.transcription">
             <p>
@@ -117,7 +117,7 @@
                </name>
             </p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="beth0017-1" xml:lang="grc">Εἰουλίου</w> <w xml:id="beth0017-2" xml:lang="grc">Καρίδα</w> <w xml:id="beth0017-3" xml:lang="grc"/></p>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="beth0017-1" xml:lang="grc">Εἰουλίου</w> <w xml:id="beth0017-2" xml:lang="grc">Καρίδα</w></p>
 </div>
 </body>
       <back>

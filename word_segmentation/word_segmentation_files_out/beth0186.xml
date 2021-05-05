@@ -119,13 +119,13 @@
    <text>
       <body>
          <div type="edition" ana="#b5" subtype="transcription" xml:id="beth0186.transcription" corresp="#beth0186.translation">
-            <p>Σωκράτους </p>
+            <p>Σωκράτους</p>
          </div>
          <div type="translation" ana="#b5" xml:id="beth0186.translation" corresp="#beth0186.transcription">
             <p>Of <persName xml:lang="grc " ref="persons.xml#beth0186p01">Socrates </persName>
             </p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="beth0186-1" xml:lang="grc">Σωκράτους</w> <w xml:id="beth0186-2" xml:lang="grc"/></p>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="beth0186-1" xml:lang="grc">Σωκράτους</w></p>
 </div>
 </body>
       <back>

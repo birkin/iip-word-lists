@@ -120,14 +120,13 @@
          <div type="edition" ana="#b1" subtype="transcription" xml:id="khis0078.transcription" corresp="#khis0078.diplomatic #khis0078.translation">
             <p>θάρσι <lb/> Ζήνων <lb/>
                <expan><abbr>ἐτ</abbr><ex>ῶν</ex></expan>
-               <num value="90"><unclear>ϙ´</unclear></num>
-            </p>
+               <num value="90"><unclear>ϙ´</unclear></num></p>
          </div>
          <div type="translation" ana="#b1" xml:id="khis0078.translation" corresp="#khis0078.diplomatic #khis0078.transcription">
             <p>Be of good courage, Zenon! Ninety years old. 
 				</p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="khis0078-1" xml:lang="grc">θάρσι</w> <w xml:id="khis0078-2" xml:lang="grc">Ζήνων</w> <w xml:id="khis0078-3" xml:lang="grc"><expan><abbr>ἐτ</abbr><ex>ῶν</ex></expan></w> <w xml:id="khis0078-4" xml:lang="grc"><num value="90"><unclear>ϙ´</unclear></num></w> <w xml:id="khis0078-5" xml:lang="grc"/></p>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="khis0078-1" xml:lang="grc">θάρσι</w> <w xml:id="khis0078-2" xml:lang="grc">Ζήνων</w> <w xml:id="khis0078-3" xml:lang="grc"><expan><abbr>ἐτ</abbr><ex>ῶν</ex></expan></w> <w xml:id="khis0078-4" xml:lang="grc"><num value="90"><unclear>ϙ´</unclear></num></w></p>
 </div>
 </body>
       <back>

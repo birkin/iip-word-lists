@@ -167,8 +167,7 @@
                 <p/>
             </div>
             <div type="edition" subtype="transcription" ana="b1" xml:lang="heb">
-                <p>
-               <unclear>נח</unclear>לא<gap reason="illegible" quantity="1" unit="character"/>
+                <p><unclear>נח</unclear>לא<gap reason="illegible" quantity="1" unit="character"/>
                     <unclear>ע</unclear>ל<unclear>יד</unclear>
                <lb/>א<unclear>כ</unclear>ל<gap reason="illegible" quantity="1" unit="character"/>נ<unclear>ק</unclear>
                <gap reason="illegible" quantity="2" unit="character"/>
@@ -183,7 +182,7 @@
             </div>
             <!-- The bibl has more contained elements. What is the possible list of values of the biblScope/@type? 
              -->
-        <div type="edition" subtype="transcription_segmented"><p><w xml:id="mare0029-1" xml:lang="arc"/> <w xml:id="mare0029-2" xml:lang="arc"><unclear>נח</unclear>לא</w> <w xml:id="mare0029-3" xml:lang="arc"><unclear>ע</unclear>ל<unclear>יד</unclear></w> <w xml:id="mare0029-4" xml:lang="arc">א<unclear>כ</unclear>לנ<unclear>ק</unclear></w> <w xml:id="mare0029-5" xml:lang="arc">כול</w> <w xml:id="mare0029-6" xml:lang="arc">א<choice><unclear>ת</unclear><unclear>ס</unclear></choice>ו<unclear>ך</unclear></w> <w xml:id="mare0029-7" xml:lang="arc"/></p>
+        <div type="edition" subtype="transcription_segmented"><p><w xml:id="mare0029-1" xml:lang="arc"><unclear>נח</unclear>לא</w> <w xml:id="mare0029-2" xml:lang="arc"><unclear>ע</unclear>ל<unclear>יד</unclear></w> <w xml:id="mare0029-3" xml:lang="arc">א<unclear>כ</unclear>לנ<unclear>ק</unclear></w> <w xml:id="mare0029-4" xml:lang="arc">כול</w> <w xml:id="mare0029-5" xml:lang="arc">א<choice><unclear>ת</unclear><unclear>ס</unclear></choice>ו<unclear>ך</unclear></w> <w xml:id="mare0029-6" xml:lang="arc"/></p>
 </div>
 </body>
         <back>

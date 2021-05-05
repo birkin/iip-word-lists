@@ -125,13 +125,12 @@
             <p>θάρσι<lb/>
                     Κύρες<lb/>
                     <orig>Ρηλ</orig><lb/>
-                    <orig>θο</orig><gap reason="lost" extent="unknown" unit="character"/>
-                </p>
+                    <orig>θο</orig><gap reason="lost" extent="unknown" unit="character"/></p>
          </div>
          <div type="translation" ana="#b1" xml:id="rafi0012.translation" corresp="#rafi0012.diplomatic #rafi0012.transcription">
             <p>Be of good courage, Kures...</p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="rafi0012-1" xml:lang="grc">θάρσι</w> <w xml:id="rafi0012-2" xml:lang="grc">Κύρες</w> <w xml:id="rafi0012-3" xml:lang="grc"><orig>Ρηλ</orig></w> <w xml:id="rafi0012-4" xml:lang="grc"><orig>θο</orig></w> <w xml:id="rafi0012-5" xml:lang="grc"/></p>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="rafi0012-1" xml:lang="grc">θάρσι</w> <w xml:id="rafi0012-2" xml:lang="grc">Κύρες</w> <w xml:id="rafi0012-3" xml:lang="grc"><orig>Ρηλ</orig></w> <w xml:id="rafi0012-4" xml:lang="grc"><orig>θο</orig></w></p>
 </div>
 </body>
       <back>

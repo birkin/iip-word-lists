@@ -122,16 +122,14 @@
    <text>
       <body>
          <div type="edition" ana="#b1" xml:lang="grc" subtype="transcription" xml:id="zoor0361.transcription" corresp="#zoor0361.translation">
-            <p>
-               <supplied reason="lost">Ἰωά</supplied>
+            <p><supplied reason="lost">Ἰωά</supplied>
                <lb/>νης<lb/>
-               <expan><abbr>διάκο</abbr><ex>νος</ex></expan>
-            </p>
+               <expan><abbr>διάκο</abbr><ex>νος</ex></expan></p>
          </div>
          <div type="translation" ana="#b1" xml:id="zoor0361.translation" corresp="#zoor0361.transcription">
             <p>Ioannes (?),<lb/>(the) deacon.</p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="fein0012-1" xml:lang="grc"/> <w xml:id="fein0012-2" xml:lang="grc"><supplied reason="lost">Ἰωά</supplied></w> <w xml:id="fein0012-3" xml:lang="grc">νης</w> <w xml:id="fein0012-4" xml:lang="grc"><expan><abbr>διάκο</abbr><ex>νος</ex></expan></w> <w xml:id="fein0012-5" xml:lang="grc"/></p>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="fein0012-1" xml:lang="grc"><supplied reason="lost">Ἰωά</supplied></w> <w xml:id="fein0012-2" xml:lang="grc">νης</w> <w xml:id="fein0012-3" xml:lang="grc"><expan><abbr>διάκο</abbr><ex>νος</ex></expan></w></p>
 </div>
 </body>
       <back>

@@ -125,8 +125,7 @@
                 <p/>
             </div>
             <div type="edition" subtype="transcription" ana="b1">
-                <p>
-               <del rend="erasure">δ</del>
+                <p><del rend="erasure">δ</del>
                <del rend="erasure">θ</del>χ</p>
             </div>
             <div type="translation" ana="b1">
@@ -136,7 +135,7 @@
                 <p>Three letters, two of which (D and Th) have been crossed out. The bowl seems to
                     have changed owners twice.</p>
             </div>
-        <div type="edition" subtype="transcription_segmented"><p><w xml:id="mare0424-1" xml:lang="grc"/> <w xml:id="mare0424-2" xml:lang="grc"><del rend="erasure">δ</del></w> <w xml:id="mare0424-3" xml:lang="grc"><del rend="erasure">θ</del>χ</w></p>
+        <div type="edition" subtype="transcription_segmented"><p><w xml:id="mare0424-1" xml:lang="grc"><del rend="erasure">δ</del></w> <w xml:id="mare0424-2" xml:lang="grc"><del rend="erasure">θ</del>χ</w></p>
 </div>
 </body>
         <back>
