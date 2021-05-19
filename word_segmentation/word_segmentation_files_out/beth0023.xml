@@ -117,8 +117,7 @@
       <body>
          <div type="edition" ana="#b3" subtype="transcription" xml:id="beth0023.transcription" corresp="#beth0023.translation">
             <p>Ἰωσὴφ <foreign xml:lang="arc-Grek">βαρ</foreign> Μο<unclear>κιμ</unclear>
-               <lb/>
-	Εἰσάκιος<lb/> υἱὼ<lb/> αὑτο<lb break="no"/>ῦ</p>
+               <lb/> Εἰσάκιος<lb/> υἱῷ<lb/> αὑτο<lb break="no"/>ῦ</p>
          </div>
          <div type="translation" ana="#b3" xml:id="beth0023.translation" corresp="#beth0023.transcription">
             <p>
@@ -128,7 +127,7 @@
                </name>, <persName xml:lang="hbo " ref="persons.xml#beth0023p03">Isaac</persName>, <rs type="family" ana="interpretations.xml#sons">his sons </rs>
             </p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="beth0023-1" xml:lang="grc">Ἰωσὴφ</w> <w xml:id="beth0023-2" xml:lang="grc"><foreign xml:lang="arc-Grek">βαρ</foreign></w> <w xml:id="beth0023-3" xml:lang="grc">Μο<unclear>κιμ</unclear></w> <w xml:id="beth0023-4" xml:lang="grc">Εἰσάκιος</w> <w xml:id="beth0023-5" xml:lang="grc">υἱὼ</w> <w xml:id="beth0023-6" xml:lang="grc">αὑτοῦ</w></p>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="beth0023-1" xml:lang="grc">Ἰωσὴφ</w> <w xml:id="beth0023-2" xml:lang="grc"><foreign xml:lang="arc-Grek">βαρ</foreign></w> <w xml:id="beth0023-3" xml:lang="grc">Μο<unclear>κιμ</unclear></w> <w xml:id="beth0023-4" xml:lang="grc">Εἰσάκιος</w> <w xml:id="beth0023-5" xml:lang="grc">υἱῷ</w> <w xml:id="beth0023-6" xml:lang="grc">αὑτοῦ</w></p>
 </div>
 </body>
       <back>

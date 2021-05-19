@@ -171,10 +171,10 @@
                 <p><gap reason="lost" quantity="1" unit="line"/>
                     <lb/>
                     <gap reason="lost" extent="unknown" unit="character"/>
-                    <gap reason="illegible" quantity="1" unit="character"/>יי<lb/>
-                    <gap reason="lost" unit="character" extent="unknown"/>שמ<lb/>
+                    <gap reason="illegible" quantity="1" unit="character"/><orig>יי</orig><lb/>
+                    <gap reason="lost" unit="character" extent="unknown"/><orig>שמ</orig><lb/>
                     <gap reason="lost" extent="unknown" unit="character"/>
-                    <unclear>מר</unclear>
+                    <orig><unclear>מר</unclear></orig>
                 </p>
             </div>
             <div type="edition" subtype="diplomatic" ana="b1" xml:lang="heb">
@@ -188,7 +188,7 @@
             </div>
             <!-- The bibl has more contained elements. What is the possible list of values of the biblScope/@type? 
              -->
-        <div type="edition" subtype="transcription_segmented"><p><w xml:id="mger0234-1" xml:lang="arc"/> <w xml:id="mger0234-2" xml:lang="arc">יי</w> <w xml:id="mger0234-3" xml:lang="arc">שמ</w> <w xml:id="mger0234-4" xml:lang="arc"><unclear>מר</unclear></w> <w xml:id="mger0234-5" xml:lang="arc"/></p>
+        <div type="edition" subtype="transcription_segmented"><p> <w xml:id="mger0234-1" xml:lang="arc"><orig>יי</orig></w> <w xml:id="mger0234-2" xml:lang="arc"><orig>שמ</orig></w> <w xml:id="mger0234-3" xml:lang="arc"><orig><unclear>מר</unclear></orig></w> </p>
 </div>
 </body>
         <back>

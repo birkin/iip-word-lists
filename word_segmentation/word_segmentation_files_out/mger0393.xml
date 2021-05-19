@@ -176,14 +176,22 @@
         <body>
             <!-- figure out how include linking mechanism to link divs to bibl.  add a ref inside an ab inside the div-->
             <div type="edition" subtype="transcription" ana="b1" xml:lang="heb">
-                <p><gap reason="lost" unit="character" extent="unknown"/> לית <g type="vertical-line">|</g> רב<gap reason="lost" unit="character" extent="unknown"/>
-               <lb/>
-                    <gap reason="lost" unit="character" extent="unknown"/>אלחר <g type="vertical-line">|</g> קד<gap reason="lost" unit="character" extent="unknown"/>
-               <lb/>
-                    <gap reason="lost" unit="character" extent="unknown"/>ליתב<unclear>ב</unclear> <g type="vertical-line">|</g> ח<gap reason="lost" unit="character" extent="unknown"/>
-               <lb/>
-                    <gap reason="lost" unit="character" extent="unknown"/>ישתבח <g type="vertical-line">|</g> <hi rend="stacked">י</hi>ס<gap reason="lost" unit="character" extent="unknown"/>
-            </p>
+                <p><gap reason="lost" unit="character" extent="unknown"/>
+                    <orig>לית</orig>
+                    <g type="vertical-line">|</g>
+                    <orig>רב</orig><gap reason="lost" unit="character" extent="unknown"/>
+                    <lb/>
+                    <gap reason="lost" unit="character" extent="unknown"/><orig>אלחר</orig>
+                    <g type="vertical-line">|</g>
+                    <orig>קד</orig><gap reason="lost" unit="character" extent="unknown"/>
+                    <lb/>
+                    <gap reason="lost" unit="character" extent="unknown"/>ל<orig>יתב<unclear>ב</unclear></orig>
+                    <g type="vertical-line">|</g>
+                    <orig>ח</orig><gap reason="lost" unit="character" extent="unknown"/>
+                    <lb/>
+                    <gap reason="lost" unit="character" extent="unknown"/>ישתבח <g type="vertical-line">|</g>
+                    <orig><hi rend="stacked">י</hi>ס</orig><gap reason="lost" unit="character" extent="unknown"/>
+                </p>
             </div>
             <div type="edition" subtype="diplomatic" ana="b1" xml:lang="heb">
                 <p/>
@@ -198,7 +206,7 @@
             </div>
             <!-- The bibl has more contained elements. What is the possible list of values of the biblScope/@type? 
              -->
-        <div type="edition" subtype="transcription_segmented"><p><w xml:id="mger0393-1" xml:lang="arc"/> <w xml:id="mger0393-2" xml:lang="arc">לית</w> <w xml:id="mger0393-3" xml:lang="arc"><g type="vertical-line">|</g></w> <w xml:id="mger0393-4" xml:lang="arc">רב</w> <w xml:id="mger0393-5" xml:lang="arc">אלחר</w> <w xml:id="mger0393-6" xml:lang="arc"><g type="vertical-line">|</g></w> <w xml:id="mger0393-7" xml:lang="arc">קד</w> <w xml:id="mger0393-8" xml:lang="arc">ליתב<unclear>ב</unclear></w> <w xml:id="mger0393-9" xml:lang="arc"><g type="vertical-line">|</g></w> <w xml:id="mger0393-10" xml:lang="arc">ח</w> <w xml:id="mger0393-11" xml:lang="arc">ישתבח</w> <w xml:id="mger0393-12" xml:lang="arc"><g type="vertical-line">|</g></w> <w xml:id="mger0393-13" xml:lang="arc"><hi rend="stacked">י</hi>ס</w> <w xml:id="mger0393-14" xml:lang="arc"/></p>
+        <div type="edition" subtype="transcription_segmented"><p> <w xml:id="mger0393-1" xml:lang="arc"><orig>לית</orig></w> <w xml:id="mger0393-2" xml:lang="arc"><g type="vertical-line">|</g></w> <w xml:id="mger0393-3" xml:lang="arc"><orig>רב</orig></w> <w xml:id="mger0393-4" xml:lang="arc"><orig>אלחר</orig></w> <w xml:id="mger0393-5" xml:lang="arc"><g type="vertical-line">|</g></w> <w xml:id="mger0393-6" xml:lang="arc"><orig>קד</orig></w> <w xml:id="mger0393-7" xml:lang="arc">ל<orig>יתב<unclear>ב</unclear></orig></w> <w xml:id="mger0393-8" xml:lang="arc"><g type="vertical-line">|</g></w> <w xml:id="mger0393-9" xml:lang="arc"><orig>ח</orig></w> <w xml:id="mger0393-10" xml:lang="arc">ישתבח</w> <w xml:id="mger0393-11" xml:lang="arc"><g type="vertical-line">|</g></w> <w xml:id="mger0393-12" xml:lang="arc"><orig><hi rend="stacked">י</hi>ס</orig></w> </p>
 </div>
 </body>
         <back>

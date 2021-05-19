@@ -128,13 +128,10 @@
                <gap reason="lost" quantity="1" unit="character"/>α</p>
             </div>
             <div type="edition" subtype="transcription" ana="b1">
-                <p>αβγδε<supplied reason="lost">ζηθ</supplied>
-               <lb/>ικλμν<supplied reason="lost">ξοπ</supplied>
-               <lb/>ρστυφ<unclear>χ</unclear>
-               <supplied reason="lost">ψω</supplied>
+                <p>αβγδε<supplied reason="lost">ζηθ</supplied><lb break="no"/>ικλμν<supplied reason="lost">ξοπ</supplied><lb break="no"/>ρστυφ<unclear>χ</unclear><supplied reason="lost">ψω</supplied>
                <lb/>Ἄρχιος<lb/>Ἄρχιος<lb/>
                <gap reason="lost" extent="unknown" unit="character"/>
-               <gap reason="illegible" quantity="1" unit="character"/>α</p>
+               <gap reason="illegible" quantity="1" unit="character"/><orig>α</orig></p>
             </div>
             <div type="translation" ana="b1">
                 <p>ABGDE[ZHTh]IKLMN[XOP]RSTYPhCh[PsiW] Archios... Archios.. a</p>
@@ -143,7 +140,7 @@
                 <p>Full alphabet followed probably by the name of the pupil who wrote the
                     exercise.</p>
             </div>
-        <div type="edition" subtype="transcription_segmented"><p><w xml:id="mare0182-1" xml:lang="grc">αβγδε<supplied reason="lost">ζηθ</supplied></w> <w xml:id="mare0182-2" xml:lang="grc">ικλμν<supplied reason="lost">ξοπ</supplied></w> <w xml:id="mare0182-3" xml:lang="grc">ρστυφ<unclear>χ</unclear></w> <w xml:id="mare0182-4" xml:lang="grc"><supplied reason="lost">ψω</supplied></w> <w xml:id="mare0182-5" xml:lang="grc">Ἄρχιος</w> <w xml:id="mare0182-6" xml:lang="grc">Ἄρχιος</w> <w xml:id="mare0182-7" xml:lang="grc">α</w></p>
+        <div type="edition" subtype="transcription_segmented"><p><w xml:id="mare0182-1" xml:lang="grc">αβγδε<supplied reason="lost">ζηθ</supplied>ικλμν<supplied reason="lost">ξοπ</supplied>ρστυφ<unclear>χ</unclear><supplied reason="lost">ψω</supplied></w> <w xml:id="mare0182-2" xml:lang="grc">Ἄρχιος</w> <w xml:id="mare0182-3" xml:lang="grc">Ἄρχιος</w> <w xml:id="mare0182-4" xml:lang="grc"><orig>α</orig></w></p>
 </div>
 </body>
         <back>

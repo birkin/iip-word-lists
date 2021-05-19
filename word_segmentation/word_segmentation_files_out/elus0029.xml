@@ -114,7 +114,7 @@
                <lb/>
                <gap reason="lost" unit="character" extent="unknown"/><orig>Κ</orig><gap reason="illegible" quantity="1" unit="character"/><gap reason="lost" unit="character" extent="unknown"/></p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="elus0029-1" xml:lang="grc"/> <w xml:id="elus0029-2" xml:lang="grc"><orig>Κ</orig></w></p>
+      <div type="edition" subtype="transcription_segmented"><p> <w xml:id="elus0029-1" xml:lang="grc"><orig>Κ</orig></w> </p>
 </div>
 </body>
       <back>

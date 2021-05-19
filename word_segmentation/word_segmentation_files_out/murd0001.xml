@@ -134,7 +134,7 @@
             <div type="commentary">
                 <p/>
             </div>
-        <div type="edition" subtype="transcription_segmented"><p><w xml:id="murd0001-1" xml:lang="grc"/> <w xml:id="murd0001-2" xml:lang="grc"><expan><abbr>Κ</abbr><ex>ύρι</ex><abbr>ε</abbr></expan></w> <w xml:id="murd0001-3" xml:lang="grc"><orig>ΡΙΑ</orig></w> <w xml:id="murd0001-4" xml:lang="grc"><orig>Θ</orig></w> <w xml:id="murd0001-5" xml:lang="grc"><orig>ΓΗ</orig></w></p>
+        <div type="edition" subtype="transcription_segmented"><p> <w xml:id="murd0001-1" xml:lang="grc"><expan><abbr>Κ</abbr><ex>ύρι</ex><abbr>ε</abbr></expan></w> <w xml:id="murd0001-2" xml:lang="grc"><orig>ΡΙΑ</orig></w> <w xml:id="murd0001-3" xml:lang="grc"><orig>Θ</orig></w> <w xml:id="murd0001-4" xml:lang="grc"><orig>ΓΗ</orig></w> </p>
 </div>
 </body>
         <back>

@@ -177,11 +177,10 @@
             </div>
             <div type="edition" subtype="transcription" ana="b1" xml:lang="heb">
                 <p><gap reason="lost" extent="unknown" unit="character"/>
-               <gap reason="illegible" quantity="1" unit="character"/>ניה בלעה מנ שכם
-                        ה<unclear>ק</unclear>
-               <supplied reason="lost">רב</supplied>
-               <gap reason="lost" extent="unknown" unit="character"/>
-            </p>
+                    <gap reason="illegible" quantity="1" unit="character"/><orig>ניה</orig> בלעה מן
+                    שכם ה<unclear>ק</unclear><supplied reason="lost">רב</supplied>
+                    <gap reason="lost" extent="unknown" unit="character"/>
+                </p>
             </div>
             <div type="translation" ana="b1">
                 <p>...]○nyh Bl‘’ from Shechem offe[red...</p>
@@ -201,7 +200,7 @@
             </div>
             <!-- The bibl has more contained elements. What is the possible list of values of the biblScope/@type? 
              -->
-        <div type="edition" subtype="transcription_segmented"><p><w xml:id="mger0012-1" xml:lang="arc"/> <w xml:id="mger0012-2" xml:lang="arc">ניה</w> <w xml:id="mger0012-3" xml:lang="arc">בלעה</w> <w xml:id="mger0012-4" xml:lang="arc">מנ</w> <w xml:id="mger0012-5" xml:lang="arc">שכם</w> <w xml:id="mger0012-6" xml:lang="arc">ה<unclear>ק</unclear></w> <w xml:id="mger0012-7" xml:lang="arc"><supplied reason="lost">רב</supplied></w> <w xml:id="mger0012-8" xml:lang="arc"/></p>
+        <div type="edition" subtype="transcription_segmented"><p> <w xml:id="mger0012-1" xml:lang="arc"><orig>ניה</orig></w> <w xml:id="mger0012-2" xml:lang="arc">בלעה</w> <w xml:id="mger0012-3" xml:lang="arc">מן</w> <w xml:id="mger0012-4" xml:lang="arc">שכם</w> <w xml:id="mger0012-5" xml:lang="arc">ה<unclear>ק</unclear><supplied reason="lost">רב</supplied></w> </p>
 </div>
 </body>
         <back>

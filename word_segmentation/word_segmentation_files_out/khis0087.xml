@@ -116,17 +116,16 @@
    </facsimile>
    <text>
       <body>
-         <div type="edition" ana="#b1" subtype="diplomatic" xml:id="khis0087.diplomatic" corresp="#khis0087.transcription #khis0087.translation"/>
+         <div type="edition" ana="#b1" subtype="diplomatic" xml:id="khis0087.diplomatic" corresp="#khis0087.transcription #khis0087.translation">
+         <p>ΣΑΝΕΘΗΚΕΝ</p></div>
          <div type="edition" ana="#b1" subtype="transcription" xml:id="khis0087.transcription" corresp="#khis0087.diplomatic #khis0087.translation">
-            <p><orig>σανεθηκεν</orig>
-               <lb/>
-               <gap reason="illegible" quantity="3" unit="character"/>ς ἀνέθηκεν</p>
+            <p><lb/><gap reason="illegible" quantity="3" unit="character"/><orig>ς</orig> ἀνέθηκεν</p>
          </div>
          <div type="translation" ana="#b1" xml:id="khis0087.translation" corresp="#khis0087.diplomatic #khis0087.transcription">
             <p>...s erected (this)
 				</p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="khis0087-1" xml:lang="grc"><orig>σανεθηκεν</orig></w> <w xml:id="khis0087-2" xml:lang="grc">ς</w> <w xml:id="khis0087-3" xml:lang="grc">ἀνέθηκεν</w></p>
+      <div type="edition" subtype="transcription_segmented"><p> <w xml:id="khis0087-1" xml:lang="grc"><orig>ς</orig></w> <w xml:id="khis0087-2" xml:lang="grc">ἀνέθηκεν</w></p>
 </div>
 </body>
       <back>

@@ -132,12 +132,12 @@
    <text>
       <body>
          <div type="edition" ana="#b1" xml:lang="grc" subtype="transcription" xml:id="jeru0033.transcription" corresp="#jeru0033.translation">
-            <p>Ποπέλι<lb/>Ἰωσῆς<lb/>Ἰησοῦς<lb/>Ποπέλι<lb/>Ἰωσῆς<lb/>Ε</p>
+            <p>Ποπέλι<lb/>Ἰωσῆς<lb/>Ἰησοῦς<lb/>Ποπέλι<lb/>Ἰωσῆς<lb/><orig>Ε</orig></p>
          </div>
          <div type="translation" ana="#b1" xml:id="jeru0033.translation" corresp="#jeru0033.transcription">
             <p>Popeli(a) (=Popilia), Joses, Jesus. Popeli(a) (=Popilia), Joses, E.</p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="jeru0033-1" xml:lang="grc">Ποπέλι</w> <w xml:id="jeru0033-2" xml:lang="grc">Ἰωσῆς</w> <w xml:id="jeru0033-3" xml:lang="grc">Ἰησοῦς</w> <w xml:id="jeru0033-4" xml:lang="grc">Ποπέλι</w> <w xml:id="jeru0033-5" xml:lang="grc">Ἰωσῆς</w> <w xml:id="jeru0033-6" xml:lang="grc">Ε</w></p>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="jeru0033-1" xml:lang="grc">Ποπέλι</w> <w xml:id="jeru0033-2" xml:lang="grc">Ἰωσῆς</w> <w xml:id="jeru0033-3" xml:lang="grc">Ἰησοῦς</w> <w xml:id="jeru0033-4" xml:lang="grc">Ποπέλι</w> <w xml:id="jeru0033-5" xml:lang="grc">Ἰωσῆς</w> <w xml:id="jeru0033-6" xml:lang="grc"><orig>Ε</orig></w></p>
 </div>
 </body>
       <back>

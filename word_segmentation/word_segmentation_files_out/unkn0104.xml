@@ -167,17 +167,17 @@
                 <p/>
             </div>
             <div type="edition" subtype="transcription" ana="b1" xml:lang="heb">
-                <p><lb/>תליתא שנת 12 <expan><ex>13</ex></expan>
-               <gap reason="lost" unit="character" extent="unknown"/>
-               <lb/> יהבת לבית קרנים 1 <gap reason="lost" unit="character" extent="unknown"/>
-               <lb/>אחרן יום שבתא 29
-                    תשרי<lb/>יהבת להן דבלא 1<lb/>אחרן יום שבתא 13 למרחשון<lb/>יהבת להן דבלא
-                    1<lb/>אחרן יום חד בשבה<lb/>14 בה למרשא<lb/>יהבת להן דבלא 1<lb/>
-               <supplied reason="lost">ליתמ</supplied>ה בקפה 1 בבית קרנים<lb/>אחרן
+                <p><lb/>תליתא שנת <num><choice><unclear>12</unclear><unclear>13</unclear></choice></num>
+                    <gap reason="lost" unit="character" extent="unknown"/>
+                    <lb/> יהבת לבית קרנים <num>1</num>
+                    <gap reason="lost" unit="character" extent="unknown"/>
+                    <lb/>אחרן יום שבתא <num>29</num> תשרי<lb/>יהבת להן דבלא <num>1</num><lb/>אחרן
+                    יום שבתא <num>13</num> למרחשון<lb/>יהבת להן דבלא <num>1</num><lb/>אחרן יום חד
+                        בשבה<lb/><num>14</num> בה למרשא<lb/>יהבת להן דבלא <num>1</num><lb/>
+                    <supplied reason="lost">ליתמ</supplied>ה בקפה <num>1</num> בבית קרנים<lb/>אחרן
                         לי<unclear>ת</unclear>
-               <unclear>ת</unclear>
-               <unclear>מ</unclear>ה בקפא
-                    1<lb/>כלא דבלין 13</p>
+                    <unclear>ת</unclear>
+                    <unclear>מ</unclear>ה בקפא <num>1</num><lb/>כלא דבלין <num>13</num></p>
             </div>
             <div type="translation" ana="b1">
                 <p>
@@ -194,7 +194,7 @@
             </div>
             <!-- The bibl has more contained elements. What is the possible list of values of the biblScope/@type? 
              -->
-        <div type="edition" subtype="transcription_segmented"><p><w xml:id="unkn0104-1" xml:lang="arc"/> <w xml:id="unkn0104-2" xml:lang="arc">תליתא</w> <w xml:id="unkn0104-3" xml:lang="arc">שנת</w> <w xml:id="unkn0104-4" xml:lang="arc">12</w> <w xml:id="unkn0104-5" xml:lang="arc"><expan><ex>13</ex></expan></w> <w xml:id="unkn0104-6" xml:lang="arc">יהבת</w> <w xml:id="unkn0104-7" xml:lang="arc">לבית</w> <w xml:id="unkn0104-8" xml:lang="arc">קרנים</w> <w xml:id="unkn0104-9" xml:lang="arc">1</w> <w xml:id="unkn0104-10" xml:lang="arc">אחרן</w> <w xml:id="unkn0104-11" xml:lang="arc">יום</w> <w xml:id="unkn0104-12" xml:lang="arc">שבתא</w> <w xml:id="unkn0104-13" xml:lang="arc">29</w> <w xml:id="unkn0104-14" xml:lang="arc">תשרי</w> <w xml:id="unkn0104-15" xml:lang="arc">יהבת</w> <w xml:id="unkn0104-16" xml:lang="arc">להן</w> <w xml:id="unkn0104-17" xml:lang="arc">דבלא</w> <w xml:id="unkn0104-18" xml:lang="arc">1</w> <w xml:id="unkn0104-19" xml:lang="arc">אחרן</w> <w xml:id="unkn0104-20" xml:lang="arc">יום</w> <w xml:id="unkn0104-21" xml:lang="arc">שבתא</w> <w xml:id="unkn0104-22" xml:lang="arc">13</w> <w xml:id="unkn0104-23" xml:lang="arc">למרחשון</w> <w xml:id="unkn0104-24" xml:lang="arc">יהבת</w> <w xml:id="unkn0104-25" xml:lang="arc">להן</w> <w xml:id="unkn0104-26" xml:lang="arc">דבלא</w> <w xml:id="unkn0104-27" xml:lang="arc">1</w> <w xml:id="unkn0104-28" xml:lang="arc">אחרן</w> <w xml:id="unkn0104-29" xml:lang="arc">יום</w> <w xml:id="unkn0104-30" xml:lang="arc">חד</w> <w xml:id="unkn0104-31" xml:lang="arc">בשבה</w> <w xml:id="unkn0104-32" xml:lang="arc">14</w> <w xml:id="unkn0104-33" xml:lang="arc">בה</w> <w xml:id="unkn0104-34" xml:lang="arc">למרשא</w> <w xml:id="unkn0104-35" xml:lang="arc">יהבת</w> <w xml:id="unkn0104-36" xml:lang="arc">להן</w> <w xml:id="unkn0104-37" xml:lang="arc">דבלא</w> <w xml:id="unkn0104-38" xml:lang="arc">1</w> <w xml:id="unkn0104-39" xml:lang="arc"><supplied reason="lost">ליתמ</supplied>ה</w> <w xml:id="unkn0104-40" xml:lang="arc">בקפה</w> <w xml:id="unkn0104-41" xml:lang="arc">1</w> <w xml:id="unkn0104-42" xml:lang="arc">בבית</w> <w xml:id="unkn0104-43" xml:lang="arc">קרנים</w> <w xml:id="unkn0104-44" xml:lang="arc">אחרן</w> <w xml:id="unkn0104-45" xml:lang="arc">לי<unclear>ת</unclear></w> <w xml:id="unkn0104-46" xml:lang="arc"><unclear>ת</unclear></w> <w xml:id="unkn0104-47" xml:lang="arc"><unclear>מ</unclear>ה</w> <w xml:id="unkn0104-48" xml:lang="arc">בקפא</w> <w xml:id="unkn0104-49" xml:lang="arc">1</w> <w xml:id="unkn0104-50" xml:lang="arc">כלא</w> <w xml:id="unkn0104-51" xml:lang="arc">דבלין</w> <w xml:id="unkn0104-52" xml:lang="arc">13</w></p>
+        <div type="edition" subtype="transcription_segmented"><p> <w xml:id="unkn0104-1" xml:lang="arc">תליתא</w> <w xml:id="unkn0104-2" xml:lang="arc">שנת</w> <w xml:id="unkn0104-3" xml:lang="arc"><num><choice><unclear>12</unclear><unclear>13</unclear></choice></num></w> <w xml:id="unkn0104-4" xml:lang="arc">יהבת</w> <w xml:id="unkn0104-5" xml:lang="arc">לבית</w> <w xml:id="unkn0104-6" xml:lang="arc">קרנים</w> <w xml:id="unkn0104-7" xml:lang="arc"><num>1</num></w> <w xml:id="unkn0104-8" xml:lang="arc">אחרן</w> <w xml:id="unkn0104-9" xml:lang="arc">יום</w> <w xml:id="unkn0104-10" xml:lang="arc">שבתא</w> <w xml:id="unkn0104-11" xml:lang="arc"><num>29</num></w> <w xml:id="unkn0104-12" xml:lang="arc">תשרי</w> <w xml:id="unkn0104-13" xml:lang="arc">יהבת</w> <w xml:id="unkn0104-14" xml:lang="arc">להן</w> <w xml:id="unkn0104-15" xml:lang="arc">דבלא</w> <w xml:id="unkn0104-16" xml:lang="arc"><num>1</num></w> <w xml:id="unkn0104-17" xml:lang="arc">אחרן</w> <w xml:id="unkn0104-18" xml:lang="arc">יום</w> <w xml:id="unkn0104-19" xml:lang="arc">שבתא</w> <w xml:id="unkn0104-20" xml:lang="arc"><num>13</num></w> <w xml:id="unkn0104-21" xml:lang="arc">למרחשון</w> <w xml:id="unkn0104-22" xml:lang="arc">יהבת</w> <w xml:id="unkn0104-23" xml:lang="arc">להן</w> <w xml:id="unkn0104-24" xml:lang="arc">דבלא</w> <w xml:id="unkn0104-25" xml:lang="arc"><num>1</num></w> <w xml:id="unkn0104-26" xml:lang="arc">אחרן</w> <w xml:id="unkn0104-27" xml:lang="arc">יום</w> <w xml:id="unkn0104-28" xml:lang="arc">חד</w> <w xml:id="unkn0104-29" xml:lang="arc">בשבה</w> <w xml:id="unkn0104-30" xml:lang="arc"><num>14</num></w> <w xml:id="unkn0104-31" xml:lang="arc">בה</w> <w xml:id="unkn0104-32" xml:lang="arc">למרשא</w> <w xml:id="unkn0104-33" xml:lang="arc">יהבת</w> <w xml:id="unkn0104-34" xml:lang="arc">להן</w> <w xml:id="unkn0104-35" xml:lang="arc">דבלא</w> <w xml:id="unkn0104-36" xml:lang="arc"><num>1</num></w> <w xml:id="unkn0104-37" xml:lang="arc"><supplied reason="lost">ליתמ</supplied>ה</w> <w xml:id="unkn0104-38" xml:lang="arc">בקפה</w> <w xml:id="unkn0104-39" xml:lang="arc"><num>1</num></w> <w xml:id="unkn0104-40" xml:lang="arc">בבית</w> <w xml:id="unkn0104-41" xml:lang="arc">קרנים</w> <w xml:id="unkn0104-42" xml:lang="arc">אחרן</w> <w xml:id="unkn0104-43" xml:lang="arc">לי<unclear>ת</unclear></w> <w xml:id="unkn0104-44" xml:lang="arc"><unclear>ת</unclear></w> <w xml:id="unkn0104-45" xml:lang="arc"><unclear>מ</unclear>ה</w> <w xml:id="unkn0104-46" xml:lang="arc">בקפא</w> <w xml:id="unkn0104-47" xml:lang="arc"><num>1</num></w> <w xml:id="unkn0104-48" xml:lang="arc">כלא</w> <w xml:id="unkn0104-49" xml:lang="arc">דבלין</w> <w xml:id="unkn0104-50" xml:lang="arc"><num>13</num></w></p>
 </div>
 </body>
         <back>

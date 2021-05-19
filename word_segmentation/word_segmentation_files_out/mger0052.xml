@@ -176,9 +176,9 @@
             </div>
             <div type="edition" subtype="transcription" ana="b1" xml:lang="heb">
                 <p><gap reason="lost" extent="unknown" unit="character"/>
-               <unclear>י</unclear>הוספ <supplied reason="lost" cert="low">ג</supplied>
-               <gap reason="lost" extent="unknown" unit="character"/>
-            </p>
+                    <unclear>י</unclear>הוסף <orig><supplied reason="lost" cert="low">ג</supplied></orig>
+                    <gap reason="lost" extent="unknown" unit="character"/>
+                </p>
             </div>
             <div type="translation" ana="b1">
                 <p>...] Yehosef g/y[...</p>
@@ -189,7 +189,7 @@
             </div>
             <!-- The bibl has more contained elements. What is the possible list of values of the biblScope/@type? 
              -->
-        <div type="edition" subtype="transcription_segmented"><p><w xml:id="mger0052-1" xml:lang="arc"/> <w xml:id="mger0052-2" xml:lang="arc"><unclear>י</unclear>הוספ</w> <w xml:id="mger0052-3" xml:lang="arc"><supplied reason="lost" cert="low">ג</supplied></w> <w xml:id="mger0052-4" xml:lang="arc"/></p>
+        <div type="edition" subtype="transcription_segmented"><p> <w xml:id="mger0052-1" xml:lang="arc"><unclear>י</unclear>הוסף</w> <w xml:id="mger0052-2" xml:lang="arc"><orig><supplied reason="lost" cert="low">ג</supplied></orig></w> </p>
 </div>
 </body>
         <back>

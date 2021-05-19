@@ -116,7 +116,7 @@
                     <gap reason="lost" unit="character" extent="unknown"/>
             </p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="jeru0090-1" xml:lang="arc"/> <w xml:id="jeru0090-2" xml:lang="arc">יה</w> <w xml:id="jeru0090-3" xml:lang="arc">בר</w> <w xml:id="jeru0090-4" xml:lang="arc"/></p>
+      <div type="edition" subtype="transcription_segmented"><p> <w xml:id="jeru0090-1" xml:lang="arc">יה</w> <w xml:id="jeru0090-2" xml:lang="arc">בר</w> </p>
 </div>
 </body>
       <back>

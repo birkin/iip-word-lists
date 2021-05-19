@@ -136,7 +136,7 @@
                <gap reason="illegible" quantity="1" unit="character"/> ל <gap reason="illegible" quantity="1" unit="character"/>
             </p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="jeru0072-1" xml:lang="arc"/> <w xml:id="jeru0072-2" xml:lang="arc">ל</w> <w xml:id="jeru0072-3" xml:lang="arc">ל</w> <w xml:id="jeru0072-4" xml:lang="arc">ל</w> <w xml:id="jeru0072-5" xml:lang="arc"/></p>
+      <div type="edition" subtype="transcription_segmented"><p> <w xml:id="jeru0072-1" xml:lang="arc">ל</w> <w xml:id="jeru0072-2" xml:lang="arc">ל</w> <w xml:id="jeru0072-3" xml:lang="arc">ל</w> </p>
 </div>
 </body>
       <back>

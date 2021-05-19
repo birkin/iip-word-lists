@@ -116,17 +116,16 @@
    <text>
       <body>
          <div type="edition" ana="#b2" subtype="transcription" xml:id="beth0140.transcription" corresp="#beth0140.translation">
-            <p>Ἰ<unclear>εσ</unclear>
-               <supplied reason="lost">ο</supplied>ύου<lb/> Ἰαμουρί<lb break="no"/><supplied reason="lost">τ</supplied>ης</p>
+            <p>Ἰ<unclear>εσ</unclear><supplied reason="lost">ο</supplied>ύου<lb/> Ἰαμουρί<lb break="no"/><supplied reason="lost">τ</supplied>ης</p>
          </div>
          <div type="translation" ana="#b2" xml:id="beth0140.translation" corresp="#beth0140.transcription">
             <p>
-               <persName xml:lang="hbo " ref="persons.xml#beth0140p01">Jesus </persName> from <rs type="ethnicon" ana="interpretations.xml#Yahmur">
+               <persName xml:lang="hbo " ref="persons.xml#beth0140p01">Jesus</persName> from <rs type="ethnicon" ana="interpretations.xml#Yahmur">
                   <placeName>Yahmur</placeName>
                </rs>
             </p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="beth0140-1" xml:lang="grc">Ἰ<unclear>εσ</unclear></w> <w xml:id="beth0140-2" xml:lang="grc"><supplied reason="lost">ο</supplied>ύου</w> <w xml:id="beth0140-3" xml:lang="grc">Ἰαμουρί<supplied reason="lost">τ</supplied>ης</w></p>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="beth0140-1" xml:lang="grc">Ἰ<unclear>εσ</unclear><supplied reason="lost">ο</supplied>ύου</w> <w xml:id="beth0140-2" xml:lang="grc">Ἰαμουρί<supplied reason="lost">τ</supplied>ης</w></p>
 </div>
 </body>
       <back>

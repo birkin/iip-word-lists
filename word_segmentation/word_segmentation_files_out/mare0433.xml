@@ -122,7 +122,7 @@
                 <p/>
             </div>
             <div type="edition" subtype="transcription" ana="b1">
-                <p><unclear>α</unclear><hi rend="ligature">πο</hi></p>
+                <p><orig><unclear>α</unclear><hi rend="ligature">πο</hi></orig></p>
             </div>
             <div type="translation" ana="b1">
                 <p>Apo...</p>
@@ -130,7 +130,7 @@
             <div type="commentary">
                 <p/>
             </div>
-        <div type="edition" subtype="transcription_segmented"><p><w xml:id="mare0433-1" xml:lang="grc"><unclear>α</unclear><hi rend="ligature">πο</hi></w></p>
+        <div type="edition" subtype="transcription_segmented"><p><w xml:id="mare0433-1" xml:lang="grc"><orig><unclear>α</unclear><hi rend="ligature">πο</hi></orig></w></p>
 </div>
 </body>
         <back>

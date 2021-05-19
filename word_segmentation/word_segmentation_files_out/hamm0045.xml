@@ -121,13 +121,12 @@
 </p>
          </div>
          <div type="edition" ana="#b1" subtype="transcription" xml:id="hamm0045.transcription" corresp="#hamm0045.diplomatic #hamm0045.translation">
-            <p>Μονόφω<lb/>
-νος.</p>
+            <p>Μονόφω<lb break="no"/>νος.</p>
          </div>
          <div type="translation" ana="#b1" xml:id="hamm0045.translation" corresp="#hamm0045.diplomatic #hamm0045.transcription">
             <p>Single-toned.</p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="hamm0045-1" xml:lang="grc">Μονόφω</w> <w xml:id="hamm0045-2" xml:lang="grc">νος.</w></p>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="hamm0045-1" xml:lang="grc">Μονόφωνος.</w></p>
 </div>
 </body>
       <back>

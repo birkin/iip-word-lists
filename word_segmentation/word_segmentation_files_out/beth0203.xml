@@ -117,8 +117,7 @@
    <text>
       <body>
          <div type="edition" ana="#b5" subtype="transcription" xml:id="beth0203.transcription" corresp="#beth0203.translation">
-            <p>Ῥὶβ Σουμ<lb/> ωῆλος συσ<lb/>
-               <expan><abbr>τέλλον</abbr><ex>τος</ex></expan> καὶ<lb/> Ἰούδα <expan><abbr>κοιμ</abbr><ex>ῶντος</ex></expan></p>
+            <p>Ῥὶβ Σουμ<lb break="no"/>ωῆλος <expan><abbr>συσ<lb break="no"/>τέλλον</abbr><ex>τος</ex></expan> καὶ<lb/> Ἰούδα <expan><abbr>κοιμ</abbr><ex>ῶντος</ex></expan></p>
          </div>
          <div type="translation" ana="#b5" xml:id="beth0203.translation" corresp="#beth0203.transcription">
             <p>
@@ -128,7 +127,7 @@
 					dead) </rs> and <persName xml:lang="hbo " ref="persons.xml#beth0203p02">Judah </persName>
                <rs type="religTitle" ana="interpretations.xml#koimontos">who lays out the corpse</rs>.</p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="beth0203-1" xml:lang="grc">Ῥὶβ</w> <w xml:id="beth0203-2" xml:lang="grc">Σουμ</w> <w xml:id="beth0203-3" xml:lang="grc">ωῆλος</w> <w xml:id="beth0203-4" xml:lang="grc">συσ</w> <w xml:id="beth0203-5" xml:lang="grc"><expan><abbr>τέλλον</abbr><ex>τος</ex></expan></w> <w xml:id="beth0203-6" xml:lang="grc">καὶ</w> <w xml:id="beth0203-7" xml:lang="grc">Ἰούδα</w> <w xml:id="beth0203-8" xml:lang="grc"><expan><abbr>κοιμ</abbr><ex>ῶντος</ex></expan></w></p>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="beth0203-1" xml:lang="grc">Ῥὶβ</w> <w xml:id="beth0203-2" xml:lang="grc">Σουμωῆλος</w> <w xml:id="beth0203-3" xml:lang="grc"><expan><abbr>συστέλλον</abbr><ex>τος</ex></expan></w> <w xml:id="beth0203-4" xml:lang="grc">καὶ</w> <w xml:id="beth0203-5" xml:lang="grc">Ἰούδα</w> <w xml:id="beth0203-6" xml:lang="grc"><expan><abbr>κοιμ</abbr><ex>ῶντος</ex></expan></w></p>
 </div>
 </body>
       <back>

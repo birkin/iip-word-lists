@@ -126,7 +126,9 @@
             </p>
             </div>
             <div type="edition" subtype="transcription" ana="b1">
-                <p>β <expan><abbr>κ</abbr><ex>άβοι</ex></expan> δ <gap reason="lost" extent="unknown" unit="character"/></p>
+                <p><num value="2">β</num> <expan><abbr>κ</abbr><ex>άβοι</ex></expan>
+                    <orig>δ</orig>
+                    <gap reason="lost" extent="unknown" unit="character"/></p>
             </div>
             <div type="translation" ana="b1">
                 <p>Two qab of ….</p>
@@ -134,7 +136,7 @@
             <div type="commentary" ana="b1">
                 <p/>
             </div>
-        <div type="edition" subtype="transcription_segmented"><p><w xml:id="mare0198-1" xml:lang="grc">β</w> <w xml:id="mare0198-2" xml:lang="grc"><expan><abbr>κ</abbr><ex>άβοι</ex></expan></w> <w xml:id="mare0198-3" xml:lang="grc">δ</w> <w xml:id="mare0198-4" xml:lang="grc"/></p>
+        <div type="edition" subtype="transcription_segmented"><p><w xml:id="mare0198-1" xml:lang="grc"><num value="2">β</num></w> <w xml:id="mare0198-2" xml:lang="grc"><expan><abbr>κ</abbr><ex>άβοι</ex></expan></w> <w xml:id="mare0198-3" xml:lang="grc"><orig>δ</orig></w> </p>
 </div>
 </body>
         <back>

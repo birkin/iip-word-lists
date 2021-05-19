@@ -110,7 +110,7 @@
          <div type="edition" ana="#b1" xml:lang="grc" subtype="transcription" xml:id="elus0091.transcription">
             <p><gap reason="lost" unit="character" extent="unknown"/><orig>Σ</orig></p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="elus0091-1" xml:lang="grc"><orig>Σ</orig></w></p>
+      <div type="edition" subtype="transcription_segmented"><p> <w xml:id="elus0091-1" xml:lang="grc"><orig>Σ</orig></w></p>
 </div>
 </body>
       <back>

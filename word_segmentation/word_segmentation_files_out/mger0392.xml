@@ -170,16 +170,22 @@
             <!-- figure out how include linking mechanism to link divs to bibl.  add a ref inside an ab inside the div-->
             <div type="edition" subtype="transcription" ana="b1" xml:lang="heb">
                 <p><lb/>
-               <gap reason="lost" unit="character" extent="unknown"/>
-                    <gap reason="lost" unit="character" extent="unknown"/>ר <g type="vertical-line">|</g> לט<gap reason="lost" unit="character" extent="unknown"/>
-               <gap reason="lost" unit="character" extent="unknown"/>
-               <lb/>
-                    <gap reason="lost" unit="character" extent="unknown"/>ביר <g type="vertical-line">|</g> <gap reason="lost" unit="character" extent="unknown"/>
-               <gap reason="lost" unit="character" extent="unknown"/>
-               <lb/>
-                    <gap reason="lost" unit="character" extent="unknown"/>א <g type="vertical-line">|</g> <gap reason="lost" unit="character" extent="unknown"/>
-               <gap reason="lost" unit="character" extent="unknown"/>
-            </p>
+                    <gap reason="lost" unit="character" extent="unknown"/>
+                    <gap reason="lost" unit="character" extent="unknown"/><orig>ר</orig>
+                    <g type="vertical-line">|</g>
+                    <orig>לט</orig><gap reason="lost" unit="character" extent="unknown"/>
+                    <gap reason="lost" unit="character" extent="unknown"/>
+                    <lb/>
+                    <gap reason="lost" unit="character" extent="unknown"/><orig>ביר</orig>
+                    <g type="vertical-line">|</g>
+                    <gap reason="lost" unit="character" extent="unknown"/>
+                    <gap reason="lost" unit="character" extent="unknown"/>
+                    <lb/>
+                    <gap reason="lost" unit="character" extent="unknown"/><orig>א</orig>
+                    <g type="vertical-line">|</g>
+                    <gap reason="lost" unit="character" extent="unknown"/>
+                    <gap reason="lost" unit="character" extent="unknown"/>
+                </p>
             </div>
             <div type="edition" subtype="diplomatic" ana="b1" xml:lang="heb">
                 <p/>
@@ -192,7 +198,7 @@
             </div>
             <!-- The bibl has more contained elements. What is the possible list of values of the biblScope/@type? 
              -->
-        <div type="edition" subtype="transcription_segmented"><p><w xml:id="mger0392-1" xml:lang="arc"/> <w xml:id="mger0392-2" xml:lang="arc">ר</w> <w xml:id="mger0392-3" xml:lang="arc"><g type="vertical-line">|</g></w> <w xml:id="mger0392-4" xml:lang="arc">לט</w> <w xml:id="mger0392-5" xml:lang="arc">ביר</w> <w xml:id="mger0392-6" xml:lang="arc"><g type="vertical-line">|</g></w> <w xml:id="mger0392-7" xml:lang="arc">א</w> <w xml:id="mger0392-8" xml:lang="arc"><g type="vertical-line">|</g></w> <w xml:id="mger0392-9" xml:lang="arc"/></p>
+        <div type="edition" subtype="transcription_segmented"><p> <w xml:id="mger0392-1" xml:lang="arc"><orig>ר</orig></w> <w xml:id="mger0392-2" xml:lang="arc"><g type="vertical-line">|</g></w> <w xml:id="mger0392-3" xml:lang="arc"><orig>לט</orig></w> <w xml:id="mger0392-4" xml:lang="arc"><orig>ביר</orig></w> <w xml:id="mger0392-5" xml:lang="arc"><g type="vertical-line">|</g></w> <w xml:id="mger0392-6" xml:lang="arc"><orig>א</orig></w> <w xml:id="mger0392-7" xml:lang="arc"><g type="vertical-line">|</g></w> </p>
 </div>
 </body>
         <back>

@@ -144,7 +144,7 @@
             <div type="commentary" ana="b1">
                 <p>The last letter of "Paul" is replaced by the mark "/", which may have signified either an abbreviation mark or a word divider.</p>
             </div>
-        <div type="edition" subtype="transcription_segmented"><p><w xml:id="caes0421-1" xml:lang="grc">Εὐλογία</w> <w xml:id="caes0421-2" xml:lang="grc">Κ<supplied reason="omitted">υρίο</supplied>υ</w> <w xml:id="caes0421-3" xml:lang="grc"><choice><sic>ἐπ᾽</sic><corr>ἐφ᾽</corr></choice></w> <w xml:id="caes0421-4" xml:lang="grc">ἡμᾶ<supplied reason="lost">ς</supplied></w> <w xml:id="caes0421-5" xml:lang="grc"><supplied reason="lost">καὶ</supplied></w> <w xml:id="caes0421-6" xml:lang="grc"><supplied reason="lost">τοῦ</supplied></w> <w xml:id="caes0421-7" xml:lang="grc"><supplied reason="lost">ἁγὶου</supplied></w> <w xml:id="caes0421-8" xml:lang="grc"><supplied reason="lost">Π</supplied>αύλο<supplied reason="omitted">υ</supplied></w></p>
+        <div type="edition" subtype="transcription_segmented"><p> <w xml:id="caes0421-1" xml:lang="grc">Εὐλογία</w> <w xml:id="caes0421-2" xml:lang="grc">Κ<supplied reason="omitted">υρίο</supplied>υ</w> <w xml:id="caes0421-3" xml:lang="grc"><choice><sic>ἐπ᾽</sic><corr>ἐφ᾽</corr></choice></w> <w xml:id="caes0421-4" xml:lang="grc">ἡμᾶ<supplied reason="lost">ς</supplied></w> <w xml:id="caes0421-5" xml:lang="grc"><supplied reason="lost">καὶ</supplied></w> <w xml:id="caes0421-6" xml:lang="grc"><supplied reason="lost">τοῦ</supplied></w> <w xml:id="caes0421-7" xml:lang="grc"><supplied reason="lost">ἁγὶου</supplied></w> <w xml:id="caes0421-8" xml:lang="grc"><supplied reason="lost">Π</supplied>αύλο<supplied reason="omitted">υ</supplied></w></p>
 </div>
 </body>
         <back>

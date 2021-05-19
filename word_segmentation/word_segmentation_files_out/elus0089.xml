@@ -108,9 +108,9 @@
    <text>
       <body>
          <div type="edition" ana="#b1" xml:lang="grc" subtype="transcription" xml:id="elus0089.transcription" corresp="#elus0089.translation">
-            <p>τῶν δι᾽ ἐφώδιον ἐ<gap reason="lost" unit="character" extent="unknown"/>
+            <p>τῶν δι᾽ ἐφώδιον <orig>ἐ</orig><gap reason="lost" unit="character" extent="unknown"/>
                <lb/>
-               <unclear>κο</unclear>ηβοχδο<gap reason="illegible" quantity="2" unit="character"/>
+               <orig><unclear>κο</unclear>ηβοχδο</orig><gap reason="illegible" quantity="2" unit="character"/>
                <gap reason="lost" unit="character" extent="unknown"/>
                <lb/><orig>ΦΩΖΟΝ</orig><gap reason="illegible" quantity="1" unit="character"/>
                <gap reason="lost" unit="character" extent="unknown"/>
@@ -120,7 +120,7 @@
          <div type="translation" ana="#b1" xml:id="elus0089.translation" corresp="#elus0089.transcription">
             <p>...for traveling expenses...</p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="elus0089-1" xml:lang="grc">τῶν</w> <w xml:id="elus0089-2" xml:lang="grc">δι᾽</w> <w xml:id="elus0089-3" xml:lang="grc">ἐφώδιον</w> <w xml:id="elus0089-4" xml:lang="grc">ἐ</w> <w xml:id="elus0089-5" xml:lang="grc"><unclear>κο</unclear>ηβοχδο</w> <w xml:id="elus0089-6" xml:lang="grc"><orig>ΦΩΖΟΝ</orig></w> <w xml:id="elus0089-7" xml:lang="grc"/></p>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="elus0089-1" xml:lang="grc">τῶν</w> <w xml:id="elus0089-2" xml:lang="grc">δι᾽</w> <w xml:id="elus0089-3" xml:lang="grc">ἐφώδιον</w> <w xml:id="elus0089-4" xml:lang="grc"><orig>ἐ</orig></w> <w xml:id="elus0089-5" xml:lang="grc"><orig><unclear>κο</unclear>ηβοχδο</orig></w> <w xml:id="elus0089-6" xml:lang="grc"><orig>ΦΩΖΟΝ</orig></w> </p>
 </div>
 </body>
       <back>

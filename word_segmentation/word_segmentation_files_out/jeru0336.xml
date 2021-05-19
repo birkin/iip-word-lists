@@ -124,7 +124,8 @@
                 <p>ΕΠΙ<lb/>LΕ ΣΤΡΑ</p>
             </div>
             <div type="edition" subtype="transcription" ana="b1">
-                <p>ΕΠΙ<lb/><expan><abbr><am>L</am></abbr><ex>ἔτους</ex></expan><num value="5">Ε</num> ΣΤΡΑ<supplied reason="lost">ΤΟΥ</supplied></p>
+                <p>ἐπὶ<lb/><expan><abbr><am>L</am></abbr><ex>ἔτους</ex></expan>
+                    <num value="5">Ε</num> στρα<supplied reason="lost">τοῦ</supplied></p>
             </div>
             <div type="translation" ana="b1">
                 <p/>
@@ -132,7 +133,7 @@
             <div type="commentary" ana="b1">
                 <p/>
             </div>
-        <div type="edition" subtype="transcription_segmented"><p><w xml:id="jeru0336-1" xml:lang="grc">ΕΠΙ</w> <w xml:id="jeru0336-2" xml:lang="grc"><expan><abbr><am>L</am></abbr><ex>ἔτους</ex></expan><num value="5">Ε</num></w> <w xml:id="jeru0336-3" xml:lang="grc">ΣΤΡΑ<supplied reason="lost">ΤΟΥ</supplied></w></p>
+        <div type="edition" subtype="transcription_segmented"><p><w xml:id="jeru0336-1" xml:lang="grc">ἐπὶ</w> <w xml:id="jeru0336-2" xml:lang="grc"><expan><abbr><am>L</am></abbr><ex>ἔτους</ex></expan></w> <w xml:id="jeru0336-3" xml:lang="grc"><num value="5">Ε</num></w> <w xml:id="jeru0336-4" xml:lang="grc">στρα<supplied reason="lost">τοῦ</supplied></w></p>
 </div>
 </body>
         <back>

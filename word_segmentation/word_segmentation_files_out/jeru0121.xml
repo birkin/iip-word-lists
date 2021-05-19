@@ -117,9 +117,9 @@
    <text>
       <body>
          <div type="edition" ana="#b1" xml:lang="grc" subtype="transcription" xml:id="jeru0121.transcription">
-            <p>ΙΦΚΧ</p>
+            <p><orig>ΙΦΚΧ</orig></p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="jeru0121-1" xml:lang="grc">ΙΦΚΧ</w></p>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="jeru0121-1" xml:lang="grc"><orig>ΙΦΚΧ</orig></w></p>
 </div>
 </body>
       <back>

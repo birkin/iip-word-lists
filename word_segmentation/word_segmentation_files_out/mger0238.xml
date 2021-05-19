@@ -169,12 +169,12 @@
             <!-- figure out how include linking mechanism to link divs to bibl.  add a ref inside an ab inside the div-->
             <div type="edition" subtype="transcription" ana="b1" xml:lang="heb">
                 <p><lb/>
-               <gap reason="lost" unit="character" extent="unknown"/>
-               <gap reason="lost" unit="character" extent="unknown"/>ב<hi rend="stacked">כ</hi>ר<unclear>ק</unclear>
-               <hi rend="stacked">ה</hi>ת<gap reason="lost" unit="character" extent="unknown"/>
-               <lb/>
-               <gap reason="lost" unit="character" extent="unknown"/>מ<hi rend="stacked">ח</hi>ת<gap reason="lost" unit="character" extent="unknown"/>ה<gap reason="lost" unit="character" extent="unknown"/>
-            </p>
+                    <gap reason="lost" unit="character" extent="unknown"/>
+                    <gap reason="lost" unit="character" extent="unknown"/><orig>ב<hi rend="stacked">כ</hi>ר<unclear>ק</unclear></orig>
+                    <orig><hi rend="stacked">ה</hi>ת</orig><gap reason="lost" unit="character" extent="unknown"/>
+                    <lb/>
+                    <gap reason="lost" unit="character" extent="unknown"/><orig>מ<hi rend="stacked">ח</hi>ת</orig><gap reason="lost" unit="character" extent="unknown"/><orig>ה</orig><gap reason="lost" unit="character" extent="unknown"/>
+                </p>
             </div>
             <div type="edition" subtype="diplomatic" ana="b1" xml:lang="heb">
                 <p/>
@@ -187,7 +187,7 @@
             </div>
             <!-- The bibl has more contained elements. What is the possible list of values of the biblScope/@type? 
              -->
-        <div type="edition" subtype="transcription_segmented"><p><w xml:id="mger0238-1" xml:lang="arc"/> <w xml:id="mger0238-2" xml:lang="arc">ב<hi rend="stacked">כ</hi>ר<unclear>ק</unclear></w> <w xml:id="mger0238-3" xml:lang="arc"><hi rend="stacked">ה</hi>ת</w> <w xml:id="mger0238-4" xml:lang="arc">מ<hi rend="stacked">ח</hi>תה</w> <w xml:id="mger0238-5" xml:lang="arc"/></p>
+        <div type="edition" subtype="transcription_segmented"><p> <w xml:id="mger0238-1" xml:lang="arc"><orig>ב<hi rend="stacked">כ</hi>ר<unclear>ק</unclear></orig></w> <w xml:id="mger0238-2" xml:lang="arc"><orig><hi rend="stacked">ה</hi>ת</orig></w> <w xml:id="mger0238-3" xml:lang="arc"><orig>מ<hi rend="stacked">ח</hi>ת</orig></w> <w xml:id="mger0238-4" xml:lang="arc"><orig>ה</orig></w> </p>
 </div>
 </body>
         <back>

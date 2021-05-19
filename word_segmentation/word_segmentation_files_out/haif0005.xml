@@ -189,7 +189,7 @@
             </div>
             <!-- The bibl has more contained elements. What is the possible list of values of the biblScope/@type? 
              -->
-        <div type="edition" subtype="transcription_segmented"><p><w xml:id="haif0005-1" xml:lang="grc"/> <w xml:id="haif0005-2" xml:lang="grc"><supplied reason="lost">μ</supplied>νῆμα</w> <w xml:id="haif0005-3" xml:lang="grc">ου</w> <w xml:id="haif0005-4" xml:lang="grc">καὶ</w> <w xml:id="haif0005-5" xml:lang="grc">Ψάλμο<supplied reason="lost">υ</supplied></w> <w xml:id="haif0005-6" xml:lang="grc">Τιμία</w> <w xml:id="haif0005-7" xml:lang="grc">ἡ</w> <w xml:id="haif0005-8" xml:lang="grc">Κουρία</w> <w xml:id="haif0005-9" xml:lang="grc">Σαμουήλιο<supplied reason="lost">ς</supplied></w></p>
+        <div type="edition" subtype="transcription_segmented"><p> <w xml:id="haif0005-1" xml:lang="grc"><supplied reason="lost">μ</supplied>νῆμα</w> <w xml:id="haif0005-2" xml:lang="grc">ου</w> <w xml:id="haif0005-3" xml:lang="grc">καὶ</w> <w xml:id="haif0005-4" xml:lang="grc">Ψάλμο<supplied reason="lost">υ</supplied></w> <w xml:id="haif0005-5" xml:lang="grc">Τιμία</w> <w xml:id="haif0005-6" xml:lang="grc">ἡ</w> <w xml:id="haif0005-7" xml:lang="grc">Κουρία</w> <w xml:id="haif0005-8" xml:lang="grc">Σαμουήλιο<supplied reason="lost">ς</supplied></w></p>
 </div>
 </body>
         <back>

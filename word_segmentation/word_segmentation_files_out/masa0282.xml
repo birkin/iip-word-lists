@@ -41,7 +41,7 @@
                     </msIdentifier>
                     <!--  *************************************  <msContents>  ********************************* -->
                     <msContents>
-                        <textLang mainLang="grc" otherLangs="he"/>
+                        <textLang mainLang="grc" otherLangs="phn"/>
                         <!-- lat, grc, heb, arc -->
                         <!-- religion here? -->
                         <msItem class="text_other" ana="#jewish">
@@ -170,7 +170,8 @@
                 <p/>
             </div>
             <div type="edition" subtype="transcription" ana="b1" xml:lang="heb">
-                <p>Α <g type="phoen-BET"/>
+                <p><orig>Α</orig>
+                    <g type="phoen-BET"/>
                     <lb/><g type="Reversed-Beta"/></p>
             </div>
             <div type="translation" ana="b1">
@@ -181,7 +182,7 @@
             </div>
             <!-- The bibl has more contained elements. What is the possible list of values of the biblScope/@type? 
              -->
-        <div type="edition" subtype="transcription_segmented"><p><w xml:id="masa0282-1" xml:lang="grc">Α</w> <w xml:id="masa0282-2" xml:lang="grc"><g type="phoen-BET"/></w> <w xml:id="masa0282-3" xml:lang="grc"><g type="Reversed-Beta"/></w></p>
+        <div type="edition" subtype="transcription_segmented"><p><w xml:id="masa0282-1" xml:lang="grc"><orig>Α</orig></w> <w xml:id="masa0282-2" xml:lang="grc"><g type="phoen-BET"/></w> <w xml:id="masa0282-3" xml:lang="grc"><g type="Reversed-Beta"/></w></p>
 </div>
 </body>
         <back>

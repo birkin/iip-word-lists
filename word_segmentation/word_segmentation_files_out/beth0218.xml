@@ -116,12 +116,12 @@
    <text>
       <body>
          <div type="edition" ana="#b1" subtype="transcription" xml:id="beth0218.transcription" corresp="#beth0218.translation">
-            <p>ΝΟΝ</p>
+            <p><orig>ΝΟΝ</orig></p>
          </div>
          <div type="translation" ana="#b1" xml:id="beth0218.translation" corresp="#beth0218.transcription">
             <p>NON</p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="beth0218-1" xml:lang="grc">ΝΟΝ</w></p>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="beth0218-1" xml:lang="grc"><orig>ΝΟΝ</orig></w></p>
 </div>
 </body>
       <back>

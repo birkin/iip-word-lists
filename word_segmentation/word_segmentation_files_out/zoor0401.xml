@@ -129,24 +129,20 @@
                 <p/>
             </div>
             <div type="edition" subtype="transcription" ana="b1" xml:lang="heb">
-                <p>הדה נפשׁה ד<gap reason="lost" unit="character" extent="unknown"/>
-               <lb/>ברת
-                    פטרה<lb/>דמיתת בע<supplied reason="lost">סרה</supplied>
-               <lb/>ושׁתה יומי<supplied reason="lost">ן</supplied>
-               <lb/>
-               <expan><abbr>ב</abbr><ex>יר</ex><abbr>ח</abbr></expan>
-                    אדר קד<supplied reason="lost">מיה</supplied>
-               <lb/>
-               <supplied reason="lost">ב</supplied>שׁתה תנינית<supplied reason="lost">ה</supplied>
-               <lb/>
-               <supplied reason="lost">ד</supplied>שׁבועא
-                        שׁנת<lb/>
-               <expan><ex>ת</ex><abbr>לת</abbr></expan> מאה
-                            <expan><abbr>ותל</abbr><ex>ת</ex></expan>
-               <lb/>
-               <expan><abbr><supplied reason="lost">שׁנ</supplied></abbr><ex>י</ex><abbr>ן</abbr></expan>
-                    לחרבן בית<lb/>
-               <supplied reason="lost">מ</supplied>קדשׁה.</p>
+                <p>הדה נפשה <orig>ד</orig><gap reason="lost" unit="character" extent="unknown"/>
+                    <lb/>ברת פטרה<lb/>דמיתת בע<supplied reason="lost">סרה</supplied>
+                    <lb/>ושתה יומי<supplied reason="lost">ן</supplied>
+                    <lb/>
+                    <expan><abbr>ב</abbr><ex>יר</ex><abbr>ח</abbr></expan> אדר קד<supplied reason="lost">מיה</supplied>
+                    <lb/>
+                    <supplied reason="lost">ב</supplied>שתה תנינית<supplied reason="lost">ה</supplied>
+                    <lb/>
+                    <supplied reason="lost">ד</supplied>שבועא שנת<lb/>
+                    <expan><ex>ת</ex><abbr>לת</abbr></expan> מאה
+                        <expan><abbr>ותל</abbr><ex>ת</ex></expan>
+                    <lb/>
+                    <expan><abbr><supplied reason="lost">שנ</supplied></abbr><ex>י</ex><abbr>ן</abbr></expan> לחרבן בית<lb/>
+                    <supplied reason="lost">מ</supplied>קדשה</p>
             </div>
             <div type="translation" ana="b1">
                 <p>This is the tombstone of […] daughter of Peṭrah, who died on the sixteenth day in
@@ -156,7 +152,7 @@
             <div type="commentary" ana="b1">
                 <p/>
             </div>
-        <div type="edition" subtype="transcription_segmented"><p><w xml:id="zoor0401-1" xml:lang="arc">הדה</w> <w xml:id="zoor0401-2" xml:lang="arc">נפשׁה</w> <w xml:id="zoor0401-3" xml:lang="arc">ד</w> <w xml:id="zoor0401-4" xml:lang="arc">ברת</w> <w xml:id="zoor0401-5" xml:lang="arc">פטרה</w> <w xml:id="zoor0401-6" xml:lang="arc">דמיתת</w> <w xml:id="zoor0401-7" xml:lang="arc">בע<supplied reason="lost">סרה</supplied></w> <w xml:id="zoor0401-8" xml:lang="arc">ושׁתה</w> <w xml:id="zoor0401-9" xml:lang="arc">יומי<supplied reason="lost">ן</supplied></w> <w xml:id="zoor0401-10" xml:lang="arc"><expan><abbr>ב</abbr><ex>יר</ex><abbr>ח</abbr></expan></w> <w xml:id="zoor0401-11" xml:lang="arc">אדר</w> <w xml:id="zoor0401-12" xml:lang="arc">קד<supplied reason="lost">מיה</supplied></w> <w xml:id="zoor0401-13" xml:lang="arc"><supplied reason="lost">ב</supplied>שׁתה</w> <w xml:id="zoor0401-14" xml:lang="arc">תנינית<supplied reason="lost">ה</supplied></w> <w xml:id="zoor0401-15" xml:lang="arc"><supplied reason="lost">ד</supplied>שׁבועא</w> <w xml:id="zoor0401-16" xml:lang="arc">שׁנת</w> <w xml:id="zoor0401-17" xml:lang="arc"><expan><ex>ת</ex><abbr>לת</abbr></expan></w> <w xml:id="zoor0401-18" xml:lang="arc">מאה</w> <w xml:id="zoor0401-19" xml:lang="arc"><expan><abbr>ותל</abbr><ex>ת</ex></expan></w> <w xml:id="zoor0401-20" xml:lang="arc"><expan><abbr><supplied reason="lost">שׁנ</supplied></abbr><ex>י</ex><abbr>ן</abbr></expan></w> <w xml:id="zoor0401-21" xml:lang="arc">לחרבן</w> <w xml:id="zoor0401-22" xml:lang="arc">בית</w> <w xml:id="zoor0401-23" xml:lang="arc"><supplied reason="lost">מ</supplied>קדשׁה.</w></p>
+        <div type="edition" subtype="transcription_segmented"><p><w xml:id="zoor0401-1" xml:lang="arc">הדה</w> <w xml:id="zoor0401-2" xml:lang="arc">נפשה</w> <w xml:id="zoor0401-3" xml:lang="arc"><orig>ד</orig></w> <w xml:id="zoor0401-4" xml:lang="arc">ברת</w> <w xml:id="zoor0401-5" xml:lang="arc">פטרה</w> <w xml:id="zoor0401-6" xml:lang="arc">דמיתת</w> <w xml:id="zoor0401-7" xml:lang="arc">בע<supplied reason="lost">סרה</supplied></w> <w xml:id="zoor0401-8" xml:lang="arc">ושתה</w> <w xml:id="zoor0401-9" xml:lang="arc">יומי<supplied reason="lost">ן</supplied></w> <w xml:id="zoor0401-10" xml:lang="arc"><expan><abbr>ב</abbr><ex>יר</ex><abbr>ח</abbr></expan></w> <w xml:id="zoor0401-11" xml:lang="arc">אדר</w> <w xml:id="zoor0401-12" xml:lang="arc">קד<supplied reason="lost">מיה</supplied></w> <w xml:id="zoor0401-13" xml:lang="arc"><supplied reason="lost">ב</supplied>שתה</w> <w xml:id="zoor0401-14" xml:lang="arc">תנינית<supplied reason="lost">ה</supplied></w> <w xml:id="zoor0401-15" xml:lang="arc"><supplied reason="lost">ד</supplied>שבועא</w> <w xml:id="zoor0401-16" xml:lang="arc">שנת</w> <w xml:id="zoor0401-17" xml:lang="arc"><expan><ex>ת</ex><abbr>לת</abbr></expan></w> <w xml:id="zoor0401-18" xml:lang="arc">מאה</w> <w xml:id="zoor0401-19" xml:lang="arc"><expan><abbr>ותל</abbr><ex>ת</ex></expan></w> <w xml:id="zoor0401-20" xml:lang="arc"><expan><abbr><supplied reason="lost">שנ</supplied></abbr><ex>י</ex><abbr>ן</abbr></expan></w> <w xml:id="zoor0401-21" xml:lang="arc">לחרבן</w> <w xml:id="zoor0401-22" xml:lang="arc">בית</w> <w xml:id="zoor0401-23" xml:lang="arc"><supplied reason="lost">מ</supplied>קדשה</w></p>
 </div>
 </body>
         <back>

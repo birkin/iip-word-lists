@@ -118,15 +118,15 @@
    <text>
       <body>
          <div type="edition" ana="#b1" subtype="transcription" xml:id="caes0154.transcription" corresp="#caes0154.translation">
-            <p>+ Θ +<lb/>
-+ Θήκη Προκοπίου +<lb/>
-+ διακόνου +<lb/></p>
+            <p><g>+</g> <orig>Θ</orig> <g>+</g><lb/>
+<g>+</g> Θήκη Προκοπίου <g>+</g><lb/>
+<g>+</g> διακόνου <g>+</g><lb/></p>
          </div>
          <div type="translation" ana="#b1" xml:id="caes0154.translation" corresp="#caes0154.transcription">
             <p>The tomb of <persName xml:lang="grc " ref="persons.xml#caes0154p01">Prokopios</persName>, <rs type="religTitle">deacon</rs>.
 		  </p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="caes0154-1" xml:lang="grc">+</w> <w xml:id="caes0154-2" xml:lang="grc">Θ</w> <w xml:id="caes0154-3" xml:lang="grc">+</w> <w xml:id="caes0154-4" xml:lang="grc">+</w> <w xml:id="caes0154-5" xml:lang="grc">Θήκη</w> <w xml:id="caes0154-6" xml:lang="grc">Προκοπίου</w> <w xml:id="caes0154-7" xml:lang="grc">+</w> <w xml:id="caes0154-8" xml:lang="grc">+</w> <w xml:id="caes0154-9" xml:lang="grc">διακόνου</w> <w xml:id="caes0154-10" xml:lang="grc">+</w> <w xml:id="caes0154-11" xml:lang="grc"/></p>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="caes0154-1" xml:lang="grc"><g>+</g></w> <w xml:id="caes0154-2" xml:lang="grc"><orig>Θ</orig></w> <w xml:id="caes0154-3" xml:lang="grc"><g>+</g></w> <w xml:id="caes0154-4" xml:lang="grc"><g>+</g></w> <w xml:id="caes0154-5" xml:lang="grc">Θήκη</w> <w xml:id="caes0154-6" xml:lang="grc">Προκοπίου</w> <w xml:id="caes0154-7" xml:lang="grc"><g>+</g></w> <w xml:id="caes0154-8" xml:lang="grc"><g>+</g></w> <w xml:id="caes0154-9" xml:lang="grc">διακόνου</w> <w xml:id="caes0154-10" xml:lang="grc"><g>+</g></w> </p>
 </div>
 </body>
       <back>

@@ -118,7 +118,7 @@
             <p><gap reason="illegible" quantity="3" unit="character"/> Σωσιπόλε<lb break="no"/><orig><supplied reason="undefined">ως</supplied></orig>
                <gap reason="illegible" quantity="6" unit="character"/></p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="caes0312-1" xml:lang="grc"/> <w xml:id="caes0312-2" xml:lang="grc">Σωσιπόλε<orig><supplied reason="undefined">ως</supplied></orig></w> <w xml:id="caes0312-3" xml:lang="grc"/></p>
+      <div type="edition" subtype="transcription_segmented"><p> <w xml:id="caes0312-1" xml:lang="grc">Σωσιπόλε<orig><supplied reason="undefined">ως</supplied></orig></w> </p>
 </div>
 </body>
       <back>

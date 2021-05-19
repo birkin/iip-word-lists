@@ -132,9 +132,9 @@
    <text>
       <body>
          <div type="edition" ana="#b1" xml:lang="grc" subtype="transcription" xml:id="jeru0117.transcription">
-            <p>ΘΗ</p>
+            <p><orig>ΘΗ</orig></p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="jeru0117-1" xml:lang="grc">ΘΗ</w></p>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="jeru0117-1" xml:lang="grc"><orig>ΘΗ</orig></w></p>
 </div>
 </body>
       <back>

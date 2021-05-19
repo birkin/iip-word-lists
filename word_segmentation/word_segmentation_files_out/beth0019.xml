@@ -115,8 +115,7 @@
    <text>
       <body>
          <div type="edition" ana="#b3" subtype="transcription" xml:id="beth0019.transcription" corresp="#beth0019.translation">
-            <p>Εἰσάκ<unclear>ι</unclear>
-               <supplied reason="lost">ος</supplied>
+            <p>Εἰσάκ<unclear>ι</unclear><supplied reason="lost">ος</supplied>
                <lb/> Μοκίμου<lb/> Ἰωσῆ</p>
          </div>
          <div type="translation" ana="#b3" xml:id="beth0019.translation" corresp="#beth0019.transcription">
@@ -127,7 +126,7 @@
                <persName xml:lang="hbo " ref="persons.xml#beth0019p03">Joseph </persName>
             </p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="beth0019-1" xml:lang="grc">Εἰσάκ<unclear>ι</unclear></w> <w xml:id="beth0019-2" xml:lang="grc"><supplied reason="lost">ος</supplied></w> <w xml:id="beth0019-3" xml:lang="grc">Μοκίμου</w> <w xml:id="beth0019-4" xml:lang="grc">Ἰωσῆ</w></p>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="beth0019-1" xml:lang="grc">Εἰσάκ<unclear>ι</unclear><supplied reason="lost">ος</supplied></w> <w xml:id="beth0019-2" xml:lang="grc">Μοκίμου</w> <w xml:id="beth0019-3" xml:lang="grc">Ἰωσῆ</w></p>
 </div>
 </body>
       <back>

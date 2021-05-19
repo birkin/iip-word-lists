@@ -125,13 +125,13 @@
             <p>θάρσ<supplied reason="lost">ει</supplied>
                <lb/>
                <expan><abbr><unclear>Δ</unclear>ο<supplied reason="lost">μ</supplied><lb break="no"/>ετ<supplied reason="lost">ια</supplied><lb break="no"/>ν</abbr><ex cert="low">έ</ex></expan>
-               <expan><abbr>ἐτ</abbr><ex>ῶν</ex></expan> ο</p>
+               <expan><abbr>ἐτ</abbr><ex>ῶν</ex></expan> <num>ο</num></p>
          </div>
          <div type="translation" ana="#b1" xml:id="deir0001.translation" corresp="#deir0001.diplomatic #deir0001.transcription">
             <p>Be of good courage, Dometianos(?)! Fifty years old.
                 </p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="deir0001-1" xml:lang="grc">θάρσ<supplied reason="lost">ει</supplied></w> <w xml:id="deir0001-2" xml:lang="grc"><expan><abbr><unclear>Δ</unclear>ο<supplied reason="lost">μ</supplied>ετ<supplied reason="lost">ια</supplied>ν</abbr><ex cert="low">έ</ex></expan></w> <w xml:id="deir0001-3" xml:lang="grc"><expan><abbr>ἐτ</abbr><ex>ῶν</ex></expan></w> <w xml:id="deir0001-4" xml:lang="grc">ο</w></p>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="deir0001-1" xml:lang="grc">θάρσ<supplied reason="lost">ει</supplied></w> <w xml:id="deir0001-2" xml:lang="grc"><expan><abbr><unclear>Δ</unclear>ο<supplied reason="lost">μ</supplied>ετ<supplied reason="lost">ια</supplied>ν</abbr><ex cert="low">έ</ex></expan></w> <w xml:id="deir0001-3" xml:lang="grc"><expan><abbr>ἐτ</abbr><ex>ῶν</ex></expan></w> <w xml:id="deir0001-4" xml:lang="grc"><num>ο</num></w></p>
 </div>
 </body>
       <back>

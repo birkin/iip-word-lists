@@ -122,7 +122,7 @@
                 <p/>
             </div>
             <div type="edition" subtype="transcription" ana="b1">
-                <p>με</p>
+                <p><orig>με</orig></p>
             </div>
             <div type="translation" ana="b1">
                 <p>Me...</p>
@@ -130,7 +130,7 @@
             <div type="commentary">
                 <p/>
             </div>
-        <div type="edition" subtype="transcription_segmented"><p><w xml:id="mare0429-1" xml:lang="grc">με</w></p>
+        <div type="edition" subtype="transcription_segmented"><p><w xml:id="mare0429-1" xml:lang="grc"><orig>με</orig></w></p>
 </div>
 </body>
         <back>

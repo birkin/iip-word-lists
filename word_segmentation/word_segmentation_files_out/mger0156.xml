@@ -173,12 +173,11 @@
             <!-- figure out how include linking mechanism to link divs to bibl.  add a ref inside an ab inside the div-->
             <div type="edition" subtype="transcription" ana="b1" xml:lang="heb">
                 <p><lb/>
-               <gap reason="lost" unit="character" extent="unknown"/>ס די מת<hi rend="stacked">ר</hi>קה לקיס
-                        אסר<gap reason="lost" unit="character" extent="unknown"/>
-               <gap reason="lost" unit="character" extent="unknown"/>
-               <lb/>דכר<unclear>נ</unclear>
+                    <gap reason="lost" unit="character" extent="unknown"/><orig>ס</orig> די מת<hi rend="stacked">ר</hi>קה לקיס <orig>אסר</orig><gap reason="lost" unit="character" extent="unknown"/>
+                    <gap reason="lost" unit="character" extent="unknown"/>
+                    <lb/>דכר<unclear>ן</unclear>
                     <supplied reason="lost">טב</supplied>
-            </p>
+                </p>
             </div>
             <div type="edition" subtype="diplomatic" ana="b1" xml:lang="heb">
                 <p/>
@@ -192,7 +191,7 @@
             </div>
             <!-- The bibl has more contained elements. What is the possible list of values of the biblScope/@type? 
              -->
-        <div type="edition" subtype="transcription_segmented"><p><w xml:id="mger0156-1" xml:lang="arc"/> <w xml:id="mger0156-2" xml:lang="arc">ס</w> <w xml:id="mger0156-3" xml:lang="arc">די</w> <w xml:id="mger0156-4" xml:lang="arc">מת<hi rend="stacked">ר</hi>קה</w> <w xml:id="mger0156-5" xml:lang="arc">לקיס</w> <w xml:id="mger0156-6" xml:lang="arc">אסר</w> <w xml:id="mger0156-7" xml:lang="arc">דכר<unclear>נ</unclear></w> <w xml:id="mger0156-8" xml:lang="arc"><supplied reason="lost">טב</supplied></w> <w xml:id="mger0156-9" xml:lang="arc"/></p>
+        <div type="edition" subtype="transcription_segmented"><p> <w xml:id="mger0156-1" xml:lang="arc"><orig>ס</orig></w> <w xml:id="mger0156-2" xml:lang="arc">די</w> <w xml:id="mger0156-3" xml:lang="arc">מת<hi rend="stacked">ר</hi>קה</w> <w xml:id="mger0156-4" xml:lang="arc">לקיס</w> <w xml:id="mger0156-5" xml:lang="arc"><orig>אסר</orig></w> <w xml:id="mger0156-6" xml:lang="arc">דכר<unclear>ן</unclear></w> <w xml:id="mger0156-7" xml:lang="arc"><supplied reason="lost">טב</supplied></w> </p>
 </div>
 </body>
         <back>

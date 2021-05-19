@@ -180,7 +180,7 @@
             </div>
             <!-- The bibl has more contained elements. What is the possible list of values of the biblScope/@type? 
              -->
-        <div type="edition" subtype="transcription_segmented"><p><w xml:id="idum0506-1" xml:lang="arc">עי<choice><unclear>ד</unclear><unclear>ר</unclear></choice></w> <w xml:id="idum0506-2" xml:lang="arc">בר</w> <w xml:id="idum0506-3" xml:lang="arc"><unclear>חלפן</unclear></w> <w xml:id="idum0506-4" xml:lang="arc"><unclear>שס</unclear></w> <w xml:id="idum0506-5" xml:lang="arc"><num value="20"><g type="twenty-vertical-strokes"/></num></w> <w xml:id="idum0506-6" xml:lang="arc"><num value="20"><g type="twenty-vertical-strokes"/></num></w> <w xml:id="idum0506-7" xml:lang="arc"/></p>
+        <div type="edition" subtype="transcription_segmented"><p> <w xml:id="idum0506-1" xml:lang="arc">עי<choice><unclear>ד</unclear><unclear>ר</unclear></choice></w> <w xml:id="idum0506-2" xml:lang="arc">בר</w> <w xml:id="idum0506-3" xml:lang="arc"><unclear>חלפן</unclear></w> <w xml:id="idum0506-4" xml:lang="arc"><unclear>שס</unclear></w> <w xml:id="idum0506-5" xml:lang="arc"><num value="20"><g type="twenty-vertical-strokes"/></num></w> <w xml:id="idum0506-6" xml:lang="arc"><num value="20"><g type="twenty-vertical-strokes"/></num></w> </p>
 </div>
 </body>
         <back>

@@ -169,13 +169,12 @@
             <!-- figure out how include linking mechanism to link divs to bibl.  add a ref inside an ab inside the div-->
             <div type="edition" subtype="transcription" ana="b1" xml:lang="heb">
                 <p><lb/>
-               <gap reason="lost" extent="unknown" unit="character"/> בר
-                        ד<gap reason="illegible" quantity="2" unit="character"/>
-               <gap reason="lost" extent="unknown" unit="character"/>
-               <lb/>
-               <gap reason="lost" extent="unknown" unit="character"/>ל<gap reason="illegible" quantity="2" unit="character"/>
-               <gap reason="lost" extent="unknown" unit="character"/>
-            </p>
+                    <gap reason="lost" extent="unknown" unit="character"/> בר <orig>ד</orig><gap reason="illegible" quantity="2" unit="character"/>
+                    <gap reason="lost" extent="unknown" unit="character"/>
+                    <lb/>
+                    <gap reason="lost" extent="unknown" unit="character"/><orig>ל</orig><gap reason="illegible" quantity="2" unit="character"/>
+                    <gap reason="lost" extent="unknown" unit="character"/>
+                </p>
             </div>
             <div type="edition" subtype="diplomatic" ana="b1" xml:lang="heb">
                 <p/>
@@ -188,7 +187,7 @@
             </div>
             <!-- The bibl has more contained elements. What is the possible list of values of the biblScope/@type? 
              -->
-        <div type="edition" subtype="transcription_segmented"><p><w xml:id="mger0290-1" xml:lang="arc"/> <w xml:id="mger0290-2" xml:lang="arc">בר</w> <w xml:id="mger0290-3" xml:lang="arc">ד</w> <w xml:id="mger0290-4" xml:lang="arc">ל</w> <w xml:id="mger0290-5" xml:lang="arc"/></p>
+        <div type="edition" subtype="transcription_segmented"><p> <w xml:id="mger0290-1" xml:lang="arc">בר</w> <w xml:id="mger0290-2" xml:lang="arc"><orig>ד</orig></w> <w xml:id="mger0290-3" xml:lang="arc"><orig>ל</orig></w> </p>
 </div>
 </body>
         <back>

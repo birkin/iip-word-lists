@@ -115,7 +115,7 @@
             <p><orig>ΜΑ</orig><gap reason="lost" unit="character" extent="unknown"/>
                <lb/><orig>ΚΑ</orig><gap reason="lost" unit="character" extent="unknown"/></p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="elus0062-1" xml:lang="grc"><orig>ΜΑ</orig></w> <w xml:id="elus0062-2" xml:lang="grc"><orig>ΚΑ</orig></w></p>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="elus0062-1" xml:lang="grc"><orig>ΜΑ</orig></w> <w xml:id="elus0062-2" xml:lang="grc"><orig>ΚΑ</orig></w> </p>
 </div>
 </body>
       <back>

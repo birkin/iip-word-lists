@@ -121,13 +121,12 @@
    <text>
       <body>
          <div type="edition" ana="#b1" xml:lang="grc" subtype="transcription" xml:id="zoor0361.transcription" corresp="#zoor0361.translation">
-            <p>Κλ<lb/>αύ<lb/>
-               <unclear>διος</unclear></p>
+            <p>Κλ<lb break="no"/>αύ<lb break="no"/><unclear>διος</unclear></p>
          </div>
          <div type="translation" ana="#b1" xml:id="zoor0361.translation" corresp="#zoor0361.transcription">
             <p>Claudius(?)</p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="fein0007-1" xml:lang="grc">Κλ</w> <w xml:id="fein0007-2" xml:lang="grc">αύ</w> <w xml:id="fein0007-3" xml:lang="grc"><unclear>διος</unclear></w></p>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="fein0007-1" xml:lang="grc">Κλαύ<unclear>διος</unclear></w></p>
 </div>
 </body>
       <back>

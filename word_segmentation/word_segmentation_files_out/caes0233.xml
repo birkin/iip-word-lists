@@ -121,7 +121,7 @@
             <p><gap reason="illegible" quantity="2" unit="character"/>
                <supplied reason="undefined">τέκ</supplied><unclear>ν</unclear><supplied reason="omitted">ο</supplied>υς <g type="cross">+</g><lb/></p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="caes0233-1" xml:lang="grc"/> <w xml:id="caes0233-2" xml:lang="grc"><supplied reason="undefined">τέκ</supplied><unclear>ν</unclear><supplied reason="omitted">ο</supplied>υς</w> <w xml:id="caes0233-3" xml:lang="grc"><g type="cross">+</g></w> <w xml:id="caes0233-4" xml:lang="grc"/></p>
+      <div type="edition" subtype="transcription_segmented"><p> <w xml:id="caes0233-1" xml:lang="grc"><supplied reason="undefined">τέκ</supplied><unclear>ν</unclear><supplied reason="omitted">ο</supplied>υς</w> <w xml:id="caes0233-2" xml:lang="grc"><g type="cross">+</g></w> </p>
 </div>
 </body>
       <back>

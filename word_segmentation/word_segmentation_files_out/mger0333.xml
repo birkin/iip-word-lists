@@ -168,9 +168,9 @@
         <body>
             <!-- figure out how include linking mechanism to link divs to bibl.  add a ref inside an ab inside the div-->
             <div type="edition" subtype="transcription" ana="b1" xml:lang="heb">
-                <p>בר י<gap reason="illegible" quantity="1" unit="character"/>
-               <gap reason="lost" extent="unknown" unit="character"/>
-            </p>
+                <p>בר <orig>י</orig><gap reason="illegible" quantity="1" unit="character"/>
+                    <gap reason="lost" extent="unknown" unit="character"/>
+                </p>
             </div>
             <div type="edition" subtype="diplomatic" ana="b1" xml:lang="heb">
                 <p/>
@@ -183,7 +183,7 @@
             </div>
             <!-- The bibl has more contained elements. What is the possible list of values of the biblScope/@type? 
              -->
-        <div type="edition" subtype="transcription_segmented"><p><w xml:id="mger0333-1" xml:lang="arc">בר</w> <w xml:id="mger0333-2" xml:lang="arc">י</w> <w xml:id="mger0333-3" xml:lang="arc"/></p>
+        <div type="edition" subtype="transcription_segmented"><p><w xml:id="mger0333-1" xml:lang="arc">בר</w> <w xml:id="mger0333-2" xml:lang="arc"><orig>י</orig></w> </p>
 </div>
 </body>
         <back>

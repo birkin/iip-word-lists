@@ -116,8 +116,7 @@
       <body>
          <div type="edition" ana="#b2" subtype="transcription" xml:id="beth0116.transcription" corresp="#beth0116.translation">
             <p>Ἄρθις<lb/>
-               <unclear>Ἐ</unclear>ν<unclear>ε</unclear>
-               <supplied reason="lost">βήλου</supplied></p>
+               <unclear>Ἐ</unclear>ν<unclear>ε</unclear><supplied reason="lost">βήλου</supplied></p>
          </div>
          <div type="translation" ana="#b2" xml:id="beth0116.translation" corresp="#beth0116.transcription">
             <p>
@@ -126,7 +125,7 @@
                </name>
             </p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="beth0116-1" xml:lang="grc">Ἄρθις</w> <w xml:id="beth0116-2" xml:lang="grc"><unclear>Ἐ</unclear>ν<unclear>ε</unclear></w> <w xml:id="beth0116-3" xml:lang="grc"><supplied reason="lost">βήλου</supplied></w></p>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="beth0116-1" xml:lang="grc">Ἄρθις</w> <w xml:id="beth0116-2" xml:lang="grc"><unclear>Ἐ</unclear>ν<unclear>ε</unclear><supplied reason="lost">βήλου</supplied></w></p>
 </div>
 </body>
       <back>

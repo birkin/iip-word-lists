@@ -173,15 +173,13 @@
                 <p/>
             </div>
             <div type="edition" subtype="transcription" ana="b1" xml:lang="heb">
-                <p><unclear>ז</unclear>
-               <supplied reason="lost">י</supplied> הקרב
-                        א<gap reason="lost" extent="unknown" unit="character"/>
-               <lb/>
-               <gap reason="lost" extent="unknown" unit="character"/>
-               <gap reason="illegible" quantity="1" unit="character"/>
-               <unclear>אמי</unclear>
-               <gap reason="lost" extent="unknown" unit="character"/>
-            </p>
+                <p><unclear>ז</unclear><supplied reason="lost">י</supplied> הקרב <orig>א</orig><gap reason="lost" extent="unknown" unit="character"/>
+                    <lb/>
+                    <gap reason="lost" extent="unknown" unit="character"/>
+                    <gap reason="illegible" quantity="1" unit="character"/>
+                    <orig><unclear>אמי</unclear></orig>
+                    <gap reason="lost" extent="unknown" unit="character"/>
+                </p>
             </div>
             <div type="translation" ana="b1">
                 <p>That [which] offered ’[...<lb/>...] ○ ‛my[...</p>
@@ -194,7 +192,7 @@
             </div>
             <!-- The bibl has more contained elements. What is the possible list of values of the biblScope/@type? 
              -->
-        <div type="edition" subtype="transcription_segmented"><p><w xml:id="mger0075-1" xml:lang="arc"><unclear>ז</unclear></w> <w xml:id="mger0075-2" xml:lang="arc"><supplied reason="lost">י</supplied></w> <w xml:id="mger0075-3" xml:lang="arc">הקרב</w> <w xml:id="mger0075-4" xml:lang="arc">א</w> <w xml:id="mger0075-5" xml:lang="arc"><unclear>אמי</unclear></w> <w xml:id="mger0075-6" xml:lang="arc"/></p>
+        <div type="edition" subtype="transcription_segmented"><p><w xml:id="mger0075-1" xml:lang="arc"><unclear>ז</unclear><supplied reason="lost">י</supplied></w> <w xml:id="mger0075-2" xml:lang="arc">הקרב</w> <w xml:id="mger0075-3" xml:lang="arc"><orig>א</orig></w> <w xml:id="mger0075-4" xml:lang="arc"><orig><unclear>אמי</unclear></orig></w> </p>
 </div>
 </body>
         <back>

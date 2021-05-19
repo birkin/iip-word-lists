@@ -114,12 +114,12 @@
                <g type="cross">+</g>ΙΟΥΛΙΑΝΟΣΖΑΒΑΕ<lb/>ΛΥΕΤΕΛΙΩΣΕΝ</p>
          </div>
          <div type="edition" ana="#b1" subtype="transcription" xml:id="rams0004.transcription" corresp="#rams0004.diplomatic #rams0004.translation">
-            <p><g type="cross">+</g> Ἰουλιανὸς Ζαβαε<lb/>λ<supplied reason="omitted">ο</supplied>υ ἐτελίωσεν</p>
+            <p><g type="cross">+</g> Ἰουλιανὸς Ζαβαε<lb break="no"/>λ<supplied reason="omitted">ο</supplied>υ ἐτελίωσεν</p>
          </div>
          <div type="translation" ana="#b1" xml:id="rams0004.translation" corresp="#rams0004.diplomatic #rams0004.transcription">
             <p>Julianus, son of Zabaelos, completed (this).</p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="rams0004-1" xml:lang="grc"><g type="cross">+</g></w> <w xml:id="rams0004-2" xml:lang="grc">Ἰουλιανὸς</w> <w xml:id="rams0004-3" xml:lang="grc">Ζαβαε</w> <w xml:id="rams0004-4" xml:lang="grc">λ<supplied reason="omitted">ο</supplied>υ</w> <w xml:id="rams0004-5" xml:lang="grc">ἐτελίωσεν</w></p>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="rams0004-1" xml:lang="grc"><g type="cross">+</g></w> <w xml:id="rams0004-2" xml:lang="grc">Ἰουλιανὸς</w> <w xml:id="rams0004-3" xml:lang="grc">Ζαβαελ<supplied reason="omitted">ο</supplied>υ</w> <w xml:id="rams0004-4" xml:lang="grc">ἐτελίωσεν</w></p>
 </div>
 </body>
       <back>

@@ -119,9 +119,10 @@
          <div type="edition" ana="#b1" subtype="transcription" xml:id="beth0217.transcription">
             <p><supplied reason="lost" cert="low">Ἐνθάδε</supplied> κεῖτ<supplied reason="lost">αι</supplied>
                <lb/><gap reason="lost" extent="unknown" unit="character"/>
-               ος Π<gap reason="lost" extent="unknown" unit="character"/></p>
+               <orig>ος</orig>
+               <orig>Π</orig><gap reason="lost" extent="unknown" unit="character"/></p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="beth0217-1" xml:lang="grc"><supplied reason="lost" cert="low">Ἐνθάδε</supplied></w> <w xml:id="beth0217-2" xml:lang="grc">κεῖτ<supplied reason="lost">αι</supplied></w> <w xml:id="beth0217-3" xml:lang="grc">ος</w> <w xml:id="beth0217-4" xml:lang="grc">Π</w></p>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="beth0217-1" xml:lang="grc"><supplied reason="lost" cert="low">Ἐνθάδε</supplied></w> <w xml:id="beth0217-2" xml:lang="grc">κεῖτ<supplied reason="lost">αι</supplied></w> <w xml:id="beth0217-3" xml:lang="grc"><orig>ος</orig></w> <w xml:id="beth0217-4" xml:lang="grc"><orig>Π</orig></w> </p>
 </div>
 </body>
       <back>

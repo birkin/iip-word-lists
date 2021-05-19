@@ -126,15 +126,16 @@
          </div>
          <div type="edition" ana="#b1" subtype="transcription" xml:id="elal0008.transcription" corresp="#elal0008.diplomatic #elal0008.translation">
             <p>θάρ<supplied reason="lost">σει</supplied>
-               <lb/>Ζεβ<gap reason="lost" quantity="2" unit="character"/>
-               <lb/>θα <expan><abbr>ἐ<supplied reason="lost">τ</supplied></abbr><ex>ῶν</ex></expan>
+               <lb/><orig>Ζεβ</orig><gap reason="lost" quantity="2" unit="character"/>
+               <lb/><orig>θα</orig>
+               <expan><abbr>ἐ<supplied reason="lost">τ</supplied></abbr><ex>ῶν</ex></expan>
                <lb/>
                <num value="30">λ</num></p>
          </div>
          <div type="translation" ana="#b1" xml:id="elal0008.translation" corresp="#elal0008.diplomatic #elal0008.transcription">
             <p> Be of good courage, Zeb..tha(?)! Thirty years old. </p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="elal0008-1" xml:lang="grc">θάρ<supplied reason="lost">σει</supplied></w> <w xml:id="elal0008-2" xml:lang="grc">Ζεβ</w> <w xml:id="elal0008-3" xml:lang="grc">θα</w> <w xml:id="elal0008-4" xml:lang="grc"><expan><abbr>ἐ<supplied reason="lost">τ</supplied></abbr><ex>ῶν</ex></expan></w> <w xml:id="elal0008-5" xml:lang="grc"><num value="30">λ</num></w></p>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="elal0008-1" xml:lang="grc">θάρ<supplied reason="lost">σει</supplied></w> <w xml:id="elal0008-2" xml:lang="grc"><orig>Ζεβ</orig></w> <w xml:id="elal0008-3" xml:lang="grc"><orig>θα</orig></w> <w xml:id="elal0008-4" xml:lang="grc"><expan><abbr>ἐ<supplied reason="lost">τ</supplied></abbr><ex>ῶν</ex></expan></w> <w xml:id="elal0008-5" xml:lang="grc"><num value="30">λ</num></w></p>
 </div>
 </body>
       <back>

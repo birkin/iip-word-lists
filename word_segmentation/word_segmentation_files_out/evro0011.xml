@@ -26,7 +26,7 @@
                </msIdentifier>
                <!-- ********* <msContents> ********* -->
                <msContents>
-                  <textLang mainLang="grc"/>
+                  <textLang mainLang="grc" otherLangs="he"/>
                   <msItem class="#invocation" ana="#christian">
                      <p>Western Galilee. Evron, 415 CE - 490 CE. Mosaic. Invocation.</p>
                   </msItem>
@@ -116,15 +116,15 @@
             </p>
          </div>
          <div type="edition" ana="#b1" xml:lang="grc" subtype="transcription" xml:id="evro0011.transcription" corresp="#evro0011.diplomatic #evro0011.translation">
-            <p><foreign xml:lang="hbo">𐤉𐤉𐤉</foreign> Μ<lb/>νήσκ<supplied reason="undefined">ο</supplied>υ τ<supplied reason="undefined">ο</supplied>ῦ
+            <p><foreign xml:lang="heb">𐤉𐤉𐤉</foreign> Μ<lb break="no"/>νήσκ<supplied reason="undefined">ο</supplied>υ τ<supplied reason="undefined">ο</supplied>ῦ
                <lb/>δ<supplied reason="undefined">ο</supplied>ύλ<supplied reason="undefined">ο</supplied>υς<lb/>
                <supplied reason="undefined">ο</supplied>υ
-                        Τιμ<supplied reason="undefined">ο</supplied>θ<supplied reason="undefined">έ</supplied><lb break="no"/>ου φ<gap reason="lost" unit="character" extent="unknown"/></p>
+                        Τιμ<supplied reason="undefined">ο</supplied>θ<supplied reason="undefined">έ</supplied><lb break="no"/>ου <orig>φ</orig><gap reason="lost" unit="character" extent="unknown"/></p>
          </div>
          <div type="translation" ana="#b1" xml:id="evro0011.translation" corresp="#evro0011.diplomatic #evro0011.transcription">
-            <p>(Yod-yod-yod) Remember, your servant, Timotheos ...</p>
+            <p>(Yod-yod-yod) Remember, your servants, Timotheos ...</p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="evro0011-1" xml:lang="grc"><foreign xml:lang="hbo">𐤉𐤉𐤉</foreign></w> <w xml:id="evro0011-2" xml:lang="grc">Μ</w> <w xml:id="evro0011-3" xml:lang="grc">νήσκ<supplied reason="undefined">ο</supplied>υ</w> <w xml:id="evro0011-4" xml:lang="grc">τ<supplied reason="undefined">ο</supplied>ῦ</w> <w xml:id="evro0011-5" xml:lang="grc">δ<supplied reason="undefined">ο</supplied>ύλ<supplied reason="undefined">ο</supplied>υς</w> <w xml:id="evro0011-6" xml:lang="grc"><supplied reason="undefined">ο</supplied>υ</w> <w xml:id="evro0011-7" xml:lang="grc">Τιμ<supplied reason="undefined">ο</supplied>θ<supplied reason="undefined">έ</supplied>ου</w> <w xml:id="evro0011-8" xml:lang="grc">φ</w></p>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="evro0011-1" xml:lang="grc"><foreign xml:lang="heb">𐤉𐤉𐤉</foreign></w> <w xml:id="evro0011-2" xml:lang="grc">Μνήσκ<supplied reason="undefined">ο</supplied>υ</w> <w xml:id="evro0011-3" xml:lang="grc">τ<supplied reason="undefined">ο</supplied>ῦ</w> <w xml:id="evro0011-4" xml:lang="grc">δ<supplied reason="undefined">ο</supplied>ύλ<supplied reason="undefined">ο</supplied>υς</w> <w xml:id="evro0011-5" xml:lang="grc"><supplied reason="undefined">ο</supplied>υ</w> <w xml:id="evro0011-6" xml:lang="grc">Τιμ<supplied reason="undefined">ο</supplied>θ<supplied reason="undefined">έ</supplied>ου</w> <w xml:id="evro0011-7" xml:lang="grc"><orig>φ</orig></w> </p>
 </div>
 </body>
       <back>

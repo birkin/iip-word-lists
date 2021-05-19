@@ -115,9 +115,11 @@
    <text>
       <body>
          <div type="edition" ana="#b1" subtype="transcription" xml:id="caes0118.transcription">
-            <p>+ γ<gap reason="illegible" quantity="3" unit="character"/></p>
+            <p><g>+</g>
+               <orig>γ</orig>
+               <gap reason="illegible" quantity="3" unit="character"/></p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="caes0118-1" xml:lang="grc">+</w> <w xml:id="caes0118-2" xml:lang="grc">γ</w></p>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="caes0118-1" xml:lang="grc"><g>+</g></w> <w xml:id="caes0118-2" xml:lang="grc"><orig>γ</orig></w> </p>
 </div>
 </body>
       <back>

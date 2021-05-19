@@ -121,8 +121,8 @@
                 <p/>
             </div>
             <div type="edition" subtype="transcription" ana="b1">
-                <p><gap reason="lost" unit="line" extent="unknown"/><num value="620">κχ</num> μηνος<lb/>Ὑπερβερτόυ
-                        <num value="20">κ</num><lb/><gap reason="lost" unit="character"/>ανηος<lb/><gap reason="lost" unit="character"/>δνου<lb/><supplied reason="lost">Ἀσκα</supplied>λουνήτης</p>
+                <p><gap reason="lost" unit="line" extent="unknown"/><num value="620">κχ</num>
+                    μηνος<lb/>Ὑπερβερτόυ <num value="20">κ</num><lb/><gap reason="lost" unit="character"/><orig>ανηος</orig><lb/><gap reason="lost" unit="character"/><orig>δνου</orig><lb/><supplied reason="lost">Ἀσκα</supplied>λουνήτης</p>
             </div>
             <div type="translation" ana="b1">
                 <p>… the year 620 the 20th month of Hyperberetaeos … the Ascalonite</p>
@@ -130,7 +130,7 @@
             <div type="commentary" ana="b1">
                 <p/>
             </div>
-        <div type="edition" subtype="transcription_segmented"><p><w xml:id="mogh0001-1" xml:lang="grc"><num value="620">κχ</num></w> <w xml:id="mogh0001-2" xml:lang="grc">μηνος</w> <w xml:id="mogh0001-3" xml:lang="grc">Ὑπερβερτόυ</w> <w xml:id="mogh0001-4" xml:lang="grc"><num value="20">κ</num></w> <w xml:id="mogh0001-5" xml:lang="grc">ανηος</w> <w xml:id="mogh0001-6" xml:lang="grc">δνου</w> <w xml:id="mogh0001-7" xml:lang="grc"><supplied reason="lost">Ἀσκα</supplied>λουνήτης</w></p>
+        <div type="edition" subtype="transcription_segmented"><p> <w xml:id="mogh0001-1" xml:lang="grc"><num value="620">κχ</num></w> <w xml:id="mogh0001-2" xml:lang="grc">μηνος</w> <w xml:id="mogh0001-3" xml:lang="grc">Ὑπερβερτόυ</w> <w xml:id="mogh0001-4" xml:lang="grc"><num value="20">κ</num></w> <w xml:id="mogh0001-5" xml:lang="grc"><orig>ανηος</orig></w> <w xml:id="mogh0001-6" xml:lang="grc"><orig>δνου</orig></w> <w xml:id="mogh0001-7" xml:lang="grc"><supplied reason="lost">Ἀσκα</supplied>λουνήτης</w></p>
 </div>
 </body>
         <back>

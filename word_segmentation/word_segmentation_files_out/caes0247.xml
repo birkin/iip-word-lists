@@ -121,7 +121,7 @@
             <p>The memorial of <persName xml:lang="grc " ref="persons.xml#caes0247p01">Hierissa </persName> (daughter?) of <persName xml:lang="grc " ref="persons.xml#caes0247p02">Tasella</persName>...
 				</p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="caes0247-1" xml:lang="grc">μημόριον</w> <w xml:id="caes0247-2" xml:lang="grc">Ἱερίσσας</w> <w xml:id="caes0247-3" xml:lang="grc">τῆς</w> <w xml:id="caes0247-4" xml:lang="grc">Τασέλλας</w> <w xml:id="caes0247-5" xml:lang="grc"/></p>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="caes0247-1" xml:lang="grc">μημόριον</w> <w xml:id="caes0247-2" xml:lang="grc">Ἱερίσσας</w> <w xml:id="caes0247-3" xml:lang="grc">τῆς</w> <w xml:id="caes0247-4" xml:lang="grc">Τασέλλας</w> </p>
 </div>
 </body>
       <back>

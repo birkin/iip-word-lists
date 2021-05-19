@@ -129,7 +129,7 @@
                <lb/>
                <gap reason="lost" unit="character" extent="unknown"/><supplied reason="undefined">χα</supplied>ρίσαιτο<gap reason="lost" unit="character" extent="unknown"/></p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="hamm0068-1" xml:lang="grc"><supplied reason="undefined">θερινὸν</supplied></w> <w xml:id="hamm0068-2" xml:lang="grc"><supplied reason="undefined">εἰαρινόν</supplied></w> <w xml:id="hamm0068-3" xml:lang="grc"><supplied reason="undefined">τε</supplied></w> <w xml:id="hamm0068-4" xml:lang="grc"><supplied reason="undefined">χα</supplied>ρίσαιτο</w></p>
+      <div type="edition" subtype="transcription_segmented"><p> <w xml:id="hamm0068-1" xml:lang="grc"><supplied reason="undefined">θερινὸν</supplied></w> <w xml:id="hamm0068-2" xml:lang="grc"><supplied reason="undefined">εἰαρινόν</supplied></w> <w xml:id="hamm0068-3" xml:lang="grc"><supplied reason="undefined">τε</supplied></w> <w xml:id="hamm0068-4" xml:lang="grc"><supplied reason="undefined">χα</supplied>ρίσαιτο</w> </p>
 </div>
 </body>
       <back>

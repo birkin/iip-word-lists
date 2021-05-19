@@ -177,17 +177,16 @@
             <!-- figure out how include linking mechanism to link divs to bibl.  add a ref inside an ab inside the div-->
             <div type="edition" subtype="transcription" ana="b1" xml:lang="heb">
                 <p><lb/>
-               <gap reason="lost" unit="character" extent="unknown"/>
-               <hi rend="stacked">ט</hi>ס<gap reason="lost" unit="character" extent="unknown"/>
-               <unclear>י</unclear>
-               <hi rend="stacked">ב</hi>פ<hi rend="stacked">ט</hi>ס <gap reason="lost" unit="character" extent="unknown"/>
-               <gap reason="lost" unit="character" extent="unknown"/> מנ
-                        <gap reason="lost" unit="character" extent="unknown"/>
-               <gap reason="lost" unit="character" extent="unknown"/>
-               <lb/>
-               <gap reason="lost" unit="character" extent="unknown"/>לה<gap reason="lost" unit="character" extent="unknown"/>
-               <gap reason="lost" unit="character" extent="unknown"/>
-            </p>
+                    <gap reason="lost" unit="character" extent="unknown"/>
+                    <orig><hi rend="stacked">ט</hi>ס</orig><gap reason="lost" unit="character" extent="unknown"/>
+                    <orig><unclear>י</unclear><hi rend="stacked">ב</hi>פ<hi rend="stacked">ט</hi>ס</orig>
+                    <gap reason="lost" unit="character" extent="unknown"/>
+                    <gap reason="lost" unit="character" extent="unknown"/> מן <gap reason="lost" unit="character" extent="unknown"/>
+                    <gap reason="lost" unit="character" extent="unknown"/>
+                    <lb/>
+                    <gap reason="lost" unit="character" extent="unknown"/><orig>לה</orig><gap reason="lost" unit="character" extent="unknown"/>
+                    <gap reason="lost" unit="character" extent="unknown"/>
+                </p>
             </div>
             <div type="edition" subtype="diplomatic" ana="b1" xml:lang="heb">
                 <p/>
@@ -204,7 +203,7 @@
             </div>
             <!-- The bibl has more contained elements. What is the possible list of values of the biblScope/@type? 
              -->
-        <div type="edition" subtype="transcription_segmented"><p><w xml:id="mger0218-1" xml:lang="arc"/> <w xml:id="mger0218-2" xml:lang="arc"><hi rend="stacked">ט</hi>ס</w> <w xml:id="mger0218-3" xml:lang="arc"><unclear>י</unclear></w> <w xml:id="mger0218-4" xml:lang="arc"><hi rend="stacked">ב</hi>פ<hi rend="stacked">ט</hi>ס</w> <w xml:id="mger0218-5" xml:lang="arc">מנ</w> <w xml:id="mger0218-6" xml:lang="arc">לה</w> <w xml:id="mger0218-7" xml:lang="arc"/></p>
+        <div type="edition" subtype="transcription_segmented"><p> <w xml:id="mger0218-1" xml:lang="arc"><orig><hi rend="stacked">ט</hi>ס</orig></w> <w xml:id="mger0218-2" xml:lang="arc"><orig><unclear>י</unclear><hi rend="stacked">ב</hi>פ<hi rend="stacked">ט</hi>ס</orig></w> <w xml:id="mger0218-3" xml:lang="arc">מן</w> <w xml:id="mger0218-4" xml:lang="arc"><orig>לה</orig></w> </p>
 </div>
 </body>
         <back>

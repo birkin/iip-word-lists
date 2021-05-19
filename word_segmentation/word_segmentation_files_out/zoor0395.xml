@@ -129,8 +129,8 @@
                 <p/>
             </div>
             <div type="edition" subtype="transcription" ana="b1" xml:lang="heb">
-                <p>הדה נפשׁה<lb/>דיוחנה ברתה<lb/>ד<orig>קוקס</orig> דמיתת<lb/>שׁנת
-                    מאתין<lb/>ותמנין ושׁת<lb/>שׁנין לחרבנ<lb/>בית מקדשׁה</p>
+                <p>הדה נפשה<lb/>דיוחנה ברתה<lb/>ד<orig>קוקס</orig> דמיתת<lb/>שנת מאתין<lb/>ותמנין
+                    ושת<lb/>שנין לחרבנ<lb/>בית מקדשה</p>
             </div>
             <div type="translation" ana="b1">
                 <p>This is the tombstone of Yohanna, daughter of QWQS, who died in the year two
@@ -139,7 +139,7 @@
             <div type="commentary" ana="b1">
                 <p/>
             </div>
-        <div type="edition" subtype="transcription_segmented"><p><w xml:id="zoor0395-1" xml:lang="arc">הדה</w> <w xml:id="zoor0395-2" xml:lang="arc">נפשׁה</w> <w xml:id="zoor0395-3" xml:lang="arc">דיוחנה</w> <w xml:id="zoor0395-4" xml:lang="arc">ברתה</w> <w xml:id="zoor0395-5" xml:lang="arc">ד<orig>קוקס</orig></w> <w xml:id="zoor0395-6" xml:lang="arc">דמיתת</w> <w xml:id="zoor0395-7" xml:lang="arc">שׁנת</w> <w xml:id="zoor0395-8" xml:lang="arc">מאתין</w> <w xml:id="zoor0395-9" xml:lang="arc">ותמנין</w> <w xml:id="zoor0395-10" xml:lang="arc">ושׁת</w> <w xml:id="zoor0395-11" xml:lang="arc">שׁנין</w> <w xml:id="zoor0395-12" xml:lang="arc">לחרבנ</w> <w xml:id="zoor0395-13" xml:lang="arc">בית</w> <w xml:id="zoor0395-14" xml:lang="arc">מקדשׁה</w></p>
+        <div type="edition" subtype="transcription_segmented"><p><w xml:id="zoor0395-1" xml:lang="arc">הדה</w> <w xml:id="zoor0395-2" xml:lang="arc">נפשה</w> <w xml:id="zoor0395-3" xml:lang="arc">דיוחנה</w> <w xml:id="zoor0395-4" xml:lang="arc">ברתה</w> <w xml:id="zoor0395-5" xml:lang="arc">ד<orig>קוקס</orig></w> <w xml:id="zoor0395-6" xml:lang="arc">דמיתת</w> <w xml:id="zoor0395-7" xml:lang="arc">שנת</w> <w xml:id="zoor0395-8" xml:lang="arc">מאתין</w> <w xml:id="zoor0395-9" xml:lang="arc">ותמנין</w> <w xml:id="zoor0395-10" xml:lang="arc">ושת</w> <w xml:id="zoor0395-11" xml:lang="arc">שנין</w> <w xml:id="zoor0395-12" xml:lang="arc">לחרבנ</w> <w xml:id="zoor0395-13" xml:lang="arc">בית</w> <w xml:id="zoor0395-14" xml:lang="arc">מקדשה</w></p>
 </div>
 </body>
         <back>

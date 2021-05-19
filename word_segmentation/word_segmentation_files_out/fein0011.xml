@@ -135,17 +135,17 @@
                <g type="cross">+</g>
                <g type="palm-branch"/>
                <lb/>
-               <g type="cross">+</g>Στ<supplied reason="omitted">ή</supplied><lb break="no"/>λη τοῦ <expan><abbr><unclear>μ</unclear><lb break="no"/>ακαρ</abbr><ex>ίου</ex></expan>
+               <g type="cross">+</g> Στ<supplied reason="omitted">ή</supplied><lb break="no"/>λη τοῦ
+                        <expan><abbr><unclear>μ</unclear><lb break="no"/>ακαρ</abbr><ex>ίου</ex></expan>
                <orig>ΒΑ</orig>
                <lb/>
                <gap reason="lost" quantity="4" unit="character"/>
-               <orig>ΟΥ</orig>.
-                  <g type="cross"/></p>
+               <orig>ΟΥ</orig>. <g type="cross"/></p>
          </div>
          <div type="translation" ana="#b1" xml:id="zoor0361.translation" corresp="#zoor0361.transcription">
             <p>Stele of the<lb/>blessed Va...</p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="fein0011-1" xml:lang="grc"><g type="palm-branch"/></w> <w xml:id="fein0011-2" xml:lang="grc"><g type="cross">+</g></w> <w xml:id="fein0011-3" xml:lang="grc"><g type="palm-branch"/></w> <w xml:id="fein0011-4" xml:lang="grc"><g type="cross">+</g>Στ<supplied reason="omitted">ή</supplied>λη</w> <w xml:id="fein0011-5" xml:lang="grc">τοῦ</w> <w xml:id="fein0011-6" xml:lang="grc"><expan><abbr><unclear>μ</unclear>ακαρ</abbr><ex>ίου</ex></expan></w> <w xml:id="fein0011-7" xml:lang="grc"><orig>ΒΑ</orig></w> <w xml:id="fein0011-8" xml:lang="grc"><orig>ΟΥ</orig>.</w> <w xml:id="fein0011-9" xml:lang="grc"><g type="cross"/></w></p>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="fein0011-1" xml:lang="grc"><g type="palm-branch"/></w> <w xml:id="fein0011-2" xml:lang="grc"><g type="cross">+</g></w> <w xml:id="fein0011-3" xml:lang="grc"><g type="palm-branch"/></w> <w xml:id="fein0011-4" xml:lang="grc"><g type="cross">+</g></w> <w xml:id="fein0011-5" xml:lang="grc">Στ<supplied reason="omitted">ή</supplied>λη</w> <w xml:id="fein0011-6" xml:lang="grc">τοῦ</w> <w xml:id="fein0011-7" xml:lang="grc"><expan><abbr><unclear>μ</unclear>ακαρ</abbr><ex>ίου</ex></expan></w> <w xml:id="fein0011-8" xml:lang="grc"><orig>ΒΑ</orig></w> <w xml:id="fein0011-9" xml:lang="grc"><orig>ΟΥ</orig>.</w> <w xml:id="fein0011-10" xml:lang="grc"><g type="cross"/></w></p>
 </div>
 </body>
       <back>

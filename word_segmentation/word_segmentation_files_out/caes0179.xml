@@ -126,7 +126,7 @@
                <gap reason="lost" extent="unknown" unit="character"/><lb/><g type="menorah"/>
                <g type="lulav"/></p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="caes0179-1" xml:lang="grc"/> <w xml:id="caes0179-2" xml:lang="grc"><g type="menorah"/></w> <w xml:id="caes0179-3" xml:lang="grc"><g type="lulav"/></w></p>
+      <div type="edition" subtype="transcription_segmented"><p> <w xml:id="caes0179-1" xml:lang="grc"><g type="menorah"/></w> <w xml:id="caes0179-2" xml:lang="grc"><g type="lulav"/></w></p>
 </div>
 </body>
       <back>

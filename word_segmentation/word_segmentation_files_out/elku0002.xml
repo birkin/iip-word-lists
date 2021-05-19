@@ -117,13 +117,13 @@
 				</p>
          </div>
          <div type="edition" ana="#b1" subtype="transcription" xml:id="elku0002.transcription" corresp="#elku0002.diplomatic #elku0002.translation">
-            <p>+ Κόνωνος</p>
+            <p><g>+</g> Κόνωνος</p>
          </div>
          <div type="translation" ana="#b1" xml:id="elku0002.translation" corresp="#elku0002.diplomatic #elku0002.transcription">
             <p>of Konon
 				</p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="elku0002-1" xml:lang="grc">+</w> <w xml:id="elku0002-2" xml:lang="grc">Κόνωνος</w></p>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="elku0002-1" xml:lang="grc"><g>+</g></w> <w xml:id="elku0002-2" xml:lang="grc">Κόνωνος</w></p>
 </div>
 </body>
       <back>

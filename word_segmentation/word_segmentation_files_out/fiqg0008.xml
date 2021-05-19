@@ -116,7 +116,9 @@
    <text>
       <body>
          <div type="edition" ana="#b1" subtype="transcription" xml:id="fiqg0008.transcription" corresp="#fiqg0008.diplomatic #fiqg0008.translation">
-            <p><unclear>Θά</unclear>ρσει <lb/><gap reason="illegible" quantity="2" unit="character"/>υκυν<lb/><gap reason="illegible" quantity="1" unit="character"/>ρη <supplied reason="undefined">ἐτῶν</supplied> <num value="60">ξ</num></p>
+            <p><unclear>Θά</unclear>ρσει <lb/><gap reason="illegible" quantity="2" unit="character"/><orig>υκυν</orig><lb/><gap reason="illegible" quantity="1" unit="character"/><orig>ρη</orig>
+               <supplied reason="undefined">ἐτῶν</supplied>
+               <num value="60">ξ</num></p>
          </div>
          <div type="edition" ana="#b1" subtype="diplomatic" xml:id="fiqg0008.diplomatic" corresp="#fiqg0008.transcription #fiqg0008.translation">
             <p>ΘΑΡΣΕΙ<lb/>
@@ -127,7 +129,7 @@
          <div type="translation" ana="#b1" xml:id="fiqg0008.translation" corresp="#fiqg0008.transcription #fiqg0008.diplomatic">
             <p>Be of good courage, .... ykyn. re(?). Sixty years old.</p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="fiqg0008-1" xml:lang="grc"><unclear>Θά</unclear>ρσει</w> <w xml:id="fiqg0008-2" xml:lang="grc">υκυν</w> <w xml:id="fiqg0008-3" xml:lang="grc">ρη</w> <w xml:id="fiqg0008-4" xml:lang="grc"><supplied reason="undefined">ἐτῶν</supplied></w> <w xml:id="fiqg0008-5" xml:lang="grc"><num value="60">ξ</num></w></p>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="fiqg0008-1" xml:lang="grc"><unclear>Θά</unclear>ρσει</w> <w xml:id="fiqg0008-2" xml:lang="grc"><orig>υκυν</orig></w> <w xml:id="fiqg0008-3" xml:lang="grc"><orig>ρη</orig></w> <w xml:id="fiqg0008-4" xml:lang="grc"><supplied reason="undefined">ἐτῶν</supplied></w> <w xml:id="fiqg0008-5" xml:lang="grc"><num value="60">ξ</num></w></p>
 </div>
 </body>
       <back>

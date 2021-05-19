@@ -120,14 +120,13 @@
                 </p>
          </div>
          <div type="edition" ana="#b1" subtype="transcription" xml:id="elal0015.transcription" corresp="#elal0015.diplomatic #elal0015.translation">
-            <p>Δημη<lb/>
-                    τρία<lb/>
+            <p>Δημη<lb break="no"/>τρία<lb/>
                     χαῖρε<lb/></p>
          </div>
          <div type="translation" ana="#b1" xml:id="elal0015.translation" corresp="#elal0015.diplomatic #elal0015.transcription">
             <p> Demetria, farewell! </p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="elal0015-1" xml:lang="grc">Δημη</w> <w xml:id="elal0015-2" xml:lang="grc">τρία</w> <w xml:id="elal0015-3" xml:lang="grc">χαῖρε</w> <w xml:id="elal0015-4" xml:lang="grc"/></p>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="elal0015-1" xml:lang="grc">Δημητρία</w> <w xml:id="elal0015-2" xml:lang="grc">χαῖρε</w> </p>
 </div>
 </body>
       <back>

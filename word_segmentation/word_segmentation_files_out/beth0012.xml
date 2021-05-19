@@ -113,7 +113,7 @@
    <text>
       <body>
          <div type="edition" ana="#b2" subtype="transcription" xml:id="beth0012.transcription" corresp="#beth0012.translation">
-            <p><supplied reason="omitted">Θυμ</supplied> Τόπος Θύμησ<lb/> τῶν Ἀ<lb break="no"/>μαση</p>
+            <p><supplied reason="omitted">Θυμ</supplied> Τόπος Θύμης<lb/> τῶν Ἀ<lb break="no"/>μαση</p>
          </div>
          <div type="translation" ana="#b2" xml:id="beth0012.translation" corresp="#beth0012.transcription">
             <p>
@@ -122,7 +122,7 @@
 						family of <persName xml:lang="arc " ref="persons.xml#beth0012p02">Amase </persName>
                </name>.</p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="beth0012-1" xml:lang="grc"><supplied reason="omitted">Θυμ</supplied></w> <w xml:id="beth0012-2" xml:lang="grc">Τόπος</w> <w xml:id="beth0012-3" xml:lang="grc">Θύμησ</w> <w xml:id="beth0012-4" xml:lang="grc">τῶν</w> <w xml:id="beth0012-5" xml:lang="grc">Ἀμαση</w></p>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="beth0012-1" xml:lang="grc"><supplied reason="omitted">Θυμ</supplied></w> <w xml:id="beth0012-2" xml:lang="grc">Τόπος</w> <w xml:id="beth0012-3" xml:lang="grc">Θύμης</w> <w xml:id="beth0012-4" xml:lang="grc">τῶν</w> <w xml:id="beth0012-5" xml:lang="grc">Ἀμαση</w></p>
 </div>
 </body>
       <back>

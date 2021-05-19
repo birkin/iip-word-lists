@@ -121,13 +121,13 @@
          </div>
          <div type="edition" ana="#b1" subtype="transcription" xml:id="khis0080.transcription" corresp="#khis0080.diplomatic #khis0080.translation">
             <p><g type="cross">+</g>
-               <lb/>προσφορά Οὐά<lb/>λεντος διακ<lb/>όνου <expan><ex>Ἀμη</ex><abbr>ν</abbr></expan></p>
+               <lb/>προσφορά Οὐά<lb break="no"/>λεντος διακ<lb break="no"/>όνου <expan><ex>Ἀμη</ex><abbr>ν</abbr></expan></p>
          </div>
          <div type="translation" ana="#b1" xml:id="khis0080.translation" corresp="#khis0080.diplomatic #khis0080.transcription">
             <p>An offering of Valens, a deacon. Amen. 
 				</p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="khis0080-1" xml:lang="grc"><g type="cross">+</g></w> <w xml:id="khis0080-2" xml:lang="grc">προσφορά</w> <w xml:id="khis0080-3" xml:lang="grc">Οὐά</w> <w xml:id="khis0080-4" xml:lang="grc">λεντος</w> <w xml:id="khis0080-5" xml:lang="grc">διακ</w> <w xml:id="khis0080-6" xml:lang="grc">όνου</w> <w xml:id="khis0080-7" xml:lang="grc"><expan><ex>Ἀμη</ex><abbr>ν</abbr></expan></w></p>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="khis0080-1" xml:lang="grc"><g type="cross">+</g></w> <w xml:id="khis0080-2" xml:lang="grc">προσφορά</w> <w xml:id="khis0080-3" xml:lang="grc">Οὐάλεντος</w> <w xml:id="khis0080-4" xml:lang="grc">διακόνου</w> <w xml:id="khis0080-5" xml:lang="grc"><expan><ex>Ἀμη</ex><abbr>ν</abbr></expan></w></p>
 </div>
 </body>
       <back>

@@ -136,7 +136,7 @@
          <div type="translation" ana="#b1" xml:id="suke0001.translation" corresp="#suke0001.diplomatic #suke0001.transcription">
             <p>(There is) one God....health....Germanus(?)</p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="suke0001-1" xml:lang="grc">εἷς</w> <w xml:id="suke0001-2" xml:lang="grc"><expan><abbr><unclear>θ</unclear></abbr><ex>εό</ex><abbr>ς</abbr></expan></w> <w xml:id="suke0001-3" xml:lang="grc"><g>+</g></w> <w xml:id="suke0001-4" xml:lang="grc">ὑγί<unclear>α</unclear></w> <w xml:id="suke0001-5" xml:lang="grc">Γερμα<supplied reason="undefined" cert="low">νός</supplied></w> <w xml:id="suke0001-6" xml:lang="grc"/></p>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="suke0001-1" xml:lang="grc">εἷς</w> <w xml:id="suke0001-2" xml:lang="grc"><expan><abbr><unclear>θ</unclear></abbr><ex>εό</ex><abbr>ς</abbr></expan></w> <w xml:id="suke0001-3" xml:lang="grc"><g>+</g></w> <w xml:id="suke0001-4" xml:lang="grc">ὑγί<unclear>α</unclear></w> <w xml:id="suke0001-5" xml:lang="grc">Γερμα<supplied reason="undefined" cert="low">νός</supplied></w> </p>
 </div>
 </body>
       <back>

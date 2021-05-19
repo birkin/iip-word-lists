@@ -129,12 +129,12 @@
             <p>Μ<gap reason="illegible" unit="character" quantity="2"/>
                <lb/>
                <gap reason="illegible" unit="character" quantity="2"/>ς<lb/>
-               <expan><abbr><supplied reason="undefined">ἐ</supplied>τ</abbr><ex>ῶν</ex></expan> ξ´</p>
+               <expan><abbr><supplied reason="undefined">ἐ</supplied>τ</abbr><ex>ῶν</ex></expan> <num>ξ´</num></p>
          </div>
          <div type="translation" ana="#b1" xml:id="elal0013.translation" corresp="#elal0013.diplomatic #elal0013.transcription">
             <p> Μ....s(?) Sixty years old. </p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="elal0013-1" xml:lang="grc">Μ</w> <w xml:id="elal0013-2" xml:lang="grc">ς</w> <w xml:id="elal0013-3" xml:lang="grc"><expan><abbr><supplied reason="undefined">ἐ</supplied>τ</abbr><ex>ῶν</ex></expan></w> <w xml:id="elal0013-4" xml:lang="grc">ξ´</w></p>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="elal0013-1" xml:lang="grc">Μ</w> <w xml:id="elal0013-2" xml:lang="grc">ς</w> <w xml:id="elal0013-3" xml:lang="grc"><expan><abbr><supplied reason="undefined">ἐ</supplied>τ</abbr><ex>ῶν</ex></expan></w> <w xml:id="elal0013-4" xml:lang="grc"><num>ξ´</num></w></p>
 </div>
 </body>
       <back>

@@ -168,8 +168,8 @@
         <body>
             <!-- figure out how include linking mechanism to link divs to bibl.  add a ref inside an ab inside the div-->
             <div type="edition" subtype="transcription" ana="b1" xml:lang="heb">
-                <p><supplied reason="lost">לד</supplied>כרנ טב קדם אלהא באתרא
-                        ד<unclear>נ</unclear>ה</p>
+                <p><supplied reason="lost">לד</supplied>כרן טב קדם אלהא באתרא
+                    ד<unclear>נ</unclear>ה</p>
             </div>
             <div type="edition" subtype="diplomatic" ana="b1" xml:lang="heb">
                 <p/>
@@ -183,7 +183,7 @@
             </div>
             <!-- The bibl has more contained elements. What is the possible list of values of the biblScope/@type? 
              -->
-        <div type="edition" subtype="transcription_segmented"><p><w xml:id="mger0155-1" xml:lang="arc"><supplied reason="lost">לד</supplied>כרנ</w> <w xml:id="mger0155-2" xml:lang="arc">טב</w> <w xml:id="mger0155-3" xml:lang="arc">קדם</w> <w xml:id="mger0155-4" xml:lang="arc">אלהא</w> <w xml:id="mger0155-5" xml:lang="arc">באתרא</w> <w xml:id="mger0155-6" xml:lang="arc">ד<unclear>נ</unclear>ה</w></p>
+        <div type="edition" subtype="transcription_segmented"><p><w xml:id="mger0155-1" xml:lang="arc"><supplied reason="lost">לד</supplied>כרן</w> <w xml:id="mger0155-2" xml:lang="arc">טב</w> <w xml:id="mger0155-3" xml:lang="arc">קדם</w> <w xml:id="mger0155-4" xml:lang="arc">אלהא</w> <w xml:id="mger0155-5" xml:lang="arc">באתרא</w> <w xml:id="mger0155-6" xml:lang="arc">ד<unclear>נ</unclear>ה</w></p>
 </div>
 </body>
         <back>

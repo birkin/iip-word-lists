@@ -114,7 +114,7 @@
          <div type="edition" ana="#b1" subtype="transcription" xml:id="kafr0001.transcription">
             <p><gap reason="lost" unit="character" extent="unknown"/><orig>ΣΑΤΑΔ</orig><gap reason="lost" unit="character" extent="unknown"/></p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="kafr0001-1" xml:lang="grc"><orig>ΣΑΤΑΔ</orig></w></p>
+      <div type="edition" subtype="transcription_segmented"><p> <w xml:id="kafr0001-1" xml:lang="grc"><orig>ΣΑΤΑΔ</orig></w> </p>
 </div>
 </body>
       <back>

@@ -141,7 +141,7 @@
             <div type="commentary" ana="b1">
                 <p/>
             </div>
-        <div type="edition" subtype="transcription_segmented"><p><w xml:id="bker0001-1" xml:lang="grc"/> <w xml:id="bker0001-2" xml:lang="grc">Χαίρεσθε</w> <w xml:id="bker0001-3" xml:lang="grc"><expan><abbr>Θ</abbr><ex>εο</ex><abbr>ῦ</abbr></expan></w> <w xml:id="bker0001-4" xml:lang="grc">μάρτυρες</w></p>
+        <div type="edition" subtype="transcription_segmented"><p> <w xml:id="bker0001-1" xml:lang="grc">Χαίρεσθε</w> <w xml:id="bker0001-2" xml:lang="grc"><expan><abbr>Θ</abbr><ex>εο</ex><abbr>ῦ</abbr></expan></w> <w xml:id="bker0001-3" xml:lang="grc">μάρτυρες</w></p>
 </div>
 </body>
         <back>

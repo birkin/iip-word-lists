@@ -111,15 +111,13 @@
    <text>
       <body>
          <div type="edition" ana="#b1" subtype="transcription" xml:id="beth0170.transcription" corresp="#beth0170.translation">
-            <p>1. Παυλίνου<lb/>
- 2. Παυ<lb break="no"/>λίνου <lb/> 3.
-					Παυλί<lb break="no"/>νου</p>
+            <p>Παυλίνου<lb/>Παυ<lb break="no"/>λίνου <lb/> Παυλί<lb break="no"/>νου</p>
          </div>
          <div type="translation" ana="#b1" xml:id="beth0170.translation" corresp="#beth0170.transcription">
             <p>Of <persName xml:lang="la " ref="persons.xml#beth0170p01">Paulinus </persName>
             </p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="beth0170-1" xml:lang="grc">1.</w> <w xml:id="beth0170-2" xml:lang="grc">Παυλίνου</w> <w xml:id="beth0170-3" xml:lang="grc">2.</w> <w xml:id="beth0170-4" xml:lang="grc">Παυλίνου</w> <w xml:id="beth0170-5" xml:lang="grc">3.</w> <w xml:id="beth0170-6" xml:lang="grc">Παυλίνου</w></p>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="beth0170-1" xml:lang="grc">Παυλίνου</w> <w xml:id="beth0170-2" xml:lang="grc">Παυλίνου</w> <w xml:id="beth0170-3" xml:lang="grc">Παυλίνου</w></p>
 </div>
 </body>
       <back>

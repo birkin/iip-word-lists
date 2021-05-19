@@ -123,7 +123,7 @@
                 <p/>
             </div>
             <div type="edition" subtype="transcription" ana="b1">
-                <p><unclear>β</unclear></p>
+                <p><orig><unclear>β</unclear></orig></p>
             </div>
             <div type="translation">
                 <p/>
@@ -131,7 +131,7 @@
             <div type="commentary" ana="b1">
                 <p>May be a ligature</p>
             </div>
-        <div type="edition" subtype="transcription_segmented"><p><w xml:id="mare0468-1" xml:lang="grc"><unclear>β</unclear></w></p>
+        <div type="edition" subtype="transcription_segmented"><p><w xml:id="mare0468-1" xml:lang="grc"><orig><unclear>β</unclear></orig></w></p>
 </div>
 </body>
         <back>

@@ -114,12 +114,12 @@
    <text>
       <body>
          <div type="edition" ana="#b1" xml:lang="grc" subtype="transcription" xml:id="carm0003.transcription" corresp="#carm0003.translation">
-            <p>Μνησ<lb break="no"/>θῶσιν <lb/>Ζώσυσ <lb/>Καί Εἴ<lb break="no"/>μερις</p>
+            <p>Μνησ<lb break="no"/>θῶσιν <lb/>Ζώσυς <lb/>Καί Εἴ<lb break="no"/>μερις</p>
          </div>
          <div type="translation" ana="#b1" xml:id="carm0003.translation" corresp="#carm0003.transcription">
             <p>Be remembered Zosys and Imeris</p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="carm0003-1" xml:lang="grc">Μνησθῶσιν</w> <w xml:id="carm0003-2" xml:lang="grc">Ζώσυσ</w> <w xml:id="carm0003-3" xml:lang="grc">Καί</w> <w xml:id="carm0003-4" xml:lang="grc">Εἴμερις</w></p>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="carm0003-1" xml:lang="grc">Μνησθῶσιν</w> <w xml:id="carm0003-2" xml:lang="grc">Ζώσυς</w> <w xml:id="carm0003-3" xml:lang="grc">Καί</w> <w xml:id="carm0003-4" xml:lang="grc">Εἴμερις</w></p>
 </div>
 </body>
       <back>

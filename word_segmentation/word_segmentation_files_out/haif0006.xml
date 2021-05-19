@@ -169,8 +169,8 @@
                <lb/>ΜΝΗΣΘΗΟΥ<lb/>ΑΛΕΡΙΣΚΑΙ<lb/>ΨΑΛΜΙΣΚΑΙ</p>
             </div>
             <div type="edition" subtype="transcription" ana="b1">
-                <p>Μνησθῇ<lb/>Οὐλ<gap reason="lost" extent="unknown" unit="character"/>
-               <lb/>Μνησθῇ Οὐ<lb break="no"/>αλέριος καὶ<lb/>Ψάλμις καὶ <gap reason="lost" extent="unknown" unit="character"/></p>
+                <p>Μνησθῇ<lb/><orig>Οὐλ</orig><gap reason="lost" extent="unknown" unit="character"/>
+                    <lb/>Μνησθῇ Οὐ<lb break="no"/>αλέριος καὶ<lb/>Ψάλμις καὶ <gap reason="lost" extent="unknown" unit="character"/></p>
             </div>
             <div type="translation" ana="b1">
                 <p>Remembered Val... <lb/>Remembered Valerius and Psalmus<lb/>and [...]</p>
@@ -180,7 +180,7 @@
             </div>
             <!-- The bibl has more contained elements. What is the possible list of values of the biblScope/@type? 
              -->
-        <div type="edition" subtype="transcription_segmented"><p><w xml:id="haif0006-1" xml:lang="grc">Μνησθῇ</w> <w xml:id="haif0006-2" xml:lang="grc">Οὐλ</w> <w xml:id="haif0006-3" xml:lang="grc">Μνησθῇ</w> <w xml:id="haif0006-4" xml:lang="grc">Οὐαλέριος</w> <w xml:id="haif0006-5" xml:lang="grc">καὶ</w> <w xml:id="haif0006-6" xml:lang="grc">Ψάλμις</w> <w xml:id="haif0006-7" xml:lang="grc">καὶ</w> <w xml:id="haif0006-8" xml:lang="grc"/></p>
+        <div type="edition" subtype="transcription_segmented"><p><w xml:id="haif0006-1" xml:lang="grc">Μνησθῇ</w> <w xml:id="haif0006-2" xml:lang="grc"><orig>Οὐλ</orig></w> <w xml:id="haif0006-3" xml:lang="grc">Μνησθῇ</w> <w xml:id="haif0006-4" xml:lang="grc">Οὐαλέριος</w> <w xml:id="haif0006-5" xml:lang="grc">καὶ</w> <w xml:id="haif0006-6" xml:lang="grc">Ψάλμις</w> <w xml:id="haif0006-7" xml:lang="grc">καὶ</w> </p>
 </div>
 </body>
         <back>

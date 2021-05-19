@@ -174,17 +174,13 @@
                 <p/>
             </div>
             <div type="edition" subtype="transcription" ana="b1" xml:lang="heb">
-                <p><supplied reason="lost">זי</supplied>
-                        ה<unclear>ק</unclear>
-               <supplied reason="lost">רב</supplied>
-               <gap reason="lost" extent="unknown" unit="character"/>
-               <lb/>
-               <gap reason="lost" extent="unknown" unit="character"/>
-               <supplied reason="lost">ע</supplied>
-               <unclear>לה</unclear>
-               <supplied reason="lost">י</supplied>
-               <gap reason="lost" extent="unknown" unit="character"/>
-            </p>
+                <p><supplied reason="lost">זי</supplied> ה<unclear>ק</unclear><supplied reason="lost">רב</supplied>
+                    <gap reason="lost" extent="unknown" unit="character"/>
+                    <lb/>
+                    <gap reason="lost" extent="unknown" unit="character"/>
+                    <supplied reason="lost">ע</supplied><unclear>לה</unclear><supplied reason="lost">י</supplied>
+                    <gap reason="lost" extent="unknown" unit="character"/>
+                </p>
             </div>
             <div type="translation" ana="b1">
                 <p>[That which] offer[ed...<lb/>...fo]r hi[m...</p>
@@ -194,7 +190,7 @@
             </div>
             <!-- The bibl has more contained elements. What is the possible list of values of the biblScope/@type? 
              -->
-        <div type="edition" subtype="transcription_segmented"><p><w xml:id="mger0081-1" xml:lang="arc"><supplied reason="lost">זי</supplied></w> <w xml:id="mger0081-2" xml:lang="arc">ה<unclear>ק</unclear></w> <w xml:id="mger0081-3" xml:lang="arc"><supplied reason="lost">רב</supplied></w> <w xml:id="mger0081-4" xml:lang="arc"><supplied reason="lost">ע</supplied></w> <w xml:id="mger0081-5" xml:lang="arc"><unclear>לה</unclear></w> <w xml:id="mger0081-6" xml:lang="arc"><supplied reason="lost">י</supplied></w> <w xml:id="mger0081-7" xml:lang="arc"/></p>
+        <div type="edition" subtype="transcription_segmented"><p><w xml:id="mger0081-1" xml:lang="arc"><supplied reason="lost">זי</supplied></w> <w xml:id="mger0081-2" xml:lang="arc">ה<unclear>ק</unclear><supplied reason="lost">רב</supplied></w> <w xml:id="mger0081-3" xml:lang="arc"><supplied reason="lost">ע</supplied><unclear>לה</unclear><supplied reason="lost">י</supplied></w> </p>
 </div>
 </body>
         <back>

@@ -194,7 +194,7 @@
             </div>
             <!-- The bibl has more contained elements. What is the possible list of values of the biblScope/@type? 
              -->
-        <div type="edition" subtype="transcription_segmented"><p><w xml:id="masa0793-1" xml:lang="grc"/> <w xml:id="masa0793-2" xml:lang="grc"><orig><unclear>ι</unclear>ον</orig></w> <w xml:id="masa0793-3" xml:lang="grc">καἰ</w> <w xml:id="masa0793-4" xml:lang="grc"><orig>σ</orig></w> <w xml:id="masa0793-5" xml:lang="grc"><orig>ι</orig></w> <w xml:id="masa0793-6" xml:lang="grc">νικ<unclear>ᾷ</unclear>ς</w> <w xml:id="masa0793-7" xml:lang="grc">Σατα<supplied reason="lost">ν</supplied></w> <w xml:id="masa0793-8" xml:lang="grc"><orig>ονας</orig></w></p>
+        <div type="edition" subtype="transcription_segmented"><p> <w xml:id="masa0793-1" xml:lang="grc"><orig><unclear>ι</unclear>ον</orig></w> <w xml:id="masa0793-2" xml:lang="grc">καἰ</w> <w xml:id="masa0793-3" xml:lang="grc"><orig>σ</orig></w> <w xml:id="masa0793-4" xml:lang="grc"><orig>ι</orig></w> <w xml:id="masa0793-5" xml:lang="grc">νικ<unclear>ᾷ</unclear>ς</w> <w xml:id="masa0793-6" xml:lang="grc">Σατα<supplied reason="lost">ν</supplied></w> <w xml:id="masa0793-7" xml:lang="grc"><orig>ονας</orig></w></p>
 </div>
 </body>
         <back>

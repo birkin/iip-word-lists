@@ -168,15 +168,14 @@
             <!-- figure out how include linking mechanism to link divs to bibl.  add a ref inside an ab inside the div-->
             <div type="edition" subtype="transcription" ana="b1" xml:lang="heb">
                 <p><lb/>
-               <gap reason="lost" extent="unknown" unit="character"/>
-               <supplied reason="lost">מ</supplied>
-               <unclear>י</unclear>נ <gap reason="lost" extent="unknown" unit="character"/>
-               <lb/>
-               <gap reason="lost" extent="unknown" unit="character"/>
-               <unclear>ב</unclear>
-               <gap reason="illegible" quantity="1" unit="character"/>
-               <gap reason="lost" extent="unknown" unit="character"/>
-            </p>
+                    <gap reason="lost" extent="unknown" unit="character"/>
+                    <supplied reason="lost">מ</supplied><unclear>י</unclear>ן <gap reason="lost" extent="unknown" unit="character"/>
+                    <lb/>
+                    <gap reason="lost" extent="unknown" unit="character"/>
+                    <orig><unclear>ב</unclear></orig>
+                    <gap reason="illegible" quantity="1" unit="character"/>
+                    <gap reason="lost" extent="unknown" unit="character"/>
+                </p>
             </div>
             <div type="edition" subtype="diplomatic" ana="b1" xml:lang="heb">
                 <p/>
@@ -189,7 +188,7 @@
             </div>
             <!-- The bibl has more contained elements. What is the possible list of values of the biblScope/@type? 
              -->
-        <div type="edition" subtype="transcription_segmented"><p><w xml:id="mger0267-1" xml:lang="arc"/> <w xml:id="mger0267-2" xml:lang="arc"><supplied reason="lost">מ</supplied></w> <w xml:id="mger0267-3" xml:lang="arc"><unclear>י</unclear>נ</w> <w xml:id="mger0267-4" xml:lang="arc"><unclear>ב</unclear></w> <w xml:id="mger0267-5" xml:lang="arc"/></p>
+        <div type="edition" subtype="transcription_segmented"><p> <w xml:id="mger0267-1" xml:lang="arc"><supplied reason="lost">מ</supplied><unclear>י</unclear>ן</w> <w xml:id="mger0267-2" xml:lang="arc"><orig><unclear>ב</unclear></orig></w> </p>
 </div>
 </body>
         <back>

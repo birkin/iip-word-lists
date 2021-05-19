@@ -113,14 +113,17 @@ for strTextFullPath in vTextFullPaths:
 	except:
 		strOtherLanguages = None
 
-	x = xmlText.findall(".//tei:div[@type='edition'][@subtype='transcription']/tei:p", namespaces=nsmap)
+    # test to see if there is a transcription div ?
 
+
+	x = xmlText.findall(".//tei:div[@type='edition'][@subtype='transcription']//tei:p", namespaces=nsmap)
 
 	# Skip it if the text has no textual content,
 	if len(x) < 1:
-		# print('Error in ' + strTextFilename)
+		print('No content ' + strTextFilename)
 		vFoobarred.append(strTextFilename)
 		continue
+		# this should copy the file without changing it.
 
 	# Get script/language from attribute on <p> when it exists
 	# Right now this is unused, according to TEI, defines script (which is already obvious)
@@ -135,6 +138,8 @@ for strTextFullPath in vTextFullPaths:
 		strXMLText = etree.tostring(x[0], encoding='utf8', method='xml').decode('utf-8')
 
 		# add test for empty strXMLText and don't process if it's emtpy
+		if not strXMLText or not len(strXMLText):
+			continue
 
 		# remove all <lb>s
 		strXMLText = re.sub(r"<lb break=\"no\"(\s*)/>", "", strXMLText)
@@ -145,11 +150,11 @@ for strTextFullPath in vTextFullPaths:
 		strXMLText = re.sub(r"<note>([^<]*?)</note>", "", strXMLText)
 
 		# Discard a bunch of stuff that we don't really care about in this context
-		strXMLText = re.sub(r"<([/]*)gap([/]*)>", "", strXMLText)
-		strXMLText = re.sub(r"<([/]*)gap ([^>]*?)>", "", strXMLText)
+		strXMLText = re.sub(r"<([/]*)gap([/]*)>", " ", strXMLText)
+		strXMLText = re.sub(r"<([/]*)gap ([^>]*?)>", " ", strXMLText)
 		strXMLText = re.sub(r"<orgName>(.*?)</orgName>", "", strXMLText)
-		strXMLText = re.sub(r"<([/]*)handShift([^>]*?)>", "", strXMLText)
-		strXMLText = re.sub(r"<space([^>]*?)>", "", strXMLText)
+		strXMLText = re.sub(r"<([/]*)handShift([^>]*?)>", " ", strXMLText)
+		strXMLText = re.sub(r"<space([^>]*?)>", " ", strXMLText)
 
 		# replace every space inside pointy brackets with a bullet
 		# make the w breaks
@@ -170,14 +175,19 @@ for strTextFullPath in vTextFullPaths:
 		strXMLText = re.sub(r"<([^>]*)\s([^>]*)>", "<\\1•\\2>", strXMLText)
 		strXMLText = re.sub(r"<([^>]*)\s([^>]*)>", "<\\1•\\2>", strXMLText)
 
-
+		#convert all spaces within element content in numbers to bullets as
+		# well.
+		# strXMLText = re.sub(r"<(num[^>]*>[^\s]+)\s+", "<\\1•", strXMLText)
 
 		# Convert all whitespace in document to <w>s
 		strXMLText = re.sub(r"\s+", "</w> <w>", strXMLText)
 
 		# Add a start and end <w>
-		strXMLText = re.sub(r'<p([^>]*)>', '<p\\1><w>', strXMLText)
+		strXMLText = re.sub(r'<p([^>]*[^/])>', '<p\\1><w>', strXMLText)
 		strXMLText = re.sub(r"</p>", "</w></p>", strXMLText)
+
+		# remove any empty ws
+		strXMLText = re.sub(r"<w></w>", "", strXMLText)
 
 		# Convert the bullets back to spaces
 		strXMLText = strXMLText.replace("•", " ")
@@ -214,6 +224,8 @@ for strTextFullPath in vTextFullPaths:
 				has_foreign_elem = True
 		if not has_foreign_elem:
 			wordElem.attrib[XML_NS + 'lang'] = strMainLanguage
+
+
 
 	# make new transcription segmented element and append our segmented edition to that
 	body = xmlText.find(".//tei:body", namespaces=nsmap)
@@ -268,7 +280,7 @@ for strSegmentedTextFullPath in vSegmentedTexts:
 		print(strSegmentedTextFullPath)
 		print('#' * 20)
 		continue
-		
+
 	wordElems = xmlText.findall(".//tei:div[@type='edition'][@subtype='transcription_segmented']/tei:p/tei:w", namespaces=nsmap)
 	WORD_COUNT += len(wordElems)
 

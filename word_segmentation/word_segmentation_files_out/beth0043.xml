@@ -128,7 +128,7 @@
                <rs type="religTitle" ana="interpretations.xml#rabbi">rabbi </rs> the <rs type="epithet" ana="interpretations.xml#pious">pious </rs>
                <rs type="formula" ana="interpretations.xml#lies">lies here</rs>. <rs type="formula" ana="interpretations.xml#courage">Have courage</rs>. </p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="beth0043-1" xml:lang="grc"/> <w xml:id="beth0043-2" xml:lang="grc">υἱὸς</w> <w xml:id="beth0043-3" xml:lang="grc">Ἰωσῆ</w> <w xml:id="beth0043-4" xml:lang="grc"><foreign xml:lang="heb">רבי</foreign></w> <w xml:id="beth0043-5" xml:lang="grc">ὅσ<supplied reason="lost">ι</supplied>ος</w> <w xml:id="beth0043-6" xml:lang="grc">ὧδε</w> <w xml:id="beth0043-7" xml:lang="grc">κῖτε</w> <w xml:id="beth0043-8" xml:lang="grc">θά<supplied reason="lost">ρσει</supplied></w></p>
+      <div type="edition" subtype="transcription_segmented"><p> <w xml:id="beth0043-1" xml:lang="grc">υἱὸς</w> <w xml:id="beth0043-2" xml:lang="grc">Ἰωσῆ</w> <w xml:id="beth0043-3" xml:lang="grc"><foreign xml:lang="heb">רבי</foreign></w> <w xml:id="beth0043-4" xml:lang="grc">ὅσ<supplied reason="lost">ι</supplied>ος</w> <w xml:id="beth0043-5" xml:lang="grc">ὧδε</w> <w xml:id="beth0043-6" xml:lang="grc">κῖτε</w> <w xml:id="beth0043-7" xml:lang="grc">θά<supplied reason="lost">ρσει</supplied></w></p>
 </div>
 </body>
       <back>

@@ -164,7 +164,8 @@
             </div>
             <div type="edition" subtype="transcription" ana="b1" xml:lang="heb">
                 <p>ב<num value="11"><g type="eleven-vertical-strokes"/></num> לאדר
-                    שנת <num value="10"><g type="ten-vertical-strokes"/></num><supplied reason="lost" cert="low"><num value="4"><g type="four-vertical-strokes"/></num></supplied><lb/> זבידו קמח חנטן<lb/> ס <num value="17"><g type="seventeen-vertical-strokes"/></num></p>
+                    שנת <num value="10"><g type="ten-vertical-strokes"/></num> <num value="4"><supplied reason="lost" cert="low"><g type="four-vertical-strokes"/></supplied></num>
+                    <lb/> זבידו קמח חנטן<lb/> ס <num value="17"><g type="seventeen-vertical-strokes"/></num></p>
             </div>
             <div type="translation" ana="b1">
                 <p>On the 11th of Adar, year 10[+4=14]<lb/>Zubaydu/Zabidu: flour, wheat<lb/>s(eahs)
@@ -176,7 +177,7 @@
             </div>
             <!-- The bibl has more contained elements. What is the possible list of values of the biblScope/@type? 
              -->
-        <div type="edition" subtype="transcription_segmented"><p><w xml:id="idum0438-1" xml:lang="arc">ב<num value="11"><g type="eleven-vertical-strokes"/></num></w> <w xml:id="idum0438-2" xml:lang="arc">לאדר</w> <w xml:id="idum0438-3" xml:lang="arc">שנת</w> <w xml:id="idum0438-4" xml:lang="arc"><num value="10"><g type="ten-vertical-strokes"/></num><supplied reason="lost" cert="low"><num value="4"><g type="four-vertical-strokes"/></num></supplied></w> <w xml:id="idum0438-5" xml:lang="arc">זבידו</w> <w xml:id="idum0438-6" xml:lang="arc">קמח</w> <w xml:id="idum0438-7" xml:lang="arc">חנטן</w> <w xml:id="idum0438-8" xml:lang="arc">ס</w> <w xml:id="idum0438-9" xml:lang="arc"><num value="17"><g type="seventeen-vertical-strokes"/></num></w></p>
+        <div type="edition" subtype="transcription_segmented"><p><w xml:id="idum0438-1" xml:lang="arc">ב<num value="11"><g type="eleven-vertical-strokes"/></num></w> <w xml:id="idum0438-2" xml:lang="arc">לאדר</w> <w xml:id="idum0438-3" xml:lang="arc">שנת</w> <w xml:id="idum0438-4" xml:lang="arc"><num value="10"><g type="ten-vertical-strokes"/></num></w> <w xml:id="idum0438-5" xml:lang="arc"><num value="4"><supplied reason="lost" cert="low"><g type="four-vertical-strokes"/></supplied></num></w> <w xml:id="idum0438-6" xml:lang="arc">זבידו</w> <w xml:id="idum0438-7" xml:lang="arc">קמח</w> <w xml:id="idum0438-8" xml:lang="arc">חנטן</w> <w xml:id="idum0438-9" xml:lang="arc">ס</w> <w xml:id="idum0438-10" xml:lang="arc"><num value="17"><g type="seventeen-vertical-strokes"/></num></w></p>
 </div>
 </body>
         <back>

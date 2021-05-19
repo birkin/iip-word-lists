@@ -122,7 +122,7 @@
             <p>The tomb of <persName xml:lang="grc " ref="persons.xml#caes0157p01">Nonnos </persName> and <persName xml:lang="grc " ref="persons.xml#caes0157p02">Entolios</persName>.
 		  </p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="caes0157-1" xml:lang="grc">Θήκη</w> <w xml:id="caes0157-2" xml:lang="grc">Νόννου</w> <w xml:id="caes0157-3" xml:lang="grc">κὲ</w> <w xml:id="caes0157-4" xml:lang="grc">Ἐντολίου.</w> <w xml:id="caes0157-5" xml:lang="grc"/></p>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="caes0157-1" xml:lang="grc">Θήκη</w> <w xml:id="caes0157-2" xml:lang="grc">Νόννου</w> <w xml:id="caes0157-3" xml:lang="grc">κὲ</w> <w xml:id="caes0157-4" xml:lang="grc">Ἐντολίου.</w> </p>
 </div>
 </body>
       <back>
