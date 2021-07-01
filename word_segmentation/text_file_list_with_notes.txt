@@ -1,0 +1,30 @@
+Files from Elli to test for Word Segmentation:
+
+Latin simple case - very simple!!
+caes0024, fiqg0002
+
+Latin still simple:
+jeru0495
+
+Latin simple with abbreviations
+ashk003b
+
+Latin - abbreviations
+caes0049
+caes0682
+
+Latin - with supplied text
+caes0683
+
+
+Greek single word
+akko0001,
+
+Greek two words
+akko0005,
+
+Greek, several words, with line break
+akko0003 akld0009 caes0446
+
+Greek simple with abbreviation
+akld0003
