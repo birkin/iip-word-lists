@@ -47,7 +47,7 @@ def index_file(filename: str = None) -> Path:
 
     # Add an @id to each child
     for i, word in enumerate(words, start=1):
-        word.set("{http://www.w3.org/XML/1998/namespace}id", f"{fileid}-{i}")
+        word.set("{http://www.w3.org/XML/1998/namespace}id", "%s-%03d" % (fileid, i))
 
     # Save the file
     log.debug("Saving to %s.", outfile)
